@@ -1,0 +1,68 @@
+#!/bin/sh
+# Vectorize data file
+echo "Begin vectorizing: " `date`
+gunzip -c source/ipumsi_00062.dat.gz > data.dat
+sha1sum data.dat > source/ipumsi_00062.dat.gz.sha1
+mkdir data
+cut -c1-3 data.dat | gzip -c - > data/cntry.gz
+cut -c4-7 data.dat | gzip -c - > data/year.gz
+cut -c8-11 data.dat | gzip -c - > data/sample.gz
+cut -c12-21 data.dat | gzip -c - > data/serial.gz
+cut -c22-24 data.dat | gzip -c - > data/persons.gz
+cut -c25-32 data.dat | gzip -c - > data/wthh.gz
+cut -c33-34 data.dat | gzip -c - > data/subsamp.gz
+cut -c35-36 data.dat | gzip -c - > data/gq.gz
+cut -c37-37 data.dat | gzip -c - > data/unrel.gz
+cut -c38-39 data.dat | gzip -c - > data/regionw.gz
+cut -c40-45 data.dat | gzip -c - > data/geolev1.gz
+cut -c46-51 data.dat | gzip -c - > data/geo1a_cn.gz
+cut -c52-53 data.dat | gzip -c - > data/geo1b_cn.gz
+cut -c54-57 data.dat | gzip -c - > data/geo2b_cn.gz
+cut -c58-59 data.dat | gzip -c - > data/hhtype.gz
+cut -c60-60 data.dat | gzip -c - > data/nfams.gz
+cut -c61-61 data.dat | gzip -c - > data/ncoupls.gz
+cut -c62-62 data.dat | gzip -c - > data/nmothrs.gz
+cut -c63-63 data.dat | gzip -c - > data/nfathrs.gz
+cut -c64-66 data.dat | gzip -c - > data/headloc.gz
+cut -c67-73 data.dat | gzip -c - > data/dwnum.gz
+cut -c74-75 data.dat | gzip -c - > data/pern.gz
+cut -c76-76 data.dat | gzip -c - > data/fbig.gz
+cut -c77-78 data.dat | gzip -c - > data/fbig_nh.gz
+cut -c79-80 data.dat | gzip -c - > data/prov.gz
+cut -c81-84 data.dat | gzip -c - > data/prefect.gz
+cut -c85-85 data.dat | gzip -c - > data/hhtya.gz
+cut -c86-86 data.dat | gzip -c - > data/gq.gz
+cut -c87-89 data.dat | gzip -c - > data/pernum.gz
+cut -c90-97 data.dat | gzip -c - > data/wtper.gz
+cut -c98-100 data.dat | gzip -c - > data/momloc.gz
+cut -c101-103 data.dat | gzip -c - > data/poploc.gz
+cut -c104-106 data.dat | gzip -c - > data/sploc.gz
+cut -c107-108 data.dat | gzip -c - > data/parrule.gz
+cut -c109-110 data.dat | gzip -c - > data/sprule.gz
+cut -c111-112 data.dat | gzip -c - > data/pernum.gz
+cut -c113-114 data.dat | gzip -c - > data/pernumo.gz
+cut -c115-115 data.dat | gzip -c - > data/relate.gz
+cut -c116-116 data.dat | gzip -c - > data/sex.gz
+cut -c117-119 data.dat | gzip -c - > data/birthy.gz
+cut -c120-121 data.dat | gzip -c - > data/birthm.gz
+cut -c122-123 data.dat | gzip -c - > data/nation.gz
+cut -c124-124 data.dat | gzip -c - > data/regist.gz
+cut -c125-126 data.dat | gzip -c - > data/res85.gz
+cut -c127-127 data.dat | gzip -c - > data/res85t.gz
+cut -c128-128 data.dat | gzip -c - > data/migreas.gz
+cut -c129-129 data.dat | gzip -c - > data/edlev1.gz
+cut -c130-130 data.dat | gzip -c - > data/edlev2.gz
+cut -c131-132 data.dat | gzip -c - > data/edattan.gz
+cut -c133-135 data.dat | gzip -c - > data/ind.gz
+cut -c136-138 data.dat | gzip -c - > data/occ.gz
+cut -c139-139 data.dat | gzip -c - > data/unempst.gz
+cut -c140-140 data.dat | gzip -c - > data/marst.gz
+cut -c141-142 data.dat | gzip -c - > data/chbornm.gz
+cut -c143-144 data.dat | gzip -c - > data/chbornf.gz
+cut -c145-146 data.dat | gzip -c - > data/chsurvm.gz
+cut -c147-148 data.dat | gzip -c - > data/chsurvf.gz
+cut -c149-150 data.dat | gzip -c - > data/chb89_90.gz
+cut -c151-151 data.dat | gzip -c - > data/hhtyap.gz
+cut -c152-154 data.dat | gzip -c - > data/age.gz
+rm data.dat
+echo "  End vectorizing: " `date`
