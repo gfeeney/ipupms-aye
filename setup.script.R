@@ -1,7 +1,7 @@
 # setup.script.R - GF - 29-Dec-2014
 
 setwd("C:/Users/gfeeney/Desktop/ipums.aye/")
-sample <- "argentina2010"
+samplename <- "argentina2010"
 if (!is.element(sample, dir("samples"))) {stop("sample directory not found")}
 
 # Source functions
@@ -16,7 +16,7 @@ source("getcodebook.R")
 setwd("../../")
 
 # Get vnameprefix
-setwd("samples.metadata") 
+setwd("metadata") 
 x <- readRDS("code.name.year.rds")
 cnysamples <- tolower(paste(x[, "name"], x[, "year"], sep=""))
 cnysamples <- sub(" ", "_", cnysamples)
@@ -25,7 +25,7 @@ vnameprefix <- paste(x[rowselect, 1], substr(x[rowselect, 3], 3, 4), "a_", sep="
 setwd("../")
 
 # Get extract number
-setwd(paste("samples/", sample, "/", sep="")) 
+setwd(paste("samples/", samplename, "/", sep="")) 
 x <- dir("source")                     # Get list of file names in "source" subdirectory
 y  <- x["ipumsi_" == substr(x, 1, 7)]  # Extract number is in file name beginning "ipumsi_"
 z <- substr(y, 8, 12)                  # Extract number is in positions 8-12
@@ -44,7 +44,7 @@ record.layout <- record.layout.create(x, vnnameprefix)        # Create record.la
 saveRDS(record.layout, file="record.layout.rds")              # Save .rds
 codebook <- codebook.create(x)                                # Create codebook data frame
 saveRDS(codebook, file="codebook.rds")                        # Save to .rds
-variable.metadata <- variable.metadata.create(x)              # Create variable.metadata dataframe
+vnames.vdescriptions <- vnames.vdescriptions.create(x)        # Create vnames.vdescriptions dataframe
 saveRDS(variable.metadata, file="variable.descriptions.rds")  # Save to .rds
 setwd("../")
 
