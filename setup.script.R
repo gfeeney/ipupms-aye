@@ -1,4 +1,4 @@
-# setup.script.R - GF - 29-Dec-2014
+# setup.script.R - GF - 29-Dec-2014 Rev 03-Jan-2015
 
 setwd("C:/Users/gfeeney/Desktop/ipums.aye/")
 samplename <- "argentina2010"
@@ -40,28 +40,16 @@ if (!file.exists("metadata")) {
   dir.create("metadata")
 }
 setwd("metadata")  
-record.layout <- record.layout.create(x, vnnameprefix)        # Create record.layout data frame
-saveRDS(record.layout, file="record.layout.rds")              # Save .rds
-codebook <- codebook.create(x)                                # Create codebook data frame
-saveRDS(codebook, file="codebook.rds")                        # Save to .rds
-vnames.vdescriptions <- vnames.vdescriptions.create(x)        # Create vnames.vdescriptions dataframe
-saveRDS(variable.metadata, file="variable.descriptions.rds")  # Save to .rds
+record.layout <- record.layout.create(x, vnnameprefix)           # Create record.layout data frame
+saveRDS(record.layout, file="record.layout.rds")                 # Save .rds
+codebook <- codebook.create(x)                                   # Create codebook data frame
+saveRDS(codebook, file="codebook.rds")                           # Save to .rds
+vnames.vdescriptions <- vnames.vdescriptions.create(x)           # Create vnames.vdescriptions dataframe
+saveRDS(vnames.vdescriptions, file="variable.descriptions.rds")  # Save to .rds
 setwd("../")
 
 # Create vectorization script
-vectorization.script.create(extract.number, record.layout)    # Create vectorization script
+vectorization.script.create(extract.number, record.layout)       # Create vectorization script
 
-# Run vectorization script
-#system("\"C:\\Program Files (x86)\\Git\\bin\\bash -c ./vectorize\"", intern=TRUE, invisible=FALSE)
-
-# Run script from bash shell - Record time below
-# belarus1999      26-Dec-2014  16 minutes
-# bangladesh2011   26-Dec-2014   7 minutes
-# bolivia2001      26-Dec-2014   4 minutes
-# brazil2010       26-Dec-2014 426 minutes 14:47-21:53 => 7 hours 6 minutes
-# burkina_faso2006 26-Dec-2014   7 minutes PROBLEM WITH CODEBOOK SCRIPT
-# cambodia2008     26-Dec-2014   4 minutes
-# cameroon2005     26-Dec-2014   9 minutes
-# canada2001       26-Dec-2014   9 minutes
-# china1990        27-Dec-2014   
-# colombia2005     27-Dec-2014   
+# Run vectorization script from git bash shell
+# brazil2010 run on 26-Dec-2014, took 426 minutes <= 7 hours 6 minutes <= 14:47-21:53

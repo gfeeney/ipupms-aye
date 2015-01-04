@@ -1,0 +1,71 @@
+% LaTeX generi preamble.tex
+
+%\documentclass[11pt, a4paper]{article}   % a4 = 21cm x 29.7cm
+\documentclass[11pt, letterpaper]{article}   % 8.5" x 11
+
+% PACKAGES
+\usepackage[top=3.5cm, bottom=3.5cm, left=3.5cm, right=3.5cm]{geometry}
+%           Width of text area = 21 - 7 = 14cm = 5.512 inches
+\usepackage{titlesec}
+\titleformat{\chapter}[hang]
+	{\normalfont\Large\bfseries}{\chaptertitlename\ \thechapter.}{10pt}{\Large}
+\titleformat{\section}
+	{\normalfont\large\bfseries}{\thesection}{1em}{}
+\titlespacing*{\chapter} {0pt}{0in}{0.1in}
+\titlespacing*{\section} {0pt}{0.15in plus 0.1in minus 0.05in}{0in}
+%left-before-after {3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage[labelfont=bf,labelsep=newline,justification=centering]{caption}
+\usepackage{parskip}
+\usepackage{hyperref}\hypersetup{colorlinks = true,
+                                 linkcolor = black,
+								 urlcolor = black,
+								 citecolor = black,
+								 anchorcolor = black}
+
+% REDEFINITIONS
+% Float to top of page - tex.stackexchange.com/questions/66252/
+% placing-the-figure-exactly-at-the-top-of-the-page-in-latex
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+
+% Rename Abstract to Executive Summary
+\renewcommand{\abstractname}{Executive Summary}
+
+% Override Latex defaults that mess up positioning of tables and figures
+% mintaka.sdsu.edu/gf/bibliog/latex/floats.html
+\setcounter{topnumber}{2}
+\setcounter{bottomnumber}{2}
+\setcounter{totalnumber}{4}
+\renewcommand{\topfraction}{0.95}
+\renewcommand{\bottomfraction}{0.95}
+\renewcommand\floatpagefraction{.90}
+\renewcommand\textfraction{.10}
+\setlength{\textfloatsep}{3ex plus0.5ex minus0.2ex}
+
+% WATERMARK - Comment following out to remove, also lines in main.tex
+% Draft for review - Do not cite or quote
+% tex.stackexchange.com/questions/118939/
+% add-watermark-that-overlays-the-images
+% tex.stackexchange.com/questions/132582/transparent-foreground-watermark
+%\usepackage[printwatermark]{xwatermark}
+%\usepackage{xcolor}
+%\usepackage{tikz}
+%\newsavebox\mybox
+%\savebox\mybox{\tikz[color=red,opacity=0.5]\node{Draft for review - Do not cite or quote};}
+%\newwatermark*[
+%  allpages,
+%  angle=0,
+%  scale=2,
+%  xpos=0,
+%  ypos=137 
+%]{\usebox\mybox}
+% opacity - higher is darker - by experiment - range is presumably 0-1
+% angle - 0 is horizontal
+% scale is size of text - by experiment
+% xpos 0 - 0 is centered
+% ypos 137 - Larger number is higher on the page - by experiment

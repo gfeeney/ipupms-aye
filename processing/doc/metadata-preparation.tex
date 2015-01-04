@@ -1,0 +1,86 @@
+% Generic LaTeX document
+\input{preamble}
+
+\begin{document}
+
+Preparing Metadata for Processing IPUMS-International Samples with R
+
+Griffith Feeney
+
+24 December 2014
+
+
+\section{Introduction}
+
+ - Why R? Because I use it and it is the best tool for me to do this work
+
+ - Likely to be increasingly widely used in the future by other IPUMS-I users
+ 
+ - May be useful for future IPUMS-I operations
+ 
+ 
+ \section{Vectorization}
+
+ Will need to give some background on this, rationale, think later how to handle it. Should get a DSTIL issue out of this.
+ 
+ 
+\section{Options}
+
+Can I use stata datasets and get into R, do it this wayt? I haven't, but should check this out. Now. Extract request 48 resubmitted. Waiting. Got it. Well, wow, first thing I find is that the stata 'do' file is (a) a text file and (b) much better structured than the 'Basic codebook'. Should probably write R program to parse *it* instead.
+
+\section{Structure of stata.do file}
+
+Record layout information consists of lines like
+
+\begin{verbatim}
+  byte    zm10a_rooms        57-58    ///
+\end{verbatim}
+
+preceded by a line that looks like this
+
+\begin{verbatim}
+quietly infix                         ///
+\end{verbatim}
+
+and followed by a line that looks like this
+
+\begin{verbatim}
+  using `"ipumsi_00048.dat"'
+\end{verbatim}
+
+The part in quotes will change, probably not the ``using''.
+
+Variable names and descriptions are given in lines that look like this.
+
+\begin{verbatim}
+label var zm10a_tv          `"Any television in household"'
+\end{verbatim}
+
+preceded and followed by an empty line.
+
+Codebook information is contained in lines like this
+
+\begin{verbatim}
+label define cntry_lbl 214 `"Dominican Republic"', add
+\end{verbatim}
+
+in empty-line-separated sequences giving values for each variable with a codebook.
+
+Well, I can begin working with this in R and document as I go. It will be MUCH easier than what I was doing before, may be fully automatable.
+
+WOW. Okay, vastly easier to do it this way, my days of coding R to get the basic codebook information were wasted. Need a while to grok this.ol
+
+
+
+
+
+
+\section{Notes}
+
+What's the trick for getting all unharmonized variables? Got it from Bob, but have forgotten it.
+
+
+
+
+
+\end{document}
