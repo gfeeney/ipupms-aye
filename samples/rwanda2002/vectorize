@@ -1,0 +1,84 @@
+#!/bin/sh
+# Vectorize data file
+echo "Begin vectorizing: " `date`
+gunzip -c source/ipumsi_00105.dat.gz > data.dat
+sha1sum data.dat > source/ipumsi_00105.dat.gz.sha1
+mkdir data
+cut -c1-3 data.dat | gzip -c - > data/cntry.gz
+cut -c4-7 data.dat | gzip -c - > data/year.gz
+cut -c8-11 data.dat | gzip -c - > data/sample.gz
+cut -c12-21 data.dat | gzip -c - > data/serial.gz
+cut -c22-28 data.dat | gzip -c - > data/dwnum.gz
+cut -c29-30 data.dat | gzip -c - > data/pern.gz
+cut -c31-31 data.dat | gzip -c - > data/fbig.gz
+cut -c32-33 data.dat | gzip -c - > data/prov.gz
+cut -c34-37 data.dat | gzip -c - > data/town.gz
+cut -c38-38 data.dat | gzip -c - > data/urban.gz
+cut -c39-41 data.dat | gzip -c - > data/dwtype.gz
+cut -c42-42 data.dat | gzip -c - > data/resabm.gz
+cut -c43-43 data.dat | gzip -c - > data/resabf.gz
+cut -c44-44 data.dat | gzip -c - > data/resab.gz
+cut -c45-45 data.dat | gzip -c - > data/settty.gz
+cut -c46-46 data.dat | gzip -c - > data/dwtype2.gz
+cut -c47-47 data.dat | gzip -c - > data/roof.gz
+cut -c48-49 data.dat | gzip -c - > data/walls.gz
+cut -c50-50 data.dat | gzip -c - > data/floor.gz
+cut -c51-52 data.dat | gzip -c - > data/rooms.gz
+cut -c53-54 data.dat | gzip -c - > data/watsrc.gz
+cut -c55-56 data.dat | gzip -c - > data/light.gz
+cut -c57-57 data.dat | gzip -c - > data/fuelck.gz
+cut -c58-58 data.dat | gzip -c - > data/toilet.gz
+cut -c59-59 data.dat | gzip -c - > data/garbage.gz
+cut -c60-60 data.dat | gzip -c - > data/tenure.gz
+cut -c61-61 data.dat | gzip -c - > data/radiotv.gz
+cut -c62-62 data.dat | gzip -c - > data/phone.gz
+cut -c63-63 data.dat | gzip -c - > data/computer.gz
+cut -c64-64 data.dat | gzip -c - > data/vehicle.gz
+cut -c65-65 data.dat | gzip -c - > data/motocy.gz
+cut -c66-67 data.dat | gzip -c - > data/bike.gz
+cut -c68-68 data.dat | gzip -c - > data/dead12.gz
+cut -c69-70 data.dat | gzip -c - > data/dead12n.gz
+cut -c71-71 data.dat | gzip -c - > data/gq.gz
+cut -c72-73 data.dat | gzip -c - > data/gqtype.gz
+cut -c74-74 data.dat | gzip -c - > data/dead12nr.gz
+cut -c75-77 data.dat | gzip -c - > data/pernum.gz
+cut -c78-85 data.dat | gzip -c - > data/wtper.gz
+cut -c86-86 data.dat | gzip -c - > data/resident.gz
+cut -c87-88 data.dat | gzip -c - > data/pernum.gz
+cut -c89-90 data.dat | gzip -c - > data/relate.gz
+cut -c91-91 data.dat | gzip -c - > data/resid.gz
+cut -c92-92 data.dat | gzip -c - > data/sex.gz
+cut -c93-94 data.dat | gzip -c - > data/birmo.gz
+cut -c95-98 data.dat | gzip -c - > data/biryr.gz
+cut -c99-101 data.dat | gzip -c - > data/age.gz
+cut -c102-104 data.dat | gzip -c - > data/nation.gz
+cut -c105-108 data.dat | gzip -c - > data/bpl.gz
+cut -c109-111 data.dat | gzip -c - > data/resdur.gz
+cut -c112-115 data.dat | gzip -c - > data/resprev.gz
+cut -c116-117 data.dat | gzip -c - > data/lang.gz
+cut -c118-119 data.dat | gzip -c - > data/relig.gz
+cut -c120-121 data.dat | gzip -c - > data/disab.gz
+cut -c122-122 data.dat | gzip -c - > data/discause.gz
+cut -c123-123 data.dat | gzip -c - > data/parlive.gz
+cut -c124-124 data.dat | gzip -c - > data/school.gz
+cut -c125-126 data.dat | gzip -c - > data/edlev.gz
+cut -c127-128 data.dat | gzip -c - > data/edfield.gz
+cut -c129-129 data.dat | gzip -c - > data/degree.gz
+cut -c130-130 data.dat | gzip -c - > data/lit.gz
+cut -c131-132 data.dat | gzip -c - > data/empstat.gz
+cut -c133-135 data.dat | gzip -c - > data/occ.gz
+cut -c136-136 data.dat | gzip -c - > data/classwk.gz
+cut -c137-139 data.dat | gzip -c - > data/ind.gz
+cut -c140-140 data.dat | gzip -c - > data/econsect.gz
+cut -c141-142 data.dat | gzip -c - > data/marst.gz
+cut -c143-144 data.dat | gzip -c - > data/chbornm.gz
+cut -c145-146 data.dat | gzip -c - > data/chbornf.gz
+cut -c147-148 data.dat | gzip -c - > data/chlivem.gz
+cut -c149-150 data.dat | gzip -c - > data/chlivef.gz
+cut -c151-151 data.dat | gzip -c - > data/chb12m.gz
+cut -c152-152 data.dat | gzip -c - > data/chb12f.gz
+cut -c153-153 data.dat | gzip -c - > data/chl12m.gz
+cut -c154-154 data.dat | gzip -c - > data/chl12f.gz
+cut -c155-155 data.dat | gzip -c - > data/visitor.gz
+rm data.dat
+echo "  End vectorizing: " `date`

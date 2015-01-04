@@ -1,0 +1,50 @@
+#!/bin/sh
+# Vectorize data file
+echo "Begin vectorizing: " `date`
+gunzip -c source/ipumsi_00097.dat.gz > data.dat
+sha1sum data.dat > source/ipumsi_00097.dat.gz.sha1
+mkdir data
+cut -c1-3 data.dat | gzip -c - > data/cntry.gz
+cut -c4-7 data.dat | gzip -c - > data/year.gz
+cut -c8-11 data.dat | gzip -c - > data/sample.gz
+cut -c12-21 data.dat | gzip -c - > data/serial.gz
+cut -c22-29 data.dat | gzip -c - > data/dwnum.gz
+cut -c30-31 data.dat | gzip -c - > data/pern.gz
+cut -c32-32 data.dat | gzip -c - > data/fbig.gz
+cut -c33-33 data.dat | gzip -c - > data/mhsp.gz
+cut -c34-34 data.dat | gzip -c - > data/prov.gz
+cut -c35-36 data.dat | gzip -c - > data/div.gz
+cut -c37-39 data.dat | gzip -c - > data/dist.gz
+cut -c40-40 data.dat | gzip -c - > data/urban.gz
+cut -c41-41 data.dat | gzip -c - > data/rooms.gz
+cut -c42-42 data.dat | gzip -c - > data/tenure.gz
+cut -c43-43 data.dat | gzip -c - > data/conper.gz
+cut -c44-44 data.dat | gzip -c - > data/wall.gz
+cut -c45-45 data.dat | gzip -c - > data/roof.gz
+cut -c46-46 data.dat | gzip -c - > data/watsrci.gz
+cut -c47-47 data.dat | gzip -c - > data/watscro.gz
+cut -c48-48 data.dat | gzip -c - > data/light.gz
+cut -c49-49 data.dat | gzip -c - > data/fuelck.gz
+cut -c50-50 data.dat | gzip -c - > data/kitch.gz
+cut -c51-51 data.dat | gzip -c - > data/bath.gz
+cut -c52-52 data.dat | gzip -c - > data/toilet.gz
+cut -c53-53 data.dat | gzip -c - > data/tv.gz
+cut -c54-54 data.dat | gzip -c - > data/radio.gz
+cut -c55-55 data.dat | gzip -c - > data/newsp.gz
+cut -c56-58 data.dat | gzip -c - > data/pernum.gz
+cut -c59-66 data.dat | gzip -c - > data/wtper.gz
+cut -c67-67 data.dat | gzip -c - > data/resident.gz
+cut -c68-69 data.dat | gzip -c - > data/pernum.gz
+cut -c70-70 data.dat | gzip -c - > data/relate.gz
+cut -c71-71 data.dat | gzip -c - > data/absent.gz
+cut -c72-72 data.dat | gzip -c - > data/sex.gz
+cut -c73-74 data.dat | gzip -c - > data/age.gz
+cut -c75-75 data.dat | gzip -c - > data/marst.gz
+cut -c76-76 data.dat | gzip -c - > data/nation.gz
+cut -c77-77 data.dat | gzip -c - > data/relig.gz
+cut -c78-78 data.dat | gzip -c - > data/lang.gz
+cut -c79-79 data.dat | gzip -c - > data/lit.gz
+cut -c80-81 data.dat | gzip -c - > data/edlev.gz
+cut -c82-82 data.dat | gzip -c - > data/idcard.gz
+rm data.dat
+echo "  End vectorizing: " `date`
