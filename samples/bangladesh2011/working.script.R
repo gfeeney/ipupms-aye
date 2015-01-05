@@ -27,17 +27,3 @@ getcodebook("edfield")
 getcodebook("lit")
 getcodebook("empstat")
 getcodebook("ind")
-
-
-codebook[1:800, ]
-
-
-i <- 3
-i <- i + 1
-x[vnames[i] == x[, "vname"], ]
-vnames[i]
-
-# Notes
-# 05-Jan-2015 Translation does not number items (original does, I think), complicates qref
-#             Okay, I see numbers begin further down
-
