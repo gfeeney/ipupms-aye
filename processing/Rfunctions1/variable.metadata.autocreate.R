@@ -28,7 +28,6 @@ variable.metadata.autocreate <- function(vname) {
       uvcode <- x["NIU" == x[, "short"], "code"] # uvcode if "NIU" (note initialization to NA)
     }
   }
-  
   list(vname=vname, unit=unit, length=length, ncodes=ncodes, cbook=cbook, nvals=nvals, mvcode=mvcode, uvcode=uvcode)
 }
 
