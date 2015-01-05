@@ -1,5 +1,5 @@
 read.and.preprocess.stata.do <- function(extract.number, vnameprefix) {
-  filename <- paste("ipumsi_", extract.number, ".do", sep="")
+  filename <- paste("source/ipumsi_", extract.number, ".do", sep="")
   x <- readLines(filename)
   y <- x[nchar(x) != 0]                           # Remove empty lines
   z <- y[!("label values " == substr(y, 1, 13))]  # Remove lines that begin with "label values "

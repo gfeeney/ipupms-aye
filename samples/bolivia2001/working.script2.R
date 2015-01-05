@@ -19,15 +19,7 @@ dim(codebook)  # 1304    4
 codebook <- codebook.edit(codebook)
 
 # Complete variables metadata spreadsheet manually
-vnames
-getvariable("edattan")
-getcodebook("age")
-getcodebook("edattan")
-getcodebook("edfield")
-getcodebook("lit")
-getcodebook("empstat")
-getcodebook("ind")
-
+getcodebook("levatt")
 
 i <- 3
 i <- i + 1
