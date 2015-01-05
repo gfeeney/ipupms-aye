@@ -22,7 +22,7 @@ Enumerator - 330,000
 
 Tally sheet
 
-Identification (name / geo-code)
+ID1: Identification (name / geo-code)
 ____ _ _ Division
 ____ _ _ District
 ____ _ _ [Upazila] or [Thana]
@@ -31,29 +31,29 @@ ____ _ _ _ [Mauza] or [Mahalla]
 ____ _ _ Village
 ____ _ _ Enumeration area no.
 
-Household
+HH1: Household
 _ _ _ _ General
 _ _ _ _ Institutional
 _ _ _ _ Other
 _ _ _ _ Total
 
-Population
+HH2: Population
 _ _ _ _ Males
 _ _ _ _ Females
 _ _ _ _ Total
 
-RMO code
+ID2: RMO code
 [] 1 Rural
 [] 2 Pourashava
 [] 3 Upazila headquarter
 [] 5 Cantonment board
 [] 9 City corporation
 
-Number of books
+FMD1: Number of books
 _ Total books
 _ In sequence
 
-Name of enumerator
+FMD2: Name of enumerator
 Name ____
 [Gender]
 [] Male
@@ -61,7 +61,7 @@ Name ____
 Number _ _ _ _ _ _ _
 Signature ____
 
-Name of supervisor
+FMD3: Name of supervisor
 Name ____
 [Gender]
 [] Male
@@ -69,7 +69,7 @@ Name ____
 Number _ _ _ _ _ _ _
 Signature ____
 
-Name of zonal officer
+FMD4: Name of zonal officer
 Name ____
 [Gender]
 [] Male
@@ -77,7 +77,7 @@ Name ____
 Number _ _ _ _ _ _ _
 Signature ____
 
-Name of inventory holder of census
+FMD5: Name of inventory holder of census
 Name ____
 [Gender]
 [] Male
