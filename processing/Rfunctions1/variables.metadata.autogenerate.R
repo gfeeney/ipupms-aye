@@ -1,9 +1,9 @@
-variables.metadata.autogenerate <- function() {
+variables.metadata.autogenerate <- function(x) {
+  # x <- readRDS("metadata/vnames.vdescriptions.rds")
   # Must be run in samplename directory
   source("../../processing/Rfunctions1/variable.metadata.autocreate.R")
   source("../../processing/Rfunctions2/getvariable.R")
   source("../../processing/Rfunctions2/getcodebook.R")
-  x <- readRDS("metadata/vnames.vdescriptions.rds")
   vnames <- x[, "vname"]
   rowrm  <- vnames == "cntry" | vnames == "year" | vnames == "sample"
   y <- x[!rowrm, c("vdescription", "vname")]
