@@ -9,16 +9,16 @@ variables.metadata.autogenerate <- function(x) {
   y <- x[!rowrm, c("vdescription", "vname")]
   vnames <- y[, "vname"]
   z <- cbind(y, qref="", unit="", length=NA, cat="", ncodes=NA, cbook="",
-             nvals=NA, mvcode=NA, uvcode=NA, fvar1="", fvals1="",
+             nvals=NA, mvcode=NA, uvcode=NA, nfv=NA, disj="", fvar1="", fvals1="",
              fvar2="", fvals2="", fvar3="", fvals3="",
              fvar4="", fvals4="")
-  ccols <- c("qref", "unit", "cat", "cbook", "mvcode", "uvcode",
+  ccols <- c("qref", "unit", "cat", "cbook", "mvcode", "uvcode", "disj",
              "fvar1", "fvals1", "fvar2", "fvals2", 
              "fvar3", "fvals3", "fvar4", "fvals4")
   for (j in 1:length(ccols)) {
     z[, ccols[j]] <- as.character(z[, ccols[j]])
   }
-  ncols <- c("length", "ncodes", "nvals")
+  ncols <- c("length", "ncodes", "nvals", "nfv")
   for (j in 1:length(ncols)) {
     z[, ncols[j]] <- as.numeric(z[, ncols[j]])
   }

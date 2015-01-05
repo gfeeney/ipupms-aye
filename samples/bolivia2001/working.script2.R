@@ -17,12 +17,14 @@ vnames <- variables[, "vname"]
 # Complete variables metadata spreadsheet manually
 
 
+getcodebook("levcomp")
+vnames.vdescriptions
 
 i <- 3
 i <- i + 1
 variable.metadata.autocreate(vnames[i])
 
 # Notes
-# 05-Jan-2015 'electricity' variable misnamed, it is electricity for lighting
-# 05-Jan-2015 Two variables named 'pernum'!
+# 05-Jan-2015 Non-work activity 1 and 2 need explaining, not at all clear
+# 05-Jan-2015 
 
