@@ -5,7 +5,7 @@ source("processing/Rfunctions1/initialize.R")
 source("processing/Rfunctions1/status.R")
 source("processing/Rfunctions2/getvariable.R")
 source("processing/Rfunctions2/getcodebook.R")
-samplename <- "belarus1999"
+samplename <- "bolivia2001"
 initialize(samplename)
 status()
 
@@ -34,4 +34,6 @@ i <- i + 1
 variable.metadata.autocreate(vnames[i])
 
 # Notes
-# 05-Jan-2015 Something wrong with 'urban' codebook, need to check this out.
+# 05-Jan-2015 'electricity' variable misnamed, it is electricity for lighting
+# 05-Jan-2015 Two variables named 'pernum'!
+
