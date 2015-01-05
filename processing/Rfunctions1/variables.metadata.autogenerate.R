@@ -1,5 +1,6 @@
 variables.metadata.autogenerate <- function() {
   # Must be run in samplename directory
+  source("../../processing/Rfunctions1/variable.metadata.autocreate.R")
   source("../../processing/Rfunctions2/getvariable.R")
   source("../../processing/Rfunctions2/getcodebook.R")
   x <- readRDS("metadata/vnames.vdescriptions.rds")
