@@ -7,7 +7,7 @@ source("../../processing/Rfunctions1/variables.metadata.autogenerate.R")
 codebook             <- readRDS("metadata/codebook.rds")
 vnames.vdescriptions <- readRDS("metadata/vnames.vdescriptions.rds")
 
-samplename <- "cameroon2005"
+samplename <- "canada2001"
 status()
 
 # Autogenerate initial version of variables.metadata spreadsheet
@@ -16,15 +16,11 @@ vnames <- vnames.vdescriptions[, "vname"]
 
 # Complete variables metadata spreadsheet manually
 
-getcodebook("edattan2")
-  vnames.vdescriptions
+getcodebook("school")
+vnames.vdescriptions
 
 
-# Notes: cameroon2005
-# 06-Jan-2015 Problem with numbering on Q translation? "Questions 2-27 ..." followed by "5."
-# 06-Jan-2015 Detail lost for 22, English or French?
-# 06-Jan-2015 No educational attainment variable?
-# 06-Jan-2015 
-# 06-Jan-2015 
+# Notes: canada2001
+# 06-Jan-2015 Abandoned work on this sample, too messy, not worth the trouble
 
 
