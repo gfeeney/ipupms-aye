@@ -19,7 +19,7 @@ source("../../processing/Rfunctions2/getcodebook.R")
 code.year.name <- readRDS("../../metadata/code.name.year.rds")
 
 # Set sample
-samplename <- "canada2001"
+samplename <- "chile2002"
 status()
 
 # Get vnameprefix

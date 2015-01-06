@@ -7,7 +7,7 @@ source("../../processing/Rfunctions1/variables.metadata.autogenerate.R")
 codebook             <- readRDS("metadata/codebook.rds")
 vnames.vdescriptions <- readRDS("metadata/vnames.vdescriptions.rds")
 
-samplename <- "canada2001"
+samplename <- "chile2002"
 status()
 
 # Autogenerate initial version of variables.metadata spreadsheet
@@ -16,11 +16,20 @@ vnames <- vnames.vdescriptions[, "vname"]
 
 # Complete variables metadata spreadsheet manually
 
-getcodebook("school")
+getcodebook("rmbed")
 vnames.vdescriptions
 
+x <- table(rmbed, dwtype)
 
-# Notes: canada2001
-# 06-Jan-2015 Abandoned work on this sample, too messy, not worth the trouble
+
+# Notes: chile2002
+# 06-Jan-2015 Why the NIU cde for items 3-10? table(owner) shows 31456 coded NIU (2%)
+# 06-Jan-2015 Same for items 14-16 and several subsequent variables in variables.metadata spreadsheet?
+# 06-Jan-2015 Line 54 includes "skip to Section D", but the file contains no Section D
+# 06-Jan-2015 Looks like the 31456 NIU is common, but what are these cases? People in institutional households?
+# 06-Jan-2015 Yes, filter variable is dwtype, codes "09" and "10" are collective quarters, many questions not asked
+# 06-Jan-2015 Would be convenient for qusetionnaire translation to have variable name ...
+
+
 
 
