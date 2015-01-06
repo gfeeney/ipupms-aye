@@ -13,6 +13,7 @@ getcodebook <- function(vname, long=FALSE) {
     rownames(x) <- 1:dim(x)[1]
   }
   if (!vcb.exists) {
+    cat(paste("Codebook for \"", vname, '" not found\n' , sep=""))
     x <- data.frame(vname=NA)
   }
   x
