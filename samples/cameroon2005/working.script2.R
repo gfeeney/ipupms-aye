@@ -7,28 +7,24 @@ source("../../processing/Rfunctions1/variables.metadata.autogenerate.R")
 codebook             <- readRDS("metadata/codebook.rds")
 vnames.vdescriptions <- readRDS("metadata/vnames.vdescriptions.rds")
 
-samplename <- "burkina_faso2006"
+samplename <- "cameroon2005"
 status()
 
 # Autogenerate initial version of variables.metadata spreadsheet
 variables.metadata.autogenerate(vnames.vdescriptions)
-vnames <- variables[, "vname"]
+vnames <- vnames.vdescriptions[, "vname"]
 
 # Complete variables metadata spreadsheet manually
 
-
-getcodebook("empstat")
+getcodebook("school")
 vnames.vdescriptions
 
-i <- 3
-i <- i + 1
-variable.metadata.autocreate(vnames[i])
 
-# Notes
-# 05-Jan-2015 'age' codebook is wrong, open-ended group not indicated
-# 05-Jan-2015 HH Deaths data is supplementary
-# 05-Jan-2015 Emigration data is supplementary
-# 05-Jan-2015 Agricultural data?
-# 05-Jan-2015 Principal occupation P22 and P24 are missing?
+# Notes: cameroon2005
+# 06-Jan-2015 Problem with numbering on Q translation? "Questions 2-27 ..." followed by "5."
+# 06-Jan-2015 Detail lost for 22, English or French?
+# 06-Jan-2015 No educational attainment variable?
+# 06-Jan-2015 
+# 06-Jan-2015 
 
 
