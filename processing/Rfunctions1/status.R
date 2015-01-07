@@ -7,6 +7,6 @@ status <- function(basedir="C:/Users/gfeeney/Desktop/ipums.aye") {
   }
   x <- strsplit(getwd(), split="/")[[1]]
   if (x[length(x)] != samplename) {
-    cat(">>>>>> STOP! samplename must match working directory")
+    stop(">>>>>> STOP! samplename must match working directory")
   }
 }
