@@ -1,0 +1,71 @@
+#!/bin/sh
+# Vectorize data file
+echo "Begin vectorizing: " `date`
+gunzip -c source/ipumsi_00050.dat.gz > data.dat
+sha1sum data.dat > source/ipumsi_00050.dat.gz.sha1
+mkdir data
+cut -c1-3 data.dat | gzip -c - > data/cntry.gz
+cut -c4-7 data.dat | gzip -c - > data/year.gz
+cut -c8-11 data.dat | gzip -c - > data/sample.gz
+cut -c12-21 data.dat | gzip -c - > data/serial.gz
+cut -c22-26 data.dat | gzip -c - > data/dwnum.gz
+cut -c27-27 data.dat | gzip -c - > data/pern.gz
+cut -c28-30 data.dat | gzip -c - > data/marz.gz
+cut -c31-33 data.dat | gzip -c - > data/hamay.gz
+cut -c34-34 data.dat | gzip -c - > data/urban.gz
+cut -c35-35 data.dat | gzip -c - > data/owner.gz
+cut -c36-36 data.dat | gzip -c - > data/hhtype.gz
+cut -c37-37 data.dat | gzip -c - > data/conyr.gz
+cut -c38-38 data.dat | gzip -c - > data/walls.gz
+cut -c39-39 data.dat | gzip -c - > data/heat.gz
+cut -c40-40 data.dat | gzip -c - > data/fuelck.gz
+cut -c41-41 data.dat | gzip -c - > data/watsrc.gz
+cut -c42-42 data.dat | gzip -c - > data/bath.gz
+cut -c43-43 data.dat | gzip -c - > data/toilet.gz
+cut -c44-44 data.dat | gzip -c - > data/waste.gz
+cut -c45-45 data.dat | gzip -c - > data/light.gz
+cut -c46-46 data.dat | gzip -c - > data/phone.gz
+cut -c47-47 data.dat | gzip -c - > data/ownty.gz
+cut -c48-48 data.dat | gzip -c - > data/rooms.gz
+cut -c49-49 data.dat | gzip -c - > data/roomssh.gz
+cut -c50-50 data.dat | gzip -c - > data/space.gz
+cut -c51-51 data.dat | gzip -c - > data/spacelv.gz
+cut -c52-54 data.dat | gzip -c - > data/pernum.gz
+cut -c55-62 data.dat | gzip -c - > data/wtper.gz
+cut -c63-63 data.dat | gzip -c - > data/pernum.gz
+cut -c64-64 data.dat | gzip -c - > data/pernumo.gz
+cut -c65-65 data.dat | gzip -c - > data/momloco.gz
+cut -c66-66 data.dat | gzip -c - > data/poploco.gz
+cut -c67-67 data.dat | gzip -c - > data/sploco.gz
+cut -c68-69 data.dat | gzip -c - > data/relate.gz
+cut -c70-70 data.dat | gzip -c - > data/sex.gz
+cut -c71-72 data.dat | gzip -c - > data/birmon.gz
+cut -c73-76 data.dat | gzip -c - > data/biryear.gz
+cut -c77-78 data.dat | gzip -c - > data/age.gz
+cut -c79-80 data.dat | gzip -c - > data/bpl.gz
+cut -c81-81 data.dat | gzip -c - > data/citiz.gz
+cut -c82-82 data.dat | gzip -c - > data/ethnic.gz
+cut -c83-83 data.dat | gzip -c - > data/lang1.gz
+cut -c84-84 data.dat | gzip -c - > data/lang2.gz
+cut -c85-85 data.dat | gzip -c - > data/livedb.gz
+cut -c86-86 data.dat | gzip -c - > data/forcmov.gz
+cut -c87-89 data.dat | gzip -c - > data/prevres.gz
+cut -c90-93 data.dat | gzip -c - > data/resyr.gz
+cut -c94-95 data.dat | gzip -c - > data/incsrc1.gz
+cut -c96-97 data.dat | gzip -c - > data/incsrc2.gz
+cut -c98-98 data.dat | gzip -c - > data/edlev.gz
+cut -c99-99 data.dat | gzip -c - > data/lit.gz
+cut -c100-100 data.dat | gzip -c - > data/edtype.gz
+cut -c101-101 data.dat | gzip -c - > data/chborn.gz
+cut -c102-102 data.dat | gzip -c - > data/chsurv.gz
+cut -c103-103 data.dat | gzip -c - > data/marst.gz
+cut -c104-104 data.dat | gzip -c - > data/worked.gz
+cut -c105-105 data.dat | gzip -c - > data/ind.gz
+cut -c106-106 data.dat | gzip -c - > data/occag.gz
+cut -c107-107 data.dat | gzip -c - > data/classwk.gz
+cut -c108-108 data.dat | gzip -c - > data/lookwk.gz
+cut -c109-109 data.dat | gzip -c - > data/readywk.gz
+cut -c110-110 data.dat | gzip -c - > data/lookfir.gz
+cut -c111-111 data.dat | gzip -c - > data/whynot.gz
+rm data.dat
+echo "  End vectorizing: " `date`

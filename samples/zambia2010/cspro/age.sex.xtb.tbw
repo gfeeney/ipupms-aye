@@ -1,0 +1,990 @@
+﻿[TabSpecs]
+Version=CSPro 5.0
+Label=age.sex
+Name=AGE_SEX
+GenerateLogic=Yes
+SelectedPrinterChanged=Yes
+InputDataFilename=testdata.dat
+ 
+[Dictionaries]
+File=8/21/2014 12:21:58 PM,.\testdata.dcf
+[TabSetFormat]
+Name=TabSetFmt, default
+ThousandsSeparator=','
+DecimalSeparator='.'
+ZeroMask='-'
+ZeroRoundMask='*'
+Suppressed='SSS'
+DigitGrouping=Thousands
+ZeroBeforeDecimal=Yes
+ForeignKey='Frequency'
+ForeignKey='and'
+ForeignKey='to'
+ForeignKey='Total'
+ForeignKey='Standard Deviation'
+ForeignKey='by'
+ForeignKey='(Percents)'
+ForeignKey='Mean'
+ForeignKey='Maximum'
+ForeignKey='Table'
+ForeignKey='for'
+ForeignKey='Percentile'
+ForeignKey='Mode'
+ForeignKey='Minimum'
+ForeignKey='Proportion'
+ForeignKey='Median'
+ForeignKey='Variance'
+ForeignKey='Percent'
+ForeignKey='Undefined'
+ForeignKey='(Weighted)'
+ForeignKey='Cumulative'
+ForeignKey='<Value has no label>'
+ForeignKey='Number'
+TitleTemplate='Table %s.'
+Continuation=' (continued)'
+MeasurementSystem=USUnits
+
+[TableFormat]
+Name=TableFmt, default
+BorderLeft=None
+BorderTop=None
+BorderRight=None
+BorderBottom=None
+LeftLeadering=None
+RightLeadering=None
+ReaderBreak=None
+IncludeSubTitle=No
+IncludePageNote=No
+IncludeEndNote=No
+
+
+[TallyFormat]
+Name=RowTallyFmt, default
+IncludeUndefined=No
+DumpUndefined=No
+[TallyStatistic]
+Type=Total
+
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, default
+IncludeUndefined=No
+DumpUndefined=No
+[TallyStatistic]
+Type=Total
+
+[TallyStatistic]
+Type=Counts
+
+
+[TablePrintFormat]
+Name=TblPrintFmt, default
+TableLayout=LeftStandard
+PageBreakBeforeTable=Yes
+TblHorzCenter=No
+TblVertCenter=No
+PaperType=Letter
+PageOrientation=Portrait
+PrinterDevice=HP Officejet 4500 G510n-z
+PrinterDriver=winspool
+PrinterOutput=USB001
+MarginTop=1.00
+MarginBottom=1.00
+MarginLeft=1.00
+MarginRight=1.00
+HeaderFrequency=TopOfPage
+
+[DataCellFormat]
+Name=SpannerFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+NumDecimals=NotApplicable
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendIndentation=Yes
+NumDecimals=Zero
+HideZeroRow=No
+
+[DataCellFormat]
+Name=CaptionFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0.13
+IndentRight=0.00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=No
+NumDecimals=NotApplicable
+HideZeroRow=No
+
+[DataCellFormat]
+Name=StubFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendFont=Yes
+NumDecimals=Zero
+HideZeroRow=No
+
+[DataCellFormat]
+Name=DataCellFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=NotApplicable
+LineBottom=NotApplicable
+LineLeft=NotApplicable
+LineRight=NotApplicable
+Hidden=NotApplicable
+SpanCells=NotApplicable
+NumDecimals=Zero
+HideZeroRow=No
+
+[Format]
+Name=TitleFmt, default
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=SubTitleFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=StubHead, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=None
+LineRight=Thin
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+
+[Format]
+Name=SecondaryStubHead, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=Thin
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+
+[Format]
+Name=HeaderLeftFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=&F
+
+[Format]
+Name=HeaderCenterFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=HeaderRightFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=&D
+
+[Format]
+Name=FooterLeftFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=FooterCenterFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=- &P -
+
+[Format]
+Name=FooterRightFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=PageNoteFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=EndNoteFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=AreaCaption, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0.00
+IndentRight=0.00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=No
+ExtendLines=Yes
+
+ 
+[Table]
+Name=TABLE1
+Num=1
+ 
+[Title]
+Label='Table 1. Age by Sex'
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Age'
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=AGE_VS2
+Label=Age
+VarType=Dict
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=0
+ 
+[Value]
+Label=0
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=1
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=2
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=3
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=4
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=5
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=6
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=7
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=8
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=9
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=10
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=11
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=12
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=13
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=14
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=15
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=16
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=17
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=18
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=19
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=20
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=21
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=22
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=23
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=24
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=25
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=26
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=27
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=28
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=29
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=30
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=31
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=32
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=33
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=34
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=35
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=36
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=37
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=38
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=39
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=40
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=41
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=42
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=43
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=44
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=45
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=46
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=47
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=48
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=49
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=50
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=51
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=52
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=53
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=54
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=55
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=56
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=57
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=58
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=59
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=60
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=61
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=62
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=63
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=64
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=65
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=66
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=67
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=68
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=69
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=70
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=71
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=72
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=73
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=74
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=75
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=76
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=77
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=78
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=79
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=80+
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=SEX_VS1
+Label=Sex
+VarType=Dict
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=0
+ 
+[Value]
+Label=Male
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=Female
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[EndVar]
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE1
+Size=82,3
+Row=1321973.000000000  650189.000000000  671784.000000000
+Row=44792.000000000  22333.000000000  22459.000000000
+Row=44904.000000000  22371.000000000  22533.000000000
+Row=46556.000000000  23322.000000000  23234.000000000
+Row=45479.000000000  22400.000000000  23079.000000000
+Row=45925.000000000  22942.000000000  22983.000000000
+Row=41904.000000000  21026.000000000  20878.000000000
+Row=41061.000000000  20529.000000000  20532.000000000
+Row=40269.000000000  20123.000000000  20146.000000000
+Row=36457.000000000  18067.000000000  18390.000000000
+Row=32491.000000000  15930.000000000  16561.000000000
+Row=46847.000000000  23606.000000000  23241.000000000
+Row=30573.000000000  15054.000000000  15519.000000000
+Row=36725.000000000  18146.000000000  18579.000000000
+Row=32103.000000000  15742.000000000  16361.000000000
+Row=32202.000000000  15814.000000000  16388.000000000
+Row=33204.000000000  16566.000000000  16638.000000000
+Row=32145.000000000  15725.000000000  16420.000000000
+Row=28128.000000000  13720.000000000  14408.000000000
+Row=34005.000000000  16481.000000000  17524.000000000
+Row=27305.000000000  13079.000000000  14226.000000000
+Row=30155.000000000  14129.000000000  16026.000000000
+Row=21634.000000000  10121.000000000  11513.000000000
+Row=24512.000000000  11060.000000000  13452.000000000
+Row=22907.000000000  10610.000000000  12297.000000000
+Row=21878.000000000  9997.000000000  11881.000000000
+Row=25198.000000000  11862.000000000  13336.000000000
+Row=21614.000000000  9964.000000000  11650.000000000
+Row=19575.000000000  9316.000000000  10259.000000000
+Row=23755.000000000  11001.000000000  12754.000000000
+Row=16867.000000000  8065.000000000  8802.000000000
+Row=25378.000000000  12700.000000000  12678.000000000
+Row=13310.000000000  6669.000000000  6641.000000000
+Row=18813.000000000  9442.000000000  9371.000000000
+Row=13135.000000000  6601.000000000  6534.000000000
+Row=14396.000000000  7436.000000000  6960.000000000
+Row=18596.000000000  9998.000000000  8598.000000000
+Row=14263.000000000  7261.000000000  7002.000000000
+Row=11583.000000000  6023.000000000  5560.000000000
+Row=15089.000000000  7846.000000000  7243.000000000
+Row=9490.000000000  4892.000000000  4598.000000000
+Row=14983.000000000  8167.000000000  6816.000000000
+Row=7806.000000000  4100.000000000  3706.000000000
+Row=11849.000000000  6361.000000000  5488.000000000
+Row=6838.000000000  3497.000000000  3341.000000000
+Row=6256.000000000  3023.000000000  3233.000000000
+Row=9507.000000000  4847.000000000  4660.000000000
+Row=9470.000000000  4749.000000000  4721.000000000
+Row=6093.000000000  3026.000000000  3067.000000000
+Row=7734.000000000  3709.000000000  4025.000000000
+Row=5200.000000000  2558.000000000  2642.000000000
+Row=8534.000000000  4152.000000000  4382.000000000
+Row=4360.000000000  2050.000000000  2310.000000000
+Row=6522.000000000  3150.000000000  3372.000000000
+Row=4707.000000000  2304.000000000  2403.000000000
+Row=4727.000000000  2203.000000000  2524.000000000
+Row=4813.000000000  2442.000000000  2371.000000000
+Row=4588.000000000  2331.000000000  2257.000000000
+Row=3262.000000000  1628.000000000  1634.000000000
+Row=4236.000000000  2033.000000000  2203.000000000
+Row=2523.000000000  1183.000000000  1340.000000000
+Row=4990.000000000  2358.000000000  2632.000000000
+Row=2694.000000000  1177.000000000  1517.000000000
+Row=3782.000000000  1739.000000000  2043.000000000
+Row=2987.000000000  1418.000000000  1569.000000000
+Row=2620.000000000  1153.000000000  1467.000000000
+Row=3599.000000000  1647.000000000  1952.000000000
+Row=2010.000000000  871.000000000  1139.000000000
+Row=2034.000000000  932.000000000  1102.000000000
+Row=3150.000000000  1473.000000000  1677.000000000
+Row=1706.000000000  829.000000000  877.000000000
+Row=3256.000000000  1526.000000000  1730.000000000
+Row=1545.000000000  707.000000000  838.000000000
+Row=1974.000000000  915.000000000  1059.000000000
+Row=1354.000000000  633.000000000  721.000000000
+Row=1506.000000000  724.000000000  782.000000000
+Row=2010.000000000  961.000000000  1049.000000000
+Row=1205.000000000  548.000000000  657.000000000
+Row=881.000000000  442.000000000  439.000000000
+Row=1657.000000000  889.000000000  768.000000000
+Row=886.000000000  489.000000000  397.000000000
+Row=6896.000000000  3276.000000000  3620.000000000
+ 
+[Level]
+Table=TABLE1

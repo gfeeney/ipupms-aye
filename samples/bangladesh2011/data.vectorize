@@ -1,0 +1,43 @@
+#!/bin/sh
+# Vectorize data file
+echo "Begin vectorizing: " `date`
+gunzip -c source/ipumsi_00052.dat.gz > data.dat
+sha1sum data.dat > source/ipumsi_00052.dat.gz.sha1
+mkdir data
+cut -c1-3 data.dat | gzip -c - > data/cntry.gz
+cut -c4-7 data.dat | gzip -c - > data/year.gz
+cut -c8-11 data.dat | gzip -c - > data/sample.gz
+cut -c12-21 data.dat | gzip -c - > data/serial.gz
+cut -c22-28 data.dat | gzip -c - > data/dwnum.gz
+cut -c29-30 data.dat | gzip -c - > data/pern.gz
+cut -c31-31 data.dat | gzip -c - > data/fbig.gz
+cut -c32-33 data.dat | gzip -c - > data/division.gz
+cut -c34-37 data.dat | gzip -c - > data/zila.gz
+cut -c38-43 data.dat | gzip -c - > data/upazila.gz
+cut -c44-44 data.dat | gzip -c - > data/urban.gz
+cut -c45-45 data.dat | gzip -c - > data/floatpop.gz
+cut -c46-46 data.dat | gzip -c - > data/hhtype.gz
+cut -c47-47 data.dat | gzip -c - > data/houstyp.gz
+cut -c48-48 data.dat | gzip -c - > data/tenancy.gz
+cut -c49-49 data.dat | gzip -c - > data/watsrc.gz
+cut -c50-50 data.dat | gzip -c - > data/toilet.gz
+cut -c51-51 data.dat | gzip -c - > data/electrc.gz
+cut -c52-52 data.dat | gzip -c - > data/ethpophh.gz
+cut -c53-54 data.dat | gzip -c - > data/ethnhh.gz
+cut -c55-57 data.dat | gzip -c - > data/pernum.gz
+cut -c58-65 data.dat | gzip -c - > data/wtper.gz
+cut -c66-67 data.dat | gzip -c - > data/pernum.gz
+cut -c68-69 data.dat | gzip -c - > data/age.gz
+cut -c70-70 data.dat | gzip -c - > data/relate.gz
+cut -c71-71 data.dat | gzip -c - > data/sex.gz
+cut -c72-72 data.dat | gzip -c - > data/marst.gz
+cut -c73-73 data.dat | gzip -c - > data/religion.gz
+cut -c74-74 data.dat | gzip -c - > data/disab.gz
+cut -c75-75 data.dat | gzip -c - > data/school.gz
+cut -c76-77 data.dat | gzip -c - > data/edattan.gz
+cut -c78-78 data.dat | gzip -c - > data/edfield.gz
+cut -c79-79 data.dat | gzip -c - > data/lit.gz
+cut -c80-80 data.dat | gzip -c - > data/empstat.gz
+cut -c81-81 data.dat | gzip -c - > data/ind.gz
+rm data.dat
+echo "  End vectorizing: " `date`

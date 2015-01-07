@@ -1,0 +1,65 @@
+#!/bin/sh
+# Vectorize data file
+echo "Begin vectorizing: " `date`
+gunzip -c source/ipumsi_00119.dat.gz > data.dat
+sha1sum data.dat > source/ipumsi_00119.dat.gz.sha1
+mkdir data
+cut -c1-3 data.dat | gzip -c - > data/cntry.gz
+cut -c4-7 data.dat | gzip -c - > data/year.gz
+cut -c8-11 data.dat | gzip -c - > data/sample.gz
+cut -c12-21 data.dat | gzip -c - > data/serial.gz
+cut -c22-28 data.dat | gzip -c - > data/dwnum.gz
+cut -c29-30 data.dat | gzip -c - > data/pern.gz
+cut -c31-35 data.dat | gzip -c - > data/raion.gz
+cut -c36-37 data.dat | gzip -c - > data/region.gz
+cut -c38-38 data.dat | gzip -c - > data/urban.gz
+cut -c39-39 data.dat | gzip -c - > data/homeless.gz
+cut -c40-40 data.dat | gzip -c - > data/inst.gz
+cut -c41-41 data.dat | gzip -c - > data/typehh.gz
+cut -c42-42 data.dat | gzip -c - > data/flrspace.gz
+cut -c43-43 data.dat | gzip -c - > data/rooms.gz
+cut -c44-46 data.dat | gzip -c - > data/pernum.gz
+cut -c47-54 data.dat | gzip -c - > data/wtper.gz
+cut -c55-55 data.dat | gzip -c - > data/resident.gz
+cut -c56-57 data.dat | gzip -c - > data/chborn.gz
+cut -c58-58 data.dat | gzip -c - > data/sex.gz
+cut -c59-60 data.dat | gzip -c - > data/age.gz
+cut -c61-64 data.dat | gzip -c - > data/birthyr.gz
+cut -c65-65 data.dat | gzip -c - > data/marst.gz
+cut -c66-67 data.dat | gzip -c - > data/ethnic.gz
+cut -c68-69 data.dat | gzip -c - > data/mtong.gz
+cut -c70-71 data.dat | gzip -c - > data/langoth.gz
+cut -c72-72 data.dat | gzip -c - > data/langukr.gz
+cut -c73-74 data.dat | gzip -c - > data/edattan.gz
+cut -c75-75 data.dat | gzip -c - > data/vocschl.gz
+cut -c76-76 data.dat | gzip -c - > data/edtype.gz
+cut -c77-77 data.dat | gzip -c - > data/preschl.gz
+cut -c78-79 data.dat | gzip -c - > data/incsrc.gz
+cut -c80-80 data.dat | gzip -c - > data/wkent.gz
+cut -c81-81 data.dat | gzip -c - > data/wkpriv.gz
+cut -c82-82 data.dat | gzip -c - > data/wkse.gz
+cut -c83-83 data.dat | gzip -c - > data/wkind.gz
+cut -c84-84 data.dat | gzip -c - > data/wkag.gz
+cut -c85-85 data.dat | gzip -c - > data/wkfambus.gz
+cut -c86-86 data.dat | gzip -c - > data/wksubag.gz
+cut -c87-87 data.dat | gzip -c - > data/incprop.gz
+cut -c88-88 data.dat | gzip -c - > data/incpens.gz
+cut -c89-89 data.dat | gzip -c - > data/incschl.gz
+cut -c90-90 data.dat | gzip -c - > data/incasst.gz
+cut -c91-91 data.dat | gzip -c - > data/incue.gz
+cut -c92-92 data.dat | gzip -c - > data/incpub.gz
+cut -c93-93 data.dat | gzip -c - > data/incdep.gz
+cut -c94-94 data.dat | gzip -c - > data/incoth.gz
+cut -c95-95 data.dat | gzip -c - > data/classwk.gz
+cut -c96-96 data.dat | gzip -c - > data/wkhere.gz
+cut -c97-99 data.dat | gzip -c - > data/wkaway.gz
+cut -c100-102 data.dat | gzip -c - > data/bpl.gz
+cut -c103-105 data.dat | gzip -c - > data/prevres.gz
+cut -c106-106 data.dat | gzip -c - > data/resstat.gz
+cut -c107-107 data.dat | gzip -c - > data/moved.gz
+cut -c108-108 data.dat | gzip -c - > data/rescont.gz
+cut -c109-109 data.dat | gzip -c - > data/chborn2.gz
+cut -c110-110 data.dat | gzip -c - > data/headhh.gz
+cut -c111-111 data.dat | gzip -c - > data/famunit.gz
+rm data.dat
+echo "  End vectorizing: " `date`
