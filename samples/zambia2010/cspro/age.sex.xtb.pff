@@ -1,0 +1,16 @@
+﻿[Run Information]
+Version=CSPro 5.0
+AppType=Tabulation
+Operation=All
+
+[Files]
+Application=.\age.sex.xtb
+InputData=.\testdata.dat
+Listing=.\age.sex.xtb.lst
+OutputTBW=.\age.sex.xtb.tbw
+
+
+[Parameters]
+ViewListing=OnError
+ViewResults=No
+
