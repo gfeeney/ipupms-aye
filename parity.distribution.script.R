@@ -1,40 +1,63 @@
 # parity.distribution.script.R - GF - 08-Jan-2015
-
+# parity.distribution.plot.script.R - GF - 08-Jan-2014
 # Objective: Develop routine for plotting parity distribution for for age groups of women
 
-# First Issues: What variables are available? If CEB direct, great. If not, must construct it
-
+rm(list=ls())
 source("../../processing/Rfunctions2/getvariable.R")
 source("../../processing/Rfunctions2/getcodebook.R")
+source("../../processing/Rfunctions3/agegroup.R")
+source("../../processing/Rfunctions3/draw.horizontalreferencelines.R")
+source("../../processing/Rfunctions3/draw.verticalreferencelines.R")
 x <- readRDS("metadata/vnames.vdescriptions.rds")
-x[53, ]
-vname                 vdescription
-53 chborn Number of children ever born
+x[86, ]
 getvariable("chborn")
-ceb.frq <- table(chborn)
-chborn
-#     0      1      2      3      4      5      6      7      9 
-# 36074  13222  33212  27358  11778   5732   2752   2825 193607 
-# Truncation is MUCH to early, severe information loss. This will
-# be apparent from plot. MV?
-getcodebook("chborn")
-# No. Now code for plot
-x <- as.numeric(names(ceb.frq))
-y <- as.vector(ceb.frq)/1000  # Number of women in thousands (000)
-plot(x, y)
-plot(x, y, xlab="Children Ever Born", ylab="Number of Women (000)")             # Add axis labels
-plot(x, y, xlab="Children Ever Born", xaxp=c(0, 9, 9), ylab="Number of Women")  # Change x tick marks
-plot(x, y, xlab="Children Ever Born", xaxp=c(0, 9, 9), ylab="Number of Women",  # Change plot mark'
-     pch=16)
-plot(x, y, xlab="Children Ever Born", xaxp=c(0, 9, 9), ylab="Number of Women",  # Make marks bigger
-     pch=16, cex=1.25)
-lines(x, y)  #                                                                  # Add connecting lines
-# Would be nice to have second axis at right showing proportion
-# And second plot to show detail for 0-8, obscured by large 9+
-plot(x, y, xlab="Children Ever Born", xaxp=c(0, 9, 9), 
-     ylab="Number of Women", ylim=c(0, 50), pch=16, cex=1.25)
-lines(x, y)  #                                                                  # Add connecting lines
-# Ah, but we have a problem, frequency shows 0 women with 8 CEB; makes
-# no sense, seems problem in data, but odd, what could explain? Continue
-# this example with another country where we don't have this problem,
-# which is surprisingly difficult to deal with.
+ceb <- chborn
+rm(chborn)
+getvariable("sex")
+getvariable("age")
+agen <- as.numeric(age)
+unv <- sex == "2" & agen >= 15 & agen <= 98
+age.ceb <- table(age[unv], ceb[unv])
+ceb4549 <- age.group(age.ceb, 45:49)
+y2 <- as.vector(ceb4549[1:19])     # Exclude CEB MV
+x <- as.numeric(names(y1))
+y1 <- round(y1/sum(y2), 4)
+
+plot(x, y1)  # Basic plot
+plot(x, y1, xlab="Children Ever Born", ylab="Number of Women")  # Add axis labels
+plot(x, y1, xlab="Children Ever Born", ylab="Number of Women", pch=16)  # Change plo mark
+plot(x, y1, xlab="Children Ever Born", ylab="Number of Women", pch=16, cex=1.25)  # Make marks bigger
+lines(x, y1)  # Add connecting lines
+draw.horizontalreferencelines(500*0:4, xlim=c(-1, 20))  # Add horizontal reference lines
+draw.verticalreferencelines(5*0:3, ylim=c(-100, 2500))  # Add vertical reference lines
+yat <- round((500*0:3)/sum(y1), 3)
+axis(4, at=yat, labels=yat)
+# With this approach we can't control tick mark positions, so we do it differently
+
+# Plot specifications
+xlab <- "Children Evern Born"
+xlim <- c(0, 16)       # Set limits of horizontal (x) axis
+xaxt <- "n"            # Suppress plotting of x axis
+xatv <- 5*0:3          # Specify tick mark values
+xaxs <- "r"            # Specify padding of plot area
+ylab <- "Number of Women"
+ylim <- c(0, 0.16)
+yaxt <- "n"
+yatv <- 0.05*1:3
+yaxs <- "r"
+
+# Build plot step by step
+plot(xlim, ylim, type="n", 
+     xlab=xlab, xaxt=xaxt, xaxs=xaxs,
+     ylab=ylab, yaxt=yaxt, yaxs=yaxs)
+draw.verticalreferencelines(5*0:3, ylim)
+draw.horizontalreferencelines(0.05*0:3, xlim)
+axis(1, at=xatv)  # draw bottom x axis
+axis(2, at=yatv)  # draw left y axis
+axis(4, at=yatv)  # draw top x axis
+axis(3, at=xatv, labels=round(xatv * sum(y2), 0))  # draw right y axis
+
+# Plot points
+points(x, y1, pch=16, cex=1.25)
+lines(x, y1)
+
