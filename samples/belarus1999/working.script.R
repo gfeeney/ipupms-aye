@@ -1,12 +1,10 @@
 # Initial setup
 rm(list=ls())
-source("processing/Rfunctions1/codebook.edit.R")
-source("processing/Rfunctions1/initialize.R")
-source("processing/Rfunctions1/status.R")
-source("processing/Rfunctions2/getvariable.R")
-source("processing/Rfunctions2/getcodebook.R")
+source("../../processing/Rfunctions1/codebook.edit.R")
+source("../../processing/Rfunctions1/status.R")
+source("../../processing/Rfunctions2/getvariable.R")
+source("../../processing/Rfunctions2/getcodebook.R")
 samplename <- "belarus1999"
-initialize(samplename)
 status()
 
 # Autogenerate initial version of variables.metadata spreadsheet

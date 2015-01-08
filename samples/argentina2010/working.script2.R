@@ -1,5 +1,9 @@
 # Initial setup
+
+# NOTE 08-Jan02015 Not yet run for Argentina
+
 rm(list=ls())
+
 source("../../processing/Rfunctions2/getvariable.R")
 source("../../processing/Rfunctions2/getcodebook.R")
 source("../../processing/Rfunctions1/status.R")
@@ -7,33 +11,24 @@ source("../../processing/Rfunctions1/variables.metadata.autogenerate.R")
 codebook             <- readRDS("metadata/codebook.rds")
 vnames.vdescriptions <- readRDS("metadata/vnames.vdescriptions.rds")
 
-samplename <- "viet_nam2009"
+samplename <- "argentina2010"
 status()
 
 # Autogenerate initial version of variables.metadata spreadsheet
 variables.metadata.autogenerate(vnames.vdescriptions)
-vnames <- vnames.vdescriptions[, "vname"]
+vnames <- variables[, "vname"]
 
 # Complete variables metadata spreadsheet manually
 
-getcodebook("beginyr")
+
+getcodebook("levcomp")
 vnames.vdescriptions
 
-x <- table(rmbed, dwtype)
+i <- 3
+i <- i + 1
+variable.metadata.autocreate(vnames[i])
 
-setwd("data")
-vnames <- dir()
-cs <- "vn09" == substr(vnames, 1, 4)
-oldnames <- vnames[cs]
-newnames <- substr(oldnames, 5, nchar(oldnames))
-for (i in 3:length(oldnames)) {
-  file.rename(oldnames[i], newnames[i])
-}
-setwd("../")
-
-
-# Notes: viet_nam2009 (jff)
-# 06-Jan-2015 emp1 misnamed
-
-
+# Notes
+# 05-Jan-2015 Non-work activity 1 and 2 need explaining, not at all clear
+# 05-Jan-2015 
 
