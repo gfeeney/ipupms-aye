@@ -1,0 +1,201 @@
+       vname                                                                     vdescription
+1      cntry                                                                          Country
+2       year                                                                             Year
+3     sample                                                          IPUMS sample identifier
+4     serial                                                          Household serial number
+5    persons                                        Number of person records in the household
+6       wthh                                                                 Household weight
+7    subsamp                                                                 Subsample number
+8         gq                                                            Group quarters status
+9      unrel                                                      Number of unrelated persons
+10     urban                                                               Urban-rural status
+11   regionw                                                  Continent and region of country
+12   geolev1        1st subnational geographic level, world [consistent boundaries over time]
+13     dwnum                                                                  Dwelling number
+14     hhnum                                               Household number (within dwelling)
+15       hhn                                                 Number of households in dwelling
+16     pernd                                                    Number of persons in dwelling
+17      fbig                Dwelling created by splitting apart a large dwelling or household
+18    region                                                                           Region
+19  province                                                                         Province
+20     urban                                                 Urban or rural area of residence
+21    dwtype                                                                    Dwelling type
+22     occup                                                                 Occupancy status
+23     walls                                                                    Wall material
+24      roof                                                                    Roof material
+25     floor                                                                   Floor material
+26   kitchen                                                              Kitchen in dwelling
+27     rooms                                                      Number of rooms in dwelling
+28       hhs                                                    Number households in dwelling
+29   qualstr                                      Structural quality of dwelling (calculated)
+30    access                                                                  Dwelling access
+31   accessc                                           Condition of access to housing segment
+32    transp                                                           Main mode of transport
+33   tranbus                                                          Modes of transport: bus
+34  trantruc                                                        Modes of transport: truck
+35   trancar                                                          Modes of transport: car
+36  tranmoto                                              Modes of transport: motorcycle taxi
+37  trananim                                            Modes of transport: donkey/horse/mule
+38   tranoth                                                        Modes of transport: other
+39  hazlands                                                      Natural hazards: landslides
+40  hazsinkh                                                        Natural hazards: sinkhole
+41  hazrocks                                                     Natural hazards: rock slides
+42  hazffire                                                                     Forest fires
+43  polstagw                                                        Pollution: stagnant water
+44  polwaste                                                                 Pollution: waste
+45   polfarm                                                                   Pollution: sty
+46  polsmoke                                             Pollution: smoke or gas from factory
+47  polfwast                                                         Pollution: factory waste
+48   polgasp                                                             Pollution: gas plant
+49   polfuel                                                             Pollution: fuel pump
+50  polchemp                                                        Pollution: chemical plant
+51  polvnois                                                         Pollution: vehicle noise
+52  polfnois                                                         Pollution: factory noise
+53   polpwrp                                                           Pollution: power plant
+54  polmusic                                                            Pollution: loud music
+55    poloth                                                                 Pollution: other
+56   dlriver                                               Dwelling location: river or stream
+57   dlcanal                                                         Dwelling location: canal
+58   dlmount                                                  Dwelling location: mountainside
+59   dlhills                                                      Dwelling location: hillside
+60    dlseaf                                                      Dwelling location: seafront
+61   dlbeach                                                         Dwelling location: beach
+62    dllake                                             Dwelling location: lake or reservoir
+63    dlmine                                                     Dwelling location: near mine
+64    dlrisk                                        Dwelling location: other location of risk
+65   nathurr                                                     Natural disasters: hurricane
+66  nattordo                                                       Natural disasters: tornado
+67  natstorm                                                         Natural disasters: storm
+68  natflood                                                        Natural disasters: floods
+69   nattorn                                              Natural disasters: torrential rains
+70   nattorn                                              Natural disasters: torrential rains
+71  natxcold                                                  Natural disasters: extreme cold
+72  natxheat                                                  Natural disasters: extreme heat
+73   nattsun                                                       Natural disasters: tsunami
+74  natdrght                                                       Natural disasters: drought
+75  natlands                                                     Natural disasters: landslide
+76  natsinkh                                                      Natural disasters: sinkhole
+77   natfire                                                          Natural disasters: fire
+78  nateartq                                                    Natural disasters: earthquake
+79    natoth                                                         Natural disasters: other
+80   cdsschl                                                   Civil defense shelters: school
+81  cdschrch                                                   Civil defense shelters: church
+82  cdscomhl                                           Civil defense shelters: community hall
+83  cdssport                                            Civil defense shelters: sports center
+84    cdsoth                                                     Civil defense shelter: other
+85  disthosp                                                       Distance: nearest hospital
+86  distclnc                                                         Distance: nearest clinic
+87  distpsch                                                 Distance: nearest primary school
+88  disthsch                                                    Distance: nearest high school
+89  distphrm                                                       Distance: nearest pharmacy
+90  distmrkt                                                    Distance: nearest supermarket
+91     stove                                                                            Stove
+92     stove                                                                            Stove
+93    refrig                                                                     Refrigerator
+94    washer                                                                  Washing machine
+95        tv                                                                       Television
+96     radio                                                                     Radio/stereo
+97   cistern                                                                          Cistern
+98  computer                                                                         Computer
+99   convert                                                                        Converter
+100  genertr                                                                        Generator
+101    phone                                                                         Landline
+102   cellph                                                                        Cellphone
+103   aircon                                                                 Air conditioning
+104    motor                                                                       Motorcycle
+105     auto                                                                              Car
+106  tenancy                                                                          Tenancy
+107 bedrooms                                                     Number bedrooms in household
+108   toilet                                                                  Toilet facility
+109 toilshar                                                                    Shared toilet
+110    waste                                                                    Waste removal
+111   fuelck                                                                     Cooking fuel
+112    light                                                                 Type of lighting
+113  death09                                                Death of household member in 2009
+114   ag12mo                                           Sown land or harvest in last 12 months
+115  animals                                        Animals for household consumption or sale
+116 nbnotinc                                                    Newborn or child not included
+117   absent                                                                  Absent resident
+118   typehh                                                                Type of household
+119 overcrwd                                                                     Overcrowding
+120   sanitg                                                       Household sanitation grade
+121    segrp                                                              Socioeconomic group
+122    sexhd                                                         Sex of head of household
+123    agehd                                                         Age of head of household
+124  yrschhd                                             Years of school of head of household
+125 landplnt                                                                     Planted land
+126 landharv                                                                   Harvested land
+127   cattle                                                                           Cattle
+128  sheepgt                                                                  Sheep and goats
+129    ducks                                                             Ducks, turkey, geese
+130 chickens                                                                         Chickens
+131    swine                                                                            Swine
+132     bees                                                                         Beehives
+133   pernum                                                                    Person number
+134    wtper                                                                    Person weight
+135   pernum                                                 Person number (within household)
+136   relate                                                Relationship to head of household
+137      sex                                                                              Sex
+138  birthmo                                                                   Month of birth
+139  birthyr                                                                    Year of birth
+140      age                                                                              Age
+141   bplloc                                                                   Place of birth
+142  bplprov                                                                Province of birth
+143  bplmuni                                                            Municipality of birth
+144  bplctry                                                                 Country of birth
+145    arryr                                                       Year of arrival in country
+146    blind                                                      Permanent difficulty seeing
+147     deaf                                                     Permanent difficulty hearing
+148   dismob                                  Permanent difficulty walking or climbing stairs
+149  disarms                                     Permanent difficulty moving one or both arms
+150  dislegs                                     Permanent difficulty moving one or both legs
+151  disconc                                Permanent difficulty remembering or concentrating
+152   disspk                                                    Permanent difficulty speaking
+153     mute                                                                             Mute
+154  dismntl                                                                  Mental problems
+155  amplegs                                                         Missing one or both legs
+156  amparms                                                         Missing one or both arms
+157      lit                                                               Can read and write
+158   school                                                        Attended/attending school
+159  edlevel                                                 Highest level of school attended
+160   edyear                               Last year of primary or secondary school completed
+161  edattan                                    Highest level and year of schooling completed
+162   field5                                                                   Field of study
+163     grad                                                 Graduated from university course
+164  univyrs                                        Total number of years of university study
+165   res5yr                                                   Place of residence 5 years ago
+166   res5yr                                                   Place of residence 5 years ago
+167  prov5yr                                                Province of residence 5 years ago
+168  muni5yr                                            Municipality of residence 5 years ago
+169  ctry5yr                                                 Country of residence 5 years ago
+170  paidlwk                                                          Any paid work past week
+171   hrpdlw Any activity done for at least one hour for which received payment or profit pas
+172   unpdlw                    Helped a relative or a non-relative without payment or profit
+173 activity                                              Main activity of person not in work
+174  canwork                                          Available for work during previous week
+175      occ                                                                       Occupation
+176  classwk                                                              Professional status
+177      ind                                                        Main activity of business
+178    marst                                                                   Marital status
+179  chbornf                                                        Female children ever born
+180  chbornm                                                          Male children ever born
+181  nobirth                                                                   No live births
+182  chsurvf                                                        Female children surviving
+183  chsurvm                                                          Male children surviving
+184 nochsurv                                                            No children surviving
+185    lchmo                                          Month of birth of last child born alive
+186    lchyr                                           Year of birth of last child born alive
+187   lcsurv                                                      Survival of last child born
+188  lchaged                                                  Age at death of last child born
+189   age5yr                                                             Five-year age groups
+190  age5alt                                       Five-year age groups (0 is a unique group)
+191    age10                                                                      Age deciles
+192   agegrp                                                                 Large age groups
+193 yrstudyc                                                        Calculated years of study
+194    field                                                         Field of study, 3 digits
+195     occ1                                                              Occupation, 1 digit
+196     ind1                                                                Industry, 1 digit
+197  empstat                                                  Economic activity of individual
+198   chborn                                                               Children ever born
+199   chsurv                                                               Children surviving
+200  univfld                                                         Field of study, 2 digits

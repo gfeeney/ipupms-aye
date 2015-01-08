@@ -1,0 +1,3335 @@
+         vname  code                          short
+1        cntry    32                      Argentina
+2        cntry    51                        Armenia
+3        cntry    40                        Austria
+4        cntry    50                     Bangladesh
+5        cntry   112                        Belarus
+6        cntry    68                        Bolivia
+7        cntry    76                         Brazil
+8        cntry   854                   Burkina Faso
+9        cntry   116                       Cambodia
+10       cntry   120                       Cameroon
+11       cntry   124                         Canada
+12       cntry   152                          Chile
+13       cntry   156                          China
+14       cntry   170                       Colombia
+15       cntry   188                     Costa Rica
+16       cntry   192                           Cuba
+17       cntry   214             Dominican Republic
+18       cntry   218                        Ecuador
+19       cntry   818                          Egypt
+20       cntry   222                    El Salvador
+21       cntry   242                           Fiji
+22       cntry   250                         France
+23       cntry   276                        Germany
+24       cntry   288                          Ghana
+25       cntry   300                         Greece
+26       cntry   324                         Guinea
+27       cntry   332                          Haiti
+28       cntry   348                        Hungary
+29       cntry   356                          India
+30       cntry   360                      Indonesia
+31       cntry   364                           Iran
+32       cntry   368                           Iraq
+33       cntry   372                        Ireland
+34       cntry   376                         Israel
+35       cntry   380                          Italy
+36       cntry   388                        Jamaica
+37       cntry   400                         Jordan
+38       cntry   404                          Kenya
+39       cntry   417                Kyrgyz Republic
+40       cntry   430                        Liberia
+41       cntry   454                         Malawi
+42       cntry   458                       Malaysia
+43       cntry   466                           Mali
+44       cntry   484                         Mexico
+45       cntry   496                       Mongolia
+46       cntry   504                        Morocco
+47       cntry   524                          Nepal
+48       cntry   528                    Netherlands
+49       cntry   558                      Nicaragua
+50       cntry   566                        Nigeria
+51       cntry   586                       Pakistan
+52       cntry   275                      Palestine
+53       cntry   591                         Panama
+54       cntry   604                           Peru
+55       cntry   608                    Philippines
+56       cntry   620                       Portugal
+57       cntry   630                    Puerto Rico
+58       cntry   642                        Romania
+59       cntry   646                         Rwanda
+60       cntry   662                    Saint Lucia
+61       cntry   686                        Senegal
+62       cntry   694                   Sierra Leone
+63       cntry   705                       Slovenia
+64       cntry   710                   South Africa
+65       cntry   728                    South Sudan
+66       cntry   724                          Spain
+67       cntry   729                          Sudan
+68       cntry   756                    Switzerland
+69       cntry   834                       Tanzania
+70       cntry   764                       Thailand
+71       cntry   792                         Turkey
+72       cntry   800                         Uganda
+73       cntry   804                        Ukraine
+74       cntry   826                 United Kingdom
+75       cntry   840                  United States
+76       cntry   858                        Uruguay
+77       cntry   862                      Venezuela
+78       cntry   704                        Vietnam
+79       cntry   894                         Zambia
+80        year  1960                           1960
+81        year  1962                           1962
+82        year  1963                           1963
+83        year  1964                           1964
+84        year  1966                           1966
+85        year  1968                           1968
+86        year  1969                           1969
+87        year  1970                           1970
+88        year  1971                           1971
+89        year  1972                           1972
+90        year  1973                           1973
+91        year  1974                           1974
+92        year  1975                           1975
+93        year  1976                           1976
+94        year  1977                           1977
+95        year  1979                           1979
+96        year  1980                           1980
+97        year  1981                           1981
+98        year  1982                           1982
+99        year  1983                           1983
+100       year  1984                           1984
+101       year  1985                           1985
+102       year  1986                           1986
+103       year  1987                           1987
+104       year  1989                           1989
+105       year  1990                           1990
+106       year  1991                           1991
+107       year  1992                           1992
+108       year  1993                           1993
+109       year  1994                           1994
+110       year  1995                           1995
+111       year  1996                           1996
+112       year  1997                           1997
+113       year  1998                           1998
+114       year  1999                           1999
+115       year  2000                           2000
+116       year  2001                           2001
+117       year  2002                           2002
+118       year  2003                           2003
+119       year  2004                           2004
+120       year  2005                           2005
+121       year  2006                           2006
+122       year  2007                           2007
+123       year  2008                           2008
+124       year  2009                           2009
+125       year  2010                           2010
+126       year  2011                           2011
+127     sample   321                 Argentina 1970
+128     sample   322                 Argentina 1980
+129     sample   323                 Argentina 1991
+130     sample   324                 Argentina 2001
+131     sample   325                 Argentina 2010
+132     sample   511                   Armenia 2001
+133     sample   401                   Austria 1971
+134     sample   402                   Austria 1981
+135     sample   403                   Austria 1991
+136     sample   404                   Austria 2001
+137     sample   501                Bangladesh 1991
+138     sample   502                Bangladesh 2001
+139     sample   503                Bangladesh 2011
+140     sample   681                   Bolivia 1976
+141     sample   682                   Bolivia 1992
+142     sample   683                   Bolivia 2001
+143     sample   761                    Brazil 1960
+144     sample   762                    Brazil 1970
+145     sample   763                    Brazil 1980
+146     sample   764                    Brazil 1991
+147     sample   765                    Brazil 2000
+148     sample   766                    Brazil 2010
+149     sample  1121                   Belarus 1999
+150     sample  8541              Burkina Faso 1985
+151     sample  8542              Burkina Faso 1996
+152     sample  8543              Burkina Faso 2006
+153     sample  1161                  Cambodia 1998
+154     sample  1162                  Cambodia 2008
+155     sample  1201                  Cameroon 1976
+156     sample  1202                  Cameroon 1987
+157     sample  1203                  Cameroon 2005
+158     sample  1241                    Canada 1971
+159     sample  1242                    Canada 1981
+160     sample  1243                    Canada 1991
+161     sample  1244                    Canada 2001
+162     sample  1521                     Chile 1960
+163     sample  1522                     Chile 1970
+164     sample  1523                     Chile 1982
+165     sample  1524                     Chile 1992
+166     sample  1525                     Chile 2002
+167     sample  1561                     China 1982
+168     sample  1562                     China 1990
+169     sample  1701                  Colombia 1964
+170     sample  1702                  Colombia 1973
+171     sample  1703                  Colombia 1985
+172     sample  1704                  Colombia 1993
+173     sample  1705                  Colombia 2005
+174     sample  1881                Costa Rica 1963
+175     sample  1882                Costa Rica 1973
+176     sample  1883                Costa Rica 1984
+177     sample  1884                Costa Rica 2000
+178     sample  1921                      Cuba 2002
+179     sample  2141        Dominican Republic 1960
+180     sample  2142        Dominican Republic 1970
+181     sample  2143        Dominican Republic 1981
+182     sample  2144        Dominican Republic 2002
+183     sample  2145        Dominican Republic 2010
+184     sample  2181                   Ecuador 1962
+185     sample  2182                   Ecuador 1974
+186     sample  2183                   Ecuador 1982
+187     sample  2184                   Ecuador 1990
+188     sample  2185                   Ecuador 2001
+189     sample  2186                   Ecuador 2010
+190     sample  8181                     Egypt 1996
+191     sample  8182                     Egypt 2006
+192     sample  2221               El Salvador 1992
+193     sample  2222               El Salvador 2007
+194     sample  2421                      Fiji 1966
+195     sample  2422                      Fiji 1976
+196     sample  2423                      Fiji 1986
+197     sample  2424                      Fiji 1996
+198     sample  2425                      Fiji 2007
+199     sample  2501                    France 1962
+200     sample  2502                    France 1968
+201     sample  2503                    France 1975
+202     sample  2504                    France 1982
+203     sample  2505                    France 1990
+204     sample  2506                    France 1999
+205     sample  2507                    France 2006
+206     sample  2761            Germany 1970 (West)
+207     sample  2762            Germany 1971 (East)
+208     sample  2763            Germany 1981 (East)
+209     sample  2764            Germany 1987 (West)
+210     sample  2881                     Ghana 2000
+211     sample  2882                     Ghana 2010
+212     sample  3001                    Greece 1971
+213     sample  3002                    Greece 1981
+214     sample  3003                    Greece 1991
+215     sample  3004                    Greece 2001
+216     sample  3241                    Guinea 1983
+217     sample  3242                    Guinea 1996
+218     sample  3321                     Haiti 1971
+219     sample  3322                     Haiti 1982
+220     sample  3323                     Haiti 2003
+221     sample  3481                   Hungary 1970
+222     sample  3482                   Hungary 1980
+223     sample  3483                   Hungary 1990
+224     sample  3484                   Hungary 2001
+225     sample  3561                     India 1983
+226     sample  3562                     India 1987
+227     sample  3563                     India 1993
+228     sample  3564                     India 1999
+229     sample  3565                     India 2004
+230     sample  3601                 Indonesia 1971
+231     sample  3602                 Indonesia 1976
+232     sample  3603                 Indonesia 1980
+233     sample  3604                 Indonesia 1985
+234     sample  3605                 Indonesia 1990
+235     sample  3606                 Indonesia 1995
+236     sample  3607                 Indonesia 2000
+237     sample  3608                 Indonesia 2005
+238     sample  3609                 Indonesia 2010
+239     sample  3641                      Iran 2006
+240     sample  3681                      Iraq 1997
+241     sample  3721                   Ireland 1971
+242     sample  3722                   Ireland 1979
+243     sample  3723                   Ireland 1981
+244     sample  3724                   Ireland 1986
+245     sample  3725                   Ireland 1991
+246     sample  3726                   Ireland 1996
+247     sample  3727                   Ireland 2002
+248     sample  3728                   Ireland 2006
+249     sample  3729                   Ireland 2011
+250     sample  3761                    Israel 1972
+251     sample  3762                    Israel 1983
+252     sample  3763                    Israel 1995
+253     sample  3801                     Italy 2001
+254     sample  3881                   Jamaica 1982
+255     sample  3882                   Jamaica 1991
+256     sample  3883                   Jamaica 2001
+257     sample  4001                    Jordan 2004
+258     sample  4041                     Kenya 1969
+259     sample  4042                     Kenya 1979
+260     sample  4043                     Kenya 1989
+261     sample  4044                     Kenya 1999
+262     sample  4045                     Kenya 2009
+263     sample  4171           Kyrgyz Republic 1999
+264     sample  4172           Kyrgyz Republic 2009
+265     sample  4301                   Liberia 1974
+266     sample  4302                   Liberia 2008
+267     sample  4541                    Malawi 1987
+268     sample  4542                    Malawi 1998
+269     sample  4543                    Malawi 2008
+270     sample  4581                  Malaysia 1970
+271     sample  4582                  Malaysia 1980
+272     sample  4583                  Malaysia 1991
+273     sample  4584                  Malaysia 2000
+274     sample  4661                      Mali 1987
+275     sample  4662                      Mali 1998
+276     sample  4663                      Mali 2009
+277     sample  4841                    Mexico 1960
+278     sample  4842                    Mexico 1970
+279     sample  4843                    Mexico 1990
+280     sample  4844                    Mexico 1995
+281     sample  4845                    Mexico 2000
+282     sample  4846                    Mexico 2005
+283     sample  4847                    Mexico 2010
+284     sample  4961                  Mongolia 1989
+285     sample  4962                  Mongolia 2000
+286     sample  5041                   Morocco 1982
+287     sample  5042                   Morocco 1994
+288     sample  5043                   Morocco 2004
+289     sample  5241                     Nepal 2001
+290     sample  5281               Netherlands 1960
+291     sample  5282               Netherlands 1971
+292     sample  5283               Netherlands 2001
+293     sample  5581                 Nicaragua 1971
+294     sample  5582                 Nicaragua 1995
+295     sample  5583                 Nicaragua 2005
+296     sample  5661                   Nigeria 2006
+297     sample  5662                   Nigeria 2007
+298     sample  5663                   Nigeria 2008
+299     sample  5664                   Nigeria 2009
+300     sample  5665                   Nigeria 2010
+301     sample  5861                  Pakistan 1973
+302     sample  5862                  Pakistan 1981
+303     sample  5863                  Pakistan 1998
+304     sample  2751                 Palestine 1997
+305     sample  2752                 Palestine 2007
+306     sample  5911                    Panama 1960
+307     sample  5912                    Panama 1970
+308     sample  5913                    Panama 1980
+309     sample  5914                    Panama 1990
+310     sample  5915                    Panama 2000
+311     sample  5916                    Panama 2010
+312     sample  6041                      Peru 1993
+313     sample  6042                      Peru 2007
+314     sample  6081               Philippines 1990
+315     sample  6082               Philippines 1995
+316     sample  6083               Philippines 2000
+317     sample  6201                  Portugal 1981
+318     sample  6202                  Portugal 1991
+319     sample  6203                  Portugal 2001
+320     sample  6301               Puerto Rico 1970
+321     sample  6302               Puerto Rico 1980
+322     sample  6303               Puerto Rico 1990
+323     sample  6304               Puerto Rico 2000
+324     sample  6305               Puerto Rico 2005
+325     sample  6421                   Romania 1977
+326     sample  6422                   Romania 1992
+327     sample  6423                   Romania 2002
+328     sample  6461                    Rwanda 1991
+329     sample  6462                    Rwanda 2002
+330     sample  6621               Saint Lucia 1980
+331     sample  6622               Saint Lucia 1991
+332     sample  6861                   Senegal 1988
+333     sample  6862                   Senegal 2002
+334     sample  6941              Sierra Leone 2004
+335     sample  7051                  Slovenia 2002
+336     sample  7101              South Africa 1996
+337     sample  7102              South Africa 2001
+338     sample  7103              South Africa 2007
+339     sample  7241                     Spain 1981
+340     sample  7242                     Spain 1991
+341     sample  7243                     Spain 2001
+342     sample  7281               South Sudan 2008
+343     sample  7291                     Sudan 2008
+344     sample  7561               Switzerland 1970
+345     sample  7562               Switzerland 1980
+346     sample  7563               Switzerland 1990
+347     sample  7564               Switzerland 2000
+348     sample  8341                  Tanzania 1988
+349     sample  8342                  Tanzania 2002
+350     sample  7641                  Thailand 1970
+351     sample  7642                  Thailand 1980
+352     sample  7643                  Thailand 1990
+353     sample  7644                  Thailand 2000
+354     sample  7921                    Turkey 1985
+355     sample  7922                    Turkey 1990
+356     sample  7923                    Turkey 2000
+357     sample  8001                    Uganda 1991
+358     sample  8002                    Uganda 2002
+359     sample  8041                   Ukraine 2001
+360     sample  8261            United Kingdom 1991
+361     sample  8262            United Kingdom 2001
+362     sample  8401             United States 1960
+363     sample  8402             United States 1970
+364     sample  8403             United States 1980
+365     sample  8404             United States 1990
+366     sample  8405             United States 2000
+367     sample  8406             United States 2005
+368     sample  8407             United States 2010
+369     sample  8581                   Uruguay 1963
+370     sample  8582                   Uruguay 1975
+371     sample  8583                   Uruguay 1985
+372     sample  8584                   Uruguay 1996
+373     sample  8585                   Uruguay 2006
+374     sample  8586                   Uruguay 2011
+375     sample  8621                 Venezuela 1971
+376     sample  8622                 Venezuela 1981
+377     sample  8623                 Venezuela 1990
+378     sample  8624                 Venezuela 2001
+379     sample  7041                   Vietnam 1989
+380     sample  7042                   Vietnam 1999
+381     sample  7043                   Vietnam 2009
+382     sample  8941                    Zambia 1990
+383     sample  8942                    Zambia 2000
+384     sample  8943                    Zambia 2010
+385       pern     1                              1
+386       pern     2                              2
+387       pern     3                              3
+388       pern     4                              4
+389       pern     5                              5
+390       pern     6                              6
+391       pern     7                              7
+392       pern     8                              8
+393       pern     9                              9
+394       pern    10                             10
+395       pern    11                             11
+396       pern    12                             12
+397       pern    13                             13
+398       pern    14                             14
+399       pern    15                             15
+400       pern    16                             16
+401       pern    17                             17
+402       pern    18                             18
+403       pern    19                             19
+404       pern    20                             20
+405       pern    21                             21
+406       pern    22                             22
+407       pern    23                             23
+408       pern    24                             24
+409       pern    25                             25
+410       pern    26                             26
+411       pern    27                             27
+412       pern    28                             28
+413       pern    29                             29
+414       pern    30                             30
+415       fbig     0                     No problem
+416       fbig     1 Yes: households within a large
+417       fbig     2 Yes: persons within a large ho
+418      auton    11                        Galicia
+419      auton    12         Principado de Asturias
+420      auton    13                      Cantabria
+421      auton    21                     País Vasco
+422      auton    22     Comunidad Foral de Navarra
+423      auton    23                       La Rioja
+424      auton    24                         Aragón
+425      auton    30            Comunidad de Madrid
+426      auton    41                Castilla y León
+427      auton    42             Castilla-La Mancha
+428      auton    43                    Extremadura
+429      auton    51                       Cataluña
+430      auton    52           Comunidad Valenciana
+431      auton    53                  Illes Balears
+432      auton    61                      Andalucía
+433      auton    62               Región de Murcia
+434      auton    63       Ciudad Autónoma de Ceuta
+435      auton    64     Ciudad Autónoma de Melilla
+436      auton    70                       Canarias
+437       prov     1                          Álava
+438       prov     2                       Albacete
+439       prov     3               Alicante/Alacant
+440       prov     4                        Almería
+441       prov     5                          Ávila
+442       prov     6                        Badajoz
+443       prov     7                Balears (Illes)
+444       prov     8                      Barcelona
+445       prov     9                         Burgos
+446       prov    10                        Cáceres
+447       prov    11                          Cádiz
+448       prov    12             Castellón/Castelló
+449       prov    13                    Ciudad Real
+450       prov    14                        Córdoba
+451       prov    15                     Coruña (A)
+452       prov    16                         Cuenca
+453       prov    17                         Girona
+454       prov    18                        Granada
+455       prov    19                    Guadalajara
+456       prov    20                      Guipúzcoa
+457       prov    21                         Huelva
+458       prov    22                         Huesca
+459       prov    23                           Jaén
+460       prov    24                           León
+461       prov    25                         Lleida
+462       prov    26                     Rioja (La)
+463       prov    27                           Lugo
+464       prov    28                         Madrid
+465       prov    29                         Málaga
+466       prov    30                         Murcia
+467       prov    31                        Navarra
+468       prov    32                        Ourense
+469       prov    33                       Asturias
+470       prov    34                       Palencia
+471       prov    35                   Palmas (Las)
+472       prov    36                     Pontevedra
+473       prov    37                      Salamanca
+474       prov    38         Santa Cruz de Tenerife
+475       prov    39                      Cantabria
+476       prov    40                        Segovia
+477       prov    41                        Sevilla
+478       prov    42                          Soria
+479       prov    43                      Tarragona
+480       prov    44                         Teruel
+481       prov    45                         Toledo
+482       prov    46              Valencia/València
+483       prov    47                     Valladolid
+484       prov    48                        Vizcaya
+485       prov    49                         Zamora
+486       prov    50                       Zaragoza
+487       prov    51                          Ceuta
+488       prov    52                        Melilla
+489    collect     1              Private dwellings
+490    collect     2           Collective dwellings
+491    collect     3                        Lodging
+492     dwtype     1                   Conventional
+493     dwtype     2 Collective dwellings and lodgi
+494    colltyp     1 Hotels, pensions, other tempor
+495    colltyp     2 University housing, student ho
+496    colltyp     3               Workers' housing
+497    colltyp     4 Boarding schools, military aca
+498    colltyp     5 General hospitals and speciali
+499    colltyp     6          Psychiatric hospitals
+500    colltyp     7   Hospitals for long-term care
+501    colltyp     8 Nursing homes and other reside
+502    colltyp     9 Institutions for persons with 
+503    colltyp    10 Shelters for socially isolated
+504    colltyp    11 Other social assistance instit
+505    colltyp    12 Religious institutions (monast
+506    colltyp    13 Military institutions (barrack
+507    colltyp    14 Penitentiary institutions (pri
+508    colltyp    15 Other type of collective resid
+509    colltyp    99                            NIU
+510    yrmoved  1899                           1899
+511    yrmoved  1900                           1900
+512    yrmoved  1901                           1901
+513    yrmoved  1902                           1902
+514    yrmoved  1903                           1903
+515    yrmoved  1904                           1904
+516    yrmoved  1905                           1905
+517    yrmoved  1906                           1906
+518    yrmoved  1907                           1907
+519    yrmoved  1908                           1908
+520    yrmoved  1909                           1909
+521    yrmoved  1910                           1910
+522    yrmoved  1911                           1911
+523    yrmoved  1912                           1912
+524    yrmoved  1913                           1913
+525    yrmoved  1914                           1914
+526    yrmoved  1915                           1915
+527    yrmoved  1916                           1916
+528    yrmoved  1917                           1917
+529    yrmoved  1918                           1918
+530    yrmoved  1919                           1919
+531    yrmoved  1920                           1920
+532    yrmoved  1921                           1921
+533    yrmoved  1922                           1922
+534    yrmoved  1923                           1923
+535    yrmoved  1924                           1924
+536    yrmoved  1925                           1925
+537    yrmoved  1926                           1926
+538    yrmoved  1927                           1927
+539    yrmoved  1928                           1928
+540    yrmoved  1929                           1929
+541    yrmoved  1930                           1930
+542    yrmoved  1931                           1931
+543    yrmoved  1932                           1932
+544    yrmoved  1933                           1933
+545    yrmoved  1934                           1934
+546    yrmoved  1935                           1935
+547    yrmoved  1936                           1936
+548    yrmoved  1937                           1937
+549    yrmoved  1938                           1938
+550    yrmoved  1939                           1939
+551    yrmoved  1940                           1940
+552    yrmoved  1941                           1941
+553    yrmoved  1942                           1942
+554    yrmoved  1943                           1943
+555    yrmoved  1944                           1944
+556    yrmoved  1945                           1945
+557    yrmoved  1946                           1946
+558    yrmoved  1947                           1947
+559    yrmoved  1948                           1948
+560    yrmoved  1949                           1949
+561    yrmoved  1950                           1950
+562    yrmoved  1951                           1951
+563    yrmoved  1952                           1952
+564    yrmoved  1953                           1953
+565    yrmoved  1954                           1954
+566    yrmoved  1955                           1955
+567    yrmoved  1956                           1956
+568    yrmoved  1957                           1957
+569    yrmoved  1958                           1958
+570    yrmoved  1959                           1959
+571    yrmoved  1960                           1960
+572    yrmoved  1961                           1961
+573    yrmoved  1962                           1962
+574    yrmoved  1963                           1963
+575    yrmoved  1964                           1964
+576    yrmoved  1965                           1965
+577    yrmoved  1966                           1966
+578    yrmoved  1967                           1967
+579    yrmoved  1968                           1968
+580    yrmoved  1969                           1969
+581    yrmoved  1970                           1970
+582    yrmoved  1971                           1971
+583    yrmoved  1972                           1972
+584    yrmoved  1973                           1973
+585    yrmoved  1974                           1974
+586    yrmoved  1975                           1975
+587    yrmoved  1976                           1976
+588    yrmoved  1977                           1977
+589    yrmoved  1978                           1978
+590    yrmoved  1979                           1979
+591    yrmoved  1980                           1980
+592    yrmoved  1981                           1981
+593    yrmoved  1982                           1982
+594    yrmoved  1983                           1983
+595    yrmoved  1984                           1984
+596    yrmoved  1985                           1985
+597    yrmoved  1986                           1986
+598    yrmoved  1987                           1987
+599    yrmoved  1988                           1988
+600    yrmoved  1989                           1989
+601    yrmoved  1990                           1990
+602    yrmoved  1991                           1991
+603    yrmoved  1992                           1992
+604    yrmoved  1993                           1993
+605    yrmoved  1994                           1994
+606    yrmoved  1995                           1995
+607    yrmoved  1996                           1996
+608    yrmoved  1997                           1997
+609    yrmoved  1998                           1998
+610    yrmoved  1999                           1999
+611    yrmoved  2000                           2000
+612    yrmoved  2001                           2001
+613    yrmoved  9999                            NIU
+614      owner     1 Owned through purchase, totall
+615      owner     2 Owned through purchase, with p
+616      owner     3 Owned through inheritance or d
+617      owner     4                         Rented
+618      owner     5 Provided free or at low cost b
+619      owner     6                     Other form
+620      owner     9                            NIU
+621      noisy     1           With exterior noises
+622      noisy     2        Without exterior noises
+623      noisy     9                            NIU
+624    pollute     1                            Yes
+625    pollute     2                             No
+626    pollute     9                            NIU
+627      clean     1                            Yes
+628      clean     2                             No
+629      clean     9                            NIU
+630     commun     1                            Yes
+631     commun     2                             No
+632     commun     9                            NIU
+633      green     1                            Yes
+634      green     2                             No
+635      green     9                            NIU
+636     delinq     1                            Yes
+637     delinq     2                             No
+638     delinq     9                            NIU
+639     noserv     1                            Yes
+640     noserv     2                             No
+641     noserv     9                            NIU
+642     aircon     1           Has air conditioning
+643     aircon     2                             No
+644     aircon     9                            NIU
+645       heat     1 With collective heating system
+646       heat     2 With individual heating system
+647       heat     3 Without heating system, but wi
+648       heat     4             No heating methods
+649       heat     9                            NIU
+650   heatfuel     1                            Gas
+651   heatfuel     2                    Electricity
+652   heatfuel     3        Petroleum or derivative
+653   heatfuel     4                           Wood
+654   heatfuel     5             Coal or derivative
+655   heatfuel     6                          Other
+656   heatfuel     9                            NIU
+657    stories     1                              1
+658    stories     2                              2
+659    stories     3                              3
+660    stories     4                              4
+661    stories     5                              5
+662    stories     6                              6
+663    stories     7                              7
+664    stories     8                              8
+665    stories     9                              9
+666    stories    10                            10+
+667    stories    99                        Unknown
+668      rooms     1                              1
+669      rooms     2                              2
+670      rooms     3                              3
+671      rooms     4                              4
+672      rooms     5                              5
+673      rooms     6                              6
+674      rooms     7                              7
+675      rooms     8                              8
+676      rooms     9                              9
+677      rooms    10                             10
+678      rooms    11                             11
+679      rooms    12                             12
+680      rooms    13                             13
+681      rooms    14                             14
+682      rooms    15                             15
+683      rooms    16                             16
+684      rooms    17                             17
+685      rooms    18                             18
+686      rooms    19                             19
+687      rooms    20                            20+
+688      rooms    99                            NIU
+689      space    29                       Under 30
+690      space    30                       30 to 45
+691      space    46                       46 to 60
+692      space    61                       61 to 75
+693      space    76                       76 to 90
+694      space    91                      91 to 105
+695      space   106                     106 to 120
+696      space   121                     121 to 150
+697      space   151                     151 to 180
+698      space   181                           181+
+699      space   999                            NIU
+700      secdw     1            Has second dwelling
+701      secdw     2  Does not have second dwelling
+702      secdw     9                            NIU
+703     secdwl     1       In the same municipality
+704     secdwl     2        In another municipality
+705     secdwl     3             In another country
+706     secdwl     9                            NIU
+707     secdwp     1                          Álava
+708     secdwp     2                       Albacete
+709     secdwp     3               Alicante/Alacant
+710     secdwp     4                        Almería
+711     secdwp     5                          Ávila
+712     secdwp     6                        Badajoz
+713     secdwp     7                Balears (Illes)
+714     secdwp     8                      Barcelona
+715     secdwp     9                         Burgos
+716     secdwp    10                        Cáceres
+717     secdwp    11                          Cádiz
+718     secdwp    12             Castellón/Castelló
+719     secdwp    13                    Ciudad Real
+720     secdwp    14                        Córdoba
+721     secdwp    15                     Coruña (A)
+722     secdwp    16                         Cuenca
+723     secdwp    17                         Girona
+724     secdwp    18                        Granada
+725     secdwp    19                    Guadalajara
+726     secdwp    20                      Guipúzcoa
+727     secdwp    21                         Huelva
+728     secdwp    22                         Huesca
+729     secdwp    23                           Jaén
+730     secdwp    24                           León
+731     secdwp    25                         Lleida
+732     secdwp    26                     Rioja (La)
+733     secdwp    27                           Lugo
+734     secdwp    28                         Madrid
+735     secdwp    29                         Málaga
+736     secdwp    30                         Murcia
+737     secdwp    31                        Navarra
+738     secdwp    32                        Ourense
+739     secdwp    33                       Asturias
+740     secdwp    34                       Palencia
+741     secdwp    35                   Palmas (Las)
+742     secdwp    36                     Pontevedra
+743     secdwp    37                      Salamanca
+744     secdwp    38         Santa Cruz de Tenerife
+745     secdwp    39                      Cantabria
+746     secdwp    40                        Segovia
+747     secdwp    41                        Sevilla
+748     secdwp    42                          Soria
+749     secdwp    43                      Tarragona
+750     secdwp    44                         Teruel
+751     secdwp    45                         Toledo
+752     secdwp    46              Valencia/València
+753     secdwp    47                     Valladolid
+754     secdwp    48                        Vizcaya
+755     secdwp    49                         Zamora
+756     secdwp    50                       Zaragoza
+757     secdwp    51                          Ceuta
+758     secdwp    52                        Melilla
+759     secdwp    99                            NIU
+760     secdwu     1                              1
+761     secdwu     2                              2
+762     secdwu     3                              3
+763     secdwu     4                              4
+764     secdwu     5                              5
+765     secdwu     6                              6
+766     secdwu     7                              7
+767     secdwu     8                              8
+768     secdwu     9                              9
+769     secdwu    10                             10
+770     secdwu    11                             11
+771     secdwu    12                             12
+772     secdwu    13                             13
+773     secdwu    14                             14
+774     secdwu    15                             15
+775     secdwu    16                             16
+776     secdwu    17                             17
+777     secdwu    18                             18
+778     secdwu    19                             19
+779     secdwu    20                             20
+780     secdwu    21                             21
+781     secdwu    22                             22
+782     secdwu    23                             23
+783     secdwu    24                             24
+784     secdwu    25                             25
+785     secdwu    26                             26
+786     secdwu    27                             27
+787     secdwu    28                             28
+788     secdwu    29                             29
+789     secdwu    30                             30
+790     secdwu    31                             31
+791     secdwu    32                             32
+792     secdwu    33                             33
+793     secdwu    34                             34
+794     secdwu    35                             35
+795     secdwu    36                             36
+796     secdwu    37                             37
+797     secdwu    38                             38
+798     secdwu    39                             39
+799     secdwu    40                             40
+800     secdwu    41                             41
+801     secdwu    42                             42
+802     secdwu    43                             43
+803     secdwu    44                             44
+804     secdwu    45                             45
+805     secdwu    46                             46
+806     secdwu    47                             47
+807     secdwu    48                             48
+808     secdwu    49                             49
+809     secdwu    50                             50
+810     secdwu    51                             51
+811     secdwu    52                             52
+812     secdwu    53                             53
+813     secdwu    54                             54
+814     secdwu    55                             55
+815     secdwu    56                             56
+816     secdwu    57                             57
+817     secdwu    58                             58
+818     secdwu    59                             59
+819     secdwu    60                             60
+820     secdwu    61                             61
+821     secdwu    62                             62
+822     secdwu    63                             63
+823     secdwu    64                             64
+824     secdwu    65                             65
+825     secdwu    66                             66
+826     secdwu    67                             67
+827     secdwu    68                             68
+828     secdwu    69                             69
+829     secdwu    70                             70
+830     secdwu    71                             71
+831     secdwu    72                             72
+832     secdwu    73                             73
+833     secdwu    74                             74
+834     secdwu    75                             75
+835     secdwu    76                             76
+836     secdwu    77                             77
+837     secdwu    78                             78
+838     secdwu    79                             79
+839     secdwu    80                             80
+840     secdwu    81                             81
+841     secdwu    82                             82
+842     secdwu    83                             83
+843     secdwu    84                             84
+844     secdwu    85                             85
+845     secdwu    86                             86
+846     secdwu    87                             87
+847     secdwu    88                             88
+848     secdwu    89                             89
+849     secdwu    90                             90
+850     secdwu    91                             91
+851     secdwu    92                             92
+852     secdwu    93                             93
+853     secdwu    94                             94
+854     secdwu    95                             95
+855     secdwu    96                             96
+856     secdwu    97                             97
+857     secdwu    98                             98
+858     secdwu    99                             99
+859     secdwu   100                            100
+860     secdwu   101                            101
+861     secdwu   102                            102
+862     secdwu   103                            103
+863     secdwu   104                            104
+864     secdwu   105                            105
+865     secdwu   106                            106
+866     secdwu   107                            107
+867     secdwu   108                            108
+868     secdwu   109                            109
+869     secdwu   110                            110
+870     secdwu   111                            111
+871     secdwu   112                            112
+872     secdwu   113                            113
+873     secdwu   114                            114
+874     secdwu   115                            115
+875     secdwu   116                            116
+876     secdwu   117                            117
+877     secdwu   118                            118
+878     secdwu   119                            119
+879     secdwu   120                            120
+880     secdwu   121                            121
+881     secdwu   122                            122
+882     secdwu   123                            123
+883     secdwu   124                            124
+884     secdwu   125                            125
+885     secdwu   126                            126
+886     secdwu   127                            127
+887     secdwu   128                            128
+888     secdwu   129                            129
+889     secdwu   130                            130
+890     secdwu   132                            132
+891     secdwu   133                            133
+892     secdwu   134                            134
+893     secdwu   135                            135
+894     secdwu   136                            136
+895     secdwu   137                            137
+896     secdwu   138                            138
+897     secdwu   140                            140
+898     secdwu   141                            141
+899     secdwu   142                            142
+900     secdwu   144                            144
+901     secdwu   145                            145
+902     secdwu   146                            146
+903     secdwu   147                            147
+904     secdwu   148                            148
+905     secdwu   150                            150
+906     secdwu   151                            151
+907     secdwu   152                            152
+908     secdwu   153                            153
+909     secdwu   154                            154
+910     secdwu   155                            155
+911     secdwu   156                            156
+912     secdwu   157                            157
+913     secdwu   158                            158
+914     secdwu   159                            159
+915     secdwu   160                            160
+916     secdwu   161                            161
+917     secdwu   162                            162
+918     secdwu   163                            163
+919     secdwu   164                            164
+920     secdwu   165                            165
+921     secdwu   166                            166
+922     secdwu   167                            167
+923     secdwu   168                            168
+924     secdwu   170                            170
+925     secdwu   172                            172
+926     secdwu   173                            173
+927     secdwu   174                            174
+928     secdwu   175                            175
+929     secdwu   176                            176
+930     secdwu   178                            178
+931     secdwu   179                            179
+932     secdwu   180                            180
+933     secdwu   181                            181
+934     secdwu   182                            182
+935     secdwu   183                            183
+936     secdwu   184                            184
+937     secdwu   185                            185
+938     secdwu   186                            186
+939     secdwu   188                            188
+940     secdwu   189                            189
+941     secdwu   190                            190
+942     secdwu   191                            191
+943     secdwu   192                            192
+944     secdwu   193                            193
+945     secdwu   194                            194
+946     secdwu   195                            195
+947     secdwu   196                            196
+948     secdwu   197                            197
+949     secdwu   198                            198
+950     secdwu   200                            200
+951     secdwu   201                            201
+952     secdwu   202                            202
+953     secdwu   203                            203
+954     secdwu   204                            204
+955     secdwu   205                            205
+956     secdwu   206                            206
+957     secdwu   207                            207
+958     secdwu   208                            208
+959     secdwu   210                            210
+960     secdwu   211                            211
+961     secdwu   212                            212
+962     secdwu   213                            213
+963     secdwu   214                            214
+964     secdwu   215                            215
+965     secdwu   216                            216
+966     secdwu   217                            217
+967     secdwu   219                            219
+968     secdwu   220                            220
+969     secdwu   222                            222
+970     secdwu   224                            224
+971     secdwu   225                            225
+972     secdwu   228                            228
+973     secdwu   230                            230
+974     secdwu   231                            231
+975     secdwu   235                            235
+976     secdwu   237                            237
+977     secdwu   239                            239
+978     secdwu   240                            240
+979     secdwu   242                            242
+980     secdwu   245                            245
+981     secdwu   246                            246
+982     secdwu   247                            247
+983     secdwu   250                            250
+984     secdwu   251                            251
+985     secdwu   252                            252
+986     secdwu   255                            255
+987     secdwu   256                            256
+988     secdwu   259                            259
+989     secdwu   260                            260
+990     secdwu   264                            264
+991     secdwu   265                            265
+992     secdwu   269                            269
+993     secdwu   270                            270
+994     secdwu   273                            273
+995     secdwu   275                            275
+996     secdwu   277                            277
+997     secdwu   280                            280
+998     secdwu   281                            281
+999     secdwu   283                            283
+1000    secdwu   285                            285
+1001    secdwu   288                            288
+1002    secdwu   290                            290
+1003    secdwu   295                            295
+1004    secdwu   297                            297
+1005    secdwu   300                            300
+1006    secdwu   301                            301
+1007    secdwu   305                            305
+1008    secdwu   308                            308
+1009    secdwu   309                            309
+1010    secdwu   310                            310
+1011    secdwu   311                            311
+1012    secdwu   315                            315
+1013    secdwu   320                            320
+1014    secdwu   325                            325
+1015    secdwu   330                            330
+1016    secdwu   335                            335
+1017    secdwu   340                            340
+1018    secdwu   342                            342
+1019    secdwu   343                            343
+1020    secdwu   345                            345
+1021    secdwu   350                            350
+1022    secdwu   351                            351
+1023    secdwu   355                            355
+1024    secdwu   356                            356
+1025    secdwu   360                            360
+1026    secdwu   361                            361
+1027    secdwu   362                            362
+1028    secdwu   363                            363
+1029    secdwu   364                            364
+1030    secdwu   365                            365
+1031    secdwu   999                            NIU
+1032     vehic     1                              1
+1033     vehic     2                              2
+1034     vehic     3                            3 +
+1035     vehic     4                 None available
+1036     vehic     9                            NIU
+1037     flrup     1                              1
+1038     flrup     2                              2
+1039     flrup     3                              3
+1040     flrup     4                              4
+1041     flrup     5                              5
+1042     flrup     6                              6
+1043     flrup     7                              7
+1044     flrup     8                              8
+1045     flrup     9                              9
+1046     flrup    10                            10+
+1047    flrdwn     0                              0
+1048    flrdwn     1                              1
+1049    flrdwn     2                              2
+1050    flrdwn     3                             3+
+1051   bldtype     0                        Lodging
+1052   bldtype     1 Building with only one family 
+1053   bldtype     2 Building with only family dwel
+1054   bldtype     3 Buildings with mainly family d
+1055   bldtype     4 Buildings primarily with colle
+1056   bldtype     5 Buildings primarily with colle
+1057   bldtype     6 Buildings primarily with colle
+1058   bldtype     7 Buildings primarily with colle
+1059   bldtype     8 Buildings primarily with comme
+1060  constyr1     1                    Before 1900
+1061  constyr1     2                    1900 - 1920
+1062  constyr1     3                    1921 - 1940
+1063  constyr1     4                    1941 - 1950
+1064  constyr1     5                    1951 - 1960
+1065  constyr1     6                    1961 - 1970
+1066  constyr1     7                    1971 - 1980
+1067  constyr1     8                    1981 - 1990
+1068  constyr1     9                    1991 - 2001
+1069  constyr1    98                            NIU
+1070  constyr2  1991                           1991
+1071  constyr2  1992                           1992
+1072  constyr2  1993                           1993
+1073  constyr2  1994                           1994
+1074  constyr2  1995                           1995
+1075  constyr2  1996                           1996
+1076  constyr2  1997                           1997
+1077  constyr2  1998                           1998
+1078  constyr2  1999                           1999
+1079  constyr2  2000                           2000
+1080  constyr2  2001                           2001
+1081  constyr2  9998                        Unknown
+1082  constyr2  9999                            NIU
+1083   bldcond     1                       In ruins
+1084   bldcond     2                            Bad
+1085   bldcond     3                      Deficient
+1086   bldcond     4                           Good
+1087   bldcond     9                            NIU
+1088  ownertyp     1                     One person
+1089  ownertyp     2                  The community
+1090  ownertyp     3                      A society
+1091  ownertyp     4          A public organization
+1092  ownertyp     9                            NIU
+1093    access     1      Accessible, with elevator
+1094    access     2   Accessible, without elevator
+1095    access     3  Not accessible, with elevator
+1096    access     4 Not accessible, without elevat
+1097    access     9                            NIU
+1098    runwat     1           Public water service
+1099    runwat     2          Private water service
+1100    runwat     3     No running water available
+1101    runwat     9                            NIU
+1102    sewage     1                  Sewage drains
+1103    sewage     2                     Other type
+1104    sewage     3                 None available
+1105    sewage     9                            NIU
+1106  doorkeep     1                 Only automatic
+1107  doorkeep     2    Only opened by a doorperson
+1108  doorkeep     3                           Both
+1109  doorkeep     4                 None available
+1110  doorkeep     9                            NIU
+1111    garage     1              Yes, has a garage
+1112    garage     2                      No garage
+1113    garage     9                            NIU
+1114       gas     1                   Yes, has gas
+1115       gas     2              Does not have gas
+1116       gas     9                            NIU
+1117     phone     1       Yes, has telephone lines
+1118     phone     2                 None available
+1119     phone     9                            NIU
+1120    hotwat     1                 Yes, available
+1121    hotwat     2                 None available
+1122    hotwat     9                            NIU
+1123      nfam     0                              0
+1124      nfam     1                              1
+1125      nfam     2                              2
+1126      nfam     3                              3
+1127      nfam     4                              4
+1128      nfam     5                              5
+1129      nfam     9                            NIU
+1130      nnuc     0                              0
+1131      nnuc     1                              1
+1132      nnuc     2                              2
+1133      nnuc     3                              3
+1134      nnuc     4                              4
+1135      nnuc     5                              5
+1136      nnuc     6                              6
+1137      nnuc     7                              7
+1138      nnuc     9                            NIU
+1139   nperfam     0                              0
+1140   nperfam     2                              2
+1141   nperfam     3                              3
+1142   nperfam     4                              4
+1143   nperfam     5                              5
+1144   nperfam     6                              6
+1145   nperfam     7                              7
+1146   nperfam     8                              8
+1147   nperfam     9                              9
+1148   nperfam    10                             10
+1149   nperfam    11                             11
+1150   nperfam    12                             12
+1151   nperfam    13                             13
+1152   nperfam    14                             14
+1153   nperfam    15                             15
+1154   nperfam    16                             16
+1155   nperfam    17                             17
+1156   nperfam    18                             18
+1157   nperfam    19                             19
+1158   nperfam    20                             20
+1159   nperfam    21                             21
+1160   nperfam    23                             23
+1161   nperfam    25                             25
+1162   nperfam    99                            NIU
+1163    pernum     0               Household record
+1164    pernum     1                              1
+1165    pernum     2                              2
+1166    pernum     3                              3
+1167    pernum     4                              4
+1168    pernum     5                              5
+1169    pernum     6                              6
+1170    pernum     7                              7
+1171    pernum     8                              8
+1172    pernum     9                              9
+1173    pernum    10                             10
+1174    pernum    11                             11
+1175    pernum    12                             12
+1176    pernum    13                             13
+1177    pernum    14                             14
+1178    pernum    15                             15
+1179    pernum    16                             16
+1180    pernum    17                             17
+1181    pernum    18                             18
+1182    pernum    19                             19
+1183    pernum    20                             20
+1184    pernum    21                             21
+1185    pernum    22                             22
+1186    pernum    23                             23
+1187    pernum    24                             24
+1188    pernum    25                             25
+1189    pernum    26                             26
+1190    pernum    27                             27
+1191    pernum    28                             28
+1192    pernum    29                             29
+1193    pernum    30                             30
+1194   pernumo     1                              1
+1195   pernumo     2                              2
+1196   pernumo     3                              3
+1197   pernumo     4                              4
+1198   pernumo     5                              5
+1199   pernumo     6                              6
+1200   pernumo     7                              7
+1201   pernumo     8                              8
+1202   pernumo     9                              9
+1203   pernumo    10                             10
+1204   pernumo    11                             11
+1205   pernumo    12                             12
+1206   pernumo    13                             13
+1207   pernumo    14                             14
+1208   pernumo    15                             15
+1209   pernumo    16                             16
+1210   pernumo    17                             17
+1211   pernumo    18                             18
+1212   pernumo    19                             19
+1213   pernumo    20                             20
+1214   pernumo    21                             21
+1215   pernumo    22                             22
+1216   pernumo    23                             23
+1217   pernumo    24                             24
+1218   pernumo    25                             25
+1219   pernumo    26                             26
+1220   pernumo    27                             27
+1221   pernumo    28                             28
+1222   pernumo    29                             29
+1223   pernumo    30                             30
+1224   pernumo    31                             31
+1225   pernumo    32                             32
+1226   pernumo    33                             33
+1227   pernumo    34                             34
+1228   pernumo    35                             35
+1229   pernumo    36                             36
+1230   pernumo    37                             37
+1231   pernumo    38                             38
+1232   pernumo    39                             39
+1233   pernumo    40                             40
+1234   pernumo    41                             41
+1235   pernumo    42                             42
+1236   pernumo    43                             43
+1237   pernumo    44                             44
+1238   pernumo    45                             45
+1239   pernumo    46                             46
+1240   pernumo    47                             47
+1241   pernumo    48                             48
+1242   pernumo    49                             49
+1243   pernumo    50                             50
+1244   pernumo    51                             51
+1245   pernumo    52                             52
+1246   pernumo    53                             53
+1247   pernumo    54                             54
+1248   pernumo    55                             55
+1249   pernumo    56                             56
+1250   pernumo    57                             57
+1251   pernumo    58                             58
+1252   pernumo    59                             59
+1253   pernumo    60                             60
+1254   pernumo    61                             61
+1255   pernumo    62                             62
+1256   pernumo    63                             63
+1257   pernumo    64                             64
+1258   pernumo    65                             65
+1259   pernumo    66                             66
+1260   pernumo    67                             67
+1261   pernumo    68                             68
+1262   pernumo    69                             69
+1263   pernumo    70                             70
+1264   pernumo    71                             71
+1265   pernumo    72                             72
+1266   pernumo    73                             73
+1267   pernumo    74                             74
+1268   pernumo    75                             75
+1269   pernumo    76                             76
+1270   pernumo    77                             77
+1271   pernumo    78                             78
+1272   pernumo    79                             79
+1273   pernumo    80                             80
+1274   pernumo    81                             81
+1275   pernumo    82                             82
+1276   pernumo    83                             83
+1277   pernumo    84                             84
+1278   pernumo    85                             85
+1279   pernumo    86                             86
+1280   pernumo    87                             87
+1281   pernumo    88                             88
+1282   pernumo    89                             89
+1283   pernumo    90                             90
+1284   pernumo    91                             91
+1285   pernumo    92                             92
+1286   pernumo    93                             93
+1287   pernumo    94                             94
+1288   pernumo    95                             95
+1289   pernumo    96                             96
+1290   pernumo    97                             97
+1291   pernumo    98                             98
+1292   pernumo    99                             99
+1293     birmo     1                        January
+1294     birmo     2                       February
+1295     birmo     3                          March
+1296     birmo     4                          April
+1297     birmo     5                            May
+1298     birmo     6                           June
+1299     birmo     7                           July
+1300     birmo     8                         August
+1301     birmo     9                      September
+1302     birmo    10                        October
+1303     birmo    11                       November
+1304     birmo    12                       December
+1305     biryr  1893                           1893
+1306     biryr  1894                           1894
+1307     biryr  1895                           1895
+1308     biryr  1896                           1896
+1309     biryr  1897                           1897
+1310     biryr  1898                           1898
+1311     biryr  1899                           1899
+1312     biryr  1900                           1900
+1313     biryr  1901                           1901
+1314     biryr  1902                           1902
+1315     biryr  1903                           1903
+1316     biryr  1904                           1904
+1317     biryr  1905                           1905
+1318     biryr  1906                           1906
+1319     biryr  1907                           1907
+1320     biryr  1908                           1908
+1321     biryr  1909                           1909
+1322     biryr  1910                           1910
+1323     biryr  1911                           1911
+1324     biryr  1912                           1912
+1325     biryr  1913                           1913
+1326     biryr  1914                           1914
+1327     biryr  1915                           1915
+1328     biryr  1916                           1916
+1329     biryr  1917                           1917
+1330     biryr  1918                           1918
+1331     biryr  1919                           1919
+1332     biryr  1920                           1920
+1333     biryr  1921                           1921
+1334     biryr  1922                           1922
+1335     biryr  1923                           1923
+1336     biryr  1924                           1924
+1337     biryr  1925                           1925
+1338     biryr  1926                           1926
+1339     biryr  1927                           1927
+1340     biryr  1928                           1928
+1341     biryr  1929                           1929
+1342     biryr  1930                           1930
+1343     biryr  1931                           1931
+1344     biryr  1932                           1932
+1345     biryr  1933                           1933
+1346     biryr  1934                           1934
+1347     biryr  1935                           1935
+1348     biryr  1936                           1936
+1349     biryr  1937                           1937
+1350     biryr  1938                           1938
+1351     biryr  1939                           1939
+1352     biryr  1940                           1940
+1353     biryr  1941                           1941
+1354     biryr  1942                           1942
+1355     biryr  1943                           1943
+1356     biryr  1944                           1944
+1357     biryr  1945                           1945
+1358     biryr  1946                           1946
+1359     biryr  1947                           1947
+1360     biryr  1948                           1948
+1361     biryr  1949                           1949
+1362     biryr  1950                           1950
+1363     biryr  1951                           1951
+1364     biryr  1952                           1952
+1365     biryr  1953                           1953
+1366     biryr  1954                           1954
+1367     biryr  1955                           1955
+1368     biryr  1956                           1956
+1369     biryr  1957                           1957
+1370     biryr  1958                           1958
+1371     biryr  1959                           1959
+1372     biryr  1960                           1960
+1373     biryr  1961                           1961
+1374     biryr  1962                           1962
+1375     biryr  1963                           1963
+1376     biryr  1964                           1964
+1377     biryr  1965                           1965
+1378     biryr  1966                           1966
+1379     biryr  1967                           1967
+1380     biryr  1968                           1968
+1381     biryr  1969                           1969
+1382     biryr  1970                           1970
+1383     biryr  1971                           1971
+1384     biryr  1972                           1972
+1385     biryr  1973                           1973
+1386     biryr  1974                           1974
+1387     biryr  1975                           1975
+1388     biryr  1976                           1976
+1389     biryr  1977                           1977
+1390     biryr  1978                           1978
+1391     biryr  1979                           1979
+1392     biryr  1980                           1980
+1393     biryr  1981                           1981
+1394     biryr  1982                           1982
+1395     biryr  1983                           1983
+1396     biryr  1984                           1984
+1397     biryr  1985                           1985
+1398     biryr  1986                           1986
+1399     biryr  1987                           1987
+1400     biryr  1988                           1988
+1401     biryr  1989                           1989
+1402     biryr  1990                           1990
+1403     biryr  1991                           1991
+1404     biryr  1992                           1992
+1405     biryr  1993                           1993
+1406     biryr  1994                           1994
+1407     biryr  1995                           1995
+1408     biryr  1996                           1996
+1409     biryr  1997                           1997
+1410     biryr  1998                           1998
+1411     biryr  1999                           1999
+1412     biryr  2000                           2000
+1413     biryr  2001                           2001
+1414       age     0                              0
+1415       age     1                              1
+1416       age     2                              2
+1417       age     3                              3
+1418       age     4                              4
+1419       age     5                              5
+1420       age     6                              6
+1421       age     7                              7
+1422       age     8                              8
+1423       age     9                              9
+1424       age    10                             10
+1425       age    11                             11
+1426       age    12                             12
+1427       age    13                             13
+1428       age    14                             14
+1429       age    15                             15
+1430       age    16                             16
+1431       age    17                             17
+1432       age    18                             18
+1433       age    19                             19
+1434       age    20                             20
+1435       age    21                             21
+1436       age    22                             22
+1437       age    23                             23
+1438       age    24                             24
+1439       age    25                             25
+1440       age    26                             26
+1441       age    27                             27
+1442       age    28                             28
+1443       age    29                             29
+1444       age    30                             30
+1445       age    31                             31
+1446       age    32                             32
+1447       age    33                             33
+1448       age    34                             34
+1449       age    35                             35
+1450       age    36                             36
+1451       age    37                             37
+1452       age    38                             38
+1453       age    39                             39
+1454       age    40                             40
+1455       age    41                             41
+1456       age    42                             42
+1457       age    43                             43
+1458       age    44                             44
+1459       age    45                             45
+1460       age    46                             46
+1461       age    47                             47
+1462       age    48                             48
+1463       age    49                             49
+1464       age    50                             50
+1465       age    51                             51
+1466       age    52                             52
+1467       age    53                             53
+1468       age    54                             54
+1469       age    55                             55
+1470       age    56                             56
+1471       age    57                             57
+1472       age    58                             58
+1473       age    59                             59
+1474       age    60                             60
+1475       age    61                             61
+1476       age    62                             62
+1477       age    63                             63
+1478       age    64                             64
+1479       age    65                             65
+1480       age    66                             66
+1481       age    67                             67
+1482       age    68                             68
+1483       age    69                             69
+1484       age    70                             70
+1485       age    71                             71
+1486       age    72                             72
+1487       age    73                             73
+1488       age    74                             74
+1489       age    75                             75
+1490       age    76                             76
+1491       age    77                             77
+1492       age    78                             78
+1493       age    79                             79
+1494       age    80                             80
+1495       age    81                             81
+1496       age    82                             82
+1497       age    83                             83
+1498       age    84                             84
+1499       age    85                             85
+1500       age    86                             86
+1501       age    87                             87
+1502       age    88                             88
+1503       age    89                             89
+1504       age    90                             90
+1505       age    91                             91
+1506       age    92                             92
+1507       age    93                             93
+1508       age    94                             94
+1509       age    95                             95
+1510       age    96                             96
+1511       age    97                             97
+1512       age    98                             98
+1513       age    99                             99
+1514       age   100                           100+
+1515       sex     1                            Man
+1516       sex     2                          Woman
+1517    nation   100                         Europe
+1518    nation   101                        Albania
+1519    nation   102                        Austria
+1520    nation   103                        Belgium
+1521    nation   104                       Bulgaria
+1522    nation   106                         Cyprus
+1523    nation   107                        Denmark
+1524    nation   108                          Spain
+1525    nation   109                        Finland
+1526    nation   110                         France
+1527    nation   111                         Greece
+1528    nation   112                        Hungary
+1529    nation   113                        Ireland
+1530    nation   114                        Iceland
+1531    nation   115                          Italy
+1532    nation   116                  Liechtenstein
+1533    nation   117                      Luxemburg
+1534    nation   118                          Malta
+1535    nation   119                         Monaco
+1536    nation   120                         Norway
+1537    nation   121                  Low Countries
+1538    nation   122                         Poland
+1539    nation   123                       Portugal
+1540    nation   124                        Andorra
+1541    nation   125                 United Kingdom
+1542    nation   126                        Germany
+1543    nation   128                        Rumania
+1544    nation   129                     San Marino
+1545    nation   130                   Vatican City
+1546    nation   131                         Sweden
+1547    nation   132                    Switzerland
+1548    nation   135                        Ukraine
+1549    nation   136                        Letonia
+1550    nation   137                        Moldova
+1551    nation   138                    Bielorrusia
+1552    nation   139                        Georgia
+1553    nation   141                        Estonia
+1554    nation   142                      Lithuania
+1555    nation   143                  Chek Republic
+1556    nation   144                       Slovakia
+1557    nation   145             Bosnia-Herzegovina
+1558    nation   146                        Croacia
+1559    nation   147                       Slovenia
+1560    nation   148                        Armenia
+1561    nation   154                         Russia
+1562    nation   155                     Yugoslavia
+1563    nation   156                      Macedonia
+1564    nation   200                         Africa
+1565    nation   201                  Burkina Fasso
+1566    nation   202                         Angola
+1567    nation   203                        Argelia
+1568    nation   204                          Benin
+1569    nation   205                       Botswana
+1570    nation   206                        Burundi
+1571    nation   207                     Cabo Verde
+1572    nation   208                        Camerun
+1573    nation   209                        Comores
+1574    nation   210                          Congo
+1575    nation   211                    Ivory Coast
+1576    nation   212                       Djibouti
+1577    nation   213                          Egypt
+1578    nation   214                       Ethiopia
+1579    nation   215                          Gabon
+1580    nation   216                         Gambia
+1581    nation   217                          Ghana
+1582    nation   218                         Guinea
+1583    nation   219                  Guinea Bissau
+1584    nation   220              Guinea Equatorial
+1585    nation   221                          Kenya
+1586    nation   222                        Lesotho
+1587    nation   223                        Liberia
+1588    nation   224                          Libya
+1589    nation   225                     Madagascar
+1590    nation   226                         Malawi
+1591    nation   227                           Mali
+1592    nation   228                        Morocco
+1593    nation   229                       Mauricio
+1594    nation   230                     Mauritania
+1595    nation   231                     Mozambique
+1596    nation   232                        Namibia
+1597    nation   233                          Niger
+1598    nation   234                        Nigeria
+1599    nation   235     Republic of Central Africa
+1600    nation   236                      Sudafrica
+1601    nation   237                         Ruanda
+1602    nation   238          Santo Tome Y Principe
+1603    nation   239                        Senegal
+1604    nation   240                     Seychelles
+1605    nation   241                   Sierra Leona
+1606    nation   242                        Somalia
+1607    nation   243                          Sudan
+1608    nation   244                    Swazilandia
+1609    nation   245                       Tanzania
+1610    nation   246                           Chad
+1611    nation   247                           Togo
+1612    nation   248                          Tunez
+1613    nation   249                         Uganda
+1614    nation   250                          Zaire
+1615    nation   251                         Zambia
+1616    nation   252                       Zimbabwe
+1617    nation   253                        Eritrea
+1618    nation   300                        America
+1619    nation   301                         Canada
+1620    nation   302       United States of America
+1621    nation   303                         Mexico
+1622    nation   310            Antigua and Barbuda
+1623    nation   311                        Bahamas
+1624    nation   312                       Barbados
+1625    nation   313                         Belize
+1626    nation   314                     Costa Rica
+1627    nation   315                           Cuba
+1628    nation   316                       Dominica
+1629    nation   317                    El Salvador
+1630    nation   318                        Granada
+1631    nation   319                      Guatemala
+1632    nation   320                          Haiti
+1633    nation   321                       Honduras
+1634    nation   322                        Jamaica
+1635    nation   323                      Nicaragua
+1636    nation   324                         Panama
+1637    nation   325 San Vicente and Las Granadinas
+1638    nation   326             Dominican Republic
+1639    nation   327            Trinidad and Tobago
+1640    nation   328                    Santa Lucia
+1641    nation   329       San Cristobal and Nieves
+1642    nation   340                      Argentina
+1643    nation   341                        Bolivia
+1644    nation   342                         Brazil
+1645    nation   343                       Colombia
+1646    nation   344                          Chile
+1647    nation   345                        Ecuador
+1648    nation   346                         Guyana
+1649    nation   347                       Paraguay
+1650    nation   348                           Peru
+1651    nation   349                        Surinam
+1652    nation   350                        Uruguay
+1653    nation   351                      Venezuela
+1654    nation   400                           Asia
+1655    nation   401                    Afghanistan
+1656    nation   402                   Saudi Arabia
+1657    nation   403                        Bahrein
+1658    nation   404                     Bangladesh
+1659    nation   405                       Birmania
+1660    nation   406                         Buthan
+1661    nation   407                          China
+1662    nation   408        United Arabian Emirates
+1663    nation   409                    Philippines
+1664    nation   410                          India
+1665    nation   411                      Indonesia
+1666    nation   412                           Irak
+1667    nation   413                           Iran
+1668    nation   414                         Israel
+1669    nation   415                          Japan
+1670    nation   416                      Jordanian
+1671    nation   417                        Camboya
+1672    nation   418                         Kuwait
+1673    nation   419                           Laos
+1674    nation   420                        Lebanon
+1675    nation   421                       Malaysia
+1676    nation   422                       Maldivas
+1677    nation   423                       Mongolia
+1678    nation   424                          Nepal
+1679    nation   425                           Oman
+1680    nation   426                       Pakistan
+1681    nation   427                          Qatar
+1682    nation   430              Republic of Korea
+1683    nation   431                    North Korea
+1684    nation   432                      Singapore
+1685    nation   433                          Syria
+1686    nation   434                      Sri Lanka
+1687    nation   435                       Thailand
+1688    nation   436                         Turkey
+1689    nation   437                        Vietnam
+1690    nation   438                         Taiwan
+1691    nation   439                         Brunei
+1692    nation   440                Marshal Islands
+1693    nation   441                          Yemen
+1694    nation   442                     Azerbaiyan
+1695    nation   443                      Kazajstan
+1696    nation   444                     Kirgyistan
+1697    nation   445                    Tadyikistan
+1698    nation   446                   Turkmenistan
+1699    nation   447                     Uzbekistan
+1700    nation   500                        Oceania
+1701    nation   501                      Australia
+1702    nation   502                           Fiji
+1703    nation   503                          Nauru
+1704    nation   504                    New Zealand
+1705    nation   505               Papua New Guinea
+1706    nation   506                Salomon Islands
+1707    nation   507                          Samoa
+1708    nation   508                          Tonga
+1709    nation   509                        Vanuatu
+1710    nation   510                       Kiribati
+1711    nation   511                     Micronesia
+1712    nation   512                         Tuvalu
+1713    nation   555                     No country
+1714    nation   600                      Palestine
+1715  bplauton    11                        Galicia
+1716  bplauton    12         Principado de Asturias
+1717  bplauton    13                      Cantabria
+1718  bplauton    21                     País Vasco
+1719  bplauton    22     Comunidad Foral de Navarra
+1720  bplauton    23                       La Rioja
+1721  bplauton    24                         Aragón
+1722  bplauton    30            Comunidad de Madrid
+1723  bplauton    41                Castilla y León
+1724  bplauton    42             Castilla-La Mancha
+1725  bplauton    43                    Extremadura
+1726  bplauton    51                       Cataluña
+1727  bplauton    52           Comunidad Valenciana
+1728  bplauton    53                  Illes Balears
+1729  bplauton    61                      Andalucía
+1730  bplauton    62               Región de Murcia
+1731  bplauton    63       Ciudad Autónoma de Ceuta
+1732  bplauton    64     Ciudad Autónoma de Melilla
+1733  bplauton    70                       Canarias
+1734  bplauton    98                         Abroad
+1735     bplpr     1                          Álava
+1736     bplpr     2                       Albacete
+1737     bplpr     3               Alicante/Alacant
+1738     bplpr     4                        Almería
+1739     bplpr     5                          Ávila
+1740     bplpr     6                        Badajoz
+1741     bplpr     7                Balears (Illes)
+1742     bplpr     8                      Barcelona
+1743     bplpr     9                         Burgos
+1744     bplpr    10                        Cáceres
+1745     bplpr    11                          Cádiz
+1746     bplpr    12             Castellón/Castelló
+1747     bplpr    13                    Ciudad Real
+1748     bplpr    14                        Córdoba
+1749     bplpr    15                     Coruña (A)
+1750     bplpr    16                         Cuenca
+1751     bplpr    17                         Girona
+1752     bplpr    18                        Granada
+1753     bplpr    19                    Guadalajara
+1754     bplpr    20                      Guipúzcoa
+1755     bplpr    21                         Huelva
+1756     bplpr    22                         Huesca
+1757     bplpr    23                           Jaén
+1758     bplpr    24                           León
+1759     bplpr    25                         Lleida
+1760     bplpr    26                     Rioja (La)
+1761     bplpr    27                           Lugo
+1762     bplpr    28                         Madrid
+1763     bplpr    29                         Málaga
+1764     bplpr    30                         Murcia
+1765     bplpr    31                        Navarra
+1766     bplpr    32                        Ourense
+1767     bplpr    33                       Asturias
+1768     bplpr    34                       Palencia
+1769     bplpr    35                   Palmas (Las)
+1770     bplpr    36                     Pontevedra
+1771     bplpr    37                      Salamanca
+1772     bplpr    38         Santa Cruz de Tenerife
+1773     bplpr    39                      Cantabria
+1774     bplpr    40                        Segovia
+1775     bplpr    41                        Sevilla
+1776     bplpr    42                          Soria
+1777     bplpr    43                      Tarragona
+1778     bplpr    44                         Teruel
+1779     bplpr    45                         Toledo
+1780     bplpr    46              Valencia/València
+1781     bplpr    47                     Valladolid
+1782     bplpr    48                        Vizcaya
+1783     bplpr    49                         Zamora
+1784     bplpr    50                       Zaragoza
+1785     bplpr    51                          Ceuta
+1786     bplpr    52                        Melilla
+1787     bplpr    66                         Abroad
+1788    bplmun  1059                Vitoria-Gasteiz
+1789    bplmun  1991    Álava: 0 to 2000 population
+1790    bplmun  1992 Álava: 2001 to 5000 population
+1791    bplmun  1993 Álava: 5001 to 10000 populatio
+1792    bplmun  1994 Álava: 10001 to 20000 populati
+1793    bplmun  2003                       Albacete
+1794    bplmun  2009                        Almansa
+1795    bplmun  2037                         Hellín
+1796    bplmun  2081                  Villarrobledo
+1797    bplmun  2991 Albacete: 0 to 2000 population
+1798    bplmun  2992 Albacete: 2001 to 5000 populat
+1799    bplmun  2993 Albacete: 5001 to 10000 popula
+1800    bplmun  2994 Albacete: 10001 to 20000 popul
+1801    bplmun  3009                    Alcoy/Alcoi
+1802    bplmun  3014               Alicante/Alacant
+1803    bplmun  3031                       Benidorm
+1804    bplmun  3059                     Crevillent
+1805    bplmun  3063                          Dénia
+1806    bplmun  3065                      Elche/Elx
+1807    bplmun  3066                           Elda
+1808    bplmun  3079                            Ibi
+1809    bplmun  3093                        Novelda
+1810    bplmun  3099                       Orihuela
+1811    bplmun  3104                         Petrer
+1812    bplmun  3122 San Vicente del Raspeig/Sant V
+1813    bplmun  3133                     Torrevieja
+1814    bplmun  3139   Villajoyosa/Vila Joiosa (la)
+1815    bplmun  3140                        Villena
+1816    bplmun  3991 Alicante/Alacant: 0 to 2000 po
+1817    bplmun  3992 Alicante/Alacant: 2001 to 5000
+1818    bplmun  3993 Alicante/Alacant: 5001 to 1000
+1819    bplmun  3994 Alicante/Alacant: 10001 to 200
+1820    bplmun  4003                           Adra
+1821    bplmun  4013                        Almería
+1822    bplmun  4079                Roquetas de Mar
+1823    bplmun  4902                     Ejido (El)
+1824    bplmun  4991  Almería: 0 to 2000 population
+1825    bplmun  4992 Almería: 2001 to 5000 populati
+1826    bplmun  4993 Almería: 5001 to 10000 populat
+1827    bplmun  4994 Almería: 10001 to 20000 popula
+1828    bplmun  5019                          Ávila
+1829    bplmun  5991    Ávila: 0 to 2000 population
+1830    bplmun  5992 Ávila: 2001 to 5000 population
+1831    bplmun  5993 Ávila: 5001 to 10000 populatio
+1832    bplmun  6011                   Almendralejo
+1833    bplmun  6015                        Badajoz
+1834    bplmun  6044                     Don Benito
+1835    bplmun  6083                         Mérida
+1836    bplmun  6153        Villanueva de la Serena
+1837    bplmun  6991  Badajoz: 0 to 2000 population
+1838    bplmun  6992 Badajoz: 2001 to 5000 populati
+1839    bplmun  6993 Badajoz: 5001 to 10000 populat
+1840    bplmun  6994 Badajoz: 10001 to 20000 popula
+1841    bplmun  7011                         Calvià
+1842    bplmun  7015          Ciutadella de Menorca
+1843    bplmun  7026                        Eivissa
+1844    bplmun  7027                           Inca
+1845    bplmun  7031                      Llucmajor
+1846    bplmun  7032                          Mahón
+1847    bplmun  7033                        Manacor
+1848    bplmun  7036                       Marratxí
+1849    bplmun  7040              Palma de Mallorca
+1850    bplmun  7991 Balears (Illes): 0 to 2000 pop
+1851    bplmun  7992 Balears (Illes): 2001 to 5000 
+1852    bplmun  7993 Balears (Illes): 5001 to 10000
+1853    bplmun  7994 Balears (Illes): 10001 to 2000
+1854    bplmun  8015                       Badalona
+1855    bplmun  8019                      Barcelona
+1856    bplmun  8056                  Castelldefels
+1857    bplmun  8073          Cornellà de Llobregat
+1858    bplmun  8077         Esplugues de Llobregat
+1859    bplmun  8089                           Gavà
+1860    bplmun  8096                     Granollers
+1861    bplmun  8101   Hospitalet de Llobregat (L´)
+1862    bplmun  8102                       Igualada
+1863    bplmun  8113                        Manresa
+1864    bplmun  8114                      Martorell
+1865    bplmun  8118                    Masnou (El)
+1866    bplmun  8121                         Mataró
+1867    bplmun  8123                  Molins de Rei
+1868    bplmun  8124              Mollet del Vallès
+1869    bplmun  8125              Montcada i Reixac
+1870    bplmun  8163                  Pineda de Mar
+1871    bplmun  8169         Prat de Llobregat (El)
+1872    bplmun  8172                  Premià de Mar
+1873    bplmun  8180                       Ripollet
+1874    bplmun  8184                           Rubí
+1875    bplmun  8187                       Sabadell
+1876    bplmun  8194            Sant Adrià de Besòs
+1877    bplmun  8196        Sant Andreu de la Barca
+1878    bplmun  8200          Sant Boi de Llobregat
+1879    bplmun  8205          Sant Cugat del Vallès
+1880    bplmun  8211        Sant Feliu de Llobregat
+1881    bplmun  8217                Sant Joan Despí
+1882    bplmun  8231             Sant Pere de Ribes
+1883    bplmun  8245       Santa Coloma de Gramenet
+1884    bplmun  8252             Barberà del Vallès
+1885    bplmun  8260       Santa Perpètua de Mogoda
+1886    bplmun  8263         Sant Vicenç dels Horts
+1887    bplmun  8266          Cerdanyola del Vallès
+1888    bplmun  8279                       Terrassa
+1889    bplmun  8298                            Vic
+1890    bplmun  8301                     Viladecans
+1891    bplmun  8305         Vilafranca del Penedès
+1892    bplmun  8307           Vilanova i la Geltrú
+1893    bplmun  8991 Barcelona: 0 to 2000 populatio
+1894    bplmun  8992 Barcelona: 2001 to 5000 popula
+1895    bplmun  8993 Barcelona: 5001 to 10000 popul
+1896    bplmun  8994 Barcelona: 10001 to 20000 popu
+1897    bplmun  9018                Aranda de Duero
+1898    bplmun  9059                         Burgos
+1899    bplmun  9219                Miranda de Ebro
+1900    bplmun  9991   Burgos: 0 to 2000 population
+1901    bplmun  9992 Burgos: 2001 to 5000 populatio
+1902    bplmun  9993 Burgos: 5001 to 10000 populati
+1903    bplmun 10037                        Cáceres
+1904    bplmun 10148                      Plasencia
+1905    bplmun 10991  Cáceres: 0 to 2000 population
+1906    bplmun 10992 Cáceres: 2001 to 5000 populati
+1907    bplmun 10993 Cáceres: 5001 to 10000 populat
+1908    bplmun 10994 Cáceres: 10001 to 20000 popula
+1909    bplmun 11004                      Algeciras
+1910    bplmun 11006           Arcos de la Frontera
+1911    bplmun 11007                        Barbate
+1912    bplmun 11012                          Cádiz
+1913    bplmun 11015        Chiclana de la Frontera
+1914    bplmun 11020           Jerez de la Frontera
+1915    bplmun 11022    Línea de la Concepción (La)
+1916    bplmun 11027     Puerto de Santa María (El)
+1917    bplmun 11028                    Puerto Real
+1918    bplmun 11030                           Rota
+1919    bplmun 11031                   San Fernando
+1920    bplmun 11032          Sanlúcar de Barrameda
+1921    bplmun 11033                      San Roque
+1922    bplmun 11991    Cádiz: 0 to 2000 population
+1923    bplmun 11992 Cádiz: 2001 to 5000 population
+1924    bplmun 11993 Cádiz: 5001 to 10000 populatio
+1925    bplmun 11994 Cádiz: 10001 to 20000 populati
+1926    bplmun 12027                      Benicarló
+1927    bplmun 12032                       Burriana
+1928    bplmun 12040 Castellón de la Plana/Castelló
+1929    bplmun 12084                           Onda
+1930    bplmun 12126               Vall d´Uixó (la)
+1931    bplmun 12135           Villarreal/Vila-real
+1932    bplmun 12138                        Vinaròs
+1933    bplmun 12991 Castellón/Castelló: 0 to 2000 
+1934    bplmun 12992 Castellón/Castelló: 2001 to 50
+1935    bplmun 12993 Castellón/Castelló: 5001 to 10
+1936    bplmun 12994 Castellón/Castelló: 10001 to 2
+1937    bplmun 13005            Alcázar de San Juan
+1938    bplmun 13034                    Ciudad Real
+1939    bplmun 13071                    Puertollano
+1940    bplmun 13082                      Tomelloso
+1941    bplmun 13087                     Valdepeñas
+1942    bplmun 13991 Ciudad Real: 0 to 2000 populat
+1943    bplmun 13992 Ciudad Real: 2001 to 5000 popu
+1944    bplmun 13993 Ciudad Real: 5001 to 10000 pop
+1945    bplmun 13994 Ciudad Real: 10001 to 20000 po
+1946    bplmun 14013                          Cabra
+1947    bplmun 14021                        Córdoba
+1948    bplmun 14038                         Lucena
+1949    bplmun 14042                       Montilla
+1950    bplmun 14055              Priego de Córdoba
+1951    bplmun 14056                   Puente Genil
+1952    bplmun 14991  Córdoba: 0 to 2000 population
+1953    bplmun 14992 Córdoba: 2001 to 5000 populati
+1954    bplmun 14993 Córdoba: 5001 to 10000 populat
+1955    bplmun 14994 Córdoba: 10001 to 20000 popula
+1956    bplmun 15005                        Arteixo
+1957    bplmun 15019                       Carballo
+1958    bplmun 15030                     Coruña (A)
+1959    bplmun 15031                      Culleredo
+1960    bplmun 15036                         Ferrol
+1961    bplmun 15054                          Narón
+1962    bplmun 15058                        Oleiros
+1963    bplmun 15073                        Ribeira
+1964    bplmun 15078         Santiago de Compostela
+1965    bplmun 15991 Coruña (A): 0 to 2000 populati
+1966    bplmun 15992 Coruña (A): 2001 to 5000 popul
+1967    bplmun 15993 Coruña (A): 5001 to 10000 popu
+1968    bplmun 15994 Coruña (A): 10001 to 20000 pop
+1969    bplmun 16078                         Cuenca
+1970    bplmun 16991   Cuenca: 0 to 2000 population
+1971    bplmun 16992 Cuenca: 2001 to 5000 populatio
+1972    bplmun 16993 Cuenca: 5001 to 10000 populati
+1973    bplmun 16994 Cuenca: 10001 to 20000 populat
+1974    bplmun 17023                         Blanes
+1975    bplmun 17066                       Figueres
+1976    bplmun 17079                         Girona
+1977    bplmun 17095                  Lloret de Mar
+1978    bplmun 17114                           Olot
+1979    bplmun 17155                           Salt
+1980    bplmun 17991   Girona: 0 to 2000 population
+1981    bplmun 17992 Girona: 2001 to 5000 populatio
+1982    bplmun 17993 Girona: 5001 to 10000 populati
+1983    bplmun 17994 Girona: 10001 to 20000 populat
+1984    bplmun 18017                      Almuñécar
+1985    bplmun 18023                           Baza
+1986    bplmun 18087                        Granada
+1987    bplmun 18122                           Loja
+1988    bplmun 18140                         Motril
+1989    bplmun 18991  Granada: 0 to 2000 population
+1990    bplmun 18992 Granada: 2001 to 5000 populati
+1991    bplmun 18993 Granada: 5001 to 10000 populat
+1992    bplmun 18994 Granada: 10001 to 20000 popula
+1993    bplmun 19046            Azuqueca de Henares
+1994    bplmun 19130                    Guadalajara
+1995    bplmun 19991 Guadalajara: 0 to 2000 populat
+1996    bplmun 19992 Guadalajara: 2001 to 5000 popu
+1997    bplmun 20030                          Eibar
+1998    bplmun 20045                           Irun
+1999    bplmun 20055           Arrasate o Mondragón
+2000    bplmun 20067                     Errenteria
+2001    bplmun 20069         Donostia-San Sebastián
+2002    bplmun 20079                        Zarautz
+2003    bplmun 20991 Guipúzcoa: 0 to 2000 populatio
+2004    bplmun 20992 Guipúzcoa: 2001 to 5000 popula
+2005    bplmun 20993 Guipúzcoa: 5001 to 10000 popul
+2006    bplmun 20994 Guipúzcoa: 10001 to 20000 popu
+2007    bplmun 21041                         Huelva
+2008    bplmun 21991   Huelva: 0 to 2000 population
+2009    bplmun 21992 Huelva: 2001 to 5000 populatio
+2010    bplmun 21993 Huelva: 5001 to 10000 populati
+2011    bplmun 21994 Huelva: 10001 to 20000 populat
+2012    bplmun 22125                         Huesca
+2013    bplmun 22991   Huesca: 0 to 2000 population
+2014    bplmun 22992 Huesca: 2001 to 5000 populatio
+2015    bplmun 22993 Huesca: 5001 to 10000 populati
+2016    bplmun 22994 Huesca: 10001 to 20000 populat
+2017    bplmun 23002                 Alcalá la Real
+2018    bplmun 23005                        Andújar
+2019    bplmun 23050                           Jaén
+2020    bplmun 23055                        Linares
+2021    bplmun 23060                         Martos
+2022    bplmun 23092                          Úbeda
+2023    bplmun 23991     Jaén: 0 to 2000 population
+2024    bplmun 23992  Jaén: 2001 to 5000 population
+2025    bplmun 23993 Jaén: 5001 to 10000 population
+2026    bplmun 23994 Jaén: 10001 to 20000 populatio
+2027    bplmun 24089                           León
+2028    bplmun 24115                     Ponferrada
+2029    bplmun 24142        San Andrés del Rabanedo
+2030    bplmun 24991     León: 0 to 2000 population
+2031    bplmun 24992  León: 2001 to 5000 population
+2032    bplmun 24993 León: 5001 to 10000 population
+2033    bplmun 24994 León: 10001 to 20000 populatio
+2034    bplmun 25120                         Lleida
+2035    bplmun 25991   Lleida: 0 to 2000 population
+2036    bplmun 25992 Lleida: 2001 to 5000 populatio
+2037    bplmun 25993 Lleida: 5001 to 10000 populati
+2038    bplmun 25994 Lleida: 10001 to 20000 populat
+2039    bplmun 26036                      Calahorra
+2040    bplmun 26089                        Logroño
+2041    bplmun 26991 Rioja (La): 0 to 2000 populati
+2042    bplmun 26992 Rioja (La): 2001 to 5000 popul
+2043    bplmun 26993 Rioja (La): 5001 to 10000 popu
+2044    bplmun 26994 Rioja (La): 10001 to 20000 pop
+2045    bplmun 27028                           Lugo
+2046    bplmun 27991     Lugo: 0 to 2000 population
+2047    bplmun 27992  Lugo: 2001 to 5000 population
+2048    bplmun 27993 Lugo: 5001 to 10000 population
+2049    bplmun 27994 Lugo: 10001 to 20000 populatio
+2050    bplmun 28005              Alcalá de Henares
+2051    bplmun 28006                     Alcobendas
+2052    bplmun 28007                       Alcorcón
+2053    bplmun 28013                       Aranjuez
+2054    bplmun 28014                Arganda del Rey
+2055    bplmun 28022             Boadilla del Monte
+2056    bplmun 28045                 Colmenar Viejo
+2057    bplmun 28047               Collado Villalba
+2058    bplmun 28049                        Coslada
+2059    bplmun 28058                    Fuenlabrada
+2060    bplmun 28061                      Galapagar
+2061    bplmun 28065                         Getafe
+2062    bplmun 28074                        Leganés
+2063    bplmun 28079                         Madrid
+2064    bplmun 28080                    Majadahonda
+2065    bplmun 28092                       Móstoles
+2066    bplmun 28106                          Parla
+2067    bplmun 28113                          Pinto
+2068    bplmun 28115             Pozuelo de Alarcón
+2069    bplmun 28123              Rivas-Vaciamadrid
+2070    bplmun 28127          Rozas de Madrid (Las)
+2071    bplmun 28130        San Fernando de Henares
+2072    bplmun 28134     San Sebastián de los Reyes
+2073    bplmun 28148              Torrejón de Ardoz
+2074    bplmun 28161                      Valdemoro
+2075    bplmun 28181           Villaviciosa de Odón
+2076    bplmun 28903                    Tres Cantos
+2077    bplmun 28991   Madrid: 0 to 2000 population
+2078    bplmun 28992 Madrid: 2001 to 5000 populatio
+2079    bplmun 28993 Madrid: 5001 to 10000 populati
+2080    bplmun 28994 Madrid: 10001 to 20000 populat
+2081    bplmun 29007           Alhaurín de la Torre
+2082    bplmun 29015                      Antequera
+2083    bplmun 29025                    Benalmádena
+2084    bplmun 29051                       Estepona
+2085    bplmun 29054                     Fuengirola
+2086    bplmun 29067                         Málaga
+2087    bplmun 29069                       Marbella
+2088    bplmun 29070                          Mijas
+2089    bplmun 29082          Rincón de la Victoria
+2090    bplmun 29084                          Ronda
+2091    bplmun 29094                   Vélez-Málaga
+2092    bplmun 29901                   Torremolinos
+2093    bplmun 29991   Málaga: 0 to 2000 population
+2094    bplmun 29992 Málaga: 2001 to 5000 populatio
+2095    bplmun 29993 Málaga: 5001 to 10000 populati
+2096    bplmun 29994 Málaga: 10001 to 20000 populat
+2097    bplmun 30003                        Águilas
+2098    bplmun 30005                   Alcantarilla
+2099    bplmun 30015            Caravaca de la Cruz
+2100    bplmun 30016                      Cartagena
+2101    bplmun 30019                          Cieza
+2102    bplmun 30022                        Jumilla
+2103    bplmun 30024                          Lorca
+2104    bplmun 30026                       Mazarrón
+2105    bplmun 30027               Molina de Segura
+2106    bplmun 30030                         Murcia
+2107    bplmun 30035                     San Javier
+2108    bplmun 30037                  Torre-Pacheco
+2109    bplmun 30039                         Totana
+2110    bplmun 30043                          Yecla
+2111    bplmun 30991   Murcia: 0 to 2000 population
+2112    bplmun 30992 Murcia: 2001 to 5000 populatio
+2113    bplmun 30993 Murcia: 5001 to 10000 populati
+2114    bplmun 30994 Murcia: 10001 to 20000 populat
+2115    bplmun 31201                 Pamplona/Iruña
+2116    bplmun 31232                         Tudela
+2117    bplmun 31901                       Barañain
+2118    bplmun 31991  Navarra: 0 to 2000 population
+2119    bplmun 31992 Navarra: 2001 to 5000 populati
+2120    bplmun 31993 Navarra: 5001 to 10000 populat
+2121    bplmun 31994 Navarra: 10001 to 20000 popula
+2122    bplmun 32054                        Ourense
+2123    bplmun 32991  Ourense: 0 to 2000 population
+2124    bplmun 32992 Ourense: 2001 to 5000 populati
+2125    bplmun 32993 Ourense: 5001 to 10000 populat
+2126    bplmun 32994 Ourense: 10001 to 20000 popula
+2127    bplmun 33004                         Avilés
+2128    bplmun 33016                     Castrillón
+2129    bplmun 33024                          Gijón
+2130    bplmun 33031                        Langreo
+2131    bplmun 33037                         Mieres
+2132    bplmun 33044                         Oviedo
+2133    bplmun 33060     San Martín del Rey Aurelio
+2134    bplmun 33066                          Siero
+2135    bplmun 33991 Asturias: 0 to 2000 population
+2136    bplmun 33992 Asturias: 2001 to 5000 populat
+2137    bplmun 33993 Asturias: 5001 to 10000 popula
+2138    bplmun 33994 Asturias: 10001 to 20000 popul
+2139    bplmun 34120                       Palencia
+2140    bplmun 34991 Palencia: 0 to 2000 population
+2141    bplmun 34992 Palencia: 2001 to 5000 populat
+2142    bplmun 34993 Palencia: 5001 to 10000 popula
+2143    bplmun 35002                        Agüimes
+2144    bplmun 35004                       Arrecife
+2145    bplmun 35006                         Arucas
+2146    bplmun 35009                         Gáldar
+2147    bplmun 35011                        Ingenio
+2148    bplmun 35016   Palmas de Gran Canaria (Las)
+2149    bplmun 35017             Puerto del Rosario
+2150    bplmun 35019      San Bartolomé de Tirajana
+2151    bplmun 35022        Santa Lucía de Tirajana
+2152    bplmun 35026                          Telde
+2153    bplmun 35991 Palmas (Las): 0 to 2000 popula
+2154    bplmun 35992 Palmas (Las): 2001 to 5000 pop
+2155    bplmun 35993 Palmas (Las): 5001 to 10000 po
+2156    bplmun 35994 Palmas (Las): 10001 to 20000 p
+2157    bplmun 36008                         Cangas
+2158    bplmun 36017                    Estrada (A)
+2159    bplmun 36026                          Marín
+2160    bplmun 36038                     Pontevedra
+2161    bplmun 36045                      Redondela
+2162    bplmun 36057                           Vigo
+2163    bplmun 36060           Vilagarcía de Arousa
+2164    bplmun 36991 Pontevedra: 0 to 2000 populati
+2165    bplmun 36992 Pontevedra: 2001 to 5000 popul
+2166    bplmun 36993 Pontevedra: 5001 to 10000 popu
+2167    bplmun 36994 Pontevedra: 10001 to 20000 pop
+2168    bplmun 37274                      Salamanca
+2169    bplmun 37991 Salamanca: 0 to 2000 populatio
+2170    bplmun 37992 Salamanca: 2001 to 5000 popula
+2171    bplmun 37993 Salamanca: 5001 to 10000 popul
+2172    bplmun 37994 Salamanca: 10001 to 20000 popu
+2173    bplmun 38001                          Adeje
+2174    bplmun 38006                          Arona
+2175    bplmun 38017            Granadilla de Abona
+2176    bplmun 38022              Icod de los Vinos
+2177    bplmun 38023     San Cristóbal de La Laguna
+2178    bplmun 38026                   Orotava (La)
+2179    bplmun 38028              Puerto de la Cruz
+2180    bplmun 38031                 Realejos (Los)
+2181    bplmun 38038         Santa Cruz de Tenerife
+2182    bplmun 38043                      Tacoronte
+2183    bplmun 38991 Santa Cruz de Tenerife: 0 to 2
+2184    bplmun 38992 Santa Cruz de Tenerife: 2001 t
+2185    bplmun 38993 Santa Cruz de Tenerife: 5001 t
+2186    bplmun 38994 Santa Cruz de Tenerife: 10001 
+2187    bplmun 39016                        Camargo
+2188    bplmun 39020                Castro-Urdiales
+2189    bplmun 39075                      Santander
+2190    bplmun 39087                    Torrelavega
+2191    bplmun 39991 Cantabria: 0 to 2000 populatio
+2192    bplmun 39992 Cantabria: 2001 to 5000 popula
+2193    bplmun 39993 Cantabria: 5001 to 10000 popul
+2194    bplmun 39994 Cantabria: 10001 to 20000 popu
+2195    bplmun 40194                        Segovia
+2196    bplmun 40991  Segovia: 0 to 2000 population
+2197    bplmun 40992 Segovia: 2001 to 5000 populati
+2198    bplmun 40993 Segovia: 5001 to 10000 populat
+2199    bplmun 41004             Alcalá de Guadaira
+2200    bplmun 41021                          Camas
+2201    bplmun 41024                        Carmona
+2202    bplmun 41034                  Coria del Río
+2203    bplmun 41038                   Dos Hermanas
+2204    bplmun 41039                          Écija
+2205    bplmun 41053                        Lebrija
+2206    bplmun 41059           Mairena del Aljarafe
+2207    bplmun 41065           Morón de la Frontera
+2208    bplmun 41069   Palacios y Villafranca (Los)
+2209    bplmun 41081                 Rinconada (La)
+2210    bplmun 41091                        Sevilla
+2211    bplmun 41095                         Utrera
+2212    bplmun 41991  Sevilla: 0 to 2000 population
+2213    bplmun 41992 Sevilla: 2001 to 5000 populati
+2214    bplmun 41993 Sevilla: 5001 to 10000 populat
+2215    bplmun 41994 Sevilla: 10001 to 20000 popula
+2216    bplmun 42173                          Soria
+2217    bplmun 42991    Soria: 0 to 2000 population
+2218    bplmun 42992 Soria: 2001 to 5000 population
+2219    bplmun 42993 Soria: 5001 to 10000 populatio
+2220    bplmun 43038                       Cambrils
+2221    bplmun 43123                           Reus
+2222    bplmun 43148                      Tarragona
+2223    bplmun 43155                        Tortosa
+2224    bplmun 43161                          Valls
+2225    bplmun 43163                  Vendrell (El)
+2226    bplmun 43991 Tarragona: 0 to 2000 populatio
+2227    bplmun 43992 Tarragona: 2001 to 5000 popula
+2228    bplmun 43993 Tarragona: 5001 to 10000 popul
+2229    bplmun 43994 Tarragona: 10001 to 20000 popu
+2230    bplmun 44216                         Teruel
+2231    bplmun 44991   Teruel: 0 to 2000 population
+2232    bplmun 44992 Teruel: 2001 to 5000 populatio
+2233    bplmun 44993 Teruel: 5001 to 10000 populati
+2234    bplmun 44994 Teruel: 10001 to 20000 populat
+2235    bplmun 45165           Talavera de la Reina
+2236    bplmun 45168                         Toledo
+2237    bplmun 45991   Toledo: 0 to 2000 population
+2238    bplmun 45992 Toledo: 2001 to 5000 populatio
+2239    bplmun 45993 Toledo: 5001 to 10000 populati
+2240    bplmun 45994 Toledo: 10001 to 20000 populat
+2241    bplmun 46005                        Alaquàs
+2242    bplmun 46017                         Alzira
+2243    bplmun 46021                         Aldaia
+2244    bplmun 46029                       Algemesí
+2245    bplmun 46078                      Burjassot
+2246    bplmun 46094                      Catarroja
+2247    bplmun 46102                Quart de Poblet
+2248    bplmun 46105                        Cullera
+2249    bplmun 46110                      Xirivella
+2250    bplmun 46131                         Gandia
+2251    bplmun 46145                         Xàtiva
+2252    bplmun 46159                        Manises
+2253    bplmun 46169                        Mislata
+2254    bplmun 46181                          Oliva
+2255    bplmun 46184                      Ontinyent
+2256    bplmun 46190                        Paterna
+2257    bplmun 46220                 Sagunto/Sagunt
+2258    bplmun 46235                          Sueca
+2259    bplmun 46244                        Torrent
+2260    bplmun 46250                       Valencia
+2261    bplmun 46991 Valencia/València: 0 to 2000 p
+2262    bplmun 46992 Valencia/València: 2001 to 500
+2263    bplmun 46993 Valencia/València: 5001 to 100
+2264    bplmun 46994 Valencia/València: 10001 to 20
+2265    bplmun 47186                     Valladolid
+2266    bplmun 47991 Valladolid: 0 to 2000 populati
+2267    bplmun 47992 Valladolid: 2001 to 5000 popul
+2268    bplmun 47993 Valladolid: 5001 to 10000 popu
+2269    bplmun 47994 Valladolid: 10001 to 20000 pop
+2270    bplmun 48013                      Barakaldo
+2271    bplmun 48015                        Basauri
+2272    bplmun 48020                         Bilbao
+2273    bplmun 48027                        Durango
+2274    bplmun 48036                       Galdakao
+2275    bplmun 48044                          Getxo
+2276    bplmun 48054                          Leioa
+2277    bplmun 48078                    Portugalete
+2278    bplmun 48082                      Santurtzi
+2279    bplmun 48084                         Sestao
+2280    bplmun 48902                        Erandio
+2281    bplmun 48991  Vizcaya: 0 to 2000 population
+2282    bplmun 48992 Vizcaya: 2001 to 5000 populati
+2283    bplmun 48993 Vizcaya: 5001 to 10000 populat
+2284    bplmun 48994 Vizcaya: 10001 to 20000 popula
+2285    bplmun 49275                         Zamora
+2286    bplmun 49991   Zamora: 0 to 2000 population
+2287    bplmun 49993 Zamora: 5001 to 10000 populati
+2288    bplmun 49994 Zamora: 10001 to 20000 populat
+2289    bplmun 50297                       Zaragoza
+2290    bplmun 50991 Zaragoza: 0 to 2000 population
+2291    bplmun 50992 Zaragoza: 2001 to 5000 populat
+2292    bplmun 50993 Zaragoza: 5001 to 10000 popula
+2293    bplmun 50994 Zaragoza: 10001 to 20000 popul
+2294    bplmun 51001                          Ceuta
+2295    bplmun 52001                        Melilla
+2296    bplmun 66101                        Albania
+2297    bplmun 66102                        Austria
+2298    bplmun 66103                        Belgium
+2299    bplmun 66104                       Bulgaria
+2300    bplmun 66106                         Cyprus
+2301    bplmun 66107                        Denmark
+2302    bplmun 66109                        Finland
+2303    bplmun 66110                         France
+2304    bplmun 66111                         Greece
+2305    bplmun 66112                        Hungary
+2306    bplmun 66113                        Ireland
+2307    bplmun 66114                        Iceland
+2308    bplmun 66115                          Italy
+2309    bplmun 66116                  Liechtenstein
+2310    bplmun 66117                      Luxemburg
+2311    bplmun 66118                          Malta
+2312    bplmun 66119                         Monaco
+2313    bplmun 66120                         Norway
+2314    bplmun 66121                  Low Countries
+2315    bplmun 66122                         Poland
+2316    bplmun 66123                       Portugal
+2317    bplmun 66124                        Andorra
+2318    bplmun 66125                 United Kingdom
+2319    bplmun 66126                        Germany
+2320    bplmun 66128                        Rumania
+2321    bplmun 66130                   Vatican City
+2322    bplmun 66131                         Sweden
+2323    bplmun 66132                    Switzerland
+2324    bplmun 66135                        Ukraine
+2325    bplmun 66136                        Letonia
+2326    bplmun 66137                        Moldova
+2327    bplmun 66138                    Bielorrusia
+2328    bplmun 66139                        Georgia
+2329    bplmun 66141                        Estonia
+2330    bplmun 66142                      Lithuania
+2331    bplmun 66143                  Chek Republic
+2332    bplmun 66144                       Slovakia
+2333    bplmun 66145             Bosnia-Herzegovina
+2334    bplmun 66146                        Croacia
+2335    bplmun 66147                       Slovenia
+2336    bplmun 66148                        Armenia
+2337    bplmun 66154                         Russia
+2338    bplmun 66155                     Yugoslavia
+2339    bplmun 66201                  Burkina Fasso
+2340    bplmun 66202                         Angola
+2341    bplmun 66203                        Argelia
+2342    bplmun 66204                          Benin
+2343    bplmun 66205                       Botswana
+2344    bplmun 66206                        Burundi
+2345    bplmun 66207                     Cabo Verde
+2346    bplmun 66208                        Camerun
+2347    bplmun 66210                          Congo
+2348    bplmun 66211                    Ivory Coast
+2349    bplmun 66212                       Djibouti
+2350    bplmun 66213                          Egypt
+2351    bplmun 66214                       Ethiopia
+2352    bplmun 66215                          Gabon
+2353    bplmun 66216                         Gambia
+2354    bplmun 66217                          Ghana
+2355    bplmun 66218                         Guinea
+2356    bplmun 66219                  Guinea Bissau
+2357    bplmun 66220              Guinea Equatorial
+2358    bplmun 66221                          Kenya
+2359    bplmun 66222                        Lesotho
+2360    bplmun 66223                        Liberia
+2361    bplmun 66224                          Libya
+2362    bplmun 66225                     Madagascar
+2363    bplmun 66226                         Malawi
+2364    bplmun 66227                           Mali
+2365    bplmun 66228                        Morocco
+2366    bplmun 66229                       Mauricio
+2367    bplmun 66230                     Mauritania
+2368    bplmun 66231                     Mozambique
+2369    bplmun 66232                        Namibia
+2370    bplmun 66233                          Niger
+2371    bplmun 66234                        Nigeria
+2372    bplmun 66235     Republic of Central Africa
+2373    bplmun 66236                      Sudafrica
+2374    bplmun 66237                         Ruanda
+2375    bplmun 66239                        Senegal
+2376    bplmun 66241                   Sierra Leona
+2377    bplmun 66242                        Somalia
+2378    bplmun 66243                          Sudan
+2379    bplmun 66245                       Tanzania
+2380    bplmun 66247                           Togo
+2381    bplmun 66248                          Tunez
+2382    bplmun 66249                         Uganda
+2383    bplmun 66250                          Zaire
+2384    bplmun 66251                         Zambia
+2385    bplmun 66252                       Zimbabwe
+2386    bplmun 66253                        Eritrea
+2387    bplmun 66301                         Canada
+2388    bplmun 66302       United States of America
+2389    bplmun 66303                         Mexico
+2390    bplmun 66311                        Bahamas
+2391    bplmun 66312                       Barbados
+2392    bplmun 66314                     Costa Rica
+2393    bplmun 66315                           Cuba
+2394    bplmun 66316                       Dominica
+2395    bplmun 66317                    El Salvador
+2396    bplmun 66319                      Guatemala
+2397    bplmun 66320                          Haiti
+2398    bplmun 66321                       Honduras
+2399    bplmun 66322                        Jamaica
+2400    bplmun 66323                      Nicaragua
+2401    bplmun 66324                         Panama
+2402    bplmun 66326             Dominican Republic
+2403    bplmun 66327            Trinidad and Tobago
+2404    bplmun 66328                    Santa Lucia
+2405    bplmun 66340                      Argentina
+2406    bplmun 66341                        Bolivia
+2407    bplmun 66342                         Brazil
+2408    bplmun 66343                       Colombia
+2409    bplmun 66344                          Chile
+2410    bplmun 66345                        Ecuador
+2411    bplmun 66346                         Guyana
+2412    bplmun 66347                       Paraguay
+2413    bplmun 66348                           Peru
+2414    bplmun 66349                        Surinam
+2415    bplmun 66350                        Uruguay
+2416    bplmun 66351                      Venezuela
+2417    bplmun 66401                    Afghanistan
+2418    bplmun 66402                   Saudi Arabia
+2419    bplmun 66403                        Bahrein
+2420    bplmun 66404                     Bangladesh
+2421    bplmun 66405                       Birmania
+2422    bplmun 66407                          China
+2423    bplmun 66408        United Arabian Emirates
+2424    bplmun 66409                    Philippines
+2425    bplmun 66410                          India
+2426    bplmun 66411                      Indonesia
+2427    bplmun 66412                           Irak
+2428    bplmun 66413                           Iran
+2429    bplmun 66414                         Israel
+2430    bplmun 66415                          Japan
+2431    bplmun 66416                      Jordanian
+2432    bplmun 66418                         Kuwait
+2433    bplmun 66419                           Laos
+2434    bplmun 66420                        Lebanon
+2435    bplmun 66421                       Malaysia
+2436    bplmun 66423                       Mongolia
+2437    bplmun 66424                          Nepal
+2438    bplmun 66425                           Oman
+2439    bplmun 66426                       Pakistan
+2440    bplmun 66430              Republic of Korea
+2441    bplmun 66432                      Singapore
+2442    bplmun 66433                          Syria
+2443    bplmun 66434                      Sri Lanka
+2444    bplmun 66435                       Thailand
+2445    bplmun 66436                         Turkey
+2446    bplmun 66437                        Vietnam
+2447    bplmun 66441                          Yemen
+2448    bplmun 66442                     Azerbaiyan
+2449    bplmun 66443                      Kazajstan
+2450    bplmun 66444                     Kirgyistan
+2451    bplmun 66446                   Turkmenistan
+2452    bplmun 66447                     Uzbekistan
+2453    bplmun 66501                      Australia
+2454    bplmun 66504                    New Zealand
+2455    bplmun 66509                        Vanuatu
+2456    bplmun 66511                     Micronesia
+2457    bplmun 66512                         Tuvalu
+2458    bplmun 66600                      Palestine
+2459     marst     1                         Single
+2460     marst     2                        Married
+2461     marst     3                        Widowed
+2462     marst     4                      Separated
+2463     marst     5                       Divorced
+2464     marst     9                            NIU
+2465    relate    10            Person of reference
+2466    relate    21                         Spouse
+2467    relate    22                        Partner
+2468    relate    31 Son/daughter of the person of 
+2469    relate    32            Son/daughter-in-law
+2470    relate    41                 Brother/sister
+2471    relate    42 Brother/sister of the spouse/p
+2472    relate    43 Spouse/partner of the brother/
+2473    relate    51                  Father/mother
+2474    relate    52           Father/mother-in-law
+2475    relate    61 Other relative with the same l
+2476    relate    62 Other relative without the sam
+2477    relate    70                    Not related
+2478    relate    99 Person who do not reside in th
+2479     edlev     1                     Illiterate
+2480     edlev     2      Literate but no education
+2481     edlev     3              Primary education
+2482     edlev     4 Secondary education, occupatio
+2483     edlev     5 Secondary education, upper-lev
+2484     edlev     6 Secondary education, professio
+2485     edlev     7 Secondary education, professio
+2486     edlev     8 Tertiary education, associate 
+2487     edlev     9 Tertiary education, college de
+2488     edlev    10 Tertiary education, doctoral s
+2489     edlev    99                            NIU
+2490    edtype     1                            Law
+2491    edtype     2   Education, child development
+2492    edtype     3                Social Sciences
+2493    edtype     4            Arts and Humanities
+2494    edtype     5                    Informatics
+2495    edtype     6                    Engineering
+2496    edtype     7 Technical and industrial train
+2497    edtype     8                       Sciences
+2498    edtype     9   Architecture or construction
+2499    edtype    10 Agriculture, cattle ranching, 
+2500    edtype    11    Healthcare, Social Services
+2501    edtype    12                 Other services
+2502    edtype    99                            NIU
+2503   yrspain  1900                 1900 or before
+2504   yrspain  1901                           1901
+2505   yrspain  1902                           1902
+2506   yrspain  1903                           1903
+2507   yrspain  1904                           1904
+2508   yrspain  1905                           1905
+2509   yrspain  1906                           1906
+2510   yrspain  1907                           1907
+2511   yrspain  1908                           1908
+2512   yrspain  1909                           1909
+2513   yrspain  1910                           1910
+2514   yrspain  1911                           1911
+2515   yrspain  1912                           1912
+2516   yrspain  1913                           1913
+2517   yrspain  1914                           1914
+2518   yrspain  1915                           1915
+2519   yrspain  1916                           1916
+2520   yrspain  1917                           1917
+2521   yrspain  1918                           1918
+2522   yrspain  1919                           1919
+2523   yrspain  1920                           1920
+2524   yrspain  1921                           1921
+2525   yrspain  1922                           1922
+2526   yrspain  1923                           1923
+2527   yrspain  1924                           1924
+2528   yrspain  1925                           1925
+2529   yrspain  1926                           1926
+2530   yrspain  1927                           1927
+2531   yrspain  1928                           1928
+2532   yrspain  1929                           1929
+2533   yrspain  1930                           1930
+2534   yrspain  1931                           1931
+2535   yrspain  1932                           1932
+2536   yrspain  1933                           1933
+2537   yrspain  1934                           1934
+2538   yrspain  1935                           1935
+2539   yrspain  1936                           1936
+2540   yrspain  1937                           1937
+2541   yrspain  1938                           1938
+2542   yrspain  1939                           1939
+2543   yrspain  1940                           1940
+2544   yrspain  1941                           1941
+2545   yrspain  1942                           1942
+2546   yrspain  1943                           1943
+2547   yrspain  1944                           1944
+2548   yrspain  1945                           1945
+2549   yrspain  1946                           1946
+2550   yrspain  1947                           1947
+2551   yrspain  1948                           1948
+2552   yrspain  1949                           1949
+2553   yrspain  1950                           1950
+2554   yrspain  1951                           1951
+2555   yrspain  1952                           1952
+2556   yrspain  1953                           1953
+2557   yrspain  1954                           1954
+2558   yrspain  1955                           1955
+2559   yrspain  1956                           1956
+2560   yrspain  1957                           1957
+2561   yrspain  1958                           1958
+2562   yrspain  1959                           1959
+2563   yrspain  1960                           1960
+2564   yrspain  1961                           1961
+2565   yrspain  1962                           1962
+2566   yrspain  1963                           1963
+2567   yrspain  1964                           1964
+2568   yrspain  1965                           1965
+2569   yrspain  1966                           1966
+2570   yrspain  1967                           1967
+2571   yrspain  1968                           1968
+2572   yrspain  1969                           1969
+2573   yrspain  1970                           1970
+2574   yrspain  1971                           1971
+2575   yrspain  1972                           1972
+2576   yrspain  1973                           1973
+2577   yrspain  1974                           1974
+2578   yrspain  1975                           1975
+2579   yrspain  1976                           1976
+2580   yrspain  1977                           1977
+2581   yrspain  1978                           1978
+2582   yrspain  1979                           1979
+2583   yrspain  1980                           1980
+2584   yrspain  1981                           1981
+2585   yrspain  1982                           1982
+2586   yrspain  1983                           1983
+2587   yrspain  1984                           1984
+2588   yrspain  1985                           1985
+2589   yrspain  1986                           1986
+2590   yrspain  1987                           1987
+2591   yrspain  1988                           1988
+2592   yrspain  1989                           1989
+2593   yrspain  1990                           1990
+2594   yrspain  1991                           1991
+2595   yrspain  1992                           1992
+2596   yrspain  1993                           1993
+2597   yrspain  1994                           1994
+2598   yrspain  1995                           1995
+2599   yrspain  1996                           1996
+2600   yrspain  1997                           1997
+2601   yrspain  1998                           1998
+2602   yrspain  1999                           1999
+2603   yrspain  2000                           2000
+2604   yrspain  2001                           2001
+2605   yrspain  9999                            NIU
+2606    yrcomm  1900                 1900 or before
+2607    yrcomm  1901                           1901
+2608    yrcomm  1902                           1902
+2609    yrcomm  1903                           1903
+2610    yrcomm  1904                           1904
+2611    yrcomm  1905                           1905
+2612    yrcomm  1906                           1906
+2613    yrcomm  1907                           1907
+2614    yrcomm  1908                           1908
+2615    yrcomm  1909                           1909
+2616    yrcomm  1910                           1910
+2617    yrcomm  1911                           1911
+2618    yrcomm  1912                           1912
+2619    yrcomm  1913                           1913
+2620    yrcomm  1914                           1914
+2621    yrcomm  1915                           1915
+2622    yrcomm  1916                           1916
+2623    yrcomm  1917                           1917
+2624    yrcomm  1918                           1918
+2625    yrcomm  1919                           1919
+2626    yrcomm  1920                           1920
+2627    yrcomm  1921                           1921
+2628    yrcomm  1922                           1922
+2629    yrcomm  1923                           1923
+2630    yrcomm  1924                           1924
+2631    yrcomm  1925                           1925
+2632    yrcomm  1926                           1926
+2633    yrcomm  1927                           1927
+2634    yrcomm  1928                           1928
+2635    yrcomm  1929                           1929
+2636    yrcomm  1930                           1930
+2637    yrcomm  1931                           1931
+2638    yrcomm  1932                           1932
+2639    yrcomm  1933                           1933
+2640    yrcomm  1934                           1934
+2641    yrcomm  1935                           1935
+2642    yrcomm  1936                           1936
+2643    yrcomm  1937                           1937
+2644    yrcomm  1938                           1938
+2645    yrcomm  1939                           1939
+2646    yrcomm  1940                           1940
+2647    yrcomm  1941                           1941
+2648    yrcomm  1942                           1942
+2649    yrcomm  1943                           1943
+2650    yrcomm  1944                           1944
+2651    yrcomm  1945                           1945
+2652    yrcomm  1946                           1946
+2653    yrcomm  1947                           1947
+2654    yrcomm  1948                           1948
+2655    yrcomm  1949                           1949
+2656    yrcomm  1950                           1950
+2657    yrcomm  1951                           1951
+2658    yrcomm  1952                           1952
+2659    yrcomm  1953                           1953
+2660    yrcomm  1954                           1954
+2661    yrcomm  1955                           1955
+2662    yrcomm  1956                           1956
+2663    yrcomm  1957                           1957
+2664    yrcomm  1958                           1958
+2665    yrcomm  1959                           1959
+2666    yrcomm  1960                           1960
+2667    yrcomm  1961                           1961
+2668    yrcomm  1962                           1962
+2669    yrcomm  1963                           1963
+2670    yrcomm  1964                           1964
+2671    yrcomm  1965                           1965
+2672    yrcomm  1966                           1966
+2673    yrcomm  1967                           1967
+2674    yrcomm  1968                           1968
+2675    yrcomm  1969                           1969
+2676    yrcomm  1970                           1970
+2677    yrcomm  1971                           1971
+2678    yrcomm  1972                           1972
+2679    yrcomm  1973                           1973
+2680    yrcomm  1974                           1974
+2681    yrcomm  1975                           1975
+2682    yrcomm  1976                           1976
+2683    yrcomm  1977                           1977
+2684    yrcomm  1978                           1978
+2685    yrcomm  1979                           1979
+2686    yrcomm  1980                           1980
+2687    yrcomm  1981                           1981
+2688    yrcomm  1982                           1982
+2689    yrcomm  1983                           1983
+2690    yrcomm  1984                           1984
+2691    yrcomm  1985                           1985
+2692    yrcomm  1986                           1986
+2693    yrcomm  1987                           1987
+2694    yrcomm  1988                           1988
+2695    yrcomm  1989                           1989
+2696    yrcomm  1990                           1990
+2697    yrcomm  1991                           1991
+2698    yrcomm  1992                           1992
+2699    yrcomm  1993                           1993
+2700    yrcomm  1994                           1994
+2701    yrcomm  1995                           1995
+2702    yrcomm  1996                           1996
+2703    yrcomm  1997                           1997
+2704    yrcomm  1998                           1998
+2705    yrcomm  1999                           1999
+2706    yrcomm  2000                           2000
+2707    yrcomm  2001                           2001
+2708    yrcomm  9999                            NIU
+2709    yrmuni  1900                 1900 or before
+2710    yrmuni  1901                           1901
+2711    yrmuni  1902                           1902
+2712    yrmuni  1903                           1903
+2713    yrmuni  1904                           1904
+2714    yrmuni  1905                           1905
+2715    yrmuni  1906                           1906
+2716    yrmuni  1907                           1907
+2717    yrmuni  1908                           1908
+2718    yrmuni  1909                           1909
+2719    yrmuni  1910                           1910
+2720    yrmuni  1911                           1911
+2721    yrmuni  1912                           1912
+2722    yrmuni  1913                           1913
+2723    yrmuni  1914                           1914
+2724    yrmuni  1915                           1915
+2725    yrmuni  1916                           1916
+2726    yrmuni  1917                           1917
+2727    yrmuni  1918                           1918
+2728    yrmuni  1919                           1919
+2729    yrmuni  1920                           1920
+2730    yrmuni  1921                           1921
+2731    yrmuni  1922                           1922
+2732    yrmuni  1923                           1923
+2733    yrmuni  1924                           1924
+2734    yrmuni  1925                           1925
+2735    yrmuni  1926                           1926
+2736    yrmuni  1927                           1927
+2737    yrmuni  1928                           1928
+2738    yrmuni  1929                           1929
+2739    yrmuni  1930                           1930
+2740    yrmuni  1931                           1931
+2741    yrmuni  1932                           1932
+2742    yrmuni  1933                           1933
+2743    yrmuni  1934                           1934
+2744    yrmuni  1935                           1935
+2745    yrmuni  1936                           1936
+2746    yrmuni  1937                           1937
+2747    yrmuni  1938                           1938
+2748    yrmuni  1939                           1939
+2749    yrmuni  1940                           1940
+2750    yrmuni  1941                           1941
+2751    yrmuni  1942                           1942
+2752    yrmuni  1943                           1943
+2753    yrmuni  1944                           1944
+2754    yrmuni  1945                           1945
+2755    yrmuni  1946                           1946
+2756    yrmuni  1947                           1947
+2757    yrmuni  1948                           1948
+2758    yrmuni  1949                           1949
+2759    yrmuni  1950                           1950
+2760    yrmuni  1951                           1951
+2761    yrmuni  1952                           1952
+2762    yrmuni  1953                           1953
+2763    yrmuni  1954                           1954
+2764    yrmuni  1955                           1955
+2765    yrmuni  1956                           1956
+2766    yrmuni  1957                           1957
+2767    yrmuni  1958                           1958
+2768    yrmuni  1959                           1959
+2769    yrmuni  1960                           1960
+2770    yrmuni  1961                           1961
+2771    yrmuni  1962                           1962
+2772    yrmuni  1963                           1963
+2773    yrmuni  1964                           1964
+2774    yrmuni  1965                           1965
+2775    yrmuni  1966                           1966
+2776    yrmuni  1967                           1967
+2777    yrmuni  1968                           1968
+2778    yrmuni  1969                           1969
+2779    yrmuni  1970                           1970
+2780    yrmuni  1971                           1971
+2781    yrmuni  1972                           1972
+2782    yrmuni  1973                           1973
+2783    yrmuni  1974                           1974
+2784    yrmuni  1975                           1975
+2785    yrmuni  1976                           1976
+2786    yrmuni  1977                           1977
+2787    yrmuni  1978                           1978
+2788    yrmuni  1979                           1979
+2789    yrmuni  1980                           1980
+2790    yrmuni  1981                           1981
+2791    yrmuni  1982                           1982
+2792    yrmuni  1983                           1983
+2793    yrmuni  1984                           1984
+2794    yrmuni  1985                           1985
+2795    yrmuni  1986                           1986
+2796    yrmuni  1987                           1987
+2797    yrmuni  1988                           1988
+2798    yrmuni  1989                           1989
+2799    yrmuni  1990                           1990
+2800    yrmuni  1991                           1991
+2801    yrmuni  1992                           1992
+2802    yrmuni  1993                           1993
+2803    yrmuni  1994                           1994
+2804    yrmuni  1995                           1995
+2805    yrmuni  1996                           1996
+2806    yrmuni  1997                           1997
+2807    yrmuni  1998                           1998
+2808    yrmuni  1999                           1999
+2809    yrmuni  2000                           2000
+2810    yrmuni  2001                           2001
+2811    yrmuni  9999                            NIU
+2812 prevauton    11                        Galicia
+2813 prevauton    12         Principado de Asturias
+2814 prevauton    13                      Cantabria
+2815 prevauton    21                     País Vasco
+2816 prevauton    22     Comunidad Foral de Navarra
+2817 prevauton    23                       La Rioja
+2818 prevauton    24                         Aragón
+2819 prevauton    30            Comunidad de Madrid
+2820 prevauton    41                Castilla y León
+2821 prevauton    42             Castilla-La Mancha
+2822 prevauton    43                    Extremadura
+2823 prevauton    51                       Cataluña
+2824 prevauton    52           Comunidad Valenciana
+2825 prevauton    53                  Illes Balears
+2826 prevauton    61                      Andalucía
+2827 prevauton    62               Región de Murcia
+2828 prevauton    63       Ciudad Autónoma de Ceuta
+2829 prevauton    64     Ciudad Autónoma de Melilla
+2830 prevauton    70                       Canarias
+2831 prevauton    98                         Abroad
+2832 prevauton    99                            NIU
+2833  prevprov     1                          Álava
+2834  prevprov     2                       Albacete
+2835  prevprov     3               Alicante/Alacant
+2836  prevprov     4                        Almería
+2837  prevprov     5                          Ávila
+2838  prevprov     6                        Badajoz
+2839  prevprov     7                Balears (Illes)
+2840  prevprov     8                      Barcelona
+2841  prevprov     9                         Burgos
+2842  prevprov    10                        Cáceres
+2843  prevprov    11                          Cádiz
+2844  prevprov    12             Castellón/Castelló
+2845  prevprov    13                    Ciudad Real
+2846  prevprov    14                        Córdoba
+2847  prevprov    15                     Coruña (A)
+2848  prevprov    16                         Cuenca
+2849  prevprov    17                         Girona
+2850  prevprov    18                        Granada
+2851  prevprov    19                    Guadalajara
+2852  prevprov    20                      Guipúzcoa
+2853  prevprov    21                         Huelva
+2854  prevprov    22                         Huesca
+2855  prevprov    23                           Jaén
+2856  prevprov    24                           León
+2857  prevprov    25                         Lleida
+2858  prevprov    26                     Rioja (La)
+2859  prevprov    27                           Lugo
+2860  prevprov    28                         Madrid
+2861  prevprov    29                         Málaga
+2862  prevprov    30                         Murcia
+2863  prevprov    31                        Navarra
+2864  prevprov    32                        Ourense
+2865  prevprov    33                       Asturias
+2866  prevprov    34                       Palencia
+2867  prevprov    35                   Palmas (Las)
+2868  prevprov    36                     Pontevedra
+2869  prevprov    37                      Salamanca
+2870  prevprov    38         Santa Cruz de Tenerife
+2871  prevprov    39                      Cantabria
+2872  prevprov    40                        Segovia
+2873  prevprov    41                        Sevilla
+2874  prevprov    42                          Soria
+2875  prevprov    43                      Tarragona
+2876  prevprov    44                         Teruel
+2877  prevprov    45                         Toledo
+2878  prevprov    46              Valencia/València
+2879  prevprov    47                     Valladolid
+2880  prevprov    48                        Vizcaya
+2881  prevprov    49                         Zamora
+2882  prevprov    50                       Zaragoza
+2883  prevprov    51                          Ceuta
+2884  prevprov    52                        Melilla
+2885  prevprov    66                         Abroad
+2886  prevprov    99                            NIU
+2887   prevmun  1059                Vitoria-Gasteiz
+2888   prevmun  1991    Álava: 0 to 2000 population
+2889   prevmun  1992 Álava: 2001 to 5000 population
+2890   prevmun  1993 Álava: 5001 to 10000 populatio
+2891   prevmun  1994 Álava: 10001 to 20000 populati
+2892   prevmun  2003                       Albacete
+2893   prevmun  2009                        Almansa
+2894   prevmun  2037                         Hellín
+2895   prevmun  2081                  Villarrobledo
+2896   prevmun  2991 Albacete: 0 to 2000 population
+2897   prevmun  2992 Albacete: 2001 to 5000 populat
+2898   prevmun  2993 Albacete: 5001 to 10000 popula
+2899   prevmun  2994 Albacete: 10001 to 20000 popul
+2900   prevmun  3009                    Alcoy/Alcoi
+2901   prevmun  3014               Alicante/Alacant
+2902   prevmun  3031                       Benidorm
+2903   prevmun  3059                     Crevillent
+2904   prevmun  3063                          Dénia
+2905   prevmun  3065                      Elche/Elx
+2906   prevmun  3066                           Elda
+2907   prevmun  3079                            Ibi
+2908   prevmun  3093                        Novelda
+2909   prevmun  3099                       Orihuela
+2910   prevmun  3104                         Petrer
+2911   prevmun  3122 San Vicente del Raspeig/Sant V
+2912   prevmun  3133                     Torrevieja
+2913   prevmun  3139   Villajoyosa/Vila Joiosa (la)
+2914   prevmun  3140                        Villena
+2915   prevmun  3991 Alicante/Alacant: 0 to 2000 po
+2916   prevmun  3992 Alicante/Alacant: 2001 to 5000
+2917   prevmun  3993 Alicante/Alacant: 5001 to 1000
+2918   prevmun  3994 Alicante/Alacant: 10001 to 200
+2919   prevmun  4003                           Adra
+2920   prevmun  4013                        Almería
+2921   prevmun  4079                Roquetas de Mar
+2922   prevmun  4902                     Ejido (El)
+2923   prevmun  4991  Almería: 0 to 2000 population
+2924   prevmun  4992 Almería: 2001 to 5000 populati
+2925   prevmun  4993 Almería: 5001 to 10000 populat
+2926   prevmun  4994 Almería: 10001 to 20000 popula
+2927   prevmun  5019                          Ávila
+2928   prevmun  5991    Ávila: 0 to 2000 population
+2929   prevmun  5992 Ávila: 2001 to 5000 population
+2930   prevmun  5993 Ávila: 5001 to 10000 populatio
+2931   prevmun  6011                   Almendralejo
+2932   prevmun  6015                        Badajoz
+2933   prevmun  6044                     Don Benito
+2934   prevmun  6083                         Mérida
+2935   prevmun  6153        Villanueva de la Serena
+2936   prevmun  6991  Badajoz: 0 to 2000 population
+2937   prevmun  6992 Badajoz: 2001 to 5000 populati
+2938   prevmun  6993 Badajoz: 5001 to 10000 populat
+2939   prevmun  6994 Badajoz: 10001 to 20000 popula
+2940   prevmun  7011                         Calvià
+2941   prevmun  7015          Ciutadella de Menorca
+2942   prevmun  7026                        Eivissa
+2943   prevmun  7027                           Inca
+2944   prevmun  7031                      Llucmajor
+2945   prevmun  7032                          Mahón
+2946   prevmun  7033                        Manacor
+2947   prevmun  7036                       Marratxí
+2948   prevmun  7040              Palma de Mallorca
+2949   prevmun  7991 Balears (Illes): 0 to 2000 pop
+2950   prevmun  7992 Balears (Illes): 2001 to 5000 
+2951   prevmun  7993 Balears (Illes): 5001 to 10000
+2952   prevmun  7994 Balears (Illes): 10001 to 2000
+2953   prevmun  8015                       Badalona
+2954   prevmun  8019                      Barcelona
+2955   prevmun  8056                  Castelldefels
+2956   prevmun  8073          Cornellà de Llobregat
+2957   prevmun  8077         Esplugues de Llobregat
+2958   prevmun  8089                           Gavà
+2959   prevmun  8096                     Granollers
+2960   prevmun  8101   Hospitalet de Llobregat (L´)
+2961   prevmun  8102                       Igualada
+2962   prevmun  8113                        Manresa
+2963   prevmun  8114                      Martorell
+2964   prevmun  8118                    Masnou (El)
+2965   prevmun  8121                         Mataró
+2966   prevmun  8123                  Molins de Rei
+2967   prevmun  8124              Mollet del Vallès
+2968   prevmun  8125              Montcada i Reixac
+2969   prevmun  8163                  Pineda de Mar
+2970   prevmun  8169         Prat de Llobregat (El)
+2971   prevmun  8172                  Premià de Mar
+2972   prevmun  8180                       Ripollet
+2973   prevmun  8184                           Rubí
+2974   prevmun  8187                       Sabadell
+2975   prevmun  8194            Sant Adrià de Besòs
+2976   prevmun  8196        Sant Andreu de la Barca
+2977   prevmun  8200          Sant Boi de Llobregat
+2978   prevmun  8205          Sant Cugat del Vallès
+2979   prevmun  8211        Sant Feliu de Llobregat
+2980   prevmun  8217                Sant Joan Despí
+2981   prevmun  8231             Sant Pere de Ribes
+2982   prevmun  8245       Santa Coloma de Gramenet
+2983   prevmun  8252             Barberà del Vallès
+2984   prevmun  8260       Santa Perpètua de Mogoda
+2985   prevmun  8263         Sant Vicenç dels Horts
+2986   prevmun  8266          Cerdanyola del Vallès
+2987   prevmun  8279                       Terrassa
+2988   prevmun  8298                            Vic
+2989   prevmun  8301                     Viladecans
+2990   prevmun  8305         Vilafranca del Penedès
+2991   prevmun  8307           Vilanova i la Geltrú
+2992   prevmun  8991 Barcelona: 0 to 2000 populatio
+2993   prevmun  8992 Barcelona: 2001 to 5000 popula
+2994   prevmun  8993 Barcelona: 5001 to 10000 popul
+2995   prevmun  8994 Barcelona: 10001 to 20000 popu
+2996   prevmun  9018                Aranda de Duero
+2997   prevmun  9059                         Burgos
+2998   prevmun  9219                Miranda de Ebro
+2999   prevmun  9991   Burgos: 0 to 2000 population
+3000   prevmun  9992 Burgos: 2001 to 5000 populatio
+3001   prevmun  9993 Burgos: 5001 to 10000 populati
+3002   prevmun 10037                        Cáceres
+3003   prevmun 10148                      Plasencia
+3004   prevmun 10991  Cáceres: 0 to 2000 population
+3005   prevmun 10992 Cáceres: 2001 to 5000 populati
+3006   prevmun 10993 Cáceres: 5001 to 10000 populat
+3007   prevmun 10994 Cáceres: 10001 to 20000 popula
+3008   prevmun 11004                      Algeciras
+3009   prevmun 11006           Arcos de la Frontera
+3010   prevmun 11007                        Barbate
+3011   prevmun 11012                          Cádiz
+3012   prevmun 11015        Chiclana de la Frontera
+3013   prevmun 11020           Jerez de la Frontera
+3014   prevmun 11022    Línea de la Concepción (La)
+3015   prevmun 11027     Puerto de Santa María (El)
+3016   prevmun 11028                    Puerto Real
+3017   prevmun 11030                           Rota
+3018   prevmun 11031                   San Fernando
+3019   prevmun 11032          Sanlúcar de Barrameda
+3020   prevmun 11033                      San Roque
+3021   prevmun 11991    Cádiz: 0 to 2000 population
+3022   prevmun 11992 Cádiz: 2001 to 5000 population
+3023   prevmun 11993 Cádiz: 5001 to 10000 populatio
+3024   prevmun 11994 Cádiz: 10001 to 20000 populati
+3025   prevmun 12027                      Benicarló
+3026   prevmun 12032                       Burriana
+3027   prevmun 12040 Castellón de la Plana/Castelló
+3028   prevmun 12084                           Onda
+3029   prevmun 12126               Vall d´Uixó (la)
+3030   prevmun 12135           Villarreal/Vila-real
+3031   prevmun 12138                        Vinaròs
+3032   prevmun 12991 Castellón/Castelló: 0 to 2000 
+3033   prevmun 12992 Castellón/Castelló: 2001 to 50
+3034   prevmun 12993 Castellón/Castelló: 5001 to 10
+3035   prevmun 12994 Castellón/Castelló: 10001 to 2
+3036   prevmun 13005            Alcázar de San Juan
+3037   prevmun 13034                    Ciudad Real
+3038   prevmun 13071                    Puertollano
+3039   prevmun 13082                      Tomelloso
+3040   prevmun 13087                     Valdepeñas
+3041   prevmun 13991 Ciudad Real: 0 to 2000 populat
+3042   prevmun 13992 Ciudad Real: 2001 to 5000 popu
+3043   prevmun 13993 Ciudad Real: 5001 to 10000 pop
+3044   prevmun 13994 Ciudad Real: 10001 to 20000 po
+3045   prevmun 14013                          Cabra
+3046   prevmun 14021                        Córdoba
+3047   prevmun 14038                         Lucena
+3048   prevmun 14042                       Montilla
+3049   prevmun 14055              Priego de Córdoba
+3050   prevmun 14056                   Puente Genil
+3051   prevmun 14991  Córdoba: 0 to 2000 population
+3052   prevmun 14992 Córdoba: 2001 to 5000 populati
+3053   prevmun 14993 Córdoba: 5001 to 10000 populat
+3054   prevmun 14994 Córdoba: 10001 to 20000 popula
+3055   prevmun 15005                        Arteixo
+3056   prevmun 15019                       Carballo
+3057   prevmun 15030                     Coruña (A)
+3058   prevmun 15031                      Culleredo
+3059   prevmun 15036                         Ferrol
+3060   prevmun 15054                          Narón
+3061   prevmun 15058                        Oleiros
+3062   prevmun 15073                        Ribeira
+3063   prevmun 15078         Santiago de Compostela
+3064   prevmun 15991 Coruña (A): 0 to 2000 populati
+3065   prevmun 15992 Coruña (A): 2001 to 5000 popul
+3066   prevmun 15993 Coruña (A): 5001 to 10000 popu
+3067   prevmun 15994 Coruña (A): 10001 to 20000 pop
+3068   prevmun 16078                         Cuenca
+3069   prevmun 16991   Cuenca: 0 to 2000 population
+3070   prevmun 16992 Cuenca: 2001 to 5000 populatio
+3071   prevmun 16993 Cuenca: 5001 to 10000 populati
+3072   prevmun 16994 Cuenca: 10001 to 20000 populat
+3073   prevmun 17023                         Blanes
+3074   prevmun 17066                       Figueres
+3075   prevmun 17079                         Girona
+3076   prevmun 17095                  Lloret de Mar
+3077   prevmun 17114                           Olot
+3078   prevmun 17155                           Salt
+3079   prevmun 17991   Girona: 0 to 2000 population
+3080   prevmun 17992 Girona: 2001 to 5000 populatio
+3081   prevmun 17993 Girona: 5001 to 10000 populati
+3082   prevmun 17994 Girona: 10001 to 20000 populat
+3083   prevmun 18017                      Almuñécar
+3084   prevmun 18023                           Baza
+3085   prevmun 18087                        Granada
+3086   prevmun 18122                           Loja
+3087   prevmun 18140                         Motril
+3088   prevmun 18991  Granada: 0 to 2000 population
+3089   prevmun 18992 Granada: 2001 to 5000 populati
+3090   prevmun 18993 Granada: 5001 to 10000 populat
+3091   prevmun 18994 Granada: 10001 to 20000 popula
+3092   prevmun 19046            Azuqueca de Henares
+3093   prevmun 19130                    Guadalajara
+3094   prevmun 19991 Guadalajara: 0 to 2000 populat
+3095   prevmun 19992 Guadalajara: 2001 to 5000 popu
+3096   prevmun 20030                          Eibar
+3097   prevmun 20045                           Irun
+3098   prevmun 20055           Arrasate o Mondragón
+3099   prevmun 20067                     Errenteria
+3100   prevmun 20069         Donostia-San Sebastián
+3101   prevmun 20079                        Zarautz
+3102   prevmun 20991 Guipúzcoa: 0 to 2000 populatio
+3103   prevmun 20992 Guipúzcoa: 2001 to 5000 popula
+3104   prevmun 20993 Guipúzcoa: 5001 to 10000 popul
+3105   prevmun 20994 Guipúzcoa: 10001 to 20000 popu
+3106   prevmun 21041                         Huelva
+3107   prevmun 21991   Huelva: 0 to 2000 population
+3108   prevmun 21992 Huelva: 2001 to 5000 populatio
+3109   prevmun 21993 Huelva: 5001 to 10000 populati
+3110   prevmun 21994 Huelva: 10001 to 20000 populat
+3111   prevmun 22125                         Huesca
+3112   prevmun 22991   Huesca: 0 to 2000 population
+3113   prevmun 22992 Huesca: 2001 to 5000 populatio
+3114   prevmun 22993 Huesca: 5001 to 10000 populati
+3115   prevmun 22994 Huesca: 10001 to 20000 populat
+3116   prevmun 23002                 Alcalá la Real
+3117   prevmun 23005                        Andújar
+3118   prevmun 23050                           Jaén
+3119   prevmun 23055                        Linares
+3120   prevmun 23060                         Martos
+3121   prevmun 23092                          Úbeda
+3122   prevmun 23991     Jaén: 0 to 2000 population
+3123   prevmun 23992  Jaén: 2001 to 5000 population
+3124   prevmun 23993 Jaén: 5001 to 10000 population
+3125   prevmun 23994 Jaén: 10001 to 20000 populatio
+3126   prevmun 24089                           León
+3127   prevmun 24115                     Ponferrada
+3128   prevmun 24142        San Andrés del Rabanedo
+3129   prevmun 24991     León: 0 to 2000 population
+3130   prevmun 24992  León: 2001 to 5000 population
+3131   prevmun 24993 León: 5001 to 10000 population
+3132   prevmun 24994 León: 10001 to 20000 populatio
+3133   prevmun 25120                         Lleida
+3134   prevmun 25991   Lleida: 0 to 2000 population
+3135   prevmun 25992 Lleida: 2001 to 5000 populatio
+3136   prevmun 25993 Lleida: 5001 to 10000 populati
+3137   prevmun 25994 Lleida: 10001 to 20000 populat
+3138   prevmun 26036                      Calahorra
+3139   prevmun 26089                        Logroño
+3140   prevmun 26991 Rioja (La): 0 to 2000 populati
+3141   prevmun 26992 Rioja (La): 2001 to 5000 popul
+3142   prevmun 26993 Rioja (La): 5001 to 10000 popu
+3143   prevmun 26994 Rioja (La): 10001 to 20000 pop
+3144   prevmun 27028                           Lugo
+3145   prevmun 27991     Lugo: 0 to 2000 population
+3146   prevmun 27992  Lugo: 2001 to 5000 population
+3147   prevmun 27993 Lugo: 5001 to 10000 population
+3148   prevmun 27994 Lugo: 10001 to 20000 populatio
+3149   prevmun 28005              Alcalá de Henares
+3150   prevmun 28006                     Alcobendas
+3151   prevmun 28007                       Alcorcón
+3152   prevmun 28013                       Aranjuez
+3153   prevmun 28014                Arganda del Rey
+3154   prevmun 28022             Boadilla del Monte
+3155   prevmun 28045                 Colmenar Viejo
+3156   prevmun 28047               Collado Villalba
+3157   prevmun 28049                        Coslada
+3158   prevmun 28058                    Fuenlabrada
+3159   prevmun 28061                      Galapagar
+3160   prevmun 28065                         Getafe
+3161   prevmun 28074                        Leganés
+3162   prevmun 28079                         Madrid
+3163   prevmun 28080                    Majadahonda
+3164   prevmun 28092                       Móstoles
+3165   prevmun 28106                          Parla
+3166   prevmun 28113                          Pinto
+3167   prevmun 28115             Pozuelo de Alarcón
+3168   prevmun 28123              Rivas-Vaciamadrid
+3169   prevmun 28127          Rozas de Madrid (Las)
+3170   prevmun 28130        San Fernando de Henares
+3171   prevmun 28134     San Sebastián de los Reyes
+3172   prevmun 28148              Torrejón de Ardoz
+3173   prevmun 28161                      Valdemoro
+3174   prevmun 28181           Villaviciosa de Odón
+3175   prevmun 28903                    Tres Cantos
+3176   prevmun 28991   Madrid: 0 to 2000 population
+3177   prevmun 28992 Madrid: 2001 to 5000 populatio
+3178   prevmun 28993 Madrid: 5001 to 10000 populati
+3179   prevmun 28994 Madrid: 10001 to 20000 populat
+3180   prevmun 29007           Alhaurín de la Torre
+3181   prevmun 29015                      Antequera
+3182   prevmun 29025                    Benalmádena
+3183   prevmun 29051                       Estepona
+3184   prevmun 29054                     Fuengirola
+3185   prevmun 29067                         Málaga
+3186   prevmun 29069                       Marbella
+3187   prevmun 29070                          Mijas
+3188   prevmun 29082          Rincón de la Victoria
+3189   prevmun 29084                          Ronda
+3190   prevmun 29094                   Vélez-Málaga
+3191   prevmun 29901                   Torremolinos
+3192   prevmun 29991   Málaga: 0 to 2000 population
+3193   prevmun 29992 Málaga: 2001 to 5000 populatio
+3194   prevmun 29993 Málaga: 5001 to 10000 populati
+3195   prevmun 29994 Málaga: 10001 to 20000 populat
+3196   prevmun 30003                        Águilas
+3197   prevmun 30005                   Alcantarilla
+3198   prevmun 30015            Caravaca de la Cruz
+3199   prevmun 30016                      Cartagena
+3200   prevmun 30019                          Cieza
+3201   prevmun 30022                        Jumilla
+3202   prevmun 30024                          Lorca
+3203   prevmun 30026                       Mazarrón
+3204   prevmun 30027               Molina de Segura
+3205   prevmun 30030                         Murcia
+3206   prevmun 30035                     San Javier
+3207   prevmun 30037                  Torre-Pacheco
+3208   prevmun 30039                         Totana
+3209   prevmun 30043                          Yecla
+3210   prevmun 30991   Murcia: 0 to 2000 population
+3211   prevmun 30992 Murcia: 2001 to 5000 populatio
+3212   prevmun 30993 Murcia: 5001 to 10000 populati
+3213   prevmun 30994 Murcia: 10001 to 20000 populat
+3214   prevmun 31201                 Pamplona/Iruña
+3215   prevmun 31232                         Tudela
+3216   prevmun 31901                       Barañain
+3217   prevmun 31991  Navarra: 0 to 2000 population
+3218   prevmun 31992 Navarra: 2001 to 5000 populati
+3219   prevmun 31993 Navarra: 5001 to 10000 populat
+3220   prevmun 31994 Navarra: 10001 to 20000 popula
+3221   prevmun 32054                        Ourense
+3222   prevmun 32991  Ourense: 0 to 2000 population
+3223   prevmun 32992 Ourense: 2001 to 5000 populati
+3224   prevmun 32993 Ourense: 5001 to 10000 populat
+3225   prevmun 32994 Ourense: 10001 to 20000 popula
+3226   prevmun 33004                         Avilés
+3227   prevmun 33016                     Castrillón
+3228   prevmun 33024                          Gijón
+3229   prevmun 33031                        Langreo
+3230   prevmun 33037                         Mieres
+3231   prevmun 33044                         Oviedo
+3232   prevmun 33060     San Martín del Rey Aurelio
+3233   prevmun 33066                          Siero
+3234   prevmun 33991 Asturias: 0 to 2000 population
+3235   prevmun 33992 Asturias: 2001 to 5000 populat
+3236   prevmun 33993 Asturias: 5001 to 10000 popula
+3237   prevmun 33994 Asturias: 10001 to 20000 popul
+3238   prevmun 34120                       Palencia
+3239   prevmun 34991 Palencia: 0 to 2000 population
+3240   prevmun 34992 Palencia: 2001 to 5000 populat
+3241   prevmun 34993 Palencia: 5001 to 10000 popula
+3242   prevmun 35002                        Agüimes
+3243   prevmun 35004                       Arrecife
+3244   prevmun 35006                         Arucas
+3245   prevmun 35009                         Gáldar
+3246   prevmun 35011                        Ingenio
+3247   prevmun 35016   Palmas de Gran Canaria (Las)
+3248   prevmun 35017             Puerto del Rosario
+3249   prevmun 35019      San Bartolomé de Tirajana
+3250   prevmun 35022        Santa Lucía de Tirajana
+3251   prevmun 35026                          Telde
+3252   prevmun 35991 Palmas (Las): 0 to 2000 popula
+3253   prevmun 35992 Palmas (Las): 2001 to 5000 pop
+3254   prevmun 35993 Palmas (Las): 5001 to 10000 po
+3255   prevmun 35994 Palmas (Las): 10001 to 20000 p
+3256   prevmun 36008                         Cangas
+3257   prevmun 36017                    Estrada (A)
+3258   prevmun 36026                          Marín
+3259   prevmun 36038                     Pontevedra
+3260   prevmun 36045                      Redondela
+3261   prevmun 36057                           Vigo
+3262   prevmun 36060           Vilagarcía de Arousa
+3263   prevmun 36991 Pontevedra: 0 to 2000 populati
+3264   prevmun 36992 Pontevedra: 2001 to 5000 popul
+3265   prevmun 36993 Pontevedra: 5001 to 10000 popu
+3266   prevmun 36994 Pontevedra: 10001 to 20000 pop
+3267   prevmun 37274                      Salamanca
+3268   prevmun 37991 Salamanca: 0 to 2000 populatio
+3269   prevmun 37992 Salamanca: 2001 to 5000 popula
+3270   prevmun 37993 Salamanca: 5001 to 10000 popul
+3271   prevmun 37994 Salamanca: 10001 to 20000 popu
+3272   prevmun 38001                          Adeje
+3273   prevmun 38006                          Arona
+3274   prevmun 38017            Granadilla de Abona
+3275   prevmun 38022              Icod de los Vinos
+3276   prevmun 38023     San Cristóbal de La Laguna
+3277   prevmun 38026                   Orotava (La)
+3278   prevmun 38028              Puerto de la Cruz
+3279   prevmun 38031                 Realejos (Los)
+3280   prevmun 38038         Santa Cruz de Tenerife
+3281   prevmun 38043                      Tacoronte
+3282   prevmun 38991 Santa Cruz de Tenerife: 0 to 2
+3283   prevmun 38992 Santa Cruz de Tenerife: 2001 t
+3284   prevmun 38993 Santa Cruz de Tenerife: 5001 t
+3285   prevmun 38994 Santa Cruz de Tenerife: 10001 
+3286   prevmun 39016                        Camargo
+3287   prevmun 39020                Castro-Urdiales
+3288   prevmun 39075                      Santander
+3289   prevmun 39087                    Torrelavega
+3290   prevmun 39991 Cantabria: 0 to 2000 populatio
+3291   prevmun 39992 Cantabria: 2001 to 5000 popula
+3292   prevmun 39993 Cantabria: 5001 to 10000 popul
+3293   prevmun 39994 Cantabria: 10001 to 20000 popu
+3294   prevmun 40194                        Segovia
+3295   prevmun 40991  Segovia: 0 to 2000 population
+3296   prevmun 40992 Segovia: 2001 to 5000 populati
+3297   prevmun 40993 Segovia: 5001 to 10000 populat
+3298   prevmun 41004             Alcalá de Guadaira
+3299   prevmun 41021                          Camas
+3300   prevmun 41024                        Carmona
+3301   prevmun 41034                  Coria del Río
+3302   prevmun 41038                   Dos Hermanas
+3303   prevmun 41039                          Écija
+3304   prevmun 41053                        Lebrija
+3305   prevmun 41059           Mairena del Aljarafe
+3306   prevmun 41065           Morón de la Frontera
+3307   prevmun 41069   Palacios y Villafranca (Los)
+3308   prevmun 41081                 Rinconada (La)
+3309   prevmun 41091                        Sevilla
+3310   prevmun 41095                         Utrera
+3311   prevmun 41991  Sevilla: 0 to 2000 population
+3312   prevmun 41992 Sevilla: 2001 to 5000 populati
+3313   prevmun 41993 Sevilla: 5001 to 10000 populat
+3314   prevmun 41994 Sevilla: 10001 to 20000 popula
+3315   prevmun 42173                          Soria
+3316   prevmun 42991    Soria: 0 to 2000 population
+3317   prevmun 42992 Soria: 2001 to 5000 population
+3318   prevmun 42993 Soria: 5001 to 10000 populatio
+3319   prevmun 43038                       Cambrils
+3320   prevmun 43123                           Reus
+3321   prevmun 43148                      Tarragona
+3322   prevmun 43155                        Tortosa
+3323   prevmun 43161                          Valls
+3324   prevmun 43163                  Vendrell (El)
+3325   prevmun 43991 Tarragona: 0 to 2000 populatio
+3326   prevmun 43992 Tarragona: 2001 to 5000 popula
+3327   prevmun 43993 Tarragona: 5001 to 10000 popul
+3328   prevmun 43994 Tarragona: 10001 to 20000 popu
+3329   prevmun 44216                         Teruel
+3330   prevmun 44991   Teruel: 0 to 2000 population
+3331   prevmun 44992 Teruel: 2001 to 5000 populatio
+3332   prevmun 44993 Teruel: 5001 to 10000 populati
+3333   prevmun 44994 Teruel: 10001 to 20000 populat
+ [ reached getOption("max.print") -- omitted 808 rows ]

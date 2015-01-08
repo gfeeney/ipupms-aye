@@ -1,0 +1,181 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      dwnum                                                   Dwelling number
+6       fbig Dwelling created by splitting apart a large dwelling or household
+7     region                                                            Region
+8       dist                                                          District
+9     county                                                            County
+10     urban                                                Urban/rural status
+11     munic                                                      Municipality
+12  ownershp                                                            Tenure
+13   bldtype                                                  Type of dwelling
+14    roomss                                          Number of sleeping rooms
+15      roof                                                     Roof material
+16      wall                                                     Wall material
+17     floor                                                    Floor material
+18    dwtype                                              Type of housing unit
+19   landown                                               Land tenure of plot
+20   distmed                                       Distance to health facility
+21   distsch                                        Distance to primary school
+22   distwat                                       Distance to source of water
+23     fuelc                                                      Cooking fuel
+24     fuell                                                     Lighting fuel
+25    watsrc                                          Source of drinking water
+26    toilet                                                 Toilet facilities
+27     waste                                    Method of solid waste disposal
+28   bathtyp                                                  Type of bathroom
+29     kitch                                                   Type of kitchen
+30     vehic                                               Own a motor vehicle
+31   motocyc                                                  Own a motorcycle
+32      bike                                                     Own a bicycle
+33     canoe                                                       Own a canoe
+34    donkey                                                      Own a donkey
+35        tv                                              Own a television set
+36     radio                                                       Own a radio
+37      cell                                                Own a mobile phone
+38     phone                                                 Own a fixed phone
+39    postal                                              Own a postal address
+40     email                                    Own an electronic mail address
+41   infosrc                                             Source of information
+42    liveli                                              Source of livelihood
+43      soap                                                          Use soap
+44     sugar                                                    Consumed sugar
+45   blanket                        Have a blanket for each child under age 18
+46     shoes                                              Have a pair of shoes
+47  clothtwo                                         Have two sets of clothing
+48     death                                                Death in household
+49        gq                                    Institution, hotel or homeless
+50   tenurea                                             Land tenure awareness
+51  qownersh                                                   Flag for tenure
+52   qdwtype                                         Flag for type of dwelling
+53   qroomss                                 Flag for number of sleeping rooms
+54     qroof                                            Flag for roof material
+55     qwall                                            Flag for wall material
+56    qfloor                                           Flag for floor material
+57  qbldtype                                     Flag for type of housing unit
+58  qlandown                                      Flag for land tenure of plot
+59  qdistmed                              Flag for distance to health facility
+60  qdistsch                               Flag for distance to primary school
+61  qdistwat                              Flag for distance to source of water
+62    qfuelc                                             Flag for cooking fuel
+63    qfuell                                            Flag for lighting fuel
+64   qwatsrc                                 Flag for source of drinking water
+65   qtoilet                                        Flag for toilet facilities
+66    qwaste                           Flag for method of solid waste disposal
+67   qbathty                                         Flag for type of bathroom
+68    qkitch                                          Flag for type of kitchen
+69    qvehic                                      Flag for own a motor vehicle
+70  qmotocyc                                         Flag for own a motorcycle
+71     qbike                                            Flag for own a bicycle
+72    qcanoe                                              Flag for own a canoe
+73   qdonkey                                             Flag for own a donkey
+74       qtv                                     Flag for own a television set
+75    qradio                                              Flag for own a radio
+76     qcell                                       Flag for own a mobile phone
+77    qphone                                        Flag for own a fixed phone
+78   qpostal                                     Flag for own a postal address
+79    qemail                           Flag for own an electronic mail address
+80  qinfosrc                                    Flag for source of information
+81   qliveli                                     Flag for source of livelihood
+82     qsoap                                                 Flag for use soap
+83  qblanket               Flag for have a blanket for each child under age 18
+84    qshoes                                     Flag for have a pair of shoes
+85  qclothtw                                Flag for have two sets of clothing
+86    qdeath                                       Flag for death in household
+87       hut                                                     Hut (derived)
+88   poptype                                                   Population type
+89  qpoptype                                          Flag for population type
+90     deadn                      Number of mortality records in original data
+91    pernum                                                     Person number
+92     wtper                                                     Person weight
+93  resident                               Residence status: de facto, de jure
+94    pernum                                  Person number (within household)
+95    pernum                                  Person number (within household)
+96    relate                                          Relationship to the head
+97   birthmo                                                    Month of birth
+98   birthyr                                                     Year of birth
+99       age                                                               Age
+100   ethnic                                             Ethnicity/nationality
+101 mothlive                                                   Mother survival
+102 fathlive                                                   Father survival
+103      bpl                                      District or country of birth
+104  prevres                         District or country of previous residence
+105   resdur                                 Duration of residence in district
+106   disab1                                 First disability/major disability
+107   disab2                                                 Second disability
+108  discau1                                             Cause of Disability 1
+109  discau2                                             Cause of Disability 2
+110   rehab1                                    Rehabilitation of disability 1
+111   school                                                            School
+112 edattain                                              Education Attainment
+113      ind                                                          Industry
+114     occ1                                               Occupation, 1 digit
+115      occ                                              Occupation, 3 digits
+116      lit                                                          Literacy
+117    marst                                                    Marital status
+118  chbornm                                           Male children ever born
+119  chbornf                                         Female children ever born
+120    chhhm                                 Male children living in household
+121    chhhf                               Female children living in household
+122  chawaym                        Male children living outside the household
+123  chawayf                      Female children living outside the household
+124  chdeadm                                                Male children dead
+125  chdeadf                                              Female children dead
+126  lstchmo                                            Last child birth month
+127  lstchyr                                             Last child birth year
+128 lstchsex                                                 Sex of last child
+129 lstchliv                                            Last child still alive
+130  lstdage                              Last child's age of death, in months
+131  defacto                                                   De facto status
+132   qperid                                            Flag for person number
+133  qrelate                                 Flag for relationship to the head
+134     qsex                                                      Flag for sex
+135 qbirthda                                             Flag for day of birth
+136  qbirthc                                            Flag for birth century
+137 qbirthyr                                            Flag for year of birth
+138     qage                                                      Flag for age
+139   qrelig                                                 Flag for religion
+140  qethnic                                    Flag for ethnicity/nationality
+141 qmothliv                                          Flag for mother survival
+142 qfathliv                                          Flag for father survival
+143     qbpl                             Flag for district or country of birth
+144 qprevres                Flag for district or country of previous residence
+145  qresdur                        Flag for duration of residence in district
+146  qresdur                        Flag for duration of residence in district
+147  qdisab1                        Flag for first disability/major disability
+148  qdisab2                                        Flag for second disability
+149 qdiscau1                                    Flag for cause of disability 1
+150 qdiscau2                                    Flag for cause of disability 2
+151  qrehab1                           Flag for rehabilitation of disability 1
+152  qrehab2                           Flag for rehabilitation of disability 2
+153  qschool                                                   Flag for school
+154 qedattan                                     Flag for education Attainment
+155 qempstat                 Flag for employment status in the last seven days
+156     qind                                                 Flag for industry
+157     qocc                                               Flag for occupation
+158     qlit                                                 Flag for literacy
+159   qmarst                                           Flag for marital status
+160 qchbornm                                  Flag for male children ever born
+161 qchbornf                                Flag for female children ever born
+162   qchhhm                        Flag for male children living in household
+163 qchawaym               Flag for male children living outside the household
+164 qchawayf             Flag for female children living outside the household
+165 qchdeadm                                       Flag for male children dead
+166 qchdeadf                                     Flag for female children dead
+167 qlstchmo                                   Flag for last child birth month
+168    qlstc                                 Flag for last child birth century
+169 qlstchyr                                    Flag for last child birth year
+170 qlstchse                                        Flag for sex of last child
+171  qlstage                     Flag for last child's age of death, in months
+172   chborn                                                Children ever born
+173     chhh                                             Children in household
+174   chaway                                                Children elsewhere
+175   chdead                                                     Children dead
+176 mothlivu                                        Mothers survival, unedited
+177 fathlivu                                        Fathers survival, unedited
+178  qmothlv                                          Flag for mother survival
+179  qfathlv                                          Flag for father survival
+180  bplsame                                          Place of birth (derived)

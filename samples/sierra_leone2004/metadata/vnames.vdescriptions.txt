@@ -1,0 +1,110 @@
+       vname                                                              vdescription
+1      cntry                                                                   Country
+2       year                                                                      Year
+3     sample                                                   IPUMS sample identifier
+4     serial                                                   Household serial number
+5      dwnum                                                           Dwelling number
+6       pern                                            Number of persons in household
+7       prov                                                                  Province
+8       dist                                                                  District
+9      chief                                                             Chiefdom/ward
+10     urban                                                        Urban/rural status
+11  structyp                                                            Structure type
+12   restype                                                            Residence type
+13     npers                                                         Number of persons
+14    repair                                     Current repair needs of dwelling unit
+15     rooms                                                           Number of rooms
+16   impnets                             Number of beds with impregnated mosquito nets
+17      nets                                 Number of beds with regular mosquito nets
+18    nonets                                      Number of beds with no mosquito nets
+19  acquired                                                    Tenure of the dwelling
+20      roof                                                      Material of the roof
+21      wall                                                      Material of the wall
+22     floor                                                     Material of the floor
+23     trash                                                    Type of trash disposal
+24  fuelcook                                                          Fuel for cooking
+25  lighting                                                        Source of lighting
+26    watsrc                                       Source of water supply for drinking
+27    toilet                                                   Type of toilet facility
+28   bathing                                            Location of bathing facilities
+29    inform                                                Main source of information
+30  disthlth                                       Distance to nearest health facility
+31  distschl                                        Distance to nearest primary school
+32  distwatr                                       Distance to nearest source of water
+33      iron                                                             Electric iron
+34    fridge                                                              Refrigerator
+35        tv                                                                Television
+36        pc                                                                  Computer
+37     radio                                                                     Radio
+38     phone                                                                 Telephone
+39      cell                                                                Cell phone
+40     stove                                                              Modern stove
+41      bike                                                                   Bicycle
+42   motocyc                                                                Motorcycle
+43   vehicle                                                                 Car/truck
+44  acriceup                                            Number of acres of upland rice
+45  acricelo                                           Number of acres of lowland rice
+46    accass                                                Number of acres of cassava
+47   acswpot                                           Number of acres of sweet potato
+48  acgrndnt                                             Number of acres of groundnuts
+49   acmaize                                                  Number of acres of maize
+50  accoffee                                                 Number of acres of coffee
+51   accacao                                                  Number of acres of cacao
+52  acoilplm                                               Number of acres of oil palm
+53  accitrus                                          Number of acres of citrus fruits
+54     acveg                                             Number of acres of vegetables
+55    cattle                                                    Number of cattle owned
+56     sheep                                                     Number of sheep owned
+57     goats                                                     Number of goats owned
+58      pigs                                                      Number of pigs owned
+59  chickens                                                  Number of chickens owned
+60     ducks                                                     Number of ducks owned
+61   tractor                                                        Access to tractors
+62    tiller                                                   Access to power tillers
+63  thresher                                                       Access to threshers
+64      mill                                                      Access to rice mills
+65   storage                                              Access to storage facilities
+66  dryfloor                                                   Access to drying floors
+67    grater                                                 Access to cassava graters
+68     nmort                                        Number of deaths in last 12 months
+69    pernum                                                             Person number
+70     wtper                                                             Person weight
+71    pernum                                          Person number (within household)
+72     perno                                                             Person number
+73    relate                                        Relationship to the household head
+74       age                                                                       Age
+75       sex                                                                       Sex
+76     relig                                                                  Religion
+77    ethnic                                                     Ethnicity/nationality
+78  langprim                                                          Primary language
+79   langsec                                                        Secondary language
+80    dist90                                             District of residence in 1990
+81   chief90                                     Chiefdom/country of residence in 1990
+82   mortmom                                                       Maternal orphanhood
+83   mortpop                                                       Paternal orphanhood
+84   disable                                                                  Disabled
+85   distype                                                        Type of disability
+86  discause                                                       Cause of disability
+87   disasst                                                     Disability assistance
+88    school                                                         School attendance
+89  edattain                                          Highest education level attained
+90     marst                                                            Marital status
+91  activity                                     Economic activity in the last 30 days
+92       occ                                                                Occupation
+93       ind                                                                  Industry
+94   chbornm                                         Number of male children ever born
+95   chbornf                                       Number of female children ever born
+96    malehh                                 Number of male children in this household
+97     femhh                               Number of female children in this household
+98  maleaway                                         Number of male children elsewhere
+99   femaway                                       Number of female children elsewhere
+100  chdeadm                                              Number of male children dead
+101  chdeadf                                            Number of female children dead
+102  bthyear                                    Year of last birth (in last 12 months)
+103 molstbth                                   Month of last birth (in last 12 months)
+104  sexlstb                            Sex of the last child born (in last 12 months)
+105  livlstb                         Status of the last child born (in last 12 months)
+106    immun Prescribed immunization status of the last child born (in last 12 months)
+107   chborn                                              Number of children ever born
+108   chsurv                                            Number of children still alive
+109 bthlstyr                                                   Gave birth in last year

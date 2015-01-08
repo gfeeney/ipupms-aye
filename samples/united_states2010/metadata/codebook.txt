@@ -1,0 +1,3335 @@
+            vname    code                          short
+1           cntry      32                      Argentina
+2           cntry      51                        Armenia
+3           cntry      40                        Austria
+4           cntry      50                     Bangladesh
+5           cntry     112                        Belarus
+6           cntry      68                        Bolivia
+7           cntry      76                         Brazil
+8           cntry     854                   Burkina Faso
+9           cntry     116                       Cambodia
+10          cntry     120                       Cameroon
+11          cntry     124                         Canada
+12          cntry     152                          Chile
+13          cntry     156                          China
+14          cntry     170                       Colombia
+15          cntry     188                     Costa Rica
+16          cntry     192                           Cuba
+17          cntry     214             Dominican Republic
+18          cntry     218                        Ecuador
+19          cntry     818                          Egypt
+20          cntry     222                    El Salvador
+21          cntry     242                           Fiji
+22          cntry     250                         France
+23          cntry     276                        Germany
+24          cntry     288                          Ghana
+25          cntry     300                         Greece
+26          cntry     324                         Guinea
+27          cntry     332                          Haiti
+28          cntry     348                        Hungary
+29          cntry     356                          India
+30          cntry     360                      Indonesia
+31          cntry     364                           Iran
+32          cntry     368                           Iraq
+33          cntry     372                        Ireland
+34          cntry     376                         Israel
+35          cntry     380                          Italy
+36          cntry     388                        Jamaica
+37          cntry     400                         Jordan
+38          cntry     404                          Kenya
+39          cntry     417                Kyrgyz Republic
+40          cntry     430                        Liberia
+41          cntry     454                         Malawi
+42          cntry     458                       Malaysia
+43          cntry     466                           Mali
+44          cntry     484                         Mexico
+45          cntry     496                       Mongolia
+46          cntry     504                        Morocco
+47          cntry     524                          Nepal
+48          cntry     528                    Netherlands
+49          cntry     558                      Nicaragua
+50          cntry     566                        Nigeria
+51          cntry     586                       Pakistan
+52          cntry     275                      Palestine
+53          cntry     591                         Panama
+54          cntry     604                           Peru
+55          cntry     608                    Philippines
+56          cntry     620                       Portugal
+57          cntry     630                    Puerto Rico
+58          cntry     642                        Romania
+59          cntry     646                         Rwanda
+60          cntry     662                    Saint Lucia
+61          cntry     686                        Senegal
+62          cntry     694                   Sierra Leone
+63          cntry     705                       Slovenia
+64          cntry     710                   South Africa
+65          cntry     728                    South Sudan
+66          cntry     724                          Spain
+67          cntry     729                          Sudan
+68          cntry     756                    Switzerland
+69          cntry     834                       Tanzania
+70          cntry     764                       Thailand
+71          cntry     792                         Turkey
+72          cntry     800                         Uganda
+73          cntry     804                        Ukraine
+74          cntry     826                 United Kingdom
+75          cntry     840                  United States
+76          cntry     858                        Uruguay
+77          cntry     862                      Venezuela
+78          cntry     704                        Vietnam
+79          cntry     894                         Zambia
+80           year    1960                           1960
+81           year    1962                           1962
+82           year    1963                           1963
+83           year    1964                           1964
+84           year    1966                           1966
+85           year    1968                           1968
+86           year    1969                           1969
+87           year    1970                           1970
+88           year    1971                           1971
+89           year    1972                           1972
+90           year    1973                           1973
+91           year    1974                           1974
+92           year    1975                           1975
+93           year    1976                           1976
+94           year    1977                           1977
+95           year    1979                           1979
+96           year    1980                           1980
+97           year    1981                           1981
+98           year    1982                           1982
+99           year    1983                           1983
+100          year    1984                           1984
+101          year    1985                           1985
+102          year    1986                           1986
+103          year    1987                           1987
+104          year    1989                           1989
+105          year    1990                           1990
+106          year    1991                           1991
+107          year    1992                           1992
+108          year    1993                           1993
+109          year    1994                           1994
+110          year    1995                           1995
+111          year    1996                           1996
+112          year    1997                           1997
+113          year    1998                           1998
+114          year    1999                           1999
+115          year    2000                           2000
+116          year    2001                           2001
+117          year    2002                           2002
+118          year    2003                           2003
+119          year    2004                           2004
+120          year    2005                           2005
+121          year    2006                           2006
+122          year    2007                           2007
+123          year    2008                           2008
+124          year    2009                           2009
+125          year    2010                           2010
+126          year    2011                           2011
+127        sample     321                 Argentina 1970
+128        sample     322                 Argentina 1980
+129        sample     323                 Argentina 1991
+130        sample     324                 Argentina 2001
+131        sample     325                 Argentina 2010
+132        sample     511                   Armenia 2001
+133        sample     401                   Austria 1971
+134        sample     402                   Austria 1981
+135        sample     403                   Austria 1991
+136        sample     404                   Austria 2001
+137        sample     501                Bangladesh 1991
+138        sample     502                Bangladesh 2001
+139        sample     503                Bangladesh 2011
+140        sample     681                   Bolivia 1976
+141        sample     682                   Bolivia 1992
+142        sample     683                   Bolivia 2001
+143        sample     761                    Brazil 1960
+144        sample     762                    Brazil 1970
+145        sample     763                    Brazil 1980
+146        sample     764                    Brazil 1991
+147        sample     765                    Brazil 2000
+148        sample     766                    Brazil 2010
+149        sample    1121                   Belarus 1999
+150        sample    8541              Burkina Faso 1985
+151        sample    8542              Burkina Faso 1996
+152        sample    8543              Burkina Faso 2006
+153        sample    1161                  Cambodia 1998
+154        sample    1162                  Cambodia 2008
+155        sample    1201                  Cameroon 1976
+156        sample    1202                  Cameroon 1987
+157        sample    1203                  Cameroon 2005
+158        sample    1241                    Canada 1971
+159        sample    1242                    Canada 1981
+160        sample    1243                    Canada 1991
+161        sample    1244                    Canada 2001
+162        sample    1521                     Chile 1960
+163        sample    1522                     Chile 1970
+164        sample    1523                     Chile 1982
+165        sample    1524                     Chile 1992
+166        sample    1525                     Chile 2002
+167        sample    1561                     China 1982
+168        sample    1562                     China 1990
+169        sample    1701                  Colombia 1964
+170        sample    1702                  Colombia 1973
+171        sample    1703                  Colombia 1985
+172        sample    1704                  Colombia 1993
+173        sample    1705                  Colombia 2005
+174        sample    1881                Costa Rica 1963
+175        sample    1882                Costa Rica 1973
+176        sample    1883                Costa Rica 1984
+177        sample    1884                Costa Rica 2000
+178        sample    1921                      Cuba 2002
+179        sample    2141        Dominican Republic 1960
+180        sample    2142        Dominican Republic 1970
+181        sample    2143        Dominican Republic 1981
+182        sample    2144        Dominican Republic 2002
+183        sample    2145        Dominican Republic 2010
+184        sample    2181                   Ecuador 1962
+185        sample    2182                   Ecuador 1974
+186        sample    2183                   Ecuador 1982
+187        sample    2184                   Ecuador 1990
+188        sample    2185                   Ecuador 2001
+189        sample    2186                   Ecuador 2010
+190        sample    8181                     Egypt 1996
+191        sample    8182                     Egypt 2006
+192        sample    2221               El Salvador 1992
+193        sample    2222               El Salvador 2007
+194        sample    2421                      Fiji 1966
+195        sample    2422                      Fiji 1976
+196        sample    2423                      Fiji 1986
+197        sample    2424                      Fiji 1996
+198        sample    2425                      Fiji 2007
+199        sample    2501                    France 1962
+200        sample    2502                    France 1968
+201        sample    2503                    France 1975
+202        sample    2504                    France 1982
+203        sample    2505                    France 1990
+204        sample    2506                    France 1999
+205        sample    2507                    France 2006
+206        sample    2761            Germany 1970 (West)
+207        sample    2762            Germany 1971 (East)
+208        sample    2763            Germany 1981 (East)
+209        sample    2764            Germany 1987 (West)
+210        sample    2881                     Ghana 2000
+211        sample    2882                     Ghana 2010
+212        sample    3001                    Greece 1971
+213        sample    3002                    Greece 1981
+214        sample    3003                    Greece 1991
+215        sample    3004                    Greece 2001
+216        sample    3241                    Guinea 1983
+217        sample    3242                    Guinea 1996
+218        sample    3321                     Haiti 1971
+219        sample    3322                     Haiti 1982
+220        sample    3323                     Haiti 2003
+221        sample    3481                   Hungary 1970
+222        sample    3482                   Hungary 1980
+223        sample    3483                   Hungary 1990
+224        sample    3484                   Hungary 2001
+225        sample    3561                     India 1983
+226        sample    3562                     India 1987
+227        sample    3563                     India 1993
+228        sample    3564                     India 1999
+229        sample    3565                     India 2004
+230        sample    3601                 Indonesia 1971
+231        sample    3602                 Indonesia 1976
+232        sample    3603                 Indonesia 1980
+233        sample    3604                 Indonesia 1985
+234        sample    3605                 Indonesia 1990
+235        sample    3606                 Indonesia 1995
+236        sample    3607                 Indonesia 2000
+237        sample    3608                 Indonesia 2005
+238        sample    3609                 Indonesia 2010
+239        sample    3641                      Iran 2006
+240        sample    3681                      Iraq 1997
+241        sample    3721                   Ireland 1971
+242        sample    3722                   Ireland 1979
+243        sample    3723                   Ireland 1981
+244        sample    3724                   Ireland 1986
+245        sample    3725                   Ireland 1991
+246        sample    3726                   Ireland 1996
+247        sample    3727                   Ireland 2002
+248        sample    3728                   Ireland 2006
+249        sample    3729                   Ireland 2011
+250        sample    3761                    Israel 1972
+251        sample    3762                    Israel 1983
+252        sample    3763                    Israel 1995
+253        sample    3801                     Italy 2001
+254        sample    3881                   Jamaica 1982
+255        sample    3882                   Jamaica 1991
+256        sample    3883                   Jamaica 2001
+257        sample    4001                    Jordan 2004
+258        sample    4041                     Kenya 1969
+259        sample    4042                     Kenya 1979
+260        sample    4043                     Kenya 1989
+261        sample    4044                     Kenya 1999
+262        sample    4045                     Kenya 2009
+263        sample    4171           Kyrgyz Republic 1999
+264        sample    4172           Kyrgyz Republic 2009
+265        sample    4301                   Liberia 1974
+266        sample    4302                   Liberia 2008
+267        sample    4541                    Malawi 1987
+268        sample    4542                    Malawi 1998
+269        sample    4543                    Malawi 2008
+270        sample    4581                  Malaysia 1970
+271        sample    4582                  Malaysia 1980
+272        sample    4583                  Malaysia 1991
+273        sample    4584                  Malaysia 2000
+274        sample    4661                      Mali 1987
+275        sample    4662                      Mali 1998
+276        sample    4663                      Mali 2009
+277        sample    4841                    Mexico 1960
+278        sample    4842                    Mexico 1970
+279        sample    4843                    Mexico 1990
+280        sample    4844                    Mexico 1995
+281        sample    4845                    Mexico 2000
+282        sample    4846                    Mexico 2005
+283        sample    4847                    Mexico 2010
+284        sample    4961                  Mongolia 1989
+285        sample    4962                  Mongolia 2000
+286        sample    5041                   Morocco 1982
+287        sample    5042                   Morocco 1994
+288        sample    5043                   Morocco 2004
+289        sample    5241                     Nepal 2001
+290        sample    5281               Netherlands 1960
+291        sample    5282               Netherlands 1971
+292        sample    5283               Netherlands 2001
+293        sample    5581                 Nicaragua 1971
+294        sample    5582                 Nicaragua 1995
+295        sample    5583                 Nicaragua 2005
+296        sample    5661                   Nigeria 2006
+297        sample    5662                   Nigeria 2007
+298        sample    5663                   Nigeria 2008
+299        sample    5664                   Nigeria 2009
+300        sample    5665                   Nigeria 2010
+301        sample    5861                  Pakistan 1973
+302        sample    5862                  Pakistan 1981
+303        sample    5863                  Pakistan 1998
+304        sample    2751                 Palestine 1997
+305        sample    2752                 Palestine 2007
+306        sample    5911                    Panama 1960
+307        sample    5912                    Panama 1970
+308        sample    5913                    Panama 1980
+309        sample    5914                    Panama 1990
+310        sample    5915                    Panama 2000
+311        sample    5916                    Panama 2010
+312        sample    6041                      Peru 1993
+313        sample    6042                      Peru 2007
+314        sample    6081               Philippines 1990
+315        sample    6082               Philippines 1995
+316        sample    6083               Philippines 2000
+317        sample    6201                  Portugal 1981
+318        sample    6202                  Portugal 1991
+319        sample    6203                  Portugal 2001
+320        sample    6301               Puerto Rico 1970
+321        sample    6302               Puerto Rico 1980
+322        sample    6303               Puerto Rico 1990
+323        sample    6304               Puerto Rico 2000
+324        sample    6305               Puerto Rico 2005
+325        sample    6421                   Romania 1977
+326        sample    6422                   Romania 1992
+327        sample    6423                   Romania 2002
+328        sample    6461                    Rwanda 1991
+329        sample    6462                    Rwanda 2002
+330        sample    6621               Saint Lucia 1980
+331        sample    6622               Saint Lucia 1991
+332        sample    6861                   Senegal 1988
+333        sample    6862                   Senegal 2002
+334        sample    6941              Sierra Leone 2004
+335        sample    7051                  Slovenia 2002
+336        sample    7101              South Africa 1996
+337        sample    7102              South Africa 2001
+338        sample    7103              South Africa 2007
+339        sample    7241                     Spain 1981
+340        sample    7242                     Spain 1991
+341        sample    7243                     Spain 2001
+342        sample    7281               South Sudan 2008
+343        sample    7291                     Sudan 2008
+344        sample    7561               Switzerland 1970
+345        sample    7562               Switzerland 1980
+346        sample    7563               Switzerland 1990
+347        sample    7564               Switzerland 2000
+348        sample    8341                  Tanzania 1988
+349        sample    8342                  Tanzania 2002
+350        sample    7641                  Thailand 1970
+351        sample    7642                  Thailand 1980
+352        sample    7643                  Thailand 1990
+353        sample    7644                  Thailand 2000
+354        sample    7921                    Turkey 1985
+355        sample    7922                    Turkey 1990
+356        sample    7923                    Turkey 2000
+357        sample    8001                    Uganda 1991
+358        sample    8002                    Uganda 2002
+359        sample    8041                   Ukraine 2001
+360        sample    8261            United Kingdom 1991
+361        sample    8262            United Kingdom 2001
+362        sample    8401             United States 1960
+363        sample    8402             United States 1970
+364        sample    8403             United States 1980
+365        sample    8404             United States 1990
+366        sample    8405             United States 2000
+367        sample    8406             United States 2005
+368        sample    8407             United States 2010
+369        sample    8581                   Uruguay 1963
+370        sample    8582                   Uruguay 1975
+371        sample    8583                   Uruguay 1985
+372        sample    8584                   Uruguay 1996
+373        sample    8585                   Uruguay 2006
+374        sample    8586                   Uruguay 2011
+375        sample    8621                 Venezuela 1971
+376        sample    8622                 Venezuela 1981
+377        sample    8623                 Venezuela 1990
+378        sample    8624                 Venezuela 2001
+379        sample    7041                   Vietnam 1989
+380        sample    7042                   Vietnam 1999
+381        sample    7043                   Vietnam 2009
+382        sample    8941                    Zambia 1990
+383        sample    8942                    Zambia 2000
+384        sample    8943                    Zambia 2010
+385          pern       0                              0
+386          pern       1                              1
+387          pern       2                              2
+388          pern       3                              3
+389          pern       4                              4
+390          pern       5                              5
+391          pern       6                              6
+392          pern       7                              7
+393          pern       8                              8
+394          pern       9                              9
+395          pern      10                             10
+396          pern      11                             11
+397          pern      12                             12
+398          pern      13                             13
+399          pern      14                             14
+400          pern      15                             15
+401          pern      16                             16
+402          pern      17                             17
+403          pern      19                             19
+404          pern      20                             20
+405       numprec       0               Vacant household
+406       numprec       1                1 person record
+407       numprec       2                              2
+408       numprec       3                              3
+409       numprec       4                              4
+410       numprec       5                              5
+411       numprec       6                              6
+412       numprec       7                              7
+413       numprec       8                              8
+414       numprec       9                              9
+415       numprec      10                             10
+416       numprec      11                             11
+417       numprec      12                             12
+418       numprec      13                             13
+419       numprec      14                             14
+420       numprec      15                             15
+421       numprec      16                             16
+422       numprec      17                             17
+423       numprec      19                             19
+424       numprec      20                             20
+425       subsamp       0             First 1% subsample
+426       subsamp       1               2nd 1% subsample
+427       subsamp       2                              2
+428       subsamp       3                              3
+429       subsamp       4                              4
+430       subsamp       5                              5
+431       subsamp       6                              6
+432       subsamp       7                              7
+433       subsamp       8                              8
+434       subsamp       9                              9
+435       subsamp      10                             10
+436       subsamp      11                             11
+437       subsamp      12                             12
+438       subsamp      13                             13
+439       subsamp      14                             14
+440       subsamp      15                             15
+441       subsamp      16                             16
+442       subsamp      17                             17
+443       subsamp      18                             18
+444       subsamp      19                             19
+445       subsamp      20                             20
+446       subsamp      21                             21
+447       subsamp      22                             22
+448       subsamp      23                             23
+449       subsamp      24                             24
+450       subsamp      25                             25
+451       subsamp      26                             26
+452       subsamp      27                             27
+453       subsamp      28                             28
+454       subsamp      29                             29
+455       subsamp      30                             30
+456       subsamp      31                             31
+457       subsamp      32                             32
+458       subsamp      33                             33
+459       subsamp      34                             34
+460       subsamp      35                             35
+461       subsamp      36                             36
+462       subsamp      37                             37
+463       subsamp      38                             38
+464       subsamp      39                             39
+465       subsamp      40                             40
+466       subsamp      41                             41
+467       subsamp      42                             42
+468       subsamp      43                             43
+469       subsamp      44                             44
+470       subsamp      45                             45
+471       subsamp      46                             46
+472       subsamp      47                             47
+473       subsamp      48                             48
+474       subsamp      49                             49
+475       subsamp      50                             50
+476       subsamp      51                             51
+477       subsamp      52                             52
+478       subsamp      53                             53
+479       subsamp      54                             54
+480       subsamp      55                             55
+481       subsamp      56                             56
+482       subsamp      57                             57
+483       subsamp      58                             58
+484       subsamp      59                             59
+485       subsamp      60                             60
+486       subsamp      61                             61
+487       subsamp      62                             62
+488       subsamp      63                             63
+489       subsamp      64                             64
+490       subsamp      65                             65
+491       subsamp      66                             66
+492       subsamp      67                             67
+493       subsamp      68                             68
+494       subsamp      69                             69
+495       subsamp      70                             70
+496       subsamp      71                             71
+497       subsamp      72                             72
+498       subsamp      73                             73
+499       subsamp      74                             74
+500       subsamp      75                             75
+501       subsamp      76                             76
+502       subsamp      77                             77
+503       subsamp      78                             78
+504       subsamp      79                             79
+505       subsamp      80                             80
+506       subsamp      81                             81
+507       subsamp      82                             82
+508       subsamp      83                             83
+509       subsamp      84                             84
+510       subsamp      85                             85
+511       subsamp      86                             86
+512       subsamp      87                             87
+513       subsamp      88                             88
+514       subsamp      89                             89
+515       subsamp      90                             90
+516       subsamp      91                             91
+517       subsamp      92                             92
+518       subsamp      93                             93
+519       subsamp      94                             94
+520       subsamp      95                             95
+521       subsamp      96                             96
+522       subsamp      97                             97
+523       subsamp      98                             98
+524       subsamp      99                             99
+525      stateicp       1                    Connecticut
+526      stateicp       2                          Maine
+527      stateicp       3                  Massachusetts
+528      stateicp       4                  New Hampshire
+529      stateicp       5                   Rhode Island
+530      stateicp       6                        Vermont
+531      stateicp      11                       Delaware
+532      stateicp      12                     New Jersey
+533      stateicp      13                       New York
+534      stateicp      14                   Pennsylvania
+535      stateicp      21                       Illinois
+536      stateicp      22                        Indiana
+537      stateicp      23                       Michigan
+538      stateicp      24                           Ohio
+539      stateicp      25                      Wisconsin
+540      stateicp      31                           Iowa
+541      stateicp      32                         Kansas
+542      stateicp      33                      Minnesota
+543      stateicp      34                       Missouri
+544      stateicp      35                       Nebraska
+545      stateicp      36                   North Dakota
+546      stateicp      37                   South Dakota
+547      stateicp      40                       Virginia
+548      stateicp      41                        Alabama
+549      stateicp      42                       Arkansas
+550      stateicp      43                        Florida
+551      stateicp      44                        Georgia
+552      stateicp      45                      Louisiana
+553      stateicp      46                    Mississippi
+554      stateicp      47                 North Carolina
+555      stateicp      48                 South Carolina
+556      stateicp      49                          Texas
+557      stateicp      51                       Kentucky
+558      stateicp      52                       Maryland
+559      stateicp      53                       Oklahoma
+560      stateicp      54                      Tennessee
+561      stateicp      56                  West Virginia
+562      stateicp      61                        Arizona
+563      stateicp      62                       Colorado
+564      stateicp      63                          Idaho
+565      stateicp      64                        Montana
+566      stateicp      65                         Nevada
+567      stateicp      66                     New Mexico
+568      stateicp      67                           Utah
+569      stateicp      68                        Wyoming
+570      stateicp      71                     California
+571      stateicp      72                         Oregon
+572      stateicp      73                     Washington
+573      stateicp      81                         Alaska
+574      stateicp      82                         Hawaii
+575      stateicp      98           District of Columbia
+576      statefip       1                        Alabama
+577      statefip       2                         Alaska
+578      statefip       4                        Arizona
+579      statefip       5                       Arkansas
+580      statefip       6                     California
+581      statefip       8                       Colorado
+582      statefip       9                    Connecticut
+583      statefip      10                       Delaware
+584      statefip      11           District of Columbia
+585      statefip      12                        Florida
+586      statefip      13                        Georgia
+587      statefip      15                         Hawaii
+588      statefip      16                          Idaho
+589      statefip      17                       Illinois
+590      statefip      18                        Indiana
+591      statefip      19                           Iowa
+592      statefip      20                         Kansas
+593      statefip      21                       Kentucky
+594      statefip      22                      Louisiana
+595      statefip      23                          Maine
+596      statefip      24                       Maryland
+597      statefip      25                  Massachusetts
+598      statefip      26                       Michigan
+599      statefip      27                      Minnesota
+600      statefip      28                    Mississippi
+601      statefip      29                       Missouri
+602      statefip      30                        Montana
+603      statefip      31                       Nebraska
+604      statefip      32                         Nevada
+605      statefip      33                  New Hampshire
+606      statefip      34                     New Jersey
+607      statefip      35                     New Mexico
+608      statefip      36                       New York
+609      statefip      37                 North Carolina
+610      statefip      38                   North Dakota
+611      statefip      39                           Ohio
+612      statefip      40                       Oklahoma
+613      statefip      41                         Oregon
+614      statefip      42                   Pennsylvania
+615      statefip      44                   Rhode Island
+616      statefip      45                 South Carolina
+617      statefip      46                   South Dakota
+618      statefip      47                      Tennessee
+619      statefip      48                          Texas
+620      statefip      49                           Utah
+621      statefip      50                        Vermont
+622      statefip      51                       Virginia
+623      statefip      53                     Washington
+624      statefip      54                  West Virginia
+625      statefip      55                      Wisconsin
+626      statefip      56                        Wyoming
+627         metro       0               Not identifiable
+628         metro       1              Not in metro area
+629         metro       2                   Central city
+630         metro       3           Outside central city
+631         metro       4    Central city status unknown
+632       metarea       0                            NIU
+633       metarea      40                    Abilene, TX
+634       metarea      80                      Akron, OH
+635       metarea     120                     Albany, GA
+636       metarea     160    Albany-Schenectady-Troy, NY
+637       metarea     200                Albuquerque, NM
+638       metarea     220                 Alexandria, LA
+639       metarea     240 Allentown-Bethlehem-Easton, PA
+640       metarea     280                    Altoona, PA
+641       metarea     320                   Amarillo, TX
+642       metarea     380                  Anchorage, AK
+643       metarea     440                  Ann Arbor, MI
+644       metarea     450                   Anniston, AL
+645       metarea     460    Appleton-Oshkosh-Neenah, WI
+646       metarea     480                  Asheville, NC
+647       metarea     500                     Athens, GA
+648       metarea     520                    Atlanta, GA
+649       metarea     560              Atlantic City, NJ
+650       metarea     580             Auburn-Opelika, AL
+651       metarea     600           Augusta-Aiken, GA-SC
+652       metarea     640                     Austin, TX
+653       metarea     680                Bakersfield, CA
+654       metarea     720                  Baltimore, MD
+655       metarea     740        Barnstable-Yarmouth, MA
+656       metarea     760                Baton Rouge, LA
+657       metarea     840 Beaumont-Port Arthur-Orange, T
+658       metarea     860                 Bellingham, WA
+659       metarea     870              Benton Harbor, MI
+660       metarea     880                   Billings, MT
+661       metarea     920            Biloxi-Gulfport, MS
+662       metarea     960                 Binghamton, NY
+663       metarea    1000                 Birmingham, AL
+664       metarea    1020                Bloomington, IN
+665       metarea    1040         Bloomington-Normal, IL
+666       metarea    1080                 Boise City, ID
+667       metarea    1120                     Boston, MA
+668       metarea    1121      Lawrence-Haverhill, MA/NH
+669       metarea    1122                  Lowell, MA/NH
+670       metarea    1150                  Bremerton, WA
+671       metarea    1160                 Bridgeport, CT
+672       metarea    1200                   Brockton, MA
+673       metarea    1240 Brownsville - Harlingen-San Be
+674       metarea    1260      Bryan-College Station, TX
+675       metarea    1280      Buffalo-Niagara Falls, NY
+676       metarea    1320                     Canton, OH
+677       metarea    1360               Cedar Rapids, IA
+678       metarea    1400   Champaign-Urbana-Rantoul, IL
+679       metarea    1440    Charleston-N.Charleston, SC
+680       metarea    1520 Charlotte-Gastonia-Rock Hill, 
+681       metarea    1540            Charlottesville, VA
+682       metarea    1560             Chattanooga, TN/GA
+683       metarea    1600           Chicago-Gary-Lake IL
+684       metarea    1602  Gary-Hammond-East Chicago, IN
+685       metarea    1620                      Chico, CA
+686       metarea    1640           Cincinnati, OH/KY/IN
+687       metarea    1660 Clarksville- Hopkinsville, TN/
+688       metarea    1680                  Cleveland, OH
+689       metarea    1720           Colorado Springs, CO
+690       metarea    1740                   Columbia, MO
+691       metarea    1760                   Columbia, SC
+692       metarea    1800                Columbus, GA/AL
+693       metarea    1840                   Columbus, OH
+694       metarea    1880             Corpus Christi, TX
+695       metarea    1920          Dallas-Fort Worth, TX
+696       metarea    1921       Fort Worth-Arlington, TX
+697       metarea    1930                    Danbury, CT
+698       metarea    1950                   Danville, VA
+699       metarea    1960 Davenport, IA-Rock Island-Moli
+700       metarea    2000         Dayton-Springfield, OH
+701       metarea    2020              Daytona Beach, FL
+702       metarea    2030                    Decatur, AL
+703       metarea    2040                    Decatur, IL
+704       metarea    2080    Denver-Boulder-Longmont, CO
+705       metarea    2081           Boulder-Longmont, CO
+706       metarea    2120                 Des Moines, IA
+707       metarea    2160                    Detroit, MI
+708       metarea    2180                     Dothan, AL
+709       metarea    2190                      Dover, DE
+710       metarea    2240         Duluth-Superior, MN/WI
+711       metarea    2281            Dutchess County, NY
+712       metarea    2290                 Eau Claire, WI
+713       metarea    2310                    El Paso, TX
+714       metarea    2320             Elkhart-Goshen, IN
+715       metarea    2360                       Erie, PA
+716       metarea    2400         Eugene-Springfield, OR
+717       metarea    2440              Evansville, IN/KY
+718       metarea    2520          Fargo-Moorhead, ND/MN
+719       metarea    2560               Fayetteville, NC
+720       metarea    2580    Fayetteville-Springdale, AR
+721       metarea    2600       Fitchburg-Leominster, MA
+722       metarea    2620                  Flagstaff, AZ
+723       metarea    2640                      Flint, MI
+724       metarea    2650                   Florence, AL
+725       metarea    2670      Fort Collins-Loveland, CO
+726       metarea    2680 Fort Lauderdale-Hollywood-Pomp
+727       metarea    2700      Fort Myers-Cape Coral, FL
+728       metarea    2710                Fort Pierce, FL
+729       metarea    2720              Fort Smith, AR/OK
+730       metarea    2750          Fort Walton Beach, FL
+731       metarea    2760                 Fort Wayne, IN
+732       metarea    2840                     Fresno, CA
+733       metarea    2880                    Gadsden, AL
+734       metarea    2900                Gainesville, FL
+735       metarea    2920       Galveston-Texas City, TX
+736       metarea    2970                Glens Falls, NY
+737       metarea    2980                  Goldsboro, NC
+738       metarea    3000               Grand Rapids, MI
+739       metarea    3010             Grand Junction, CO
+740       metarea    3060                    Greeley, CO
+741       metarea    3080                  Green Bay, WI
+742       metarea    3120 Greensboro-Winston Salem-High 
+743       metarea    3150                 Greenville, NC
+744       metarea    3160 Greenville-Spartenburg-Anderso
+745       metarea    3180                 Hagerstown, MD
+746       metarea    3200         Hamilton-Middleton, OH
+747       metarea    3240 Harrisburg-Lebanon-Carlisle, P
+748       metarea    3280 Hartford-Bristol-Middletown-Ne
+749       metarea    3290         Hickory-Morgantown, NC
+750       metarea    3300                Hattiesburg, MS
+751       metarea    3320                   Honolulu, HI
+752       metarea    3350            Houma-Thibodoux, LA
+753       metarea    3360           Houston-Brazoria, TX
+754       metarea    3361                   Brazoria, TX
+755       metarea    3440                 Huntsville, AL
+756       metarea    3480               Indianapolis, IN
+757       metarea    3500                  Iowa City, IA
+758       metarea    3520                    Jackson, MI
+759       metarea    3560                    Jackson, MS
+760       metarea    3580                    Jackson, TN
+761       metarea    3590               Jacksonville, FL
+762       metarea    3600               Jacksonville, NC
+763       metarea    3610          Jamestown-Dunkirk, NY
+764       metarea    3620          Janesville-Beloit, WI
+765       metarea    3660 Johnson City-Kingsport-Bristol
+766       metarea    3680                  Johnstown, PA
+767       metarea    3710                     Joplin, MO
+768       metarea    3720          Kalamazoo-Portage, MI
+769       metarea    3740                   Kankakee, IL
+770       metarea    3760             Kansas City, MO-KS
+771       metarea    3800                    Kenosha, WI
+772       metarea    3810             Killeen-Temple, TX
+773       metarea    3840                  Knoxville, TN
+774       metarea    3850                     Kokomo, IN
+775       metarea    3870                   LaCrosse, WI
+776       metarea    3880                  Lafayette, LA
+777       metarea    3920     Lafayette-W. Lafayette, IN
+778       metarea    3960               Lake Charles, LA
+779       metarea    3980       Lakeland-Winterhaven, FL
+780       metarea    4000                  Lancaster, PA
+781       metarea    4040         Lansing-E. Lansing, MI
+782       metarea    4080                     Laredo, TX
+783       metarea    4100                 Las Cruces, NM
+784       metarea    4120                  Las Vegas, NV
+785       metarea    4280          Lexington-Fayette, KY
+786       metarea    4320                       Lima, OH
+787       metarea    4360                    Lincoln, NE
+788       metarea    4400 Little Rock-North Little Rock,
+789       metarea    4420          Longview-Marshall, TX
+790       metarea    4480     Los Angeles-Long Beach, CA
+791       metarea    4482              Orange County, CA
+792       metarea    4520              Louisville, KY/IN
+793       metarea    4600                    Lubbock, TX
+794       metarea    4640                  Lynchburg, VA
+795       metarea    4680        Macon-Warner Robins, GA
+796       metarea    4720                    Madison, WI
+797       metarea    4760                 Manchester, NH
+798       metarea    4800                  Mansfield, OH
+799       metarea    4880 McAllen-Edinburg-Pharr-Mission
+800       metarea    4890                    Medford, OR
+801       metarea    4900 Melbourne-Titusville-Cocoa-Pal
+802       metarea    4920              Memphis, TN/AR/MS
+803       metarea    4940                     Merced, CA
+804       metarea    5000              Miami-Hialeah, FL
+805       metarea    5080                  Milwaukee, WI
+806       metarea    5120       Minneapolis-St. Paul, MN
+807       metarea    5160                     Mobile, AL
+808       metarea    5170                    Modesto, CA
+809       metarea    5190             Monmouth-Ocean, NJ
+810       metarea    5200                     Monroe, LA
+811       metarea    5240                 Montgomery, AL
+812       metarea    5280                     Muncie, IN
+813       metarea    5330               Myrtle Beach, SC
+814       metarea    5340                     Naples, FL
+815       metarea    5350                     Nashua, NH
+816       metarea    5360                  Nashville, TN
+817       metarea    5400                New Bedford, MA
+818       metarea    5480          New Haven-Meriden, CT
+819       metarea    5560                New Orleans, LA
+820       metarea    5600       New York-Northeastern NJ
+821       metarea    5601                 Nassau Co., NY
+822       metarea    5602             Bergen-Passaic, NJ
+823       metarea    5603                Jersey City, NJ
+824       metarea    5604 Middlesex-Somerset-Hunterdon, 
+825       metarea    5605                     Newark, NJ
+826       metarea    5660        Newburgh-Middletown, NY
+827       metarea    5720 Norfolk-VA Beach-Newport News,
+828       metarea    5790                      Ocala, FL
+829       metarea    5800                     Odessa, TX
+830       metarea    5880              Oklahoma City, OK
+831       metarea    5910                    Olympia, WA
+832       metarea    5920                   Omaha, NE/IA
+833       metarea    5960                    Orlando, FL
+834       metarea    6010                Panama City, FL
+835       metarea    6080                  Pensacola, FL
+836       metarea    6120                     Peoria, IL
+837       metarea    6160            Philadelphia, PA/NJ
+838       metarea    6200                    Phoenix, AZ
+839       metarea    6280   Pittsburgh-Beaver Valley, PA
+840       metarea    6400                   Portland, ME
+841       metarea    6440         Portland-Vancouver, OR
+842       metarea    6480 Providence-Fall River-Pawtucke
+843       metarea    6520                 Provo-Orem, UT
+844       metarea    6560                     Pueblo, CO
+845       metarea    6580                Punta Gorda, FL
+846       metarea    6600                     Racine, WI
+847       metarea    6640             Raleigh-Durham, NC
+848       metarea    6680                    Reading, PA
+849       metarea    6690                    Redding, CA
+850       metarea    6720                       Reno, NV
+851       metarea    6740   Richland-Kennewick-Pasco, WA
+852       metarea    6760        Richmond-Petersburg, VA
+853       metarea    6780    Riverside-San Bernardino,CA
+854       metarea    6800                    Roanoke, VA
+855       metarea    6820                  Rochester, MN
+856       metarea    6840                  Rochester, NY
+857       metarea    6880                   Rockford, IL
+858       metarea    6895                Rocky Mount, NC
+859       metarea    6920                 Sacramento, CA
+860       metarea    6960   Saginaw-Bay City-Midland, MI
+861       metarea    6980                  St. Cloud, MN
+862       metarea    7000                 St. Joseph, MO
+863       metarea    7040               St. Louis, MO-IL
+864       metarea    7080                      Salem, OR
+865       metarea    7120  Salinas-Sea Side-Monterey, CA
+866       metarea    7160       Salt Lake City-Ogden, UT
+867       metarea    7240                San Antonio, TX
+868       metarea    7320                  San Diego, CA
+869       metarea    7360 San Francisco-Oakland-Vallejo,
+870       metarea    7361                    Oakland, CA
+871       metarea    7362     Vallejo-Fairfield-Napa, CA
+872       metarea    7400                   San Jose, CA
+873       metarea    7460 San Luis Obispo-Atascad-P Robl
+874       metarea    7470 Santa Barbara-Santa Maria-Lomp
+875       metarea    7480                 Santa Cruz, CA
+876       metarea    7490                   Santa Fe, NM
+877       metarea    7500        Santa Rosa-Petaluma, CA
+878       metarea    7510                   Sarasota, FL
+879       metarea    7520                   Savannah, GA
+880       metarea    7560      Scranton-Wilkes-Barre, PA
+881       metarea    7600            Seattle-Everett, WA
+882       metarea    7610                     Sharon, PA
+883       metarea    7620                  Sheboygan, WI
+884       metarea    7680                 Shreveport, LA
+885       metarea    7720              Sioux City, IA/NE
+886       metarea    7760                Sioux Falls, SD
+887       metarea    7800       South Bend-Mishawaka, IN
+888       metarea    7840                    Spokane, WA
+889       metarea    7880                Springfield, IL
+890       metarea    7920                Springfield, MO
+891       metarea    8000 Springfield-Holyoke-Chicopee, 
+892       metarea    8040                   Stamford, CT
+893       metarea    8050              State College, PA
+894       metarea    8120                   Stockton, CA
+895       metarea    8140                     Sumter, SC
+896       metarea    8160                   Syracuse, NY
+897       metarea    8200                     Tacoma, WA
+898       metarea    8240                Tallahassee, FL
+899       metarea    8280 Tampa-St. Petersburg-Clearwate
+900       metarea    8320                Terre Haute, IN
+901       metarea    8400                  Toledo, OH/MI
+902       metarea    8440                     Topeka, KS
+903       metarea    8480                    Trenton, NJ
+904       metarea    8520                     Tucson, AZ
+905       metarea    8560                      Tulsa, OK
+906       metarea    8600                 Tuscaloosa, AL
+907       metarea    8640                      Tyler, TX
+908       metarea    8680                 Utica-Rome, NY
+909       metarea    8730 Ventura-Oxnard-Simi Valley, CA
+910       metarea    8760 Vineland-Milville-Bridgetown, 
+911       metarea    8780 Visalia-Tulare -Porterville, C
+912       metarea    8800                       Waco, TX
+913       metarea    8840           Washington, DC/MD/VA
+914       metarea    8880                  Waterbury, CT
+915       metarea    8920       Waterloo-Cedar Falls, IA
+916       metarea    8940                     Wausau, WI
+917       metarea    8960 West Palm Beach-Boca Raton -De
+918       metarea    9040                    Wichita, KS
+919       metarea    9080              Wichita Falls, TX
+920       metarea    9140               Williamsport, PA
+921       metarea    9160           Wilmington, DE/NJ/MD
+922       metarea    9200                 Wilmington, NC
+923       metarea    9240                  Worcester, MA
+924       metarea    9260                     Yakima, WA
+925       metarea    9270                       Yolo, CA
+926       metarea    9280                       York, PA
+927       metarea    9320       Youngstown-Warren, OH-PA
+928       metarea    9340                  Yuba City, CA
+929       metarea    9360                       Yuma, AZ
+930       metarea    9999                        Unknown
+931          city       0 Not in identifiable city (or s
+932          city      10                      Akron, OH
+933          city      90                 Alexandria, VA
+934          city     130                  Allentown, PA
+935          city     190                    Anaheim, CA
+936          city     210                  Anchorage, AK
+937          city     270                  Ann Arbor, MI
+938          city     310                  Arlington, VA
+939          city     510                Bakersfield, CA
+940          city     530                  Baltimore, MD
+941          city     590                Baton Rouge, LA
+942          city     670                   Beaumont, TX
+943          city     680                   Bellevue, WA
+944          city     800                      Boise, ID
+945          city     810                     Boston, MA
+946          city     830                 Bridgeport, CT
+947          city     880                Brownsville, TX
+948          city     890                    Buffalo, NY
+949          city     920                    Burbank, CA
+950          city     930                  Cambridge, MA
+951          city    1000                 Cape Coral, FL
+952          city    1090                  Charlotte, NC
+953          city    1110                Chattanooga, TN
+954          city    1150                 Chesapeake, VA
+955          city    1190                    Chicago, IL
+956          city    1290                 Cincinnati, OH
+957          city    1330                  Cleveland, OH
+958          city    1410                   Columbia, SC
+959          city    1430                   Columbus, GA
+960          city    1500                     Corona, CA
+961          city    1520             Corpus Christi, TX
+962          city    1540                 Costa Mesa, CA
+963          city    1670                     Dayton, OH
+964          city    1730                 Des Moines, IA
+965          city    1750                    Detroit, MI
+966          city    1800                     Downey, CA
+967          city    1990                   El Monte, CA
+968          city    2050                  Elizabeth, NJ
+969          city    2090                       Erie, PA
+970          city    2170                 Evansville, IN
+971          city    2240               Fayetteville, NC
+972          city    2260                    Fontana, CA
+973          city    2270                      Flint, MI
+974          city    2300               Fort Collins, CO
+975          city    2330                 Fort Wayne, IN
+976          city    2370                     Fresno, CA
+977          city    2390                  Fullerton, CA
+978          city    2430               Garden Grove, CA
+979          city    2470                       Gary, IN
+980          city    2490                   Glendale, CA
+981          city    2530               Grand Rapids, MI
+982          city    2550                  Green Bay, WI
+983          city    2570                 Greensboro, NC
+984          city    2650                    Hampton, VA
+985          city    2710                   Hartford, CT
+986          city    2930           Huntington Beach, CA
+987          city    2950                 Huntsville, AL
+988          city    2970               Independence, MO
+989          city    3010                  Inglewood, CA
+990          city    3020                     Irvine, CA
+991          city    3030                     Irving, TX
+992          city    3090                    Jackson, MS
+993          city    3150                Jersey City, NJ
+994          city    3260                Kansas City, MO
+995          city    3330                  Knoxville, TN
+996          city    3390                  Lafayette, LA
+997          city    3440                  Lancaster, CA
+998          city    3470                    Lansing, MI
+999          city    3590          Lexington-Fayette, KY
+1000         city    3650                Little Rock, AR
+1001         city    3670                    Livonia, MI
+1002         city    3690                 Long Beach, CA
+1003         city    3730                Los Angeles, CA
+1004         city    3770                     Lowell, MA
+1005         city    3870                    Madison, WI
+1006         city    3910                 Manchester, NH
+1007         city    3960                    McAllen, TX
+1008         city    4010                    Memphis, TN
+1009         city    4130                  Milwaukee, WI
+1010         city    4150                Minneapolis, MN
+1011         city    4170                     Mobile, AL
+1012         city    4190                    Modesto, CA
+1013         city    4250                 Montgomery, AL
+1014         city    4270              Moreno Valley, CA
+1015         city    4530                  New Haven, CT
+1016         city    4610                   New York, NY
+1017         city    4630                     Newark, NJ
+1018         city    4750               Newport News, VA
+1019         city    4810                    Norfolk, VA
+1020         city    4820            North Las Vegas, NV
+1021         city    4860                    Norwalk, CA
+1022         city    4990              Oklahoma City, OK
+1023         city    5030                    Ontario, CA
+1024         city    5040                     Orange, CA
+1025         city    5130                     Oxnard, CA
+1026         city    5140                   Palmdale, CA
+1027         city    5150                   Pasadena, CA
+1028         city    5170                   Pasadena, TX
+1029         city    5210                   Paterson, NJ
+1030         city    5270                     Peoria, IL
+1031         city    5330               Philadelphia, PA
+1032         city    5370                 Pittsburgh, PA
+1033         city    5430                      Plano, TX
+1034         city    5450                     Pomona, CA
+1035         city    5650                 Providence, RI
+1036         city    5660                      Provo, UT
+1037         city    5750                    Raleigh, NC
+1038         city    5770           Rancho Cucamonga, CA
+1039         city    5810                       Reno, NV
+1040         city    5870                   Richmond, VA
+1041         city    5890                  Riverside, CA
+1042         city    5930                  Rochester, NY
+1043         city    5970                   Rockford, IL
+1044         city    6030                 Sacramento, CA
+1045         city    6090                Saint Louis, MO
+1046         city    6110                 Saint Paul, MN
+1047         city    6190                    Salinas, CA
+1048         city    6210             Salt Lake City, UT
+1049         city    6250             San Bernardino, CA
+1050         city    6260 San Buenaventura (Ventura), CA
+1051         city    6290              San Francisco, CA
+1052         city    6330                  Santa Ana, CA
+1053         city    6340              Santa Clarita, CA
+1054         city    6370                   Savannah, GA
+1055         city    6430                    Seattle, WA
+1056         city    6500                Simi Valley, CA
+1057         city    6530                Sioux Falls, SD
+1058         city    6590                 South Bend, IN
+1059         city    6630                    Spokane, WA
+1060         city    6650                Springfield, IL
+1061         city    6670                Springfield, MA
+1062         city    6690                Springfield, MO
+1063         city    6730                   Stamford, CT
+1064         city    6750           Sterling Heights, MI
+1065         city    6790                   Stockton, CA
+1066         city    6850                   Syracuse, NY
+1067         city    6870                     Tacoma, WA
+1068         city    6960              Thousand Oaks, CA
+1069         city    6970                     Toledo, OH
+1070         city    7000                   Torrance, CA
+1071         city    7070                      Tulsa, OK
+1072         city    7100                  Vancouver, WA
+1073         city    7130             Virginia Beach, VA
+1074         city    7180                     Warren, MI
+1075         city    7230                 Washington, DC
+1076         city    7250                  Waterbury, CT
+1077         city    7320                West Covina, CA
+1078         city    7410                    Wichita, KS
+1079         city    7530              Winston-Salem, NC
+1080         city    7570                  Worcester, MA
+1081         city    7590                    Yonkers, NY
+1082      citypop       0                            NIU
+1083      citypop     967                            967
+1084      citypop     977                            977
+1085      citypop    1004                           1004
+1086      citypop    1014                           1014
+1087      citypop    1020                           1020
+1088      citypop    1032                           1032
+1089      citypop    1041                           1041
+1090      citypop    1043                           1043
+1091      citypop    1049                           1049
+1092      citypop    1052                           1052
+1093      citypop    1073                           1073
+1094      citypop    1077                           1077
+1095      citypop    1094                           1094
+1096      citypop    1095                           1095
+1097      citypop    1098                           1098
+1098      citypop    1099                           1099
+1099      citypop    1131                           1131
+1100      citypop    1132                           1132
+1101      citypop    1140                           1140
+1102      citypop    1142                           1142
+1103      citypop    1143                           1143
+1104      citypop    1149                           1149
+1105      citypop    1157                           1157
+1106      citypop    1165                           1165
+1107      citypop    1171                           1171
+1108      citypop    1182                           1182
+1109      citypop    1193                           1193
+1110      citypop    1200                           1200
+1111      citypop    1213                           1213
+1112      citypop    1232                           1232
+1113      citypop    1240                           1240
+1114      citypop    1242                           1242
+1115      citypop    1245                           1245
+1116      citypop    1262                           1262
+1117      citypop    1264                           1264
+1118      citypop    1279                           1279
+1119      citypop    1280                           1280
+1120      citypop    1295                           1295
+1121      citypop    1329                           1329
+1122      citypop    1346                           1346
+1123      citypop    1351                           1351
+1124      citypop    1370                           1370
+1125      citypop    1379                           1379
+1126      citypop    1388                           1388
+1127      citypop    1407                           1407
+1128      citypop    1408                           1408
+1129      citypop    1424                           1424
+1130      citypop    1441                           1441
+1131      citypop    1448                           1448
+1132      citypop    1450                           1450
+1133      citypop    1487                           1487
+1134      citypop    1503                           1503
+1135      citypop    1508                           1508
+1136      citypop    1512                           1512
+1137      citypop    1514                           1514
+1138      citypop    1543                           1543
+1139      citypop    1551                           1551
+1140      citypop    1552                           1552
+1141      citypop    1568                           1568
+1142      citypop    1589                           1589
+1143      citypop    1663                           1663
+1144      citypop    1680                           1680
+1145      citypop    1681                           1681
+1146      citypop    1701                           1701
+1147      citypop    1707                           1707
+1148      citypop    1724                           1724
+1149      citypop    1734                           1734
+1150      citypop    1753                           1753
+1151      citypop    1755                           1755
+1152      citypop    1766                           1766
+1153      citypop    1783                           1783
+1154      citypop    1789                           1789
+1155      citypop    1823                           1823
+1156      citypop    1836                           1836
+1157      citypop    1844                           1844
+1158      citypop    1845                           1845
+1159      citypop    1887                           1887
+1160      citypop    1900                           1900
+1161      citypop    1928                           1928
+1162      citypop    1929                           1929
+1163      citypop    1931                           1931
+1164      citypop    1939                           1939
+1165      citypop    1940                           1940
+1166      citypop    1944                           1944
+1167      citypop    1961                           1961
+1168      citypop    1965                           1965
+1169      citypop    1970                           1970
+1170      citypop    1976                           1976
+1171      citypop    1979                           1979
+1172      citypop    1981                           1981
+1173      citypop    1986                           1986
+1174      citypop    1995                           1995
+1175      citypop    1998                           1998
+1176      citypop    2020                           2020
+1177      citypop    2057                           2057
+1178      citypop    2081                           2081
+1179      citypop    2097                           2097
+1180      citypop    2103                           2103
+1181      citypop    2206                           2206
+1182      citypop    2234                           2234
+1183      citypop    2291                           2291
+1184      citypop    2296                           2296
+1185      citypop    2369                           2369
+1186      citypop    2418                           2418
+1187      citypop    2486                           2486
+1188      citypop    2550                           2550
+1189      citypop    2708                           2708
+1190      citypop    2735                           2735
+1191      citypop    2761                           2761
+1192      citypop    2787                           2787
+1193      citypop    2814                           2814
+1194      citypop    2853                           2853
+1195      citypop    2901                           2901
+1196      citypop    2938                           2938
+1197      citypop    2984                           2984
+1198      citypop    3084                           3084
+1199      citypop    3128                           3128
+1200      citypop    3323                           3323
+1201      citypop    3344                           3344
+1202      citypop    3440                           3440
+1203      citypop    3472                           3472
+1204      citypop    3563                           3563
+1205      citypop    3577                           3577
+1206      citypop    3728                           3728
+1207      citypop    3829                           3829
+1208      citypop    4356                           4356
+1209      citypop    4443                           4443
+1210      citypop    4473                           4473
+1211      citypop    4538                           4538
+1212      citypop    4667                           4667
+1213      citypop    4725                           4725
+1214      citypop    5377                           5377
+1215      citypop    5734                           5734
+1216      citypop    5815                           5815
+1217      citypop    5825                           5825
+1218      citypop    5908                           5908
+1219      citypop    6305                           6305
+1220      citypop    6314                           6314
+1221      citypop    6709                           6709
+1222      citypop    7440                           7440
+1223      citypop    8711                           8711
+1224      citypop   14484                          14484
+1225      citypop   28333                          28333
+1226      citypop   38494                          38494
+1227      citypop   82144                          82144
+1228           gq       0                    Vacant unit
+1229           gq       1 Households under 1970 definiti
+1230           gq       2 Additional households under 19
+1231           gq       3                   Institutions
+1232           gq       4            Other group quarter
+1233           gq       5 Additional households under 20
+1234       gqtype       0                            NIU
+1235       gqtype     100                    Institution
+1236       gqtype     500 Non-institutional group quarte
+1237       gqtype     900 Other non-Institutional group 
+1238         farm       1                       Non-farm
+1239         farm       2                           Farm
+1240     farmprod       0                            NIU
+1241     farmprod       1                              0
+1242     farmprod       2                        $1-$999
+1243     farmprod       3                  $1,000-$2,499
+1244     farmprod       4                $2,500 - $4,999
+1245     farmprod       5                $5,000 - $9,999
+1246     farmprod       6                $10,000 or more
+1247     ownershp       0                            NIU
+1248     ownershp      12           Owned free and clear
+1249     ownershp      13    Owned with mortgage or loan
+1250     ownershp      21                   No cash rent
+1251     ownershp      22                 With cash rent
+1252     mortgage       0                            NIU
+1253     mortgage       1       No, owned free and clear
+1254     mortgage       3 Yes, mortgaged/ deed of trust 
+1255     mortgage       4      Yes, contract to purchase
+1256     mortgag2       0                            NIU
+1257     mortgag2       1                             No
+1258     mortgag2       3              Yes, 2nd mortgage
+1259     mortgag2       4          Yes, home equity loan
+1260     mortgag2       5 Yes, 2nd mortgage and home equ
+1261     mortamt1       0                            NIU
+1262     mortamt1       4                              4
+1263     mortamt1      10                             10
+1264     mortamt1      20                             20
+1265     mortamt1      30                             30
+1266     mortamt1      40                             40
+1267     mortamt1      50                             50
+1268     mortamt1      60                             60
+1269     mortamt1      70                             70
+1270     mortamt1      80                             80
+1271     mortamt1      90                             90
+1272     mortamt1     100                            100
+1273     mortamt1     110                            110
+1274     mortamt1     120                            120
+1275     mortamt1     130                            130
+1276     mortamt1     140                            140
+1277     mortamt1     150                            150
+1278     mortamt1     160                            160
+1279     mortamt1     170                            170
+1280     mortamt1     180                            180
+1281     mortamt1     190                            190
+1282     mortamt1     200                            200
+1283     mortamt1     210                            210
+1284     mortamt1     220                            220
+1285     mortamt1     230                            230
+1286     mortamt1     240                            240
+1287     mortamt1     250                            250
+1288     mortamt1     260                            260
+1289     mortamt1     270                            270
+1290     mortamt1     280                            280
+1291     mortamt1     290                            290
+1292     mortamt1     300                            300
+1293     mortamt1     310                            310
+1294     mortamt1     320                            320
+1295     mortamt1     330                            330
+1296     mortamt1     340                            340
+1297     mortamt1     350                            350
+1298     mortamt1     360                            360
+1299     mortamt1     370                            370
+1300     mortamt1     380                            380
+1301     mortamt1     390                            390
+1302     mortamt1     400                            400
+1303     mortamt1     410                            410
+1304     mortamt1     420                            420
+1305     mortamt1     430                            430
+1306     mortamt1     440                            440
+1307     mortamt1     450                            450
+1308     mortamt1     460                            460
+1309     mortamt1     470                            470
+1310     mortamt1     480                            480
+1311     mortamt1     490                            490
+1312     mortamt1     500                            500
+1313     mortamt1     510                            510
+1314     mortamt1     520                            520
+1315     mortamt1     530                            530
+1316     mortamt1     540                            540
+1317     mortamt1     550                            550
+1318     mortamt1     560                            560
+1319     mortamt1     570                            570
+1320     mortamt1     580                            580
+1321     mortamt1     590                            590
+1322     mortamt1     600                            600
+1323     mortamt1     610                            610
+1324     mortamt1     620                            620
+1325     mortamt1     630                            630
+1326     mortamt1     640                            640
+1327     mortamt1     650                            650
+1328     mortamt1     660                            660
+1329     mortamt1     670                            670
+1330     mortamt1     680                            680
+1331     mortamt1     690                            690
+1332     mortamt1     700                            700
+1333     mortamt1     710                            710
+1334     mortamt1     720                            720
+1335     mortamt1     730                            730
+1336     mortamt1     740                            740
+1337     mortamt1     750                            750
+1338     mortamt1     760                            760
+1339     mortamt1     770                            770
+1340     mortamt1     780                            780
+1341     mortamt1     790                            790
+1342     mortamt1     800                            800
+1343     mortamt1     810                            810
+1344     mortamt1     820                            820
+1345     mortamt1     830                            830
+1346     mortamt1     840                            840
+1347     mortamt1     850                            850
+1348     mortamt1     860                            860
+1349     mortamt1     870                            870
+1350     mortamt1     880                            880
+1351     mortamt1     890                            890
+1352     mortamt1     900                            900
+1353     mortamt1     910                            910
+1354     mortamt1     920                            920
+1355     mortamt1     930                            930
+1356     mortamt1     940                            940
+1357     mortamt1     950                            950
+1358     mortamt1     960                            960
+1359     mortamt1     970                            970
+1360     mortamt1     980                            980
+1361     mortamt1     990                            990
+1362     mortamt1    1000                           1000
+1363     mortamt1    1100                           1100
+1364     mortamt1    1200                           1200
+1365     mortamt1    1300                           1300
+1366     mortamt1    1400                           1400
+1367     mortamt1    1500                           1500
+1368     mortamt1    1600                           1600
+1369     mortamt1    1700                           1700
+1370     mortamt1    1800                           1800
+1371     mortamt1    1900                           1900
+1372     mortamt1    2000                           2000
+1373     mortamt1    2100                           2100
+1374     mortamt1    2200                           2200
+1375     mortamt1    2300                           2300
+1376     mortamt1    2400                           2400
+1377     mortamt1    2500                           2500
+1378     mortamt1    2600                           2600
+1379     mortamt1    2700                           2700
+1380     mortamt1    2800                           2800
+1381     mortamt1    2900                           2900
+1382     mortamt1    3000                           3000
+1383     mortamt1    3100                           3100
+1384     mortamt1    3200                           3200
+1385     mortamt1    3300                           3300
+1386     mortamt1    3400                           3400
+1387     mortamt1    3500                           3500
+1388     mortamt1    3600                           3600
+1389     mortamt1    3700                           3700
+1390     mortamt1    3800                           3800
+1391     mortamt1    3900                           3900
+1392     mortamt1    4000                           4000
+1393     mortamt1    4100                           4100
+1394     mortamt1    4200                           4200
+1395     mortamt1    4300                           4300
+1396     mortamt1    4400                           4400
+1397     mortamt1    4500                           4500
+1398     mortamt1    4600                           4600
+1399     mortamt1    4700                           4700
+1400     mortamt1    4800                           4800
+1401     mortamt1    4900                           4900
+1402     mortamt1    5000                           5000
+1403     mortamt1    5100                           5100
+1404     mortamt1    5200                           5200
+1405     mortamt1    5300                           5300
+1406     mortamt1    5400                           5400
+1407     mortamt1    5500                           5500
+1408     mortamt1    5600                           5600
+1409     mortamt1    5700                           5700
+1410     mortamt1    5800                           5800
+1411     mortamt1    5900                           5900
+1412     mortamt1    6000                           6000
+1413     mortamt1    6300                           6300
+1414     mortamt1    6600                           6600
+1415     mortamt1    6700                           6700
+1416     mortamt1    6800                           6800
+1417     mortamt1    7000                           7000
+1418     mortamt1    7400                           7400
+1419      commuse       0                            NIU
+1420      commuse       1              No commercial use
+1421      commuse       2         Yes, used commercially
+1422     acrehous       0                            NIU
+1423     acrehous       1    House on less than 10 acres
+1424     acrehous       2      House on 10 acres or more
+1425      taxincl       0                            NIU
+1426      taxincl       1                             No
+1427      taxincl       2                            Yes
+1428      insincl       0                            NIU
+1429      insincl       1                             No
+1430      insincl       2 Yes, payment includes insuranc
+1431     propinsr       0                            NIU
+1432     propinsr       1                           None
+1433     propinsr       4                              4
+1434     propinsr      10                             10
+1435     propinsr      20                             20
+1436     propinsr      30                             30
+1437     propinsr      40                             40
+1438     propinsr      50                             50
+1439     propinsr      60                             60
+1440     propinsr      70                             70
+1441     propinsr      80                             80
+1442     propinsr      90                             90
+1443     propinsr     100                            100
+1444     propinsr     110                            110
+1445     propinsr     120                            120
+1446     propinsr     130                            130
+1447     propinsr     140                            140
+1448     propinsr     150                            150
+1449     propinsr     160                            160
+1450     propinsr     170                            170
+1451     propinsr     180                            180
+1452     propinsr     190                            190
+1453     propinsr     200                            200
+1454     propinsr     210                            210
+1455     propinsr     220                            220
+1456     propinsr     230                            230
+1457     propinsr     240                            240
+1458     propinsr     250                            250
+1459     propinsr     260                            260
+1460     propinsr     270                            270
+1461     propinsr     280                            280
+1462     propinsr     290                            290
+1463     propinsr     300                            300
+1464     propinsr     310                            310
+1465     propinsr     320                            320
+1466     propinsr     330                            330
+1467     propinsr     340                            340
+1468     propinsr     350                            350
+1469     propinsr     360                            360
+1470     propinsr     370                            370
+1471     propinsr     380                            380
+1472     propinsr     390                            390
+1473     propinsr     400                            400
+1474     propinsr     410                            410
+1475     propinsr     420                            420
+1476     propinsr     430                            430
+1477     propinsr     440                            440
+1478     propinsr     450                            450
+1479     propinsr     460                            460
+1480     propinsr     470                            470
+1481     propinsr     480                            480
+1482     propinsr     490                            490
+1483     propinsr     500                            500
+1484     propinsr     510                            510
+1485     propinsr     520                            520
+1486     propinsr     530                            530
+1487     propinsr     540                            540
+1488     propinsr     550                            550
+1489     propinsr     560                            560
+1490     propinsr     570                            570
+1491     propinsr     580                            580
+1492     propinsr     590                            590
+1493     propinsr     600                            600
+1494     propinsr     610                            610
+1495     propinsr     620                            620
+1496     propinsr     630                            630
+1497     propinsr     640                            640
+1498     propinsr     650                            650
+1499     propinsr     660                            660
+1500     propinsr     670                            670
+1501     propinsr     680                            680
+1502     propinsr     690                            690
+1503     propinsr     700                            700
+1504     propinsr     710                            710
+1505     propinsr     720                            720
+1506     propinsr     730                            730
+1507     propinsr     740                            740
+1508     propinsr     750                            750
+1509     propinsr     760                            760
+1510     propinsr     770                            770
+1511     propinsr     780                            780
+1512     propinsr     790                            790
+1513     propinsr     800                            800
+1514     propinsr     810                            810
+1515     propinsr     820                            820
+1516     propinsr     830                            830
+1517     propinsr     840                            840
+1518     propinsr     850                            850
+1519     propinsr     860                            860
+1520     propinsr     870                            870
+1521     propinsr     880                            880
+1522     propinsr     890                            890
+1523     propinsr     900                            900
+1524     propinsr     910                            910
+1525     propinsr     920                            920
+1526     propinsr     930                            930
+1527     propinsr     940                            940
+1528     propinsr     950                            950
+1529     propinsr     960                            960
+1530     propinsr     970                            970
+1531     propinsr     980                            980
+1532     propinsr     990                            990
+1533     propinsr    1000                           1000
+1534     propinsr    1100                           1100
+1535     propinsr    1200                           1200
+1536     propinsr    1300                           1300
+1537     propinsr    1400                           1400
+1538     propinsr    1500                           1500
+1539     propinsr    1600                           1600
+1540     propinsr    1700                           1700
+1541     propinsr    1800                           1800
+1542     propinsr    1900                           1900
+1543     propinsr    2000                           2000
+1544     propinsr    2100                           2100
+1545     propinsr    2200                           2200
+1546     propinsr    2300                           2300
+1547     propinsr    2400                           2400
+1548     propinsr    2500                           2500
+1549     propinsr    2600                           2600
+1550     propinsr    2700                           2700
+1551     propinsr    2800                           2800
+1552     propinsr    2900                           2900
+1553     propinsr    3000                           3000
+1554     propinsr    3100                           3100
+1555     propinsr    3200                           3200
+1556     propinsr    3300                           3300
+1557     propinsr    3400                           3400
+1558     propinsr    3500                           3500
+1559     propinsr    3600                           3600
+1560     propinsr    3700                           3700
+1561     propinsr    3800                           3800
+1562     propinsr    3900                           3900
+1563     propinsr    4000                           4000
+1564     propinsr    4100                           4100
+1565     propinsr    4200                           4200
+1566     propinsr    4300                           4300
+1567     propinsr    4400                           4400
+1568     propinsr    4500                           4500
+1569     propinsr    4600                           4600
+1570     propinsr    4700                           4700
+1571     propinsr    4800                           4800
+1572     propinsr    4900                           4900
+1573     propinsr    5000                           5000
+1574     propinsr    5100                           5100
+1575     propinsr    5200                           5200
+1576     propinsr    5300                           5300
+1577     propinsr    5400                           5400
+1578     propinsr    5500                           5500
+1579     propinsr    5600                           5600
+1580     propinsr    5700                           5700
+1581     propinsr    5800                           5800
+1582     propinsr    5900                           5900
+1583     propinsr    6000                           6000
+1584     propinsr    6100                           6100
+1585     propinsr    6200                           6200
+1586     propinsr    6300                           6300
+1587     propinsr    6400                           6400
+1588     propinsr    6500                           6500
+1589     propinsr    6800                           6800
+1590     propinsr    6900                           6900
+1591     propinsr    7200                           7200
+1592     propinsr    8000                           8000
+1593     propinsr    8400                           8400
+1594     proptx99       0                            NIU
+1595     proptx99       1                           None
+1596     proptx99       2                          $1-49
+1597     proptx99       3                         $50-99
+1598     proptx99       4                       $100-149
+1599     proptx99       5                       $150-199
+1600     proptx99       6                       $200-249
+1601     proptx99       7                       $250-299
+1602     proptx99       8                       $300-349
+1603     proptx99       9                       $350-399
+1604     proptx99      10                       $400-449
+1605     proptx99      11                       $450-499
+1606     proptx99      12                       $500-549
+1607     proptx99      13                       $550-599
+1608     proptx99      14                       $600-649
+1609     proptx99      15                       $650-699
+1610     proptx99      16                       $700-749
+1611     proptx99      17                       $750-799
+1612     proptx99      18                       $800-849
+1613     proptx99      19                       $850-899
+1614     proptx99      20                       $900-949
+1615     proptx99      21                       $950-999
+1616     proptx99      22                     $1000-1099
+1617     proptx99      23                     $1100-1199
+1618     proptx99      24                     $1200-1299
+1619     proptx99      25                     $1300-1399
+1620     proptx99      26                     $1400-1499
+1621     proptx99      27                     $1500-1599
+1622     proptx99      28                     $1600-1699
+1623     proptx99      29                     $1700-1799
+1624     proptx99      30                     $1800-1899
+1625     proptx99      31                     $1900-1999
+1626     proptx99      32                     $2000-2099
+1627     proptx99      33                     $2100-2199
+1628     proptx99      34                     $2200-2299
+1629     proptx99      35                     $2300-2399
+1630     proptx99      36                     $2400-2499
+1631     proptx99      37                     $2500-2599
+1632     proptx99      38                     $2600-2699
+1633     proptx99      39                     $2700-2799
+1634     proptx99      40                     $2800-2899
+1635     proptx99      41                     $2900-2999
+1636     proptx99      42                     $3000-3099
+1637     proptx99      43                     $3100-3199
+1638     proptx99      44                     $3200-3299
+1639     proptx99      45                     $3300-3399
+1640     proptx99      46                     $3400-3499
+1641     proptx99      47                     $3500-3599
+1642     proptx99      48                     $3600-3699
+1643     proptx99      49                     $3700-3799
+1644     proptx99      50                     $3800-3899
+1645     proptx99      51                     $3900-3999
+1646     proptx99      52                     $4000-4099
+1647     proptx99      53                     $4100-4199
+1648     proptx99      54                     $4200-4299
+1649     proptx99      55                     $4300-4399
+1650     proptx99      56                     $4400-4499
+1651     proptx99      58                     $4500-4599
+1652     proptx99      59                     $4600-4699
+1653     proptx99      60                     $4700-4799
+1654     proptx99      61                     $4800-4899
+1655     proptx99      62                     $4900-4999
+1656     proptx99      63                     $5000-5499
+1657     proptx99      64                     $5500-5999
+1658     proptx99      65                     $6000-6999
+1659     proptx99      66                     $7000-7999
+1660     proptx99      67                     $8000-8999
+1661     proptx99      68                     $9000-9999
+1662     proptx99      69                       $10,000+
+1663      rentgrs       0                            NIU
+1664     rentmeal       0                            NIU
+1665     rentmeal       1         No, meals not included
+1666     rentmeal       2                            Yes
+1667     condofee       0                            NIU
+1668     condofee       4                              4
+1669     condofee      10                             10
+1670     condofee      20                             20
+1671     condofee      30                             30
+1672     condofee      40                             40
+1673     condofee      50                             50
+1674     condofee      60                             60
+1675     condofee      70                             70
+1676     condofee      80                             80
+1677     condofee      90                             90
+1678     condofee     100                            100
+1679     condofee     110                            110
+1680     condofee     120                            120
+1681     condofee     130                            130
+1682     condofee     140                            140
+1683     condofee     150                            150
+1684     condofee     160                            160
+1685     condofee     170                            170
+1686     condofee     180                            180
+1687     condofee     190                            190
+1688     condofee     200                            200
+1689     condofee     210                            210
+1690     condofee     220                            220
+1691     condofee     230                            230
+1692     condofee     240                            240
+1693     condofee     250                            250
+1694     condofee     260                            260
+1695     condofee     270                            270
+1696     condofee     280                            280
+1697     condofee     290                            290
+1698     condofee     300                            300
+1699     condofee     310                            310
+1700     condofee     320                            320
+1701     condofee     330                            330
+1702     condofee     340                            340
+1703     condofee     350                            350
+1704     condofee     360                            360
+1705     condofee     370                            370
+1706     condofee     380                            380
+1707     condofee     390                            390
+1708     condofee     400                            400
+1709     condofee     410                            410
+1710     condofee     420                            420
+1711     condofee     430                            430
+1712     condofee     440                            440
+1713     condofee     450                            450
+1714     condofee     460                            460
+1715     condofee     470                            470
+1716     condofee     480                            480
+1717     condofee     490                            490
+1718     condofee     500                            500
+1719     condofee     510                            510
+1720     condofee     520                            520
+1721     condofee     530                            530
+1722     condofee     540                            540
+1723     condofee     550                            550
+1724     condofee     560                            560
+1725     condofee     570                            570
+1726     condofee     580                            580
+1727     condofee     590                            590
+1728     condofee     600                            600
+1729     condofee     610                            610
+1730     condofee     620                            620
+1731     condofee     630                            630
+1732     condofee     640                            640
+1733     condofee     650                            650
+1734     condofee     660                            660
+1735     condofee     670                            670
+1736     condofee     680                            680
+1737     condofee     690                            690
+1738     condofee     700                            700
+1739     condofee     710                            710
+1740     condofee     720                            720
+1741     condofee     730                            730
+1742     condofee     740                            740
+1743     condofee     750                            750
+1744     condofee     760                            760
+1745     condofee     770                            770
+1746     condofee     780                            780
+1747     condofee     790                            790
+1748     condofee     800                            800
+1749     condofee     810                            810
+1750     condofee     820                            820
+1751     condofee     830                            830
+1752     condofee     840                            840
+1753     condofee     850                            850
+1754     condofee     860                            860
+1755     condofee     870                            870
+1756     condofee     880                            880
+1757     condofee     890                            890
+1758     condofee     900                            900
+1759     condofee     910                            910
+1760     condofee     920                            920
+1761     condofee     930                            930
+1762     condofee     940                            940
+1763     condofee     950                            950
+1764     condofee     960                            960
+1765     condofee     970                            970
+1766     condofee     980                            980
+1767     condofee     990                            990
+1768     condofee    1000                           1000
+1769     condofee    1100                           1100
+1770     condofee    1200                           1200
+1771     condofee    1300                           1300
+1772     condofee    1400                           1400
+1773     condofee    1500                           1500
+1774     condofee    1600                           1600
+1775     moblhome       0                              0
+1776     moblhome    9999                            NIU
+1777     costelec       0                            NIU
+1778     costelec      48                             48
+1779     costelec     120                            120
+1780     costelec     240                            240
+1781     costelec     360                            360
+1782     costelec     480                            480
+1783     costelec     600                            600
+1784     costelec     720                            720
+1785     costelec     840                            840
+1786     costelec     960                            960
+1787     costelec    1080                           1080
+1788     costelec    1200                           1200
+1789     costelec    1320                           1320
+1790     costelec    1440                           1440
+1791     costelec    1560                           1560
+1792     costelec    1680                           1680
+1793     costelec    1800                           1800
+1794     costelec    1920                           1920
+1795     costelec    2040                           2040
+1796     costelec    2160                           2160
+1797     costelec    2280                           2280
+1798     costelec    2400                           2400
+1799     costelec    2520                           2520
+1800     costelec    2640                           2640
+1801     costelec    2760                           2760
+1802     costelec    2880                           2880
+1803     costelec    3000                           3000
+1804     costelec    3120                           3120
+1805     costelec    3240                           3240
+1806     costelec    3360                           3360
+1807     costelec    3480                           3480
+1808     costelec    3600                           3600
+1809     costelec    3720                           3720
+1810     costelec    3840                           3840
+1811     costelec    3960                           3960
+1812     costelec    4080                           4080
+1813     costelec    4200                           4200
+1814     costelec    4320                           4320
+1815     costelec    4440                           4440
+1816     costelec    4560                           4560
+1817     costelec    4680                           4680
+1818     costelec    4800                           4800
+1819     costelec    4920                           4920
+1820     costelec    5040                           5040
+1821     costelec    5160                           5160
+1822     costelec    5280                           5280
+1823     costelec    5400                           5400
+1824     costelec    5520                           5520
+1825     costelec    5640                           5640
+1826     costelec    5760                           5760
+1827     costelec    5880                           5880
+1828     costelec    6000                           6000
+1829     costelec    6120                           6120
+1830     costelec    6240                           6240
+1831     costelec    6360                           6360
+1832     costelec    6480                           6480
+1833     costelec    6600                           6600
+1834     costelec    6720                           6720
+1835     costelec    6840                           6840
+1836     costelec    6960                           6960
+1837     costelec    7080                           7080
+1838     costelec    7200                           7200
+1839     costelec    9993          No charge or not used
+1840     costelec    9997 Electricity included in rent o
+1841      costgas       0                            NIU
+1842      costgas      48                             48
+1843      costgas     120                            120
+1844      costgas     240                            240
+1845      costgas     360                            360
+1846      costgas     480                            480
+1847      costgas     600                            600
+1848      costgas     720                            720
+1849      costgas     840                            840
+1850      costgas     960                            960
+1851      costgas    1080                           1080
+1852      costgas    1200                           1200
+1853      costgas    1320                           1320
+1854      costgas    1440                           1440
+1855      costgas    1560                           1560
+1856      costgas    1680                           1680
+1857      costgas    1800                           1800
+1858      costgas    1920                           1920
+1859      costgas    2040                           2040
+1860      costgas    2160                           2160
+1861      costgas    2280                           2280
+1862      costgas    2400                           2400
+1863      costgas    2520                           2520
+1864      costgas    2640                           2640
+1865      costgas    2760                           2760
+1866      costgas    2880                           2880
+1867      costgas    3000                           3000
+1868      costgas    3120                           3120
+1869      costgas    3240                           3240
+1870      costgas    3360                           3360
+1871      costgas    3480                           3480
+1872      costgas    3600                           3600
+1873      costgas    3720                           3720
+1874      costgas    3840                           3840
+1875      costgas    3960                           3960
+1876      costgas    4080                           4080
+1877      costgas    4200                           4200
+1878      costgas    4320                           4320
+1879      costgas    4440                           4440
+1880      costgas    4560                           4560
+1881      costgas    4680                           4680
+1882      costgas    4800                           4800
+1883      costgas    4920                           4920
+1884      costgas    5040                           5040
+1885      costgas    5160                           5160
+1886      costgas    5280                           5280
+1887      costgas    5400                           5400
+1888      costgas    5520                           5520
+1889      costgas    5640                           5640
+1890      costgas    5760                           5760
+1891      costgas    5880                           5880
+1892      costgas    6000                           6000
+1893      costgas    6120                           6120
+1894      costgas    6240                           6240
+1895      costgas    6360                           6360
+1896      costgas    6480                           6480
+1897      costgas    9992 Included in electricity paymen
+1898      costgas    9993          No charge or not used
+1899      costgas    9997 Gas included in rent or condo 
+1900     costwatr       0                            NIU
+1901     costwatr       4                              4
+1902     costwatr      10                             10
+1903     costwatr      20                             20
+1904     costwatr      30                             30
+1905     costwatr      40                             40
+1906     costwatr      50                             50
+1907     costwatr      60                             60
+1908     costwatr      70                             70
+1909     costwatr      80                             80
+1910     costwatr      90                             90
+1911     costwatr     100                            100
+1912     costwatr     110                            110
+1913     costwatr     120                            120
+1914     costwatr     130                            130
+1915     costwatr     140                            140
+1916     costwatr     150                            150
+1917     costwatr     160                            160
+1918     costwatr     170                            170
+1919     costwatr     180                            180
+1920     costwatr     190                            190
+1921     costwatr     200                            200
+1922     costwatr     210                            210
+1923     costwatr     220                            220
+1924     costwatr     230                            230
+1925     costwatr     240                            240
+1926     costwatr     250                            250
+1927     costwatr     260                            260
+1928     costwatr     270                            270
+1929     costwatr     280                            280
+1930     costwatr     290                            290
+1931     costwatr     300                            300
+1932     costwatr     310                            310
+1933     costwatr     320                            320
+1934     costwatr     330                            330
+1935     costwatr     340                            340
+1936     costwatr     350                            350
+1937     costwatr     360                            360
+1938     costwatr     370                            370
+1939     costwatr     380                            380
+1940     costwatr     390                            390
+1941     costwatr     400                            400
+1942     costwatr     410                            410
+1943     costwatr     420                            420
+1944     costwatr     430                            430
+1945     costwatr     440                            440
+1946     costwatr     450                            450
+1947     costwatr     460                            460
+1948     costwatr     470                            470
+1949     costwatr     480                            480
+1950     costwatr     490                            490
+1951     costwatr     500                            500
+1952     costwatr     510                            510
+1953     costwatr     520                            520
+1954     costwatr     530                            530
+1955     costwatr     540                            540
+1956     costwatr     550                            550
+1957     costwatr     560                            560
+1958     costwatr     570                            570
+1959     costwatr     580                            580
+1960     costwatr     590                            590
+1961     costwatr     600                            600
+1962     costwatr     610                            610
+1963     costwatr     620                            620
+1964     costwatr     630                            630
+1965     costwatr     640                            640
+1966     costwatr     650                            650
+1967     costwatr     660                            660
+1968     costwatr     670                            670
+1969     costwatr     680                            680
+1970     costwatr     690                            690
+1971     costwatr     700                            700
+1972     costwatr     710                            710
+1973     costwatr     720                            720
+1974     costwatr     730                            730
+1975     costwatr     740                            740
+1976     costwatr     750                            750
+1977     costwatr     760                            760
+1978     costwatr     770                            770
+1979     costwatr     780                            780
+1980     costwatr     790                            790
+1981     costwatr     800                            800
+1982     costwatr     810                            810
+1983     costwatr     820                            820
+1984     costwatr     830                            830
+1985     costwatr     840                            840
+1986     costwatr     850                            850
+1987     costwatr     860                            860
+1988     costwatr     870                            870
+1989     costwatr     880                            880
+1990     costwatr     890                            890
+1991     costwatr     900                            900
+1992     costwatr     910                            910
+1993     costwatr     920                            920
+1994     costwatr     930                            930
+1995     costwatr     940                            940
+1996     costwatr     950                            950
+1997     costwatr     960                            960
+1998     costwatr     970                            970
+1999     costwatr     980                            980
+2000     costwatr     990                            990
+2001     costwatr    1000                           1000
+2002     costwatr    1100                           1100
+2003     costwatr    1200                           1200
+2004     costwatr    1300                           1300
+2005     costwatr    1400                           1400
+2006     costwatr    1500                           1500
+2007     costwatr    1600                           1600
+2008     costwatr    1700                           1700
+2009     costwatr    1800                           1800
+2010     costwatr    1900                           1900
+2011     costwatr    2000                           2000
+2012     costwatr    2100                           2100
+2013     costwatr    2200                           2200
+2014     costwatr    2300                           2300
+2015     costwatr    2400                           2400
+2016     costwatr    2500                           2500
+2017     costwatr    2600                           2600
+2018     costwatr    2700                           2700
+2019     costwatr    2800                           2800
+2020     costwatr    2900                           2900
+2021     costwatr    3000                           3000
+2022     costwatr    3100                           3100
+2023     costwatr    3200                           3200
+2024     costwatr    3300                           3300
+2025     costwatr    3400                           3400
+2026     costwatr    3500                           3500
+2027     costwatr    3600                           3600
+2028     costwatr    4200                           4200
+2029     costwatr    9993          No charge or not used
+2030     costwatr    9997 Water included in rent or cond
+2031     costfuel       0                            NIU
+2032     costfuel       4                              4
+2033     costfuel      10                             10
+2034     costfuel      20                             20
+2035     costfuel      30                             30
+2036     costfuel      40                             40
+2037     costfuel      50                             50
+2038     costfuel      60                             60
+2039     costfuel      70                             70
+2040     costfuel      80                             80
+2041     costfuel      90                             90
+2042     costfuel     100                            100
+2043     costfuel     110                            110
+2044     costfuel     120                            120
+2045     costfuel     130                            130
+2046     costfuel     140                            140
+2047     costfuel     150                            150
+2048     costfuel     160                            160
+2049     costfuel     170                            170
+2050     costfuel     180                            180
+2051     costfuel     190                            190
+2052     costfuel     200                            200
+2053     costfuel     210                            210
+2054     costfuel     220                            220
+2055     costfuel     230                            230
+2056     costfuel     240                            240
+2057     costfuel     250                            250
+2058     costfuel     260                            260
+2059     costfuel     270                            270
+2060     costfuel     280                            280
+2061     costfuel     290                            290
+2062     costfuel     300                            300
+2063     costfuel     310                            310
+2064     costfuel     320                            320
+2065     costfuel     330                            330
+2066     costfuel     340                            340
+2067     costfuel     350                            350
+2068     costfuel     360                            360
+2069     costfuel     370                            370
+2070     costfuel     380                            380
+2071     costfuel     390                            390
+2072     costfuel     400                            400
+2073     costfuel     410                            410
+2074     costfuel     420                            420
+2075     costfuel     430                            430
+2076     costfuel     440                            440
+2077     costfuel     450                            450
+2078     costfuel     460                            460
+2079     costfuel     470                            470
+2080     costfuel     480                            480
+2081     costfuel     490                            490
+2082     costfuel     500                            500
+2083     costfuel     510                            510
+2084     costfuel     520                            520
+2085     costfuel     530                            530
+2086     costfuel     540                            540
+2087     costfuel     550                            550
+2088     costfuel     560                            560
+2089     costfuel     570                            570
+2090     costfuel     580                            580
+2091     costfuel     590                            590
+2092     costfuel     600                            600
+2093     costfuel     610                            610
+2094     costfuel     620                            620
+2095     costfuel     630                            630
+2096     costfuel     640                            640
+2097     costfuel     650                            650
+2098     costfuel     660                            660
+2099     costfuel     670                            670
+2100     costfuel     680                            680
+2101     costfuel     690                            690
+2102     costfuel     700                            700
+2103     costfuel     710                            710
+2104     costfuel     720                            720
+2105     costfuel     730                            730
+2106     costfuel     740                            740
+2107     costfuel     750                            750
+2108     costfuel     760                            760
+2109     costfuel     770                            770
+2110     costfuel     780                            780
+2111     costfuel     790                            790
+2112     costfuel     800                            800
+2113     costfuel     810                            810
+2114     costfuel     820                            820
+2115     costfuel     830                            830
+2116     costfuel     840                            840
+2117     costfuel     850                            850
+2118     costfuel     860                            860
+2119     costfuel     870                            870
+2120     costfuel     880                            880
+2121     costfuel     890                            890
+2122     costfuel     900                            900
+2123     costfuel     910                            910
+2124     costfuel     920                            920
+2125     costfuel     930                            930
+2126     costfuel     940                            940
+2127     costfuel     950                            950
+2128     costfuel     960                            960
+2129     costfuel     970                            970
+2130     costfuel     980                            980
+2131     costfuel     990                            990
+2132     costfuel    1000                           1000
+2133     costfuel    1100                           1100
+2134     costfuel    1200                           1200
+2135     costfuel    1300                           1300
+2136     costfuel    1400                           1400
+2137     costfuel    1500                           1500
+2138     costfuel    1600                           1600
+2139     costfuel    1700                           1700
+2140     costfuel    1800                           1800
+2141     costfuel    1900                           1900
+2142     costfuel    2000                           2000
+2143     costfuel    2100                           2100
+2144     costfuel    2200                           2200
+2145     costfuel    2300                           2300
+2146     costfuel    2400                           2400
+2147     costfuel    2500                           2500
+2148     costfuel    2600                           2600
+2149     costfuel    2700                           2700
+2150     costfuel    2800                           2800
+2151     costfuel    2900                           2900
+2152     costfuel    3000                           3000
+2153     costfuel    3100                           3100
+2154     costfuel    3200                           3200
+2155     costfuel    3300                           3300
+2156     costfuel    3400                           3400
+2157     costfuel    3500                           3500
+2158     costfuel    3600                           3600
+2159     costfuel    3700                           3700
+2160     costfuel    3800                           3800
+2161     costfuel    3900                           3900
+2162     costfuel    4000                           4000
+2163     costfuel    4100                           4100
+2164     costfuel    4200                           4200
+2165     costfuel    4300                           4300
+2166     costfuel    4400                           4400
+2167     costfuel    4500                           4500
+2168     costfuel    4600                           4600
+2169     costfuel    4700                           4700
+2170     costfuel    4800                           4800
+2171     costfuel    4900                           4900
+2172     costfuel    5000                           5000
+2173     costfuel    5100                           5100
+2174     costfuel    5200                           5200
+2175     costfuel    5300                           5300
+2176     costfuel    5400                           5400
+2177     costfuel    5500                           5500
+2178     costfuel    5600                           5600
+2179     costfuel    5700                           5700
+2180     costfuel    5900                           5900
+2181     costfuel    6300                           6300
+2182     costfuel    6400                           6400
+2183     costfuel    9993          No charge or not used
+2184     costfuel    9997 Fuel included in rent or condo
+2185      vacancy       0                            NIU
+2186      vacancy       1                       For rent
+2187      vacancy       2                  For sale only
+2188      vacancy       3 Rented or sold but not (yet) o
+2189      vacancy       4 For seasonal, recreational or 
+2190      vacancy       7          For migratory workers
+2191      vacancy       9                   Other vacant
+2192      kitchen       0                            NIU
+2193      kitchen       1                             No
+2194      kitchen       4  Yes (shared or exclusive use)
+2195     hotwater       0                            NIU
+2196     hotwater       3 No piped water or cold piped w
+2197     hotwater       4       Hot and cold piped water
+2198       shower       0                            NIU
+2199       shower       1       No, no bathtub or shower
+2200       shower       4  Yes (exclusive or shared use)
+2201       toilet       0                            NIU
+2202       toilet       1     No, no indoor flush toilet
+2203       toilet       4   Yes, shared or exclusive use
+2204     unitsstr       0                            NIU
+2205     unitsstr       1         Mobile home or trailer
+2206     unitsstr       2         Boat, tent, van, other
+2207     unitsstr       3       1-family house, detached
+2208     unitsstr       4       1-family house, attached
+2209     unitsstr       5              2-family building
+2210     unitsstr       6            3-4 family building
+2211     unitsstr       7            5-9 family building
+2212     unitsstr       8          10-19 family building
+2213     unitsstr       9          20-49 family building
+2214     unitsstr      10            50+ family building
+2215        phone       0                            NIU
+2216        phone       1         No, no phone available
+2217        phone       2           Yes, phone available
+2218     mortamt2       0                            NIU
+2219     mortamt2       4                              4
+2220     mortamt2      10                             10
+2221     mortamt2      20                             20
+2222     mortamt2      30                             30
+2223     mortamt2      40                             40
+2224     mortamt2      50                             50
+2225     mortamt2      60                             60
+2226     mortamt2      70                             70
+2227     mortamt2      80                             80
+2228     mortamt2      90                             90
+2229     mortamt2     100                            100
+2230     mortamt2     110                            110
+2231     mortamt2     120                            120
+2232     mortamt2     130                            130
+2233     mortamt2     140                            140
+2234     mortamt2     150                            150
+2235     mortamt2     160                            160
+2236     mortamt2     170                            170
+2237     mortamt2     180                            180
+2238     mortamt2     190                            190
+2239     mortamt2     200                            200
+2240     mortamt2     210                            210
+2241     mortamt2     220                            220
+2242     mortamt2     230                            230
+2243     mortamt2     240                            240
+2244     mortamt2     250                            250
+2245     mortamt2     260                            260
+2246     mortamt2     270                            270
+2247     mortamt2     280                            280
+2248     mortamt2     290                            290
+2249     mortamt2     300                            300
+2250     mortamt2     310                            310
+2251     mortamt2     320                            320
+2252     mortamt2     330                            330
+2253     mortamt2     340                            340
+2254     mortamt2     350                            350
+2255     mortamt2     360                            360
+2256     mortamt2     370                            370
+2257     mortamt2     380                            380
+2258     mortamt2     390                            390
+2259     mortamt2     400                            400
+2260     mortamt2     410                            410
+2261     mortamt2     420                            420
+2262     mortamt2     430                            430
+2263     mortamt2     440                            440
+2264     mortamt2     450                            450
+2265     mortamt2     460                            460
+2266     mortamt2     470                            470
+2267     mortamt2     480                            480
+2268     mortamt2     490                            490
+2269     mortamt2     500                            500
+2270     mortamt2     510                            510
+2271     mortamt2     520                            520
+2272     mortamt2     530                            530
+2273     mortamt2     540                            540
+2274     mortamt2     550                            550
+2275     mortamt2     560                            560
+2276     mortamt2     570                            570
+2277     mortamt2     580                            580
+2278     mortamt2     590                            590
+2279     mortamt2     600                            600
+2280     mortamt2     610                            610
+2281     mortamt2     620                            620
+2282     mortamt2     630                            630
+2283     mortamt2     640                            640
+2284     mortamt2     650                            650
+2285     mortamt2     660                            660
+2286     mortamt2     670                            670
+2287     mortamt2     680                            680
+2288     mortamt2     690                            690
+2289     mortamt2     700                            700
+2290     mortamt2     710                            710
+2291     mortamt2     720                            720
+2292     mortamt2     730                            730
+2293     mortamt2     740                            740
+2294     mortamt2     750                            750
+2295     mortamt2     760                            760
+2296     mortamt2     770                            770
+2297     mortamt2     780                            780
+2298     mortamt2     790                            790
+2299     mortamt2     800                            800
+2300     mortamt2     810                            810
+2301     mortamt2     820                            820
+2302     mortamt2     830                            830
+2303     mortamt2     840                            840
+2304     mortamt2     850                            850
+2305     mortamt2     860                            860
+2306     mortamt2     870                            870
+2307     mortamt2     880                            880
+2308     mortamt2     890                            890
+2309     mortamt2     900                            900
+2310     mortamt2     910                            910
+2311     mortamt2     920                            920
+2312     mortamt2     930                            930
+2313     mortamt2     940                            940
+2314     mortamt2     950                            950
+2315     mortamt2     960                            960
+2316     mortamt2     970                            970
+2317     mortamt2     980                            980
+2318     mortamt2     990                            990
+2319     mortamt2    1000                           1000
+2320     mortamt2    1100                           1100
+2321     mortamt2    1200                           1200
+2322     mortamt2    1300                           1300
+2323     mortamt2    1400                           1400
+2324     mortamt2    1500                           1500
+2325     mortamt2    1600                           1600
+2326     mortamt2    1700                           1700
+2327     mortamt2    1800                           1800
+2328     mortamt2    1900                           1900
+2329     mortamt2    2000                           2000
+2330     mortamt2    2100                           2100
+2331     mortamt2    2200                           2200
+2332     mortamt2    2300                           2300
+2333     mortamt2    2400                           2400
+2334     mortamt2    2600                           2600
+2335     mortamt2    2900                           2900
+2336     mortamt2    3000                           3000
+2337     mortamt2    3600                           3600
+2338     lingisol       0                            NIU
+2339     lingisol       1    Not linguistically isolated
+2340     lingisol       2        Linguistically isolated
+2341     fuelheat       0                            NIU
+2342     fuelheat       1                   No fuel used
+2343     fuelheat       2 Utility gas from underground p
+2344     fuelheat       3 Bottled, tank, or liquefied pe
+2345     fuelheat       4                    Electricity
+2346     fuelheat       5 Fuel oil, kerosene, other liqu
+2347     fuelheat       6                   Coal or coke
+2348     fuelheat       7                           Wood
+2349     fuelheat       8                   Solar energy
+2350     fuelheat       9                          Other
+2351     vehicles       0                    0 available
+2352     vehicles       1                              1
+2353     vehicles       2                              2
+2354     vehicles       3                              3
+2355     vehicles       4                              4
+2356     vehicles       5                              5
+2357     vehicles       6                              6
+2358     vehicles       9                            NIU
+2359        nfams       0                            NIU
+2360        nfams       1                1 family or N/A
+2361        nfams       2                     2 families
+2362        nfams       3                              3
+2363        nfams       4                              4
+2364        nfams       5                              5
+2365        nfams       6                              6
+2366        nfams       7                              7
+2367        nfams       8                              8
+2368        nfams       9                              9
+2369        nfams      10                             10
+2370        nfams      11                             11
+2371        nfams      12                             12
+2372        nfams      13                             13
+2373        nfams      17                             17
+2374     ncouples       0               0 couples or N/A
+2375     ncouples       1                              1
+2376     ncouples       2                              2
+2377     ncouples       3                              3
+2378     ncouples       4                              4
+2379     ncouples       5                              5
+2380     nmothers       0               0 mothers or N/A
+2381     nmothers       1                              1
+2382     nmothers       2                              2
+2383     nmothers       3                              3
+2384     nmothers       4                              4
+2385     nfathers       0               0 fathers or N/A
+2386     nfathers       1                              1
+2387     nfathers       2                              2
+2388     nfathers       3                              3
+2389     nfathers       4                              4
+2390     qacrehou       0           Not allocated or N/A
+2391     qacrehou       4            Allocated, hot deck
+2392     qmoblhom       0                  Not allocated
+2393     qmoblhom       4                      Allocated
+2394     qmortam1       0                  Not allocated
+2395     qmortam1       4                      Allocated
+2396     qinsincl       0                  Not allocated
+2397     qinsincl       4                      Allocated
+2398     qmortam2       0                  Not allocated
+2399     qmortam2       4                      Allocated
+2400     qbedroom       0                  Not allocated
+2401     qbedroom       4            Allocated, hot deck
+2402     qcommuse       0                  Not allocated
+2403     qcommuse       4            Allocated, hot deck
+2404     qmortga2       0                  Not allocated
+2405     qmortga2       4                      Allocated
+2406     qcostele       0                  Not allocated
+2407     qcostele       4                      Allocated
+2408     qmortgag       0                  Not allocated
+2409     qmortgag       4                      Allocated
+2410     qcostfue       0                  Not allocated
+2411     qcostfue       4                      Allocated
+2412     qcostgas       0                  Not allocated
+2413     qcostgas       4                      Allocated
+2414     qpropins       0                  Not allocated
+2415     qpropins       4                      Allocated
+2416     qcostwat       0                  Not allocated
+2417     qcostwat       4                      Allocated
+2418     qprotx99       0                  Not allocated
+2419     qprotx99       4                      Allocated
+2420     qrentmea       0                  Not allocated
+2421     qrentmea       4                      Allocated
+2422     qfuelhea       0                  Not allocated
+2423     qfuelhea       4                      Allocated
+2424     qplumbin       0                  Not allocated
+2425     qplumbin       4                      Allocated
+2426     qownersh       0 Original entry or Inapplicable
+2427     qownersh       4                      Allocated
+2428       qphone       0                  Not allocated
+2429       qphone       4                      Allocated
+2430        qrent       0 Original entry or Inapplicable
+2431        qrent       4 Allocated (method not specifie
+2432       qrooms       0                  Not allocated
+2433       qrooms       4                      Allocated
+2434      qshower       0                  Not allocated
+2435      qshower       4 Allocated, method not specifie
+2436     qunitsst       0                  Not allocated
+2437     qunitsst       4                      Allocated
+2438     qvacancy       0                  Not allocated
+2439     qvacancy       4                      Allocated
+2440      qvalueh       0 Original entry or Inapplicable
+2441      qvalueh       4                      Allocated
+2442     qcondofe       0                  Not allocated
+2443     qcondofe       4                      Allocated
+2444     qtaxincl       0                  Not allocated
+2445     qtaxincl       4                      Allocated
+2446     qfoodstm       0                  Not allocated
+2447     qfoodstm       4                      Allocated
+2448     qmortg2a       0                  Not allocated
+2449     builtyr2       0                            NIU
+2450     builtyr2       1                1939 or earlier
+2451     builtyr2       2                      1940-1949
+2452     builtyr2       3                      1950-1959
+2453     builtyr2       4                      1960-1969
+2454     builtyr2       5                      1970-1979
+2455     builtyr2       6                      1980-1989
+2456     builtyr2       7                      1990-1999
+2457     builtyr2       9                      2000-2004
+2458     builtyr2      10                           2005
+2459     builtyr2      11                           2006
+2460     builtyr2      12                           2007
+2461     builtyr2      13                           2008
+2462     builtyr2      14                           2009
+2463     builtyr2      15                           2010
+2464     qbuilty2       0                  Not allocated
+2465     qbuilty2       4                      Allocated
+2466       nfams2       0                            NIU
+2467       nfams2       1                1 family or N/A
+2468       nfams2       2                     2 families
+2469       nfams2       3                              3
+2470       nfams2       4                              4
+2471       nfams2       5                              5
+2472       nfams2       6                              6
+2473       nfams2       7                              7
+2474       nfams2       8                              8
+2475       nfams2       9                              9
+2476       nfams2      10                             10
+2477       nfams2      11                             11
+2478       nfams2      12                             12
+2479       nfams2      13                             13
+2480       nfams2      17                             17
+2481     ncouple2       0               0 couples or N/A
+2482     ncouple2       1                              1
+2483     ncouple2       2                              2
+2484     ncouple2       3                              3
+2485     ncouple2       4                              4
+2486     ncouple2       5                              5
+2487     nmother2       0               0 mothers or N/A
+2488     nmother2       1                              1
+2489     nmother2       2                              2
+2490     nmother2       3                              3
+2491     nmother2       4                              4
+2492     nfather2       0               0 fathers or N/A
+2493     nfather2       1                              1
+2494     nfather2       2                              2
+2495     nfather2       3                              3
+2496     nfather2       4                              4
+2497       hhtype       0                            NIU
+2498       hhtype       1 Married-couple family househol
+2499       hhtype       2 Male householder, no wife pres
+2500       hhtype       3 Female householder, no husband
+2501       hhtype       4 Male householder, living alone
+2502       hhtype       5 Male householder, not living a
+2503       hhtype       6 Female householder, living alo
+2504       hhtype       7 Female householder, not living
+2505        repwt       1              Weights available
+2506     qvehicle       0                  Not allocated
+2507     qvehicle       4                      Allocated
+2508      owncost   99999                            NIU
+2509      nsubfam       0                  0 subfamilies
+2510      nsubfam       1                    1 subfamily
+2511      nsubfam       2                  2 subfamilies
+2512      nsubfam       3                              3
+2513      nsubfam       4                              4
+2514      nsubfam       9                            NIU
+2515     hhincome 9999999                            NIU
+2516      headloc       0             No head identified
+2517      headloc       1                              1
+2518       fridge       0                            NIU
+2519       fridge       1            No, no refrigerator
+2520       fridge       2                            Yes
+2521      qfridge       0                  Not allocated
+2522      qfridge       4                      Allocated
+2523         sink       0                            NIU
+2524         sink       1        No, no sink with faucet
+2525         sink       2                            Yes
+2526        qsink       0                  Not allocated
+2527        qsink       4                      Allocated
+2528        stove       0                            NIU
+2529        stove       1          No, no stove or range
+2530        stove       2                            Yes
+2531       qstove       0                  Not allocated
+2532       qstove       4                      Allocated
+2533       valueh 9999999                            NIU
+2534      multgen       0                            NIU
+2535      multgen      10                   1 generation
+2536      multgen      21 2 adjacent generations, adult-
+2537      multgen      22 2 adjacent generations, adult-
+2538      multgen      23      2 nonadjacent generations
+2539      multgen      31 3+ generations (census 2008 de
+2540      multgen      32 3+ generations (additional IPU
+2541     bedrooms       0                            NIU
+2542     bedrooms       1                    No bedrooms
+2543     bedrooms       2                              1
+2544     bedrooms       3                              2
+2545     bedrooms       4                              3
+2546     bedrooms       5                              4
+2547     bedrooms       6                              5
+2548     bedrooms       7                              6
+2549     bedrooms       8                              7
+2550     bedrooms       9                              8
+2551     bedrooms      10                              9
+2552     bedrooms      11                             10
+2553     bedrooms      12                             11
+2554     bedrooms      14                             13
+2555     bedrooms      19                             18
+2556        rooms       0                            NIU
+2557        rooms       1                         1 room
+2558        rooms       2                              2
+2559        rooms       3                              3
+2560        rooms       4                              4
+2561        rooms       5                              5
+2562        rooms       6                              6
+2563        rooms       7                              7
+2564        rooms       8                              8
+2565        rooms       9                              9
+2566        rooms      10                             10
+2567        rooms      11                             11
+2568        rooms      12                             12
+2569        rooms      13                             13
+2570        rooms      14                             14
+2571        rooms      15                             15
+2572        rooms      16                             16
+2573        rooms      17                             17
+2574        rooms      18                             18
+2575        rooms      19                             19
+2576        rooms      20                             20
+2577        rooms      21                             21
+2578        rooms      22                             22
+2579        rooms      25                             25
+2580        rooms      26                             26
+2581        rooms      27                             27
+2582     homeland       1 PUMA does not include a homela
+2583     homeland       2  PUMA includes a homeland area
+2584       adjust 1007624                        1007624
+2585        cpi99     764                            764
+2586     respmode       0                            NIU
+2587     respmode       1                           Mail
+2588     respmode       2 Computer assisted interview (C
+2589        appal       0              Not in Appalachia
+2590        appal      11             Northern Applachia
+2591        appal      12       North Central Appalachia
+2592        appal      20             Central Appalachia
+2593        appal      31       South Central Appalachia
+2594        appal      32            Southern Appalachia
+2595      validco       0                              0
+2596      validco       1                              1
+2597      validco       2                              2
+2598      validco       3                              3
+2599      validco       4                              4
+2600      validco       5                              5
+2601      validco       6                              6
+2602      validco       8                              8
+2603       county       0 County not identifiable from p
+2604       county      10                             10
+2605       county      30                             30
+2606       county      50                             50
+2607       county      70                             70
+2608       county      90                             90
+2609       county     110                            110
+2610       county     130                            130
+2611       county     150                            150
+2612       county     170                            170
+2613       county     190                            190
+2614       county     210                            210
+2615       county     230                            230
+2616       county     250                            250
+2617       county     270                            270
+2618       county     290                            290
+2619       county     310                            310
+2620       county     330                            330
+2621       county     350                            350
+2622       county     370                            370
+2623       county     390                            390
+2624       county     410                            410
+2625       county     430                            430
+2626       county     450                            450
+2627       county     470                            470
+2628       county     490                            490
+2629       county     510                            510
+2630       county     530                            530
+2631       county     550                            550
+2632       county     570                            570
+2633       county     590                            590
+2634       county     610                            610
+2635       county     630                            630
+2636       county     650                            650
+2637       county     670                            670
+2638       county     690                            690
+2639       county     710                            710
+2640       county     730                            730
+2641       county     750                            750
+2642       county     770                            770
+2643       county     790                            790
+2644       county     810                            810
+2645       county     830                            830
+2646       county     850                            850
+2647       county     870                            870
+2648       county     890                            890
+2649       county     910                            910
+2650       county     930                            930
+2651       county     950                            950
+2652       county     970                            970
+2653       county     990                            990
+2654       county    1010                           1010
+2655       county    1030                           1030
+2656       county    1050                           1050
+2657       county    1070                           1070
+2658       county    1090                           1090
+2659       county    1110                           1110
+2660       county    1130                           1130
+2661       county    1150                           1150
+2662       county    1170                           1170
+2663       county    1190                           1190
+2664       county    1210                           1210
+2665       county    1230                           1230
+2666       county    1250                           1250
+2667       county    1270                           1270
+2668       county    1290                           1290
+2669       county    1330                           1330
+2670       county    1350                           1350
+2671       county    1370                           1370
+2672       county    1390                           1390
+2673       county    1410                           1410
+2674       county    1430                           1430
+2675       county    1450                           1450
+2676       county    1470                           1470
+2677       county    1490                           1490
+2678       county    1510                           1510
+2679       county    1530                           1530
+2680       county    1550                           1550
+2681       county    1570                           1570
+2682       county    1590                           1590
+2683       county    1610                           1610
+2684       county    1630                           1630
+2685       county    1650                           1650
+2686       county    1670                           1670
+2687       county    1690                           1690
+2688       county    1770                           1770
+2689       county    1790                           1790
+2690       county    1830                           1830
+2691       county    1870                           1870
+2692       county    1890                           1890
+2693       county    1910                           1910
+2694       county    1930                           1930
+2695       county    2010                           2010
+2696       county    2090                           2090
+2697       county    2150                           2150
+2698       county    2450                           2450
+2699       county    2510                           2510
+2700       county    3030                           3030
+2701       county    3090                           3090
+2702       county    3290                           3290
+2703       county    3750                           3750
+2704       county    3810                           3810
+2705       county    4230                           4230
+2706       county    4410                           4410
+2707       county    4790                           4790
+2708       county    4850                           4850
+2709       county    4910                           4910
+2710       county    5100                           5100
+2711       county    5500                           5500
+2712       county    6500                           6500
+2713       county    7000                           7000
+2714       county    7100                           7100
+2715       county    7600                           7600
+2716       county    8100                           8100
+2717    cbnsubfam       0                  0 subfamilies
+2718    cbnsubfam       1                    1 subfamily
+2719    cbnsubfam       2                  2 subfamilies
+2720    cbnsubfam       3                              3
+2721    cbnsubfam       4                              4
+2722    cbnsubfam       9                            NIU
+2723  pumares2mig       1                              1
+2724  pumares2mig       2                              2
+2725  pumares2mig       3                              3
+2726  pumares2mig       4                              4
+2727  pumares2mig       5                              5
+2728  pumares2mig       6                              6
+2729  pumares2mig       7                              7
+2730  pumares2mig       8                              8
+2731  pumares2mig       9                              9
+2732  pumares2mig      10                             10
+2733  pumares2mig      11                             11
+2734  pumares2mig      12                             12
+2735  pumares2mig      13                             13
+2736  pumares2mig      14                             14
+2737  pumares2mig      15                             15
+2738  pumares2mig      16                             16
+2739  pumares2mig      17                             17
+2740  pumares2mig      18                             18
+2741  pumares2mig      19                             19
+2742  pumares2mig      20                             20
+2743  pumares2mig      21                             21
+2744  pumares2mig      22                             22
+2745  pumares2mig      23                             23
+2746  pumares2mig      24                             24
+2747  pumares2mig      25                             25
+2748  pumares2mig      26                             26
+2749  pumares2mig      27                             27
+2750  pumares2mig      28                             28
+2751  pumares2mig      29                             29
+2752  pumares2mig      30                             30
+2753  pumares2mig      31                             31
+2754  pumares2mig      32                             32
+2755  pumares2mig      33                             33
+2756  pumares2mig      34                             34
+2757  pumares2mig      35                             35
+2758  pumares2mig      36                             36
+2759  pumares2mig      37                             37
+2760  pumares2mig      38                             38
+2761  pumares2mig      39                             39
+2762  pumares2mig      40                             40
+2763  pumares2mig      41                             41
+2764  pumares2mig      42                             42
+2765  pumares2mig      43                             43
+2766  pumares2mig      44                             44
+2767  pumares2mig      45                             45
+2768  pumares2mig      46                             46
+2769  pumares2mig      47                             47
+2770  pumares2mig      48                             48
+2771  pumares2mig      49                             49
+2772  pumares2mig      50                             50
+2773  pumares2mig      51                             51
+2774  pumares2mig      52                             52
+2775  pumares2mig      53                             53
+2776  pumares2mig      55                             55
+2777  pumares2mig      56                             56
+2778  pumares2mig      57                             57
+2779  pumares2mig      58                             58
+2780  pumares2mig      59                             59
+2781  pumares2mig      60                             60
+2782  pumares2mig      61                             61
+2783  pumares2mig      62                             62
+2784  pumares2mig      63                             63
+2785  pumares2mig      66                             66
+2786  pumares2mig      67                             67
+2787  pumares2mig      68                             68
+2788  pumares2mig      77                             77
+2789  pumares2mig      81                             81
+2790  pumares2mig      82                             82
+2791  pumares2mig     777                            777
+2792         rent       0                            NIU
+2793         rent       4                              4
+2794         rent      10                             10
+2795         rent      20                             20
+2796         rent      30                             30
+2797         rent      40                             40
+2798         rent      50                             50
+2799         rent      60                             60
+2800         rent      70                             70
+2801         rent      80                             80
+2802         rent      90                             90
+2803         rent     100                            100
+2804         rent     110                            110
+2805         rent     120                            120
+2806         rent     130                            130
+2807         rent     140                            140
+2808         rent     150                            150
+2809         rent     160                            160
+2810         rent     170                            170
+2811         rent     180                            180
+2812         rent     190                            190
+2813         rent     200                            200
+2814         rent     210                            210
+2815         rent     220                            220
+2816         rent     230                            230
+2817         rent     240                            240
+2818         rent     250                            250
+2819         rent     260                            260
+2820         rent     270                            270
+2821         rent     280                            280
+2822         rent     290                            290
+2823         rent     300                            300
+2824         rent     310                            310
+2825         rent     320                            320
+2826         rent     330                            330
+2827         rent     340                            340
+2828         rent     350                            350
+2829         rent     360                            360
+2830         rent     370                            370
+2831         rent     380                            380
+2832         rent     390                            390
+2833         rent     400                            400
+2834         rent     410                            410
+2835         rent     420                            420
+2836         rent     430                            430
+2837         rent     440                            440
+2838         rent     450                            450
+2839         rent     460                            460
+2840         rent     470                            470
+2841         rent     480                            480
+2842         rent     490                            490
+2843         rent     500                            500
+2844         rent     510                            510
+2845         rent     520                            520
+2846         rent     530                            530
+2847         rent     540                            540
+2848         rent     550                            550
+2849         rent     560                            560
+2850         rent     570                            570
+2851         rent     580                            580
+2852         rent     590                            590
+2853         rent     600                            600
+2854         rent     610                            610
+2855         rent     620                            620
+2856         rent     630                            630
+2857         rent     640                            640
+2858         rent     650                            650
+2859         rent     660                            660
+2860         rent     670                            670
+2861         rent     680                            680
+2862         rent     690                            690
+2863         rent     700                            700
+2864         rent     710                            710
+2865         rent     720                            720
+2866         rent     730                            730
+2867         rent     740                            740
+2868         rent     750                            750
+2869         rent     760                            760
+2870         rent     770                            770
+2871         rent     780                            780
+2872         rent     790                            790
+2873         rent     800                            800
+2874         rent     810                            810
+2875         rent     820                            820
+2876         rent     830                            830
+2877         rent     840                            840
+2878         rent     850                            850
+2879         rent     860                            860
+2880         rent     870                            870
+2881         rent     880                            880
+2882         rent     890                            890
+2883         rent     900                            900
+2884         rent     910                            910
+2885         rent     920                            920
+2886         rent     930                            930
+2887         rent     940                            940
+2888         rent     950                            950
+2889         rent     960                            960
+2890         rent     970                            970
+2891         rent     980                            980
+2892         rent     990                            990
+2893         rent    1000                           1000
+2894         rent    1100                           1100
+2895         rent    1200                           1200
+2896         rent    1300                           1300
+2897         rent    1400                           1400
+2898         rent    1500                           1500
+2899         rent    1600                           1600
+2900         rent    1700                           1700
+2901         rent    1800                           1800
+2902         rent    1900                           1900
+2903         rent    2000                           2000
+2904         rent    2100                           2100
+2905         rent    2200                           2200
+2906         rent    2300                           2300
+2907         rent    2400                           2400
+2908         rent    2500                           2500
+2909         rent    2600                           2600
+2910         rent    2700                           2700
+2911         rent    2800                           2800
+2912         rent    2900                           2900
+2913         rent    3000                           3000
+2914         rent    3100                           3100
+2915         rent    3200                           3200
+2916         rent    3300                           3300
+2917         rent    3400                           3400
+2918         rent    3500                           3500
+2919         rent    3600                           3600
+2920         rent    3800                           3800
+2921     qfarmpro       0                  Not allocated
+2922     qfarmpro       4                      Allocated
+2923      pernum2       1                              1
+2924      pernum2       2                              2
+2925      pernum2       3                              3
+2926      pernum2       4                              4
+2927      pernum2       5                              5
+2928      pernum2       6                              6
+2929      pernum2       7                              7
+2930      pernum2       8                              8
+2931      pernum2       9                              9
+2932      pernum2      10                             10
+2933      pernum2      11                             11
+2934      pernum2      12                             12
+2935      pernum2      13                             13
+2936      pernum2      14                             14
+2937      pernum2      15                             15
+2938      pernum2      16                             16
+2939      pernum2      17                             17
+2940      pernum2      18                             18
+2941      pernum2      19                             19
+2942      pernum2      20                             20
+2943       momloc       0 No mother identified in the ho
+2944       momloc       1                              1
+2945       momloc       2                              2
+2946       momloc       3                              3
+2947       momloc       4                              4
+2948       momloc       5                              5
+2949       momloc       6                              6
+2950       momloc       7                              7
+2951       momloc       8                              8
+2952       momloc       9                              9
+2953       momloc      10                             10
+2954       momloc      11                             11
+2955       momloc      12                             12
+2956       momloc      13                             13
+2957       momloc      14                             14
+2958       momloc      15                             15
+2959       momloc      16                             16
+2960      stepmom       0          No stepmother present
+2961      stepmom       1      Improbable age difference
+2962      stepmom       2               Spouse of father
+2963      stepmom       3          Identified stepmother
+2964      stepmom       5          Identified as adopted
+2965       poploc       0 No father identified in the ho
+2966       poploc       1                              1
+2967       poploc       2                              2
+2968       poploc       3                              3
+2969       poploc       4                              4
+2970       poploc       5                              5
+2971       poploc       6                              6
+2972       poploc       7                              7
+2973       poploc       8                              8
+2974       poploc       9                              9
+2975       poploc      10                             10
+2976       poploc      11                             11
+2977       poploc      12                             12
+2978       poploc      13                             13
+2979       poploc      14                             14
+2980       poploc      15                             15
+2981      steppop       0          No stepfather present
+2982      steppop       1      Improbable age difference
+2983      steppop       2               Spouse of mother
+2984      steppop       3          Identified stepfather
+2985      steppop       5          Identified as adopted
+2986      poprule       0                 No father link
+2987      poprule       1        Unambiguous father link
+2988      poprule       2             Son/granchild link
+2989      poprule       3 Preceding male (no intervening
+2990      poprule       4 Preceding male (surname simila
+2991      poprule       7 Husband of mother becomes step
+2992        sploc       0                 No spouse link
+2993        sploc       1                              1
+2994        sploc       2                              2
+2995        sploc       3                              3
+2996        sploc       4                              4
+2997        sploc       5                              5
+2998        sploc       6                              6
+2999        sploc       7                              7
+3000        sploc       8                              8
+3001        sploc       9                              9
+3002        sploc      10                             10
+3003        sploc      11                             11
+3004        sploc      12                             12
+3005        sploc      13                             13
+3006        sploc      14                             14
+3007        sploc      15                             15
+3008        sploc      16                             16
+3009        sploc      18                             18
+3010        sploc      19                             19
+3011       sprule       0                 No spouse link
+3012       sprule       1           Wife follows husband
+3013       sprule       2          Wife precedes husband
+3014       sprule       3 Non-adjacent links -- consiste
+3015       sprule       4 Adjacent links (wife follows h
+3016       sprule       5 Adjacent links (wife precedes 
+3017      famsize       1        1 family member present
+3018      famsize       2       2 family members present
+3019      famsize       3                              3
+3020      famsize       4                              4
+3021      famsize       5                              5
+3022      famsize       6                              6
+3023      famsize       7                              7
+3024      famsize       8                              8
+3025      famsize       9                              9
+3026      famsize      10                             10
+3027      famsize      11                             11
+3028      famsize      12                             12
+3029      famsize      13                             13
+3030      famsize      14                             14
+3031      famsize      15                             15
+3032      famsize      16                             16
+3033      famsize      17                             17
+3034      famsize      18                             18
+3035      famsize      19                             19
+3036      famsize      20                             20
+3037      famsize       1        1 family member present
+3038      famsize       2       2 family members present
+3039      famsize       3                              3
+3040      famsize       4                              4
+3041      famsize       5                              5
+3042      famsize       6                              6
+3043      famsize       7                              7
+3044      famsize       8                              8
+3045      famsize       9                              9
+3046      famsize      10                             10
+3047      famsize      11                             11
+3048      famsize      12                             12
+3049      famsize      13                             13
+3050      famsize      14                             14
+3051      famsize      15                             15
+3052      famsize      16                             16
+3053      famsize      17                             17
+3054      famsize      18                             18
+3055      famsize      19                             19
+3056      famsize      20                             20
+3057       nchild       0             0 children present
+3058       nchild       1                1 child present
+3059       nchild       2                              2
+3060       nchild       3                              3
+3061       nchild       4                              4
+3062       nchild       5                              5
+3063       nchild       6                              6
+3064       nchild       7                              7
+3065       nchild       8                              8
+3066       nchild       9                             9+
+3067       nchlt5       0        No children under age 5
+3068       nchlt5       1            1 child under age 5
+3069       nchlt5       2                              2
+3070       nchlt5       3                              3
+3071       nchlt5       4                              4
+3072       nchlt5       5                              5
+3073       nchlt5       6                              6
+3074       nchlt5       7                              7
+3075      famunit       1 1st family in household or gro
+3076      famunit       2 2nd family in household or gro
+3077      famunit       3                            3rd
+3078      famunit       4                            4th
+3079      famunit       5                            5th
+3080      famunit       6                            6th
+3081      famunit       7                            7th
+3082      famunit       8                            8th
+3083      famunit       9                            9th
+3084      famunit      10                           10th
+3085      famunit      11                           11th
+3086      famunit      12                           12th
+3087      famunit      13                           13th
+3088      famunit      14                           14th
+3089      famunit      15                           15th
+3090      famunit      16                           16th
+3091      famunit      17                           17th
+3092        eldch       0               Less than 1 year
+3093        eldch       1                              1
+3094        eldch       2                              2
+3095        eldch       3                              3
+3096        eldch       4                              4
+3097        eldch       5                              5
+3098        eldch       6                              6
+3099        eldch       7                              7
+3100        eldch       8                              8
+3101        eldch       9                              9
+3102        eldch      10                             10
+3103        eldch      11                             11
+3104        eldch      12                             12
+3105        eldch      13                             13
+3106        eldch      14                             14
+3107        eldch      15                             15
+3108        eldch      16                             16
+3109        eldch      17                             17
+3110        eldch      18                             18
+3111        eldch      19                             19
+3112        eldch      20                             20
+3113        eldch      21                             21
+3114        eldch      22                             22
+3115        eldch      23                             23
+3116        eldch      24                             24
+3117        eldch      25                             25
+3118        eldch      26                             26
+3119        eldch      27                             27
+3120        eldch      28                             28
+3121        eldch      29                             29
+3122        eldch      30                             30
+3123        eldch      31                             31
+3124        eldch      32                             32
+3125        eldch      33                             33
+3126        eldch      34                             34
+3127        eldch      35                             35
+3128        eldch      36                             36
+3129        eldch      37                             37
+3130        eldch      38                             38
+3131        eldch      39                             39
+3132        eldch      40                             40
+3133        eldch      41                             41
+3134        eldch      42                             42
+3135        eldch      43                             43
+3136        eldch      44                             44
+3137        eldch      45                             45
+3138        eldch      46                             46
+3139        eldch      47                             47
+3140        eldch      48                             48
+3141        eldch      49                             49
+3142        eldch      50                             50
+3143        eldch      51                             51
+3144        eldch      52                             52
+3145        eldch      53                             53
+3146        eldch      54                             54
+3147        eldch      55                             55
+3148        eldch      56                             56
+3149        eldch      57                             57
+3150        eldch      58                             58
+3151        eldch      59                             59
+3152        eldch      60                             60
+3153        eldch      61                             61
+3154        eldch      62                             62
+3155        eldch      63                             63
+3156        eldch      64                             64
+3157        eldch      65                             65
+3158        eldch      66                             66
+3159        eldch      67                             67
+3160        eldch      68                             68
+3161        eldch      69                             69
+3162        eldch      70                             70
+3163        eldch      71                             71
+3164        eldch      72                             72
+3165        eldch      73                             73
+3166        eldch      74                             74
+3167        eldch      75                             75
+3168        eldch      76                             76
+3169        eldch      77                             77
+3170        eldch      78                             78
+3171        eldch      79                             79
+3172        eldch      80                             80
+3173        eldch      81                             81
+3174        eldch      82                             82
+3175        eldch      83                             83
+3176        eldch      86                             86
+3177        eldch      87                             87
+3178        eldch      94                             94
+3179        eldch      99                            NIU
+3180        yngch       0               Less than 1 year
+3181        yngch       1                              1
+3182        yngch       2                              2
+3183        yngch       3                              3
+3184        yngch       4                              4
+3185        yngch       5                              5
+3186        yngch       6                              6
+3187        yngch       7                              7
+3188        yngch       8                              8
+3189        yngch       9                              9
+3190        yngch      10                             10
+3191        yngch      11                             11
+3192        yngch      12                             12
+3193        yngch      13                             13
+3194        yngch      14                             14
+3195        yngch      15                             15
+3196        yngch      16                             16
+3197        yngch      17                             17
+3198        yngch      18                             18
+3199        yngch      19                             19
+3200        yngch      20                             20
+3201        yngch      21                             21
+3202        yngch      22                             22
+3203        yngch      23                             23
+3204        yngch      24                             24
+3205        yngch      25                             25
+3206        yngch      26                             26
+3207        yngch      27                             27
+3208        yngch      28                             28
+3209        yngch      29                             29
+3210        yngch      30                             30
+3211        yngch      31                             31
+3212        yngch      32                             32
+3213        yngch      33                             33
+3214        yngch      34                             34
+3215        yngch      35                             35
+3216        yngch      36                             36
+3217        yngch      37                             37
+3218        yngch      38                             38
+3219        yngch      39                             39
+3220        yngch      40                             40
+3221        yngch      41                             41
+3222        yngch      42                             42
+3223        yngch      43                             43
+3224        yngch      44                             44
+3225        yngch      45                             45
+3226        yngch      46                             46
+3227        yngch      47                             47
+3228        yngch      48                             48
+3229        yngch      49                             49
+3230        yngch      50                             50
+3231        yngch      51                             51
+3232        yngch      52                             52
+3233        yngch      53                             53
+3234        yngch      54                             54
+3235        yngch      55                             55
+3236        yngch      56                             56
+3237        yngch      57                             57
+3238        yngch      58                             58
+3239        yngch      59                             59
+3240        yngch      60                             60
+3241        yngch      61                             61
+3242        yngch      62                             62
+3243        yngch      63                             63
+3244        yngch      64                             64
+3245        yngch      65                             65
+3246        yngch      66                             66
+3247        yngch      67                             67
+3248        yngch      68                             68
+3249        yngch      69                             69
+3250        yngch      70                             70
+3251        yngch      71                             71
+3252        yngch      72                             72
+3253        yngch      73                             73
+3254        yngch      74                             74
+3255        yngch      75                             75
+3256        yngch      76                             76
+3257        yngch      77                             77
+3258        yngch      78                             78
+3259        yngch      79                             79
+3260        yngch      80                             80
+3261        yngch      81                             81
+3262        yngch      83                             83
+3263        yngch      87                             87
+3264        yngch      99                            NIU
+3265        nsibs       0                     0 siblings
+3266        nsibs       1                      1 sibling
+3267        nsibs       2                     2 siblings
+3268        nsibs       3                              3
+3269        nsibs       4                              4
+3270        nsibs       5                              5
+3271        nsibs       6                              6
+3272        nsibs       7                              7
+3273        nsibs       8                              8
+3274        nsibs       9                             9+
+3275       relate     101               Head/householder
+3276       relate     201                         Spouse
+3277       relate     301               Biological Child
+3278       relate     302                  Adopted child
+3279       relate     303                      Stepchild
+3280       relate     401                   Child-in-law
+3281       relate     501                         Parent
+3282       relate     601                  Parent-in-law
+3283       relate     701                        Sibling
+3284       relate     801                 Sibling-in-law
+3285       relate     901                     Grandchild
+3286       relate    1001 Other relatives, not specified
+3287       relate    1114              Unmarried partner
+3288       relate    1115             Housemate/roommate
+3289       relate    1241        Roomer/boarders/lodgers
+3290       relate    1242                Foster children
+3291       relate    1260            Other non-relatives
+3292       relate    1270                     Non-inmate
+3293       relate    1301          Institutional inmates
+3294          age       0           Less than 1 year old
+3295          age       1                              1
+3296          age       2                              2
+3297          age       3                              3
+3298          age       4                              4
+3299          age       5                              5
+3300          age       6                              6
+3301          age       7                              7
+3302          age       8                              8
+3303          age       9                              9
+3304          age      10                             10
+3305          age      11                             11
+3306          age      12                             12
+3307          age      13                             13
+3308          age      14                             14
+3309          age      15                             15
+3310          age      16                             16
+3311          age      17                             17
+3312          age      18                             18
+3313          age      19                             19
+3314          age      20                             20
+3315          age      21                             21
+3316          age      22                             22
+3317          age      23                             23
+3318          age      24                             24
+3319          age      25                             25
+3320          age      26                             26
+3321          age      27                             27
+3322          age      28                             28
+3323          age      29                             29
+3324          age      30                             30
+3325          age      31                             31
+3326          age      32                             32
+3327          age      33                             33
+3328          age      34                             34
+3329          age      35                             35
+3330          age      36                             36
+3331          age      37                             37
+3332          age      38                             38
+3333          age      39                             39
+ [ reached getOption("max.print") -- omitted 7806 rows ]

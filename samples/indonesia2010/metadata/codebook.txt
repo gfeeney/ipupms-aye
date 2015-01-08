@@ -1,0 +1,3335 @@
+        vname code                          short
+1       cntry   32                      Argentina
+2       cntry   51                        Armenia
+3       cntry   40                        Austria
+4       cntry   50                     Bangladesh
+5       cntry  112                        Belarus
+6       cntry   68                        Bolivia
+7       cntry   76                         Brazil
+8       cntry  854                   Burkina Faso
+9       cntry  116                       Cambodia
+10      cntry  120                       Cameroon
+11      cntry  124                         Canada
+12      cntry  152                          Chile
+13      cntry  156                          China
+14      cntry  170                       Colombia
+15      cntry  188                     Costa Rica
+16      cntry  192                           Cuba
+17      cntry  214             Dominican Republic
+18      cntry  218                        Ecuador
+19      cntry  818                          Egypt
+20      cntry  222                    El Salvador
+21      cntry  242                           Fiji
+22      cntry  250                         France
+23      cntry  276                        Germany
+24      cntry  288                          Ghana
+25      cntry  300                         Greece
+26      cntry  324                         Guinea
+27      cntry  332                          Haiti
+28      cntry  348                        Hungary
+29      cntry  356                          India
+30      cntry  360                      Indonesia
+31      cntry  364                           Iran
+32      cntry  368                           Iraq
+33      cntry  372                        Ireland
+34      cntry  376                         Israel
+35      cntry  380                          Italy
+36      cntry  388                        Jamaica
+37      cntry  400                         Jordan
+38      cntry  404                          Kenya
+39      cntry  417                Kyrgyz Republic
+40      cntry  430                        Liberia
+41      cntry  454                         Malawi
+42      cntry  458                       Malaysia
+43      cntry  466                           Mali
+44      cntry  484                         Mexico
+45      cntry  496                       Mongolia
+46      cntry  504                        Morocco
+47      cntry  524                          Nepal
+48      cntry  528                    Netherlands
+49      cntry  558                      Nicaragua
+50      cntry  566                        Nigeria
+51      cntry  586                       Pakistan
+52      cntry  275                      Palestine
+53      cntry  591                         Panama
+54      cntry  604                           Peru
+55      cntry  608                    Philippines
+56      cntry  620                       Portugal
+57      cntry  630                    Puerto Rico
+58      cntry  642                        Romania
+59      cntry  646                         Rwanda
+60      cntry  662                    Saint Lucia
+61      cntry  686                        Senegal
+62      cntry  694                   Sierra Leone
+63      cntry  705                       Slovenia
+64      cntry  710                   South Africa
+65      cntry  728                    South Sudan
+66      cntry  724                          Spain
+67      cntry  729                          Sudan
+68      cntry  756                    Switzerland
+69      cntry  834                       Tanzania
+70      cntry  764                       Thailand
+71      cntry  792                         Turkey
+72      cntry  800                         Uganda
+73      cntry  804                        Ukraine
+74      cntry  826                 United Kingdom
+75      cntry  840                  United States
+76      cntry  858                        Uruguay
+77      cntry  862                      Venezuela
+78      cntry  704                        Vietnam
+79      cntry  894                         Zambia
+80       year 1960                           1960
+81       year 1962                           1962
+82       year 1963                           1963
+83       year 1964                           1964
+84       year 1966                           1966
+85       year 1968                           1968
+86       year 1969                           1969
+87       year 1970                           1970
+88       year 1971                           1971
+89       year 1972                           1972
+90       year 1973                           1973
+91       year 1974                           1974
+92       year 1975                           1975
+93       year 1976                           1976
+94       year 1977                           1977
+95       year 1979                           1979
+96       year 1980                           1980
+97       year 1981                           1981
+98       year 1982                           1982
+99       year 1983                           1983
+100      year 1984                           1984
+101      year 1985                           1985
+102      year 1986                           1986
+103      year 1987                           1987
+104      year 1989                           1989
+105      year 1990                           1990
+106      year 1991                           1991
+107      year 1992                           1992
+108      year 1993                           1993
+109      year 1994                           1994
+110      year 1995                           1995
+111      year 1996                           1996
+112      year 1997                           1997
+113      year 1998                           1998
+114      year 1999                           1999
+115      year 2000                           2000
+116      year 2001                           2001
+117      year 2002                           2002
+118      year 2003                           2003
+119      year 2004                           2004
+120      year 2005                           2005
+121      year 2006                           2006
+122      year 2007                           2007
+123      year 2008                           2008
+124      year 2009                           2009
+125      year 2010                           2010
+126      year 2011                           2011
+127    sample  321                 Argentina 1970
+128    sample  322                 Argentina 1980
+129    sample  323                 Argentina 1991
+130    sample  324                 Argentina 2001
+131    sample  325                 Argentina 2010
+132    sample  511                   Armenia 2001
+133    sample  401                   Austria 1971
+134    sample  402                   Austria 1981
+135    sample  403                   Austria 1991
+136    sample  404                   Austria 2001
+137    sample  501                Bangladesh 1991
+138    sample  502                Bangladesh 2001
+139    sample  503                Bangladesh 2011
+140    sample  681                   Bolivia 1976
+141    sample  682                   Bolivia 1992
+142    sample  683                   Bolivia 2001
+143    sample  761                    Brazil 1960
+144    sample  762                    Brazil 1970
+145    sample  763                    Brazil 1980
+146    sample  764                    Brazil 1991
+147    sample  765                    Brazil 2000
+148    sample  766                    Brazil 2010
+149    sample 1121                   Belarus 1999
+150    sample 8541              Burkina Faso 1985
+151    sample 8542              Burkina Faso 1996
+152    sample 8543              Burkina Faso 2006
+153    sample 1161                  Cambodia 1998
+154    sample 1162                  Cambodia 2008
+155    sample 1201                  Cameroon 1976
+156    sample 1202                  Cameroon 1987
+157    sample 1203                  Cameroon 2005
+158    sample 1241                    Canada 1971
+159    sample 1242                    Canada 1981
+160    sample 1243                    Canada 1991
+161    sample 1244                    Canada 2001
+162    sample 1521                     Chile 1960
+163    sample 1522                     Chile 1970
+164    sample 1523                     Chile 1982
+165    sample 1524                     Chile 1992
+166    sample 1525                     Chile 2002
+167    sample 1561                     China 1982
+168    sample 1562                     China 1990
+169    sample 1701                  Colombia 1964
+170    sample 1702                  Colombia 1973
+171    sample 1703                  Colombia 1985
+172    sample 1704                  Colombia 1993
+173    sample 1705                  Colombia 2005
+174    sample 1881                Costa Rica 1963
+175    sample 1882                Costa Rica 1973
+176    sample 1883                Costa Rica 1984
+177    sample 1884                Costa Rica 2000
+178    sample 1921                      Cuba 2002
+179    sample 2141        Dominican Republic 1960
+180    sample 2142        Dominican Republic 1970
+181    sample 2143        Dominican Republic 1981
+182    sample 2144        Dominican Republic 2002
+183    sample 2145        Dominican Republic 2010
+184    sample 2181                   Ecuador 1962
+185    sample 2182                   Ecuador 1974
+186    sample 2183                   Ecuador 1982
+187    sample 2184                   Ecuador 1990
+188    sample 2185                   Ecuador 2001
+189    sample 2186                   Ecuador 2010
+190    sample 8181                     Egypt 1996
+191    sample 8182                     Egypt 2006
+192    sample 2221               El Salvador 1992
+193    sample 2222               El Salvador 2007
+194    sample 2421                      Fiji 1966
+195    sample 2422                      Fiji 1976
+196    sample 2423                      Fiji 1986
+197    sample 2424                      Fiji 1996
+198    sample 2425                      Fiji 2007
+199    sample 2501                    France 1962
+200    sample 2502                    France 1968
+201    sample 2503                    France 1975
+202    sample 2504                    France 1982
+203    sample 2505                    France 1990
+204    sample 2506                    France 1999
+205    sample 2507                    France 2006
+206    sample 2761            Germany 1970 (West)
+207    sample 2762            Germany 1971 (East)
+208    sample 2763            Germany 1981 (East)
+209    sample 2764            Germany 1987 (West)
+210    sample 2881                     Ghana 2000
+211    sample 2882                     Ghana 2010
+212    sample 3001                    Greece 1971
+213    sample 3002                    Greece 1981
+214    sample 3003                    Greece 1991
+215    sample 3004                    Greece 2001
+216    sample 3241                    Guinea 1983
+217    sample 3242                    Guinea 1996
+218    sample 3321                     Haiti 1971
+219    sample 3322                     Haiti 1982
+220    sample 3323                     Haiti 2003
+221    sample 3481                   Hungary 1970
+222    sample 3482                   Hungary 1980
+223    sample 3483                   Hungary 1990
+224    sample 3484                   Hungary 2001
+225    sample 3561                     India 1983
+226    sample 3562                     India 1987
+227    sample 3563                     India 1993
+228    sample 3564                     India 1999
+229    sample 3565                     India 2004
+230    sample 3601                 Indonesia 1971
+231    sample 3602                 Indonesia 1976
+232    sample 3603                 Indonesia 1980
+233    sample 3604                 Indonesia 1985
+234    sample 3605                 Indonesia 1990
+235    sample 3606                 Indonesia 1995
+236    sample 3607                 Indonesia 2000
+237    sample 3608                 Indonesia 2005
+238    sample 3609                 Indonesia 2010
+239    sample 3641                      Iran 2006
+240    sample 3681                      Iraq 1997
+241    sample 3721                   Ireland 1971
+242    sample 3722                   Ireland 1979
+243    sample 3723                   Ireland 1981
+244    sample 3724                   Ireland 1986
+245    sample 3725                   Ireland 1991
+246    sample 3726                   Ireland 1996
+247    sample 3727                   Ireland 2002
+248    sample 3728                   Ireland 2006
+249    sample 3729                   Ireland 2011
+250    sample 3761                    Israel 1972
+251    sample 3762                    Israel 1983
+252    sample 3763                    Israel 1995
+253    sample 3801                     Italy 2001
+254    sample 3881                   Jamaica 1982
+255    sample 3882                   Jamaica 1991
+256    sample 3883                   Jamaica 2001
+257    sample 4001                    Jordan 2004
+258    sample 4041                     Kenya 1969
+259    sample 4042                     Kenya 1979
+260    sample 4043                     Kenya 1989
+261    sample 4044                     Kenya 1999
+262    sample 4045                     Kenya 2009
+263    sample 4171           Kyrgyz Republic 1999
+264    sample 4172           Kyrgyz Republic 2009
+265    sample 4301                   Liberia 1974
+266    sample 4302                   Liberia 2008
+267    sample 4541                    Malawi 1987
+268    sample 4542                    Malawi 1998
+269    sample 4543                    Malawi 2008
+270    sample 4581                  Malaysia 1970
+271    sample 4582                  Malaysia 1980
+272    sample 4583                  Malaysia 1991
+273    sample 4584                  Malaysia 2000
+274    sample 4661                      Mali 1987
+275    sample 4662                      Mali 1998
+276    sample 4663                      Mali 2009
+277    sample 4841                    Mexico 1960
+278    sample 4842                    Mexico 1970
+279    sample 4843                    Mexico 1990
+280    sample 4844                    Mexico 1995
+281    sample 4845                    Mexico 2000
+282    sample 4846                    Mexico 2005
+283    sample 4847                    Mexico 2010
+284    sample 4961                  Mongolia 1989
+285    sample 4962                  Mongolia 2000
+286    sample 5041                   Morocco 1982
+287    sample 5042                   Morocco 1994
+288    sample 5043                   Morocco 2004
+289    sample 5241                     Nepal 2001
+290    sample 5281               Netherlands 1960
+291    sample 5282               Netherlands 1971
+292    sample 5283               Netherlands 2001
+293    sample 5581                 Nicaragua 1971
+294    sample 5582                 Nicaragua 1995
+295    sample 5583                 Nicaragua 2005
+296    sample 5661                   Nigeria 2006
+297    sample 5662                   Nigeria 2007
+298    sample 5663                   Nigeria 2008
+299    sample 5664                   Nigeria 2009
+300    sample 5665                   Nigeria 2010
+301    sample 5861                  Pakistan 1973
+302    sample 5862                  Pakistan 1981
+303    sample 5863                  Pakistan 1998
+304    sample 2751                 Palestine 1997
+305    sample 2752                 Palestine 2007
+306    sample 5911                    Panama 1960
+307    sample 5912                    Panama 1970
+308    sample 5913                    Panama 1980
+309    sample 5914                    Panama 1990
+310    sample 5915                    Panama 2000
+311    sample 5916                    Panama 2010
+312    sample 6041                      Peru 1993
+313    sample 6042                      Peru 2007
+314    sample 6081               Philippines 1990
+315    sample 6082               Philippines 1995
+316    sample 6083               Philippines 2000
+317    sample 6201                  Portugal 1981
+318    sample 6202                  Portugal 1991
+319    sample 6203                  Portugal 2001
+320    sample 6301               Puerto Rico 1970
+321    sample 6302               Puerto Rico 1980
+322    sample 6303               Puerto Rico 1990
+323    sample 6304               Puerto Rico 2000
+324    sample 6305               Puerto Rico 2005
+325    sample 6421                   Romania 1977
+326    sample 6422                   Romania 1992
+327    sample 6423                   Romania 2002
+328    sample 6461                    Rwanda 1991
+329    sample 6462                    Rwanda 2002
+330    sample 6621               Saint Lucia 1980
+331    sample 6622               Saint Lucia 1991
+332    sample 6861                   Senegal 1988
+333    sample 6862                   Senegal 2002
+334    sample 6941              Sierra Leone 2004
+335    sample 7051                  Slovenia 2002
+336    sample 7101              South Africa 1996
+337    sample 7102              South Africa 2001
+338    sample 7103              South Africa 2007
+339    sample 7241                     Spain 1981
+340    sample 7242                     Spain 1991
+341    sample 7243                     Spain 2001
+342    sample 7281               South Sudan 2008
+343    sample 7291                     Sudan 2008
+344    sample 7561               Switzerland 1970
+345    sample 7562               Switzerland 1980
+346    sample 7563               Switzerland 1990
+347    sample 7564               Switzerland 2000
+348    sample 8341                  Tanzania 1988
+349    sample 8342                  Tanzania 2002
+350    sample 7641                  Thailand 1970
+351    sample 7642                  Thailand 1980
+352    sample 7643                  Thailand 1990
+353    sample 7644                  Thailand 2000
+354    sample 7921                    Turkey 1985
+355    sample 7922                    Turkey 1990
+356    sample 7923                    Turkey 2000
+357    sample 8001                    Uganda 1991
+358    sample 8002                    Uganda 2002
+359    sample 8041                   Ukraine 2001
+360    sample 8261            United Kingdom 1991
+361    sample 8262            United Kingdom 2001
+362    sample 8401             United States 1960
+363    sample 8402             United States 1970
+364    sample 8403             United States 1980
+365    sample 8404             United States 1990
+366    sample 8405             United States 2000
+367    sample 8406             United States 2005
+368    sample 8407             United States 2010
+369    sample 8581                   Uruguay 1963
+370    sample 8582                   Uruguay 1975
+371    sample 8583                   Uruguay 1985
+372    sample 8584                   Uruguay 1996
+373    sample 8585                   Uruguay 2006
+374    sample 8586                   Uruguay 2011
+375    sample 8621                 Venezuela 1971
+376    sample 8622                 Venezuela 1981
+377    sample 8623                 Venezuela 1990
+378    sample 8624                 Venezuela 2001
+379    sample 7041                   Vietnam 1989
+380    sample 7042                   Vietnam 1999
+381    sample 7043                   Vietnam 2009
+382    sample 8941                    Zambia 1990
+383    sample 8942                    Zambia 2000
+384    sample 8943                    Zambia 2010
+385      pern    1                              1
+386      pern    2                              2
+387      pern    3                              3
+388      pern    4                              4
+389      pern    5                              5
+390      pern    6                              6
+391      pern    7                              7
+392      pern    8                              8
+393      pern    9                              9
+394      pern   10                             10
+395      pern   11                             11
+396      pern   12                             12
+397      pern   13                             13
+398      pern   14                             14
+399      pern   15                             15
+400      pern   16                             16
+401      pern   17                             17
+402      pern   18                             18
+403      pern   19                             19
+404      pern   20                             20
+405      pern   21                             21
+406      pern   22                             22
+407      pern   23                             23
+408      pern   24                             24
+409      pern   25                             25
+410      pern   26                             26
+411      pern   27                             27
+412      pern   28                             28
+413      pern   29                             29
+414      pern   30                             30
+415      fbig    0                     No problem
+416      fbig    1 Yes: households within a large
+417      fbig    2 Yes: persons within a large ho
+418      prov   11       Nanggroe Aceh Darussalam
+419      prov   12                 Sumatera Utara
+420      prov   13                 Sumatera Barat
+421      prov   14                           Riau
+422      prov   15                          Jambi
+423      prov   16               Sumatera Selatan
+424      prov   17                       Bengkulu
+425      prov   18                        Lampung
+426      prov   19                Bangka Belitung
+427      prov   21                 Kepulauan Riau
+428      prov   31                    DKI Jakarta
+429      prov   32                     Jawa Barat
+430      prov   33                    Jawa Tengah
+431      prov   34                  DI Yogyakarta
+432      prov   35                     Jawa Timur
+433      prov   36                         Banten
+434      prov   51                           Bali
+435      prov   52            Nusa Tenggara Barat
+436      prov   53            Nusa Tenggara Timur
+437      prov   61               Kalimantan Barat
+438      prov   62              Kalimantan Tengah
+439      prov   63             Kalimantan Selatan
+440      prov   64               Kalimantan Timur
+441      prov   71                 Sulawesi Utara
+442      prov   72                Sulawesi Tengah
+443      prov   73               Sulawesi Selatan
+444      prov   74              Sulawesi Tenggara
+445      prov   75                      Gorontalo
+446      prov   76                 Sulawesi Barat
+447      prov   81                         Maluku
+448      prov   82                   Maluku Utara
+449      prov   91                    Papua Barat
+450      prov   94                          Papua
+451      dist 1101                       Simeulue
+452      dist 1102                   Aceh Singkil
+453      dist 1103                   Aceh Selatan
+454      dist 1104                  Aceh Tenggara
+455      dist 1105                     Aceh Timur
+456      dist 1106                    Aceh Tengah
+457      dist 1107                     Aceh Barat
+458      dist 1108                     Aceh Besar
+459      dist 1109                          Pidie
+460      dist 1110                        Bireuen
+461      dist 1111                     Aceh Utara
+462      dist 1112                Aceh Barat Daya
+463      dist 1113                      Gayo Lues
+464      dist 1114                   Aceh Tamiang
+465      dist 1115                     Nagan Raya
+466      dist 1116                      Aceh Jaya
+467      dist 1117                   Bener Meriah
+468      dist 1118                     Pidie Jaya
+469      dist 1171                Kota Banda Aceh
+470      dist 1172                    Kota Sabang
+471      dist 1173                    Kota Langsa
+472      dist 1174                Kota Lhoksumawe
+473      dist 1175                   Subulussalam
+474      dist 1201                           Nias
+475      dist 1202               Mandailing Natal
+476      dist 1203               Tapanuli Selatan
+477      dist 1204                Tapanuli Tengah
+478      dist 1205                 Tapanuli Utara
+479      dist 1206                   Toba Samosir
+480      dist 1207                   Labuhan Batu
+481      dist 1208                         Asahan
+482      dist 1209                     Simalungun
+483      dist 1210                          Dairi
+484      dist 1211                           Karo
+485      dist 1212                   Deli Serdang
+486      dist 1213                        Langkat
+487      dist 1214                   Nias Selatan
+488      dist 1215             Humbang Hasundutan
+489      dist 1216                   Papak Bharat
+490      dist 1217                        Samosir
+491      dist 1218                Serdang Bedagai
+492      dist 1219                      Batu Bara
+493      dist 1220             Padang Lawas Utara
+494      dist 1221                   Padang Lawas
+495      dist 1222           Labuhan Batu Selatan
+496      dist 1223             Labuhan Batu Utara
+497      dist 1224                     Nias Utara
+498      dist 1225                     Nias Barat
+499      dist 1271                   Kota Sibolga
+500      dist 1272                  Tanjung Balai
+501      dist 1273          Kota Pematang Siantar
+502      dist 1274             Kota Tebing Tinggi
+503      dist 1275                          Medan
+504      dist 1276                    Kota Binjai
+505      dist 1277          Kota Padang Sidempuan
+506      dist 1278              Kota Gunungsitoli
+507      dist 1301             Kepulauan Mentawai
+508      dist 1302                Pesisir Selatan
+509      dist 1303                          Solok
+510      dist 1304           Sawahlunto/Sijunjung
+511      dist 1305                    Tanah Datar
+512      dist 1306                Padang Pariaman
+513      dist 1307                           Agam
+514      dist 1308                Lima Puluh Koto
+515      dist 1309                        Pasaman
+516      dist 1310                  Solok Selatan
+517      dist 1311                    Dharmasraya
+518      dist 1312                  Pasaman Barat
+519      dist 1371                    Kota Padang
+520      dist 1372                     Kota Solok
+521      dist 1373               Kota Sawah Lunto
+522      dist 1374            Kota Padang Panjang
+523      dist 1375               Kota Bukittinggi
+524      dist 1376                Kota Payakumbuh
+525      dist 1377                  Kota Pariaman
+526      dist 1401               Kuantan Singingi
+527      dist 1402                 Indragiri Hulu
+528      dist 1403                Indragiri Hilir
+529      dist 1404                      Pelalawan
+530      dist 1405                           Siak
+531      dist 1406                         Kampar
+532      dist 1407                     Rokan Hulu
+533      dist 1408                      Bengkalis
+534      dist 1409                    Rokan Hilir
+535      dist 1410              Kepulauan Meranti
+536      dist 1471                     Pekan Baru
+537      dist 1473                          Dumai
+538      dist 1501                        Kerinci
+539      dist 1502                       Merangin
+540      dist 1503                     Sarolangun
+541      dist 1504                     Batanghari
+542      dist 1505                    Muaro Jambi
+543      dist 1506           Tanjung Jabung Timur
+544      dist 1507           Tanjung Jabung Barat
+545      dist 1508                           Tebo
+546      dist 1509                          Bungo
+547      dist 1571                          Jambi
+548      dist 1572              Kota Sungai Penuh
+549      dist 1601                            Oku
+550      dist 1602                            Oki
+551      dist 1603                     Muara Enim
+552      dist 1604                          Lahat
+553      dist 1605                     Musi Rawas
+554      dist 1606                Musi Banyu Asin
+555      dist 1607                     Banyu Asin
+556      dist 1608                    Oku Selatan
+557      dist 1609                      Oku Timur
+558      dist 1610                      Ogan Ilir
+559      dist 1611                   Empat Lawang
+560      dist 1671                      Palembang
+561      dist 1672                     Prabumulih
+562      dist 1673                     Pagar Alam
+563      dist 1674                   Lubuk Lingga
+564      dist 1701               Bengkulu Selatan
+565      dist 1702                  Rejang Lebong
+566      dist 1703                 Bengkulu Utara
+567      dist 1704                           Kaur
+568      dist 1705                         Seluma
+569      dist 1706                       Mukomuko
+570      dist 1707                         Lebong
+571      dist 1708                       Kepahing
+572      dist 1709                Bengkulu Tengah
+573      dist 1771                       Bengkulu
+574      dist 1801                  Lampung Barat
+575      dist 1802                      Tanggamus
+576      dist 1803                Lampung Selatan
+577      dist 1804                  Lampung Timur
+578      dist 1805                 Lampung Tengah
+579      dist 1806                  Lampung Utara
+580      dist 1807                      Way Kanan
+581      dist 1808                  Tulang Bawang
+582      dist 1809                      Pesawaran
+583      dist 1810                      Pringsewu
+584      dist 1811                         Mesuji
+585      dist 1812             Tulangbawang Barat
+586      dist 1871                 Bandar Lampung
+587      dist 1872                          Metro
+588      dist 1901                         Bangka
+589      dist 1902                       Belitung
+590      dist 1903                   Bangka Barat
+591      dist 1904                  Bangka Tengah
+592      dist 1905                 Bangka Selatan
+593      dist 1906                 Belitung Timur
+594      dist 1971                 Pangkal Pinang
+595      dist 2101                        Karimun
+596      dist 2102                 Kepulauan Riau
+597      dist 2103                         Natuna
+598      dist 2104                         Lingga
+599      dist 2105              Kepulauan Anambas
+600      dist 2171                          Batam
+601      dist 2172                 Tanjung Pinang
+602      dist 3101               Kepulauan Seribu
+603      dist 3171                Jakarta Selatan
+604      dist 3172                  Jakarta Timur
+605      dist 3173                  Jakarta Pusat
+606      dist 3174                  Jakarta Barat
+607      dist 3175                  Jakarta Utara
+608      dist 3201                          Bogor
+609      dist 3202                       Sukabumi
+610      dist 3203                        Cianjur
+611      dist 3204                        Bandung
+612      dist 3205                          Garut
+613      dist 3206                    Tasikmalaya
+614      dist 3207                         Ciamis
+615      dist 3208                       Kuningan
+616      dist 3209                        Cirebon
+617      dist 3210                     Majalengka
+618      dist 3211                       Sumedang
+619      dist 3212                      Indramayu
+620      dist 3213                         Subang
+621      dist 3214                     Purwakarta
+622      dist 3215                       Karawang
+623      dist 3216                         Bekasi
+624      dist 3217                  Bandung Barat
+625      dist 3271                          Bogor
+626      dist 3272                       Sukabumi
+627      dist 3273                        Bandung
+628      dist 3274                        Cirebon
+629      dist 3275                         Bekasi
+630      dist 3276                          Depok
+631      dist 3277                         Cimahi
+632      dist 3278                    Tasikmalaya
+633      dist 3279                         Banjar
+634      dist 3301                        Cilacap
+635      dist 3302                       Banyumas
+636      dist 3303                    Purbalingga
+637      dist 3304                   Banjarnegara
+638      dist 3305                        Kebumen
+639      dist 3306                      Purworejo
+640      dist 3307                       Wonosobo
+641      dist 3308                       Magelang
+642      dist 3309                       Boyolali
+643      dist 3310                         Klaten
+644      dist 3311                      Sukoharjo
+645      dist 3312                       Wonogiri
+646      dist 3313                    Karanganyar
+647      dist 3314                         Sragen
+648      dist 3315                       Grobogan
+649      dist 3316                          Blora
+650      dist 3317                        Rembang
+651      dist 3318                           Pati
+652      dist 3319                          Kudus
+653      dist 3320                         Jepara
+654      dist 3321                          Demak
+655      dist 3322                       Semarang
+656      dist 3323                     Temanggung
+657      dist 3324                         Kendal
+658      dist 3325                         Batang
+659      dist 3326                     Pekalongan
+660      dist 3327                       Pemalang
+661      dist 3328                          Tegal
+662      dist 3329                         Brebes
+663      dist 3371                       Magelang
+664      dist 3372                      Surakarta
+665      dist 3373                       Salatiga
+666      dist 3374                       Semarang
+667      dist 3375                     Pekalongan
+668      dist 3376                          Tegal
+669      dist 3401                    Kulon Progo
+670      dist 3402                         Bantul
+671      dist 3403                   Gunung Kidul
+672      dist 3404                         Sleman
+673      dist 3471                     Yogyakarta
+674      dist 3501                        Pacitan
+675      dist 3502                       Ponorogo
+676      dist 3503                     Trenggalek
+677      dist 3504                    Tulungagung
+678      dist 3505                    Kab. Blitar
+679      dist 3506                    Kab. Kediri
+680      dist 3507                    Kab. Malang
+681      dist 3508                       Lumajang
+682      dist 3509                         Jember
+683      dist 3510                     Banyuwangi
+684      dist 3511                      Bondowoso
+685      dist 3512                      Situbondo
+686      dist 3513               Kab. Probolinggo
+687      dist 3514                  Kab. Pasuruan
+688      dist 3515                       Sidoarjo
+689      dist 3516                 Kab. Mojokerto
+690      dist 3517                        Jombang
+691      dist 3518                        Nganjuk
+692      dist 3519                    Kab. Madiun
+693      dist 3520                        Magetan
+694      dist 3521                          Ngawi
+695      dist 3522                     Bojonegoro
+696      dist 3523                          Tuban
+697      dist 3524                       Lamongan
+698      dist 3525                         Gresik
+699      dist 3526                      Bangkalan
+700      dist 3527                        Sampang
+701      dist 3528                      Pamekasan
+702      dist 3529                        Sumenep
+703      dist 3571                    Kota Kediri
+704      dist 3572                    Kota Blitar
+705      dist 3573                    Kota Malang
+706      dist 3574               Kota Probolinggo
+707      dist 3575                  Kota Pasuruan
+708      dist 3576                 Kota Mojokerto
+709      dist 3577                    Kota Madiun
+710      dist 3578                       Surabaya
+711      dist 3579                           Batu
+712      dist 3601                     Pandeglang
+713      dist 3602                          Lebak
+714      dist 3603                      Tangerang
+715      dist 3604                         Serang
+716      dist 3671                      Tangerang
+717      dist 3672                        Cilegon
+718      dist 3673                         Serang
+719      dist 3674         Kota Tangerang Selatan
+720      dist 5101                       Jembrana
+721      dist 5102                        Tabanan
+722      dist 5103                         Badung
+723      dist 5104                        Gianyar
+724      dist 5105                      Klungkung
+725      dist 5106                         Bangli
+726      dist 5107                     Karangasem
+727      dist 5108                       Buleleng
+728      dist 5171                       Denpasar
+729      dist 5201                   Lombok Barat
+730      dist 5202                  Lombok Tengah
+731      dist 5203                   Lombok Timur
+732      dist 5204                        Sumbawa
+733      dist 5205                          Dompu
+734      dist 5206                           Bima
+735      dist 5207                  Sumbawa Barat
+736      dist 5208                   Lombok Utara
+737      dist 5271                        Mataram
+738      dist 5272                           Bima
+739      dist 5301                    Sumba Barat
+740      dist 5302                    Sumba Timur
+741      dist 5303                         Kupang
+742      dist 5304           Timor Tengah Selatan
+743      dist 5305             Timor Tengah Utara
+744      dist 5306                           Belu
+745      dist 5307                           Alor
+746      dist 5308                        Lembata
+747      dist 5309                   Flores Timur
+748      dist 5310                          Sikka
+749      dist 5311                           Ende
+750      dist 5312                          Ngada
+751      dist 5313                      Manggarai
+752      dist 5314                      Rote Ndao
+753      dist 5315                Manggarai Barat
+754      dist 5316                   Sumba Tengah
+755      dist 5317               Sumba Barat Daya
+756      dist 5318                        Nagekeo
+757      dist 5319                Manggarai Timur
+758      dist 5320                    Sabu Raijua
+759      dist 5371                         Kupang
+760      dist 6101                         Sambas
+761      dist 6102                     Bengkayang
+762      dist 6103                         Landak
+763      dist 6104                      Pontianak
+764      dist 6105                        Sanggau
+765      dist 6106                       Ketapang
+766      dist 6107                        Sintang
+767      dist 6108                    Kapuas Hulu
+768      dist 6109                        Sekadau
+769      dist 6110                        Melawai
+770      dist 6111                   Kayong Utara
+771      dist 6112                      Kubu Raya
+772      dist 6171                      Pontianak
+773      dist 6172                     Singkawang
+774      dist 6201             Kotawaringin Barat
+775      dist 6202             Kotawaringin Timur
+776      dist 6203                         Kapuas
+777      dist 6204                 Barito Selatan
+778      dist 6205                   Barito Utara
+779      dist 6206                       Sukamara
+780      dist 6207                       Lamandau
+781      dist 6208                        Seruyan
+782      dist 6209                       Katingan
+783      dist 6210                   Pulang Pisau
+784      dist 6211                     Gunung Mas
+785      dist 6212                   Barito Timur
+786      dist 6213                    Murung Raya
+787      dist 6271                  Palangka Raya
+788      dist 6301                     Tanah Laut
+789      dist 6302                       Kotabaru
+790      dist 6303                         Banjar
+791      dist 6304                   Barito Kuala
+792      dist 6305                          Tapin
+793      dist 6306            Hulu Sungai Selatan
+794      dist 6307             Hulu Sungai Tengah
+795      dist 6308              Hulu Sungai Utara
+796      dist 6309                       Tabalong
+797      dist 6310                    Tanah Bumbu
+798      dist 6311                       Balangan
+799      dist 6371                    Banjarmasin
+800      dist 6372                     Banjarbaru
+801      dist 6401                          Pasir
+802      dist 6402                    Kutai Barat
+803      dist 6403              Kutai Kartanegara
+804      dist 6404                    Kutai Timur
+805      dist 6405                          Berau
+806      dist 6406                        Malinau
+807      dist 6407                       Bulongan
+808      dist 6408                        Nunukan
+809      dist 6409            Penajam Paser Utara
+810      dist 6471                     Balikpapan
+811      dist 6472                      Samarinda
+812      dist 6473        Tarakan and Tana Tidung
+813      dist 6474                        Bontang
+814      dist 7101              Bolaang Mongondow
+815      dist 7102                       Minahasa
+816      dist 7103              Kepulauan Sangihe
+817      dist 7104               Kepualuan Talaud
+818      dist 7105               Minahasa Selatan
+819      dist 7106                 Minahasa Utara
+820      dist 7107        Bolaang Mongondow Utara
+821      dist 7108         Siau Tagulandang Biaro
+822      dist 7109              Minahasa Tenggara
+823      dist 7110      Bolaang Mongondow Selatan
+824      dist 7111        Bolaang Mongondow Timur
+825      dist 7171                         Manado
+826      dist 7172                         Bitung
+827      dist 7173                        Tomohon
+828      dist 7174                     Kotamobagu
+829      dist 7201              Banggai Kepulauan
+830      dist 7202                        Banggai
+831      dist 7203                       Morowali
+832      dist 7204                           Poso
+833      dist 7205                       Donggala
+834      dist 7206                      Toli-Toli
+835      dist 7207                           Buol
+836      dist 7208                 Parigi Moutong
+837      dist 7209                   Tojo Una-Una
+838      dist 7210                           Sigi
+839      dist 7271                           Palu
+840      dist 7301                        Selayar
+841      dist 7302                      Bulukumba
+842      dist 7303                       Bantaeng
+843      dist 7304                      Jeneponto
+844      dist 7305                        Takalar
+845      dist 7306                           Gowa
+846      dist 7307                         Sinjai
+847      dist 7308                          Maros
+848      dist 7309           Pangkajene Kepulauan
+849      dist 7310                          Barru
+850      dist 7311                           Bone
+851      dist 7312                        Soppeng
+852      dist 7313                           Wajo
+853      dist 7314              Sidenreng Rappang
+854      dist 7315                        Pinrang
+855      dist 7316                       Enrekang
+856      dist 7317                           Luwu
+857      dist 7318                    Tana Toraja
+858      dist 7322                     Luwu Utara
+859      dist 7325                     Luwu Timur
+860      dist 7326                   Toraja Utara
+861      dist 7371                  Ujung Pandang
+862      dist 7372                      Pare-Pare
+863      dist 7373                         Palopo
+864      dist 7401                          Buton
+865      dist 7402                           Muna
+866      dist 7403                         Konawe
+867      dist 7404                         Kolaka
+868      dist 7405                 Konawe Selatan
+869      dist 7406                        Bombana
+870      dist 7407                       Wakatobi
+871      dist 7408                   Kolaka Utara
+872      dist 7409                    Buton Utara
+873      dist 7410                   Konawe Utara
+874      dist 7471                        Kendari
+875      dist 7472                        Bau Bau
+876      dist 7501                        Boalemo
+877      dist 7502                      Gorontalo
+878      dist 7503                       Pohuwato
+879      dist 7504                   Bone Bolango
+880      dist 7505                Gorontalo Utara
+881      dist 7571                 Kota Gorontalo
+882      dist 7601                         Majene
+883      dist 7602                Polewali Mandar
+884      dist 7603                         Mamasa
+885      dist 7604                         Mamuju
+886      dist 7605                   Mamuju Utara
+887      dist 8101          Maluku Tenggara Barat
+888      dist 8102                Maluku Tenggara
+889      dist 8103                  Maluku Tengah
+890      dist 8104                           Buru
+891      dist 8105                  Kepulauan Aru
+892      dist 8106             Seram Bagian Barat
+893      dist 8107             Seram Bagian Timur
+894      dist 8108              Maluku Barat Daya
+895      dist 8109                   Buru Selatan
+896      dist 8171                          Ambon
+897      dist 8172                           Tual
+898      dist 8201                Halmahera Barat
+899      dist 8202               Halmahera Tengah
+900      dist 8203                 Kepulauan Sula
+901      dist 8204              Halmahera Selatan
+902      dist 8205                Halmahera Utara
+903      dist 8206                Halmahera Timur
+904      dist 8207                  Pulau Morotai
+905      dist 8271                        Ternate
+906      dist 8272               Tidore Kepulauan
+907      dist 9101                        Merauke
+908      dist 9102                     Jayawijaya
+909      dist 9103             Jayapura (regency)
+910      dist 9104                         Nabire
+911      dist 9108                  Yapen Waropen
+912      dist 9109                    Biak Numfor
+913      dist 9110                         Paniai
+914      dist 9111                    Puncak Jaya
+915      dist 9112                         Mimika
+916      dist 9113                   Boven Digoel
+917      dist 9114                          Mappi
+918      dist 9115                          Asmat
+919      dist 9116                       Yahukimo
+920      dist 9117             Pegunungan Bintang
+921      dist 9118                       Tolikara
+922      dist 9119                          Sarmi
+923      dist 9120                         Keerom
+924      dist 9126                        Waropen
+925      dist 9127     Supiori and Mamberamo Raya
+926      dist 9129                          Nduga
+927      dist 9130                     Lanny Jaya
+928      dist 9131               Mamberano Tengah
+929      dist 9132                         Yalimo
+930      dist 9133                         Puncak
+931      dist 9134                        Dogiyai
+932      dist 9135                     Intan Jaya
+933      dist 9136                         Deiyai
+934      dist 9171        Jayapura (municipality)
+935      dist 9401                         Fakfak
+936      dist 9402                        Kaimana
+937      dist 9403                  Teluk Wondama
+938      dist 9404                  Teluk Bintuni
+939      dist 9405                      Manokwari
+940      dist 9406                 Sorong Selatan
+941      dist 9407            Sorong and Tambrauw
+942      dist 9408                     Raja Ampat
+943      dist 9410                        Maybrat
+944      dist 9471                         Sorong
+945     urban    1                          Urban
+946     urban    2                          Rural
+947   hhdeath    1                            Yes
+948   hhdeath    2                             No
+949   hhdeath    9                            NIU
+950  deathtot    0                              0
+951  deathtot    1                              1
+952  deathtot    2                              2
+953  deathtot    3                             3+
+954  deathtot    8                        Unknown
+955  deathtot    9                            NIU
+956     floor    1                  Ceramic tiles
+957     floor    2                          Tiles
+958     floor    3                Cement or brick
+959     floor    4                  Wood or board
+960     floor    5                         Bamboo
+961     floor    6                           Dirt
+962     floor    7                          Other
+963     floor    9                            NIU
+964      area 9998                        Unknown
+965      area 9999                            NIU
+966     light    1        Electricity, with meter
+967     light    2     Electricity, without meter
+968     light    3 Electricity, not from State El
+969     light    4                 No electricity
+970     light    9                            NIU
+971  fuelcook    1                    Electricity
+972  fuelcook    2                            Gas
+973  fuelcook    3                       Kerosene
+974  fuelcook    4                       Charcoal
+975  fuelcook    5                           Wood
+976  fuelcook    6                          Other
+977  fuelcook    7                           None
+978  fuelcook    9                            NIU
+979  watdrink    1                  Bottled water
+980  watdrink    2    In-house piped water system
+981  watdrink    3     Piped water through retail
+982  watdrink    4                  In-house pump
+983  watdrink    5                   Covered well
+984  watdrink    6            Open uncovered well
+985  watdrink    7               Protected spring
+986  watdrink    8             Unprotected spring
+987  watdrink    9                          River
+988  watdrink   10                     Rain water
+989  watdrink   11                          Other
+990  watdrink   99                            NIU
+991    toilet    1                 Private toilet
+992    toilet    2                  Shared toilet
+993    toilet    3                  Public toilet
+994    toilet    4             No toilet facility
+995    toilet    9                            NIU
+996    septic    1               With septic tank
+997    septic    2            Without septic tank
+998    septic    3           No disposal facility
+999    septic    9                            NIU
+1000    phone    1                 Landline phone
+1001    phone    2                 Cellular phone
+1002    phone    3 Both landline and cellular pho
+1003    phone    4                   No telephone
+1004    phone    9                            NIU
+1005 internet    1                            Yes
+1006 internet    2                             No
+1007 internet    9                            NIU
+1008   tenure    1                          Owned
+1009   tenure    2                         Rented
+1010   tenure    3                         Leased
+1011   tenure    4                          Other
+1012   tenure    9                            NIU
+1013  ownrshp    1                            Yes
+1014  ownrshp    2                             No
+1015  ownrshp    9                            NIU
+1016 ownproof    1 Ownership certificate (SHM) be
+1017 ownproof    2 Ownership certificate (SHM) no
+1018 ownproof    3 Other certificate (SHGB, SHP, 
+1019 ownproof    4 Others (Girik, Akte Jual Beli 
+1020 ownproof    9                            NIU
+1021  doctype    1 C1 (Households in <regular> en
+1022  doctype    2 C2 General (Special/remote isl
+1023  doctype    3 C2 Apartment (Special, remote 
+1024  doctype    4 L2 (Non-permanent residences i
+1025  doctype    5  Other non-household dwellings
+1026  doctype    6                    C2 Diplomat
+1027   pernum    0               Household record
+1028   pernum    1                              1
+1029   pernum    2                              2
+1030   pernum    3                              3
+1031   pernum    4                              4
+1032   pernum    5                              5
+1033   pernum    6                              6
+1034   pernum    7                              7
+1035   pernum    8                              8
+1036   pernum    9                              9
+1037   pernum   10                             10
+1038   pernum   11                             11
+1039   pernum   12                             12
+1040   pernum   13                             13
+1041   pernum   14                             14
+1042   pernum   15                             15
+1043   pernum   16                             16
+1044   pernum   17                             17
+1045   pernum   18                             18
+1046   pernum   19                             19
+1047   pernum   20                             20
+1048   pernum   21                             21
+1049   pernum   22                             22
+1050   pernum   23                             23
+1051   pernum   24                             24
+1052   pernum   25                             25
+1053   pernum   26                             26
+1054   pernum   27                             27
+1055   pernum   28                             28
+1056   pernum   29                             29
+1057   pernum   30                             30
+1058   relate    1                           Head
+1059   relate    2                         Spouse
+1060   relate    3                      Own child
+1061   relate    4             Adopted/step child
+1062   relate    5            Son/daughter-in-law
+1063   relate    6                     Grandchild
+1064   relate    7           Parent/parent-in-law
+1065   relate    8                 Other relative
+1066   relate    9          Household worker/maid
+1067   relate   10             Other non-relative
+1068   relate   99 Homeless, refugees, other non-
+1069      sex    1                           Male
+1070      sex    2                         Female
+1071  birthmo    1                        January
+1072  birthmo    2                       February
+1073  birthmo    3                          March
+1074  birthmo    4                          April
+1075  birthmo    5                            May
+1076  birthmo    6                           June
+1077  birthmo    7                           July
+1078  birthmo    8                         August
+1079  birthmo    9                      September
+1080  birthmo   10                        October
+1081  birthmo   11                       November
+1082  birthmo   12                       December
+1083  birthmo   99                            NIU
+1084  birthyr 1912                 1912 or before
+1085  birthyr 1913                           1913
+1086  birthyr 1914                           1914
+1087  birthyr 1915                           1915
+1088  birthyr 1916                           1916
+1089  birthyr 1917                           1917
+1090  birthyr 1918                           1918
+1091  birthyr 1919                           1919
+1092  birthyr 1920                           1920
+1093  birthyr 1921                           1921
+1094  birthyr 1922                           1922
+1095  birthyr 1923                           1923
+1096  birthyr 1924                           1924
+1097  birthyr 1925                           1925
+1098  birthyr 1926                           1926
+1099  birthyr 1927                           1927
+1100  birthyr 1928                           1928
+1101  birthyr 1929                           1929
+1102  birthyr 1930                           1930
+1103  birthyr 1931                           1931
+1104  birthyr 1932                           1932
+1105  birthyr 1933                           1933
+1106  birthyr 1934                           1934
+1107  birthyr 1935                           1935
+1108  birthyr 1936                           1936
+1109  birthyr 1937                           1937
+1110  birthyr 1938                           1938
+1111  birthyr 1939                           1939
+1112  birthyr 1940                           1940
+1113  birthyr 1941                           1941
+1114  birthyr 1942                           1942
+1115  birthyr 1943                           1943
+1116  birthyr 1944                           1944
+1117  birthyr 1945                           1945
+1118  birthyr 1946                           1946
+1119  birthyr 1947                           1947
+1120  birthyr 1948                           1948
+1121  birthyr 1949                           1949
+1122  birthyr 1950                           1950
+1123  birthyr 1951                           1951
+1124  birthyr 1952                           1952
+1125  birthyr 1953                           1953
+1126  birthyr 1954                           1954
+1127  birthyr 1955                           1955
+1128  birthyr 1956                           1956
+1129  birthyr 1957                           1957
+1130  birthyr 1958                           1958
+1131  birthyr 1959                           1959
+1132  birthyr 1960                           1960
+1133  birthyr 1961                           1961
+1134  birthyr 1962                           1962
+1135  birthyr 1963                           1963
+1136  birthyr 1964                           1964
+1137  birthyr 1965                           1965
+1138  birthyr 1966                           1966
+1139  birthyr 1967                           1967
+1140  birthyr 1968                           1968
+1141  birthyr 1969                           1969
+1142  birthyr 1970                           1970
+1143  birthyr 1971                           1971
+1144  birthyr 1972                           1972
+1145  birthyr 1973                           1973
+1146  birthyr 1974                           1974
+1147  birthyr 1975                           1975
+1148  birthyr 1976                           1976
+1149  birthyr 1977                           1977
+1150  birthyr 1978                           1978
+1151  birthyr 1979                           1979
+1152  birthyr 1980                           1980
+1153  birthyr 1981                           1981
+1154  birthyr 1982                           1982
+1155  birthyr 1983                           1983
+1156  birthyr 1984                           1984
+1157  birthyr 1985                           1985
+1158  birthyr 1986                           1986
+1159  birthyr 1987                           1987
+1160  birthyr 1988                           1988
+1161  birthyr 1989                           1989
+1162  birthyr 1990                           1990
+1163  birthyr 1991                           1991
+1164  birthyr 1992                           1992
+1165  birthyr 1993                           1993
+1166  birthyr 1994                           1994
+1167  birthyr 1995                           1995
+1168  birthyr 1996                           1996
+1169  birthyr 1997                           1997
+1170  birthyr 1998                           1998
+1171  birthyr 1999                           1999
+1172  birthyr 2000                           2000
+1173  birthyr 2001                           2001
+1174  birthyr 2002                           2002
+1175  birthyr 2003                           2003
+1176  birthyr 2004                           2004
+1177  birthyr 2005                           2005
+1178  birthyr 2006                           2006
+1179  birthyr 2007                           2007
+1180  birthyr 2008                           2008
+1181  birthyr 2009                           2009
+1182  birthyr 2010                           2010
+1183      age    0                              0
+1184      age    1                              1
+1185      age    2                              2
+1186      age    3                              3
+1187      age    4                              4
+1188      age    5                              5
+1189      age    6                              6
+1190      age    7                              7
+1191      age    8                              8
+1192      age    9                              9
+1193      age   10                             10
+1194      age   11                             11
+1195      age   12                             12
+1196      age   13                             13
+1197      age   14                             14
+1198      age   15                             15
+1199      age   16                             16
+1200      age   17                             17
+1201      age   18                             18
+1202      age   19                             19
+1203      age   20                             20
+1204      age   21                             21
+1205      age   22                             22
+1206      age   23                             23
+1207      age   24                             24
+1208      age   25                             25
+1209      age   26                             26
+1210      age   27                             27
+1211      age   28                             28
+1212      age   29                             29
+1213      age   30                             30
+1214      age   31                             31
+1215      age   32                             32
+1216      age   33                             33
+1217      age   34                             34
+1218      age   35                             35
+1219      age   36                             36
+1220      age   37                             37
+1221      age   38                             38
+1222      age   39                             39
+1223      age   40                             40
+1224      age   41                             41
+1225      age   42                             42
+1226      age   43                             43
+1227      age   44                             44
+1228      age   45                             45
+1229      age   46                             46
+1230      age   47                             47
+1231      age   48                             48
+1232      age   49                             49
+1233      age   50                             50
+1234      age   51                             51
+1235      age   52                             52
+1236      age   53                             53
+1237      age   54                             54
+1238      age   55                             55
+1239      age   56                             56
+1240      age   57                             57
+1241      age   58                             58
+1242      age   59                             59
+1243      age   60                             60
+1244      age   61                             61
+1245      age   62                             62
+1246      age   63                             63
+1247      age   64                             64
+1248      age   65                             65
+1249      age   66                             66
+1250      age   67                             67
+1251      age   68                             68
+1252      age   69                             69
+1253      age   70                             70
+1254      age   71                             71
+1255      age   72                             72
+1256      age   73                             73
+1257      age   74                             74
+1258      age   75                             75
+1259      age   76                             76
+1260      age   77                             77
+1261      age   78                             78
+1262      age   79                             79
+1263      age   80                             80
+1264      age   81                             81
+1265      age   82                             82
+1266      age   83                             83
+1267      age   84                             84
+1268      age   85                             85
+1269      age   86                             86
+1270      age   87                             87
+1271      age   88                             88
+1272      age   89                             89
+1273      age   90                             90
+1274      age   91                             91
+1275      age   92                             92
+1276      age   93                             93
+1277      age   94                             94
+1278      age   95                             95
+1279      age   96                             96
+1280      age   97                             97
+1281      age   98                            98+
+1282  bthprov   11       Nanggroe Aceh Darussalam
+1283  bthprov   12                 Sumatera Utara
+1284  bthprov   13                 Sumatera Barat
+1285  bthprov   14                           Riau
+1286  bthprov   15                          Jambi
+1287  bthprov   16               Sumatera Selatan
+1288  bthprov   17                       Bengkulu
+1289  bthprov   18                        Lampung
+1290  bthprov   19                Bangka Belitung
+1291  bthprov   21                 Kepulauan Riau
+1292  bthprov   31                    DKI Jakarta
+1293  bthprov   32                     Jawa Barat
+1294  bthprov   33                    Jawa Tengah
+1295  bthprov   34                  DI Yogyakarta
+1296  bthprov   35                     Jawa Timur
+1297  bthprov   36                         Banten
+1298  bthprov   51                           Bali
+1299  bthprov   52            Nusa Tenggara Barat
+1300  bthprov   53            Nusa Tenggara Timur
+1301  bthprov   61               Kalimantan Barat
+1302  bthprov   62              Kalimantan Tengah
+1303  bthprov   63             Kalimantan Selatan
+1304  bthprov   64               Kalimantan Timur
+1305  bthprov   71                 Sulawesi Utara
+1306  bthprov   72                Sulawesi Tengah
+1307  bthprov   73               Sulawesi Selatan
+1308  bthprov   74              Sulawesi Tenggara
+1309  bthprov   75                      Gorontalo
+1310  bthprov   76                 Sulawesi Barat
+1311  bthprov   81                         Maluku
+1312  bthprov   82                   Maluku Utara
+1313  bthprov   91                    Papua Barat
+1314  bthprov   94                          Papua
+1315  bthprov   98                         Abroad
+1316  bthprov   99                        Unknown
+1317  bthdist 1101                       Simeuleu
+1318  bthdist 1102                   Aceh Singkil
+1319  bthdist 1103                   Aceh Selatan
+1320  bthdist 1104                  Aceh Tenggara
+1321  bthdist 1105                     Aceh Timur
+1322  bthdist 1106                    Aceh Tengah
+1323  bthdist 1107                     Aceh Barat
+1324  bthdist 1108                     Aceh Besar
+1325  bthdist 1109                          Pidie
+1326  bthdist 1110                         Bireun
+1327  bthdist 1111                     Aceh Utara
+1328  bthdist 1112                Aceh Barat Daya
+1329  bthdist 1113                      Gayo Lues
+1330  bthdist 1114                   Aceh Tamiang
+1331  bthdist 1115                     Nagan Raya
+1332  bthdist 1116                      Aceh Jaya
+1333  bthdist 1117                   Bener Meriah
+1334  bthdist 1118                     Pidie Jaya
+1335  bthdist 1171                     Banda Aceh
+1336  bthdist 1172                         Sabang
+1337  bthdist 1173                         Langsa
+1338  bthdist 1174                    Lhokseumawe
+1339  bthdist 1175                   Subulussalam
+1340  bthdist 1201                           Nias
+1341  bthdist 1202               Mandailing Natal
+1342  bthdist 1203               Tapanuli Selatan
+1343  bthdist 1204                Tapanuli Tengah
+1344  bthdist 1205                 Tapanuli Utara
+1345  bthdist 1206                   Toba Samosir
+1346  bthdist 1207                   Labuhan Batu
+1347  bthdist 1208                         Asahan
+1348  bthdist 1209                     Simalungun
+1349  bthdist 1210                          Dairi
+1350  bthdist 1211                           Karo
+1351  bthdist 1212                   Deli Serdang
+1352  bthdist 1213                        Langkat
+1353  bthdist 1214                   Nias Selatan
+1354  bthdist 1215             Humbang Hasundutan
+1355  bthdist 1216                  Pakpak Bharat
+1356  bthdist 1217                        Samosir
+1357  bthdist 1218                Serdang Bedagai
+1358  bthdist 1219                      Batu Bara
+1359  bthdist 1220             Padang Lawas Utara
+1360  bthdist 1221                   Padang Lawas
+1361  bthdist 1222           Labuhan Batu Selatan
+1362  bthdist 1223             Labuhan Batu Utara
+1363  bthdist 1224                     Nias Utara
+1364  bthdist 1225                     Nias Barat
+1365  bthdist 1271                        Sibolga
+1366  bthdist 1272                  Tanjung Balai
+1367  bthdist 1273               Pematang Siantar
+1368  bthdist 1274                  Tebing Tinggi
+1369  bthdist 1275                          Medan
+1370  bthdist 1276                         Binjai
+1371  bthdist 1277                Padangsidimpuan
+1372  bthdist 1278              Kota Gunungsitoli
+1373  bthdist 1301             Kepulauan Mentawai
+1374  bthdist 1302                Pesisir Selatan
+1375  bthdist 1303                          Solok
+1376  bthdist 1304           Sawahlunto/Sijunjung
+1377  bthdist 1305                    Tanah Datar
+1378  bthdist 1306                Padang Pariaman
+1379  bthdist 1307                           Agam
+1380  bthdist 1308                Lima Puluh Koto
+1381  bthdist 1309                        Pasaman
+1382  bthdist 1310                  Solok Selatan
+1383  bthdist 1311                    Dharmasraya
+1384  bthdist 1312                  Pasaman Barat
+1385  bthdist 1371                    Kota Padang
+1386  bthdist 1372                     Kota Solok
+1387  bthdist 1373               Kota Sawah Lunto
+1388  bthdist 1374            Kota Padang Panjang
+1389  bthdist 1375               Kota Bukittinggi
+1390  bthdist 1376                Kota Payakumbuh
+1391  bthdist 1377                  Kota Pariaman
+1392  bthdist 1401               Kuantan Singingi
+1393  bthdist 1402                 Indragiri Hulu
+1394  bthdist 1403                Indragiri Hilir
+1395  bthdist 1404                      Pelalawan
+1396  bthdist 1405                           Siak
+1397  bthdist 1406                         Kampar
+1398  bthdist 1407                     Rokan Hulu
+1399  bthdist 1408                      Bengkalis
+1400  bthdist 1409                    Rokan Hilir
+1401  bthdist 1410              Kepulauan Meranti
+1402  bthdist 1471                     Pekan Baru
+1403  bthdist 1473                          Dumai
+1404  bthdist 1501                        Kerinci
+1405  bthdist 1502                       Merangin
+1406  bthdist 1503                     Sarolangun
+1407  bthdist 1504                    Batang Hari
+1408  bthdist 1505                    Muaro Jambi
+1409  bthdist 1506           Tanjung Jabung Timur
+1410  bthdist 1507           Tanjung Jabung Barat
+1411  bthdist 1508                           Tebo
+1412  bthdist 1509                          Bungo
+1413  bthdist 1571                          Jambi
+1414  bthdist 1572              Kota Sungai Penuh
+1415  bthdist 1601              Ogan Komering Ulu
+1416  bthdist 1602             Ogan Komering Ilir
+1417  bthdist 1603                     Muara Enim
+1418  bthdist 1604                          Lahat
+1419  bthdist 1605                     Musi Rawas
+1420  bthdist 1606                 Musi Banyuasin
+1421  bthdist 1607                     Banyu Asin
+1422  bthdist 1608      Ogan Komering Ulu Selatan
+1423  bthdist 1609        Ogan Komering Ulu Timur
+1424  bthdist 1610                      Ogan Ilir
+1425  bthdist 1611                   Empat Lawang
+1426  bthdist 1671                      Palembang
+1427  bthdist 1672                     Prabumulih
+1428  bthdist 1673                     Pagar Alam
+1429  bthdist 1674                   Lubuklinggau
+1430  bthdist 1701               Bengkulu Selatan
+1431  bthdist 1702                  Rejang Lebong
+1432  bthdist 1703                 Bengkulu Utara
+1433  bthdist 1704                           Kaur
+1434  bthdist 1705                         Seluma
+1435  bthdist 1706                       Mukomuko
+1436  bthdist 1707                         Lebong
+1437  bthdist 1708                      Kepahiang
+1438  bthdist 1709                Bengkulu Tengah
+1439  bthdist 1771                       Bengkulu
+1440  bthdist 1801                  Lampung Barat
+1441  bthdist 1802                      Tanggamus
+1442  bthdist 1803                Lampung Selatan
+1443  bthdist 1804                  Lampung Timur
+1444  bthdist 1805                 Lampung Tengah
+1445  bthdist 1806                  Lampung Utara
+1446  bthdist 1807                      Way Kanan
+1447  bthdist 1808                   Tulangbawang
+1448  bthdist 1809                      Pesawaran
+1449  bthdist 1810                      Pringsewu
+1450  bthdist 1811                         Mesuji
+1451  bthdist 1812             Tulangbawang Barat
+1452  bthdist 1871                 Bandar Lampung
+1453  bthdist 1872                          Metro
+1454  bthdist 1901                         Bangka
+1455  bthdist 1902                       Belitung
+1456  bthdist 1903                   Bangka Barat
+1457  bthdist 1904                  Bangka Tengah
+1458  bthdist 1905                 Bangka Selatan
+1459  bthdist 1906                 Belitung Timur
+1460  bthdist 1971                 Pangkal Pinang
+1461  bthdist 2101                        Karimun
+1462  bthdist 2102                         Bintan
+1463  bthdist 2103                         Natuna
+1464  bthdist 2104                         Lingga
+1465  bthdist 2105              Kepulauan Anambas
+1466  bthdist 2171                          Batam
+1467  bthdist 2172                 Tanjung Pinang
+1468  bthdist 3101               Kepulauan Seribu
+1469  bthdist 3171                Jakarta Selatan
+1470  bthdist 3172                  Jakarta Timur
+1471  bthdist 3173                  Jakarta Pusat
+1472  bthdist 3174                  Jakarta Barat
+1473  bthdist 3175                  Jakarta Utara
+1474  bthdist 3201                          Bogor
+1475  bthdist 3202                       Sukabumi
+1476  bthdist 3203                        Cianjur
+1477  bthdist 3204                        Bandung
+1478  bthdist 3205                          Garut
+1479  bthdist 3206                    Tasikmalaya
+1480  bthdist 3207                         Ciamis
+1481  bthdist 3208                       Kuningan
+1482  bthdist 3209                        Cirebon
+1483  bthdist 3210                     Majalengka
+1484  bthdist 3211                       Sumedang
+1485  bthdist 3212                      Indramayu
+1486  bthdist 3213                         Subang
+1487  bthdist 3214                     Purwakarta
+1488  bthdist 3215                       Karawang
+1489  bthdist 3216                         Bekasi
+1490  bthdist 3217                  Bandung Barat
+1491  bthdist 3271                          Bogor
+1492  bthdist 3272                       Sukabumi
+1493  bthdist 3273                        Bandung
+1494  bthdist 3274                        Cirebon
+1495  bthdist 3275                         Bekasi
+1496  bthdist 3276                          Depok
+1497  bthdist 3277                         Cimahi
+1498  bthdist 3278                    Tasikmalaya
+1499  bthdist 3279                         Banjar
+1500  bthdist 3301                        Cilacap
+1501  bthdist 3302                       Banyumas
+1502  bthdist 3303                    Purbalingga
+1503  bthdist 3304                   Banjarnegara
+1504  bthdist 3305                        Kebumen
+1505  bthdist 3306                      Purworejo
+1506  bthdist 3307                       Wonosobo
+1507  bthdist 3308                       Magelang
+1508  bthdist 3309                       Boyolali
+1509  bthdist 3310                         Klaten
+1510  bthdist 3311                      Sukoharjo
+1511  bthdist 3312                       Wonogiri
+1512  bthdist 3313                    Karanganyar
+1513  bthdist 3314                         Sragen
+1514  bthdist 3315                       Grobogan
+1515  bthdist 3316                          Blora
+1516  bthdist 3317                        Rembang
+1517  bthdist 3318                           Pati
+1518  bthdist 3319                          Kudus
+1519  bthdist 3320                         Jepara
+1520  bthdist 3321                          Demak
+1521  bthdist 3322                       Semarang
+1522  bthdist 3323                     Temanggung
+1523  bthdist 3324                         Kendal
+1524  bthdist 3325                         Batang
+1525  bthdist 3326                     Pekalongan
+1526  bthdist 3327                       Pemalang
+1527  bthdist 3328                          Tegal
+1528  bthdist 3329                         Brebes
+1529  bthdist 3371                       Magelang
+1530  bthdist 3372                      Surakarta
+1531  bthdist 3373                       Salatiga
+1532  bthdist 3374                       Semarang
+1533  bthdist 3375                     Pekalongan
+1534  bthdist 3376                          Tegal
+1535  bthdist 3401                    Kulon Progo
+1536  bthdist 3402                         Bantul
+1537  bthdist 3403                   Gunung Kidul
+1538  bthdist 3404                         Sleman
+1539  bthdist 3471                     Yogyakarta
+1540  bthdist 3501                        Pacitan
+1541  bthdist 3502                       Ponorogo
+1542  bthdist 3503                     Trenggalek
+1543  bthdist 3504                    Tulungagung
+1544  bthdist 3505                         Blitar
+1545  bthdist 3506                         Kediri
+1546  bthdist 3507                         Malang
+1547  bthdist 3508                       Lumajang
+1548  bthdist 3509                         Jember
+1549  bthdist 3510                     Banyuwangi
+1550  bthdist 3511                      Bondowoso
+1551  bthdist 3512                      Situbondo
+1552  bthdist 3513                    Probolinggo
+1553  bthdist 3514                       Pasuruan
+1554  bthdist 3515                       Sidoarjo
+1555  bthdist 3516                      Mojokerto
+1556  bthdist 3517                        Jombang
+1557  bthdist 3518                        Nganjuk
+1558  bthdist 3519                         Madiun
+1559  bthdist 3520                        Magetan
+1560  bthdist 3521                          Ngawi
+1561  bthdist 3522                     Bojonegoro
+1562  bthdist 3523                          Tuban
+1563  bthdist 3524                       Lamongan
+1564  bthdist 3525                         Gresik
+1565  bthdist 3526                      Bangkalan
+1566  bthdist 3527                        Sampang
+1567  bthdist 3528                      Pamekasan
+1568  bthdist 3529                        Sumenep
+1569  bthdist 3571                         Kediri
+1570  bthdist 3572                         Blitar
+1571  bthdist 3573                         Malang
+1572  bthdist 3574                    Probolinggo
+1573  bthdist 3575                       Pasuruan
+1574  bthdist 3576                      Mojokerto
+1575  bthdist 3577                         Madiun
+1576  bthdist 3578                       Surabaya
+1577  bthdist 3579                           Batu
+1578  bthdist 3601                     Pandeglang
+1579  bthdist 3602                          Lebak
+1580  bthdist 3603                      Tangerang
+1581  bthdist 3604                         Serang
+1582  bthdist 3671                      Tangerang
+1583  bthdist 3672                        Cilegon
+1584  bthdist 3673                         Serang
+1585  bthdist 3674         Kota Tangerang Selatan
+1586  bthdist 5101                       Jembrana
+1587  bthdist 5102                        Tabanan
+1588  bthdist 5103                         Badung
+1589  bthdist 5104                        Gianyar
+1590  bthdist 5105                      Klungkung
+1591  bthdist 5106                         Bangli
+1592  bthdist 5107                    Karang Asem
+1593  bthdist 5108                       Buleleng
+1594  bthdist 5171                       Denpasar
+1595  bthdist 5201                   Lombok Barat
+1596  bthdist 5202                  Lombok Tengah
+1597  bthdist 5203                   Lombok Timur
+1598  bthdist 5204                        Sumbawa
+1599  bthdist 5205                          Dompu
+1600  bthdist 5206                           Bima
+1601  bthdist 5207                  Sumbawa Barat
+1602  bthdist 5208                   Lombok Utara
+1603  bthdist 5271                        Mataram
+1604  bthdist 5272                           Bima
+1605  bthdist 5301                    Sumba Barat
+1606  bthdist 5302                    Sumba Timur
+1607  bthdist 5303                         Kupang
+1608  bthdist 5304           Timor Tengah Selatan
+1609  bthdist 5305             Timor Tengah Utara
+1610  bthdist 5306                           Belu
+1611  bthdist 5307                           Alor
+1612  bthdist 5308                        Lembata
+1613  bthdist 5309                   Flores Timur
+1614  bthdist 5310                          Sikka
+1615  bthdist 5311                           Ende
+1616  bthdist 5312                          Ngada
+1617  bthdist 5313                      Manggarai
+1618  bthdist 5314                      Rote Ndao
+1619  bthdist 5315                Manggarai Barat
+1620  bthdist 5316                   Sumba Tengah
+1621  bthdist 5317               Sumba Barat Daya
+1622  bthdist 5318                        Nagekeo
+1623  bthdist 5319                Manggarai Timur
+1624  bthdist 5320                    Sabu Raijua
+1625  bthdist 5371                         Kupang
+1626  bthdist 6101                         Sambas
+1627  bthdist 6102                     Bengkayang
+1628  bthdist 6103                         Landak
+1629  bthdist 6104                      Pontianak
+1630  bthdist 6105                        Sanggau
+1631  bthdist 6106                       Ketapang
+1632  bthdist 6107                        Sintang
+1633  bthdist 6108                    Kapuas Hulu
+1634  bthdist 6109                        Sekadau
+1635  bthdist 6110                         Melawi
+1636  bthdist 6111                   Kayong Utara
+1637  bthdist 6112                      Kubu Raya
+1638  bthdist 6171                      Pontianak
+1639  bthdist 6172                     Singkawang
+1640  bthdist 6201             Kotawaringin Barat
+1641  bthdist 6202             Kotawaringin Timur
+1642  bthdist 6203                         Kapuas
+1643  bthdist 6204                 Barito Selatan
+1644  bthdist 6205                   Barito Utara
+1645  bthdist 6206                       Sukamara
+1646  bthdist 6207                       Lamandau
+1647  bthdist 6208                        Seruyan
+1648  bthdist 6209                       Katingan
+1649  bthdist 6210                   Pulang Pisau
+1650  bthdist 6211                     Gunung Mas
+1651  bthdist 6212                   Barito Timur
+1652  bthdist 6213                    Murung Raya
+1653  bthdist 6271                  Palangka Raya
+1654  bthdist 6301                     Tanah Laut
+1655  bthdist 6302                      Kota Baru
+1656  bthdist 6303                         Banjar
+1657  bthdist 6304                   Barito Kuala
+1658  bthdist 6305                          Tapin
+1659  bthdist 6306            Hulu Sungai Selatan
+1660  bthdist 6307             Hulu Sungai Tengah
+1661  bthdist 6308              Hulu Sungai Utara
+1662  bthdist 6309                       Tabalong
+1663  bthdist 6310                    Tanah Bumbu
+1664  bthdist 6311                       Balangan
+1665  bthdist 6371                    Banjarmasin
+1666  bthdist 6372                    Banjar Baru
+1667  bthdist 6401                          Pasir
+1668  bthdist 6402                    Kutai Barat
+1669  bthdist 6403              Kutai Kartanegara
+1670  bthdist 6404                    Kutai Timur
+1671  bthdist 6405                          Berau
+1672  bthdist 6406                        Malinau
+1673  bthdist 6407                       Bulungan
+1674  bthdist 6408                        Nunukan
+1675  bthdist 6409            Penajam Paser Utara
+1676  bthdist 6410                    Tana Tidung
+1677  bthdist 6471                     Balikpapan
+1678  bthdist 6472                      Samarinda
+1679  bthdist 6473                        Tarakan
+1680  bthdist 6474                        Bontang
+1681  bthdist 7101              Bolaang Mongondow
+1682  bthdist 7102                       Minahasa
+1683  bthdist 7103              Kepulauan Sangihe
+1684  bthdist 7104               Kepulauan Talaud
+1685  bthdist 7105               Minahasa Selatan
+1686  bthdist 7106                 Minahasa Utara
+1687  bthdist 7107        Bolaang Mongondow Utara
+1688  bthdist 7108         Siau Tagulandang Biaro
+1689  bthdist 7109              Minahasa Tenggara
+1690  bthdist 7110      Bolaang Mongondow Selatan
+1691  bthdist 7111        Bolaang Mongondow Timur
+1692  bthdist 7171                         Manado
+1693  bthdist 7172                         Bitung
+1694  bthdist 7173                        Tomohon
+1695  bthdist 7174                     Kotamobagu
+1696  bthdist 7201              Banggai Kepulauan
+1697  bthdist 7202                        Banggai
+1698  bthdist 7203                       Morowali
+1699  bthdist 7204                           Poso
+1700  bthdist 7205                       Donggala
+1701  bthdist 7206                      Toli-Toli
+1702  bthdist 7207                           Buol
+1703  bthdist 7208                 Parigi Moutong
+1704  bthdist 7209                   Tojo Una-Una
+1705  bthdist 7210                           Sigi
+1706  bthdist 7271                           Palu
+1707  bthdist 7301                        Selayar
+1708  bthdist 7302                      Bulukumba
+1709  bthdist 7303                       Bantaeng
+1710  bthdist 7304                      Jeneponto
+1711  bthdist 7305                        Takalar
+1712  bthdist 7306                           Gowa
+1713  bthdist 7307                         Sinjai
+1714  bthdist 7308                          Maros
+1715  bthdist 7309       Pangkajene Dan Kepulauan
+1716  bthdist 7310                          Barru
+1717  bthdist 7311                           Bone
+1718  bthdist 7312                        Soppeng
+1719  bthdist 7313                           Wajo
+1720  bthdist 7314              Sidenreng Rappang
+1721  bthdist 7315                        Pinrang
+1722  bthdist 7316                       Enrekang
+1723  bthdist 7317                           Luwu
+1724  bthdist 7318                    Tana Toraja
+1725  bthdist 7322                     Luwu Utara
+1726  bthdist 7325                     Luwu Timur
+1727  bthdist 7326                   Toraja Utara
+1728  bthdist 7371                       Makassar
+1729  bthdist 7372                      Pare-Pare
+1730  bthdist 7373                         Palopo
+1731  bthdist 7401                          Buton
+1732  bthdist 7402                           Muna
+1733  bthdist 7403                         Konawe
+1734  bthdist 7404                         Kolaka
+1735  bthdist 7405                 Konawe Selatan
+1736  bthdist 7406                        Bombana
+1737  bthdist 7407                       Wakatobi
+1738  bthdist 7408                   Kolaka Utara
+1739  bthdist 7409                    Buton Utara
+1740  bthdist 7410                   Konawe Utara
+1741  bthdist 7471                        Kendari
+1742  bthdist 7472                        Bau-Bau
+1743  bthdist 7501                        Boalemo
+1744  bthdist 7502                 Kab. Gorontalo
+1745  bthdist 7503                       Pohuwato
+1746  bthdist 7504                   Bone Bolango
+1747  bthdist 7505                Gorontalo Utara
+1748  bthdist 7571                 Kota Gorontalo
+1749  bthdist 7601                         Majene
+1750  bthdist 7602                Polewali Mandar
+1751  bthdist 7603                         Mamasa
+1752  bthdist 7604                         Mamuju
+1753  bthdist 7605                   Mamuju Utara
+1754  bthdist 8101          Maluku Tenggara Barat
+1755  bthdist 8102                Maluku Tenggara
+1756  bthdist 8103                  Maluku tengah
+1757  bthdist 8104                           Buru
+1758  bthdist 8105                  Kepulauan Aru
+1759  bthdist 8106             Seram Bagian Barat
+1760  bthdist 8107             Seram Bagian Timur
+1761  bthdist 8108              Maluku Barat Daya
+1762  bthdist 8109                   Buru Selatan
+1763  bthdist 8171                          Ambon
+1764  bthdist 8172                           Tual
+1765  bthdist 8201                Halmahera Barat
+1766  bthdist 8202               Halmahera Tengah
+1767  bthdist 8203                 Kepulauan Sula
+1768  bthdist 8204              Halmahera Selatan
+1769  bthdist 8205                Halmahera Utara
+1770  bthdist 8206                Halmahera Timur
+1771  bthdist 8207                  Pulau Morotai
+1772  bthdist 8271                        Ternate
+1773  bthdist 8272               Tidore Kepulauan
+1774  bthdist 9101                         Fakfak
+1775  bthdist 9102                        Kaimana
+1776  bthdist 9103                  Teluk Wondama
+1777  bthdist 9104                  Teluk Bintuni
+1778  bthdist 9105                      Manokwari
+1779  bthdist 9106                 Sorong Selatan
+1780  bthdist 9107                         Sorong
+1781  bthdist 9108                     Raja Ampat
+1782  bthdist 9109                       Tambrauw
+1783  bthdist 9110                        Maybrat
+1784  bthdist 9171                         Sorong
+1785  bthdist 9401                        Merauke
+1786  bthdist 9402                     Jayawijaya
+1787  bthdist 9403             Jayapura (regency)
+1788  bthdist 9404                         Nabire
+1789  bthdist 9408                  Yapen Waropen
+1790  bthdist 9409                    Biak Numfor
+1791  bthdist 9410                         Paniai
+1792  bthdist 9411                    Puncak Jaya
+1793  bthdist 9412                         Mimika
+1794  bthdist 9413                   Boven Digoel
+1795  bthdist 9414                          Mappi
+1796  bthdist 9415                          Asmat
+1797  bthdist 9416                       Yahukimo
+1798  bthdist 9417             Pegunungan Bintang
+1799  bthdist 9418                       Tolikara
+1800  bthdist 9419                          Sarmi
+1801  bthdist 9420                         Keerom
+1802  bthdist 9426                        Waropen
+1803  bthdist 9427                        Supiori
+1804  bthdist 9428                 Mamberamo Raya
+1805  bthdist 9429                          Nduga
+1806  bthdist 9430                     Lanny Jaya
+1807  bthdist 9431               Mamberano Tengah
+1808  bthdist 9432                         Yalimo
+1809  bthdist 9433                         Puncak
+1810  bthdist 9434                        Dogiyai
+1811  bthdist 9435                     Intan Jaya
+1812  bthdist 9436                         Deiyai
+1813  bthdist 9471        Jayapura (municipality)
+1814  bthdist 9801                 Southeast Asia
+1815  bthdist 9802                          China
+1816  bthdist 9803                     South Asia
+1817  bthdist 9804                          Japan
+1818  bthdist 9805                    South Korea
+1819  bthdist 9806                    Middle East
+1820  bthdist 9807            Other Asian country
+1821  bthdist 9808                      Australia
+1822  bthdist 9809                  South Pacific
+1823  bthdist 9810                  United States
+1824  bthdist 9812                Central America
+1825  bthdist 9813                  South America
+1826  bthdist 9814                         Canada
+1827  bthdist 9815                    East Africa
+1828  bthdist 9816                 Central Africa
+1829  bthdist 9817                   North Africa
+1830  bthdist 9818                   South Africa
+1831  bthdist 9819                    West Africa
+1832  bthdist 9820                    Netherlands
+1833  bthdist 9821 Other Western European country
+1834  bthdist 9822  Other Easten European country
+1835  bthdist 9823          Other foreign country
+1836  bthdist 9999                        Unknown
+1837    relig    1                          Islam
+1838    relig    2                      Christian
+1839    relig    3                       Catholic
+1840    relig    4                          Hindu
+1841    relig    5                       Buddhist
+1842    relig    6                      Confucian
+1843    relig    7                          Other
+1844    relig    8                        Unknown
+1845    relig    9                            NIU
+1846  disblnd    1                  No difficulty
+1847  disblnd    2                         Slight
+1848  disblnd    3                         Severe
+1849  disblnd    9                            NIU
+1850  dishear    1                  No difficulty
+1851  dishear    2                         Slight
+1852  dishear    3                         Severe
+1853  dishear    9                            NIU
+1854  disphys    1                  No difficulty
+1855  disphys    2                         Slight
+1856  disphys    3                         Severe
+1857  disphys    9                            NIU
+1858  dismntl    1                  No difficulty
+1859  dismntl    2                         Slight
+1860  dismntl    3                         Severe
+1861  dismntl    9                            NIU
+1862 selfcare    1                  No difficulty
+1863 selfcare    2                         Slight
+1864 selfcare    3                         Severe
+1865 selfcare    9                            NIU
+1866   ethnic    1 Aceh/Achin/Akhir/Asji/A-Tse/Ur
+1867   ethnic    2                           Alas
+1868   ethnic    3                    Aneuk Jamee
+1869   ethnic    4                           Gayo
+1870   ethnic    5                       Gayo Lut
+1871   ethnic    6                     Gayo Luwes
+1872   ethnic    7                Gayo Serbe Jadi
+1873   ethnic    8                          Kluet
+1874   ethnic    9                        Sigulai
+1875   ethnic   10                       Simeulue
+1876   ethnic   11                        Singkil
+1877   ethnic   12                        Tamiang
+1878   ethnic   13                         Asahan
+1879   ethnic   14                  Batak Angkola
+1880   ethnic   15                     Batak Karo
+1881   ethnic   16               Batak Mandailing
+1882   ethnic   17             Batak Pakpak Dairi
+1883   ethnic   18               Batak Simalungun
+1884   ethnic   19                 Batak Tapanuli
+1885   ethnic   20                     Batak Toba
+1886   ethnic   21                          Dairi
+1887   ethnic   22                           Lubu
+1888   ethnic   23                  Melayu Asahan
+1889   ethnic   24                    Melayu Deli
+1890   ethnic   25                           Nias
+1891   ethnic   26                        Pesisir
+1892   ethnic   27                        Siberut
+1893   ethnic   28                       Siladang
+1894   ethnic   29              Ulu Muara Sipongi
+1895   ethnic   30                        Kerinci
+1896   ethnic   31                       Mentawai
+1897   ethnic   32                    Minangkabau
+1898   ethnic   33                      Akik/Akit
+1899   ethnic   34                          Bonai
+1900   ethnic   35                          Hutan
+1901   ethnic   36                          Kuala
+1902   ethnic   37                    Melayu Riau
+1903   ethnic   38                           Rawa
+1904   ethnic   39                          Sakai
+1905   ethnic   40                   Talang Mamak
+1906   ethnic   41          Anak Dalam/Anak Rimbo
+1907   ethnic   42                          Batin
+1908   ethnic   43                          Jambi
+1909   ethnic   44                           Kubu
+1910   ethnic   45                       Penghulu
+1911   ethnic   46                         Pindah
+1912   ethnic   47                           Daya
+1913   ethnic   48                           Enim
+1914   ethnic   49                          Gumai
+1915   ethnic   50                     Kayu Agung
+1916   ethnic   51                          Kikim
+1917   ethnic   52                          Kisam
+1918   ethnic   53                       Komering
+1919   ethnic   54         Langkat/Melayu Langkat
+1920   ethnic   55                       Lematang
+1921   ethnic   56                        Lintang
+1922   ethnic   57                Lom/Mapur/Sekak
+1923   ethnic   58              Melayu Banyu Asin
+1924   ethnic   59                   Melayu Lahat
+1925   ethnic   60                       Meranjat
+1926   ethnic   61                 Musi Banyuasin
+1927   ethnic   62             Musi Sekayu/Sekayu
+1928   ethnic   63                           Ogan
+1929   ethnic   65                      Palembang
+1930   ethnic   66                        Pasemah
+1931   ethnic   67                      Pedamaran
+1932   ethnic   68                        Pegagan
+1933   ethnic   69                        Rambang
+1934   ethnic   70                          Ranau
+1935   ethnic   71                          Rawas
+1936   ethnic   72                         Saling
+1937   ethnic   73                        Semendo
+1938   ethnic   74                         Teloko
+1939   ethnic   75                            Ulu
+1940   ethnic   76                       Bengkulu
+1941   ethnic   77                        Enggano
+1942   ethnic   78                           Kaur
+1943   ethnic   79                         Lembak
+1944   ethnic   80                      Muko-Muko
+1945   ethnic   81                          Pekal
+1946   ethnic   82                         Rejang
+1947   ethnic   83                        Serawai
+1948   ethnic   84 Abung/Bunga Mayang/Sembilan Ma
+1949   ethnic   85                        Belalau
+1950   ethnic   86                      Buay Lima
+1951   ethnic   87                           Krui
+1952   ethnic   88                        Lampung
+1953   ethnic   89        Megau Pak Tulang Bawang
+1954   ethnic   90                 Melayu semendo
+1955   ethnic   91 Melintang Rajabasa-Peminggir M
+1956   ethnic   93 Peminggir Semangka/Skala Brak/
+1957   ethnic   94                       Pepaduan
+1958   ethnic   95 Pubian/Pubian Telu Suku/Pubiya
+1959   ethnic   96                       Seibatin
+1960   ethnic   98                         Bangka
+1961   ethnic   99                       Belitung
+1962   ethnic  100                 Anak Laut/Laut
+1963   ethnic  101                        Mantang
+1964   ethnic  102                          Belom
+1965   ethnic  104                           Keme
+1966   ethnic  105                  Lambai/Lamuri
+1967   ethnic  106                         Lingga
+1968   ethnic  107                         Melayu
+1969   ethnic  108                          Pagai
+1970   ethnic  109                         Sawang
+1971   ethnic  110                          Suban
+1972   ethnic  111                         Betawi
+1973   ethnic  112                        Cirebon
+1974   ethnic  113                          Sunda
+1975   ethnic  114                           Jawa
+1976   ethnic  115                          Samin
+1977   ethnic  116                   Bawean/Boyan
+1978   ethnic  117                           Naga
+1979   ethnic  118                       Nagaring
+1980   ethnic  119                    Osing/Using
+1981   ethnic  120                        Tengger
+1982   ethnic  121                         Madura
+1983   ethnic  122                    Badui/Baduy
+1984   ethnic  123                         Banten
+1985   ethnic  124                Bali/Bali Hindu
+1986   ethnic  125                 Bali Majapahit
+1987   ethnic  126                       Bali Aga
+1988   ethnic  127                           Bima
+1989   ethnic  128                          Dompu
+1990   ethnic  129                          Sasak
+1991   ethnic  130                 Semawa/Sumbawa
+1992   ethnic  131                           Abui
+1993   ethnic  133 Alor/Belagar/Kelong/Manete/Mau
+1994   ethnic  134 Atanfui/Atani/Atoni/Atoni Meto
+1995   ethnic  135                          Babui
+1996   ethnic  136                         Bajawa
+1997   ethnic  140                           Belu
+1998   ethnic  141                         Blagar
+1999   ethnic  143                    Bunak/Marae
+2000   ethnic  144                          Dadua
+2001   ethnic  145                          Deing
+2002   ethnic  146                          Dongo
+2003   ethnic  147                           Ende
+2004   ethnic  148                       Fataluku
+2005   ethnic  149                           Faun
+2006   ethnic  150                         Flores
+2007   ethnic  151            Gunung-Orang Gunung
+2008   ethnic  152                          Hahak
+2009   ethnic  153                      Hawu/Sabu
+2010   ethnic  154                         Helong
+2011   ethnic  156                         Kabola
+2012   ethnic  159                         Kedang
+2013   ethnic  160                          Kemak
+2014   ethnic  161                         Kemang
+2015   ethnic  162                            Keo
+2016   ethnic  163                         Kolana
+2017   ethnic  164                           Kore
+2018   ethnic  166                   Krowe Muhang
+2019   ethnic  167                            Kui
+2020   ethnic  168                         Kupang
+2021   ethnic  169                         Labala
+2022   ethnic  170      Lamahot/Lamholot/Lamkolot
+2023   ethnic  171                      Larantuka
+2024   ethnic  172                          Lemma
+2025   ethnic  173                            Lio
+2026   ethnic  174                         Loloan
+2027   ethnic  175                        Lomblem
+2028   ethnic  177                      Manggarai
+2029   ethnic  179                          Mbojo
+2030   ethnic  180                           Mela
+2031   ethnic  181                           Modo
+2032   ethnic  182                         Muhang
+2033   ethnic  183                        Na Ueti
+2034   ethnic  184                     Nage/Ngada
+2035   ethnic  185                        Nagekeo
+2036   ethnic  187                          Palue
+2037   ethnic  188                         Pantar
+2038   ethnic  189                            Rai
+2039   ethnic  190                          Riung
+2040   ethnic  191                      Rote/Roti
+2041   ethnic  192                          Sikka
+2042   ethnic  193                    Solor/Solot
+2043   ethnic  194                     To Uluuwai
+2044   ethnic  196                       Tokodede
+2045   ethnic  197                        Baliaga
+2046   ethnic  198                          Bayan
+2047   ethnic  200                          Idate
+2048   ethnic  204                        Makasai
+2049   ethnic  206                         Mambai
+2050   ethnic  209                     Dayak Abai
+2051   ethnic  210 Dayak Air Durian/Dayak Air Upa
+2052   ethnic  211 Dayak Air Tabun/Dayak Banjur/D
+2053   ethnic  212         Dayak Alau'/Dayak Lau'
+2054   ethnic  213                    Dayak Angan
+2055   ethnic  214 Dayak Angkabakng/Dayak Banokng
+2056   ethnic  215                   Dayak Apalin
+2057   ethnic  216                   Dayak Apoyan
+2058   ethnic  217                    Dayak Babak
+2059   ethnic  218                    Dayak Badat
+2060   ethnic  219                    Dayak Bahau
+2061   ethnic  220 Dayak Bakati' Kanayatn Satango
+2062   ethnic  221               Dayak Balantiatn
+2063   ethnic  222 Dayak Balau/Dayak Daya/Dayak H
+2064   ethnic  224                 Dayak Banyadu'
+2065   ethnic  225 Dayak Banyur/Dayak Kualatn/Day
+2066   ethnic  226                    Dayak Barai
+2067   ethnic  227                   Dayak Bassap
+2068   ethnic  228             Dayak Batu Entawa'
+2069   ethnic  229 Dayak Batu Tajam/Dayak Kekura'
+2070   ethnic  230                     Dayak Bauk
+2071   ethnic  231                     Dayak Baya
+2072   ethnic  232 Dayak Beah/Dayak Begeleng/Daya
+2073   ethnic  233        Dayak Behe/Dayak Benane
+2074   ethnic  234 Dayak Benatu/Dayak Jalai/Dayak
+2075   ethnic  235                  Dayak Benawas
+2076   ethnic  236                  Dayak Bentian
+2077   ethnic  237                   Dayak Benuaq
+2078   ethnic  238                  Dayak BI Somu
+2079   ethnic  239     Dayak Biatah/Dayak Bidayuh
+2080   ethnic  240                    Dayak Bihak
+2081   ethnic  241                    Dayak Brusu
+2082   ethnic  243                    Dayak Bugau
+2083   ethnic  244 Dayak Bukat/Dayak Buket/Dayak 
+2084   ethnic  245             Dayak Bukit Talaga
+2085   ethnic  247                    Dayak Butok
+2086   ethnic  248                 Dayak Cempedak
+2087   ethnic  249          Dayak Da'/Dayak Kayan
+2088   ethnic  250                     Dayak Dait
+2089   ethnic  251                    Dayak Dalam
+2090   ethnic  252 Dayak Dalang/Dayak Kaluas/Daya
+2091   ethnic  254                    Dayak Darat
+2092   ethnic  255                    Dayak Daro'
+2093   ethnic  256                    Dayak Darok
+2094   ethnic  258                     Dayak Desa
+2095   ethnic  259        Dayak Dosan/Dayak Dusun
+2096   ethnic  261                      Dayak Dsa
+2097   ethnic  262                     Dayak Ella
+2098   ethnic  263 Dayak Embaloh/Dayak Maloh/Daya
+2099   ethnic  264                  Dayak Empayuh
+2100   ethnic  265                 Dayak En Silat
+2101   ethnic  266                Dayak Engkarong
+2102   ethnic  267                  Dayak Engkode
+2103   ethnic  268                 Dayak Ensanang
+2104   ethnic  269                  Dayak Ensilat
+2105   ethnic  271                   Dayak Entuka
+2106   ethnic  273         Dayak Gali/Dayak Galik
+2107   ethnic  274                    Dayak Gerai
+2108   ethnic  275               Dayak Gerunggang
+2109   ethnic  276                    Dayak Golik
+2110   ethnic  277                    Dayak Goneh
+2111   ethnic  279                    Dayak Hibun
+2112   ethnic  281             Dayak Inggar Silat
+2113   ethnic  282                    Dayak Jagoi
+2114   ethnic  283   Dayak Jalan/Dayak Ka-Lepo Ka
+2115   ethnic  284 Dayak Jangkang/Dayak Jangkang 
+2116   ethnic  285                    Dayak Jawan
+2117   ethnic  286                   Dayak Jawatn
+2118   ethnic  287                    Dayak Jelai
+2119   ethnic  289                    Dayak Kalis
+2120   ethnic  290                  Dayak Kanayan
+2121   ethnic  291 Dayak Kanayatn/Dayak Kanayatn 
+2122   ethnic  292                 Dayak Kancikng
+2123   ethnic  293      Dayak Kantu'/Dayak Kantuk
+2124   ethnic  294                   Dayak Kayaan
+2125   ethnic  295                 Dayak Kayanath
+2126   ethnic  296                   Dayak Kayong
+2127   ethnic  297                   Dayak Kayung
+2128   ethnic  298                  Dayak Kebahan
+2129   ethnic  299 Dayak Kebuai/Dayak Pangkalan S
+2130   ethnic  300                     Dayak Kede
+2131   ethnic  303                   Dayak Keluas
+2132   ethnic  304                  Dayak Keneles
+2133   ethnic  305                 Dayak Keninjal
+2134   ethnic  306                   Dayak Kenyah
+2135   ethnic  307                  Dayak Kenyilu
+2136   ethnic  308                   Dayak Kepuas
+2137   ethnic  309                  Dayak Kerabat
+2138   ethnic  310    Dayak Keramai/Dayak Keramay
+2139   ethnic  311      Dayak Ketior/Dayak Ketiur
+2140   ethnic  312 Dayak Ketungau/Dayak Ketungau 
+2141   ethnic  314                   Dayak Kodatn
+2142   ethnic  315                    Dayak Koman
+2143   ethnic  317                    Dayak Kopak
+2144   ethnic  322                     Dayak Krio
+2145   ethnic  323                   Dayak Kubitn
+2146   ethnic  325 Dayak Laman Tuha/Dayak Lamanta
+2147   ethnic  326                     Dayak Lara
+2148   ethnic  327                     Dayak Laur
+2149   ethnic  328                     Dayak Laut
+2150   ethnic  329                 Dayak Lawangan
+2151   ethnic  331                   Dayak Lebang
+2152   ethnic  332                   Dayak Lebong
+2153   ethnic  333                 Dayak Lemandau
+2154   ethnic  335                   Dayak Limbai
+2155   ethnic  336                    Dayak Linoh
+2156   ethnic  337                    Dayak Lomur
+2157   ethnic  338                    Dayak Mahap
+2158   ethnic  339                     Dayak Mali
+2159   ethnic  340                   Dayak Manyan
+2160   ethnic  341                    Dayak Mayan
+2161   ethnic  342                    Dayak Mayau
+2162   ethnic  343                  Dayak Melahoi
+2163   ethnic  344                  Dayak Melanau
+2164   ethnic  345         Dayak Melayu Pontianak
+2165   ethnic  346            Dayak Melayu Sambas
+2166   ethnic  347                 Dayak Mentebah
+2167   ethnic  349           Dayak Menterap Kabut
+2168   ethnic  350          Dayak Menterap Sekado
+2169   ethnic  351                 Dayak Mentuka'
+2170   ethnic  354                  Dayak Menyuke
+2171   ethnic  355                    Dayak Merau
+2172   ethnic  356                    Dayak Mobui
+2173   ethnic  357                   Dayak Modang
+2174   ethnic  358                  Dayak Mualang
+2175   ethnic  359                    Dayak Muara
+2176   ethnic  360                    Dayak Mudu'
+2177   ethnic  363                  Dayak Nahaya'
+2178   ethnic  364                    Dayak Nanga
+2179   ethnic  365                  Dayak Ngabang
+2180   ethnic  369                   Dayak Nonguh
+2181   ethnic  370                  Dayak Nyadupm
+2182   ethnic  371             Dayak Oruung da'an
+2183   ethnic  372                 Dayak Ot Danum
+2184   ethnic  373                  Dayak Pampang
+2185   ethnic  374                    Dayak Pandu
+2186   ethnic  375                   Dayak Pangin
+2187   ethnic  376 Dayak Pangkodan/Dayak Pengkeda
+2188   ethnic  377                    Dayak Pantu
+2189   ethnic  379                    Dayak Papak
+2190   ethnic  380                    Dayak Pasir
+2191   ethnic  381                     Dayak Paus
+2192   ethnic  382                    Dayak Pawan
+2193   ethnic  383                   Dayak Pawatn
+2194   ethnic  384                    Dayak Paya'
+2195   ethnic  385                 Dayak Penihing
+2196   ethnic  386                   Dayak Peruan
+2197   ethnic  387                 Dayak Pompakng
+2198   ethnic  388                  Dayak Pompang
+2199   ethnic  389 Dayak Ponan/Dayak Punan/Dayak 
+2200   ethnic  390        Dayak Ponti/Dayak Punti
+2201   ethnic  391                      Dayak Pos
+2202   ethnic  392                   Dayak Pruna'
+2203   ethnic  393                   Dayak Pruwan
+2204   ethnic  394                    Dayak Putuk
+2205   ethnic  395                   Dayak Randu'
+2206   ethnic  396      Dayak Randuk/Dayak Ronduk
+2207   ethnic  397                    Dayak Ransa
+2208   ethnic  398                 Dayak Rantawan
+2209   ethnic  399                     Dayak Raut
+2210   ethnic  401                    Dayak Ribun
+2211   ethnic  402 Dayak Salako/Dayak Salako Bada
+2212   ethnic  403                   Dayak Sambas
+2213   ethnic  404                     Dayak Sami
+2214   ethnic  405                  Dayak Samihin
+2215   ethnic  406                   Dayak Sampit
+2216   ethnic  407                     Dayak Sane
+2217   ethnic  408                  Dayak Sanggau
+2218   ethnic  409                  Dayak Sangku'
+2219   ethnic  410                  Dayak Sapatoi
+2220   ethnic  411                    Dayak Sawai
+2221   ethnic  412                     Dayak Sawe
+2222   ethnic  413                  Dayak Sebaruk
+2223   ethnic  414                Dayak Seberuang
+2224   ethnic  415                    Dayak Segai
+2225   ethnic  416                 Dayak Sekajang
+2226   ethnic  417                 Dayak Sekubang
+2227   ethnic  418                  Dayak Sekujam
+2228   ethnic  420                 Dayak Selayang
+2229   ethnic  421                 Dayak Selibong
+2230   ethnic  424               Dayak Sengkunang
+2231   ethnic  428            Dayak Silatn Muntak
+2232   ethnic  429                  Dayak Sintang
+2233   ethnic  430                   Dayak Sisang
+2234   ethnic  431                   Dayak Sontas
+2235   ethnic  432                    Dayak Suaid
+2236   ethnic  433                   Dayak Suhaid
+2237   ethnic  434      Dayak Sum/Dayak Sum Daruk
+2238   ethnic  435                 Dayak Sungkung
+2239   ethnic  436        Dayak Suruh/Dayak Suruk
+2240   ethnic  437                     Dayak Suti
+2241   ethnic  438                     Dayak Taba
+2242   ethnic  439                   Dayak Tabuas
+2243   ethnic  440                  Dayak Tadietn
+2244   ethnic  441                    Dayak Tagel
+2245   ethnic  442                Dayak Tamambalo
+2246   ethnic  443                    Dayak Taman
+2247   ethnic  444             Dayak Taman Sekado
+2248   ethnic  447                   Dayak Tebang
+2249   ethnic  448                  Dayak Tebidah
+2250   ethnic  449                Dayak Tenggalan
+2251   ethnic  450                   Dayak Tengon
+2252   ethnic  453                  Dayak Tinying
+2253   ethnic  454                    Dayak Tobak
+2254   ethnic  455                    Dayak Tola'
+2255   ethnic  457                  Dayak Tunjung
+2256   ethnic  459             Dayak Uheng Kereho
+2257   ethnic  460    Dayak Ulu Ai'/Dayak Ulu Air
+2258   ethnic  461              Dayak Ulu Sekadau
+2259   ethnic  464                    Dayak Undau
+2260   ethnic  466                Dayak Uud Danum
+2261   ethnic  467          Dayak Uud Danum Cihie
+2262   ethnic  468          Dayak Uud Danum Dohoi
+2263   ethnic  469                   Dayak Aoheng
+2264   ethnic  471                 Dayak Bakumpai
+2265   ethnic  472                       Bara Dia
+2266   ethnic  474                           Gaat
+2267   ethnic  476                 Katingan/Ngaju
+2268   ethnic  477                       Kendayan
+2269   ethnic  478                       Lawangan
+2270   ethnic  479 Lepo Bakung/Lepo Jalan/Lepo Tu
+2271   ethnic  480 Maanyan Benua Lima/Maanyan Paj
+2272   ethnic  481                   Maanyan Dayu
+2273   ethnic  482              Maanyan Paju Epat
+2274   ethnic  483           Maanyan Paju Sepuluh
+2275   ethnic  484                   Maanyan Paku
+2276   ethnic  485                         Medang
+2277   ethnic  486                         Murung
+2278   ethnic  488         Sarbas/Saribas/Sebayau
+2279   ethnic  489                        Sekadau
+2280   ethnic  490       Siak Murung/Siang Murung
+2281   ethnic  491                          Siang
+2282   ethnic  492                        Tabuyan
+2283   ethnic  493                         Tamuan
+2284   ethnic  494                          Tomun
+2285   ethnic  495 Arkais/Dayak Bakumpai/Kota War
+2286   ethnic  496   Dayak Bawo/Mangkatip/Taboyan
+2287   ethnic  497                           Abal
+2288   ethnic  498                       Balangan
+2289   ethnic  499 Banjar Kuala/Batang Banyu/Pahu
+2290   ethnic  500                       Barangas
+2291   ethnic  502                  Bugis Pagatan
+2292   ethnic  504                    Dusun Deyah
+2293   ethnic  507                        Maanyan
+2294   ethnic  508                        Pagatan
+2295   ethnic  509                          Pitap
+2296   ethnic  513                         Mandar
+2297   ethnic  514    Abai/Tidung/Tingalan/Tudung
+2298   ethnic  515                            Ahe
+2299   ethnic  516 Ayus/Bentian/Karau/Lemper/Leo 
+2300   ethnic  517                         Badeng
+2301   ethnic  518                          Bahau
+2302   ethnic  520                         Banjar
+2303   ethnic  521                         Banjau
+2304   ethnic  522                          Basap
+2305   ethnic  524                         Benuak
+2306   ethnic  525                    Berau/Merau
+2307   ethnic  526                         Berusu
+2308   ethnic  527                 Bulungan/Murut
+2309   ethnic  530                          Kutai
+2310   ethnic  531 Lapo Bakung/Lapo Bem/Lapo Ke/L
+2311   ethnic  532                Long Gelat/Paka
+2312   ethnic  533                       Lundayeh
+2313   ethnic  534 Mangku Anam/Nyumit/Pauk/Purui/
+2314   ethnic  535                          Merab
+2315   ethnic  537                          Pasir
+2316   ethnic  538                       Penihing
+2317   ethnic  542                    Tagel/Tagol
+2318   ethnic  545                        Tunjung
+2319   ethnic  546 Umaq Alim/Umaq Baka/Umaq Bakaq
+2320   ethnic  547 Umaq Badang/Umaq Kulit/Umaq Lo
+2321   ethnic  549            Kajang/Kejin/Kenyah
+2322   ethnic  550                       Anas/Toi
+2323   ethnic  554                           Baka
+2324   ethnic  555                         Bantai
+2325   ethnic  557                           Bawo
+2326   ethnic  559                         Bungan
+2327   ethnic  560                           Cika
+2328   ethnic  561                    Dawam/Rawan
+2329   ethnic  563          Humba/Sumba/Tau Humba
+2330   ethnic  567                      Klemantan
+2331   ethnic  569                       Lepo Tau
+2332   ethnic  570                      Long Paka
+2333   ethnic  571                         Malang
+2334   ethnic  572                   Medan/Modang
+2335   ethnic  573                      Nganayath
+2336   ethnic  577                     Oloh masih
+2337   ethnic  578                   Orang Gunung
+2338   ethnic  580             Rai Hawu/Savu/Sawu
+2339   ethnic  581                         Rangga
+2340   ethnic  586                       Sekayang
+2341   ethnic  588                Seru/Serul/Srul
+2342   ethnic  591                          Tana'
+2343   ethnic  593                          Timai
+2344   ethnic  600                         Bantik
+2345   ethnic  601                       Bintauna
+2346   ethnic  602                  Bolaang Itang
+2347   ethnic  603        Bolaang Mongondow/Itang
+2348   ethnic  604                    Bolaang Uki
+2349   ethnic  605                          Borgo
+2350   ethnic  606                      Kaidipang
+2351   ethnic  607                      Kodipiang
+2352   ethnic  609                       Minahasa
+2353   ethnic  610                  Pasan/Ratahan
+2354   ethnic  611                      Ponosakan
+2355   ethnic  612                         Sangir
+2356   ethnic  613                         Talaud
+2357   ethnic  614                        Tombulu
+2358   ethnic  615                      Tonsawang
+2359   ethnic  616                Tonsea/Tosawang
+2360   ethnic  617                      Tonteboan
+2361   ethnic  618                      Totembuan
+2362   ethnic  619                        Toulour
+2363   ethnic  620                        Tugutil
+2364   ethnic  621                         Ampana
+2365   ethnic  622              Babongko/Bobangko
+2366   ethnic  623                 Bada/Lore/Napu
+2367   ethnic  624     Bajao/Bajau/Bajo/Bayo/Wajo
+2368   ethnic  625                      Balaesang
+2369   ethnic  626               Balantak/Tanutor
+2370   ethnic  627                       Balesang
+2371   ethnic  628 Balinggi/Baluase/Bangga/Bangga
+2372   ethnic  629                         Bancea
+2373   ethnic  630 Banggai/Mian Banggai/Mian Sea-
+2374   ethnic  631                         Bare'e
+2375   ethnic  632                          Besoa
+2376   ethnic  633          Binimaru/Lindu/Tosigi
+2377   ethnic  634                Bungku/Tobungku
+2378   ethnic  635                           Buol
+2379   ethnic  638                       Dampelas
+2380   ethnic  639                    Dolo/Todolo
+2381   ethnic  640                          Dondo
+2382   ethnic  641                      Kadambuku
+2383   ethnic  643                          Kalae
+2384   ethnic  644                         Kaliki
+2385   ethnic  645 Kasimbar/Moutong/Patapa/Tinomb
+2386   ethnic  646                    Lage/Tolage
+2387   ethnic  649                   Lamusa/Lembo
+2388   ethnic  650                          Lauje
+2389   ethnic  651                           Ledo
+2390   ethnic  653                         Marobo
+2391   ethnic  654                         Masama
+2392   ethnic  655                   Mian/Sea-sea
+2393   ethnic  659 Pada/Pakambia/Palende/Payapi/P
+2394   ethnic  660 Palu/Parigi/Sigi/Tamungkolowi/
+2395   ethnic  661                         Pamona
+2396   ethnic  662                       Pipikoro
+2397   ethnic  663                           Poso
+2398   ethnic  664   Pu'umboto/Pu'umnana/Puumbato
+2399   ethnic  665 Raranggonau/Sibalaya/Sidondo/T
+2400   ethnic  666       Rau/Tanandoa/Tawi/Unda'e
+2401   ethnic  667                         Saluan
+2402   ethnic  668                           Ta'a
+2403   ethnic  669                   Tajio/Ta'jio
+2404   ethnic  670                          Tialo
+2405   ethnic  671                        To Bada
+2406   ethnic  672                      To Molioa
+2407   ethnic  674                         Togian
+2408   ethnic  676                           Tojo
+2409   ethnic  677                       Tolalaeo
+2410   ethnic  678                      Toli Toli
+2411   ethnic  680                 Tomenui/Tomini
+2412   ethnic  683                       Tonandoa
+2413   ethnic  684                        Umalasa
+2414   ethnic  685                        Una-una
+2415   ethnic  686                           Wana
+2416   ethnic  687                           Wotu
+2417   ethnic  688   Amatoa/Ammatowa/Orang Kajang
+2418   ethnic  691                      Benggaulu
+2419   ethnic  694                       Bonerate
+2420   ethnic  695                          Bugis
+2421   ethnic  697                           Duri
+2422   ethnic  698            Galumpang/Kalumpang
+2423   ethnic  702                           Kola
+2424   ethnic  703                        Kompane
+2425   ethnic  704                         Lorang
+2426   ethnic  705                           Luwu
+2427   ethnic  706                       Makassar
+2428   ethnic  707                       Manombai
+2429   ethnic  708                  Masen Rempulu
+2430   ethnic  709                        Mautong
+2431   ethnic  710                         Pado'e
+2432   ethnic  711                  Pasir Laburan
+2433   ethnic  712                       Rongkong
+2434   ethnic  714                        Selayar
+2435   ethnic  718                         Tobada
+2436   ethnic  720                         Tobana
+2437   ethnic  725   Tomembuni/Tominbun/Topembuni
+2438   ethnic  728                        Torampi
+2439   ethnic  734            Birumaru/Tobirumaru
+2440   ethnic  736                          Bubis
+2441   ethnic  737                           Bune
+2442   ethnic  738            Buton/Butong/Butung
+2443   ethnic  740                          Ereke
+2444   ethnic  741                      Gamkonora
+2445   ethnic  743                       Kamarian
+2446   ethnic  744                          Karey
+2447   ethnic  745                         Kayeli
+2448   ethnic  747                           Koba
+2449   ethnic  749                           Laba
+2450   ethnic  752                           Laha
+2451   ethnic  755                  Laloda/Loloda
+2452   ethnic  759                          Luang
+2453   ethnic  760                           Luhu
+2454   ethnic  761                         Makian
+2455   ethnic  762                       Manusela
+2456   ethnic  763                           Mare
+2457   ethnic  767       mekongga/Tolaki/Wiwirano
+2458   ethnic  768                         Memale
+2459   ethnic  769                            Moa
+2460   ethnic  770                         Modole
+2461   ethnic  771                       Moronene
+2462   ethnic  773                           Muna
+2463   ethnic  775                    Pasir Adang
+2464   ethnic  776                    Pasir Balik
+2465   ethnic  780                 Pasir Pematang
+2466   ethnic  783                    Pasir Tajur
+2467   ethnic  784                   Pasir Telake
+2468   ethnic  785                       Pinihing
+2469   ethnic  786                         Polahi
+2470   ethnic  791                      Tanoturan
+2471   ethnic  793               To Ala Tanomanae
+2472   ethnic  794                         Tofuti
+2473   ethnic  795                          Tolaa
+2474   ethnic  796                Tolaki mekongga
+2475   ethnic  798                      Tombelala
+2476   ethnic  799                          Tomia
+2477   ethnic  800                       Toridolo
+2478   ethnic  801                         Toroda
+2479   ethnic  802                       Wakatobi
+2480   ethnic  803                        Wawonii
+2481   ethnic  804                          Wolio
+2482   ethnic  805 Mariri/Molio/Mori Atas/Mori Ba
+2483   ethnic  806                      Atinggola
+2484   ethnic  807                      Gorontalo
+2485   ethnic  808                         Suwawa
+2486   ethnic  809                         Mamasa
+2487   ethnic  810                         Mamuju
+2488   ethnic  811                         Pattae
+2489   ethnic  813                    Towala-wala
+2490   ethnic  814                         Towara
+2491   ethnic  815                         Towatu
+2492   ethnic  818                         Alfuru
+2493   ethnic  819                          Alune
+2494   ethnic  820                         Amahai
+2495   ethnic  821                        Ambelau
+2496   ethnic  822                          Ambon
+2497   ethnic  823                         Aputai
+2498   ethnic  824                            Aru
+2499   ethnic  825                        Asilulu
+2500   ethnic  826                          Babar
+2501   ethnic  827                          Banda
+2502   ethnic  828                        Barakai
+2503   ethnic  829                           Bati
+2504   ethnic  830                        Batuley
+2505   ethnic  833                           Buru
+2506   ethnic  835                            Dai
+2507   ethnic  836                          Damar
+2508   ethnic  837                        Dawelor
+2509   ethnic  838                         Dawera
+2510   ethnic  840                          Dobel
+2511   ethnic  841                       Eli Elat
+2512   ethnic  844                           Evav
+2513   ethnic  845                        Fordata
+2514   ethnic  846                    Geser-Gorom
+2515   ethnic  847                         Haruku
+2516   ethnic  848                           Hitu
+2517   ethnic  849                           Hoti
+2518   ethnic  850                         Huaulu
+2519   ethnic  851                         Hulung
+2520   ethnic  852                          Iliun
+2521   ethnic  853                        Imroing
+2522   ethnic  854                        Jailolo
+2523   ethnic  855                        Kaibobo
+2524   ethnic  856                            Kei
+2525   ethnic  857                          Kisar
+2526   ethnic  858                Larike-Wakasihu
+2527   ethnic  860                           Leti
+2528   ethnic  861               Lisabata-Nuniali
+2529   ethnic  862                    Loa/Wai Apu
+2530   ethnic  863                         Lumoli
+2531   ethnic  864                           Mafa
+2532   ethnic  867          Naulu/Nuahunai/Nuaulu
+2533   ethnic  868        Nember/Orang Timur Laut
+2534   ethnic  869                           Nila
+2535   ethnic  870                       Nusalaut
+2536   ethnic  871                         Oirata
+2537   ethnic  872                           Pagu
+2538   ethnic  874                         Pelauw
+2539   ethnic  875                          Perai
+2540   ethnic  876                           Piru
+2541   ethnic  877                           Rana
+2542   ethnic  878               Roma/Romang/Ruma
+2543   ethnic  881                        Saparua
+2544   ethnic  882                  Seith-Kaitetu
+2545   ethnic  883                         Selaru
+2546   ethnic  885                           Sepa
+2547   ethnic  886                          Seram
+2548   ethnic  888                          Serua
+2549   ethnic  889                     Seti-Liana
+2550   ethnic  890                          Talur
+2551   ethnic  891                       Tanimbar
+2552   ethnic  892                       Tarangan
+2553   ethnic  894                       Watubela
+2554   ethnic  895                         Wemale
+2555   ethnic  896                      Yalahatan
+2556   ethnic  897                        Yamdena
+2557   ethnic  898                    Boano/Buano
+2558   ethnic  899                           Sula
+2559   ethnic  901                          Bacan
+2560   ethnic  902            Biyoli/Waioli/Waoli
+2561   ethnic  903                           Buli
+2562   ethnic  904                         Galela
+2563   ethnic  906                      Gane/Gani
+2564   ethnic  908                      Halmahera
+2565   ethnic  909                            Ibu
+2566   ethnic  910                          Kadai
+2567   ethnic  911                        Kao/Kau
+2568   ethnic  912                          Kayoa
+2569   ethnic  913                           Maba
+2570   ethnic  914                   Makian Barat
+2571   ethnic  915                   Makian Timur
+2572   ethnic  916                        Mangole
+2573   ethnic  917                         Manipa
+2574   ethnic  919                        Morotai
+2575   ethnic  920                         Patani
+2576   ethnic  921                           Pugu
+2577   ethnic  922                      Sa'u/Sahu
+2578   ethnic  923                         Siboyo
+2579   ethnic  924                       Tabayama
+2580   ethnic  925                        Taliabu
+2581   ethnic  926                        Ternate
+2582   ethnic  927                         Tidore
+2583   ethnic  928                         Tobaru
+2584   ethnic  929                         Tobelo
+2585   ethnic  930                           Weda
+2586   ethnic  931                           Abau
+2587   ethnic  932                           Abra
+2588   ethnic  933                          Adora
+2589   ethnic  935                           Aiso
+2590   ethnic  936                         Amabai
+2591   ethnic  938                     Amberbaken
+2592   ethnic  939                        Arandai
+2593   ethnic  940                         Arguni
+2594   ethnic  942                     Atam/Hatam
+2595   ethnic  943                          Atori
+2596   ethnic  944                          Baham
+2597   ethnic  948                           Biga
+2598   ethnic  950                         Busami
+2599   ethnic  952                     Iha/Kapaur
+2600   ethnic  953                      Inanwatan
+2601   ethnic  954                Irahutu/Irarutu
+2602   ethnic  955                           Kais
+2603   ethnic  956       Kamberau/Kambrau/Lambrau
+2604   ethnic  957                          Karas
+2605   ethnic  958                          Karon
+2606   ethnic  959                           Kawe
+2607   ethnic  962                         Kokoda
+2608   ethnic  963                           Kuri
+2609   ethnic  964                          Madik
+2610   ethnic  965                        Mairasi
+2611   ethnic  967                       Meibarat
+2612   ethnic  968                        Meoswar
+2613   ethnic  970                    Meyah/Meyak
+2614   ethnic  971                       Moi/Mooi
+2615   ethnic  973                           Onin
+2616   ethnic  974                           Roon
+2617   ethnic  975                          Seget
+2618   ethnic  977                         Semini
+2619   ethnic  978                          Sough
+2620   ethnic  980                          Tabla
+2621   ethnic  982            Tehid/Tehit/Tehiyit
+2622   ethnic  984                         Waigeo
+2623   ethnic  985                       Wandamen
+2624   ethnic  991          Air Mati/Kwerba/Nabuk
+2625   ethnic  995                          Ambai
+2626   ethnic  997                        Amungme
+2627   ethnic  999                          Ansus
+2628   ethnic 1000                       Anu/Anus
+2629   ethnic 1002                    Arfak/Ayfat
+2630   ethnic 1003          Arui/Serui/Serui Laut
+2631   ethnic 1004               Asmat/Betch-Mbup
+2632   ethnic 1005              Atogoim/Autohwaim
+2633   ethnic 1006 Auwye/Ekagi/Ekari/Kapauku/Me M
+2634   ethnic 1007                           Auyu
+2635   ethnic 1008                      Away/Awyu
+2636   ethnic 1009                      Awye/Awyi
+2637   ethnic 1010                        Ayamaru
+2638   ethnic 1011                           Babe
+2639   ethnic 1013                         Bagusa
+2640   ethnic 1015                           Baso
+2641   ethnic 1016         Baudi/Bauji/Bauri/Bazi
+2642   ethnic 1017                          Bausi
+2643   ethnic 1020                          Berik
+2644   ethnic 1021                          Betaf
+2645   ethnic 1022                     Bgu/Bonggo
+2646   ethnic 1023   Biak-Numfor/Mafoorsch/Noefor
+2647   ethnic 1026                   Bipim/Biplim
+2648   ethnic 1027                           Bira
+2649   ethnic 1028                         Bismam
+2650   ethnic 1029                         Bonefa
+2651   ethnic 1032                       Borapasi
+2652   ethnic 1034       Brazza/Cicak/Citak Mitak
+2653   ethnic 1037                         Burate
+2654   ethnic 1038                          Dabra
+2655   ethnic 1039                          Damal
+2656   ethnic 1040                     Dani/Ndani
+2657   ethnic 1041             Dauwa/Nduga/Ndugwa
+2658   ethnic 1042                        Dem/Lem
+2659   ethnic 1043                          Demba
+2660   ethnic 1045                          Demta
+2661   ethnic 1049                           Dubu
+2662   ethnic 1050                          Edopi
+2663   ethnic 1056                          Faoau
+2664   ethnic 1059                           Foau
+2665   ethnic 1060                           Foya
+2666   ethnic 1061                           Gebe
+2667   ethnic 1062                 Gressi/Gressik
+2668   ethnic 1063                         Hambai
+2669   ethnic 1067                          Hupla
+2670   ethnic 1069                            Ina
+2671   ethnic 1074                Isirawa/Okwasar
+2672   ethnic 1077                          Jaban
+2673   ethnic 1078                           Jair
+2674   ethnic 1081                         Joerat
+2675   ethnic 1084          Kaigir/Kayagar/Kayigi
+2676   ethnic 1086                        Kalabra
+2677   ethnic 1087               Kaladar/Kimagama
+2678   ethnic 1088                         Kamoro
+2679   ethnic 1090                          Kanum
+2680   ethnic 1091 Kaokonau/Komora/Lakahia/Maswen
+2681   ethnic 1093                 Kapauri/Kapori
+2682   ethnic 1095                        Kaptiau
+2683   ethnic 1098                        Kasueri
+2684   ethnic 1102                         Kaureh
+2685   ethnic 1105           Kayu Batu/Kayu Pulau
+2686   ethnic 1106                          Keder
+2687   ethnic 1107                        Kendate
+2688   ethnic 1108                          Kerom
+2689   ethnic 1110                      Ketengban
+2690   ethnic 1111                       Kiamorep
+2691   ethnic 1113                         Kimyal
+2692   ethnic 1114                      Kiri-kiri
+2693   ethnic 1116                        Kokonau
+2694   ethnic 1117                         Kombai
+2695   ethnic 1120                        Korowai
+2696   ethnic 1121                         Korufa
+2697   ethnic 1123                        Kotogut
+2698   ethnic 1126                         Kurudu
+2699   ethnic 1128                        Kwesten
+2700   ethnic 1130                           Lani
+2701   ethnic 1131                     Lani Barat
+2702   ethnic 1132                    Lani Lembah
+2703   ethnic 1133                            Lau
+2704   ethnic 1135                           Liki
+2705   ethnic 1136                          Maden
+2706   ethnic 1137                      Madidwana
+2707   ethnic 1138                         Maklew
+2708   ethnic 1139                         Mander
+2709   ethnic 1140                        Mandobo
+2710   ethnic 1141                          Manem
+2711   ethnic 1145                           Mapi
+2712   ethnic 1146                      Marembori
+2713   ethnic 1148                          Marin
+2714   ethnic 1149                    Marind Anim
+2715   ethnic 1153                            Mee
+2716   ethnic 1158                       Mey Brat
+2717   ethnic 1159                         Mimika
+2718   ethnic 1160                      Mintamani
+2719   ethnic 1161                           Mire
+2720   ethnic 1162                          Modan
+2721   ethnic 1163                          Moire
+2722   ethnic 1164                          Molof
+2723   ethnic 1165                         Mombum
+2724   ethnic 1166                         Momuna
+2725   ethnic 1167                           Moni
+2726   ethnic 1168                            Mor
+2727   ethnic 1171                         Morwap
+2728   ethnic 1173                         Mosena
+2729   ethnic 1174                       Mukamuga
+2730   ethnic 1176                           Muri
+2731   ethnic 1177                          Murop
+2732   ethnic 1178                           Muyu
+2733   ethnic 1179                          Nafri
+2734   ethnic 1181              Nambrung/Nimboran
+2735   ethnic 1186                         Nerigo
+2736   ethnic 1187              Ngalik/Yali/Yalik
+2737   ethnic 1188                         Ngalum
+2738   ethnic 1191                           Nisa
+2739   ethnic 1193                      Okparimen
+2740   ethnic 1194                      Oria/Uria
+2741   ethnic 1195                           Ormu
+2742   ethnic 1197                        Otodema
+2743   ethnic 1199                         Palata
+2744   ethnic 1200                       Papasena
+2745   ethnic 1201                         Papuma
+2746   ethnic 1202                       Patimuni
+2747   ethnic 1203                       Pesekhem
+2748   ethnic 1204                           Pisa
+2749   ethnic 1205                         Podena
+2750   ethnic 1206                            Pom
+2751   ethnic 1208                       Riantana
+2752   ethnic 1209                          Safan
+2753   ethnic 1210                       Sailolof
+2754   ethnic 1211                     Samarokena
+2755   ethnic 1212                         Sangke
+2756   ethnic 1214                          Sarmi
+2757   ethnic 1216                          Sauri
+2758   ethnic 1217                          Sause
+2759   ethnic 1220                          Saweh
+2760   ethnic 1221                           Sawi
+2761   ethnic 1225                  Seka/Seko/Sko
+2762   ethnic 1228                         Senggi
+2763   ethnic 1229                        Sentani
+2764   ethnic 1234                          Simai
+2765   ethnic 1237                          Skouw
+2766   ethnic 1238                          Sobei
+2767   ethnic 1240                           Sota
+2768   ethnic 1241                          Sowei
+2769   ethnic 1243              Sumaghaghe Tabati
+2770   ethnic 1246                         Tabati
+2771   ethnic 1247                           Tabu
+2772   ethnic 1250                      Tamagario
+2773   ethnic 1251                         Tamnim
+2774   ethnic 1252                          Taori
+2775   ethnic 1253                         Tapuma
+2776   ethnic 1254                  Tarfia/Tarpia
+2777   ethnic 1257                          Tause
+2778   ethnic 1258                       Timorini
+2779   ethnic 1262                       Tunggare
+2780   ethnic 1263                           Turu
+2781   ethnic 1266                            Una
+2782   ethnic 1273                           Usku
+2783   ethnic 1275                          Waina
+2784   ethnic 1277                          Waipu
+2785   ethnic 1280                          Walak
+2786   ethnic 1281                          Walsa
+2787   ethnic 1282                         Wambon
+2788   ethnic 1283                         Wamesa
+2789   ethnic 1286                 Wanggo/Wanggom
+2790   ethnic 1287                           Wano
+2791   ethnic 1288                      Warembori
+2792   ethnic 1290                          Waris
+2793   ethnic 1292                 Waropen/Worpen
+2794   ethnic 1295             Woda/Wodani/Wolani
+2795   ethnic 1297                            Woi
+2796   ethnic 1298                        Woriasi
+2797   ethnic 1299                          Yaban
+2798   ethnic 1301                         Yaghay
+2799   ethnic 1304                           Yaly
+2800   ethnic 1306                        Yanggon
+2801   ethnic 1308                          Yansu
+2802   ethnic 1309                          Yapen
+2803   ethnic 1311                           Yaur
+2804   ethnic 1313                            Yey
+2805   ethnic 1314 Aiduma/Kaiwai/Kayumerah/Koiwai
+2806   ethnic 1315                 Kemtuik/Kemtuk
+2807   ethnic 2000        Other tribes of Sumatra
+2808   ethnic 3000           Other tribes of Java
+2809   ethnic 9000                   Other tribes
+2810   ethnic 4000 Other tribes of Bali and Nusa 
+2811   ethnic 5000     Other tribes of Kalimantan
+2812   ethnic 6000       Other tribes of Sulawesi
+2813   ethnic 7000         Other tribes of Maluku
+2814   ethnic 8000          Other tribes of Papua
+2815   ethnic 9100                       American
+2816   ethnic 9110                           Arab
+2817   ethnic 9121                        Chinese
+2818   ethnic 9122                    Chinese PRC
+2819   ethnic 9123                 Chinese Taiwan
+2820   ethnic 9130                         Indian
+2821   ethnic 9140                        English
+2822   ethnic 9150                       Japanese
+2823   ethnic 9160                         Korean
+2824   ethnic 9170                      Malaysian
+2825   ethnic 9180                      Pakistani
+2826   ethnic 9190                       Filipino
+2827   ethnic 9200                           Thai
+2828   ethnic 9210                          Dutch
+2829   ethnic 9999                            NIU
+2830  foreign    1                 Southeast Asia
+2831  foreign    2                          China
+2832  foreign    3                     South Asia
+2833  foreign    4                          Japan
+2834  foreign    5                    South Korea
+2835  foreign    6                    Middle East
+2836  foreign    7                     Other Asia
+2837  foreign    8                      Australia
+2838  foreign    9                  South Pacific
+2839  foreign   10                  United States
+2840  foreign   11                      Caribbean
+2841  foreign   12      Central and South America
+2842  foreign   14                         Canada
+2843  foreign   15                         Africa
+2844  foreign   20                    Netherlands
+2845  foreign   21         Other European country
+2846  foreign   23                          Other
+2847  foreign   24                      Stateless
+2848  foreign   99                            NIU
+2849    prov5   11       Nanggroe Aceh Darussalam
+2850    prov5   12                 Sumatera Utara
+2851    prov5   13                 Sumatera Barat
+2852    prov5   14                           Riau
+2853    prov5   15                          Jambi
+2854    prov5   16               Sumatera Selatan
+2855    prov5   17                       Bengkulu
+2856    prov5   18                        Lampung
+2857    prov5   19                Bangka Belitung
+2858    prov5   21                 Kepulauan Riau
+2859    prov5   31                    DKI Jakarta
+2860    prov5   32                     Jawa Barat
+2861    prov5   33                    Jawa Tengah
+2862    prov5   34                  DI Yogyakarta
+2863    prov5   35                     Jawa Timur
+2864    prov5   36                         Banten
+2865    prov5   51                           Bali
+2866    prov5   52            Nusa Tenggara Barat
+2867    prov5   53            Nusa Tenggara Timur
+2868    prov5   61               Kalimantan Barat
+2869    prov5   62              Kalimantan Tengah
+2870    prov5   63             Kalimantan Selatan
+2871    prov5   64               Kalimantan Timur
+2872    prov5   71                 Sulawesi Utara
+2873    prov5   72                Sulawesi Tengah
+2874    prov5   73               Sulawesi Selatan
+2875    prov5   74              Sulawesi Tenggara
+2876    prov5   75                      Gorontalo
+2877    prov5   76                 Sulawesi Barat
+2878    prov5   81                         Maluku
+2879    prov5   82                   Maluku Utara
+2880    prov5   91                    Papua Barat
+2881    prov5   94                          Papua
+2882    prov5   98                         Abroad
+2883    prov5   99                            NIU
+2884    dist5 1101                       Simeuleu
+2885    dist5 1102                   Aceh Singkil
+2886    dist5 1103                   Aceh Selatan
+2887    dist5 1104                  Aceh Tenggara
+2888    dist5 1105                     Aceh Timur
+2889    dist5 1106                    Aceh Tengah
+2890    dist5 1107                     Aceh Barat
+2891    dist5 1108                     Aceh Besar
+2892    dist5 1109                          Pidie
+2893    dist5 1110                         Bireun
+2894    dist5 1111                     Aceh Utara
+2895    dist5 1112                Aceh Barat Daya
+2896    dist5 1113                      Gayo Lues
+2897    dist5 1114                   Aceh Tamiang
+2898    dist5 1115                     Nagan Raya
+2899    dist5 1116                      Aceh Jaya
+2900    dist5 1117                   Bener Meriah
+2901    dist5 1118                     Pidie Jaya
+2902    dist5 1171                     Banda Aceh
+2903    dist5 1172                         Sabang
+2904    dist5 1173                         Langsa
+2905    dist5 1174                    Lhokseumawe
+2906    dist5 1175                   Subulussalam
+2907    dist5 1201                           Nias
+2908    dist5 1202               Mandailing Natal
+2909    dist5 1203               Tapanuli Selatan
+2910    dist5 1204                Tapanuli Tengah
+2911    dist5 1205                 Tapanuli Utara
+2912    dist5 1206                   Toba Samosir
+2913    dist5 1207                   Labuhan Batu
+2914    dist5 1208                         Asahan
+2915    dist5 1209                     Simalungun
+2916    dist5 1210                          Dairi
+2917    dist5 1211                           Karo
+2918    dist5 1212                   Deli Serdang
+2919    dist5 1213                        Langkat
+2920    dist5 1214                   Nias Selatan
+2921    dist5 1215             Humbang Hasundutan
+2922    dist5 1216                  Pakpak Bharat
+2923    dist5 1217                        Samosir
+2924    dist5 1218                Serdang Bedagai
+2925    dist5 1219                      Batu Bara
+2926    dist5 1220             Padang Lawas Utara
+2927    dist5 1221                   Padang Lawas
+2928    dist5 1222           Labuhan Batu Selatan
+2929    dist5 1223             Labuhan Batu Utara
+2930    dist5 1224                     Nias Utara
+2931    dist5 1225                     Nias Barat
+2932    dist5 1271                        Sibolga
+2933    dist5 1272                  Tanjung Balai
+2934    dist5 1273               Pematang Siantar
+2935    dist5 1274                  Tebing Tinggi
+2936    dist5 1275                          Medan
+2937    dist5 1276                         Binjai
+2938    dist5 1277                Padangsidimpuan
+2939    dist5 1278              Kota Gunungsitoli
+2940    dist5 1301             Kepulauan Mentawai
+2941    dist5 1302                Pesisir Selatan
+2942    dist5 1303                          Solok
+2943    dist5 1304           Sawahlunto/Sijunjung
+2944    dist5 1305                    Tanah Datar
+2945    dist5 1306                Padang Pariaman
+2946    dist5 1307                           Agam
+2947    dist5 1308                Lima Puluh Koto
+2948    dist5 1309                        Pasaman
+2949    dist5 1310                  Solok Selatan
+2950    dist5 1311                    Dharmasraya
+2951    dist5 1312                  Pasaman Barat
+2952    dist5 1371                    Kota Padang
+2953    dist5 1372                     Kota Solok
+2954    dist5 1373               Kota Sawah Lunto
+2955    dist5 1374            Kota Padang Panjang
+2956    dist5 1375               Kota Bukittinggi
+2957    dist5 1376                Kota Payakumbuh
+2958    dist5 1377                  Kota Pariaman
+2959    dist5 1401               Kuantan Singingi
+2960    dist5 1402                 Indragiri Hulu
+2961    dist5 1403                Indragiri Hilir
+2962    dist5 1404                      Pelalawan
+2963    dist5 1405                           Siak
+2964    dist5 1406                         Kampar
+2965    dist5 1407                     Rokan Hulu
+2966    dist5 1408                      Bengkalis
+2967    dist5 1409                    Rokan Hilir
+2968    dist5 1410              Kepulauan Meranti
+2969    dist5 1471                     Pekan Baru
+2970    dist5 1473                          Dumai
+2971    dist5 1501                        Kerinci
+2972    dist5 1502                       Merangin
+2973    dist5 1503                     Sarolangun
+2974    dist5 1504                    Batang Hari
+2975    dist5 1505                    Muaro Jambi
+2976    dist5 1506           Tanjung Jabung Timur
+2977    dist5 1507           Tanjung Jabung Barat
+2978    dist5 1508                           Tebo
+2979    dist5 1509                          Bungo
+2980    dist5 1571                          Jambi
+2981    dist5 1572              Kota Sungai Penuh
+2982    dist5 1601              Ogan Komering Ulu
+2983    dist5 1602             Ogan Komering Ilir
+2984    dist5 1603                     Muara Enim
+2985    dist5 1604                          Lahat
+2986    dist5 1605                     Musi Rawas
+2987    dist5 1606                 Musi Banyuasin
+2988    dist5 1607                     Banyu Asin
+2989    dist5 1608      Ogan Komering Ulu Selatan
+2990    dist5 1609        Ogan Komering Ulu Timur
+2991    dist5 1610                      Ogan Ilir
+2992    dist5 1611                   Empat Lawang
+2993    dist5 1671                      Palembang
+2994    dist5 1672                     Prabumulih
+2995    dist5 1673                     Pagar Alam
+2996    dist5 1674                   Lubuklinggau
+2997    dist5 1701               Bengkulu Selatan
+2998    dist5 1702                  Rejang Lebong
+2999    dist5 1703                 Bengkulu Utara
+3000    dist5 1704                           Kaur
+3001    dist5 1705                         Seluma
+3002    dist5 1706                       Mukomuko
+3003    dist5 1707                         Lebong
+3004    dist5 1708                      Kepahiang
+3005    dist5 1709                Bengkulu Tengah
+3006    dist5 1771                       Bengkulu
+3007    dist5 1801                  Lampung Barat
+3008    dist5 1802                      Tanggamus
+3009    dist5 1803                Lampung Selatan
+3010    dist5 1804                  Lampung Timur
+3011    dist5 1805                 Lampung Tengah
+3012    dist5 1806                  Lampung Utara
+3013    dist5 1807                      Way Kanan
+3014    dist5 1808                   Tulangbawang
+3015    dist5 1809                      Pesawaran
+3016    dist5 1810                      Pringsewu
+3017    dist5 1811                         Mesuji
+3018    dist5 1812             Tulangbawang Barat
+3019    dist5 1871                 Bandar Lampung
+3020    dist5 1872                          Metro
+3021    dist5 1901                         Bangka
+3022    dist5 1902                       Belitung
+3023    dist5 1903                   Bangka Barat
+3024    dist5 1904                  Bangka Tengah
+3025    dist5 1905                 Bangka Selatan
+3026    dist5 1906                 Belitung Timur
+3027    dist5 1971                 Pangkal Pinang
+3028    dist5 2101                        Karimun
+3029    dist5 2102                         Bintan
+3030    dist5 2103                         Natuna
+3031    dist5 2104                         Lingga
+3032    dist5 2105              Kepulauan Anambas
+3033    dist5 2171                          Batam
+3034    dist5 2172                 Tanjung Pinang
+3035    dist5 3101               Kepulauan Seribu
+3036    dist5 3171                Jakarta Selatan
+3037    dist5 3172                  Jakarta Timur
+3038    dist5 3173                  Jakarta Pusat
+3039    dist5 3174                  Jakarta Barat
+3040    dist5 3175                  Jakarta Utara
+3041    dist5 3201                          Bogor
+3042    dist5 3202                       Sukabumi
+3043    dist5 3203                        Cianjur
+3044    dist5 3204                        Bandung
+3045    dist5 3205                          Garut
+3046    dist5 3206                    Tasikmalaya
+3047    dist5 3207                         Ciamis
+3048    dist5 3208                       Kuningan
+3049    dist5 3209                        Cirebon
+3050    dist5 3210                     Majalengka
+3051    dist5 3211                       Sumedang
+3052    dist5 3212                      Indramayu
+3053    dist5 3213                         Subang
+3054    dist5 3214                     Purwakarta
+3055    dist5 3215                       Karawang
+3056    dist5 3216                         Bekasi
+3057    dist5 3217                  Bandung Barat
+3058    dist5 3271                          Bogor
+3059    dist5 3272                       Sukabumi
+3060    dist5 3273                        Bandung
+3061    dist5 3274                        Cirebon
+3062    dist5 3275                         Bekasi
+3063    dist5 3276                          Depok
+3064    dist5 3277                         Cimahi
+3065    dist5 3278                    Tasikmalaya
+3066    dist5 3279                         Banjar
+3067    dist5 3301                        Cilacap
+3068    dist5 3302                       Banyumas
+3069    dist5 3303                    Purbalingga
+3070    dist5 3304                   Banjarnegara
+3071    dist5 3305                        Kebumen
+3072    dist5 3306                      Purworejo
+3073    dist5 3307                       Wonosobo
+3074    dist5 3308                       Magelang
+3075    dist5 3309                       Boyolali
+3076    dist5 3310                         Klaten
+3077    dist5 3311                      Sukoharjo
+3078    dist5 3312                       Wonogiri
+3079    dist5 3313                    Karanganyar
+3080    dist5 3314                         Sragen
+3081    dist5 3315                       Grobogan
+3082    dist5 3316                          Blora
+3083    dist5 3317                        Rembang
+3084    dist5 3318                           Pati
+3085    dist5 3319                          Kudus
+3086    dist5 3320                         Jepara
+3087    dist5 3321                          Demak
+3088    dist5 3322                       Semarang
+3089    dist5 3323                     Temanggung
+3090    dist5 3324                         Kendal
+3091    dist5 3325                         Batang
+3092    dist5 3326                     Pekalongan
+3093    dist5 3327                       Pemalang
+3094    dist5 3328                          Tegal
+3095    dist5 3329                         Brebes
+3096    dist5 3371                       Magelang
+3097    dist5 3372                      Surakarta
+3098    dist5 3373                       Salatiga
+3099    dist5 3374                       Semarang
+3100    dist5 3375                     Pekalongan
+3101    dist5 3376                          Tegal
+3102    dist5 3401                    Kulon Progo
+3103    dist5 3402                         Bantul
+3104    dist5 3403                   Gunung Kidul
+3105    dist5 3404                         Sleman
+3106    dist5 3471                     Yogyakarta
+3107    dist5 3501                        Pacitan
+3108    dist5 3502                       Ponorogo
+3109    dist5 3503                     Trenggalek
+3110    dist5 3504                    Tulungagung
+3111    dist5 3505                         Blitar
+3112    dist5 3506                         Kediri
+3113    dist5 3507                         Malang
+3114    dist5 3508                       Lumajang
+3115    dist5 3509                         Jember
+3116    dist5 3510                     Banyuwangi
+3117    dist5 3511                      Bondowoso
+3118    dist5 3512                      Situbondo
+3119    dist5 3513                    Probolinggo
+3120    dist5 3514                       Pasuruan
+3121    dist5 3515                       Sidoarjo
+3122    dist5 3516                      Mojokerto
+3123    dist5 3517                        Jombang
+3124    dist5 3518                        Nganjuk
+3125    dist5 3519                         Madiun
+3126    dist5 3520                        Magetan
+3127    dist5 3521                          Ngawi
+3128    dist5 3522                     Bojonegoro
+3129    dist5 3523                          Tuban
+3130    dist5 3524                       Lamongan
+3131    dist5 3525                         Gresik
+3132    dist5 3526                      Bangkalan
+3133    dist5 3527                        Sampang
+3134    dist5 3528                      Pamekasan
+3135    dist5 3529                        Sumenep
+3136    dist5 3571                         Kediri
+3137    dist5 3572                         Blitar
+3138    dist5 3573                         Malang
+3139    dist5 3574                    Probolinggo
+3140    dist5 3575                       Pasuruan
+3141    dist5 3576                      Mojokerto
+3142    dist5 3577                         Madiun
+3143    dist5 3578                       Surabaya
+3144    dist5 3579                           Batu
+3145    dist5 3601                     Pandeglang
+3146    dist5 3602                          Lebak
+3147    dist5 3603                      Tangerang
+3148    dist5 3604                         Serang
+3149    dist5 3671                      Tangerang
+3150    dist5 3672                        Cilegon
+3151    dist5 3673                         Serang
+3152    dist5 3674         Kota Tangerang Selatan
+3153    dist5 5101                       Jembrana
+3154    dist5 5102                        Tabanan
+3155    dist5 5103                         Badung
+3156    dist5 5104                        Gianyar
+3157    dist5 5105                      Klungkung
+3158    dist5 5106                         Bangli
+3159    dist5 5107                    Karang Asem
+3160    dist5 5108                       Buleleng
+3161    dist5 5171                       Denpasar
+3162    dist5 5201                   Lombok Barat
+3163    dist5 5202                  Lombok Tengah
+3164    dist5 5203                   Lombok Timur
+3165    dist5 5204                        Sumbawa
+3166    dist5 5205                          Dompu
+3167    dist5 5206                           Bima
+3168    dist5 5207                  Sumbawa Barat
+3169    dist5 5208                   Lombok Utara
+3170    dist5 5271                        Mataram
+3171    dist5 5272                           Bima
+3172    dist5 5301                    Sumba Barat
+3173    dist5 5302                    Sumba Timur
+3174    dist5 5303                         Kupang
+3175    dist5 5304           Timor Tengah Selatan
+3176    dist5 5305             Timor Tengah Utara
+3177    dist5 5306                           Belu
+3178    dist5 5307                           Alor
+3179    dist5 5308                        Lembata
+3180    dist5 5309                   Flores Timur
+3181    dist5 5310                          Sikka
+3182    dist5 5311                           Ende
+3183    dist5 5312                          Ngada
+3184    dist5 5313                      Manggarai
+3185    dist5 5314                      Rote Ndao
+3186    dist5 5315                Manggarai Barat
+3187    dist5 5316                   Sumba Tengah
+3188    dist5 5317               Sumba Barat Daya
+3189    dist5 5318                        Nagekeo
+3190    dist5 5319                Manggarai Timur
+3191    dist5 5320                    Sabu Raijua
+3192    dist5 5371                         Kupang
+3193    dist5 6101                         Sambas
+3194    dist5 6102                     Bengkayang
+3195    dist5 6103                         Landak
+3196    dist5 6104                      Pontianak
+3197    dist5 6105                        Sanggau
+3198    dist5 6106                       Ketapang
+3199    dist5 6107                        Sintang
+3200    dist5 6108                    Kapuas Hulu
+3201    dist5 6109                        Sekadau
+3202    dist5 6110                         Melawi
+3203    dist5 6111                   Kayong Utara
+3204    dist5 6112                      Kubu Raya
+3205    dist5 6171                      Pontianak
+3206    dist5 6172                     Singkawang
+3207    dist5 6201             Kotawaringin Barat
+3208    dist5 6202             Kotawaringin Timur
+3209    dist5 6203                         Kapuas
+3210    dist5 6204                 Barito Selatan
+3211    dist5 6205                   Barito Utara
+3212    dist5 6206                       Sukamara
+3213    dist5 6207                       Lamandau
+3214    dist5 6208                        Seruyan
+3215    dist5 6209                       Katingan
+3216    dist5 6210                   Pulang Pisau
+3217    dist5 6211                     Gunung Mas
+3218    dist5 6212                   Barito Timur
+3219    dist5 6213                    Murung Raya
+3220    dist5 6271                  Palangka Raya
+3221    dist5 6301                     Tanah Laut
+3222    dist5 6302                      Kota Baru
+3223    dist5 6303                         Banjar
+3224    dist5 6304                   Barito Kuala
+3225    dist5 6305                          Tapin
+3226    dist5 6306            Hulu Sungai Selatan
+3227    dist5 6307             Hulu Sungai Tengah
+3228    dist5 6308              Hulu Sungai Utara
+3229    dist5 6309                       Tabalong
+3230    dist5 6310                    Tanah Bumbu
+3231    dist5 6311                       Balangan
+3232    dist5 6371                    Banjarmasin
+3233    dist5 6372                    Banjar Baru
+3234    dist5 6401                          Pasir
+3235    dist5 6402                    Kutai Barat
+3236    dist5 6403              Kutai Kartanegara
+3237    dist5 6404                    Kutai Timur
+3238    dist5 6405                          Berau
+3239    dist5 6406                        Malinau
+3240    dist5 6407                       Bulungan
+3241    dist5 6408                        Nunukan
+3242    dist5 6409            Penajam Paser Utara
+3243    dist5 6410                    Tana Tidung
+3244    dist5 6471                     Balikpapan
+3245    dist5 6472                      Samarinda
+3246    dist5 6473                        Tarakan
+3247    dist5 6474                        Bontang
+3248    dist5 7101              Bolaang Mongondow
+3249    dist5 7102                       Minahasa
+3250    dist5 7103              Kepulauan Sangihe
+3251    dist5 7104               Kepulauan Talaud
+3252    dist5 7105               Minahasa Selatan
+3253    dist5 7106                 Minahasa Utara
+3254    dist5 7107        Bolaang Mongondow Utara
+3255    dist5 7108         Siau Tagulandang Biaro
+3256    dist5 7109              Minahasa Tenggara
+3257    dist5 7110      Bolaang Mongondow Selatan
+3258    dist5 7111        Bolaang Mongondow Timur
+3259    dist5 7171                         Manado
+3260    dist5 7172                         Bitung
+3261    dist5 7173                        Tomohon
+3262    dist5 7174                     Kotamobagu
+3263    dist5 7201              Banggai Kepulauan
+3264    dist5 7202                        Banggai
+3265    dist5 7203                       Morowali
+3266    dist5 7204                           Poso
+3267    dist5 7205                       Donggala
+3268    dist5 7206                      Toli-Toli
+3269    dist5 7207                           Buol
+3270    dist5 7208                 Parigi Moutong
+3271    dist5 7209                   Tojo Una-Una
+3272    dist5 7210                           Sigi
+3273    dist5 7271                           Palu
+3274    dist5 7301                        Selayar
+3275    dist5 7302                      Bulukumba
+3276    dist5 7303                       Bantaeng
+3277    dist5 7304                      Jeneponto
+3278    dist5 7305                        Takalar
+3279    dist5 7306                           Gowa
+3280    dist5 7307                         Sinjai
+3281    dist5 7308                          Maros
+3282    dist5 7309       Pangkajene Dan Kepulauan
+3283    dist5 7310                          Barru
+3284    dist5 7311                           Bone
+3285    dist5 7312                        Soppeng
+3286    dist5 7313                           Wajo
+3287    dist5 7314              Sidenreng Rappang
+3288    dist5 7315                        Pinrang
+3289    dist5 7316                       Enrekang
+3290    dist5 7317                           Luwu
+3291    dist5 7318                    Tana Toraja
+3292    dist5 7322                     Luwu Utara
+3293    dist5 7325                     Luwu Timur
+3294    dist5 7326                   Toraja Utara
+3295    dist5 7371                       Makassar
+3296    dist5 7372                      Pare-Pare
+3297    dist5 7373                         Palopo
+3298    dist5 7401                          Buton
+3299    dist5 7402                           Muna
+3300    dist5 7403                         Konawe
+3301    dist5 7404                         Kolaka
+3302    dist5 7405                 Konawe Selatan
+3303    dist5 7406                        Bombana
+3304    dist5 7407                       Wakatobi
+3305    dist5 7408                   Kolaka Utara
+3306    dist5 7409                    Buton Utara
+3307    dist5 7410                   Konawe Utara
+3308    dist5 7471                        Kendari
+3309    dist5 7472                        Bau-Bau
+3310    dist5 7501                        Boalemo
+3311    dist5 7502                 Kab. Gorontalo
+3312    dist5 7503                       Pohuwato
+3313    dist5 7504                   Bone Bolango
+3314    dist5 7505                Gorontalo Utara
+3315    dist5 7571                 Kota Gorontalo
+3316    dist5 7601                         Majene
+3317    dist5 7602                Polewali Mandar
+3318    dist5 7603                         Mamasa
+3319    dist5 7604                         Mamuju
+3320    dist5 7605                   Mamuju Utara
+3321    dist5 8101          Maluku Tenggara Barat
+3322    dist5 8102                Maluku Tenggara
+3323    dist5 8103                  Maluku Tengah
+3324    dist5 8104                           Buru
+3325    dist5 8105                  Kepulauan Aru
+3326    dist5 8106             Seram Bagian Barat
+3327    dist5 8107             Seram Bagian Timur
+3328    dist5 8108              Maluku Barat Daya
+3329    dist5 8109                   Buru Selatan
+3330    dist5 8171                          Ambon
+3331    dist5 8172                           Tual
+3332    dist5 8201                Halmahera Barat
+3333    dist5 8202               Halmahera Tengah
+ [ reached getOption("max.print") -- omitted 1147 rows ]

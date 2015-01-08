@@ -1,0 +1,64 @@
+      vname                                                      vdescription
+1     cntry                                                           Country
+2      year                                                              Year
+3    sample                                           IPUMS sample identifier
+4    serial                                           Household serial number
+5     dwnum                                                   Dwelling number
+6     hhnum                                Household number (within dwelling)
+7       hhn                                  Number of households in dwelling
+8     pernd                                     Number of persons in dwelling
+9      pern                                    Number of persons in household
+10      fgq                                          Group quarters, inferred
+11     famn                                Number of families in the dwelling
+12     fbig Dwelling created by splitting apart a large dwelling or household
+13    story                          Position of dwelling within the building
+14    bldty                                                  Type of building
+15    conyr                                  Year of construction of building
+16   dwtype                                              Type of housing unit
+17    occup                                  Occupancy status of housing unit
+18    ownty                                                 Type of ownership
+19     room                      Number of rooms, and availability of kitchen
+20    kitch                                Number of kitchens of 4 m2 or more
+21   kitchs                  Number of kitchenettes less than 4 square meters
+22    baths                     Number of bathrooms with fixed bath or shower
+23   bathsn                  Number of bathrooms with no fixed bath or shower
+24 floorspr                                 Floorspace: rooms (square meters)
+25   watsup                                                      Water supply
+26   hotwat                                                         Hot water
+27      gas                                                               Gas
+28     heat                                                           Heating
+29   toilet                                                      Flush toilet
+30    sewer                                                   Sewage disposal
+31  comfort                                                  Level of comfort
+32   tenure                                  Occupancy status of the dwelling
+33   pernum                                                     Person number
+34    wtper                                                     Person weight
+35   pernum                                  Person number (within household)
+36   hhnumo                        Serial number of household within dwelling
+37 relatef1                                                     Family status
+38  tenurep                                          Dwelling's tenure status
+39      sex                                                               Sex
+40      age                                                               Age
+41  citizen                                                       Citizenship
+42    marst                                                    Marital status
+43     marn                                               Number of marriages
+44    conun                                               In consensual union
+45   chborn                                       Number of liveborn children
+46 relatef2                                    Relation to the head of family
+47  edattan                                 Highest education level completed
+48  empstat                                                 Economic activity
+49      occ                                                        Occupation
+50    hrswk                                             Hours worked per week
+51  classwk                                              Status in employment
+52      ind                                       Industry, branch of economy
+53    empsz                                   Number of employees of employer
+54  seekjob                                                       Seeking job
+55  seekdur                                                Months seeking job
+56 jobendyr                                           Year of ending last job
+57    commw                                                    Travel to work
+58    comms                                                  Travel to school
+59 commdurw                                 Duration of daily journey to work
+60 commdurs                               Duration of daily journey to school
+61  commloc                         Works or studies in locality of residence
+62   relate                                    Relationship to household head
+63   famnum                                    Family number within household

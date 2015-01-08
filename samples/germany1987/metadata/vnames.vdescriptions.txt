@@ -1,0 +1,127 @@
+       vname                                                                     vdescription
+1      cntry                                                                          Country
+2       year                                                                             Year
+3     sample                                                          IPUMS sample identifier
+4     serial                                                          Household serial number
+5      dwnum                                                                  Dwelling number
+6       pern                                                   Number of persons in household
+7       fbig                Dwelling created by splitting apart a large dwelling or household
+8    fbig_nh                         Number of persons in large household before it was split
+9      state                                                                    Federal state
+10    bldseq                  Sequence number of the building in regional list (new numbered)
+11     dwseq                       Sequence number of the dwelling in building (new numbered)
+12     seqhh                      Sequence number of the household in dwelling (new numbered)
+13   placsiz                                        Population size of community of residence
+14   dwowner                                                               Dwelling ownership
+15   leisure                                           Dwelling is leisure-time accommodation
+16   yrmoved                                                       Year of occupying dwelling
+17   kitchen                                                                          Kitchen
+18  kitchnet                                                                      Kitchenette
+19    shower                                                                    Bath / shower
+20    toilet                                                         Toilet (furnishing w.c.)
+21   heating                                                                     Main heating
+22   heatgas                                                    Gas is used as heating source
+23   heatoil                                               Fuel oil is used as heating source
+24  heatelec                                            Electricity is used as heating source
+25  heatcoal                                       Coal, wood, etc. is used as heating source
+26  heattele                                         Remote heating is used as heating source
+27  heatsolr                                 Solarenergy/geothermal is used as heating source
+28     rooms                                    Number of rooms with at least 6 square meters
+29  subrooms                                                           Number of sublet rooms
+30   commrms                                                Number of commercially used rooms
+31      area                                                Size of dwelling in square meters
+32   pubasst                     Dwelling subsidized with funds for publicly assisted housing
+33      rent                                                 Monthly rent (in Deutsche Marks)
+34  empdwell                                                       Employer provided dwelling
+35   subrent                                                                  Subsidized rent
+36  bldtype1                                                               Type of building 1
+37     dorms                                                        Degree of residential use
+38  bldowner                                                            Ownership of building
+39   yrbuilt                                                 Year of construction of building
+40  subsidiz Degree of subsidization of dwellings in building with funds for publicly assiste
+41  bldtype2                                                               Type of building 2
+42    dwtype                                                                 Type of dwelling
+43   ndwells                                                  Number of dwellings in building
+44    nothdw                                       Number of other dwelling units in building
+45   nleisdw                                     Number of leisure-time dwellings in building
+46   leisbld                                               Leisure-time dwellings in building
+47   bldarea                                    Living space of the building in square metres
+48   bldheat                                                Main type of heating for building
+49  bldenerg                                                              Main type of energy
+50  bldsolar                                                                 Use solar energy
+51    bldfac                                                           Facilities in dwelling
+52    rooms2                                                      Statistical number of rooms
+53  rentarea                                     Rent in Deutsche Marks (DM) per square meter
+54     dwhhs                                            Number of households in dwelling unit
+55    dwpers                                               Number of persons in dwelling unit
+56   nlegres Number of persons in household belonging to legally residing population with mai
+57  nprinres                            Number of persons in household at principal residence
+58     pophh     Number of persons in household belonging to population in private households
+59   legres2 Number of persons in household belonging to legally residing population in their
+60    under3                                Number of single persons under age 3 in household
+61    under6                                Number of single persons under age 6 in household
+62   under10                               Number of single persons under age 10 in household
+63   under15                               Number of single persons under age 15 in household
+64   under18                               Number of single persons under age 18 in household
+65    nmarrs                                       Number of all married persons in household
+66  ncouples                                           Number of married couples in household
+67      ninc                     Number of persons with income in household (age 15 or older)
+68   nincemp     Number of persons with income from employment in household (age 15 or older)
+69    empref                                      Employment of reference person in household
+70  classref                              Present employment of reference person of household
+71  trainref     Indicator for reference person in household being in training/apprenticeship
+72   educref    Highest level of general education completed of reference person in household
+73   univref Highest level of vocational or university education of reference person in house
+74   ecacthh Number of economically active persons in household contributing to the livelihoo
+75     emphh                                          Number of employed persons in household
+76  nage1565                                Number of persons age 15 to under 65 in household
+77    nage66                                   Number of persons age 66 or older in household
+78    nage65                                   Number of persons age 65 or older in household
+79  nstudent                       Number of single pupils/students age under 18 in household
+80    typehh                                                                Type of household
+81   citizhh                                Indicator for citizenship of persons in household
+82   relighh                        Legal religious affiliation of spouse of reference person
+83  nopartnr               Number of persons widowed, divorced, or spouse-absent in household
+84  nopartnr               Number of persons widowed, divorced, or spouse-absent in household
+85  stud1528                                    Single students age 15-28 living in household
+86    pernum                                                                    Person number
+87     wtper                                                                    Person weight
+88    pernum                                                 Person number (within household)
+89      head                                      Indicator for reference person in household
+90       sex                                                                              Sex
+91     marst                                                                   Marital status
+92     relig                                     Legal affiliation with a religious community
+93     citiz                                                                      Citizenship
+94  secdwell  Occupancy of other dwelling (accommodation/room) in FRG including Berlin (West)
+95  maincoup Occupancy of other dwelling predominantly used by the family, for non-separated 
+96  mainothr          Occupancy of other dwelling predominantly used, for non-married persons
+97    travel                            Predominantly go to work or school from this dwelling
+98  fulltime                           Economically active full time (over 36 hours per week)
+99  parttime                          Economically active part-time (up to 36 hours per week)
+100    unemp                                                     Unemployed, looking for work
+101  inactiv                                                          Not economically active
+102   housep                                                               Housewife/houseman
+103  student                                                                  Pupil / student
+104 livehood                                                            Main source of living
+105  educlev                                     Highest level of general education completed
+106 edhigher                    Highest level of vocational or university education completed
+107  edfield              Main field of completed vocational or university education/training
+108 voctrain                                 Field of completed practical vocational training
+109 lengtrai                      Length of training, completed practical vocational training
+110 stattrai                                  Federal state in which that training took place
+111 travmode                                    Main mode of transportation to work or school
+112 travtime                               Length of time needed to commute to work or school
+113  classwk                                                       Present type of employment
+114      ind                                                                         Industry
+115      occ                                                                       Occupation
+116   secemp                                                             Secondary employment
+117  prinres                         Indicator of principal residence at place of enumeration
+118   legres                  Indicator whether person belongs to legally residing population
+119 resident                                      Resides at place of residence of the family
+120  empstat                                                             Employment indicator
+121      age                                                                              Age
+122  married                                                               Marriage indicator
+123  socecun                                         Socio-economic indicator according to UN
+124   sector                                                                Sector of economy
+125 socecon2                         Socio-economic indicator for economically active persons
+126 commtype                                                                 Type of commuter

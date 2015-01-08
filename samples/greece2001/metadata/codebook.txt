@@ -1,0 +1,3335 @@
+        vname  code                          short
+1       cntry    32                      Argentina
+2       cntry    51                        Armenia
+3       cntry    40                        Austria
+4       cntry    50                     Bangladesh
+5       cntry   112                        Belarus
+6       cntry    68                        Bolivia
+7       cntry    76                         Brazil
+8       cntry   854                   Burkina Faso
+9       cntry   116                       Cambodia
+10      cntry   120                       Cameroon
+11      cntry   124                         Canada
+12      cntry   152                          Chile
+13      cntry   156                          China
+14      cntry   170                       Colombia
+15      cntry   188                     Costa Rica
+16      cntry   192                           Cuba
+17      cntry   214             Dominican Republic
+18      cntry   218                        Ecuador
+19      cntry   818                          Egypt
+20      cntry   222                    El Salvador
+21      cntry   242                           Fiji
+22      cntry   250                         France
+23      cntry   276                        Germany
+24      cntry   288                          Ghana
+25      cntry   300                         Greece
+26      cntry   324                         Guinea
+27      cntry   332                          Haiti
+28      cntry   348                        Hungary
+29      cntry   356                          India
+30      cntry   360                      Indonesia
+31      cntry   364                           Iran
+32      cntry   368                           Iraq
+33      cntry   372                        Ireland
+34      cntry   376                         Israel
+35      cntry   380                          Italy
+36      cntry   388                        Jamaica
+37      cntry   400                         Jordan
+38      cntry   404                          Kenya
+39      cntry   417                Kyrgyz Republic
+40      cntry   430                        Liberia
+41      cntry   454                         Malawi
+42      cntry   458                       Malaysia
+43      cntry   466                           Mali
+44      cntry   484                         Mexico
+45      cntry   496                       Mongolia
+46      cntry   504                        Morocco
+47      cntry   524                          Nepal
+48      cntry   528                    Netherlands
+49      cntry   558                      Nicaragua
+50      cntry   566                        Nigeria
+51      cntry   586                       Pakistan
+52      cntry   275                      Palestine
+53      cntry   591                         Panama
+54      cntry   604                           Peru
+55      cntry   608                    Philippines
+56      cntry   620                       Portugal
+57      cntry   630                    Puerto Rico
+58      cntry   642                        Romania
+59      cntry   646                         Rwanda
+60      cntry   662                    Saint Lucia
+61      cntry   686                        Senegal
+62      cntry   694                   Sierra Leone
+63      cntry   705                       Slovenia
+64      cntry   710                   South Africa
+65      cntry   728                    South Sudan
+66      cntry   724                          Spain
+67      cntry   729                          Sudan
+68      cntry   756                    Switzerland
+69      cntry   834                       Tanzania
+70      cntry   764                       Thailand
+71      cntry   792                         Turkey
+72      cntry   800                         Uganda
+73      cntry   804                        Ukraine
+74      cntry   826                 United Kingdom
+75      cntry   840                  United States
+76      cntry   858                        Uruguay
+77      cntry   862                      Venezuela
+78      cntry   704                        Vietnam
+79      cntry   894                         Zambia
+80       year  1960                           1960
+81       year  1962                           1962
+82       year  1963                           1963
+83       year  1964                           1964
+84       year  1966                           1966
+85       year  1968                           1968
+86       year  1969                           1969
+87       year  1970                           1970
+88       year  1971                           1971
+89       year  1972                           1972
+90       year  1973                           1973
+91       year  1974                           1974
+92       year  1975                           1975
+93       year  1976                           1976
+94       year  1977                           1977
+95       year  1979                           1979
+96       year  1980                           1980
+97       year  1981                           1981
+98       year  1982                           1982
+99       year  1983                           1983
+100      year  1984                           1984
+101      year  1985                           1985
+102      year  1986                           1986
+103      year  1987                           1987
+104      year  1989                           1989
+105      year  1990                           1990
+106      year  1991                           1991
+107      year  1992                           1992
+108      year  1993                           1993
+109      year  1994                           1994
+110      year  1995                           1995
+111      year  1996                           1996
+112      year  1997                           1997
+113      year  1998                           1998
+114      year  1999                           1999
+115      year  2000                           2000
+116      year  2001                           2001
+117      year  2002                           2002
+118      year  2003                           2003
+119      year  2004                           2004
+120      year  2005                           2005
+121      year  2006                           2006
+122      year  2007                           2007
+123      year  2008                           2008
+124      year  2009                           2009
+125      year  2010                           2010
+126      year  2011                           2011
+127    sample   321                 Argentina 1970
+128    sample   322                 Argentina 1980
+129    sample   323                 Argentina 1991
+130    sample   324                 Argentina 2001
+131    sample   325                 Argentina 2010
+132    sample   511                   Armenia 2001
+133    sample   401                   Austria 1971
+134    sample   402                   Austria 1981
+135    sample   403                   Austria 1991
+136    sample   404                   Austria 2001
+137    sample   501                Bangladesh 1991
+138    sample   502                Bangladesh 2001
+139    sample   503                Bangladesh 2011
+140    sample   681                   Bolivia 1976
+141    sample   682                   Bolivia 1992
+142    sample   683                   Bolivia 2001
+143    sample   761                    Brazil 1960
+144    sample   762                    Brazil 1970
+145    sample   763                    Brazil 1980
+146    sample   764                    Brazil 1991
+147    sample   765                    Brazil 2000
+148    sample   766                    Brazil 2010
+149    sample  1121                   Belarus 1999
+150    sample  8541              Burkina Faso 1985
+151    sample  8542              Burkina Faso 1996
+152    sample  8543              Burkina Faso 2006
+153    sample  1161                  Cambodia 1998
+154    sample  1162                  Cambodia 2008
+155    sample  1201                  Cameroon 1976
+156    sample  1202                  Cameroon 1987
+157    sample  1203                  Cameroon 2005
+158    sample  1241                    Canada 1971
+159    sample  1242                    Canada 1981
+160    sample  1243                    Canada 1991
+161    sample  1244                    Canada 2001
+162    sample  1521                     Chile 1960
+163    sample  1522                     Chile 1970
+164    sample  1523                     Chile 1982
+165    sample  1524                     Chile 1992
+166    sample  1525                     Chile 2002
+167    sample  1561                     China 1982
+168    sample  1562                     China 1990
+169    sample  1701                  Colombia 1964
+170    sample  1702                  Colombia 1973
+171    sample  1703                  Colombia 1985
+172    sample  1704                  Colombia 1993
+173    sample  1705                  Colombia 2005
+174    sample  1881                Costa Rica 1963
+175    sample  1882                Costa Rica 1973
+176    sample  1883                Costa Rica 1984
+177    sample  1884                Costa Rica 2000
+178    sample  1921                      Cuba 2002
+179    sample  2141        Dominican Republic 1960
+180    sample  2142        Dominican Republic 1970
+181    sample  2143        Dominican Republic 1981
+182    sample  2144        Dominican Republic 2002
+183    sample  2145        Dominican Republic 2010
+184    sample  2181                   Ecuador 1962
+185    sample  2182                   Ecuador 1974
+186    sample  2183                   Ecuador 1982
+187    sample  2184                   Ecuador 1990
+188    sample  2185                   Ecuador 2001
+189    sample  2186                   Ecuador 2010
+190    sample  8181                     Egypt 1996
+191    sample  8182                     Egypt 2006
+192    sample  2221               El Salvador 1992
+193    sample  2222               El Salvador 2007
+194    sample  2421                      Fiji 1966
+195    sample  2422                      Fiji 1976
+196    sample  2423                      Fiji 1986
+197    sample  2424                      Fiji 1996
+198    sample  2425                      Fiji 2007
+199    sample  2501                    France 1962
+200    sample  2502                    France 1968
+201    sample  2503                    France 1975
+202    sample  2504                    France 1982
+203    sample  2505                    France 1990
+204    sample  2506                    France 1999
+205    sample  2507                    France 2006
+206    sample  2761            Germany 1970 (West)
+207    sample  2762            Germany 1971 (East)
+208    sample  2763            Germany 1981 (East)
+209    sample  2764            Germany 1987 (West)
+210    sample  2881                     Ghana 2000
+211    sample  2882                     Ghana 2010
+212    sample  3001                    Greece 1971
+213    sample  3002                    Greece 1981
+214    sample  3003                    Greece 1991
+215    sample  3004                    Greece 2001
+216    sample  3241                    Guinea 1983
+217    sample  3242                    Guinea 1996
+218    sample  3321                     Haiti 1971
+219    sample  3322                     Haiti 1982
+220    sample  3323                     Haiti 2003
+221    sample  3481                   Hungary 1970
+222    sample  3482                   Hungary 1980
+223    sample  3483                   Hungary 1990
+224    sample  3484                   Hungary 2001
+225    sample  3561                     India 1983
+226    sample  3562                     India 1987
+227    sample  3563                     India 1993
+228    sample  3564                     India 1999
+229    sample  3565                     India 2004
+230    sample  3601                 Indonesia 1971
+231    sample  3602                 Indonesia 1976
+232    sample  3603                 Indonesia 1980
+233    sample  3604                 Indonesia 1985
+234    sample  3605                 Indonesia 1990
+235    sample  3606                 Indonesia 1995
+236    sample  3607                 Indonesia 2000
+237    sample  3608                 Indonesia 2005
+238    sample  3609                 Indonesia 2010
+239    sample  3641                      Iran 2006
+240    sample  3681                      Iraq 1997
+241    sample  3721                   Ireland 1971
+242    sample  3722                   Ireland 1979
+243    sample  3723                   Ireland 1981
+244    sample  3724                   Ireland 1986
+245    sample  3725                   Ireland 1991
+246    sample  3726                   Ireland 1996
+247    sample  3727                   Ireland 2002
+248    sample  3728                   Ireland 2006
+249    sample  3729                   Ireland 2011
+250    sample  3761                    Israel 1972
+251    sample  3762                    Israel 1983
+252    sample  3763                    Israel 1995
+253    sample  3801                     Italy 2001
+254    sample  3881                   Jamaica 1982
+255    sample  3882                   Jamaica 1991
+256    sample  3883                   Jamaica 2001
+257    sample  4001                    Jordan 2004
+258    sample  4041                     Kenya 1969
+259    sample  4042                     Kenya 1979
+260    sample  4043                     Kenya 1989
+261    sample  4044                     Kenya 1999
+262    sample  4045                     Kenya 2009
+263    sample  4171           Kyrgyz Republic 1999
+264    sample  4172           Kyrgyz Republic 2009
+265    sample  4301                   Liberia 1974
+266    sample  4302                   Liberia 2008
+267    sample  4541                    Malawi 1987
+268    sample  4542                    Malawi 1998
+269    sample  4543                    Malawi 2008
+270    sample  4581                  Malaysia 1970
+271    sample  4582                  Malaysia 1980
+272    sample  4583                  Malaysia 1991
+273    sample  4584                  Malaysia 2000
+274    sample  4661                      Mali 1987
+275    sample  4662                      Mali 1998
+276    sample  4663                      Mali 2009
+277    sample  4841                    Mexico 1960
+278    sample  4842                    Mexico 1970
+279    sample  4843                    Mexico 1990
+280    sample  4844                    Mexico 1995
+281    sample  4845                    Mexico 2000
+282    sample  4846                    Mexico 2005
+283    sample  4847                    Mexico 2010
+284    sample  4961                  Mongolia 1989
+285    sample  4962                  Mongolia 2000
+286    sample  5041                   Morocco 1982
+287    sample  5042                   Morocco 1994
+288    sample  5043                   Morocco 2004
+289    sample  5241                     Nepal 2001
+290    sample  5281               Netherlands 1960
+291    sample  5282               Netherlands 1971
+292    sample  5283               Netherlands 2001
+293    sample  5581                 Nicaragua 1971
+294    sample  5582                 Nicaragua 1995
+295    sample  5583                 Nicaragua 2005
+296    sample  5661                   Nigeria 2006
+297    sample  5662                   Nigeria 2007
+298    sample  5663                   Nigeria 2008
+299    sample  5664                   Nigeria 2009
+300    sample  5665                   Nigeria 2010
+301    sample  5861                  Pakistan 1973
+302    sample  5862                  Pakistan 1981
+303    sample  5863                  Pakistan 1998
+304    sample  2751                 Palestine 1997
+305    sample  2752                 Palestine 2007
+306    sample  5911                    Panama 1960
+307    sample  5912                    Panama 1970
+308    sample  5913                    Panama 1980
+309    sample  5914                    Panama 1990
+310    sample  5915                    Panama 2000
+311    sample  5916                    Panama 2010
+312    sample  6041                      Peru 1993
+313    sample  6042                      Peru 2007
+314    sample  6081               Philippines 1990
+315    sample  6082               Philippines 1995
+316    sample  6083               Philippines 2000
+317    sample  6201                  Portugal 1981
+318    sample  6202                  Portugal 1991
+319    sample  6203                  Portugal 2001
+320    sample  6301               Puerto Rico 1970
+321    sample  6302               Puerto Rico 1980
+322    sample  6303               Puerto Rico 1990
+323    sample  6304               Puerto Rico 2000
+324    sample  6305               Puerto Rico 2005
+325    sample  6421                   Romania 1977
+326    sample  6422                   Romania 1992
+327    sample  6423                   Romania 2002
+328    sample  6461                    Rwanda 1991
+329    sample  6462                    Rwanda 2002
+330    sample  6621               Saint Lucia 1980
+331    sample  6622               Saint Lucia 1991
+332    sample  6861                   Senegal 1988
+333    sample  6862                   Senegal 2002
+334    sample  6941              Sierra Leone 2004
+335    sample  7051                  Slovenia 2002
+336    sample  7101              South Africa 1996
+337    sample  7102              South Africa 2001
+338    sample  7103              South Africa 2007
+339    sample  7241                     Spain 1981
+340    sample  7242                     Spain 1991
+341    sample  7243                     Spain 2001
+342    sample  7281               South Sudan 2008
+343    sample  7291                     Sudan 2008
+344    sample  7561               Switzerland 1970
+345    sample  7562               Switzerland 1980
+346    sample  7563               Switzerland 1990
+347    sample  7564               Switzerland 2000
+348    sample  8341                  Tanzania 1988
+349    sample  8342                  Tanzania 2002
+350    sample  7641                  Thailand 1970
+351    sample  7642                  Thailand 1980
+352    sample  7643                  Thailand 1990
+353    sample  7644                  Thailand 2000
+354    sample  7921                    Turkey 1985
+355    sample  7922                    Turkey 1990
+356    sample  7923                    Turkey 2000
+357    sample  8001                    Uganda 1991
+358    sample  8002                    Uganda 2002
+359    sample  8041                   Ukraine 2001
+360    sample  8261            United Kingdom 1991
+361    sample  8262            United Kingdom 2001
+362    sample  8401             United States 1960
+363    sample  8402             United States 1970
+364    sample  8403             United States 1980
+365    sample  8404             United States 1990
+366    sample  8405             United States 2000
+367    sample  8406             United States 2005
+368    sample  8407             United States 2010
+369    sample  8581                   Uruguay 1963
+370    sample  8582                   Uruguay 1975
+371    sample  8583                   Uruguay 1985
+372    sample  8584                   Uruguay 1996
+373    sample  8585                   Uruguay 2006
+374    sample  8586                   Uruguay 2011
+375    sample  8621                 Venezuela 1971
+376    sample  8622                 Venezuela 1981
+377    sample  8623                 Venezuela 1990
+378    sample  8624                 Venezuela 2001
+379    sample  7041                   Vietnam 1989
+380    sample  7042                   Vietnam 1999
+381    sample  7043                   Vietnam 2009
+382    sample  8941                    Zambia 1990
+383    sample  8942                    Zambia 2000
+384    sample  8943                    Zambia 2010
+385      pern     1                              1
+386      pern     2                              2
+387      pern     3                              3
+388      pern     4                              4
+389      pern     5                              5
+390      pern     6                              6
+391      pern     7                              7
+392      pern     8                              8
+393      pern     9                              9
+394      pern    10                             10
+395      pern    11                             11
+396      pern    12                             12
+397      pern    13                             13
+398      pern    14                             14
+399      pern    15                             15
+400      pern    16                             16
+401      pern    17                             17
+402      pern    18                             18
+403      pern    19                             19
+404      pern    20                             20
+405      pern    21                             21
+406      pern    25                             25
+407      pern    27                             27
+408      dept     1           Etolia and Akarnania
+409      dept     3                         Viotia
+410      dept     4                           Evia
+411      dept     5                      Evrytania
+412      dept     6                      Fthiotida
+413      dept     7                         Fokida
+414      dept    11                       Argolida
+415      dept    12                        Arkadia
+416      dept    13                         Achaia
+417      dept    14                           Ilia
+418      dept    15                      Korinthia
+419      dept    16                        Lakonia
+420      dept    17                       Messinia
+421      dept    21                      Zakynthos
+422      dept    22                        Kerkyra
+423      dept    23                     Kefallinia
+424      dept    24                        Lefkada
+425      dept    31                           Arta
+426      dept    32                     Thesprotia
+427      dept    33                       Ioannina
+428      dept    34                        Preveza
+429      dept    41                       Karditsa
+430      dept    42                        Larissa
+431      dept    43                      Magnissia
+432      dept    44                        Trikala
+433      dept    51                        Grevena
+434      dept    52                          Drama
+435      dept    53                        Imathia
+436      dept    54                   Thessaloniki
+437      dept    55                         Kavala
+438      dept    56                       Kastoria
+439      dept    57                         Kilkis
+440      dept    58                         Kozani
+441      dept    59                          Pella
+442      dept    61                         Pieria
+443      dept    62                         Serres
+444      dept    63                        Florina
+445      dept    64     Chalkidiki and Aghion Oros
+446      dept    71                          Evros
+447      dept    72                         Xanthi
+448      dept    73                         Rodopi
+449      dept    81                   Dodekanissos
+450      dept    82                       Kyklades
+451      dept    83                         Lesvos
+452      dept    84                          Samos
+453      dept    85                          Chios
+454      dept    91                        Iraklio
+455      dept    92                       Lassithi
+456      dept    93                       Rethymno
+457      dept    94                         Chania
+458      dept   101           Prefecture of Athens
+459      dept   102      Prefecture of East Attiki
+460      dept   103      Prefecture of West Attiki
+461      dept   104           Prefecture of Pireas
+462     munic   103        Municipality of Agrinio
+463     munic   199 Rest of Department Etolia and 
+464     munic   301        Municipality of Levadia
+465     munic   310          Municipality of Thiva
+466     munic   399      Rest of Department Viotia
+467     munic   401       Municipality of Chalkida
+468     munic   499        Rest of Department Evia
+469     munic   599   Rest of Department Evrytania
+470     munic   601          Municipality of Lamia
+471     munic   699   Rest of Department Fthiotida
+472     munic   799      Rest of Department Fokida
+473     munic  1102          Municipality of Argos
+474     munic  1199    Rest of Department Argolida
+475     munic  1201        Municipality of Tripoli
+476     munic  1299     Rest of Department Arkadia
+477     munic  1301          Municipality of Patra
+478     munic  1303          Municipality of Aegio
+479     munic  1399      Rest of Department Achaia
+480     munic  1401         Municipality of Pyrgos
+481     munic  1403       Municipality of Amaliada
+482     munic  1499        Rest of Department Ilia
+483     munic  1501      Municipality of Korinthos
+484     munic  1599   Rest of Department Korinthia
+485     munic  1699     Rest of Department Lakonia
+486     munic  1701       Municipality of Kalamata
+487     munic  1799    Rest of Department Messinia
+488     munic  2199   Rest of Department Zakynthos
+489     munic  2201        Municipality of Kerkyra
+490     munic  2299     Rest of Department Kerkyra
+491     munic  2399  Rest of Department Kefallinia
+492     munic  2499     Rest of Department Lefkada
+493     munic  3101           Municipality of Arta
+494     munic  3199        Rest of Department Arta
+495     munic  3299  Rest of Department Thesprotia
+496     munic  3301       Municipality of Ioannina
+497     munic  3399    Rest of Department Ioannina
+498     munic  3499     Rest of Department Preveza
+499     munic  4101       Municipality of Karditsa
+500     munic  4199    Rest of Department Karditsa
+501     munic  4201        Municipality of Larissa
+502     munic  4299     Rest of Department Larissa
+503     munic  4301          Municipality of Volos
+504     munic  4315      Municipality of Nea Ionia
+505     munic  4399   Rest of Department Magnissia
+506     munic  4401        Municipality of Trikala
+507     munic  4499     Rest of Department Trikala
+508     munic  5199     Rest of Department Grevena
+509     munic  5201          Municipality of Drama
+510     munic  5299       Rest of Department Drama
+511     munic  5301          Municipality of Veria
+512     munic  5311        Municipality of Naoussa
+513     munic  5399     Rest of Department Imathia
+514     munic  5401   Municipality of Thessaloniki
+515     munic  5405      Municipality of Abelokipi
+516     munic  5413 Municipality of Eleftherio-Kor
+517     munic  5415         Municipality of Evosmo
+518     munic  5416       Municipality of Echedoro
+519     munic  5417     Municipality of Thermaikos
+520     munic  5419      Municipality of Kalamaria
+521     munic  5431        Municipality of Neapoli
+522     munic  5433       Municipality of Polichni
+523     munic  5434          Municipality of Pylea
+524     munic  5437    Municipality of Stavroupoli
+525     munic  5438         Municipality of Sykees
+526     munic  5499 Rest of Department Thessalonik
+527     munic  5501         Municipality of Kavala
+528     munic  5599      Rest of Department Kavala
+529     munic  5699    Rest of Department Kastoria
+530     munic  5701         Municipality of Kilkis
+531     munic  5799      Rest of Department Kilkis
+532     munic  5801         Municipality of Kozani
+533     munic  5813     Municipality of Ptolemaida
+534     munic  5899      Rest of Department Kozani
+535     munic  5901         Municipality of Edessa
+536     munic  5902         Municipality of Aridea
+537     munic  5904      Municipality of Giannitsa
+538     munic  5999       Rest of Department Pella
+539     munic  6101       Municipality of Katerini
+540     munic  6199      Rest of Department Pieria
+541     munic  6201         Municipality of Serres
+542     munic  6299      Rest of Department Serres
+543     munic  6399     Rest of Department Florina
+544     munic  6499 Rest of Departments Chalkidiki
+545     munic  7101 Municipality of Alexandroupoli
+546     munic  7106      Municipality of Orestiada
+547     munic  7199       Rest of Department Evros
+548     munic  7201         Municipality of Xanthi
+549     munic  7299      Rest of Department Xanthi
+550     munic  7301       Municipality of Komotini
+551     munic  7399      Rest of Department Rodopi
+552     munic  8101          Municipality of Rodos
+553     munic  8199 Rest of Department Dodekanisso
+554     munic  8299    Rest of Department Kyklades
+555     munic  8301       Municipality of Mytilini
+556     munic  8399      Rest of Department Lesvos
+557     munic  8499       Rest of Department Samos
+558     munic  8501          Municipality of Chios
+559     munic  8599       Rest of Department Chios
+560     munic  9101        Municipality of Iraklio
+561     munic  9199     Rest of Department Iraklio
+562     munic  9202      Municipality of Ierapetra
+563     munic  9299    Rest of Department Lassithi
+564     munic  9301       Municipality of Rethymno
+565     munic  9399    Rest of Department Rethymno
+566     munic  9401         Municipality of Chania
+567     munic  9499      Rest of Department Chania
+568     munic 10101         Municipality of Athens
+569     munic 10102  Municipality of Aghia Varvara
+570     munic 10103 Municipality of Aghia Paraskev
+571     munic 10104 Municipality of Aghios Dimitri
+572     munic 10105 Municipality of Aghii Anargyri
+573     munic 10106        Municipality of Aegaleo
+574     munic 10107         Municipality of Alimos
+575     munic 10108     Municipality of Amaroussio
+576     munic 10109    Municipality of Argyroupoli
+577     munic 10110      Municipality of Vrilissia
+578     munic 10111          Municipality of Vyron
+579     munic 10112        Municipality of Galatsi
+580     munic 10113        Municipality of Glyfada
+581     munic 10114          Municipality of Dafni
+582     munic 10116       Municipality of Zografos
+583     munic 10117      Municipality of Ilioupoli
+584     munic 10118        Municipality of Iraklio
+585     munic 10119 Municipality of Ilio (Nea Lios
+586     munic 10120     Municipality of Kessariani
+587     munic 10121      Municipality of Kallithea
+588     munic 10122       Municipality of Kamatero
+589     munic 10123       Municipality of Kifissia
+590     munic 10126   Municipality of Metamorfossi
+591     munic 10127       Municipality of Moschato
+592     munic 10129      Municipality of Nea Ionia
+593     munic 10130     Municipality of Nea Smyrni
+594     munic 10131 Municipality of Nea Philadelfi
+595     munic 10134   Municipality of Paleo Faliro
+596     munic 10136      Municipality of Peristeri
+597     munic 10137     Municipality of Petroupoli
+598     munic 10142       Municipality of Chaidari
+599     munic 10143      Municipality of Chalandri
+600     munic 10144      Municipality of Cholargos
+601     munic 10199      Rest of Prefecture Athens
+602     munic 10205       Municipality of Acharnes
+603     munic 10207          Municipality of Voula
+604     munic 10213         Municipality of Koropi
+605     munic 10299 Rest of Prefecture East Attiki
+606     munic 10301       Municipality of Elefsina
+607     munic 10302    Municipality of Ano Liossia
+608     munic 10303    Municipality of Aspropyrgos
+609     munic 10308         Municipality of Megara
+610     munic 10399 Rest of Prefecture West Attiki
+611     munic 10401         Municipality of Pireas
+612     munic 10406      Municipality of Keratsini
+613     munic 10407     Municipality of Korydallos
+614     munic 10410          Municipality of Nikea
+615     munic 10411         Municipality of Perama
+616     munic 10413       Municipality of Salamina
+617     munic 10499      Rest of Prefecture Pireas
+618    locate     1            Within the locality
+619    locate     2           Outside the locality
+620   dwtype1     1               Regular dwelling
+621   dwtype1     2 Regular dwelling within collec
+622   dwtype1     3 Other building Intended for ho
+623   dwtype1     4 Mobile home (tent, boat, yacht
+624   dwtype1     5 Other building not Intended fo
+625   dwtype2     1                 Main residence
+626   dwtype2     2   Second or vacation residence
+627   dwtype2     3 Main residence but household t
+628   dwtype2     4                 Vacant: To let
+629   dwtype2     5               Vacant: For sale
+630   dwtype2     6 Vacant: For second of vacation
+631   dwtype2     7           Vacant: Other reason
+632   dwtype2     9                            NIU
+633   bldtype     1            Single-family house
+634   bldtype     2               Two-family house
+635   bldtype     3                 Block of flats
+636   bldtype     4 Building whose main use is not
+637   bldtype     9                            NIU
+638   constyr     1                    Before 1919
+639   constyr     2                      1919-1945
+640   constyr     3                      1946-1960
+641   constyr     4                      1961-1970
+642   constyr     5                      1971-1980
+643   constyr     6                      1981-1985
+644   constyr     7                      1986-1990
+645   constyr     8                      1991-1995
+646   constyr     9                          1996+
+647   constyr    99                            NIU
+648     space     0                            NIU
+649     space     5                              5
+650     space     6                              6
+651     space     7                              7
+652     space     8                              8
+653     space     9                              9
+654     space    10                             10
+655     space    11                             11
+656     space    12                             12
+657     space    13                             13
+658     space    14                             14
+659     space    15                             15
+660     space    16                             16
+661     space    17                             17
+662     space    18                             18
+663     space    19                             19
+664     space    20                             20
+665     space    21                             21
+666     space    22                             22
+667     space    23                             23
+668     space    24                             24
+669     space    25                             25
+670     space    26                             26
+671     space    27                             27
+672     space    28                             28
+673     space    29                             29
+674     space    30                             30
+675     space    31                             31
+676     space    32                             32
+677     space    33                             33
+678     space    34                             34
+679     space    35                             35
+680     space    36                             36
+681     space    37                             37
+682     space    38                             38
+683     space    39                             39
+684     space    40                             40
+685     space    41                             41
+686     space    42                             42
+687     space    43                             43
+688     space    44                             44
+689     space    45                             45
+690     space    46                             46
+691     space    47                             47
+692     space    48                             48
+693     space    49                             49
+694     space    50                             50
+695     space    51                             51
+696     space    52                             52
+697     space    53                             53
+698     space    54                             54
+699     space    55                             55
+700     space    56                             56
+701     space    57                             57
+702     space    58                             58
+703     space    59                             59
+704     space    60                             60
+705     space    61                             61
+706     space    62                             62
+707     space    63                             63
+708     space    64                             64
+709     space    65                             65
+710     space    66                             66
+711     space    67                             67
+712     space    68                             68
+713     space    69                             69
+714     space    70                             70
+715     space    71                             71
+716     space    72                             72
+717     space    73                             73
+718     space    74                             74
+719     space    75                             75
+720     space    76                             76
+721     space    77                             77
+722     space    78                             78
+723     space    79                             79
+724     space    80                             80
+725     space    81                             81
+726     space    82                             82
+727     space    83                             83
+728     space    84                             84
+729     space    85                             85
+730     space    86                             86
+731     space    87                             87
+732     space    88                             88
+733     space    89                             89
+734     space    90                             90
+735     space    91                             91
+736     space    92                             92
+737     space    93                             93
+738     space    94                             94
+739     space    95                             95
+740     space    96                             96
+741     space    97                             97
+742     space    98                             98
+743     space    99                             99
+744     space   100                            100
+745     space   101                            101
+746     space   102                            102
+747     space   103                            103
+748     space   104                            104
+749     space   105                            105
+750     space   106                            106
+751     space   107                            107
+752     space   108                            108
+753     space   109                            109
+754     space   110                            110
+755     space   111                            111
+756     space   112                            112
+757     space   113                            113
+758     space   114                            114
+759     space   115                            115
+760     space   116                            116
+761     space   117                            117
+762     space   118                            118
+763     space   119                            119
+764     space   120                            120
+765     space   121                            121
+766     space   122                            122
+767     space   123                            123
+768     space   124                            124
+769     space   125                            125
+770     space   126                            126
+771     space   127                            127
+772     space   128                            128
+773     space   129                            129
+774     space   130                            130
+775     space   131                            131
+776     space   132                            132
+777     space   133                            133
+778     space   134                            134
+779     space   135                            135
+780     space   136                            136
+781     space   137                            137
+782     space   138                            138
+783     space   139                            139
+784     space   140                            140
+785     space   141                            141
+786     space   142                            142
+787     space   143                            143
+788     space   144                            144
+789     space   145                            145
+790     space   146                            146
+791     space   147                            147
+792     space   148                            148
+793     space   149                            149
+794     space   150                            150
+795     space   151                            151
+796     space   152                            152
+797     space   153                            153
+798     space   154                            154
+799     space   155                            155
+800     space   156                            156
+801     space   157                            157
+802     space   158                            158
+803     space   159                            159
+804     space   160                            160
+805     space   161                            161
+806     space   162                            162
+807     space   163                            163
+808     space   164                            164
+809     space   165                            165
+810     space   166                            166
+811     space   167                            167
+812     space   168                            168
+813     space   169                            169
+814     space   170                            170
+815     space   171                            171
+816     space   172                            172
+817     space   173                            173
+818     space   174                            174
+819     space   175                            175
+820     space   176                            176
+821     space   177                            177
+822     space   178                            178
+823     space   179                            179
+824     space   180                            180
+825     space   181                            181
+826     space   182                            182
+827     space   183                            183
+828     space   184                            184
+829     space   185                            185
+830     space   186                            186
+831     space   187                            187
+832     space   188                            188
+833     space   189                            189
+834     space   190                            190
+835     space   191                            191
+836     space   192                            192
+837     space   193                            193
+838     space   194                            194
+839     space   195                            195
+840     space   196                            196
+841     space   197                            197
+842     space   198                            198
+843     space   199                            199
+844     space   200                            200
+845     space   201                            201
+846     space   202                            202
+847     space   203                            203
+848     space   204                            204
+849     space   205                            205
+850     space   206                            206
+851     space   207                            207
+852     space   208                            208
+853     space   209                            209
+854     space   210                            210
+855     space   211                            211
+856     space   212                            212
+857     space   213                            213
+858     space   214                            214
+859     space   215                            215
+860     space   216                            216
+861     space   217                            217
+862     space   218                            218
+863     space   219                            219
+864     space   220                            220
+865     space   221                            221
+866     space   222                            222
+867     space   223                            223
+868     space   224                            224
+869     space   225                            225
+870     space   226                            226
+871     space   227                            227
+872     space   228                            228
+873     space   229                            229
+874     space   230                            230
+875     space   231                            231
+876     space   232                            232
+877     space   233                            233
+878     space   234                            234
+879     space   235                            235
+880     space   236                            236
+881     space   237                            237
+882     space   238                            238
+883     space   239                            239
+884     space   240                            240
+885     space   241                            241
+886     space   242                            242
+887     space   243                            243
+888     space   244                            244
+889     space   245                            245
+890     space   246                            246
+891     space   247                            247
+892     space   248                            248
+893     space   249                            249
+894     space   250                            250
+895     space   251                            251
+896     space   252                            252
+897     space   253                            253
+898     space   254                            254
+899     space   255                            255
+900     space   256                            256
+901     space   257                            257
+902     space   258                            258
+903     space   259                            259
+904     space   260                            260
+905     space   261                            261
+906     space   262                            262
+907     space   263                            263
+908     space   264                            264
+909     space   265                            265
+910     space   266                            266
+911     space   267                            267
+912     space   268                            268
+913     space   269                            269
+914     space   270                            270
+915     space   271                            271
+916     space   272                            272
+917     space   273                            273
+918     space   274                            274
+919     space   275                            275
+920     space   276                            276
+921     space   277                            277
+922     space   278                            278
+923     space   279                            279
+924     space   280                            280
+925     space   281                            281
+926     space   282                            282
+927     space   283                            283
+928     space   284                            284
+929     space   285                            285
+930     space   286                            286
+931     space   287                            287
+932     space   288                            288
+933     space   289                            289
+934     space   290                            290
+935     space   291                            291
+936     space   292                            292
+937     space   293                            293
+938     space   294                            294
+939     space   295                            295
+940     space   296                            296
+941     space   297                            297
+942     space   298                            298
+943     space   299                            299
+944     space   300                            300
+945     space   301                            301
+946     space   302                            302
+947     space   303                            303
+948     space   304                            304
+949     space   305                            305
+950     space   306                            306
+951     space   307                            307
+952     space   308                            308
+953     space   309                            309
+954     space   310                            310
+955     space   311                            311
+956     space   312                            312
+957     space   313                            313
+958     space   314                            314
+959     space   315                            315
+960     space   316                            316
+961     space   317                            317
+962     space   318                            318
+963     space   319                            319
+964     space   320                            320
+965     space   321                            321
+966     space   322                            322
+967     space   324                            324
+968     space   325                            325
+969     space   326                            326
+970     space   327                            327
+971     space   328                            328
+972     space   329                            329
+973     space   330                            330
+974     space   332                            332
+975     space   333                            333
+976     space   334                            334
+977     space   335                            335
+978     space   336                            336
+979     space   337                            337
+980     space   338                            338
+981     space   340                            340
+982     space   341                            341
+983     space   342                            342
+984     space   345                            345
+985     space   346                            346
+986     space   348                            348
+987     space   349                            349
+988     space   350                            350
+989     space   354                            354
+990     space   356                            356
+991     space   357                            357
+992     space   358                            358
+993     space   360                            360
+994     space   362                            362
+995     space   363                            363
+996     space   364                            364
+997     space   365                            365
+998     space   367                            367
+999     space   369                            369
+1000    space   370                            370
+1001    space   371                            371
+1002    space   372                            372
+1003    space   375                            375
+1004    space   378                            378
+1005    space   380                            380
+1006    space   383                            383
+1007    space   384                            384
+1008    space   385                            385
+1009    space   386                            386
+1010    space   390                            390
+1011    space   394                            394
+1012    space   395                            395
+1013    space   398                            398
+1014    space   399                            399
+1015    space   400                            400
+1016    space   402                            402
+1017    space   404                            404
+1018    space   405                            405
+1019    space   406                            406
+1020    space   407                            407
+1021    space   410                            410
+1022    space   412                            412
+1023    space   414                            414
+1024    space   416                            416
+1025    space   420                            420
+1026    space   424                            424
+1027    space   430                            430
+1028    space   440                            440
+1029    space   444                            444
+1030    space   445                            445
+1031    space   448                            448
+1032    space   450                            450
+1033    space   452                            452
+1034    space   460                            460
+1035    space   470                            470
+1036    space   477                            477
+1037    space   480                            480
+1038    space   489                            489
+1039    space   490                            490
+1040    space   498                            498
+1041    space   499                            499
+1042    space   500                           500+
+1043  roomspr     0                              0
+1044  roomspr     1                              1
+1045  roomspr     2                              2
+1046  roomspr     3                             3+
+1047  roomspr    99                            NIU
+1048    kitch     1                            Yes
+1049    kitch     2                             No
+1050    kitch     9                            NIU
+1051   kitchr     1                            Yes
+1052   kitchr     2                             No
+1053   kitchr     9                            NIU
+1054    elect     1                            Yes
+1055    elect     2                             No
+1056    elect     9                            NIU
+1057    water     1  In the dwelling, from network
+1058    water     2 In the dwelling, without netwo
+1059    water     3 Outside the dwelling but in th
+1060    water     4 Outside the dwelling but in th
+1061    water     5 Outside the building, from net
+1062    water     6 Outside the building, without 
+1063    water     9                            NIU
+1064     bath     1            Inside the dwelling
+1065     bath     2  Outside the dwelling, Private
+1066     bath     3  Outide the dwelling, Communal
+1067     bath     4     There is no bath or shower
+1068     bath     9                            NIU
+1069   sewage     1                 Sewage network
+1070   sewage     2       Other system (sink etc.)
+1071   sewage     3            No sewage available
+1072   sewage     9                            NIU
+1073   toilet     1 Flush toilet, inside the dwell
+1074   toilet     2 Flush toilet, outside the dwel
+1075   toilet     3 Without flush toilet, inside t
+1076   toilet     4 Without flush toilet, outside 
+1077   toilet     5            No toilet available
+1078   toilet     9                            NIU
+1079     heat     1                Central heating
+1080     heat     2                          Other
+1081     heat     3           No heating available
+1082     heat     9                            NIU
+1083    owner     1              Individual person
+1084    owner     2 Legal entity of private law (c
+1085    owner     3 The state or legal entity of p
+1086    owner     9                            NIU
+1087 ownershp     1                          Owner
+1088 ownershp     2                         Renter
+1089 ownershp     3                          Other
+1090 ownershp     9                            NIU
+1091   pernum     0               Household record
+1092   pernum     1                              1
+1093   pernum     2                              2
+1094   pernum     3                              3
+1095   pernum     4                              4
+1096   pernum     5                              5
+1097   pernum     6                              6
+1098   pernum     7                              7
+1099   pernum     8                              8
+1100   pernum     9                              9
+1101   pernum    10                             10
+1102   pernum    11                             11
+1103   pernum    12                             12
+1104   pernum    13                             13
+1105   pernum    14                             14
+1106   pernum    15                             15
+1107   pernum    16                             16
+1108   pernum    17                             17
+1109   pernum    18                             18
+1110   pernum    19                             19
+1111   pernum    20                             20
+1112   pernum    21                             21
+1113   pernum    22                             22
+1114   pernum    23                             23
+1115   pernum    24                             24
+1116   pernum    25                             25
+1117   pernum    26                             26
+1118   pernum    27                             27
+1119  pernumo     1                              1
+1120  pernumo     2                              2
+1121  pernumo     3                              3
+1122  pernumo     4                              4
+1123  pernumo     5                              5
+1124  pernumo     6                              6
+1125  pernumo     7                              7
+1126  pernumo     8                              8
+1127  pernumo     9                              9
+1128  pernumo    10                             10
+1129  pernumo    11                             11
+1130  pernumo    12                             12
+1131  pernumo    13                             13
+1132  pernumo    14                             14
+1133  pernumo    15                             15
+1134  pernumo    16                             16
+1135  pernumo    17                             17
+1136  pernumo    18                             18
+1137  pernumo    19                             19
+1138  pernumo    20                             20
+1139  pernumo    21                             21
+1140  pernumo    22                             22
+1141  pernumo    23                             23
+1142  pernumo    24                             24
+1143  pernumo    25                             25
+1144  pernumo    26                             26
+1145  pernumo    27                             27
+1146      sex     1                           Male
+1147      sex     2                         Female
+1148  birthyr  1899                1899 or earlier
+1149  birthyr  1900                           1900
+1150  birthyr  1901                           1901
+1151  birthyr  1902                           1902
+1152  birthyr  1903                           1903
+1153  birthyr  1904                           1904
+1154  birthyr  1905                           1905
+1155  birthyr  1906                           1906
+1156  birthyr  1907                           1907
+1157  birthyr  1908                           1908
+1158  birthyr  1909                           1909
+1159  birthyr  1910                           1910
+1160  birthyr  1911                           1911
+1161  birthyr  1912                           1912
+1162  birthyr  1913                           1913
+1163  birthyr  1914                           1914
+1164  birthyr  1915                           1915
+1165  birthyr  1916                           1916
+1166  birthyr  1917                           1917
+1167  birthyr  1918                           1918
+1168  birthyr  1919                           1919
+1169  birthyr  1920                           1920
+1170  birthyr  1921                           1921
+1171  birthyr  1922                           1922
+1172  birthyr  1923                           1923
+1173  birthyr  1924                           1924
+1174  birthyr  1925                           1925
+1175  birthyr  1926                           1926
+1176  birthyr  1927                           1927
+1177  birthyr  1928                           1928
+1178  birthyr  1929                           1929
+1179  birthyr  1930                           1930
+1180  birthyr  1931                           1931
+1181  birthyr  1932                           1932
+1182  birthyr  1933                           1933
+1183  birthyr  1934                           1934
+1184  birthyr  1935                           1935
+1185  birthyr  1936                           1936
+1186  birthyr  1937                           1937
+1187  birthyr  1938                           1938
+1188  birthyr  1939                           1939
+1189  birthyr  1940                           1940
+1190  birthyr  1941                           1941
+1191  birthyr  1942                           1942
+1192  birthyr  1943                           1943
+1193  birthyr  1944                           1944
+1194  birthyr  1945                           1945
+1195  birthyr  1946                           1946
+1196  birthyr  1947                           1947
+1197  birthyr  1948                           1948
+1198  birthyr  1949                           1949
+1199  birthyr  1950                           1950
+1200  birthyr  1951                           1951
+1201  birthyr  1952                           1952
+1202  birthyr  1953                           1953
+1203  birthyr  1954                           1954
+1204  birthyr  1955                           1955
+1205  birthyr  1956                           1956
+1206  birthyr  1957                           1957
+1207  birthyr  1958                           1958
+1208  birthyr  1959                           1959
+1209  birthyr  1960                           1960
+1210  birthyr  1961                           1961
+1211  birthyr  1962                           1962
+1212  birthyr  1963                           1963
+1213  birthyr  1964                           1964
+1214  birthyr  1965                           1965
+1215  birthyr  1966                           1966
+1216  birthyr  1967                           1967
+1217  birthyr  1968                           1968
+1218  birthyr  1969                           1969
+1219  birthyr  1970                           1970
+1220  birthyr  1971                           1971
+1221  birthyr  1972                           1972
+1222  birthyr  1973                           1973
+1223  birthyr  1974                           1974
+1224  birthyr  1975                           1975
+1225  birthyr  1976                           1976
+1226  birthyr  1977                           1977
+1227  birthyr  1978                           1978
+1228  birthyr  1979                           1979
+1229  birthyr  1980                           1980
+1230  birthyr  1981                           1981
+1231  birthyr  1982                           1982
+1232  birthyr  1983                           1983
+1233  birthyr  1984                           1984
+1234  birthyr  1985                           1985
+1235  birthyr  1986                           1986
+1236  birthyr  1987                           1987
+1237  birthyr  1988                           1988
+1238  birthyr  1989                           1989
+1239  birthyr  1990                           1990
+1240  birthyr  1991                           1991
+1241  birthyr  1992                           1992
+1242  birthyr  1993                           1993
+1243  birthyr  1994                           1994
+1244  birthyr  1995                           1995
+1245  birthyr  1996                           1996
+1246  birthyr  1997                           1997
+1247  birthyr  1998                           1998
+1248  birthyr  1999                           1999
+1249  birthyr  2000                           2000
+1250  birthyr  2001                           2001
+1251   absent     1                        Present
+1252   absent     2 Temporarily absent is now: in 
+1253   absent     3 Temporarily absent is now: in 
+1254   absent     4 Temporarily absent is now: abr
+1255    marst     1                         Single
+1256    marst     2                        Married
+1257    marst     3                        Widowed
+1258    marst     4                       Divorced
+1259    marst     5                      Separated
+1260      bpl     1    At the place of enumeration
+1261      bpl     2 Other municipality, same strat
+1262      bpl     3 Other municipality, different 
+1263      bpl     4               Other department
+1264      bpl     5                         Abroad
+1265  bplmuni   103        Municipality of Agrinio
+1266  bplmuni   199 Rest of Department Etolia and 
+1267  bplmuni   301        Municipality of Levadia
+1268  bplmuni   310          Municipality of Thiva
+1269  bplmuni   399      Rest of Department Viotia
+1270  bplmuni   401       Municipality of Chalkida
+1271  bplmuni   499        Rest of Department Evia
+1272  bplmuni   599   Rest of Department Evrytania
+1273  bplmuni   601          Municipality of Lamia
+1274  bplmuni   699   Rest of Department Fthiotida
+1275  bplmuni   799      Rest of Department Fokida
+1276  bplmuni  1102          Municipality of Argos
+1277  bplmuni  1199    Rest of Department Argolida
+1278  bplmuni  1201        Municipality of Tripoli
+1279  bplmuni  1299     Rest of Department Arkadia
+1280  bplmuni  1301          Municipality of Patra
+1281  bplmuni  1303          Municipality of Aegio
+1282  bplmuni  1399      Rest of Department Achaia
+1283  bplmuni  1401         Municipality of Pyrgos
+1284  bplmuni  1403       Municipality of Amaliada
+1285  bplmuni  1499        Rest of Department Ilia
+1286  bplmuni  1501      Municipality of Korinthos
+1287  bplmuni  1599   Rest of Department Korinthia
+1288  bplmuni  1699     Rest of Department Lakonia
+1289  bplmuni  1701       Municipality of Kalamata
+1290  bplmuni  1799    Rest of Department Messinia
+1291  bplmuni  2199   Rest of Department Zakynthos
+1292  bplmuni  2201        Municipality of Kerkyra
+1293  bplmuni  2299     Rest of Department Kerkyra
+1294  bplmuni  2399  Rest of Department Kefallinia
+1295  bplmuni  2499     Rest of Department Lefkada
+1296  bplmuni  3101           Municipality of Arta
+1297  bplmuni  3199        Rest of Department Arta
+1298  bplmuni  3299  Rest of Department Thesprotia
+1299  bplmuni  3301       Municipality of Ioannina
+1300  bplmuni  3399    Rest of Department Ioannina
+1301  bplmuni  3499     Rest of Department Preveza
+1302  bplmuni  4101       Municipality of Karditsa
+1303  bplmuni  4199    Rest of Department Karditsa
+1304  bplmuni  4201        Municipality of Larissa
+1305  bplmuni  4299     Rest of Department Larissa
+1306  bplmuni  4301          Municipality of Volos
+1307  bplmuni  4315      Municipality of Nea Ionia
+1308  bplmuni  4399   Rest of Department Magnissia
+1309  bplmuni  4401        Municipality of Trikala
+1310  bplmuni  4499     Rest of Department Trikala
+1311  bplmuni  5199     Rest of Department Grevena
+1312  bplmuni  5201          Municipality of Drama
+1313  bplmuni  5299       Rest of Department Drama
+1314  bplmuni  5301          Municipality of Veria
+1315  bplmuni  5311        Municipality of Naoussa
+1316  bplmuni  5399     Rest of Department Imathia
+1317  bplmuni  5401   Municipality of Thessaloniki
+1318  bplmuni  5405      Municipality of Abelokipi
+1319  bplmuni  5413 Municipality of Eleftherio-Kor
+1320  bplmuni  5415         Municipality of Evosmo
+1321  bplmuni  5416       Municipality of Echedoro
+1322  bplmuni  5417     Municipality of Thermaikos
+1323  bplmuni  5419      Municipality of Kalamaria
+1324  bplmuni  5431        Municipality of Neapoli
+1325  bplmuni  5433       Municipality of Polichni
+1326  bplmuni  5434          Municipality of Pylea
+1327  bplmuni  5437    Municipality of Stavroupoli
+1328  bplmuni  5438         Municipality of Sykees
+1329  bplmuni  5499 Rest of Department Thessalonik
+1330  bplmuni  5501         Municipality of Kavala
+1331  bplmuni  5599      Rest of Department Kavala
+1332  bplmuni  5699    Rest of Department Kastoria
+1333  bplmuni  5701         Municipality of Kilkis
+1334  bplmuni  5799      Rest of Department Kilkis
+1335  bplmuni  5801         Municipality of Kozani
+1336  bplmuni  5813     Municipality of Ptolemaida
+1337  bplmuni  5899      Rest of Department Kozani
+1338  bplmuni  5901         Municipality of Edessa
+1339  bplmuni  5902         Municipality of Aridea
+1340  bplmuni  5904      Municipality of Giannitsa
+1341  bplmuni  5999       Rest of Department Pella
+1342  bplmuni  6101       Municipality of Katerini
+1343  bplmuni  6199      Rest of Department Pieria
+1344  bplmuni  6201         Municipality of Serres
+1345  bplmuni  6299      Rest of Department Serres
+1346  bplmuni  6399     Rest of Department Florina
+1347  bplmuni  6499  Rest of Department Chalkidiki
+1348  bplmuni  7101 Municipality of Alexandroupoli
+1349  bplmuni  7106      Municipality of Orestiada
+1350  bplmuni  7199       Rest of Department Evros
+1351  bplmuni  7201         Municipality of Xanthi
+1352  bplmuni  7299      Rest of Department Xanthi
+1353  bplmuni  7301       Municipality of Komotini
+1354  bplmuni  7399      Rest of Department Rodopi
+1355  bplmuni  8101          Municipality of Rodos
+1356  bplmuni  8199 Rest of Department Dodekanisso
+1357  bplmuni  8299    Rest of Department Kyklades
+1358  bplmuni  8301       Municipality of Mytilini
+1359  bplmuni  8399      Rest of Department Lesvos
+1360  bplmuni  8499       Rest of Department Samos
+1361  bplmuni  8501          Municipality of Chios
+1362  bplmuni  8599       Rest of Department Chios
+1363  bplmuni  9101        Municipality of Iraklio
+1364  bplmuni  9199     Rest of Department Iraklio
+1365  bplmuni  9202      Municipality of Ierapetra
+1366  bplmuni  9299    Rest of Department Lassithi
+1367  bplmuni  9301       Municipality of Rethymno
+1368  bplmuni  9399    Rest of Department Rethymno
+1369  bplmuni  9401         Municipality of Chania
+1370  bplmuni  9499      Rest of Department Chania
+1371  bplmuni 10101         Municipality of Athens
+1372  bplmuni 10102  Municipality of Aghia Varvara
+1373  bplmuni 10103 Municipality of Aghia Paraskev
+1374  bplmuni 10104 Municipality of Aghios Dimitri
+1375  bplmuni 10105 Municipality of Aghii Anargyri
+1376  bplmuni 10106        Municipality of Aegaleo
+1377  bplmuni 10107         Municipality of Alimos
+1378  bplmuni 10108     Municipality of Amaroussio
+1379  bplmuni 10109    Municipality of Argyroupoli
+1380  bplmuni 10110      Municipality of Vrilissia
+1381  bplmuni 10111          Municipality of Vyron
+1382  bplmuni 10112        Municipality of Galatsi
+1383  bplmuni 10113        Municipality of Glyfada
+1384  bplmuni 10114          Municipality of Dafni
+1385  bplmuni 10116       Municipality of Zografos
+1386  bplmuni 10117      Municipality of Ilioupoli
+1387  bplmuni 10118        Municipality of Iraklio
+1388  bplmuni 10119 Municipality of Ilio (Nea Lios
+1389  bplmuni 10120     Municipality of Kessariani
+1390  bplmuni 10121      Municipality of Kallithea
+1391  bplmuni 10122       Municipality of Kamatero
+1392  bplmuni 10123       Municipality of Kifissia
+1393  bplmuni 10126   Municipality of Metamorfossi
+1394  bplmuni 10127       Municipality of Moschato
+1395  bplmuni 10129      Municipality of Nea Ionia
+1396  bplmuni 10130     Municipality of Nea Smyrni
+1397  bplmuni 10131 Municipality of Nea Philadelfi
+1398  bplmuni 10134   Municipality of Paleo Faliro
+1399  bplmuni 10136      Municipality of Peristeri
+1400  bplmuni 10137     Municipality of Petroupoli
+1401  bplmuni 10142       Municipality of Chaidari
+1402  bplmuni 10143      Municipality of Chalandri
+1403  bplmuni 10144      Municipality of Cholargos
+1404  bplmuni 10199      Rest of Prefecture Athens
+1405  bplmuni 10205       Municipality of Acharnes
+1406  bplmuni 10207          Municipality of Voula
+1407  bplmuni 10213         Municipality of Koropi
+1408  bplmuni 10299 Rest of Prefecture East Attiki
+1409  bplmuni 10301       Municipality of Elefsina
+1410  bplmuni 10302    Municipality of Ano Liossia
+1411  bplmuni 10303    Municipality of Aspropyrgos
+1412  bplmuni 10308         Municipality of Megara
+1413  bplmuni 10399 Rest of Prefecture West Attiki
+1414  bplmuni 10401         Municipality of Pireas
+1415  bplmuni 10406      Municipality of Keratsini
+1416  bplmuni 10407     Municipality of Korydallos
+1417  bplmuni 10410          Municipality of Nikea
+1418  bplmuni 10411         Municipality of Perama
+1419  bplmuni 10413       Municipality of Salamina
+1420  bplmuni 10499      Rest of Prefecture Pireas
+1421  bplmuni 20105                        Albania
+1422  bplmuni 20109                      Argentina
+1423  bplmuni 20110                        Armenia
+1424  bplmuni 20113                      Australia
+1425  bplmuni 20114                        Austria
+1426  bplmuni 20202                        Belgium
+1427  bplmuni 20203                     Bangladesh
+1428  bplmuni 20204                       Bulgaria
+1429  bplmuni 20207         Bosnia and Herzegovina
+1430  bplmuni 20208                        Belarus
+1431  bplmuni 20210                         Brazil
+1432  bplmuni 20302                         Canada
+1433  bplmuni 20303                    Switzerland
+1434  bplmuni 20304                          Chile
+1435  bplmuni 20305                          China
+1436  bplmuni 20307                       Cameroon
+1437  bplmuni 20309                       Colombia
+1438  bplmuni 20314                         Cyprus
+1439  bplmuni 20315                 Czech Republic
+1440  bplmuni 20401                        Germany
+1441  bplmuni 20403                       Dominica
+1442  bplmuni 20404                        Denmark
+1443  bplmuni 20502                          Egypt
+1444  bplmuni 20505                          Spain
+1445  bplmuni 20507                       Ethiopia
+1446  bplmuni 20601                        Finland
+1447  bplmuni 20603                         France
+1448  bplmuni 20702                  United Kindom
+1449  bplmuni 20703                        Georgia
+1450  bplmuni 20705                          Ghana
+1451  bplmuni 20709                          Congo
+1452  bplmuni 20803                        Croatia
+1453  bplmuni 20805                        Hungary
+1454  bplmuni 20902                          India
+1455  bplmuni 20903                        Ireland
+1456  bplmuni 20904     Iran (Islamic Republic of)
+1457  bplmuni 20905                           Iraq
+1458  bplmuni 20907                         Israel
+1459  bplmuni 20908                          Italy
+1460  bplmuni 21002                         Jordan
+1461  bplmuni 21003                          Japan
+1462  bplmuni 21101                      Kazakstan
+1463  bplmuni 21102                          Kenya
+1464  bplmuni 21202                        Lebanon
+1465  bplmuni 21204         Libyan Arab Jamahiriya
+1466  bplmuni 21205                      Sri Lanka
+1467  bplmuni 21301                        Morocco
+1468  bplmuni 21303            Republic of Moldova
+1469  bplmuni 21306                         Mexico
+1470  bplmuni 21308 The former Yugoslav Republic o
+1471  bplmuni 21404                        Nigeria
+1472  bplmuni 21407                    Netherlands
+1473  bplmuni 21408                         Norway
+1474  bplmuni 21411                    New Zealand
+1475  bplmuni 21601                       Pakistan
+1476  bplmuni 21604                    Philippines
+1477  bplmuni 21607                         Poland
+1478  bplmuni 21610                       Portugal
+1479  bplmuni 21612 Occupied Palestinian Territory
+1480  bplmuni 21801                        Romania
+1481  bplmuni 21802             Russian Federation
+1482  bplmuni 21901                   Saudi Arabia
+1483  bplmuni 21902                          Sudan
+1484  bplmuni 21911                       Slovakia
+1485  bplmuni 21913                         Sweden
+1486  bplmuni 21916           Syrian Arab Republic
+1487  bplmuni 22002                       Thailand
+1488  bplmuni 22007                         Turkey
+1489  bplmuni 22010    United Republic of Tanzania
+1490  bplmuni 22102                        Ukraine
+1491  bplmuni 22104                  United States
+1492  bplmuni 22105                     Uzbekistan
+1493  bplmuni 22202                      Venezuela
+1494  bplmuni 22502                     Yugoslavia
+1495  bplmuni 22601                   South Africa
+1496  bplmuni 22602                          Zaire
+1497  bplmuni 22604                       Zimbabwe
+1498  bplmuni 99998            Response suppressed
+1499  bplmuni 99999                        Unknown
+1500    citiz     1                         Greece
+1501    citiz     2               Greece and other
+1502    citiz     3                  Other country
+1503    citiz     4            Without nationality
+1504    citiz     5        Unspecified nationality
+1505 regplace     1    At the place of enumeration
+1506 regplace     2 Other municipality, same strat
+1507 regplace     3 Other municipality, different 
+1508 regplace     4               Other department
+1509 regplace     9                            NIU
+1510    resus     1    At the place of enumeration
+1511    resus     2 Other municipality, same strat
+1512    resus     3 Other municipality, different 
+1513    resus     4               Other department
+1514    resus     5                         Abroad
+1515    res00     1    At the place of enumeration
+1516    res00     2 Other municipality, same strat
+1517    res00     3 Other municipality, different 
+1518    res00     4               Other department
+1519    res00     5                         Abroad
+1520    res00     8                        Unknown
+1521    res00     9                            NIU
+1522 res00mun   103        Municipality of Agrinio
+1523 res00mun   199 Rest of Department Etolia and 
+1524 res00mun   301        Municipality of Levadia
+1525 res00mun   310          Municipality of Thiva
+1526 res00mun   399      Rest of Department Viotia
+1527 res00mun   401       Municipality of Chalkida
+1528 res00mun   499        Rest of Department Evia
+1529 res00mun   599   Rest of Department Evrytania
+1530 res00mun   601          Municipality of Lamia
+1531 res00mun   699   Rest of Department Fthiotida
+1532 res00mun   799      Rest of Department Fokida
+1533 res00mun  1102          Municipality of Argos
+1534 res00mun  1199    Rest of Department Argolida
+1535 res00mun  1201        Municipality of Tripoli
+1536 res00mun  1299     Rest of Department Arkadia
+1537 res00mun  1301          Municipality of Patra
+1538 res00mun  1303          Municipality of Aegio
+1539 res00mun  1399      Rest of Department Achaia
+1540 res00mun  1401         Municipality of Pyrgos
+1541 res00mun  1403       Municipality of Amaliada
+1542 res00mun  1499        Rest of Department Ilia
+1543 res00mun  1501      Municipality of Korinthos
+1544 res00mun  1599   Rest of Department Korinthia
+1545 res00mun  1699     Rest of Department Lakonia
+1546 res00mun  1701       Municipality of Kalamata
+1547 res00mun  1799    Rest of Department Messinia
+1548 res00mun  2199   Rest of Department Zakynthos
+1549 res00mun  2201        Municipality of Kerkyra
+1550 res00mun  2299     Rest of Department Kerkyra
+1551 res00mun  2399  Rest of Department Kefallinia
+1552 res00mun  2499     Rest of Department Lefkada
+1553 res00mun  3101           Municipality of Arta
+1554 res00mun  3199        Rest of Department Arta
+1555 res00mun  3299  Rest of Department Thesprotia
+1556 res00mun  3301       Municipality of Ioannina
+1557 res00mun  3399    Rest of Department Ioannina
+1558 res00mun  3499     Rest of Department Preveza
+1559 res00mun  4101       Municipality of Karditsa
+1560 res00mun  4199    Rest of Department Karditsa
+1561 res00mun  4201        Municipality of Larissa
+1562 res00mun  4299     Rest of Department Larissa
+1563 res00mun  4301          Municipality of Volos
+1564 res00mun  4315      Municipality of Nea Ionia
+1565 res00mun  4399   Rest of Department Magnissia
+1566 res00mun  4401        Municipality of Trikala
+1567 res00mun  4499     Rest of Department Trikala
+1568 res00mun  5199     Rest of Department Grevena
+1569 res00mun  5201          Municipality of Drama
+1570 res00mun  5299       Rest of Department Drama
+1571 res00mun  5301          Municipality of Veria
+1572 res00mun  5311        Municipality of Naoussa
+1573 res00mun  5399     Rest of Department Imathia
+1574 res00mun  5401   Municipality of Thessaloniki
+1575 res00mun  5405      Municipality of Abelokipi
+1576 res00mun  5413 Municipality of Eleftherio-Kor
+1577 res00mun  5415         Municipality of Evosmo
+1578 res00mun  5416       Municipality of Echedoro
+1579 res00mun  5417     Municipality of Thermaikos
+1580 res00mun  5419      Municipality of Kalamaria
+1581 res00mun  5431        Municipality of Neapoli
+1582 res00mun  5433       Municipality of Polichni
+1583 res00mun  5434          Municipality of Pylea
+1584 res00mun  5437    Municipality of Stavroupoli
+1585 res00mun  5438         Municipality of Sykees
+1586 res00mun  5499 Rest of Department Thessalonik
+1587 res00mun  5501         Municipality of Kavala
+1588 res00mun  5599      Rest of Department Kavala
+1589 res00mun  5699    Rest of Department Kastoria
+1590 res00mun  5701         Municipality of Kilkis
+1591 res00mun  5799      Rest of Department Kilkis
+1592 res00mun  5801         Municipality of Kozani
+1593 res00mun  5813     Municipality of Ptolemaida
+1594 res00mun  5899      Rest of Department Kozani
+1595 res00mun  5901         Municipality of Edessa
+1596 res00mun  5902         Municipality of Aridea
+1597 res00mun  5904      Municipality of Giannitsa
+1598 res00mun  5999       Rest of Department Pella
+1599 res00mun  6101       Municipality of Katerini
+1600 res00mun  6199      Rest of Department Pieria
+1601 res00mun  6201         Municipality of Serres
+1602 res00mun  6299      Rest of Department Serres
+1603 res00mun  6399     Rest of Department Florina
+1604 res00mun  6499  Rest of Department Chalkidiki
+1605 res00mun  6599            Rest of Aghion Oros
+1606 res00mun  7101 Municipality of Alexandroupoli
+1607 res00mun  7106      Municipality of Orestiada
+1608 res00mun  7199       Rest of Department Evros
+1609 res00mun  7201         Municipality of Xanthi
+1610 res00mun  7299      Rest of Department Xanthi
+1611 res00mun  7301       Municipality of Komotini
+1612 res00mun  7399      Rest of Department Rodopi
+1613 res00mun  8101          Municipality of Rodos
+1614 res00mun  8199 Rest of Department Dodekanisso
+1615 res00mun  8299    Rest of Department Kyklades
+1616 res00mun  8301       Municipality of Mytilini
+1617 res00mun  8399      Rest of Department Lesvos
+1618 res00mun  8499       Rest of Department Samos
+1619 res00mun  8501          Municipality of Chios
+1620 res00mun  8599       Rest of Department Chios
+1621 res00mun  9101        Municipality of Iraklio
+1622 res00mun  9199     Rest of Department Iraklio
+1623 res00mun  9202      Municipality of Ierapetra
+1624 res00mun  9299    Rest of Department Lassithi
+1625 res00mun  9301       Municipality of Rethymno
+1626 res00mun  9399    Rest of Department Rethymno
+1627 res00mun  9401         Municipality of Chania
+1628 res00mun  9499      Rest of Department Chania
+1629 res00mun 10101         Municipality of Athens
+1630 res00mun 10102  Municipality of Aghia Varvara
+1631 res00mun 10103 Municipality of Aghia Paraskev
+1632 res00mun 10104 Municipality of Aghios Dimitri
+1633 res00mun 10105 Municipality of Aghii Anargyri
+1634 res00mun 10106        Municipality of Aegaleo
+1635 res00mun 10107         Municipality of Alimos
+1636 res00mun 10108     Municipality of Amaroussio
+1637 res00mun 10109    Municipality of Argyroupoli
+1638 res00mun 10110      Municipality of Vrilissia
+1639 res00mun 10111          Municipality of Vyron
+1640 res00mun 10112        Municipality of Galatsi
+1641 res00mun 10113        Municipality of Glyfada
+1642 res00mun 10114          Municipality of Dafni
+1643 res00mun 10116       Municipality of Zografos
+1644 res00mun 10117      Municipality of Ilioupoli
+1645 res00mun 10118        Municipality of Iraklio
+1646 res00mun 10119 Municipality of Ilio (Nea Lios
+1647 res00mun 10120     Municipality of Kessariani
+1648 res00mun 10121      Municipality of Kallithea
+1649 res00mun 10122       Municipality of Kamatero
+1650 res00mun 10123       Municipality of Kifissia
+1651 res00mun 10126   Municipality of Metamorfossi
+1652 res00mun 10127       Municipality of Moschato
+1653 res00mun 10129      Municipality of Nea Ionia
+1654 res00mun 10130     Municipality of Nea Smyrni
+1655 res00mun 10131 Municipality of Nea Philadelfi
+1656 res00mun 10134   Municipality of Paleo Faliro
+1657 res00mun 10136      Municipality of Peristeri
+1658 res00mun 10137     Municipality of Petroupoli
+1659 res00mun 10142       Municipality of Chaidari
+1660 res00mun 10143      Municipality of Chalandri
+1661 res00mun 10144      Municipality of Cholargos
+1662 res00mun 10199      Rest of Prefecture Athens
+1663 res00mun 10205       Municipality of Acharnes
+1664 res00mun 10207          Municipality of Voula
+1665 res00mun 10213         Municipality of Koropi
+1666 res00mun 10299 Rest of Prefecture East Attiki
+1667 res00mun 10301       Municipality of Elefsina
+1668 res00mun 10302    Municipality of Ano Liossia
+1669 res00mun 10303    Municipality of Aspropyrgos
+1670 res00mun 10308         Municipality of Megara
+1671 res00mun 10399 Rest of Prefecture West Attiki
+1672 res00mun 10401         Municipality of Pireas
+1673 res00mun 10406      Municipality of Keratsini
+1674 res00mun 10407     Municipality of Korydallos
+1675 res00mun 10410          Municipality of Nikea
+1676 res00mun 10411         Municipality of Perama
+1677 res00mun 10413       Municipality of Salamina
+1678 res00mun 10499      Rest of Prefecture Pireas
+1679 res00mun 20105                        Albania
+1680 res00mun 20113                      Australia
+1681 res00mun 20114                        Austria
+1682 res00mun 20202                        Belgium
+1683 res00mun 20204                       Bulgaria
+1684 res00mun 20302                         Canada
+1685 res00mun 20303                    Switzerland
+1686 res00mun 20314                         Cyprus
+1687 res00mun 20401                        Germany
+1688 res00mun 20502                          Egypt
+1689 res00mun 20505                          Spain
+1690 res00mun 20603                         France
+1691 res00mun 20702                  United Kindom
+1692 res00mun 20703                        Georgia
+1693 res00mun 20905                           Iraq
+1694 res00mun 20908                          Italy
+1695 res00mun 21303            Republic of Moldova
+1696 res00mun 21408                    Netherlands
+1697 res00mun 21607                         Poland
+1698 res00mun 21801                        Romania
+1699 res00mun 21802             Russian Federation
+1700 res00mun 21913                         Sweden
+1701 res00mun 22007                         Turkey
+1702 res00mun 22102                        Ukraine
+1703 res00mun 22104                  United States
+1704 res00mun 22502                     Yugoslavia
+1705 res00mun 22601                   South Africa
+1706 res00mun 99998            Response suppressed
+1707 res00mun 99999                            NIU
+1708    res95     1    At the place of enumeration
+1709    res95     2 Other municipality, same strat
+1710    res95     3 Other municipality, different 
+1711    res95     4               Other department
+1712    res95     5                         Abroad
+1713    res95     9                            NIU
+1714  edattan     1                          Ph.D.
+1715  edattan     2                       Master's
+1716  edattan     3        Higher education degree
+1717  edattan     4 Technical education college, e
+1718  edattan     5 Post secondary education degre
+1719  edattan     6 Secondary education certificat
+1720  edattan     7   Technical school certificate
+1721  edattan     8  Technical college certificate
+1722  edattan     9 Lower secondary school certifi
+1723  edattan    10     Primary school certificate
+1724  edattan    11         Attends primary school
+1725  edattan    12 Drop out of primary school, bu
+1726  edattan    13 Does not know how to read and 
+1727  edattan    99                            NIU
+1728   studab 20101                        Albania
+1729   studab 20110                        Armenia
+1730   studab 20113                      Australia
+1731   studab 20114                        Austria
+1732   studab 20202                        Belgium
+1733   studab 20204                       Bulgaria
+1734   studab 20302                         Canada
+1735   studab 20303                    Switzerland
+1736   studab 20314                         Cyprus
+1737   studab 20315                 Czech Republic
+1738   studab 20401                        Germany
+1739   studab 20502                          Egypt
+1740   studab 20505                          Spain
+1741   studab 20603                         France
+1742   studab 20702                  United Kindom
+1743   studab 20703                        Georgia
+1744   studab 20714                         Greece
+1745   studab 20803                        Croatia
+1746   studab 20805                        Hungary
+1747   studab 20908                          Italy
+1748   studab 21101                      Kazakstan
+1749   studab 21202                        Lebanon
+1750   studab 21303            Republic of Moldova
+1751   studab 21407                    Netherlands
+1752   studab 21604                    Philippines
+1753   studab 21607                         Poland
+1754   studab 21801                        Romania
+1755   studab 21802             Russian Federation
+1756   studab 21913                         Sweden
+1757   studab 21916           Syrian Arab Republic
+1758   studab 22007                         Turkey
+1759   studab 22102                        Ukraine
+1760   studab 22104                  United States
+1761   studab 22105                     Uzbekistan
+1762   studab 22502                     Yugoslavia
+1763   studab 22601                   South Africa
+1764   studab 99997            Response suppressed
+1765   studab 99998                        Unknown
+1766   studab 99999                            NIU
+1767   eduniv     1            Faculty of Theology
+1768   eduniv     2     Faculty of Social Theology
+1769   eduniv     3                 Faculty of Law
+1770   eduniv     4           Faculty of Economics
+1771   eduniv     5 Faculty of Political Science a
+1772   eduniv     6           Faculty of Philology
+1773   eduniv     7 Faculty of Philosophy, Pedagog
+1774   eduniv     8 Faculty of History and Archaeo
+1775   eduniv     9 Faculty of English Language an
+1776   eduniv    10 Faculty of French Language and
+1777   eduniv    11 Faculty of German Language and
+1778   eduniv    12 Faculty of Philosophy, Pedagog
+1779   eduniv    13             Faculty of Biology
+1780   eduniv    14             Faculty of Geology
+1781   eduniv    15         Faculty of Mathematics
+1782   eduniv    16             Faculty of Physics
+1783   eduniv    17           Faculty of Chemistry
+1784   eduniv    18         Faculty of Informatics
+1785   eduniv    19 Faculty of Physical Education 
+1786   eduniv    20   Faculty of Primary Education
+1787   eduniv    21 Faculty of Early Childhood Edu
+1788   eduniv    22 Faculty of Communication and M
+1789   eduniv    23     Faculty of Theatre Studies
+1790   eduniv    24       Faculty of Music Studies
+1791   eduniv    25            Faculty of Medicine
+1792   eduniv    26           Faculty of Dentistry
+1793   eduniv    27            Faculty of Pharmacy
+1794   eduniv    28             Faculty of Nursing
+1795   eduniv    30 Department of Environmental St
+1796   eduniv    32        Department of Geography
+1797   eduniv    34 Department of Business Adminis
+1798   eduniv    37 Department of Primary Educatio
+1799   eduniv    38 Department of Pre-school Educa
+1800   eduniv    39 Department of Primary School E
+1801   eduniv    40 Department of Nursery School E
+1802   eduniv    43 Department of Agriculture, Cro
+1803   eduniv    50             School of Theology
+1804   eduniv    51 School of Pastoral and Social 
+1805   eduniv    52                  School of Law
+1806   eduniv    53            School of Economics
+1807   eduniv    54             School of Medicine
+1808   eduniv    55            School of Dentistry
+1809   eduniv    56             School of Pharmacy
+1810   eduniv    57            School of Philology
+1811   eduniv    58 School of Philosophy and Pedag
+1812   eduniv    59 School of History and Archaeol
+1813   eduniv    60 School of English Language and
+1814   eduniv    61 School of French Language and 
+1815   eduniv    62 School of German Language and 
+1816   eduniv    63 School of Italian Language and
+1817   eduniv    64           School of Psychology
+1818   eduniv    65              School of Biology
+1819   eduniv    66              School of Geology
+1820   eduniv    67          School of Mathematics
+1821   eduniv    68              School of Physics
+1822   eduniv    69            School of Chemistry
+1823   eduniv    70          School of Informatics
+1824   eduniv    71          School of Agriculture
+1825   eduniv    72  School of Veterinary Medicine
+1826   eduniv    73 School of Forestry and the Nat
+1827   eduniv    74    School of Civil Engineering
+1828   eduniv    75         School of Architecture
+1829   eduniv    76 School of Mechanical Engineeri
+1830   eduniv    77 School of Electrical and Compu
+1831   eduniv    78 School of Chemical Engineering
+1832   eduniv    79 School of Rural and Surveying 
+1833   eduniv    80 School of Visual and Applied A
+1834   eduniv    81        School of Music Studies
+1835   eduniv    83    School of Primary Education
+1836   eduniv    84 School of Pre-School Education
+1837   eduniv    85 School of Physical Education a
+1838   eduniv    86 School of Physical Education a
+1839   eduniv    87 School of Primary Education in
+1840   eduniv    88 School of Pre-School Education
+1841   eduniv    89 School of Journalism and Mass 
+1842   eduniv    90 Department of Civil Engineerin
+1843   eduniv    91 Department of Electrical and C
+1844   eduniv    93 Department of Physical Educati
+1845   eduniv    94 Department of Primary Level Ed
+1846   eduniv    95 Department of Pre-School Educa
+1847   eduniv    96              Department of Law
+1848   eduniv    97         Department of Medicine
+1849   eduniv    98 Department of History and Ethn
+1850   eduniv   101 Department of Foreign Language
+1851   eduniv   102          Department of History
+1852   eduniv   105        Department of Philology
+1853   eduniv   106 Department of Philosophy, Educ
+1854   eduniv   107 Department of History and Arch
+1855   eduniv   108      Department of Mathematics
+1856   eduniv   109          Department of Physics
+1857   eduniv   110        Department of Chemistry
+1858   eduniv   114         Department of Medicine
+1859   eduniv   115 Department of Primary Educatio
+1860   eduniv   116 Department of Pre-School Educa
+1861   eduniv   118           Faculty of Economics
+1862   eduniv   119           Faculty of Sociology
+1863   eduniv   120          Faculty of Psychology
+1864   eduniv   121            Faculty of Medicine
+1865   eduniv   122           Faculty of Philology
+1866   eduniv   123 Faculty of Philosophy and Soci
+1867   eduniv   124 Faculty of History and Archaeo
+1868   eduniv   126         Faculty of Mathematics
+1869   eduniv   127             Faculty of Physics
+1870   eduniv   129    Faculty of Computer Science
+1871   eduniv   130   Faculty of Primary Education
+1872   eduniv   131 Faculty of Pre-School Educatio
+1873   eduniv   133 Department of Production Engin
+1874   eduniv   134 Department of Electronic and C
+1875   eduniv   136            Faculty of Medicine
+1876   eduniv   137         Department of Pharmacy
+1877   eduniv   138          Department of Biology
+1878   eduniv   139          Department of Geology
+1879   eduniv   140      Department of Mathematics
+1880   eduniv   141          Department of Physics
+1881   eduniv   142        Department of Chemistry
+1882   eduniv   143 Department of Civil Engineerin
+1883   eduniv   144 Department of Mechanical Engin
+1884   eduniv   145 Department of Electrical and C
+1885   eduniv   146 Department of Chemical Enginee
+1886   eduniv   147 Department of Computer Enginee
+1887   eduniv   148 Department of Primary Educatio
+1888   eduniv   149 Department of Early Childhood 
+1889   eduniv   152        Department of Economics
+1890   eduniv   153   Faculty of Civil Engineering
+1891   eduniv   154        Faculty of Architecture
+1892   eduniv   155 Faculty of Mechanical Engineer
+1893   eduniv   156 Faculty of Naval Architecture 
+1894   eduniv   157 Faculty of Electrical and Comp
+1895   eduniv   158 Faculty of Chemical Engineerin
+1896   eduniv   159 Faculty of Mining Engineering 
+1897   eduniv   160 Faculty of Rural and Surveying
+1898   eduniv   161 Department of Business Adminis
+1899   eduniv   162        Department of Economics
+1900   eduniv   163      Department of Informatics
+1901   eduniv   164 Department of International an
+1902   eduniv   165       Department of Statistics
+1903   eduniv   166 Department of Operational Rese
+1904   eduniv   167 Department of Public Administr
+1905   eduniv   168 Department of Political Scienc
+1906   eduniv   169 Department of International an
+1907   eduniv   170        Department of Sociology
+1908   eduniv   171 Department of Communication an
+1909   eduniv   172 Department of Rural and Region
+1910   eduniv   173 Department of Social Policy an
+1911   eduniv   174       Department of Psychology
+1912   eduniv   175 Department of Business Adminis
+1913   eduniv   176        Department of Economics
+1914   eduniv   177 Department of Statistics and I
+1915   eduniv   178 Department of Financial Manage
+1916   eduniv   179 Department of Maritime Studies
+1917   eduniv   180 Department of Technology Educa
+1918   eduniv   181      Department of Informatics
+1919   eduniv   182 Department of Business Adminis
+1920   eduniv   183        Department of Economics
+1921   eduniv   184 Department of International an
+1922   eduniv   185 Department of Accounting and F
+1923   eduniv   186 Department of Applied Informat
+1924   eduniv   190     Department of Crop Science
+1925   eduniv   191   Department of Animal Science
+1926   eduniv   192 Department of Agricultural Bio
+1927   eduniv   193 Department of Rural Economics 
+1928   eduniv   194 Department of Food Science and
+1929   eduniv   195 Department of Natural Resource
+1930   eduniv   196        Department of Fine Arts
+1931   eduniv   197   Department of Home Economics
+1932   eduniv   198 Department of Dietetics and Nu
+1933   eduniv   201   Department of Graphic Design
+1934   eduniv   202  Department of Interior Design
+1935   eduniv   203 Department of Graphics Technol
+1936   eduniv   204 Department of Conservation and
+1937   eduniv   205      Department of Photography
+1938   eduniv   206 Department of Library Science 
+1939   eduniv   207 Department of Business Adminis
+1940   eduniv   208 Department of Health and Welfa
+1941   eduniv   209 Department of Marketing and Ad
+1942   eduniv   210 Department of Tourism Business
+1943   eduniv   212 Department of Aesthetics and C
+1944   eduniv   213 Department of Early Childhood 
+1945   eduniv   214   Department of Public Hygiene
+1946   eduniv   215 Department of Health Visitants
+1947   eduniv   216     Department of Work Therapy
+1948   eduniv   217 Department of Medical Laborato
+1949   eduniv   218      Department of Social Work
+1950   eduniv   219        Department of Midwifery
+1951   eduniv   220        Department of Nursing A
+1952   eduniv   221        Department of Nursing B
+1953   eduniv   222 Department of Dentistry Techni
+1954   eduniv   223           Department of Optics
+1955   eduniv   224 Department of Radiology and Ra
+1956   eduniv   225    Department of Physiotherapy
+1957   eduniv   227 Department of Energy Technique
+1958   eduniv   228      Department of Electronics
+1959   eduniv   229 Department of Naval Architectu
+1960   eduniv   230      Department of Informatics
+1961   eduniv   231 Department of Civil Infrastruc
+1962   eduniv   232 Department of Medical Instrume
+1963   eduniv   233       Department of Topography
+1964   eduniv   236 Department of Wine and Drink T
+1965   eduniv   237  Department of Food Technology
+1966   eduniv   238 Department of Plant Production
+1967   eduniv   241          Department of Nursing
+1968   eduniv   242 Department of Early Childhood 
+1969   eduniv   248       Department of Accounting
+1970   eduniv   249 Department of Tourism Business
+1971   eduniv   250 Department of Cooperative Orga
+1972   eduniv   252      Department of Social Work
+1973   eduniv   253          Department of Nursing
+1974   eduniv   255     Department of Crop Science
+1975   eduniv   256 Department of Electrical Engin
+1976   eduniv   257 Department of Mechanical Engin
+1977   eduniv   258 Department of Civil Infrastruc
+1978   eduniv   260      Department of Electronics
+1979   eduniv   261 Department of Library Science 
+1980   eduniv   262 Department of Marketing and Ad
+1981   eduniv   263       Department of Accounting
+1982   eduniv   264 Department of Tourism Business
+1983   eduniv   266 Department of Aesthetics and C
+1984   eduniv   267 Department of Early Childhood 
+1985   eduniv   268 Department of Medical Laborato
+1986   eduniv   269        Department of Midwifery
+1987   eduniv   270          Department of Nursing
+1988   eduniv   271    Department of Physiotherapy
+1989   eduniv   272  Department of Farm Management
+1990   eduniv   273 Department of Animal Productio
+1991   eduniv   274 Department of Plant Production
+1992   eduniv   275       Department of Automation
+1993   eduniv   276      Department of Electronics
+1994   eduniv   277 Department of Vehicle Technolo
+1995   eduniv   278      Department of Informatics
+1996   eduniv   279 Department of Civil Infrastruc
+1997   eduniv   281        Department of Dietetics
+1998   eduniv   282  Department of Food Technology
+1999   eduniv   283 Department of Business Adminis
+2000   eduniv   284       Department of Accounting
+2001   eduniv   286 Department of Electrical Engin
+2002   eduniv   287 Department of Mechanical Engin
+2003   eduniv   288 Department of Petroleum Techno
+2004   eduniv   290         Department of Forestry
+2005   eduniv   293 Department of Plant Production
+2006   eduniv   295 Department of Business Adminis
+2007   eduniv   296       Department of Accounting
+2008   eduniv   298 Department of Electrical Engin
+2009   eduniv   299 Department of Mechanical Engin
+2010   eduniv   304 Department of Plant Production
+2011   eduniv   306          Department of Nursing
+2012   eduniv   308 Department of Electrical Engin
+2013   eduniv   309 Department of Electronic Engin
+2014   eduniv   311         Department of Forestry
+2015   eduniv   313 Department of Business Adminis
+2016   eduniv   314       Department of Accounting
+2017   eduniv   315 Department of Tourism Business
+2018   eduniv   317 Department of Medical Laborato
+2019   eduniv   318          Department of Nursing
+2020   eduniv   319 Department of Agricultural Mac
+2021   eduniv   320 Department of Animal Productio
+2022   eduniv   321 Department of Plant Production
+2023   eduniv   322 Department of Electrical Engin
+2024   eduniv   323 Department of Mechanical Engin
+2025   eduniv   324 Department of Civil Infrastruc
+2026   eduniv   326         Department of Forestry
+2027   eduniv   327       Department of Accounting
+2028   eduniv   328 Department of Cooperative Orga
+2029   eduniv   330 Department of Aquaculture and 
+2030   eduniv   333 Department of Business Adminis
+2031   eduniv   334       Department of Accounting
+2032   eduniv   335 Department of Tourism Business
+2033   eduniv   337      Department of Social Work
+2034   eduniv   338          Department of Nursing
+2035   eduniv   339   Department of Speech Therapy
+2036   eduniv   340 Department of Electrical Engin
+2037   eduniv   341 Department of Mechanical Engin
+2038   eduniv   342 Department of Civil Infrastruc
+2039   eduniv   343 Department of Business Adminis
+2040   eduniv   344       Department of Accounting
+2041   eduniv   346       Department of Automation
+2042   eduniv   347 Department of Electrical Engin
+2043   eduniv   348 Department of Electronical Eng
+2044   eduniv   349 Department of Electronic Compu
+2045   eduniv   350 Department of Textile Engineer
+2046   eduniv   351 Department of Mechanical Engin
+2047   eduniv   352 Department of Civil Infrastruc
+2048   eduniv   356 Department of Business Adminis
+2049   eduniv   357       Department of Accounting
+2050   eduniv   359 Department of Mechanical Engin
+2051   eduniv   360 Department of Civil Infrastruc
+2052   eduniv   361 Department of Business Adminis
+2053   eduniv   362       Department of Accounting
+2054   eduniv   364 Department of Electrical Engin
+2055   eduniv   365 Department of Mechanical Engin
+2056   eduniv   381 Department of Civil Infrastruc
+2057   eduniv   382 Department of Civil Communicat
+2058   eduniv   383 Department of Mechanical Engin
+2059   eduniv   384 Department of Electrical Engin
+2060   eduniv   385 Department of Electronic Engin
+2061   eduniv   390           Department of Nurses
+2062   eduniv   402 Department of Medicine Officer
+2063   eduniv   407 Department of Recruiting Offic
+2064   eduniv   408     Military school of Nursing
+2065   eduniv   409 Department of the Arms Trainin
+2066   eduniv   410 Department of the Corps Traini
+2067   eduniv   415 Department of Military Adminis
+2068   eduniv   416 Department of Technical Traini
+2069   eduniv   455  Department of Combat Officers
+2070   eduniv   456 Department of Mechanical Engin
+2071   eduniv   521 Hellenic navy-non commissioned
+2072   eduniv   522  Department of Flying Officers
+2073   eduniv   523 Department of Mechanical Engin
+2074   eduniv   525 Faculty of permanent petty off
+2075   eduniv   536 School of technical petty offi
+2076   eduniv   537         Department of Captains
+2077   eduniv   538 Department of Mechanical Engin
+2078   eduniv   539         Department of Captains
+2079   eduniv   540 Department of Mechanical Engin
+2080   eduniv   541         Department of Captains
+2081   eduniv   542 Department of Mechanical Engin
+2082   eduniv   543         Department of Captains
+2083   eduniv   544         Department of Captains
+2084   eduniv   545         Department of Captains
+2085   eduniv   546         Department of Captains
+2086   eduniv   548         Department of Captains
+2087   eduniv   549 Department of Mechanical Engin
+2088   eduniv   601 Drama School of the National T
+2089   eduniv   603 Drama School of Athens Conserv
+2090   eduniv   604         Drama School of Athens
+2091   eduniv   608             Veaki Drama School
+2092   eduniv   612 Eugenia Chatzikou Drama School
+2093   eduniv   631 Sonia Morianova-Thalassidou 'M
+2094   eduniv   635   Roula Kafantari Dance School
+2095   eduniv   639          State School of Dance
+2096   eduniv   704 Tourist guides school of Rhode
+2097   eduniv   801 Higher Ecclesiastical School o
+2098   eduniv   802 Higher Ecclesiastical School o
+2099   eduniv   803 Higher Ecclesiastical School o
+2100   eduniv   900               Police academies
+2101   eduniv   991 No Answer for a Greek Universi
+2102   eduniv   992              No Answer for TEI
+2103   eduniv   993 No Answer for a University abr
+2104   eduniv   996    Ambiguous answer for school
+2105   eduniv   997            Response suppressed
+2106   eduniv   998           No Answer for School
+2107   eduniv   999                            NIU
+2108  empstat     0                            NIU
+2109  empstat     1                        Working
+2110  empstat     2                     Job seeker
+2111  empstat     3    Job seeker for the 1st time
+2112  empstat     4               Pupil or student
+2113  empstat     5                      Pensioner
+2114  empstat     6    Person of independent means
+2115  empstat     7           Household activities
+2116  empstat     8                      Conscript
+2117  empstat     9                     Other case
+2118      ind    11 Growing of cereals and other c
+2119      ind    12 Growing of vegetables, horticu
+2120      ind    13 Growing of fruits, vineyards, 
+2121      ind    14             Farming of animals
+2122      ind    15 Growing of crops combined with
+2123      ind    16 Agricultural and animal husban
+2124      ind    20 Forestry, logging and related 
+2125      ind    50 Fishing, aquaculture and servi
+2126      ind   102 Mining and agglomeration of li
+2127      ind   112 Service activities incidental 
+2128      ind   131            Mining of iron ores
+2129      ind   132 Mining of non-ferrous metal or
+2130      ind   141             Quarrying of stone
+2131      ind   142     Quarrying of sand and clay
+2132      ind   144             Extraction of salt
+2133      ind   145 Other mining and quarrying not
+2134      ind   151 Production, processing and pre
+2135      ind   152 Processing and preserving of f
+2136      ind   153 Processing and preserving of f
+2137      ind   154 Manufacture of vegetable and a
+2138      ind   155  Manufacture of dairy products
+2139      ind   156 Manufacture of grain mill prod
+2140      ind   157 Manufacture of prepared animal
+2141      ind   158 Manufacture of other food prod
+2142      ind   159       Manufacture of beverages
+2143      ind   160 Manufacture of tobacco product
+2144      ind   171 Preparation and spinning of te
+2145      ind   172            Weaving of textiles
+2146      ind   173          Finishing of textiles
+2147      ind   174 Manufacture of made-up textile
+2148      ind   175  Manufacture of other textiles
+2149      ind   176 Manufacture of knitted and cro
+2150      ind   177 Manufacture of knitted and cro
+2151      ind   181 Manufacture of leather wearing
+2152      ind   182 Manufacture of other wearing a
+2153      ind   183 Dressing and dyeing of fur; ma
+2154      ind   191 Tanning and dressing of leathe
+2155      ind   192 Manufacture of luggage, handba
+2156      ind   193        Manufacture of footwear
+2157      ind   201 Sawmilling and planning of woo
+2158      ind   202 Manufacture of veneer sheets, 
+2159      ind   203 Manufacture of builders' carpe
+2160      ind   204 Manufacture of wooden containe
+2161      ind   205 Manufacture of other products 
+2162      ind   211 Manufacture of pulp, paper and
+2163      ind   212 Manufacture of paper and paper
+2164      ind   221                     Publishing
+2165      ind   222 Printing and related activitie
+2166      ind   223 Reproduction of recorded media
+2167      ind   232 Manufacture of refined petrole
+2168      ind   241 Manufacture of basic chemicals
+2169      ind   242 Manufacture of pesticides and 
+2170      ind   243 Manufacture of paints, varnish
+2171      ind   244 Manufacture of pharmaceuticals
+2172      ind   245 Manufacture of soap and deterg
+2173      ind   246 Manufacture of other chemical 
+2174      ind   251 Manufacture of rubber products
+2175      ind   252 Manufacture of plastics produc
+2176      ind   261 Manufacture of glass and glass
+2177      ind   262 Manufacture of non-structural 
+2178      ind   263 Manufacture of non-refractory 
+2179      ind   264 Manufacture of bricks, tiles a
+2180      ind   265 Manufacture of cement, lime an
+2181      ind   266 Manufacture of articles of con
+2182      ind   267 Cutting, shaping and finishing
+2183      ind   268 Manufacture of other non-metal
+2184      ind   271 Manufacture of basic iron and 
+2185      ind   272           Manufacture of pipes
+2186      ind   273   Extruding operations to make
+2187      ind   274 Manufacture of basic precious 
+2188      ind   275              Casting of metals
+2189      ind   281 Manufacture of structural meta
+2190      ind   282 Manufacture of tanks, reservoi
+2191      ind   284 Forging, pressing, stamping an
+2192      ind   285 Treatment and coating of metal
+2193      ind   286 Manufacture of cutlery, hand t
+2194      ind   287 Manufacture of other fabricate
+2195      ind   291 Manufacture of engines and tur
+2196      ind   292 Manufacture of other general-p
+2197      ind   293 Manufacture of agricultural an
+2198      ind   294   Manufacture of machine tools
+2199      ind   295 Manufacture of other special-p
+2200      ind   296 Manufacture of weapons and amm
+2201      ind   297 Manufacture of domestic applia
+2202      ind   300 Manufacture of office and comp
+2203      ind   311 Manufacture of electric motors
+2204      ind   312 Manufacture of electricity dis
+2205      ind   313 Manufacture of insulated wire 
+2206      ind   314 Manufacture of accumulators, p
+2207      ind   315 Manufacture of electric lamps 
+2208      ind   316 Manufacture of other electrica
+2209      ind   321 Manufacture of electronic valv
+2210      ind   322 Manufacture of television and 
+2211      ind   323 Manufacture of television and 
+2212      ind   331 Manufacture of medical and sur
+2213      ind   332 Manufacture of instruments and
+2214      ind   334 Manufacture of optical instrum
+2215      ind   341  Manufacture of motor vehicles
+2216      ind   342 Manufacture of bodies (coachwo
+2217      ind   343 Manufacture of parts and acces
+2218      ind   351 Building and repairing of ship
+2219      ind   352 Manufacture of railway and tra
+2220      ind   353 Manufacture of aircraft and sp
+2221      ind   361       Manufacture of furniture
+2222      ind   362 Manufacture of jewellery and r
+2223      ind   364    Manufacture of sports goods
+2224      ind   365  Manufacture of games and toys
+2225      ind   366     Other manufacturing n.e.c.
+2226      ind   371 Recycling of non-metal waste a
+2227      ind   401 Production and distribution of
+2228      ind   402 Manufacture of gas; distributi
+2229      ind   403     Steam and hot water supply
+2230      ind   410 Collection, purification and d
+2231      ind   451               Site preparation
+2232      ind   452 Building of complete construct
+2233      ind   453          Building installation
+2234      ind   454            Building completion
+2235      ind   501         Sale of motor vehicles
+2236      ind   502 Maintenance and repair of moto
+2237      ind   503 Sale of motor vehicles parts a
+2238      ind   504 Sale, maintenance and repair o
+2239      ind   505 Retail sale of automotive fuel
+2240      ind   511     On a fee or contract basis
+2241      ind   512 Agricultural raw materials and
+2242      ind   513    Food, beverages and tobacco
+2243      ind   514                Household goods
+2244      ind   515 Non-agricultural intermediate 
+2245      ind   516 Machinery, equipment and suppl
+2246      ind   517                Other wholesale
+2247      ind   521 Non-specialized retail trade i
+2248      ind   522 Retail sale of food, beverages
+2249      ind   523 Retail sale of pharmaceutical 
+2250      ind   524        Retail sale of textiles
+2251      ind   525 Other retail trade of new good
+2252      ind   526 Retail sale of second-hand goo
+2253      ind   527     Retail trade not in stores
+2254      ind   528 Repair of personal and househo
+2255      ind   551                         Hotels
+2256      ind   552 Camping sites and other provis
+2257      ind   553                    Restaurants
+2258      ind   554                           Bars
+2259      ind   555 Canteens and businesses prepar
+2260      ind   601         Transport via railways
+2261      ind   602           Other land transport
+2262      ind   611 Sea and coastal water transpor
+2263      ind   621        Scheduled air transport
+2264      ind   631     Cargo handling and storage
+2265      ind   632 Other supporting transport act
+2266      ind   633 Activities of travel agencies 
+2267      ind   634 Activities of other transport 
+2268      ind   641                Post activities
+2269      ind   642             Telecommunications
+2270      ind   651        Monetary intermediation
+2271      ind   652 Other financial intermediation
+2272      ind   660 Insurance and pension funding 
+2273      ind   671 Activities auxiliary to financ
+2274      ind   672 Activities auxiliary to insura
+2275      ind   701 Real estate managing activitie
+2276      ind   703 Real estate activities on a fe
+2277      ind   711                Renting of cars
+2278      ind   712 Renting of transport equipment
+2279      ind   714 Renting of personal and househ
+2280      ind   721           Hardware consultancy
+2281      ind   722 Software consultancy and suppl
+2282      ind   723                Data processing
+2283      ind   725 Maintenance and repair of offi
+2284      ind   726 Other computer related activit
+2285      ind   731 Research and experimental deve
+2286      ind   732 Research and experimental deve
+2287      ind   741 Legal, accounting, bookkeeping
+2288      ind   742 Architectural and engineering 
+2289      ind   743 Technical testing and analysis
+2290      ind   744                    Advertising
+2291      ind   745 Labour recruitment and provisi
+2292      ind   746 Investigation and security act
+2293      ind   747   Building-cleaning activities
+2294      ind   748 Other business activities n.e.
+2295      ind   751 Administration of the State an
+2296      ind   752 Provision of services to the c
+2297      ind   753 Compulsory social security act
+2298      ind   801              Primary education
+2299      ind   802            Secondary education
+2300      ind   803               Higher education
+2301      ind   804 Adult education and other educ
+2302      ind   851        Human health activities
+2303      ind   852   Veterinary health activities
+2304      ind   853         Social care activities
+2305      ind   900 Sewage and refuse disposal, sa
+2306      ind   911 Activities of business, employ
+2307      ind   912     Activities of trade unions
+2308      ind   913 Activities of other organizati
+2309      ind   921 Motion picture and video activ
+2310      ind   922 Radio and television activitie
+2311      ind   923 Other entertainment activities
+2312      ind   924         News agency activities
+2313      ind   925 Library, archives, museums and
+2314      ind   926            Sporting activities
+2315      ind   927  Other recreational activities
+2316      ind   930       Other service activities
+2317      ind   950 Activities of Private househol
+2318      ind   990 Extraterritorial organizations
+2319      ind   997            Response suppressed
+2320      ind   998                        Unknown
+2321      ind   999                            NIU
+2322      occ    11                   Armed Forces
+2323      occ   111 Legislators and senior governm
+2324      occ   121 Directors and chief executives
+2325      occ   122 Production and operations mana
+2326      occ   123      Other specialist managers
+2327      occ   131 Managers of small enterprises 
+2328      occ   132 Managers of small enterprises 
+2329      occ   133 Managers of small enterprises 
+2330      occ   134 Managers of small enterprises 
+2331      occ   135 Managers of small enterprises 
+2332      occ   136 Managers of small enterprises 
+2333      occ   139 Other managers of small enterp
+2334      occ   211 Physicists, chemists and relat
+2335      occ   212 Mathematicians, statisticians 
+2336      occ   213        Computing professionals
+2337      occ   221 Architects, town and traffic p
+2338      occ   222                Civil engineers
+2339      occ   223 Electrical engineers, electron
+2340      occ   229                Other engineers
+2341      occ   231 Biologists, agriculturalists a
+2342      occ   232                Medical doctors
+2343      occ   233                       Dentists
+2344      occ   234                  Veterinarians
+2345      occ   235                    Pharmacists
+2346      occ   237 Nursing and midwifery professi
+2347      occ   241 University teaching profession
+2348      occ   242 Technological educational inst
+2349      occ   243 Secondary education teaching p
+2350      occ   244 Primary education teaching pro
+2351      occ   245 Pre-primary education teaching
+2352      occ   246 Special education teaching pro
+2353      occ   247 Preparatory (coaching), privat
+2354      occ   249   Other teaching professionals
+2355      occ   251 Accountants and other business
+2356      occ   261        Lawyers and consultants
+2357      occ   262             Public prosecutors
+2358      occ   263                         Judges
+2359      occ   264 Public notaries and other lega
+2360      occ   271 Archivists, librarians and rel
+2361      occ   272 Economists, sociologists and r
+2362      occ   273 Writers, journalists and relat
+2363      occ   274 Sculptors, painters and relate
+2364      occ   275 Composers, musicians, singers 
+2365      occ   276     Choreographers and dancers
+2366      occ   277 Film, stage and related actors
+2367      occ   278        Religious professionals
+2368      occ   279 Public service administrative 
+2369      occ   311 Physical and engineering scien
+2370      occ   312 Draughts persons (architectura
+2371      occ   313 Computer associate professiona
+2372      occ   314 Optical and electronic equipme
+2373      occ   315               Ships' engineers
+2374      occ   316 Ships' deck officers and pilot
+2375      occ   317 Aircraft pilots, air traffic c
+2376      occ   318  Safety and quality inspectors
+2377      occ   321 Life science technicians and r
+2378      occ   322 Health associate professionals
+2379      occ   323 Nursing professionals (technol
+2380      occ   324 Midwifery professionals (techn
+2381      occ   331 Pre-primary and special educat
+2382      occ   332 Other teaching associate profe
+2383      occ   341 Finance and sales associate pr
+2384      occ   342 Business services agents and t
+2385      occ   343 Administrative associate profe
+2386      occ   344 Customs, tax and related gover
+2387      occ   345 Police inspectors and detectiv
+2388      occ   346 Social work associate professi
+2389      occ   347 Decorators and commercial desi
+2390      occ   348 Radio, TV and other announcers
+2391      occ   349 Athletes, sport persons and re
+2392      occ   411 Secretaries and keyboard opera
+2393      occ   412               Numerical clerks
+2394      occ   413 Material  recording and transp
+2395      occ   414 Mail carriers and sorting cler
+2396      occ   415      Library and filing clerks
+2397      occ   419            Other office clerks
+2398      occ   421 Cashiers and tellers clerks an
+2399      occ   422       Bookmakers and croupiers
+2400      occ   423 Travel agency and related cler
+2401      occ   424 Telephone switchboard operator
+2402      occ   511 Travel attendants, travel stew
+2403      occ   512           Transport conductors
+2404      occ   513 Housekeepers and related worke
+2405      occ   514                          Cooks
+2406      occ   515                        Waiters
+2407      occ   516 Personal care and related work
+2408      occ   517 Hairdressers, barbers, beautic
+2409      occ   519 Other personal services worker
+2410      occ   521                   Firefighters
+2411      occ   522                Police officers
+2412      occ   523 Other protective services work
+2413      occ   531       Fashion and other models
+2414      occ   532              Shop salespersons
+2415      occ   533  Stall and market salespersons
+2416      occ   611   Field crops and rice growers
+2417      occ   612                 Cotton growers
+2418      occ   613                Tobacco growers
+2419      occ   614 Vegetables, horticultural and 
+2420      occ   615 Other agricultural workers ski
+2421      occ   621              Olive cultivation
+2422      occ   622             Citrus cultivation
+2423      occ   623      Other fruiter cultivation
+2424      occ   624 Vineyard and raisin vineyard c
+2425      occ   631 Multi-cultivation agricultural
+2426      occ   641         Cow producers (cowmen)
+2427      occ   642       Sheep and goat producers
+2428      occ   643                  Pig producers
+2429      occ   644              Poultry producers
+2430      occ   645 Other skilled animal producers
+2431      occ   646 Mixed cultivation animal produ
+2432      occ   647 Mixed cultivation agricultural
+2433      occ   651 Forestry workers, loggers and 
+2434      occ   661 Inland and coastal waters and 
+2435      occ   662 Aquatic life cultivation worke
+2436      occ   711      Miners and quarry workers
+2437      occ   712 Stone splitters and stone cutt
+2438      occ   721                       Builders
+2439      occ   722 Concrete placers, concrete fin
+2440      occ   723         Carpenters and joiners
+2441      occ   724 Building frame and maintenance
+2442      occ   725 Plasterers and related trades 
+2443      occ   726      Plumbers and pipe fitters
+2444      occ   727 Building and related electrici
+2445      occ   728 Other building finishers and o
+2446      occ   729 Painters, building structure c
+2447      occ   731   Metal molders and coremakers
+2448      occ   732      Welders and flame cutters
+2449      occ   733            Sheet metal workers
+2450      occ   734 Structural metal workers and r
+2451      occ   735 Blacksmiths, toolmakers and re
+2452      occ   741 Motor vehicle mechanics and fi
+2453      occ   742 Aircraft engine mechanics and 
+2454      occ   743 Agricultural or industrial mac
+2455      occ   744 Electrical mechanics fitters a
+2456      occ   745 Electronics mechanics, fitters
+2457      occ   746 Telegraph and telephone instal
+2458      occ   747 Electrical line installers, re
+2459      occ   751 Precision instrument makers an
+2460      occ   752 Musical instrument makers and 
+2461      occ   753 Jewelry and precious metal wor
+2462      occ   754 Potters, glassmakers and relat
+2463      occ   755 Handicraft workers in wood, te
+2464      occ   756 Craft printing and related tra
+2465      occ   761 Butchers, fishmongers and rela
+2466      occ   762 Bakers, pastry cooks and confe
+2467      occ   763         Dairy products workers
+2468      occ   764 Other food processing, beverag
+2469      occ   765 Tobacco preparers and tobacco 
+2470      occ   771 Cabinet makers and related tra
+2471      occ   772 Wood treaters, woodworking mac
+2472      occ   781 Fiber preparers and related wo
+2473      occ   782 Tailors, dressmakers and hatte
+2474      occ   783   Furriers and related workers
+2475      occ   784 Textile, leather and related p
+2476      occ   785 Sewers, embroiderers and relat
+2477      occ   786 Upholsters and related workers
+2478      occ   787 Pelt dressers, tanners leather
+2479      occ   788 Shoe makers and leather articl
+2480      occ   811 Mining and mineral processing 
+2481      occ   812 Metal processing plant operato
+2482      occ   813 Glass, ceramics and related pl
+2483      occ   814 Wood processing plant operator
+2484      occ   815 Paper pulp and papermaking pla
+2485      occ   816 Chemical processing plant oper
+2486      occ   817 Power production and related p
+2487      occ   821         Machine tool operators
+2488      occ   822 Cement and other (non metal) m
+2489      occ   831 Pharmaceutical and toiletry pr
+2490      occ   832 Ammunition and explosive produ
+2491      occ   833 Metal finishing, plating and c
+2492      occ   834 Other chemical products machin
+2493      occ   835 Rubber and plastic products ma
+2494      occ   841 Wood products machine operator
+2495      occ   842 Printing, binding and paper pr
+2496      occ   851 Fiber preparing, weaving and k
+2497      occ   852 Bleaching, dyeing and finishin
+2498      occ   853 Washing, cleaning and press ir
+2499      occ   854 Fur and leather preparing mach
+2500      occ   855 Shoemaking and related machine
+2501      occ   859 Textile, fur and leather produ
+2502      occ   861 Meat and fish processing machi
+2503      occ   862 Dairy products machine operato
+2504      occ   863 Bread, pastry, confectionery g
+2505      occ   864 Other food products machine op
+2506      occ   865 Brewers and other beverage mac
+2507      occ   866 Tobacco processing and product
+2508      occ   871 Mechanical machinery assembler
+2509      occ   872 Electrical and electronic equi
+2510      occ   873               Other assemblers
+2511      occ   874        Other machine operators
+2512      occ   881 Locomotive engine drivers and 
+2513      occ   882          Motor vehicle drivers
+2514      occ   883 Motorized farm and forestry pl
+2515      occ   884 Earth moving and related plant
+2516      occ   885 Crane, hoist, lifting truck an
+2517      occ   886 Ships' deck crews and related 
+2518      occ   911 Street vendors and related wor
+2519      occ   912 Shoe cleaning and other street
+2520      occ   913 Domestic and related helpers, 
+2521      occ   914 Building caretakers, window an
+2522      occ   915 Messengers, porters, doorkeepe
+2523      occ   916 Garbage collectors, sweepers a
+2524      occ   921 Agricultural, fishery and rela
+2525      occ   931 Mining and construction labore
+2526      occ   932         Manufacturing laborers
+2527      occ   933 Transport laborers and freight
+2528      occ   996   Non-identifiable occupations
+2529      occ   997            Response suppressed
+2530      occ   998                      No answer
+2531      occ   999                            NIU
+2532  classwk     1                       Employer
+2533  classwk     2                  Self-employed
+2534  classwk     3        Employee or wage-earner
+2535  classwk     4 Assistant in the family busine
+2536  classwk     9                            NIU
+2537    hrswk     0                              0
+2538    hrswk     1                              1
+2539    hrswk     2                              2
+2540    hrswk     3                              3
+2541    hrswk     4                              4
+2542    hrswk     5                              5
+2543    hrswk     6                              6
+2544    hrswk     7                              7
+2545    hrswk     8                              8
+2546    hrswk     9                              9
+2547    hrswk    10                             10
+2548    hrswk    11                             11
+2549    hrswk    12                             12
+2550    hrswk    13                             13
+2551    hrswk    14                             14
+2552    hrswk    15                             15
+2553    hrswk    16                             16
+2554    hrswk    17                             17
+2555    hrswk    18                             18
+2556    hrswk    19                             19
+2557    hrswk    20                             20
+2558    hrswk    21                             21
+2559    hrswk    22                             22
+2560    hrswk    23                             23
+2561    hrswk    24                             24
+2562    hrswk    25                             25
+2563    hrswk    26                             26
+2564    hrswk    27                             27
+2565    hrswk    28                             28
+2566    hrswk    29                             29
+2567    hrswk    30                             30
+2568    hrswk    31                             31
+2569    hrswk    32                             32
+2570    hrswk    33                             33
+2571    hrswk    34                             34
+2572    hrswk    35                             35
+2573    hrswk    36                             36
+2574    hrswk    37                             37
+2575    hrswk    38                             38
+2576    hrswk    39                             39
+2577    hrswk    40                             40
+2578    hrswk    41                             41
+2579    hrswk    42                             42
+2580    hrswk    43                             43
+2581    hrswk    44                             44
+2582    hrswk    45                             45
+2583    hrswk    46                             46
+2584    hrswk    47                             47
+2585    hrswk    48                             48
+2586    hrswk    49                             49
+2587    hrswk    50                             50
+2588    hrswk    51                             51
+2589    hrswk    52                             52
+2590    hrswk    53                             53
+2591    hrswk    54                             54
+2592    hrswk    55                             55
+2593    hrswk    56                             56
+2594    hrswk    57                             57
+2595    hrswk    58                             58
+2596    hrswk    59                             59
+2597    hrswk    60                             60
+2598    hrswk    61                             61
+2599    hrswk    62                             62
+2600    hrswk    63                             63
+2601    hrswk    64                             64
+2602    hrswk    65                             65
+2603    hrswk    66                             66
+2604    hrswk    67                             67
+2605    hrswk    68                             68
+2606    hrswk    69                             69
+2607    hrswk    70                             70
+2608    hrswk    71                             71
+2609    hrswk    72                             72
+2610    hrswk    73                             73
+2611    hrswk    74                             74
+2612    hrswk    75                             75
+2613    hrswk    76                             76
+2614    hrswk    77                             77
+2615    hrswk    78                             78
+2616    hrswk    79                             79
+2617    hrswk    80                             80
+2618    hrswk    81                             81
+2619    hrswk    82                             82
+2620    hrswk    83                             83
+2621    hrswk    84                             84
+2622    hrswk    85                             85
+2623    hrswk    86                             86
+2624    hrswk    87                             87
+2625    hrswk    88                             88
+2626    hrswk    89                             89
+2627    hrswk    90                             90
+2628    hrswk    91                             91
+2629    hrswk    92                             92
+2630    hrswk    93                             93
+2631    hrswk    94                             94
+2632    hrswk    95                             95
+2633    hrswk    96                             96
+2634    hrswk    97                             97
+2635    hrswk    98                             98
+2636    hrswk    99                            NIU
+2637   whyemp     1                  Seasonal work
+2638   whyemp     2             Weather conditions
+2639   whyemp     3                 Leave/sickness
+2640   whyemp     4                          Other
+2641   whyemp     9                            NIU
+2642  estsize     1                Up to 9 persons
+2643  estsize     2                     10 or more
+2644  estsize     8                        Unknown
+2645  estsize     9                            NIU
+2646 empstaty     0                            NIU
+2647 empstaty     1                        Working
+2648 empstaty     2                     Job seeker
+2649 empstaty     3    Job seeker for the 1st time
+2650 empstaty     4               Pupil or student
+2651 empstaty     5                      Pensioner
+2652 empstaty     6    Person of independent means
+2653 empstaty     7           Household activities
+2654 empstaty     8                      Conscript
+2655 empstaty     9                     Other case
+2656   hrwrk2     1                              1
+2657   hrwrk2     2                              2
+2658   hrwrk2     3                              3
+2659   hrwrk2     4                              4
+2660   hrwrk2     5                              5
+2661   hrwrk2     6                              6
+2662   hrwrk2     7                              7
+2663   hrwrk2     8                              8
+2664   hrwrk2     9                              9
+2665   hrwrk2    10                             10
+2666   hrwrk2    11                             11
+2667   hrwrk2    12                             12
+2668   hrwrk2    13                             13
+2669   hrwrk2    14                             14
+2670   hrwrk2    15                             15
+2671   hrwrk2    16                             16
+2672   hrwrk2    17                             17
+2673   hrwrk2    18                             18
+2674   hrwrk2    19                             19
+2675   hrwrk2    20                             20
+2676   hrwrk2    21                             21
+2677   hrwrk2    22                             22
+2678   hrwrk2    23                             23
+2679   hrwrk2    24                             24
+2680   hrwrk2    25                             25
+2681   hrwrk2    26                             26
+2682   hrwrk2    27                             27
+2683   hrwrk2    28                             28
+2684   hrwrk2    29                             29
+2685   hrwrk2    30                             30
+2686   hrwrk2    31                             31
+2687   hrwrk2    32                             32
+2688   hrwrk2    33                             33
+2689   hrwrk2    34                             34
+2690   hrwrk2    35                             35
+2691   hrwrk2    36                             36
+2692   hrwrk2    37                             37
+2693   hrwrk2    38                             38
+2694   hrwrk2    39                             39
+2695   hrwrk2    40                             40
+2696   hrwrk2    41                             41
+2697   hrwrk2    42                             42
+2698   hrwrk2    43                             43
+2699   hrwrk2    44                             44
+2700   hrwrk2    45                             45
+2701   hrwrk2    46                             46
+2702   hrwrk2    47                             47
+2703   hrwrk2    48                             48
+2704   hrwrk2    49                             49
+2705   hrwrk2    50                             50
+2706   hrwrk2    51                             51
+2707   hrwrk2    52                             52
+2708   hrwrk2    53                             53
+2709   hrwrk2    54                             54
+2710   hrwrk2    55                             55
+2711   hrwrk2    56                             56
+2712   hrwrk2    57                             57
+2713   hrwrk2    58                             58
+2714   hrwrk2    59                             59
+2715   hrwrk2    60                             60
+2716   hrwrk2    61                             61
+2717   hrwrk2    62                             62
+2718   hrwrk2    63                             63
+2719   hrwrk2    64                             64
+2720   hrwrk2    65                             65
+2721   hrwrk2    66                             66
+2722   hrwrk2    67                             67
+2723   hrwrk2    68                             68
+2724   hrwrk2    69                             69
+2725   hrwrk2    70                             70
+2726   hrwrk2    71                             71
+2727   hrwrk2    72                             72
+2728   hrwrk2    73                             73
+2729   hrwrk2    74                             74
+2730   hrwrk2    75                             75
+2731   hrwrk2    76                             76
+2732   hrwrk2    77                             77
+2733   hrwrk2    78                             78
+2734   hrwrk2    79                             79
+2735   hrwrk2    80                             80
+2736   hrwrk2    81                             81
+2737   hrwrk2    82                             82
+2738   hrwrk2    83                             83
+2739   hrwrk2    84                             84
+2740   hrwrk2    85                             85
+2741   hrwrk2    86                             86
+2742   hrwrk2    87                             87
+2743   hrwrk2    88                             88
+2744   hrwrk2    89                             89
+2745   hrwrk2    90                             90
+2746   hrwrk2    91                             91
+2747   hrwrk2    92                             92
+2748   hrwrk2    93                             93
+2749   hrwrk2    94                             94
+2750   hrwrk2    95                             95
+2751   hrwrk2    96                             96
+2752   hrwrk2    97                             97
+2753   hrwrk2    98                             98
+2754   hrwrk2    99                            NIU
+2755   wrkplc     1         No fixed place of work
+2756   wrkplc     2 Permanent, within usual reside
+2757   wrkplc     3 Permanent, in municipality of 
+2758   wrkplc     4 Permanent, in other municipali
+2759   wrkplc     5 Permanent, in other municipali
+2760   wrkplc     6 Permanent, in other department
+2761   wrkplc     7              Permanent, abroad
+2762   wrkplc     9                            NIU
+2763   chborn     0                              0
+2764   chborn     1                              1
+2765   chborn     2                              2
+2766   chborn     3                              3
+2767   chborn     4                              4
+2768   chborn     5                              5
+2769   chborn     6                              6
+2770   chborn     7                              7
+2771   chborn     8                              8
+2772   chborn     9                              9
+2773   chborn    10                             10
+2774   chborn    11                            11+
+2775   chborn    99                            NIU
+2776 frstchyr  1925                1925 or earlier
+2777 frstchyr  1926                           1926
+2778 frstchyr  1927                           1927
+2779 frstchyr  1928                           1928
+2780 frstchyr  1929                           1929
+2781 frstchyr  1930                           1930
+2782 frstchyr  1931                           1931
+2783 frstchyr  1932                           1932
+2784 frstchyr  1933                           1933
+2785 frstchyr  1934                           1934
+2786 frstchyr  1935                           1935
+2787 frstchyr  1936                           1936
+2788 frstchyr  1937                           1937
+2789 frstchyr  1938                           1938
+2790 frstchyr  1939                           1939
+2791 frstchyr  1940                           1940
+2792 frstchyr  1941                           1941
+2793 frstchyr  1942                           1942
+2794 frstchyr  1943                           1943
+2795 frstchyr  1944                           1944
+2796 frstchyr  1945                           1945
+2797 frstchyr  1946                           1946
+2798 frstchyr  1947                           1947
+2799 frstchyr  1948                           1948
+2800 frstchyr  1949                           1949
+2801 frstchyr  1950                           1950
+2802 frstchyr  1951                           1951
+2803 frstchyr  1952                           1952
+2804 frstchyr  1953                           1953
+2805 frstchyr  1954                           1954
+2806 frstchyr  1955                           1955
+2807 frstchyr  1956                           1956
+2808 frstchyr  1957                           1957
+2809 frstchyr  1958                           1958
+2810 frstchyr  1959                           1959
+2811 frstchyr  1960                           1960
+2812 frstchyr  1961                           1961
+2813 frstchyr  1962                           1962
+2814 frstchyr  1963                           1963
+2815 frstchyr  1964                           1964
+2816 frstchyr  1965                           1965
+2817 frstchyr  1966                           1966
+2818 frstchyr  1967                           1967
+2819 frstchyr  1968                           1968
+2820 frstchyr  1969                           1969
+2821 frstchyr  1970                           1970
+2822 frstchyr  1971                           1971
+2823 frstchyr  1972                           1972
+2824 frstchyr  1973                           1973
+2825 frstchyr  1974                           1974
+2826 frstchyr  1975                           1975
+2827 frstchyr  1976                           1976
+2828 frstchyr  1977                           1977
+2829 frstchyr  1978                           1978
+2830 frstchyr  1979                           1979
+2831 frstchyr  1980                           1980
+2832 frstchyr  1981                           1981
+2833 frstchyr  1982                           1982
+2834 frstchyr  1983                           1983
+2835 frstchyr  1984                           1984
+2836 frstchyr  1985                           1985
+2837 frstchyr  1986                           1986
+2838 frstchyr  1987                           1987
+2839 frstchyr  1988                           1988
+2840 frstchyr  1989                           1989
+2841 frstchyr  1990                           1990
+2842 frstchyr  1991                           1991
+2843 frstchyr  1992                           1992
+2844 frstchyr  1993                           1993
+2845 frstchyr  1994                           1994
+2846 frstchyr  1995                           1995
+2847 frstchyr  1996                           1996
+2848 frstchyr  1997                           1997
+2849 frstchyr  1998                           1998
+2850 frstchyr  1999                           1999
+2851 frstchyr  2000                           2000
+2852 frstchyr  2001                           2001
+2853 frstchyr  9999                            NIU
+2854  secchyr  1927                1927 or earlier
+2855  secchyr  1928                           1928
+2856  secchyr  1929                           1929
+2857  secchyr  1930                           1930
+2858  secchyr  1931                           1931
+2859  secchyr  1932                           1932
+2860  secchyr  1933                           1933
+2861  secchyr  1934                           1934
+2862  secchyr  1935                           1935
+2863  secchyr  1936                           1936
+2864  secchyr  1937                           1937
+2865  secchyr  1938                           1938
+2866  secchyr  1939                           1939
+2867  secchyr  1940                           1940
+2868  secchyr  1941                           1941
+2869  secchyr  1942                           1942
+2870  secchyr  1943                           1943
+2871  secchyr  1944                           1944
+2872  secchyr  1945                           1945
+2873  secchyr  1946                           1946
+2874  secchyr  1947                           1947
+2875  secchyr  1948                           1948
+2876  secchyr  1949                           1949
+2877  secchyr  1950                           1950
+2878  secchyr  1951                           1951
+2879  secchyr  1952                           1952
+2880  secchyr  1953                           1953
+2881  secchyr  1954                           1954
+2882  secchyr  1955                           1955
+2883  secchyr  1956                           1956
+2884  secchyr  1957                           1957
+2885  secchyr  1958                           1958
+2886  secchyr  1959                           1959
+2887  secchyr  1960                           1960
+2888  secchyr  1961                           1961
+2889  secchyr  1962                           1962
+2890  secchyr  1963                           1963
+2891  secchyr  1964                           1964
+2892  secchyr  1965                           1965
+2893  secchyr  1966                           1966
+2894  secchyr  1967                           1967
+2895  secchyr  1968                           1968
+2896  secchyr  1969                           1969
+2897  secchyr  1970                           1970
+2898  secchyr  1971                           1971
+2899  secchyr  1972                           1972
+2900  secchyr  1973                           1973
+2901  secchyr  1974                           1974
+2902  secchyr  1975                           1975
+2903  secchyr  1976                           1976
+2904  secchyr  1977                           1977
+2905  secchyr  1978                           1978
+2906  secchyr  1979                           1979
+2907  secchyr  1980                           1980
+2908  secchyr  1981                           1981
+2909  secchyr  1982                           1982
+2910  secchyr  1983                           1983
+2911  secchyr  1984                           1984
+2912  secchyr  1985                           1985
+2913  secchyr  1986                           1986
+2914  secchyr  1987                           1987
+2915  secchyr  1988                           1988
+2916  secchyr  1989                           1989
+2917  secchyr  1990                           1990
+2918  secchyr  1991                           1991
+2919  secchyr  1992                           1992
+2920  secchyr  1993                           1993
+2921  secchyr  1994                           1994
+2922  secchyr  1995                           1995
+2923  secchyr  1996                           1996
+2924  secchyr  1997                           1997
+2925  secchyr  1998                           1998
+2926  secchyr  1999                           1999
+2927  secchyr  2000                           2000
+2928  secchyr  2001                           2001
+2929  secchyr  9999                            NIU
+2930  lstchyr  1930                1930 or earlier
+2931  lstchyr  1931                           1931
+2932  lstchyr  1932                           1932
+2933  lstchyr  1933                           1933
+2934  lstchyr  1934                           1934
+2935  lstchyr  1935                           1935
+2936  lstchyr  1936                           1936
+2937  lstchyr  1937                           1937
+2938  lstchyr  1938                           1938
+2939  lstchyr  1939                           1939
+2940  lstchyr  1940                           1940
+2941  lstchyr  1941                           1941
+2942  lstchyr  1942                           1942
+2943  lstchyr  1943                           1943
+2944  lstchyr  1944                           1944
+2945  lstchyr  1945                           1945
+2946  lstchyr  1946                           1946
+2947  lstchyr  1947                           1947
+2948  lstchyr  1948                           1948
+2949  lstchyr  1949                           1949
+2950  lstchyr  1950                           1950
+2951  lstchyr  1951                           1951
+2952  lstchyr  1952                           1952
+2953  lstchyr  1953                           1953
+2954  lstchyr  1954                           1954
+2955  lstchyr  1955                           1955
+2956  lstchyr  1956                           1956
+2957  lstchyr  1957                           1957
+2958  lstchyr  1958                           1958
+2959  lstchyr  1959                           1959
+2960  lstchyr  1960                           1960
+2961  lstchyr  1961                           1961
+2962  lstchyr  1962                           1962
+2963  lstchyr  1963                           1963
+2964  lstchyr  1964                           1964
+2965  lstchyr  1965                           1965
+2966  lstchyr  1966                           1966
+2967  lstchyr  1967                           1967
+2968  lstchyr  1968                           1968
+2969  lstchyr  1969                           1969
+2970  lstchyr  1970                           1970
+2971  lstchyr  1971                           1971
+2972  lstchyr  1972                           1972
+2973  lstchyr  1973                           1973
+2974  lstchyr  1974                           1974
+2975  lstchyr  1975                           1975
+2976  lstchyr  1976                           1976
+2977  lstchyr  1977                           1977
+2978  lstchyr  1978                           1978
+2979  lstchyr  1979                           1979
+2980  lstchyr  1980                           1980
+2981  lstchyr  1981                           1981
+2982  lstchyr  1982                           1982
+2983  lstchyr  1983                           1983
+2984  lstchyr  1984                           1984
+2985  lstchyr  1985                           1985
+2986  lstchyr  1986                           1986
+2987  lstchyr  1987                           1987
+2988  lstchyr  1988                           1988
+2989  lstchyr  1989                           1989
+2990  lstchyr  1990                           1990
+2991  lstchyr  1991                           1991
+2992  lstchyr  1992                           1992
+2993  lstchyr  1993                           1993
+2994  lstchyr  1994                           1994
+2995  lstchyr  1995                           1995
+2996  lstchyr  1996                           1996
+2997  lstchyr  1997                           1997
+2998  lstchyr  1998                           1998
+2999  lstchyr  1999                           1999
+3000  lstchyr  2000                           2000
+3001  lstchyr  2001                           2001
+3002  lstchyr  9999                            NIU
+3003  marrdur     0               Less than 1 year
+3004  marrdur     1                         1 year
+3005  marrdur     2                        2 years
+3006  marrdur     3                              3
+3007  marrdur     4                              4
+3008  marrdur     5                              5
+3009  marrdur     6                              6
+3010  marrdur     7                              7
+3011  marrdur     8                              8
+3012  marrdur     9                              9
+3013  marrdur    10                             10
+3014  marrdur    11                             11
+3015  marrdur    12                             12
+3016  marrdur    13                             13
+3017  marrdur    14                             14
+3018  marrdur    15                             15
+3019  marrdur    16                             16
+3020  marrdur    17                             17
+3021  marrdur    18                             18
+3022  marrdur    19                             19
+3023  marrdur    20                             20
+3024  marrdur    21                             21
+3025  marrdur    22                             22
+3026  marrdur    23                             23
+3027  marrdur    24                             24
+3028  marrdur    25                             25
+3029  marrdur    26                             26
+3030  marrdur    27                             27
+3031  marrdur    28                             28
+3032  marrdur    29                             29
+3033  marrdur    30                             30
+3034  marrdur    31                             31
+3035  marrdur    32                             32
+3036  marrdur    33                             33
+3037  marrdur    34                             34
+3038  marrdur    35                             35
+3039  marrdur    36                             36
+3040  marrdur    37                             37
+3041  marrdur    38                             38
+3042  marrdur    39                             39
+3043  marrdur    40                             40
+3044  marrdur    41                             41
+3045  marrdur    42                             42
+3046  marrdur    43                             43
+3047  marrdur    44                             44
+3048  marrdur    45                             45
+3049  marrdur    46                             46
+3050  marrdur    47                             47
+3051  marrdur    48                             48
+3052  marrdur    49                             49
+3053  marrdur    50                             50
+3054  marrdur    51                             51
+3055  marrdur    52                             52
+3056  marrdur    53                             53
+3057  marrdur    54                             54
+3058  marrdur    55                             55
+3059  marrdur    56                             56
+3060  marrdur    57                             57
+3061  marrdur    58                             58
+3062  marrdur    59                             59
+3063  marrdur    60                             60
+3064  marrdur    61                             61
+3065  marrdur    62                             62
+3066  marrdur    63                             63
+3067  marrdur    64                             64
+3068  marrdur    65                             65
+3069  marrdur    66                             66
+3070  marrdur    67                             67
+3071  marrdur    68                             68
+3072  marrdur    69                             69
+3073  marrdur    70                             70
+3074  marrdur    71                             71
+3075  marrdur    72                             72
+3076  marrdur    73                             73
+3077  marrdur    74                            74+
+3078  marrdur    99                            NIU
+3079   marryr  1921                1921 or earlier
+3080   marryr  1922                           1922
+3081   marryr  1923                           1923
+3082   marryr  1924                           1924
+3083   marryr  1925                           1925
+3084   marryr  1926                           1926
+3085   marryr  1927                           1927
+3086   marryr  1928                           1928
+3087   marryr  1929                           1929
+3088   marryr  1930                           1930
+3089   marryr  1931                           1931
+3090   marryr  1932                           1932
+3091   marryr  1933                           1933
+3092   marryr  1934                           1934
+3093   marryr  1935                           1935
+3094   marryr  1936                           1936
+3095   marryr  1937                           1937
+3096   marryr  1938                           1938
+3097   marryr  1939                           1939
+3098   marryr  1940                           1940
+3099   marryr  1941                           1941
+3100   marryr  1942                           1942
+3101   marryr  1943                           1943
+3102   marryr  1944                           1944
+3103   marryr  1945                           1945
+3104   marryr  1946                           1946
+3105   marryr  1947                           1947
+3106   marryr  1948                           1948
+3107   marryr  1949                           1949
+3108   marryr  1950                           1950
+3109   marryr  1951                           1951
+3110   marryr  1952                           1952
+3111   marryr  1953                           1953
+3112   marryr  1954                           1954
+3113   marryr  1955                           1955
+3114   marryr  1956                           1956
+3115   marryr  1957                           1957
+3116   marryr  1958                           1958
+3117   marryr  1959                           1959
+3118   marryr  1960                           1960
+3119   marryr  1961                           1961
+3120   marryr  1962                           1962
+3121   marryr  1963                           1963
+3122   marryr  1964                           1964
+3123   marryr  1965                           1965
+3124   marryr  1966                           1966
+3125   marryr  1967                           1967
+3126   marryr  1968                           1968
+3127   marryr  1969                           1969
+3128   marryr  1970                           1970
+3129   marryr  1971                           1971
+3130   marryr  1972                           1972
+3131   marryr  1973                           1973
+3132   marryr  1974                           1974
+3133   marryr  1975                           1975
+3134   marryr  1976                           1976
+3135   marryr  1977                           1977
+3136   marryr  1978                           1978
+3137   marryr  1979                           1979
+3138   marryr  1980                           1980
+3139   marryr  1981                           1981
+3140   marryr  1982                           1982
+3141   marryr  1983                           1983
+3142   marryr  1984                           1984
+3143   marryr  1985                           1985
+3144   marryr  1986                           1986
+3145   marryr  1987                           1987
+3146   marryr  1988                           1988
+3147   marryr  1989                           1989
+3148   marryr  1990                           1990
+3149   marryr  1991                           1991
+3150   marryr  1992                           1992
+3151   marryr  1993                           1993
+3152   marryr  1994                           1994
+3153   marryr  1995                           1995
+3154   marryr  1996                           1996
+3155   marryr  1997                           1997
+3156   marryr  1998                           1998
+3157   marryr  1999                           1999
+3158   marryr  2000                           2000
+3159   marryr  2001                           2001
+3160   marryr  9999                            NIU
+3161   famnum     0 Members of the household not b
+3162   famnum     1                            1st
+3163   famnum     2                            2nd
+3164   famnum     3                            3rd
+3165   famnum     4                            4th
+3166   famnum     5                            5th
+3167   famnum     6                            6th
+3168   famnum     7                            7th
+3169   famnum     8                            8th
+3170   famnum     9                            9th
+3171  famtype     1        Couple without children
+3172  famtype     2           Couple with children
+3173  famtype     3                  Single father
+3174  famtype     4                  Single mother
+3175  famtype     5      Partners without children
+3176  famtype     6         Partners with children
+3177  famtype     7        Single member household
+3178  famtype     8 Members of the household not b
+3179  famtype     9 Household of many members not 
+3180   nucmem     1                            Man
+3181   nucmem     2                          Woman
+3182   nucmem     3                          Child
+3183   nucmem     0 Members of the household not b
+3184     grmo     1                        January
+3185     grmo     2                       February
+3186     grmo     3                          March
+3187     grmo     4                          April
+3188     grmo     5                            May
+3189     grmo     6                           June
+3190     grmo     7                           July
+3191     grmo     8                         August
+3192     grmo     9                      September
+3193     grmo    10                        October
+3194     grmo    11                       November
+3195     grmo    12                       December
+3196     grmo    98                        Unknown
+3197     grmo    99                            NIU
+3198     gryr  1950                1950 or earlier
+3199     gryr  1951                           1951
+3200     gryr  1952                           1952
+3201     gryr  1953                           1953
+3202     gryr  1954                           1954
+3203     gryr  1955                           1955
+3204     gryr  1956                           1956
+3205     gryr  1957                           1957
+3206     gryr  1958                           1958
+3207     gryr  1959                           1959
+3208     gryr  1960                           1960
+3209     gryr  1961                           1961
+3210     gryr  1962                           1962
+3211     gryr  1963                           1963
+3212     gryr  1964                           1964
+3213     gryr  1965                           1965
+3214     gryr  1966                           1966
+3215     gryr  1967                           1967
+3216     gryr  1968                           1968
+3217     gryr  1969                           1969
+3218     gryr  1970                           1970
+3219     gryr  1971                           1971
+3220     gryr  1972                           1972
+3221     gryr  1973                           1973
+3222     gryr  1974                           1974
+3223     gryr  1975                           1975
+3224     gryr  1976                           1976
+3225     gryr  1977                           1977
+3226     gryr  1978                           1978
+3227     gryr  1979                           1979
+3228     gryr  1980                           1980
+3229     gryr  1981                           1981
+3230     gryr  1982                           1982
+3231     gryr  1983                           1983
+3232     gryr  1984                           1984
+3233     gryr  1985                           1985
+3234     gryr  1986                           1986
+3235     gryr  1987                           1987
+3236     gryr  1988                           1988
+3237     gryr  1989                           1989
+3238     gryr  1990                           1990
+3239     gryr  1991                           1991
+3240     gryr  1992                           1992
+3241     gryr  1993                           1993
+3242     gryr  1994                           1994
+3243     gryr  1995                           1995
+3244     gryr  1996                           1996
+3245     gryr  1997                           1997
+3246     gryr  1998                           1998
+3247     gryr  1999                           1999
+3248     gryr  2000                           2000
+3249     gryr  2001                           2001
+3250     gryr  9998                        Unknown
+3251     gryr  9999                            NIU
+3252   grwhy1     1                           Work
+3253   grwhy1     2         Repatriation or return
+3254   grwhy1     3           Family reunification
+3255   grwhy1     4                        Studies
+3256   grwhy1     5                 Asylum seeking
+3257   grwhy1     6                        Refugee
+3258   grwhy1     7                   Other reason
+3259   grwhy1     8                        Unknown
+3260   grwhy1     9                            NIU
+3261   grwhy2     2         Repatriation or return
+3262   grwhy2     3           Family reunification
+3263   grwhy2     4                        Studies
+3264   grwhy2     5                 Asylum seeking
+3265   grwhy2     6                        Refugee
+3266   grwhy2     7           Work or other reason
+3267   grwhy2     8 Unknown (includes the persons 
+3268   grwhy2     9                            NIU
+3269 prvcntry 20105                        Albania
+3270 prvcntry 20109                      Argentina
+3271 prvcntry 20110                        Armenia
+3272 prvcntry 20113                      Australia
+3273 prvcntry 20114                        Austria
+3274 prvcntry 20203                     Bangladesh
+3275 prvcntry 20208                        Belarus
+3276 prvcntry 20202                        Belgium
+3277 prvcntry 20210                         Brazil
+3278 prvcntry 20204                       Bulgaria
+3279 prvcntry 20302                         Canada
+3280 prvcntry 20305                          China
+3281 prvcntry 20309                       Colomdia
+3282 prvcntry 20314                         Cyprus
+3283 prvcntry 20315                 Czech Republic
+3284 prvcntry 20404                        Denmark
+3285 prvcntry 20403                       Dominica
+3286 prvcntry 20502                          Egypt
+3287 prvcntry 20507                       Ethiopia
+3288 prvcntry 20601                        Finland
+3289 prvcntry 20603                         France
+3290 prvcntry 20703                        Georgia
+3291 prvcntry 20401                        Germany
+3292 prvcntry 20705                          Ghana
+3293 prvcntry 20805                        Hungary
+3294 prvcntry 20902                          India
+3295 prvcntry 20904     Iran (Islamic Republic of)
+3296 prvcntry 20905                           Iraq
+3297 prvcntry 20903                        Ireland
+3298 prvcntry 20908                          Italy
+3299 prvcntry 21003                          Japan
+3300 prvcntry 21002                         Jordan
+3301 prvcntry 21101                      Kazakstan
+3302 prvcntry 21102                          Kenya
+3303 prvcntry 21202                        Lebanon
+3304 prvcntry 21301                        Morocco
+3305 prvcntry 21407                    Netherlands
+3306 prvcntry 21411                    New Zealand
+3307 prvcntry 21404                        Nigeria
+3308 prvcntry 21408                         Norway
+3309 prvcntry 21601                       Pakistan
+3310 prvcntry 21604                    Philippines
+3311 prvcntry 21607                         Poland
+3312 prvcntry 21610                       Portugal
+3313 prvcntry 21303            Republic of Moldova
+3314 prvcntry 21801                        Romania
+3315 prvcntry 21802             Russian Federation
+3316 prvcntry 21911                       Slovakia
+3317 prvcntry 22601                   South Africa
+3318 prvcntry 20505                          Spain
+3319 prvcntry 21205                      Sri Lanka
+3320 prvcntry 21902                          Sudan
+3321 prvcntry 21913                         Sweden
+3322 prvcntry 20303                    Switzerland
+3323 prvcntry 21916           Syrian Arab Republic
+3324 prvcntry 21308 The former Yugoslav Republic o
+3325 prvcntry 22007                         Turkey
+3326 prvcntry 22102                        Ukraine
+3327 prvcntry 20702                  United Kindom
+3328 prvcntry 22104                  United States
+3329 prvcntry 22105                     Uzbekistan
+3330 prvcntry 22202                      Venezuela
+3331 prvcntry 22502                     Yugoslavia
+3332 prvcntry 99997            Response suppressed
+3333 prvcntry 99998                        Unknown
+ [ reached getOption("max.print") -- omitted 132 rows ]

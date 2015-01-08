@@ -1,0 +1,166 @@
+       vname                                                              vdescription
+1      cntry                                                                   Country
+2       year                                                                      Year
+3     sample                                                   IPUMS sample identifier
+4     serial                                                   Household serial number
+5    persons                                 Number of person records in the household
+6       wthh                                                          Household weight
+7    subsamp                                                          Subsample number
+8         gq                                                     Group quarters status
+9      unrel                                               Number of unrelated persons
+10     urban                                                        Urban-rural status
+11   regionw                                           Continent and region of country
+12   geolev1 1st subnational geographic level, world [consistent boundaries over time]
+13  geo1a_by                Region, Belarus [Level 1; consistent boundaries over time]
+14    cityby                                                      City status, Belarus
+15   ownrshp                                   Ownership of dwelling [general version]
+16  ownrshpd                                  Ownership of dwelling [detailed version]
+17   electrc                                                               Electricity
+18    watsup                                                              Water supply
+19     phone                                                    Telephone availability
+20   hotwatr                                                          Hot water heater
+21      heat                                                           Central heating
+22     rooms                                                           Number of rooms
+23    toilet                                                                    Toilet
+24      bath                                                        Bathing facilities
+25      wall                                                 Wall or building material
+26    lvarea                                              Living area in square meters
+27    hhtype                                                  Household classification
+28     nfams                                           Number of families in household
+29   ncoupls                                    Number of married couples in household
+30   nmothrs                                            Number of mothers in household
+31   nfathrs                                            Number of fathers in household
+32   headloc                                              Head's location in household
+33     dwnum                                                           Dwelling number
+34      pern                                            Number of persons in household
+35    fsplmh            Dwelling created by splitting apart a multi-household dwelling
+36    region                                                           Region (oblast)
+37     urban                                                               Urban/rural
+38    dwtype                                                             Dwelling type
+39     bltyr                                                    Period of construction
+40     walls                                                      Outer wall materials
+41     elect                                                   Facilities: electricity
+42    elcook                                         Facilities: floor electric cooker
+43   gaspipe                                                     Facilities: piped gas
+44   gasbott                                         Facilities: bottled condensed gas
+45   heatcen                                   Facilities: central or district heating
+46   headind                          Facilities: heating from individual installation
+47   heatstv                                                 Facilities: stove heating
+48   pipewat                                                   Facilities: piped water
+49    toilet                                                  Facilities: flush toilet
+50      bath                                                Facilities: bath or shower
+51   hwatcen                                      Facilities: central hot water supply
+52   hwatind                             Facilities: hot water from individual boilers
+53     phone                                                     Facilities: telephone
+54   popsize                                              City with 100,000 population
+55  pernumoh         Person number (within the dwelling) of the first household member
+56     owner                                                        Dwelling ownership
+57     rooms                                                                     Rooms
+58    uspace                                              Useful space (square meters)
+59  livspace                                              Living space (square meters)
+60    pernum                                                             Person number
+61     wtper                                                             Person weight
+62    momloc                                            Mother's location in household
+63    poploc                                            Father's location in household
+64     sploc                                            Spouse's location in household
+65   parrule                                                   Rule for linking parent
+66    sprule                                                   Rule for linking spouse
+67   stepmom                                                       Probable stepmother
+68   steppop                                                       Probable stepfather
+69   polymal                                        Man with more than one wife linked
+70   poly2nd                                      Woman is second or higher order wife
+71   famunit                                                    Family unit membership
+72   famsize                                 Number of own family members in household
+73    nchild                                       Number of own children in household
+74    nchlt5                           Number of own children under age 5 in household
+75     eldch                                      Age of eldest own child in household
+76     yngch                                    Age of youngest own child in household
+77    relate                          Relationship to household head [general version]
+78   related                         Relationship to household head [detailed version]
+79   erelate                                              Relationship to head, Europe
+80       age                                                                       Age
+81      age2                                               Age, grouped into intervals
+82       sex                                                                       Sex
+83     marst                                          Marital status [general version]
+84    marstd                                         Marital status [detailed version]
+85    emarst                                                    Marital status, Europe
+86   consens                                                          Consensual union
+87    chborn                                                        Children ever born
+88    chsurv                                                        Children surviving
+89    chplan                                       Number of children planning to have
+90   homechd                                       Number of own children in household
+91   awaychd                                   Number of own children living elsewhere
+92   nativty                                                           Nativity status
+93     bplby                                                  Region of birth, Belarus
+94   citizen                                                               Citizenship
+95    nation                                                    Country of citizenship
+96    ethnby                                                        Ethnicity, Belarus
+97    langby                                          Language spoken at home, Belarus
+98   langby2                                           Second language spoken, Belarus
+99    mtngby                                                    Mother tongue, Belarus
+100   school                                                         School attendance
+101      lit                                                                  Literacy
+102  edattan            Educational attainment, international recode [general version]
+103 edattand           Educational attainment, international recode [detailed version]
+104   educby                                           Educational attainment, Belarus
+105  eedatta                                            Educational attainment, Europe
+106  empstat                                       Employment status [general version]
+107 empstatd                                      Employment status [detailed version]
+108  eempsta                                                 Employment status, Europe
+109  occisco                                                  Occupation, ISCO general
+110      occ                                                     Occupation, unrecoded
+111  classwk                                         Class of worker [general version]
+112 classwkd                                        Class of worker [detailed version]
+113  eclaswk                                                   Class of worker, Europe
+114  mgratep                                      Migration status, previous residence
+115  mgctry1                                             Country of previous residence
+116   mgyrs1                                        Years residing in current locality
+117    migby                                     Region of previous residence, Belarus
+118   pernum                                          Person number (within household)
+119 pernumod                                       Person number (within the dwelling)
+120   relate                                 Relationship to person 1 in the household
+121   parloc                                         Person number of mother or father
+122      sex                                                                       Sex
+123      age                                                                       Age
+124      bpl                                                Region or country of birth
+125   langmo                                                             Mother tongue
+126   langsp                                                           Spoken language
+127  langoth                                            Other language spoken fluently
+128    citiz                                                               Citizenship
+129 citizoth                                                    Country of citizenship
+130   ethnic                                                                 Ethnicity
+131    marst                                                            Marital status
+132    sploc                                                   Person number of spouse
+133  student                                                            Student status
+134   presch                                                 Any preschool institution
+135    edlev                                                                 Education
+136   degree                                                           Academic degree
+137  workinc     Income source: work (other than work in own personal subsidiary plot)
+138 workplot                       Income source: work in own personal subsidiary plot
+139  pension                                                    Income source: pension
+140  scholar                                                Income source: scholarship
+141      ben                  Income source: benefit (other than unemployment benefit)
+142  benunem                                       Income source: unemployment benefit
+143      gov                                   Income source: other government support
+144     rent                                              Income source: rental income
+145 interest             Income source: interest on deposits and securities, dividends
+146  savings                                                    Income source: savings
+147   depend                                                  Income source: dependent
+148   incoth                                                      Income source: other
+149     work                                        Did person have a job or business?
+150  classwk                                                           Class of worker
+151  looking                                                Did person look for a job?
+152 startnow               If found a job, could start working in the nearest 2 weeks?
+153    unemp                       Registered with the employment agency as unemployed
+154   whynot                                          Reason for not looking for a job
+155   nonmig                 Has continuously been living in a given place since birth
+156   resdur               Year began permanently living this settlement or rural area
+157  prevres                                               Previous place of residence
+158  prevurb                                                 Migrated from urban place
+159   chborn                                                        Children ever born
+160   chsurv                                                        Children surviving
+161   chaway                                                Children living separately
+162    chmax            How many children planning to have (including those surviving)
+163 pernumop         Person number (within the dwelling) of the first household member
+164     occ1                                                       Occupation, 1 digit
+165     occ2                                                      Occupation, 2 digits

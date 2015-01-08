@@ -1,0 +1,3335 @@
+        vname code                          short
+1       cntry   32                      Argentina
+2       cntry   51                        Armenia
+3       cntry   40                        Austria
+4       cntry   50                     Bangladesh
+5       cntry  112                        Belarus
+6       cntry   68                        Bolivia
+7       cntry   76                         Brazil
+8       cntry  854                   Burkina Faso
+9       cntry  116                       Cambodia
+10      cntry  120                       Cameroon
+11      cntry  124                         Canada
+12      cntry  152                          Chile
+13      cntry  156                          China
+14      cntry  170                       Colombia
+15      cntry  188                     Costa Rica
+16      cntry  192                           Cuba
+17      cntry  214             Dominican Republic
+18      cntry  218                        Ecuador
+19      cntry  818                          Egypt
+20      cntry  222                    El Salvador
+21      cntry  242                           Fiji
+22      cntry  250                         France
+23      cntry  276                        Germany
+24      cntry  288                          Ghana
+25      cntry  300                         Greece
+26      cntry  324                         Guinea
+27      cntry  332                          Haiti
+28      cntry  348                        Hungary
+29      cntry  356                          India
+30      cntry  360                      Indonesia
+31      cntry  364                           Iran
+32      cntry  368                           Iraq
+33      cntry  372                        Ireland
+34      cntry  376                         Israel
+35      cntry  380                          Italy
+36      cntry  388                        Jamaica
+37      cntry  400                         Jordan
+38      cntry  404                          Kenya
+39      cntry  417                Kyrgyz Republic
+40      cntry  430                        Liberia
+41      cntry  454                         Malawi
+42      cntry  458                       Malaysia
+43      cntry  466                           Mali
+44      cntry  484                         Mexico
+45      cntry  496                       Mongolia
+46      cntry  504                        Morocco
+47      cntry  524                          Nepal
+48      cntry  528                    Netherlands
+49      cntry  558                      Nicaragua
+50      cntry  566                        Nigeria
+51      cntry  586                       Pakistan
+52      cntry  275                      Palestine
+53      cntry  591                         Panama
+54      cntry  604                           Peru
+55      cntry  608                    Philippines
+56      cntry  620                       Portugal
+57      cntry  630                    Puerto Rico
+58      cntry  642                        Romania
+59      cntry  646                         Rwanda
+60      cntry  662                    Saint Lucia
+61      cntry  686                        Senegal
+62      cntry  694                   Sierra Leone
+63      cntry  705                       Slovenia
+64      cntry  710                   South Africa
+65      cntry  728                    South Sudan
+66      cntry  724                          Spain
+67      cntry  729                          Sudan
+68      cntry  756                    Switzerland
+69      cntry  834                       Tanzania
+70      cntry  764                       Thailand
+71      cntry  792                         Turkey
+72      cntry  800                         Uganda
+73      cntry  804                        Ukraine
+74      cntry  826                 United Kingdom
+75      cntry  840                  United States
+76      cntry  858                        Uruguay
+77      cntry  862                      Venezuela
+78      cntry  704                        Vietnam
+79      cntry  894                         Zambia
+80       year 1960                           1960
+81       year 1962                           1962
+82       year 1963                           1963
+83       year 1964                           1964
+84       year 1966                           1966
+85       year 1968                           1968
+86       year 1969                           1969
+87       year 1970                           1970
+88       year 1971                           1971
+89       year 1972                           1972
+90       year 1973                           1973
+91       year 1974                           1974
+92       year 1975                           1975
+93       year 1976                           1976
+94       year 1977                           1977
+95       year 1979                           1979
+96       year 1980                           1980
+97       year 1981                           1981
+98       year 1982                           1982
+99       year 1983                           1983
+100      year 1984                           1984
+101      year 1985                           1985
+102      year 1986                           1986
+103      year 1987                           1987
+104      year 1989                           1989
+105      year 1990                           1990
+106      year 1991                           1991
+107      year 1992                           1992
+108      year 1993                           1993
+109      year 1994                           1994
+110      year 1995                           1995
+111      year 1996                           1996
+112      year 1997                           1997
+113      year 1998                           1998
+114      year 1999                           1999
+115      year 2000                           2000
+116      year 2001                           2001
+117      year 2002                           2002
+118      year 2003                           2003
+119      year 2004                           2004
+120      year 2005                           2005
+121      year 2006                           2006
+122      year 2007                           2007
+123      year 2008                           2008
+124      year 2009                           2009
+125      year 2010                           2010
+126      year 2011                           2011
+127    sample  321                 Argentina 1970
+128    sample  322                 Argentina 1980
+129    sample  323                 Argentina 1991
+130    sample  324                 Argentina 2001
+131    sample  325                 Argentina 2010
+132    sample  511                   Armenia 2001
+133    sample  401                   Austria 1971
+134    sample  402                   Austria 1981
+135    sample  403                   Austria 1991
+136    sample  404                   Austria 2001
+137    sample  501                Bangladesh 1991
+138    sample  502                Bangladesh 2001
+139    sample  503                Bangladesh 2011
+140    sample  681                   Bolivia 1976
+141    sample  682                   Bolivia 1992
+142    sample  683                   Bolivia 2001
+143    sample  761                    Brazil 1960
+144    sample  762                    Brazil 1970
+145    sample  763                    Brazil 1980
+146    sample  764                    Brazil 1991
+147    sample  765                    Brazil 2000
+148    sample  766                    Brazil 2010
+149    sample 1121                   Belarus 1999
+150    sample 8541              Burkina Faso 1985
+151    sample 8542              Burkina Faso 1996
+152    sample 8543              Burkina Faso 2006
+153    sample 1161                  Cambodia 1998
+154    sample 1162                  Cambodia 2008
+155    sample 1201                  Cameroon 1976
+156    sample 1202                  Cameroon 1987
+157    sample 1203                  Cameroon 2005
+158    sample 1241                    Canada 1971
+159    sample 1242                    Canada 1981
+160    sample 1243                    Canada 1991
+161    sample 1244                    Canada 2001
+162    sample 1521                     Chile 1960
+163    sample 1522                     Chile 1970
+164    sample 1523                     Chile 1982
+165    sample 1524                     Chile 1992
+166    sample 1525                     Chile 2002
+167    sample 1561                     China 1982
+168    sample 1562                     China 1990
+169    sample 1701                  Colombia 1964
+170    sample 1702                  Colombia 1973
+171    sample 1703                  Colombia 1985
+172    sample 1704                  Colombia 1993
+173    sample 1705                  Colombia 2005
+174    sample 1881                Costa Rica 1963
+175    sample 1882                Costa Rica 1973
+176    sample 1883                Costa Rica 1984
+177    sample 1884                Costa Rica 2000
+178    sample 1921                      Cuba 2002
+179    sample 2141        Dominican Republic 1960
+180    sample 2142        Dominican Republic 1970
+181    sample 2143        Dominican Republic 1981
+182    sample 2144        Dominican Republic 2002
+183    sample 2145        Dominican Republic 2010
+184    sample 2181                   Ecuador 1962
+185    sample 2182                   Ecuador 1974
+186    sample 2183                   Ecuador 1982
+187    sample 2184                   Ecuador 1990
+188    sample 2185                   Ecuador 2001
+189    sample 2186                   Ecuador 2010
+190    sample 8181                     Egypt 1996
+191    sample 8182                     Egypt 2006
+192    sample 2221               El Salvador 1992
+193    sample 2222               El Salvador 2007
+194    sample 2421                      Fiji 1966
+195    sample 2422                      Fiji 1976
+196    sample 2423                      Fiji 1986
+197    sample 2424                      Fiji 1996
+198    sample 2425                      Fiji 2007
+199    sample 2501                    France 1962
+200    sample 2502                    France 1968
+201    sample 2503                    France 1975
+202    sample 2504                    France 1982
+203    sample 2505                    France 1990
+204    sample 2506                    France 1999
+205    sample 2507                    France 2006
+206    sample 2761            Germany 1970 (West)
+207    sample 2762            Germany 1971 (East)
+208    sample 2763            Germany 1981 (East)
+209    sample 2764            Germany 1987 (West)
+210    sample 2881                     Ghana 2000
+211    sample 2882                     Ghana 2010
+212    sample 3001                    Greece 1971
+213    sample 3002                    Greece 1981
+214    sample 3003                    Greece 1991
+215    sample 3004                    Greece 2001
+216    sample 3241                    Guinea 1983
+217    sample 3242                    Guinea 1996
+218    sample 3321                     Haiti 1971
+219    sample 3322                     Haiti 1982
+220    sample 3323                     Haiti 2003
+221    sample 3481                   Hungary 1970
+222    sample 3482                   Hungary 1980
+223    sample 3483                   Hungary 1990
+224    sample 3484                   Hungary 2001
+225    sample 3561                     India 1983
+226    sample 3562                     India 1987
+227    sample 3563                     India 1993
+228    sample 3564                     India 1999
+229    sample 3565                     India 2004
+230    sample 3601                 Indonesia 1971
+231    sample 3602                 Indonesia 1976
+232    sample 3603                 Indonesia 1980
+233    sample 3604                 Indonesia 1985
+234    sample 3605                 Indonesia 1990
+235    sample 3606                 Indonesia 1995
+236    sample 3607                 Indonesia 2000
+237    sample 3608                 Indonesia 2005
+238    sample 3609                 Indonesia 2010
+239    sample 3641                      Iran 2006
+240    sample 3681                      Iraq 1997
+241    sample 3721                   Ireland 1971
+242    sample 3722                   Ireland 1979
+243    sample 3723                   Ireland 1981
+244    sample 3724                   Ireland 1986
+245    sample 3725                   Ireland 1991
+246    sample 3726                   Ireland 1996
+247    sample 3727                   Ireland 2002
+248    sample 3728                   Ireland 2006
+249    sample 3729                   Ireland 2011
+250    sample 3761                    Israel 1972
+251    sample 3762                    Israel 1983
+252    sample 3763                    Israel 1995
+253    sample 3801                     Italy 2001
+254    sample 3881                   Jamaica 1982
+255    sample 3882                   Jamaica 1991
+256    sample 3883                   Jamaica 2001
+257    sample 4001                    Jordan 2004
+258    sample 4041                     Kenya 1969
+259    sample 4042                     Kenya 1979
+260    sample 4043                     Kenya 1989
+261    sample 4044                     Kenya 1999
+262    sample 4045                     Kenya 2009
+263    sample 4171           Kyrgyz Republic 1999
+264    sample 4172           Kyrgyz Republic 2009
+265    sample 4301                   Liberia 1974
+266    sample 4302                   Liberia 2008
+267    sample 4541                    Malawi 1987
+268    sample 4542                    Malawi 1998
+269    sample 4543                    Malawi 2008
+270    sample 4581                  Malaysia 1970
+271    sample 4582                  Malaysia 1980
+272    sample 4583                  Malaysia 1991
+273    sample 4584                  Malaysia 2000
+274    sample 4661                      Mali 1987
+275    sample 4662                      Mali 1998
+276    sample 4663                      Mali 2009
+277    sample 4841                    Mexico 1960
+278    sample 4842                    Mexico 1970
+279    sample 4843                    Mexico 1990
+280    sample 4844                    Mexico 1995
+281    sample 4845                    Mexico 2000
+282    sample 4846                    Mexico 2005
+283    sample 4847                    Mexico 2010
+284    sample 4961                  Mongolia 1989
+285    sample 4962                  Mongolia 2000
+286    sample 5041                   Morocco 1982
+287    sample 5042                   Morocco 1994
+288    sample 5043                   Morocco 2004
+289    sample 5241                     Nepal 2001
+290    sample 5281               Netherlands 1960
+291    sample 5282               Netherlands 1971
+292    sample 5283               Netherlands 2001
+293    sample 5581                 Nicaragua 1971
+294    sample 5582                 Nicaragua 1995
+295    sample 5583                 Nicaragua 2005
+296    sample 5661                   Nigeria 2006
+297    sample 5662                   Nigeria 2007
+298    sample 5663                   Nigeria 2008
+299    sample 5664                   Nigeria 2009
+300    sample 5665                   Nigeria 2010
+301    sample 5861                  Pakistan 1973
+302    sample 5862                  Pakistan 1981
+303    sample 5863                  Pakistan 1998
+304    sample 2751                 Palestine 1997
+305    sample 2752                 Palestine 2007
+306    sample 5911                    Panama 1960
+307    sample 5912                    Panama 1970
+308    sample 5913                    Panama 1980
+309    sample 5914                    Panama 1990
+310    sample 5915                    Panama 2000
+311    sample 5916                    Panama 2010
+312    sample 6041                      Peru 1993
+313    sample 6042                      Peru 2007
+314    sample 6081               Philippines 1990
+315    sample 6082               Philippines 1995
+316    sample 6083               Philippines 2000
+317    sample 6201                  Portugal 1981
+318    sample 6202                  Portugal 1991
+319    sample 6203                  Portugal 2001
+320    sample 6301               Puerto Rico 1970
+321    sample 6302               Puerto Rico 1980
+322    sample 6303               Puerto Rico 1990
+323    sample 6304               Puerto Rico 2000
+324    sample 6305               Puerto Rico 2005
+325    sample 6421                   Romania 1977
+326    sample 6422                   Romania 1992
+327    sample 6423                   Romania 2002
+328    sample 6461                    Rwanda 1991
+329    sample 6462                    Rwanda 2002
+330    sample 6621               Saint Lucia 1980
+331    sample 6622               Saint Lucia 1991
+332    sample 6861                   Senegal 1988
+333    sample 6862                   Senegal 2002
+334    sample 6941              Sierra Leone 2004
+335    sample 7051                  Slovenia 2002
+336    sample 7101              South Africa 1996
+337    sample 7102              South Africa 2001
+338    sample 7103              South Africa 2007
+339    sample 7241                     Spain 1981
+340    sample 7242                     Spain 1991
+341    sample 7243                     Spain 2001
+342    sample 7281               South Sudan 2008
+343    sample 7291                     Sudan 2008
+344    sample 7561               Switzerland 1970
+345    sample 7562               Switzerland 1980
+346    sample 7563               Switzerland 1990
+347    sample 7564               Switzerland 2000
+348    sample 8341                  Tanzania 1988
+349    sample 8342                  Tanzania 2002
+350    sample 7641                  Thailand 1970
+351    sample 7642                  Thailand 1980
+352    sample 7643                  Thailand 1990
+353    sample 7644                  Thailand 2000
+354    sample 7921                    Turkey 1985
+355    sample 7922                    Turkey 1990
+356    sample 7923                    Turkey 2000
+357    sample 8001                    Uganda 1991
+358    sample 8002                    Uganda 2002
+359    sample 8041                   Ukraine 2001
+360    sample 8261            United Kingdom 1991
+361    sample 8262            United Kingdom 2001
+362    sample 8401             United States 1960
+363    sample 8402             United States 1970
+364    sample 8403             United States 1980
+365    sample 8404             United States 1990
+366    sample 8405             United States 2000
+367    sample 8406             United States 2005
+368    sample 8407             United States 2010
+369    sample 8581                   Uruguay 1963
+370    sample 8582                   Uruguay 1975
+371    sample 8583                   Uruguay 1985
+372    sample 8584                   Uruguay 1996
+373    sample 8585                   Uruguay 2006
+374    sample 8586                   Uruguay 2011
+375    sample 8621                 Venezuela 1971
+376    sample 8622                 Venezuela 1981
+377    sample 8623                 Venezuela 1990
+378    sample 8624                 Venezuela 2001
+379    sample 7041                   Vietnam 1989
+380    sample 7042                   Vietnam 1999
+381    sample 7043                   Vietnam 2009
+382    sample 8941                    Zambia 1990
+383    sample 8942                    Zambia 2000
+384    sample 8943                    Zambia 2010
+385   rectype    1                      Household
+386   rectype    2                         Person
+387      pern    1                              1
+388      pern    2                              2
+389      pern    3                              3
+390      pern    4                              4
+391      pern    5                              5
+392      pern    6                              6
+393      pern    7                              7
+394      pern    8                              8
+395      pern    9                              9
+396      pern   10                             10
+397      pern   11                             11
+398      pern   12                             12
+399      pern   13                             13
+400      pern   14                             14
+401      pern   15                             15
+402      pern   16                             16
+403      pern   17                             17
+404      pern   18                             18
+405      pern   19                             19
+406      pern   20                             20
+407      pern   21                             21
+408      pern   22                             22
+409      pern   23                             23
+410      pern   24                             24
+411      pern   25                             25
+412      pern   26                             26
+413      pern   27                             27
+414      pern   28                             28
+415      pern   29                             29
+416      pern   30                             30
+417      pern   31                             31
+418      pern   32                             32
+419      pern   34                             34
+420      pern   35                             35
+421      pern   36                             36
+422      pern   37                             37
+423      pern   38                             38
+424      pern   42                             42
+425      pern   43                             43
+426      pern   45                             45
+427      pern   54                             54
+428  province    1                         Ha Noi
+429  province    2                       Ha Giang
+430  province    4                       Cao Bang
+431  province    6                        Bac Kan
+432  province    8                    Tuyen Quang
+433  province   10                        Lao Cai
+434  province   11                      Dien Bien
+435  province   12                       Lai Chau
+436  province   14                         Son La
+437  province   15                        Yen Bai
+438  province   17                       Hoa Binh
+439  province   19                    Thai Nguyen
+440  province   20                       Lang Son
+441  province   22                     Quang Ninh
+442  province   24                      Bac Giang
+443  province   25                        Phu Tho
+444  province   26                      Vinh Phuc
+445  province   27                       Bac Ninh
+446  province   30                      Hai Duong
+447  province   31                 Hai Phong city
+448  province   33                       Hung Yen
+449  province   34                      Thai Binh
+450  province   35                         Ha Nam
+451  province   36                       Nam Dinh
+452  province   37                      Ninh Binh
+453  province   38                      Thanh Hoa
+454  province   40                        Nghe An
+455  province   42                        Ha Tinh
+456  province   44                     Quang Binh
+457  province   45                      Quang Tri
+458  province   46                 Thua Thien Hue
+459  province   48                   Da Nang city
+460  province   49                      Quang Nam
+461  province   51                     Quang Ngai
+462  province   52                      Binh Dinh
+463  province   54                        Phu Yen
+464  province   56                      Khanh Hoa
+465  province   58                     Ninh Thuan
+466  province   60                     Binh Thuan
+467  province   62                        Kon Tum
+468  province   64                        Gia Lai
+469  province   66                        Dak Lak
+470  province   67                       Dak Nong
+471  province   68                       Lam Dong
+472  province   70                     Binh Phuoc
+473  province   72                       Tay Ninh
+474  province   74                     Binh Duong
+475  province   75                       Dong Nai
+476  province   77              Ba Ria - Vung Tau
+477  province   79               Ho Chi Minh city
+478  province   80                        Long An
+479  province   82                     Tien Giang
+480  province   83                        Ben Tre
+481  province   84                       Tra Vinh
+482  province   86                      Vinh Long
+483  province   87                      Dong Thap
+484  province   89                       An Giang
+485  province   91                     Kien Giang
+486  province   92                   Can Tho city
+487  province   93                      Hau Giang
+488  province   94                      Soc Trang
+489  province   95                       Bac Lieu
+490  province   96                         Ca Mau
+491  district    1                        Ba Dinh
+492  district    2                      Hoan Kiem
+493  district    3                         Tay Ho
+494  district    4                      Long Bien
+495  district    5                       Cau Giay
+496  district    6                        Dong Da
+497  district    7                   Hai Ba Trung
+498  district    8                      Hoang Mai
+499  district    9                     Thanh Xuan
+500  district   16                        Soc Son
+501  district   17                       Dong Anh
+502  district   18                        Gia Lam
+503  district   19                        Tu Liem
+504  district   20                      Thanh Tri
+505  district   24                       Ha Giang
+506  district   26                       Dong Van
+507  district   27                        Meo Vac
+508  district   28                       Yen Minh
+509  district   29                        Quan Ba
+510  district   30                       Vi Xuyen
+511  district   31                         Bac Me
+512  district   32                   Hoang Su Phi
+513  district   33                        Xin Man
+514  district   34                      Bac Quang
+515  district   35                     Quang Binh
+516  district   40                       Cao Bang
+517  district   42                        Bao Lam
+518  district   43                        Bao Lac
+519  district   44                     Thong Nong
+520  district   45                       Ha Quang
+521  district   46                       Tra Linh
+522  district   47                    Trung Khanh
+523  district   48                        Ha Lang
+524  district   49                     Quang Uyen
+525  district   50                       Phuc Hoa
+526  district   51                         Hoa An
+527  district   52                    Nguyen Binh
+528  district   53                       Thach An
+529  district   58                        Bac Kan
+530  district   60                        Pac Nam
+531  district   61                          Ba Be
+532  district   62                       Ngan Son
+533  district   63                     Bach Thong
+534  district   64                        Cho Don
+535  district   65                        Cho Moi
+536  district   66                          Na Ri
+537  district   70                    Tuyen Quang
+538  district   72                        Na Hang
+539  district   73                      Chiem Hoa
+540  district   74                        Ham Yen
+541  district   75                        Yen Son
+542  district   76                      Son Duong
+543  district   80              Thanh pho Lao Cai
+544  district   82                        Bat Xat
+545  district   83                   Muong Khuong
+546  district   84                      Si Ma Cai
+547  district   85                         Bac Ha
+548  district   86                      Bao Thang
+549  district   87                        Bao Yen
+550  district   88                          Sa Pa
+551  district   89                        Van Ban
+552  district   94        Thanh pho Dien Bien Phu
+553  district   95                      Muong Lay
+554  district   96                      Muong Nhe
+555  district   97                      Muong Cha
+556  district   98                       Tua Chua
+557  district   99                      Tuan Giao
+558  district  100                      Dien Bien
+559  district  101                 Dien Bien Dong
+560  district  102                      Muong ang
+561  district  105                       Lai Chau
+562  district  106                      Tam Duong
+563  district  107                       Muong Te
+564  district  108                         Sin Ho
+565  district  109                      Phong Tho
+566  district  110                      Than Uyen
+567  district  111                       Tan Uyen
+568  district  116                         Son La
+569  district  118                     Quynh Nhai
+570  district  119                     Thuan Chau
+571  district  120                       Muong La
+572  district  121                        Bac Yen
+573  district  122                        Phu Yen
+574  district  123                       Moc Chau
+575  district  124                       Yen Chau
+576  district  125                        Mai Son
+577  district  126                        Song Ma
+578  district  127                        Sop Cop
+579  district  132              Thanh pho Yen Bai
+580  district  133                       Nghia Lo
+581  district  135                        Luc Yen
+582  district  136                        Van Yen
+583  district  137                   Mu Cang Chai
+584  district  138                       Tran Yen
+585  district  139                       Tram Tau
+586  district  140                       Van Chan
+587  district  141                       Yen Binh
+588  district  148             Thanh pho Hoa Binh
+589  district  150                         Da Bac
+590  district  151                         Ky Son
+591  district  152                      Luong Son
+592  district  153                        Kim Boi
+593  district  154                      Cao Phong
+594  district  155                        Tan Lac
+595  district  156                       Mai Chau
+596  district  157                        Lac Son
+597  district  158                       Yen Thuy
+598  district  159                       Lac Thuy
+599  district  164          Thanh pho Thai Nguyen
+600  district  165                      Song Cong
+601  district  167                       Dinh Hoa
+602  district  168                      Phu Luong
+603  district  169                        Dong Hy
+604  district  170                        Vo Nhai
+605  district  171                         Dai Tu
+606  district  172                        Pho Yen
+607  district  173                       Phu Binh
+608  district  178             Thanh pho Lang Son
+609  district  180                     Trang Dinh
+610  district  181                       Binh Gia
+611  district  182                       Van Lang
+612  district  183                        Cao Loc
+613  district  184                       Van Quan
+614  district  185                        Bac Son
+615  district  186                       Huu Lung
+616  district  187                       Chi Lang
+617  district  188                       Loc Binh
+618  district  189                       Dinh Lap
+619  district  193              Thanh pho Ha Long
+620  district  194                       Mong Cai
+621  district  195                        Cam Pha
+622  district  196                        Uong Bi
+623  district  198                      Binh Lieu
+624  district  199                       Tien Yen
+625  district  200                         Dam Ha
+626  district  201                         Hai Ha
+627  district  202                         Ba Che
+628  district  203                        Van Don
+629  district  204                       Hoanh Bo
+630  district  205                     Dong Trieu
+631  district  206                       Yen Hung
+632  district  207                          Co To
+633  district  213            Thanh pho Bac Giang
+634  district  215                        Yen The
+635  district  216                        Tan Yen
+636  district  217                     Lang Giang
+637  district  218                        Luc Nam
+638  district  219                       Luc Ngan
+639  district  220                       Son Dong
+640  district  221                       Yen Dung
+641  district  222                       Viet Yen
+642  district  223                       Hiep Hoa
+643  district  227             Thanh pho Viet Tri
+644  district  228                        Phu Tho
+645  district  230                      Doan Hung
+646  district  231                         Ha Hoa
+647  district  232                       Thanh Ba
+648  district  233                       Phu Ninh
+649  district  234                        Yen Lap
+650  district  235                        Cam Khe
+651  district  236                       Tam Nong
+652  district  237                       Lam Thao
+653  district  238                      Thanh Son
+654  district  239                     Thanh Thuy
+655  district  240                        Tan Son
+656  district  243             Thanh pho Vinh Yen
+657  district  244                       Phuc Yen
+658  district  246                      Lap Thach
+659  district  247                      Tam Duong
+660  district  248                        Tam Dao
+661  district  249                     Binh Xuyen
+662  district  250                        Me Linh
+663  district  251                        Yen Lac
+664  district  252                     Vinh Tuong
+665  district  253                        Song Lo
+666  district  256             Thanh pho Bac Ninh
+667  district  258                      Yen Phong
+668  district  259                         Que Vo
+669  district  260                        Tien Du
+670  district  261                         Tu Son
+671  district  262                    Thuan Thanh
+672  district  263                       Gia Binh
+673  district  264                      Luong Tai
+674  district  268                        Ha Dong
+675  district  269                        Son Tay
+676  district  271                          Ba Vi
+677  district  272                       Phuc Tho
+678  district  273                     Dan Phuong
+679  district  274                       Hoai Duc
+680  district  275                       Quoc Oai
+681  district  276                     Thach That
+682  district  277                      Chuong My
+683  district  278                      Thanh Oai
+684  district  279                     Thuong Tin
+685  district  280                      Phu Xuyen
+686  district  281                        ung Hoa
+687  district  282                         My Duc
+688  district  288            Thanh pho Hai Duong
+689  district  290                       Chi Linh
+690  district  291                       Nam Sach
+691  district  292                       Kinh Mon
+692  district  293                      Kim Thanh
+693  district  294                       Thanh Ha
+694  district  295                      Cam Giang
+695  district  296                     Binh Giang
+696  district  297                        Gia Loc
+697  district  298                          Tu Ky
+698  district  299                     Ninh Giang
+699  district  300                     Thanh Mien
+700  district  303                      Hong Bang
+701  district  304                      Ngo Quyen
+702  district  305                        Le Chan
+703  district  306                         Hai An
+704  district  307                        Kien An
+705  district  308                         Do Son
+706  district  309                     Duong Kinh
+707  district  311                    Thuy Nguyen
+708  district  312                       An Duong
+709  district  313                         An Lao
+710  district  314                      Kien Thuy
+711  district  315                      Tien Lang
+712  district  316                       Vinh Bao
+713  district  317                        Cat Hai
+714  district  318                   Bach Long Vi
+715  district  323                       Hung Yen
+716  district  325                        Van Lam
+717  district  326                      Van Giang
+718  district  327                         Yen My
+719  district  328                         My Hao
+720  district  329                         An Thi
+721  district  330                     Khoai Chau
+722  district  331                       Kim Dong
+723  district  332                        Tien Lu
+724  district  333                         Phu Cu
+725  district  336            Thanh pho Thai Binh
+726  district  338                      Quynh Phu
+727  district  339                        Hung Ha
+728  district  340                      Dong Hung
+729  district  341                      Thai Thuy
+730  district  342                       Tien Hai
+731  district  343                     Kien Xuong
+732  district  344                         Vu Thu
+733  district  347               Thanh pho Phu Ly
+734  district  349                       Duy Tien
+735  district  350                       Kim Bang
+736  district  351                     Thanh Liem
+737  district  352                       Binh Luc
+738  district  353                        Ly Nhan
+739  district  356             Thanh pho Nam Dinh
+740  district  358                         My Loc
+741  district  359                         Vu Ban
+742  district  360                          y Yen
+743  district  361                     Nghia Hung
+744  district  362                       Nam Truc
+745  district  363                      Truc Ninh
+746  district  364                    Xuan Truong
+747  district  365                      Giao Thuy
+748  district  366                        Hai Hau
+749  district  369            Thanh pho Ninh Binh
+750  district  370                       Tam Diep
+751  district  372                       Nho Quan
+752  district  373                       Gia Vien
+753  district  374                         Hoa Lu
+754  district  375                      Yen Khanh
+755  district  376                        Kim Son
+756  district  377                         Yen Mo
+757  district  380            Thanh pho Thanh Hoa
+758  district  381                        Bim Son
+759  district  382                        Sam Son
+760  district  384                      Muong Lat
+761  district  385                       Quan Hoa
+762  district  386                       Ba Thuoc
+763  district  387                       Quan Son
+764  district  388                     Lang Chanh
+765  district  389                       Ngoc Lac
+766  district  390                       Cam Thuy
+767  district  391                    Thach Thanh
+768  district  392                       Ha Trung
+769  district  393                       Vinh Loc
+770  district  394                       Yen Dinh
+771  district  395                       Tho Xuan
+772  district  396                    Thuong Xuan
+773  district  397                      Trieu Son
+774  district  398                      Thieu Hoa
+775  district  399                      Hoang Hoa
+776  district  400                        Hau Loc
+777  district  401                        Nga Son
+778  district  402                       Nhu Xuan
+779  district  403                      Nhu Thanh
+780  district  404                      Nong Cong
+781  district  405                       Dong Son
+782  district  406                    Quang Xuong
+783  district  407                       Tinh Gia
+784  district  412                 Thanh pho Vinh
+785  district  413                         Cua Lo
+786  district  414                       Thai Hoa
+787  district  415                      Que Phong
+788  district  416                       Quy Chau
+789  district  417                         Ky Son
+790  district  418                    Tuong Duong
+791  district  419                      Nghia Dan
+792  district  420                        Quy Hop
+793  district  421                      Quynh Luu
+794  district  422                      Con Cuong
+795  district  423                         Tan Ky
+796  district  424                        Anh Son
+797  district  425                      Dien Chau
+798  district  426                      Yen Thanh
+799  district  427                       Do Luong
+800  district  428                   Thanh Chuong
+801  district  429                       Nghi Loc
+802  district  430                        Nam Dan
+803  district  431                    Hung Nguyen
+804  district  436              Thanh pho Ha Tinh
+805  district  437                      Hong Linh
+806  district  439                      Huong Son
+807  district  440                        Duc Tho
+808  district  441                       Vu Quang
+809  district  442                      Nghi Xuan
+810  district  443                        Can Loc
+811  district  444                      Huong Khe
+812  district  445                       Thach Ha
+813  district  446                      Cam Xuyen
+814  district  447                         Ky Anh
+815  district  448                         Loc Ha
+816  district  450             Thanh Pho Dong Hoi
+817  district  452                       Minh Hoa
+818  district  453                      Tuyen Hoa
+819  district  454                    Quang Trach
+820  district  455                       Bo Trach
+821  district  456                     Quang Ninh
+822  district  457                        Le Thuy
+823  district  461                        Dong Ha
+824  district  462                      Quang Tri
+825  district  464                      Vinh Linh
+826  district  465                      Huong Hoa
+827  district  466                       Gio Linh
+828  district  467                       Da Krong
+829  district  468                         Cam Lo
+830  district  469                    Trieu Phong
+831  district  470                       Hai Lang
+832  district  471                         Con Co
+833  district  474                  Thanh pho Hue
+834  district  476                     Phong Dien
+835  district  477                     Quang Dien
+836  district  478                       Phu Vang
+837  district  479                     Huong Thuy
+838  district  480                      Huong Tra
+839  district  481                         A Luoi
+840  district  482                        Phu Loc
+841  district  483                       Nam Dong
+842  district  490                     Lien Chieu
+843  district  491                      Thanh Khe
+844  district  492                       Hai Chau
+845  district  493                        Son Tra
+846  district  494                   Ngu Hanh Son
+847  district  495                         Cam Le
+848  district  497                       Hoa Vang
+849  district  498                       Hoang Sa
+850  district  502               Thanh Pho Tam Ky
+851  district  503               Thanh pho Hoi An
+852  district  504                      Tay Giang
+853  district  505                     Dong Giang
+854  district  506                        Dai Loc
+855  district  507                       Dien Ban
+856  district  508                      Duy Xuyen
+857  district  509                        Que Son
+858  district  510                      Nam Giang
+859  district  511                      Phuoc Son
+860  district  512                       Hiep Duc
+861  district  513                     Thang Binh
+862  district  514                     Tien Phuoc
+863  district  515                     Bac Tra My
+864  district  516                     Nam Tra My
+865  district  517                      Nui Thanh
+866  district  518                       Phu Ninh
+867  district  519                       Nong Son
+868  district  522           Thanh pho Quang Ngai
+869  district  524                       Binh Son
+870  district  525                       Tra Bong
+871  district  526                        Tay Tra
+872  district  527                       Son Tinh
+873  district  528                       Tu Nghia
+874  district  529                         Son Ha
+875  district  530                        Son Tay
+876  district  531                      Minh Long
+877  district  532                     Nghia Hanh
+878  district  533                         Mo Duc
+879  district  534                        Duc Pho
+880  district  535                          Ba To
+881  district  536                         Ly Son
+882  district  540             Thanh pho Qui Nhon
+883  district  542                         An Lao
+884  district  543                      Hoai Nhon
+885  district  544                        Hoai An
+886  district  545                         Phu My
+887  district  546                     Vinh Thanh
+888  district  547                        Tay Son
+889  district  548                        Phu Cat
+890  district  549                        An Nhon
+891  district  550                      Tuy Ph?oc
+892  district  551                       Van Canh
+893  district  555              Thanh pho Tuy Hoa
+894  district  557                       Song Cau
+895  district  558                      Dong Xuan
+896  district  559                         Tuy An
+897  district  560                        Son Hoa
+898  district  561                      Song Hinh
+899  district  562                        Tay Hoa
+900  district  563                        Phu Hoa
+901  district  564                       Dong Hoa
+902  district  568            Thanh pho Nha Trang
+903  district  569                       Cam Ranh
+904  district  570                        Cam Lam
+905  district  571                       Van Ninh
+906  district  572                       Ninh Hoa
+907  district  573                     Khanh Vinh
+908  district  574                     Dien Khanh
+909  district  575                      Khanh Son
+910  district  576                      Truong Sa
+911  district  582  Thanh pho Phan Rang-Thap Cham
+912  district  584                         Bac ai
+913  district  585                       Ninh Son
+914  district  586                       Ninh Hai
+915  district  587                     Ninh Phuoc
+916  district  588                      Thuan Bac
+917  district  593           Thanh pho Phan Thiet
+918  district  594                          La Gi
+919  district  595                      Tuy Phong
+920  district  596                       Bac Binh
+921  district  597                  Ham Thuan Bac
+922  district  598                  Ham Thuan Nam
+923  district  599                      Tanh Linh
+924  district  600                       Duc Linh
+925  district  601                        Ham Tan
+926  district  602                        Phu Qui
+927  district  608                        Kon Tum
+928  district  610                       Dak Glei
+929  district  611                       Ngoc Hoi
+930  district  612                         Dak To
+931  district  613                      Kon Plong
+932  district  614                        Kon Ray
+933  district  615                         Dak Ha
+934  district  616                        Sa Thay
+935  district  617                     Tu Mo Rong
+936  district  622               Thanh pho Pleiku
+937  district  623                         An Khe
+938  district  624                        Ayun Pa
+939  district  625                          KBang
+940  district  626                        Dak Doa
+941  district  627                        Chu Pah
+942  district  628                        Ia Grai
+943  district  629                      Mang Yang
+944  district  630                      Kong Chro
+945  district  631                         Duc Co
+946  district  632                      Chu Prong
+947  district  633                         Chu Se
+948  district  634                         Dak Po
+949  district  635                          Ia Pa
+950  district  637                       Krong Pa
+951  district  638                      Phu Thien
+952  district  643        Thanh pho Buon Ma Thuot
+953  district  644                        Buon Ho
+954  district  645                       Ea H'leo
+955  district  646                         Ea Sup
+956  district  647                       Buon Don
+957  district  648                       Cu M'gar
+958  district  649                      Krong Buk
+959  district  650                     Krong Nang
+960  district  651                         Ea Kar
+961  district  652                         M'Drak
+962  district  653                     Krong Bong
+963  district  654                      Krong Pac
+964  district  655                     Krong A Na
+965  district  656                            Lak
+966  district  657                        Cu Kuin
+967  district  660                      Gia Nghia
+968  district  661                      Dak Glong
+969  district  662                         Cu Jut
+970  district  663                        Dak Mil
+971  district  664                       Krong No
+972  district  665                       Dak Song
+973  district  666                      Dak R'Lap
+974  district  667                        Tuy Duc
+975  district  672               Thanh pho Da Lat
+976  district  673                        Bao Loc
+977  district  674                       Dam Rong
+978  district  675                      Lac Duong
+979  district  676                         Lam Ha
+980  district  677                      Don Duong
+981  district  678                      Duc Trong
+982  district  679                        Di Linh
+983  district  680                        Bao Lam
+984  district  681                       Da Huoai
+985  district  682                         Da Teh
+986  district  683                       Cat Tien
+987  district  689                      Dong Xoai
+988  district  691                     Phuoc Long
+989  district  692                       Loc Ninh
+990  district  693                         Bu Dop
+991  district  694                      Binh Long
+992  district  695                       Dong Phu
+993  district  696                        Bu Dang
+994  district  697                     Chon Thanh
+995  district  703                       Tay Ninh
+996  district  705                       Tan Bien
+997  district  706                       Tan Chau
+998  district  707                Duong Minh Chau
+999  district  708                     Chau Thanh
+1000 district  709                      Hoa Thanh
+1001 district  710                         Go Dau
+1002 district  711                        Ben Cau
+1003 district  712                     Trang Bang
+1004 district  718                    Thu Dau Mot
+1005 district  720                      Dau Tieng
+1006 district  721                        Ben Cat
+1007 district  722                       Phu Giao
+1008 district  723                       Tan Uyen
+1009 district  724                          Di An
+1010 district  725                       Thuan An
+1011 district  731             Thanh pho Bien Hoa
+1012 district  732                     Long Khanh
+1013 district  734                        Tan Phu
+1014 district  735                       Vinh Cuu
+1015 district  736                      Dinh Quan
+1016 district  737                      Trang Bom
+1017 district  738                     Thong Nhat
+1018 district  739                         Cam My
+1019 district  740                     Long Thanh
+1020 district  741                       Xuan Loc
+1021 district  742                     Nhon Trach
+1022 district  747             Thanh pho Vung Tau
+1023 district  748                         Ba Ria
+1024 district  750                       Chau Duc
+1025 district  751                      Xuyen Moc
+1026 district  752                      Long Dien
+1027 district  753                         Dat Do
+1028 district  754                      Tan Thanh
+1029 district  755                        Con Dao
+1030 district  760               HCMC, District 1
+1031 district  761              HCMC, District 12
+1032 district  762                        Thu Duc
+1033 district  763               HCMC, District 9
+1034 district  764                         Go Vap
+1035 district  765                     Binh Thanh
+1036 district  766                       Tan Binh
+1037 district  767                        Tan Phu
+1038 district  768                      Phu Nhuan
+1039 district  769               HCMC, District 2
+1040 district  770               HCMC, District 3
+1041 district  771              HCMC, District 10
+1042 district  772              HCMC, District 11
+1043 district  773               HCMC, District 4
+1044 district  774               HCMC, District 5
+1045 district  775               HCMC, District 6
+1046 district  776               HCMC, District 8
+1047 district  777                       Binh Tan
+1048 district  778               HCMC, District 7
+1049 district  783                         Cu Chi
+1050 district  784                        Hoc Mon
+1051 district  785                     Binh Chanh
+1052 district  786                         Nha Be
+1053 district  787                        Can Gio
+1054 district  794                         Tan An
+1055 district  796                       Tan Hung
+1056 district  797                      Vinh Hung
+1057 district  798                        Moc Hoa
+1058 district  799                      Tan Thanh
+1059 district  800                      Thanh Hoa
+1060 district  801                        Duc Hue
+1061 district  802                        Duc Hoa
+1062 district  803                        Ben Luc
+1063 district  804                       Thu Thua
+1064 district  805                        Tan Tru
+1065 district  806                       Can Duoc
+1066 district  807                      Can Giuoc
+1067 district  808                     Chau Thanh
+1068 district  815               Thanh pho My Tho
+1069 district  816                        Go Cong
+1070 district  818                      Tan Phuoc
+1071 district  819                         Cai Be
+1072 district  820                        Cai Lay
+1073 district  821                     Chau Thanh
+1074 district  822                        Cho Gao
+1075 district  823                    Go Cong Tay
+1076 district  824                   Go Cong Dong
+1077 district  825                   Tan Phu Dong
+1078 district  829                        Ben Tre
+1079 district  831                     Chau Thanh
+1080 district  832                       Cho Lach
+1081 district  833                         Mo Cay
+1082 district  834                     Giong Trom
+1083 district  835                       Binh Dai
+1084 district  836                         Ba Tri
+1085 district  837                      Thanh Phu
+1086 district  842                       Tra Vinh
+1087 district  844                      Cang Long
+1088 district  845                         Cau Ke
+1089 district  846                       Tieu Can
+1090 district  847                     Chau Thanh
+1091 district  848                      Cau Ngang
+1092 district  849                         Tra Cu
+1093 district  850                      Duyen Hai
+1094 district  855                      Vinh Long
+1095 district  857                        Long Ho
+1096 district  858                      Mang Thit
+1097 district  859                      Vung Liem
+1098 district  860                       Tam Binh
+1099 district  861                      Binh Minh
+1100 district  862                         Tra On
+1101 district  863                       Binh Tan
+1102 district  866             Thanh pho Cao Lanh
+1103 district  867                         Sa Dec
+1104 district  868                       Hong Ngu
+1105 district  869                       Tan Hong
+1106 district  870                       Hong Ngu
+1107 district  871                       Tam Nong
+1108 district  872                      Thap Muoi
+1109 district  873                       Cao Lanh
+1110 district  874                     Thanh Binh
+1111 district  875                         Lap Vo
+1112 district  876                       Lai Vung
+1113 district  877                     Chau Thanh
+1114 district  883           Thanh pho Long Xuyen
+1115 district  884                       Chau Doc
+1116 district  886                         An Phu
+1117 district  887                       Tan Chau
+1118 district  888                        Phu Tan
+1119 district  889                       Chau Phu
+1120 district  890                      Tinh Bien
+1121 district  891                        Tri Ton
+1122 district  892                     Chau Thanh
+1123 district  893                        Cho Moi
+1124 district  894                      Thoai Son
+1125 district  899             Thanh pho Rach Gia
+1126 district  900                        Ha Tien
+1127 district  902                     Kien Luong
+1128 district  903                        Hon Dat
+1129 district  904                       Tan Hiep
+1130 district  905                     Chau Thanh
+1131 district  906                    Giong Rieng
+1132 district  907                        Go Quao
+1133 district  908                        An Bien
+1134 district  909                        An Minh
+1135 district  910                     Vinh Thuan
+1136 district  911                       Phu Quoc
+1137 district  912                       Kien Hai
+1138 district  913                  U Minh Thuong
+1139 district  916                      Ninh Kieu
+1140 district  917                          O Mon
+1141 district  918                      Binh Thuy
+1142 district  919                       Cai Rang
+1143 district  923                       Thot Not
+1144 district  924                     Vinh Thanh
+1145 district  925                          Co Do
+1146 district  926                     Phong Dien
+1147 district  927                       Thoi Lai
+1148 district  930                       Vi Thanh
+1149 district  931                        Nga Bay
+1150 district  932                   Chau Thanh A
+1151 district  933                     Chau Thanh
+1152 district  934                     Phung Hiep
+1153 district  935                        Vi Thuy
+1154 district  936                        Long My
+1155 district  941            Thanh pho Soc Trang
+1156 district  942                     Chau Thanh
+1157 district  943                        Ke Sach
+1158 district  944                          My Tu
+1159 district  945                    Cu Lao Dung
+1160 district  946                       Long Phu
+1161 district  947                       My Xuyen
+1162 district  948                        Nga Nam
+1163 district  949                      Thanh Tri
+1164 district  950                      Vinh Chau
+1165 district  954                       Bac Lieu
+1166 district  956                       Hong Dan
+1167 district  957                     Phuoc Long
+1168 district  958                       Vinh Loi
+1169 district  959                        Gia Rai
+1170 district  960                       Dong Hai
+1171 district  961                       Hoa Binh
+1172 district  964               Thanh pho Ca Mau
+1173 district  966                         U Minh
+1174 district  967                      Thoi Binh
+1175 district  968                  Tran Van Thoi
+1176 district  969                       Cai Nuoc
+1177 district  970                        Dam Doi
+1178 district  971                        Nam Can
+1179 district  972                        Phu Tan
+1180 district  973                      Ngoc Hien
+1181    urban    1                          Urban
+1182    urban    2                          Rural
+1183  urbaniz    1             Urban special area
+1184  urbaniz    2     Urban grade 1 [most urban]
+1185  urbaniz    3                  Urban grade 2
+1186  urbaniz    4                  Urban grade 3
+1187  urbaniz    5 Urban grade 4 [least urban, bu
+1188  urbaniz    6                          Rural
+1189   hhtype    1                      Permanent
+1190   hhtype    2                 Semi-permanent
+1191   hhtype    3                      Temporary
+1192   hhtype    4                         Simple
+1193   hhtype    8                        Unknown
+1194   hhtype    9      NIU (not in the universe)
+1195   hhsize    1                              1
+1196   hhsize    2                              2
+1197   hhsize    3                              3
+1198   hhsize    4                              4
+1199   hhsize    5                              5
+1200   hhsize    6                              6
+1201   hhsize    7                              7
+1202   hhsize    8                              8
+1203   hhsize    9                              9
+1204   hhsize   10                             10
+1205   hhsize   11                             11
+1206   hhsize   12                             12
+1207   hhsize   13                             13
+1208   hhsize   14                             14
+1209   hhsize   15                             15
+1210   hhsize   16                             16
+1211   hhsize   17                             17
+1212   hhsize   18                             18
+1213   hhsize   19                             19
+1214   hhsize   20                             20
+1215   hhsize   21                             21
+1216   hhsize   22                             22
+1217   hhsize   23                             23
+1218   hhsize   24                             24
+1219   hhsize   25                             25
+1220   hhsize   26                             26
+1221   hhsize   27                             27
+1222   hhsize   28                             28
+1223   hhsize   29                             29
+1224   hhsize   30                             30
+1225   hhsize   31                             31
+1226   hhsize   32                             32
+1227   hhsize   34                             34
+1228   hhsize   35                             35
+1229   hhsize   36                             36
+1230   hhsize   37                             37
+1231   hhsize   38                             38
+1232   hhsize   42                             42
+1233   hhsize   43                             43
+1234   hhsize   45                             45
+1235   hhsize   54                             54
+1236    nmale    0                              0
+1237    nmale    1                              1
+1238    nmale    2                              2
+1239    nmale    3                              3
+1240    nmale    4                              4
+1241    nmale    5                              5
+1242    nmale    6                              6
+1243    nmale    7                              7
+1244    nmale    8                              8
+1245    nmale    9                              9
+1246    nmale   10                             10
+1247    nmale   11                             11
+1248    nmale   12                             12
+1249    nmale   13                             13
+1250    nmale   14                             14
+1251    nmale   15                             15
+1252    nmale   16                             16
+1253    nmale   17                             17
+1254    nmale   18                             18
+1255    nmale   19                             19
+1256    nmale   20                             20
+1257    nmale   21                             21
+1258    nmale   22                             22
+1259    nmale   23                             23
+1260    nmale   24                             24
+1261    nmale   25                             25
+1262    nmale   26                             26
+1263    nmale   27                             27
+1264    nmale   28                             28
+1265    nmale   29                             29
+1266    nmale   30                             30
+1267    nmale   31                             31
+1268    nmale   34                             34
+1269    nmale   35                             35
+1270    nmale   36                             36
+1271    nmale   38                             38
+1272    nmale   40                             40
+1273    nmale   42                             42
+1274    nmale   54                             54
+1275  nfemale    0                              0
+1276  nfemale    1                              1
+1277  nfemale    2                              2
+1278  nfemale    3                              3
+1279  nfemale    4                              4
+1280  nfemale    5                              5
+1281  nfemale    6                              6
+1282  nfemale    7                              7
+1283  nfemale    8                              8
+1284  nfemale    9                              9
+1285  nfemale   10                             10
+1286  nfemale   11                             11
+1287  nfemale   12                             12
+1288  nfemale   13                             13
+1289  nfemale   14                             14
+1290  nfemale   15                             15
+1291  nfemale   16                             16
+1292  nfemale   17                             17
+1293  nfemale   18                             18
+1294  nfemale   19                             19
+1295  nfemale   21                             21
+1296  nfemale   22                             22
+1297  nfemale   23                             23
+1298  nfemale   30                             30
+1299 hasdwell    1                            Yes
+1300 hasdwell    2                             No
+1301 hasdwell    9                        Unknown
+1302   shareh    1                            Yes
+1303   shareh    2                             No
+1304   shareh    9      NIU (not in the universe)
+1305 rephouse    1       Representative household
+1306 rephouse    2 Be recorded with other househo
+1307 rephouse    9      NIU (not in the universe)
+1308   dwtype    1             Apartment building
+1309   dwtype    2          Single detached house
+1310   dwtype    8                        Unknown
+1311   dwtype    9      NIU (not in the universe)
+1312    rooms    1                              1
+1313    rooms    2                              2
+1314    rooms    3                              3
+1315    rooms    4                              4
+1316    rooms    5                              5
+1317    rooms    6                              6
+1318    rooms    7                              7
+1319    rooms    8                              8
+1320    rooms    9                              9
+1321    rooms   10                             10
+1322    rooms   11                             11
+1323    rooms   12                             12
+1324    rooms   13                             13
+1325    rooms   14                             14
+1326    rooms   15                             15
+1327    rooms   16                             16
+1328    rooms   17                             17
+1329    rooms   18                             18
+1330    rooms   19                             19
+1331    rooms   20                             20
+1332    rooms   21                             21
+1333    rooms   22                             22
+1334    rooms   23                             23
+1335    rooms   24                             24
+1336    rooms   25                             25
+1337    rooms   26                             26
+1338    rooms   27                             27
+1339    rooms   28                             28
+1340    rooms   29                             29
+1341    rooms   30                             30
+1342    rooms   34                             34
+1343    rooms   40                             40
+1344    rooms   41                             41
+1345    rooms   44                             44
+1346    rooms   45                             45
+1347    rooms   46                             46
+1348    rooms   49                             49
+1349    rooms   52                             52
+1350    rooms   54                             54
+1351    rooms   58                             58
+1352    rooms   70                             70
+1353    rooms   72                             72
+1354    rooms   98                        Unknown
+1355    rooms   99      NIU (not in the universe)
+1356  bedroom    1                              1
+1357  bedroom    2                              2
+1358  bedroom    3                              3
+1359  bedroom    4                              4
+1360  bedroom    5                              5
+1361  bedroom    6                              6
+1362  bedroom    7                              7
+1363  bedroom    8                              8
+1364  bedroom    9                              9
+1365  bedroom   10                             10
+1366  bedroom   11                             11
+1367  bedroom   12                             12
+1368  bedroom   13                             13
+1369  bedroom   14                             14
+1370  bedroom   15                             15
+1371  bedroom   16                             16
+1372  bedroom   17                             17
+1373  bedroom   18                             18
+1374  bedroom   19                             19
+1375  bedroom   20                             20
+1376  bedroom   21                             21
+1377  bedroom   22                             22
+1378  bedroom   23                             23
+1379  bedroom   24                             24
+1380  bedroom   25                             25
+1381  bedroom   26                             26
+1382  bedroom   27                             27
+1383  bedroom   28                             28
+1384  bedroom   29                             29
+1385  bedroom   30                             30
+1386  bedroom   34                             34
+1387  bedroom   36                             36
+1388  bedroom   39                             39
+1389  bedroom   43                             43
+1390  bedroom   44                             44
+1391  bedroom   45                             45
+1392  bedroom   52                             52
+1393  bedroom   72                             72
+1394  bedroom   98                        Unknown
+1395  bedroom   99      NIU (not in the universe)
+1396 flrspace 9998                        Unknown
+1397 flrspace 9999      NIU (not in the universe)
+1398     pier    1                       Concrete
+1399     pier    2                    Brick/stone
+1400     pier    3        Steel/iron/durable wood
+1401     pier    4     Wood of low quality/bamboo
+1402     pier    5                          Other
+1403     pier    8                        Unknown
+1404     pier    9      NIU (not in the universe)
+1405     roof    1                       Concrete
+1406     roof    2     Tile (cement, terra-cotta)
+1407     roof    3           Slab (cement, metal)
+1408     roof    4           Leaf/straw/oil paper
+1409     roof    5                          Other
+1410     roof    8                        Unknown
+1411     roof    9      NIU (not in the universe)
+1412     wall    1                       Concrete
+1413     wall    2                    Brick/stone
+1414     wall    3                     Wood/metal
+1415     wall    4                     Clay/straw
+1416     wall    5                 Wattle/plywood
+1417     wall    6                          Other
+1418     wall    8                        Unknown
+1419     wall    9      NIU (not in the universe)
+1420  useyear    1                    Before 1975
+1421  useyear    2              From 1975 to 1999
+1422  useyear    3               From 2000 to now
+1423  useyear    8                        Unknown
+1424  useyear    9      NIU (not in the universe)
+1425  beginyr    0                           2000
+1426  beginyr    1                           2001
+1427  beginyr    2                           2002
+1428  beginyr    3                           2003
+1429  beginyr    4                           2004
+1430  beginyr    5                           2005
+1431  beginyr    6                           2006
+1432  beginyr    7                           2007
+1433  beginyr    8                           2008
+1434  beginyr    9                           2009
+1435  beginyr   98                        Unknown
+1436  beginyr   99      NIU (not in the universe)
+1437 ownershp    1                Household owned
+1438 ownershp    2 Rented/borrowed from the state
+1439 ownershp    3 Rented/borrowed from the priva
+1440 ownershp    4                     Collective
+1441 ownershp    5         Religious organization
+1442 ownershp    6     Joint state and individual
+1443 ownershp    7              Unclear ownership
+1444 ownershp    8                        Unknown
+1445 ownershp    9      NIU (not in the universe)
+1446    light    1                    Electricity
+1447    light    2             Electric generator
+1448    light    3                       Kerosene
+1449    light    4                            Gas
+1450    light    5                          Other
+1451    light    9                        Unknown
+1452 fuelcook    1                    Electricity
+1453 fuelcook    2                       Paraffin
+1454 fuelcook    3                            Gas
+1455 fuelcook    4                           Coal
+1456 fuelcook    5                       Firewood
+1457 fuelcook    6                          Other
+1458 fuelcook    7                 Not using fuel
+1459 fuelcook    9                        Unknown
+1460   watsrc    1              Indoors tap water
+1461   watsrc    2               Public tap water
+1462   watsrc    3                   Drilled well
+1463   watsrc    4             Protected dig well
+1464   watsrc    5           Unprotected dig well
+1465   watsrc    6           Protected slot water
+1466   watsrc    7         Unprotected slot water
+1467   watsrc    8                     Rain water
+1468   watsrc    9                          Other
+1469   watsrc   99                        Unknown
+1470   toilet    1 Indoor flush/semi-flush toilet
+1471   toilet    2 Outdoor flush/semi-flush toile
+1472   toilet    3                          Other
+1473   toilet    4                      No toilet
+1474   toilet    9                        Unknown
+1475       tv    1                            Yes
+1476       tv    2                             No
+1477       tv    9                        Unknown
+1478    radio    1                            Yes
+1479    radio    2                             No
+1480    radio    9                        Unknown
+1481    phone    1                            Yes
+1482    phone    2                             No
+1483    phone    9                        Unknown
+1484  computr    1                            Yes
+1485  computr    2                             No
+1486  computr    9                        Unknown
+1487   washer    1                            Yes
+1488   washer    2                             No
+1489   washer    9                        Unknown
+1490   refrig    1                            Yes
+1491   refrig    2                             No
+1492   refrig    9                        Unknown
+1493   aircon    1                            Yes
+1494   aircon    2                             No
+1495   aircon    9                        Unknown
+1496     moto    1                            Yes
+1497     moto    2                             No
+1498     moto    9                        Unknown
+1499   pernum    0               Household record
+1500   pernum    1                              1
+1501   pernum    2                              2
+1502   pernum    3                              3
+1503   pernum    4                              4
+1504   pernum    5                              5
+1505   pernum    6                              6
+1506   pernum    7                              7
+1507   pernum    8                              8
+1508   pernum    9                              9
+1509   pernum   10                             10
+1510   pernum   11                             11
+1511   pernum   12                             12
+1512   pernum   13                             13
+1513   pernum   14                             14
+1514   pernum   15                             15
+1515   pernum   16                             16
+1516   pernum   17                             17
+1517   pernum   18                             18
+1518   pernum   19                             19
+1519   pernum   20                             20
+1520   pernum   21                             21
+1521   pernum   22                             22
+1522   pernum   23                             23
+1523   pernum   24                             24
+1524   pernum   25                             25
+1525   pernum   26                             26
+1526   pernum   27                             27
+1527   pernum   28                             28
+1528   pernum   29                             29
+1529   pernum   30                             30
+1530   pernum   31                             31
+1531   pernum   32                             32
+1532   pernum   33                             33
+1533   pernum   34                             34
+1534   pernum   35                             35
+1535   pernum   36                             36
+1536   pernum   37                             37
+1537   pernum   38                             38
+1538   pernum   39                             39
+1539   pernum   40                             40
+1540   pernum   41                             41
+1541   pernum   42                             42
+1542   pernum   43                             43
+1543   pernum   44                             44
+1544   pernum   45                             45
+1545   pernum   46                             46
+1546   pernum   47                             47
+1547   pernum   48                             48
+1548   pernum   49                             49
+1549   pernum   50                             50
+1550   pernum   51                             51
+1551   pernum   52                             52
+1552   pernum   53                             53
+1553   pernum   54                             54
+1554 personno    1                              1
+1555 personno    2                              2
+1556 personno    3                              3
+1557 personno    4                              4
+1558 personno    5                              5
+1559 personno    6                              6
+1560 personno    7                              7
+1561 personno    8                              8
+1562 personno    9                              9
+1563 personno   10                             10
+1564 personno   11                             11
+1565 personno   12                             12
+1566 personno   13                             13
+1567 personno   14                             14
+1568 personno   15                             15
+1569 personno   16                             16
+1570 personno   17                             17
+1571 personno   18                             18
+1572 personno   19                             19
+1573 personno   20                             20
+1574 personno   21                             21
+1575 personno   22                             22
+1576 personno   23                             23
+1577 personno   24                             24
+1578 personno   25                             25
+1579 personno   26                             26
+1580 personno   27                             27
+1581 personno   28                             28
+1582 personno   29                             29
+1583 personno   30                             30
+1584 personno   31                             31
+1585 personno   32                             32
+1586 personno   33                             33
+1587 personno   34                             34
+1588 personno   35                             35
+1589 personno   36                             36
+1590 personno   37                             37
+1591 personno   38                             38
+1592 personno   39                             39
+1593 personno   40                             40
+1594 personno   41                             41
+1595 personno   42                             42
+1596 personno   43                             43
+1597 personno   44                             44
+1598 personno   45                             45
+1599 personno   46                             46
+1600 personno   47                             47
+1601 personno   48                             48
+1602 personno   49                             49
+1603 personno   50                             50
+1604 personno   51                             51
+1605 personno   52                             52
+1606 personno   53                             53
+1607 personno   54                             54
+1608   relate    1                 Household head
+1609   relate    2                         Spouse
+1610   relate    3               Biological child
+1611   relate    4                     Grandchild
+1612   relate    5 Parent (including father-in-la
+1613   relate    6 Other relative or non-relative
+1614   relate    9                        Unknown
+1615      sex    1                           Male
+1616      sex    2                         Female
+1617      age    0                 Less than year
+1618      age    1                              1
+1619      age    2                              2
+1620      age    3                              3
+1621      age    4                              4
+1622      age    5                              5
+1623      age    6                              6
+1624      age    7                              7
+1625      age    8                              8
+1626      age    9                              9
+1627      age   10                             10
+1628      age   11                             11
+1629      age   12                             12
+1630      age   13                             13
+1631      age   14                             14
+1632      age   15                             15
+1633      age   16                             16
+1634      age   17                             17
+1635      age   18                             18
+1636      age   19                             19
+1637      age   20                             20
+1638      age   21                             21
+1639      age   22                             22
+1640      age   23                             23
+1641      age   24                             24
+1642      age   25                             25
+1643      age   26                             26
+1644      age   27                             27
+1645      age   28                             28
+1646      age   29                             29
+1647      age   30                             30
+1648      age   31                             31
+1649      age   32                             32
+1650      age   33                             33
+1651      age   34                             34
+1652      age   35                             35
+1653      age   36                             36
+1654      age   37                             37
+1655      age   38                             38
+1656      age   39                             39
+1657      age   40                             40
+1658      age   41                             41
+1659      age   42                             42
+1660      age   43                             43
+1661      age   44                             44
+1662      age   45                             45
+1663      age   46                             46
+1664      age   47                             47
+1665      age   48                             48
+1666      age   49                             49
+1667      age   50                             50
+1668      age   51                             51
+1669      age   52                             52
+1670      age   53                             53
+1671      age   54                             54
+1672      age   55                             55
+1673      age   56                             56
+1674      age   57                             57
+1675      age   58                             58
+1676      age   59                             59
+1677      age   60                             60
+1678      age   61                             61
+1679      age   62                             62
+1680      age   63                             63
+1681      age   64                             64
+1682      age   65                             65
+1683      age   66                             66
+1684      age   67                             67
+1685      age   68                             68
+1686      age   69                             69
+1687      age   70                             70
+1688      age   71                             71
+1689      age   72                             72
+1690      age   73                             73
+1691      age   74                             74
+1692      age   75                             75
+1693      age   76                             76
+1694      age   77                             77
+1695      age   78                             78
+1696      age   79                             79
+1697      age   80                             80
+1698      age   81                             81
+1699      age   82                             82
+1700      age   83                             83
+1701      age   84                             84
+1702      age   85                             85
+1703      age   86                             86
+1704      age   87                             87
+1705      age   88                             88
+1706      age   89                             89
+1707      age   90                             90
+1708      age   91                             91
+1709      age   92                             92
+1710      age   93                             93
+1711      age   94                             94
+1712      age   95                            95+
+1713      mig    1              Same commune/ward
+1714      mig    2 Another commune/ward in same d
+1715      mig    3 Another district/quarter in sa
+1716      mig    4          Another province/city
+1717      mig    5                         Abroad
+1718      mig    8                        Unknown
+1719      mig    9      NIU (not in the universe)
+1720   urbmig    1     Ward/district town [urban]
+1721   urbmig    2                Commune [rural]
+1722   urbmig    8                        Unknown
+1723   urbmig    9      NIU (not in the universe)
+1724     educ    1                      Attending
+1725     educ    2                  Ever attended
+1726     educ    3                 Never attended
+1727     educ    8                        Unknown
+1728     educ    9      NIU (not in the universe)
+1729  edattan    1                     Pre-school
+1730  edattan    2                        Primary
+1731  edattan    3                Lower secondary
+1732  edattan    4            Short-term training
+1733  edattan    5               Higher secondary
+1734  edattan    6            Vocational training
+1735  edattan    7           Vocational education
+1736  edattan    8                  Trade college
+1737  edattan    9                        College
+1738  edattan   10                     University
+1739  edattan   11                         Master
+1740  edattan   12                      Doctorate
+1741  edattan   98                        Unknown
+1742  edattan   99      NIU (not in the universe)
+1743    grade    0                              0
+1744    grade    1                              1
+1745    grade    2                              2
+1746    grade    3                              3
+1747    grade    4                              4
+1748    grade    5                              5
+1749    grade    6                              6
+1750    grade    7                              7
+1751    grade    8                              8
+1752    grade    9                              9
+1753    grade   10                             10
+1754    grade   11                             11
+1755    grade   12                             12
+1756    grade   98                        Unknown
+1757    grade   99      NIU (not in the universe)
+1758 edattain  100       Primary less than a year
+1759 edattain  101                Primary grade 1
+1760 edattain  102                Primary grade 2
+1761 edattain  103                Primary grade 3
+1762 edattain  104                Primary grade 4
+1763 edattain  105                Primary grade 5
+1764 edattain  199         Primary, grade unknown
+1765 edattain  205              Secondary grade 5
+1766 edattain  206        Lower secondary grade 6
+1767 edattain  207        Lower secondary grade 7
+1768 edattain  208        Lower secondary grade 8
+1769 edattain  209        Lower secondary grade 9
+1770 edattain  299 Lower secondary, grade unknown
+1771 edattain  300            Short-term training
+1772 edattain  399            Short-term training
+1773 edattain  409       Higher secondary grade 9
+1774 edattain  410      Higher secondary grade 10
+1775 edattain  411      Higher secondary grade 11
+1776 edattain  412      Higher secondary grade 12
+1777 edattain  499 Higher secondary, grade unknow
+1778 edattain  500 Vocational training less than 
+1779 edattain  501     Vocational training year 1
+1780 edattain  502     Vocational training year 2
+1781 edattain  503     Vocational training year 3
+1782 edattain  504     Vocational training year 4
+1783 edattain  509     Vocational training year 9
+1784 edattain  512    Vocational training year 12
+1785 edattain  599 Vocational training, year unkn
+1786 edattain  600 Vocational education less than
+1787 edattain  601    Vocational education year 1
+1788 edattain  602    Vocational education year 2
+1789 edattain  603    Vocational education year 3
+1790 edattain  604    Vocational education year 4
+1791 edattain  609    Vocational education year 9
+1792 edattain  612   Vocational education year 12
+1793 edattain  699 Vocational education, year unk
+1794 edattain  700 Trade college less than a year
+1795 edattain  701           Trade college year 1
+1796 edattain  702           Trade college year 2
+1797 edattain  703           Trade college year 3
+1798 edattain  704           Trade college year 4
+1799 edattain  706           Trade college year 6
+1800 edattain  799    Trade college, year unknown
+1801 edattain  800       College less than a year
+1802 edattain  801                 College year 1
+1803 edattain  802                 College year 2
+1804 edattain  803                 College year 3
+1805 edattain  804                 College year 4
+1806 edattain  899          College, year unknown
+1807 edattain  900    University less than a year
+1808 edattain  901              University year 1
+1809 edattain  902              University year 2
+1810 edattain  903              University year 3
+1811 edattain  904              University year 4
+1812 edattain  905              University year 5
+1813 edattain  906              University year 6
+1814 edattain  907              University year 7
+1815 edattain  908              University year 8
+1816 edattain  909              University year 9
+1817 edattain  999       University, year unknown
+1818 edattain 1000      Master's less than a year
+1819 edattain 1001                Master's year 1
+1820 edattain 1002                Master's year 2
+1821 edattain 1003                Master's year 3
+1822 edattain 1004                Master's year 4
+1823 edattain 1005                Master's year 5
+1824 edattain 1006                Master's year 6
+1825 edattain 1007                Master's year 7
+1826 edattain 1008                Master's year 8
+1827 edattain 1009                Master's year 9
+1828 edattain 1099         Master's, year unknown
+1829 edattain 1101               Doctorate year 1
+1830 edattain 1102               Doctorate year 2
+1831 edattain 1103               Doctorate year 3
+1832 edattain 1104               Doctorate year 4
+1833 edattain 1105               Doctorate year 5
+1834 edattain 1108               Doctorate year 8
+1835 edattain 1199        Doctorate, year unknown
+1836 edattain 9999      NIU (not in the universe)
+1837      lit    1                            Yes
+1838      lit    2                             No
+1839      lit    8                        Unknown
+1840      lit    9      NIU (not in the universe)
+1841    marst    1                  Never married
+1842    marst    2                        Married
+1843    marst    3                        Widowed
+1844    marst    4                       Divorced
+1845    marst    5                      Separated
+1846    marst    8                        Unknown
+1847    marst    9      NIU (not in the universe)
+1848   qualif    1               No qualification
+1849   qualif    2            Short-term training
+1850   qualif    3        Trade vocational school
+1851   qualif    4              Vocational school
+1852   qualif    5                  Trade college
+1853   qualif    6                        College
+1854   qualif    7                     University
+1855   qualif    8                         Master
+1856   qualif    9                      Doctorate
+1857   qualif   98                        Unknown
+1858   qualif   99      NIU (not in the universe)
+1859     emp1    1                            Yes
+1860     emp1    2                             No
+1861     emp1    8                        Unknown
+1862     emp1    9      NIU (not in the universe)
+1863     emp2    1                            Yes
+1864     emp2    2                             No
+1865     emp2    8                        Unknown
+1866     emp2    9      NIU (not in the universe)
+1867     emp3    1                            Yes
+1868     emp3    2                             No
+1869     emp3    9      NIU (not in the universe)
+1870      occ    0       Armed forces occupations
+1871      occ   10 Commissioned armed forces offi
+1872      occ   20 Non-commissioned armed forces 
+1873      occ   30 Other armed forces occupations
+1874      occ  100 Leaders, managers and administ
+1875      occ  111 Vietnam communist party leader
+1876      occ  112 Vietnam communist party leader
+1877      occ  113 Vietnam communist party leader
+1878      occ  114 Vietnam communist party leader
+1879      occ  115 Vietnam communist party leader
+1880      occ  121 Leaders of the national assemb
+1881      occ  122 Leaders of office of the count
+1882      occ  131          Leaders of government
+1883      occ  132 Leaders of government ministri
+1884      occ  133 Leaders of general offices und
+1885      occ  140 Leaders of people's court and 
+1886      occ  141 Leaders of people's supreme co
+1887      occ  142 Leaders of people's local cour
+1888      occ  143 Leaders of other courts (exclu
+1889      occ  150 Leaders of local people's coun
+1890      occ  151 Leaders of people's council (f
+1891      occ  152 Leaders of people's committee 
+1892      occ  160 Leaders of unions: fatherland 
+1893      occ  161 Leaders of unions (excluding l
+1894      occ  162 Leaders of labour union (full 
+1895      occ  171 Leaders of trade union (full t
+1896      occ  172 Leaders of humanity organizati
+1897      occ  181 Chairmen, deputy chairmen of b
+1898      occ  182 Directors, deputy directors of
+1899      occ  183 Directors, deputy directors of
+1900      occ  184 Directors, deputy directors of
+1901      occ  210 Science and technical professi
+1902      occ  211 Physical and earth science pro
+1903      occ  212 Mathematics and statistics pro
+1904      occ  213 Life science and health profes
+1905      occ  214 Technical professionals (exclu
+1906      occ  215           Electrical engineers
+1907      occ  216 Architects, engineers and rela
+1908      occ  220 Life science and health profes
+1909      occ  221 Health professionals (excludin
+1910      occ  222 Nursing and midwifery professi
+1911      occ  223 Traditional medicine and aid m
+1912      occ  224 Assistant doctor professionals
+1913      occ  225       Veterinary professionals
+1914      occ  226     Other health professionals
+1915      occ  230 Teaching professionals, unspec
+1916      occ  231 College, university and higher
+1917      occ  232   Trade teaching professionals
+1918      occ  233 Secondary education teaching p
+1919      occ  234 Primary and pre-primary educat
+1920      occ  235 Other teaching professionals n
+1921      occ  240 Business and management profes
+1922      occ  241        Financial professionals
+1923      occ  242       Management professionals
+1924      occ  243 Sales, marketing and public re
+1925      occ  244 Government adjustment professi
+1926      occ  250 Information technology and tel
+1927      occ  251 Analysis and development softw
+1928      occ  252 Database and network professio
+1929      occ  260 Legal, social and cultural pro
+1930      occ  261            Legal professionals
+1931      occ  262 Archivists, librarians and rel
+1932      occ  263 Social and religion profession
+1933      occ  264 Writers, journalists and lingu
+1934      occ  265 Creative and performing artist
+1935      occ  310 Science and engineering associ
+1936      occ  311 Physical science and engineeri
+1937      occ  312 Mining, manufacturing and buil
+1938      occ  313 Checking, operating and contro
+1939      occ  314 Life sciences and related tech
+1940      occ  315 Ship and aircraft controllers 
+1941      occ  320 Health associate professionals
+1942      occ  321 Health and pharmaceutics assoc
+1943      occ  322 Nursing and midwifery associat
+1944      occ  323 Traditional medicine practitio
+1945      occ  324 Veterinary associate professio
+1946      occ  325 Other health associate profess
+1947      occ  330 Business and management associ
+1948      occ  331 Applied mathematics and financ
+1949      occ  332 Sales and trade agents and bro
+1950      occ  333 Business services employee age
+1951      occ  334 Administrative associate profe
+1952      occ  335 Government adjustment associat
+1953      occ  340 Legal, social and cultural ass
+1954      occ  341 Legal, social and religion ass
+1955      occ  342 Sports and sports training ass
+1956      occ  343 Fine art, culture and cooking 
+1957      occ  350 Information technology and tel
+1958      occ  351 User and operator assistant as
+1959      occ  352 Telecom and television technic
+1960      occ  360 Teaching associate professiona
+1961      occ  361 Primary education teaching ass
+1962      occ  362 Pre-primary education teaching
+1963      occ  363 Special education teaching ass
+1964      occ  364 Other teaching associate profe
+1965      occ  400            Clerks, unspecified
+1966      occ  410     Office clerks, unspecified
+1967      occ  411          General office clerks
+1968      occ  412          Secretaries (general)
+1969      occ  413      Keyboard operating clerks
+1970      occ  420 Customer services clerks, unsp
+1971      occ  421 Cashiers, tellers and related 
+1972      occ  422      Client information clerks
+1973      occ  430 Data and note-taking clerks, u
+1974      occ  431 Data clerks and related clerks
+1975      occ  432             Note-taking clerks
+1976      occ  440            Other office clerks
+1977      occ  500 Service workers and market sal
+1978      occ  510 Personal services workers, uns
+1979      occ  511   Travel attendants and guides
+1980      occ  512                          Cooks
+1981      occ  513         Waiters and bartenders
+1982      occ  514 Hairdressers, barbers, beautic
+1983      occ  515 House stewards and housekeeper
+1984      occ  516 Other personal services worker
+1985      occ  520      Salespersons, unspecified
+1986      occ  521 Street and market salespersons
+1987      occ  522              Shop salespersons
+1988      occ  523 Cashier, tellers and related c
+1989      occ  524             Other salespersons
+1990      occ  530 Personal care services workers
+1991      occ  531 Child care workers and associa
+1992      occ  532 Nursing and personal health ca
+1993      occ  540 Protective services workers, u
+1994      occ  600 Skilled agricultural, forestry
+1995      occ  610 Commercial skilled agricultura
+1996      occ  611 Commercial gardeners and crop 
+1997      occ  612    Commercial animal producers
+1998      occ  613 Commercial crop and animal pro
+1999      occ  620 Commercial skilled forestry, f
+2000      occ  621 Commercial skilled forestry an
+2001      occ  622 Commercial skilled fishery and
+2002      occ  630 Subsistence agricultural, fish
+2003      occ  631 Subsistence agricultural worke
+2004      occ  632   Subsistence animal producers
+2005      occ  633 Subsistence crop and animal pr
+2006      occ  634 Subsistence fishery, hunting, 
+2007      occ  710 Building trades workers and re
+2008      occ  711 Building frame and related tra
+2009      occ  712 Building finishers and related
+2010      occ  713 Painters, building structure c
+2011      occ  720 Metal and machinery trades wor
+2012      occ  721 Metal molders, welders, sheet-
+2013      occ  722 Blacksmiths, toolmakers and re
+2014      occ  723 Machinery mechanics and fitter
+2015      occ  730 Precision, handicraft, printin
+2016      occ  731             Handicraft workers
+2017      occ  732 Printing and related trades wo
+2018      occ  740 Electrical and electronic work
+2019      occ  741 Electrical instrument repairer
+2020      occ  742 Telecommunication instrument r
+2021      occ  750 Food, wood, textile, garment a
+2022      occ  751 Food and related products proc
+2023      occ  752 Wood, wood products and relate
+2024      occ  753 Textile, garment and related p
+2025      occ  754 Other handicraft and related t
+2026      occ  800 Plant, machine operators and a
+2027      occ  810 Stationary instrument and mach
+2028      occ  811 Mineral products processing ma
+2029      occ  812 Metal products processing mach
+2030      occ  813 Chemical, photographic and fil
+2031      occ  814 Paper,  plastic and rubber pro
+2032      occ  815 Textile material, leather, ani
+2033      occ  816 Food and related products proc
+2034      occ  817 Paper and wood products machin
+2035      occ  818 Other machine and instrument o
+2036      occ  820                     Assemblers
+2037      occ  830 Drivers and mobile machinery o
+2038      occ  831 Railway engine drivers and rel
+2039      occ  832 Passenger car, van and motorcy
+2040      occ  833 Middle lorry, heavy truck and 
+2041      occ  834     Mobile machinery operators
+2042      occ  835 Ships’ deck crews and related 
+2043      occ  900         Elementary occupations
+2044      occ  910 Domestic helpers and cleaners 
+2045      occ  911 Domestic, hotel, office helper
+2046      occ  912 Car, window cleaners, laundry 
+2047      occ  920 Agricultural, forestry, fisher
+2048      occ  930 Labourers in mining, construct
+2049      occ  931 Labourers in mining and constr
+2050      occ  932     Labourers in manufacturing
+2051      occ  933 Labourers in transport and war
+2052      occ  940      Helpers in food preparing
+2053      occ  950 Sales and services elementary 
+2054      occ  951 Labourers in street and relate
+2055      occ  952 Street vendors, other products
+2056      occ  960 Garbage collectors and other e
+2057      occ  961 Garbage collectors and related
+2058      occ  962     Other elementary labourers
+2059      occ  998                        Unknown
+2060      occ  999      NIU (not in the universe)
+2061  classwk    1                  Family worker
+2062  classwk    2                       Employee
+2063  classwk    3                         Others
+2064  classwk    8                        Unknown
+2065  classwk    9      NIU (not in the universe)
+2066   sector    1                     Individual
+2067   sector    2 Household of individual produc
+2068   sector    3                     Collective
+2069   sector    4                        Private
+2070   sector    5                          State
+2071   sector    6             Foreign investment
+2072   sector    8                        Unknown
+2073   sector    9      NIU (not in the universe)
+2074      ind   10 Agriculture and related servic
+2075      ind   11       Growing of annual plants
+2076      ind   12    Growing of perennial plants
+2077      ind   13 Multiplying and growing of ind
+2078      ind   14             Farming of animals
+2079      ind   15 Growing of crops combined with
+2080      ind   16 Agricultural service activitie
+2081      ind   17 Hunting, trapping and related 
+2082      ind   20 Forestry and related activitie
+2083      ind   21 Forestation and growing forest
+2084      ind   22 Logging and exploiting of othe
+2085      ind   23 Gathering other non-wood and n
+2086      ind   24    Forestry service activities
+2087      ind   30 Fishing and fish farming, unsp
+2088      ind   31                        Fishing
+2089      ind   32                   Fish farming
+2090      ind   50 Mining of hard coal and lignit
+2091      ind   51 Mining and agglomeration of ha
+2092      ind   52 Mining and agglomeration of li
+2093      ind   60 Extraction of crude petroleum 
+2094      ind   61  Extraction of crude petroleum
+2095      ind   62      Extraction of natural gas
+2096      ind   70 Mining of metal ores, unspecif
+2097      ind   71            Mining of iron ores
+2098      ind   72 Mining of non-ferrous metal or
+2099      ind   73 Mining of valuable and rare ir
+2100      ind   80 Other mining and quarrying, un
+2101      ind   81 Quarrying of stone, sand, grav
+2102      ind   89 Mining and quarrying not elsew
+2103      ind   90 Mining and quarrying support s
+2104      ind   91 Crude petroleum and natural ga
+2105      ind   99 Other mining and quarrying sup
+2106      ind  100 Manufacturing of food products
+2107      ind  101 Production, processing and pre
+2108      ind  102 Production, processing and pre
+2109      ind  103 Production, processing and pre
+2110      ind  104 Manufacturing of vegetable and
+2111      ind  105 Manufacturing of dairy product
+2112      ind  106 Manufacturing and milling of s
+2113      ind  107 Manufacturing of other food pr
+2114      ind  108 Manufacturing of prepared live
+2115      ind  110     Manufacturing of beverages
+2116      ind  120 Manufacturing of tobacco produ
+2117      ind  130 Manufacturing of textiles, uns
+2118      ind  131 Spinning, weaving and finishin
+2119      ind  132 Manufacturing of other textile
+2120      ind  140 Manufacturing of clothing appa
+2121      ind  141 Manufacture of clothing appare
+2122      ind  142 Manufacturing of articles of f
+2123      ind  143      Manufacturing of knitwear
+2124      ind  150 Manufacturing of leather and r
+2125      ind  151 Tanning, leather processing, m
+2126      ind  152      Manufacturing of footwear
+2127      ind  160 Manufacturing of wood and prod
+2128      ind  161 Sawmilling and planing of wood
+2129      ind  162 Manufacturing of products of w
+2130      ind  170 Manufacturing of paper and pap
+2131      ind  180 Printing and reproduction of r
+2132      ind  181 Printing and services activiti
+2133      ind  182 Reproduction of recorded media
+2134      ind  190 Manufacturing of coke and refi
+2135      ind  191 Manufacturing of coke products
+2136      ind  192 Manufacturing of refined petro
+2137      ind  200 Manufacturing of chemicals and
+2138      ind  201 Manufacturing of basic chemica
+2139      ind  202 Manufacturing of other chemica
+2140      ind  203 Manufacturing of man-made fibr
+2141      ind  210 Manufacturing of medicines, ph
+2142      ind  220 Manufacturing of rubber and pl
+2143      ind  221 Manufacturing of rubber produc
+2144      ind  222 Manufacturing of plastic produ
+2145      ind  230 Manufacturing of other non-met
+2146      ind  231 Manufacturing of glass and gla
+2147      ind  239 Manufacturing of non-metallic 
+2148      ind  240 Manufacturing of metals, unspe
+2149      ind  241 Manufacturing of iron, steel a
+2150      ind  242 Manufacturing of non-ferrous a
+2151      ind  243              Casting of metals
+2152      ind  250 Manufacturing of fabricated me
+2153      ind  251 Manufacturing of metal structu
+2154      ind  252 Manufacturing of weapons and a
+2155      ind  259 Manufacturing of other metal p
+2156      ind  260 Manufacturing of electronic pr
+2157      ind  261 Manufacturing of electronic co
+2158      ind  262 Manufacturing of computers and
+2159      ind  263 Manufacturing of communication
+2160      ind  264 Manufacturing of civil electro
+2161      ind  265 Manufacturing of instruments a
+2162      ind  266 Manufacturing of radiant equip
+2163      ind  267 Manufacturing of optical equip
+2164      ind  268 Manufacturing of magnetic tape
+2165      ind  270 Manufacturing of electrical eq
+2166      ind  271 Manufacturing of motors, gener
+2167      ind  272 Manufacturing of batteries and
+2168      ind  273 Manufacturing of wire and cabl
+2169      ind  274 Manufacturing of electric ligh
+2170      ind  275 Manufacturing of civil electri
+2171      ind  279 Manufacturing of other electri
+2172      ind  280 Manufacturing of other equipme
+2173      ind  281 Manufacturing of general purpo
+2174      ind  282 Manufacturing of special purpo
+2175      ind  290 Manufacturing of motor vehicle
+2176      ind  291 Manufacturing of motor vehicle
+2177      ind  292 Manufacturing of bodies for mo
+2178      ind  293 Manufacturing of accessories a
+2179      ind  300 Manufacturing of other transpo
+2180      ind  301    Building of ships and boats
+2181      ind  302 Manufacturing of railway, tram
+2182      ind  303 Manufacturing of aircrafts, sp
+2183      ind  304 Manufacturing of fighting army
+2184      ind  309 Manufacturing of transport equ
+2185      ind  310 Manufacturing of furniture (be
+2186      ind  320 Other manufacturing industries
+2187      ind  321 Manufacturing of jewelry and r
+2188      ind  322 Manufacturing of musical instr
+2189      ind  323 Manufacturing of sporting good
+2190      ind  324 Manufacturing of toys and game
+2191      ind  325 Manufacturing of medical, dent
+2192      ind  329 Other manufacturing not elsewh
+2193      ind  330 Repairing, maintaining, instal
+2194      ind  331 Repairing and maintaining of e
+2195      ind  332 Installing of industrial equip
+2196      ind  350 Production and distribution of
+2197      ind  351 Production, transmittance and 
+2198      ind  352 Manufacturing of gas; distribu
+2199      ind  353 Production and distribution of
+2200      ind  360 Collection, purification and d
+2201      ind  370 Sewerage and processing of was
+2202      ind  380 Collecting, processing, scrapp
+2203      ind  381            Collecting of waste
+2204      ind  382 Processing and scrapping of wa
+2205      ind  383             Recycling of waste
+2206      ind  390 Processing of pollution and ot
+2207      ind  410      Building of constructions
+2208      ind  420 Civil engineering, unspecified
+2209      ind  421 Building of rail and road cons
+2210      ind  422 Building of public benefit con
+2211      ind  429        Other civil engineering
+2212      ind  430 Specialized construction, unsp
+2213      ind  431               Site preparation
+2214      ind  432 Installation of electrical and
+2215      ind  433            Building completion
+2216      ind  439 Other specialized construction
+2217      ind  450 Sale and repair of cars, motor
+2218      ind  451 Car and other motor vehicle sa
+2219      ind  452 Maintenance and repair of cars
+2220      ind  453 Sale of motor vehicle parts an
+2221      ind  454 Sale, maintenance and repair o
+2222      ind  460 Wholesale trade (except cars, 
+2223      ind  461 Agents, intermediaries, auctio
+2224      ind  462 Wholesale of agricultural raw 
+2225      ind  463 Wholesale of rice, food, bever
+2226      ind  464   Wholesale of household goods
+2227      ind  465 Wholesale of machinery, equipm
+2228      ind  466 Other specialized wholesale tr
+2229      ind  469        General wholesale trade
+2230      ind  470 Retail trade (except cars, mot
+2231      ind  471 Retail trade in general stores
+2232      ind  472 Retail sale of food, beverages
+2233      ind  473 Retail sale of fuel in special
+2234      ind  474 Retail sale of information and
+2235      ind  475 Retail sale of household goods
+2236      ind  476 Retail sale of cultural and en
+2237      ind  477 Retail sale of other goods in 
+2238      ind  478 Retail sale in markets and mob
+2239      ind  479 Other retail sale (except reta
+2240      ind  490 Transport via railway, road an
+2241      ind  491          Transport via railway
+2242      ind  492        Transportation by buses
+2243      ind  493           Other land transport
+2244      ind  494             Pipeline transport
+2245      ind  500   Water transport, unspecified
+2246      ind  501 Sea and coastal water transpor
+2247      ind  502         Inland water transport
+2248      ind  510    Air transport,  unspecified
+2249      ind  511        Air passenger transport
+2250      ind  512            Air cargo transport
+2251      ind  520 Storage and transport supporti
+2252      ind  521        Storage and warehousing
+2253      ind  522 Transport supporting service a
+2254      ind  530 Post and courier,  unspecified
+2255      ind  531                           Post
+2256      ind  532                        Courier
+2257      ind  550 Accommodation services,  unspe
+2258      ind  551 Short-stay accommodation servi
+2259      ind  559            Other accommodation
+2260      ind  560                  Food services
+2261      ind  561 Restaurants and mobile caterin
+2262      ind  562 Providing irregular catering s
+2263      ind  563              Beverage services
+2264      ind  581 Publishing of books, periodica
+2265      ind  582            Production software
+2266      ind  590 Cinematographic works, televis
+2267      ind  591 Cinematographic works and tele
+2268      ind  592 Recording and music production
+2269      ind  600 Radio and  television broadcas
+2270      ind  601  Radio broadcasting activities
+2271      ind  602 Television activities and prov
+2272      ind  610 Telecommunication, unspecified
+2273      ind  611 Wired telecommunication activi
+2274      ind  612 Wireless telecommunication act
+2275      ind  613 Satellite telecommunication ac
+2276      ind  619 Other telecommunication activi
+2277      ind  620 Computer programming, consulta
+2278      ind  630 Information service activities
+2279      ind  631 Data processing, renting and r
+2280      ind  632     Other information services
+2281      ind  640 Financial intermediation (exce
+2282      ind  641        Monetary intermediation
+2283      ind  642 Property holding company activ
+2284      ind  643 Credit activities, credit gran
+2285      ind  649 Other financial intermediation
+2286      ind  650 Insurance, reinsurance and soc
+2287      ind  651                      Insurance
+2288      ind  652                    Reinsurance
+2289      ind  653               Social insurance
+2290      ind  661 Activities auxiliary to financ
+2291      ind  662 Activities auxiliary to insura
+2292      ind  663     Fund management activities
+2293      ind  680 Real estate activities, unspec
+2294      ind  681 Real estate activities with ow
+2295      ind  682 Real estate consultant, broker
+2296      ind  690 Legal, accounting and auditing
+2297      ind  691               Legal activities
+2298      ind  692 Activities related to accounti
+2299      ind  701 Activities in office buildings
+2300      ind  702 Management consultancy activit
+2301      ind  710 Architectural activities: tech
+2302      ind  711 Architectural and related tech
+2303      ind  712 Technical testing and analysis
+2304      ind  720 Scientific research and develo
+2305      ind  721 Research and development on na
+2306      ind  722 Research and development on so
+2307      ind  730 Advertising and market researc
+2308      ind  731                    Advertising
+2309      ind  732 Market research and public opi
+2310      ind  740 Other technological, scientifi
+2311      ind  741  Specialized design activities
+2312      ind  742        Photographic activities
+2313      ind  749 Other technological, scientifi
+2314      ind  750          Veterinary activities
+2315      ind  771      Renting of motor vehicles
+2316      ind  772 Renting of personal belongings
+2317      ind  773 Renting of equipment, machiner
+2318      ind  774 Renting of non-financial intan
+2319      ind  780 Labour and employment service 
+2320      ind  781 Activities of labour, employme
+2321      ind  782         Temporary labor supply
+2322      ind  783    Labor supply and management
+2323      ind  790 Activities of travel agencies 
+2324      ind  791 Activities of travel agencies 
+2325      ind  792 Supporting and auxiliary servi
+2326      ind  800 Investigation and security act
+2327      ind  801   Personal security activities
+2328      ind  802       Security system services
+2329      ind  803         Investigation services
+2330      ind  810 Building and landscape sanitar
+2331      ind  811    General supporting services
+2332      ind  812              Sanitary services
+2333      ind  813 Botanical garden and landscape
+2334      ind  820 Administrative activities, off
+2335      ind  821 Administrative and office supp
+2336      ind  822 Telephone calling and related 
+2337      ind  823 Trade introduction and promoti
+2338      ind  829 Other business supporting acti
+2339      ind  840 Activities of communist party,
+2340      ind  841 Activities of communist party,
+2341      ind  842 Activities serving all countri
+2342      ind  843 Mandatory social insurance act
+2343      ind  850 Training and education, unspec
+2344      ind  851           Pre-school education
+2345      ind  852              Primary education
+2346      ind  853            Secondary education
+2347      ind  854 College, university and higher
+2348      ind  855                Other education
+2349      ind  856  Supporting education services
+2350      ind  860 Human health activities, unspe
+2351      ind  861 Hospital, health care center a
+2352      ind  862 Activities of medical consulta
+2353      ind  869  Other human health activities
+2354      ind  870 Home-caring and nursing activi
+2355      ind  871 Food-providing and nursing act
+2356      ind  872 Activities of home-caring for 
+2357      ind  873 Activities of home-caring for 
+2358      ind  879 Other home-caring health care 
+2359      ind  881 Non-home-caring activities of 
+2360      ind  889 Other non-home-caring health c
+2361      ind  900 Composing, art and recreationa
+2362      ind  910 Library, archives, museums and
+2363      ind  920 Lottery, betting and gambling 
+2364      ind  930 Sport, recreational and entert
+2365      ind  931               Sport activities
+2366      ind  932 Other recreational and enterta
+2367      ind  940 Activities of other unions and
+2368      ind  941 Activities of business and occ
+2369      ind  942     Activities of trade unions
+2370      ind  949     Activities of other unions
+2371      ind  950 Activities of repairing comput
+2372      ind  951 Activities of repairing comput
+2373      ind  952 Activities of repairing person
+2374      ind  960 Other personal service activit
+2375      ind  961 Sauna, massage and other recre
+2376      ind  962 Washing and dry-cleaning of te
+2377      ind  963 Other personal service activit
+2378      ind  970 Activities of domestic hired l
+2379      ind  980 Activities of household-produc
+2380      ind  981 Activities of household-produc
+2381      ind  982 Activities of household-produc
+2382      ind  990 Extra-territorial organization
+2383      ind  998                        Unknown
+2384      ind  999      NIU (not in the universe)
+2385    unemp    1                            Yes
+2386    unemp    2                             No
+2387    unemp    8                        Unknown
+2388    unemp    9      NIU (not in the universe)
+2389   unemp1    1                            Yes
+2390   unemp1    2                             No
+2391   unemp1    8                        Unknown
+2392   unemp1    9      NIU (not in the universe)
+2393   reasue    0      NIU (not in the universe)
+2394   reasue    1 No suitable work/do not know w
+2395   reasue    2 Illness/personal matter/wait f
+2396   reasue    3         Bad weather/off season
+2397   reasue    4               Attending school
+2398   reasue    5                      Housework
+2399   reasue    6                       Disabled
+2400   reasue    7            Not willing to work
+2401   reasue    8                          Other
+2402   reasue    9                        Unknown
+2403   birthx    1                            Yes
+2404   birthx    2                             No
+2405   birthx    8                        Unknown
+2406   birthx    9      NIU (not in the universe)
+2407   disvis    1                  No difficulty
+2408   disvis    2            A little difficulty
+2409   disvis    3                 Very difficult
+2410   disvis    4                  Unable to see
+2411   disvis    8                        Unknown
+2412   disvis    9      NIU (not in the universe)
+2413  dishear    1                  No difficulty
+2414  dishear    2            A little difficulty
+2415  dishear    3                 Very difficult
+2416  dishear    4                 Unable to hear
+2417  dishear    8                        Unknown
+2418  dishear    9      NIU (not in the universe)
+2419  diswalk    1                  No difficulty
+2420  diswalk    2            A little difficulty
+2421  diswalk    3                 Very difficult
+2422  diswalk    4                 Unable to walk
+2423  diswalk    8                        Unknown
+2424  diswalk    9      NIU (not in the universe)
+2425   disrem    1                  No difficulty
+2426   disrem    2            A little difficulty
+2427   disrem    3                 Very difficult
+2428   disrem    4 Unable to remember or pay atte
+2429   disrem    8                        Unknown
+2430   disrem    9      NIU (not in the universe)
+2431    nchhh    0                              0
+2432    nchhh    1                              1
+2433    nchhh    2                              2
+2434    nchhh    3                              3
+2435    nchhh    4                              4
+2436    nchhh    5                              5
+2437    nchhh    6                              6
+2438    nchhh    7                              7
+2439    nchhh    8                              8
+2440    nchhh    9                              9
+2441    nchhh   10                             10
+2442    nchhh   11                             11
+2443    nchhh   12                             12
+2444    nchhh   13                             13
+2445    nchhh   98                        Unknown
+2446    nchhh   99      NIU (not in the universe)
+2447  nchelse    0                              0
+2448  nchelse    1                              1
+2449  nchelse    2                              2
+2450  nchelse    3                              3
+2451  nchelse    4                              4
+2452  nchelse    5                              5
+2453  nchelse    6                              6
+2454  nchelse    7                              7
+2455  nchelse    8                              8
+2456  nchelse    9                              9
+2457  nchelse   10                             10
+2458  nchelse   11                             11
+2459  nchelse   12                             12
+2460  nchelse   13                             13
+2461  nchelse   98                        Unknown
+2462  nchelse   99      NIU (not in the universe)
+2463  nchdead    0                              0
+2464  nchdead    1                              1
+2465  nchdead    2                              2
+2466  nchdead    3                              3
+2467  nchdead    4                              4
+2468  nchdead    5                              5
+2469  nchdead    6                              6
+2470  nchdead    7                              7
+2471  nchdead    8                              8
+2472  nchdead    9                              9
+2473  nchdead   10                             10
+2474  nchdead   98                        Unknown
+2475  nchdead   99      NIU (not in the universe)
+2476   lstbyr 1972                           1972
+2477   lstbyr 1973                           1973
+2478   lstbyr 1974                           1974
+2479   lstbyr 1975                           1975
+2480   lstbyr 1976                           1976
+2481   lstbyr 1977                           1977
+2482   lstbyr 1978                           1978
+2483   lstbyr 1979                           1979
+2484   lstbyr 1980                           1980
+2485   lstbyr 1981                           1981
+2486   lstbyr 1982                           1982
+2487   lstbyr 1983                           1983
+2488   lstbyr 1984                           1984
+2489   lstbyr 1985                           1985
+2490   lstbyr 1986                           1986
+2491   lstbyr 1987                           1987
+2492   lstbyr 1988                           1988
+2493   lstbyr 1989                           1989
+2494   lstbyr 1990                           1990
+2495   lstbyr 1991                           1991
+2496   lstbyr 1992                           1992
+2497   lstbyr 1993                           1993
+2498   lstbyr 1994                           1994
+2499   lstbyr 1995                           1995
+2500   lstbyr 1996                           1996
+2501   lstbyr 1997                           1997
+2502   lstbyr 1998                           1998
+2503   lstbyr 1999                           1999
+2504   lstbyr 2000                           2000
+2505   lstbyr 2001                           2001
+2506   lstbyr 2002                           2002
+2507   lstbyr 2003                           2003
+2508   lstbyr 2004                           2004
+2509   lstbyr 2005                           2005
+2510   lstbyr 2006                           2006
+2511   lstbyr 2007                           2007
+2512   lstbyr 2008                           2008
+2513   lstbyr 2009                           2009
+2514   lstbyr 9998                        Unknowm
+2515   lstbyr 9999      NIU (not in the universe)
+2516   lstbmo    1                        January
+2517   lstbmo    2                       February
+2518   lstbmo    3                          March
+2519   lstbmo    4                          April
+2520   lstbmo    5                            May
+2521   lstbmo    6                           June
+2522   lstbmo    7                           July
+2523   lstbmo    8                         August
+2524   lstbmo    9                      September
+2525   lstbmo   10                        October
+2526   lstbmo   11                       November
+2527   lstbmo   12                       December
+2528   lstbmo   98                        Unknown
+2529   lstbmo   99      NIU (not in the universe)
+2530  lstbfem    0                              0
+2531  lstbfem    1                              1
+2532  lstbfem    2                              2
+2533  lstbfem    3                              3
+2534  lstbfem    8                        Unknown
+2535  lstbfem    9      NIU (not in the universe)
+2536 lstbmale    0                              0
+2537 lstbmale    1                              1
+2538 lstbmale    2                              2
+2539 lstbmale    3                              3
+2540 lstbmale    8                        Unknown
+2541 lstbmale    9      NIU (not in the universe)
+2542    month    1                        January
+2543    month    2                       February
+2544    month    3                          March
+2545    month    4                          April
+2546    month    5                            May
+2547    month    6                           June
+2548    month    7                           July
+2549    month    8                         August
+2550    month    9                      September
+2551    month   10                        October
+2552    month   11                       November
+2553    month   12                       December
+2554    month   99                        Unknown
+2555  birthyr 1890                           1890
+2556  birthyr 1896                           1896
+2557  birthyr 1897                           1897
+2558  birthyr 1898                           1898
+2559  birthyr 1899                           1899
+2560  birthyr 1900                           1900
+2561  birthyr 1901                           1901
+2562  birthyr 1902                           1902
+2563  birthyr 1903                           1903
+2564  birthyr 1904                           1904
+2565  birthyr 1905                           1905
+2566  birthyr 1906                           1906
+2567  birthyr 1907                           1907
+2568  birthyr 1908                           1908
+2569  birthyr 1909                           1909
+2570  birthyr 1910                           1910
+2571  birthyr 1911                           1911
+2572  birthyr 1912                           1912
+2573  birthyr 1913                           1913
+2574  birthyr 1914                           1914
+2575  birthyr 1915                           1915
+2576  birthyr 1916                           1916
+2577  birthyr 1917                           1917
+2578  birthyr 1918                           1918
+2579  birthyr 1919                           1919
+2580  birthyr 1920                           1920
+2581  birthyr 1921                           1921
+2582  birthyr 1922                           1922
+2583  birthyr 1923                           1923
+2584  birthyr 1924                           1924
+2585  birthyr 1925                           1925
+2586  birthyr 1926                           1926
+2587  birthyr 1927                           1927
+2588  birthyr 1928                           1928
+2589  birthyr 1929                           1929
+2590  birthyr 1930                           1930
+2591  birthyr 1931                           1931
+2592  birthyr 1932                           1932
+2593  birthyr 1933                           1933
+2594  birthyr 1934                           1934
+2595  birthyr 1935                           1935
+2596  birthyr 1936                           1936
+2597  birthyr 1937                           1937
+2598  birthyr 1938                           1938
+2599  birthyr 1939                           1939
+2600  birthyr 1940                           1940
+2601  birthyr 1941                           1941
+2602  birthyr 1942                           1942
+2603  birthyr 1943                           1943
+2604  birthyr 1944                           1944
+2605  birthyr 1945                           1945
+2606  birthyr 1946                           1946
+2607  birthyr 1947                           1947
+2608  birthyr 1948                           1948
+2609  birthyr 1949                           1949
+2610  birthyr 1950                           1950
+2611  birthyr 1951                           1951
+2612  birthyr 1952                           1952
+2613  birthyr 1953                           1953
+2614  birthyr 1954                           1954
+2615  birthyr 1955                           1955
+2616  birthyr 1956                           1956
+2617  birthyr 1957                           1957
+2618  birthyr 1958                           1958
+2619  birthyr 1959                           1959
+2620  birthyr 1960                           1960
+2621  birthyr 1961                           1961
+2622  birthyr 1962                           1962
+2623  birthyr 1963                           1963
+2624  birthyr 1964                           1964
+2625  birthyr 1965                           1965
+2626  birthyr 1966                           1966
+2627  birthyr 1967                           1967
+2628  birthyr 1968                           1968
+2629  birthyr 1969                           1969
+2630  birthyr 1970                           1970
+2631  birthyr 1971                           1971
+2632  birthyr 1972                           1972
+2633  birthyr 1973                           1973
+2634  birthyr 1974                           1974
+2635  birthyr 1975                           1975
+2636  birthyr 1976                           1976
+2637  birthyr 1977                           1977
+2638  birthyr 1978                           1978
+2639  birthyr 1979                           1979
+2640  birthyr 1980                           1980
+2641  birthyr 1981                           1981
+2642  birthyr 1982                           1982
+2643  birthyr 1983                           1983
+2644  birthyr 1984                           1984
+2645  birthyr 1985                           1985
+2646  birthyr 1986                           1986
+2647  birthyr 1987                           1987
+2648  birthyr 1988                           1988
+2649  birthyr 1989                           1989
+2650  birthyr 1990                           1990
+2651  birthyr 1991                           1991
+2652  birthyr 1992                           1992
+2653  birthyr 1993                           1993
+2654  birthyr 1994                           1994
+2655  birthyr 1995                           1995
+2656  birthyr 1996                           1996
+2657  birthyr 1997                           1997
+2658  birthyr 1998                           1998
+2659  birthyr 1999                           1999
+2660  birthyr 2000                           2000
+2661  birthyr 2001                           2001
+2662  birthyr 2002                           2002
+2663  birthyr 2003                           2003
+2664  birthyr 2004                           2004
+2665  birthyr 2005                           2005
+2666  birthyr 2006                           2006
+2667  birthyr 2007                           2007
+2668  birthyr 2008                           2008
+2669  birthyr 2009                           2009
+2670  birthyr 9999                        Unknown
+2671   ethnic    1                           Kinh
+2672   ethnic    2             Other ethnic group
+2673   ethnic    9                        Unknown
+2674    relig    1                            Yes
+2675    relig    2                             No
+2676    relig    9                        Unknown
+2677  migdist    1                        Ba Dinh
+2678  migdist    2                      Hoan Kiem
+2679  migdist    3                         Tay Ho
+2680  migdist    4                      Long Bien
+2681  migdist    5                       Cau Giay
+2682  migdist    6                        Dong Da
+2683  migdist    7                   Hai Ba Trung
+2684  migdist    8                      Hoang Mai
+2685  migdist    9                     Thanh Xuan
+2686  migdist   16                        Soc Son
+2687  migdist   17                       Dong Anh
+2688  migdist   18                        Gia Lam
+2689  migdist   19                        Tu Liem
+2690  migdist   20                      Thanh Tri
+2691  migdist   24                  Ha Giang Town
+2692  migdist   26                       Dong Van
+2693  migdist   27                        Meo Vac
+2694  migdist   28                       Yen Minh
+2695  migdist   29                        Quan Ba
+2696  migdist   30                       Vi Xuyen
+2697  migdist   31                         Bac Me
+2698  migdist   32                   Hoang Su Phi
+2699  migdist   33                        Xin Man
+2700  migdist   34                      Bac Quang
+2701  migdist   35                     Quang Binh
+2702  migdist   40                  Cao Bang town
+2703  migdist   42                        Bao Lam
+2704  migdist   43                        Bao Lac
+2705  migdist   44                     Thong Nong
+2706  migdist   45                       Ha Quang
+2707  migdist   46                       Tra Linh
+2708  migdist   47                    Trung Khanh
+2709  migdist   48                        Ha Lang
+2710  migdist   49                     Quang Uyen
+2711  migdist   50                       Phuc Hoa
+2712  migdist   51                         Hoa An
+2713  migdist   52                    Nguyen Binh
+2714  migdist   53                       Thach An
+2715  migdist   58                   Bac Kan town
+2716  migdist   60                        Pac Nam
+2717  migdist   61                          Ba Be
+2718  migdist   62                       Ngan Son
+2719  migdist   63                     Bach Thong
+2720  migdist   64                        Cho Don
+2721  migdist   65                        Cho Moi
+2722  migdist   66                          Na Ri
+2723  migdist   70                Thi Tuyen Quang
+2724  migdist   72                        Na Hang
+2725  migdist   73                      Chiem Hoa
+2726  migdist   74                        Ham Yen
+2727  migdist   75                        Yen Son
+2728  migdist   76                      Son Duong
+2729  migdist   80                   Lao Cai town
+2730  migdist   82                        Bat Xat
+2731  migdist   83                   Muong Khuong
+2732  migdist   84                      Si Ma Cai
+2733  migdist   85                         Bac Ha
+2734  migdist   86                      Bao Thang
+2735  migdist   87                        Bao Yen
+2736  migdist   88                          Sa Pa
+2737  migdist   89                        Van Ban
+2738  migdist   94             Dien Bien Phu town
+2739  migdist   95                      Muong Lay
+2740  migdist   96                      Muong Nhe
+2741  migdist   97                      Muong Cha
+2742  migdist   98                       Tua Chua
+2743  migdist   99                      Tuan Giao
+2744  migdist  100                      Dien Bien
+2745  migdist  101                 Dien Bien Dong
+2746  migdist  102                      Muong Ang
+2747  migdist  105                  Lai Chau town
+2748  migdist  106                      Tam Duong
+2749  migdist  107                       Muong Te
+2750  migdist  108                         Sin Ho
+2751  migdist  109                      Phong Tho
+2752  migdist  110                      Than Uyen
+2753  migdist  111                       Tan Uyen
+2754  migdist  116                    Son La town
+2755  migdist  118                     Quynh Nhai
+2756  migdist  119                     Thuan Chau
+2757  migdist  120                       Muong La
+2758  migdist  121                        Bac Yen
+2759  migdist  122                        Phu Yen
+2760  migdist  123                       Moc Chau
+2761  migdist  124                       Yen Chau
+2762  migdist  125                        Mai Son
+2763  migdist  126                        Song Ma
+2764  migdist  127                        Sop Cop
+2765  migdist  132                   Yen Bai town
+2766  migdist  133                       Nghia Lo
+2767  migdist  135                        Luc Yen
+2768  migdist  136                        Van Yen
+2769  migdist  137                   Mu Cang Chai
+2770  migdist  138                       Tran Yen
+2771  migdist  139                       Tram Tau
+2772  migdist  140                       Van Chan
+2773  migdist  141                       Yen Binh
+2774  migdist  148                  Hoa Binh town
+2775  migdist  150                         Da Bac
+2776  migdist  151                         Ky Son
+2777  migdist  152                      Luong Son
+2778  migdist  153                        Kim Boi
+2779  migdist  154                      Cao Phong
+2780  migdist  155                        Tan Lac
+2781  migdist  156                       Mai Chau
+2782  migdist  157                        Lac Son
+2783  migdist  158                       Yen Thuy
+2784  migdist  159                       Lac Thuy
+2785  migdist  164               Thai Nguyen town
+2786  migdist  165                      Song Cong
+2787  migdist  167                       Dinh Hoa
+2788  migdist  168                      Phu Luong
+2789  migdist  169                        Dong Hy
+2790  migdist  170                         VoNhai
+2791  migdist  171                         Dai Tu
+2792  migdist  172                        Pho Yen
+2793  migdist  173                       Phu Binh
+2794  migdist  178                  Lang Son town
+2795  migdist  180                     Trang Dinh
+2796  migdist  181                       Binh Gia
+2797  migdist  182                       Van Lang
+2798  migdist  183                        Cao Loc
+2799  migdist  184                       Van Quan
+2800  migdist  185                        Bac Son
+2801  migdist  186                       Huu Lung
+2802  migdist  187                       Chi Lang
+2803  migdist  188                       Loc Binh
+2804  migdist  189                       Dinh Lap
+2805  migdist  193                        Ha Long
+2806  migdist  194                       Mong Cai
+2807  migdist  195                        Cam Pha
+2808  migdist  196                        Uong Bi
+2809  migdist  198                      Binh Lieu
+2810  migdist  199                       Tien Yen
+2811  migdist  200                         Dam Ha
+2812  migdist  201                         Hai Ha
+2813  migdist  202                         Ba Che
+2814  migdist  203                        Van Don
+2815  migdist  204                       Hoanh Bo
+2816  migdist  205                     Dong Trieu
+2817  migdist  206                       Yen Hung
+2818  migdist  207                          Co To
+2819  migdist  213                 Bac Giang town
+2820  migdist  215                        Yen The
+2821  migdist  216                        Tan Yen
+2822  migdist  217                     Lang Giang
+2823  migdist  218                        Luc Nam
+2824  migdist  219                       Luc Ngan
+2825  migdist  220                       Son Dong
+2826  migdist  221                       Yen Dung
+2827  migdist  222                       Viet Yen
+2828  migdist  223                       Hiep Hoa
+2829  migdist  227                       Viet Tri
+2830  migdist  228                   Phu Tho town
+2831  migdist  230                      Doan Hung
+2832  migdist  231                         Ha Hoa
+2833  migdist  232                       Thanh Ba
+2834  migdist  233                       Phu Ninh
+2835  migdist  234                        Yen Lap
+2836  migdist  235                        Cam Khe
+2837  migdist  236                       Tam Nong
+2838  migdist  237                       Lam Thao
+2839  migdist  238                      Thanh Son
+2840  migdist  239                     Thanh Thuy
+2841  migdist  240                        Tan Son
+2842  migdist  243                       Vinh Yen
+2843  migdist  244                       Phuc Yen
+2844  migdist  246                      Lap Thach
+2845  migdist  247                      Tam Duong
+2846  migdist  248                        Tam Dao
+2847  migdist  249                     Binh Xuyen
+2848  migdist  250                        Me Linh
+2849  migdist  251                        Yen Lac
+2850  migdist  252                     Vinh Tuong
+2851  migdist  253                        Song Lo
+2852  migdist  256                  Bac Ninh town
+2853  migdist  258                      Yen Phong
+2854  migdist  259                         Que Vo
+2855  migdist  260                        Tien Du
+2856  migdist  261                         Tu Son
+2857  migdist  262                    Thuan Thanh
+2858  migdist  263                       Gia Binh
+2859  migdist  264                      Luong Tai
+2860  migdist  268                        Ha Dong
+2861  migdist  269                        Son Tay
+2862  migdist  271                          Ba Vi
+2863  migdist  272                       Phuc Tho
+2864  migdist  273                     Dan Phuong
+2865  migdist  274                       Hoai Duc
+2866  migdist  275                       Quoc Oai
+2867  migdist  276                     Thach That
+2868  migdist  277                      Chuong My
+2869  migdist  278                      Thanh Oai
+2870  migdist  279                     Thuong Tin
+2871  migdist  280                      Phu Xuyen
+2872  migdist  281                        Ung Hoa
+2873  migdist  282                         My Duc
+2874  migdist  288                 Hai Duong town
+2875  migdist  290                       Chi Linh
+2876  migdist  291                       Nam Sach
+2877  migdist  292                       Kinh Mon
+2878  migdist  293                      Kim Thanh
+2879  migdist  294                       Thanh Ha
+2880  migdist  295                      Cam Giang
+2881  migdist  296                     Binh Giang
+2882  migdist  297                        Gia Loc
+2883  migdist  298                          Tu Ky
+2884  migdist  299                     Ninh Giang
+2885  migdist  300                     Thanh Mien
+2886  migdist  303                      Hong Bang
+2887  migdist  304                      Ngo Quyen
+2888  migdist  305                        Le Chan
+2889  migdist  306                         Hai An
+2890  migdist  307                        Kien An
+2891  migdist  308                         Do Son
+2892  migdist  309                     Duong Kinh
+2893  migdist  311                    Thuy Nguyen
+2894  migdist  312                       An Duong
+2895  migdist  313                         An Lao
+2896  migdist  314                      Kien Thu?
+2897  migdist  315                      Tien Lang
+2898  migdist  316                       Vinh Bao
+2899  migdist  317                        Cat Hai
+2900  migdist  318                   Bach Long Vi
+2901  migdist  323                  Hung Yen town
+2902  migdist  325                        Van Lam
+2903  migdist  326                      Van Giang
+2904  migdist  327                         Yen My
+2905  migdist  328                         My Hao
+2906  migdist  329                         An Thi
+2907  migdist  330                     Khoai Chau
+2908  migdist  331                       Kim Dong
+2909  migdist  332                        Tien Lu
+2910  migdist  333                         Phu Cu
+2911  migdist  336                 Thai Binh town
+2912  migdist  338                      Quynh Phu
+2913  migdist  339                        Hung Ha
+2914  migdist  340                      Dong Hung
+2915  migdist  341                      Thai Thuy
+2916  migdist  342                       Tien Hai
+2917  migdist  343                     Kien Xuong
+2918  migdist  344                         Vu Thu
+2919  migdist  347                         Phu Ly
+2920  migdist  349                       Duy Tien
+2921  migdist  350                       Kim Bang
+2922  migdist  351                     Thanh Liem
+2923  migdist  352                       Binh Luc
+2924  migdist  353                        Ly Nhan
+2925  migdist  356                  Nam Dinh town
+2926  migdist  358                         My Loc
+2927  migdist  359                         Vu Ban
+2928  migdist  360                          Y Yen
+2929  migdist  361                     Nghia Hung
+2930  migdist  362                       Nam Truc
+2931  migdist  363                      Truc Ninh
+2932  migdist  364                    Xuan Truong
+2933  migdist  365                      Giao Thuy
+2934  migdist  366                        Hai Hau
+2935  migdist  369                 Ninh Binh town
+2936  migdist  370                       Tam Diep
+2937  migdist  372                       Nho Quan
+2938  migdist  373                       Gia Vien
+2939  migdist  374                         Hoa Lu
+2940  migdist  375                      Yen Khanh
+2941  migdist  376                        Kim Son
+2942  migdist  377                         Yen Mo
+2943  migdist  380                 Thanh Hoa town
+2944  migdist  381                        Bim Son
+2945  migdist  382                        Sam Son
+2946  migdist  384                      Muong Lat
+2947  migdist  385                       Quan Hoa
+2948  migdist  386                       Ba Thuoc
+2949  migdist  387                       Quan Son
+2950  migdist  388                     Lang Chanh
+2951  migdist  389                       Ngoc Lac
+2952  migdist  390                       Cam Thuy
+2953  migdist  391                    Thach Thanh
+2954  migdist  392                       Ha Trung
+2955  migdist  393                       Vinh Loc
+2956  migdist  394                       Yen Dinh
+2957  migdist  395                       Tho Xuan
+2958  migdist  396                    Thuong Xuan
+2959  migdist  397                      Trieu Son
+2960  migdist  398                      Thieu Hoa
+2961  migdist  399                      Hoang Hoa
+2962  migdist  400                        Hau Loc
+2963  migdist  401                        Nga Son
+2964  migdist  402                       Nhu Xuan
+2965  migdist  403                      Nhu Thanh
+2966  migdist  404                      Nong Cong
+2967  migdist  405                       Dong Son
+2968  migdist  406                    Quang Xuong
+2969  migdist  407                       Tinh Gia
+2970  migdist  412                           Vinh
+2971  migdist  413                         Cua Lo
+2972  migdist  414                       Thai Hoa
+2973  migdist  415                      Que Phong
+2974  migdist  416                       Quy Chau
+2975  migdist  417                         Ky Son
+2976  migdist  418                    Tuong Duong
+2977  migdist  419                      Nghia Dan
+2978  migdist  420                        Quy Hop
+2979  migdist  421                      Quynh Luu
+2980  migdist  422                      Con Cuong
+2981  migdist  423                         Tan Ky
+2982  migdist  424                        Anh Son
+2983  migdist  425                      Dien Chau
+2984  migdist  426                      Yen Thanh
+2985  migdist  427                       Do Luong
+2986  migdist  428                   Thanh Chuong
+2987  migdist  429                       Nghi Loc
+2988  migdist  430                        Nam Dan
+2989  migdist  431                    Hung Nguyen
+2990  migdist  436                   Ha Tinh town
+2991  migdist  437                      Hong Linh
+2992  migdist  439                      Huong Son
+2993  migdist  440                        Duc Tho
+2994  migdist  441                       Vu Quang
+2995  migdist  442                      Nghi Xuan
+2996  migdist  443                        Can Loc
+2997  migdist  444                      Huong Khe
+2998  migdist  445                       Thach Ha
+2999  migdist  446                      Cam Xuyen
+3000  migdist  447                         Ky Anh
+3001  migdist  448                         Loc Ha
+3002  migdist  450                       Dong Hoi
+3003  migdist  452                       Minh Hoa
+3004  migdist  453                      Tuyen Hoa
+3005  migdist  454                    Quang Trach
+3006  migdist  455                       Bo Trach
+3007  migdist  456                     Quang Ninh
+3008  migdist  457                        Le Thuy
+3009  migdist  461                        Dong Ha
+3010  migdist  462                 Quang Tri town
+3011  migdist  464                      Vinh Linh
+3012  migdist  465                      Huong Hoa
+3013  migdist  466                       Gio Linh
+3014  migdist  467                       Da Krong
+3015  migdist  468                         Cam Lo
+3016  migdist  469                    Trieu Phong
+3017  migdist  470                       Hai Lang
+3018  migdist  471                         Con Co
+3019  migdist  474                            Hue
+3020  migdist  476                     Phong Dien
+3021  migdist  477                     Quang Dien
+3022  migdist  478                       Phu Vang
+3023  migdist  479                     Huong Thuy
+3024  migdist  480                      Huong Tra
+3025  migdist  481                         A Luoi
+3026  migdist  482                        Phu Loc
+3027  migdist  483                       Nam Dong
+3028  migdist  490                     Lien Chieu
+3029  migdist  491                      Thanh Khe
+3030  migdist  492                       Hai Chau
+3031  migdist  493                        Son Tra
+3032  migdist  494                   Ngu Hanh Son
+3033  migdist  495                         Cam Le
+3034  migdist  497                       Hoa Vang
+3035  migdist  498                       Hoang Sa
+3036  migdist  502                         Tam Ky
+3037  migdist  503                         Hoi An
+3038  migdist  504                      Tay Giang
+3039  migdist  505                     Dong Giang
+3040  migdist  506                        Dai Loc
+3041  migdist  507                       Dien Ban
+3042  migdist  508                      Duy Xuyen
+3043  migdist  509                        Que Son
+3044  migdist  510                      Nam Giang
+3045  migdist  511                      Phuoc Son
+3046  migdist  512                       Hiep Duc
+3047  migdist  513                     Thang Binh
+3048  migdist  514                     Tien Phuoc
+3049  migdist  515                     Bac Tra My
+3050  migdist  516                     Nam Tra My
+3051  migdist  517                      Nui Thanh
+3052  migdist  518                       Phu Ninh
+3053  migdist  519                       Nong Son
+3054  migdist  522                Quang Ngai town
+3055  migdist  524                       Binh Son
+3056  migdist  525                       Tra Bong
+3057  migdist  526                        Tay Tra
+3058  migdist  527                       Son Tinh
+3059  migdist  528                       Tu Nghia
+3060  migdist  529                         Son Ha
+3061  migdist  530                        Son Tay
+3062  migdist  531                      Minh Long
+3063  migdist  532                     Nghia Hanh
+3064  migdist  533                         Mo Duc
+3065  migdist  534                        Duc Pho
+3066  migdist  535                          Ba To
+3067  migdist  536                         Ly Son
+3068  migdist  540                       Qui Nhon
+3069  migdist  542                         An Lao
+3070  migdist  543                      Hoai Nhon
+3071  migdist  544                        Hoai an
+3072  migdist  545                         Phu My
+3073  migdist  546                     Vinh Thanh
+3074  migdist  547                        Tay Son
+3075  migdist  548                        Phu Cat
+3076  migdist  549                        An Nhon
+3077  migdist  550                      Tuy Phuoc
+3078  migdist  551                       Van Canh
+3079  migdist  555                        Tuy Hoa
+3080  migdist  557                       Song Cau
+3081  migdist  558                      Dong Xuan
+3082  migdist  559                         Tuy An
+3083  migdist  560                        Son Hoa
+3084  migdist  561                      Song Hinh
+3085  migdist  562                        Tay Hoa
+3086  migdist  563                        Phu Hoa
+3087  migdist  564                       Dong Hoa
+3088  migdist  568                      Nha Trang
+3089  migdist  569                       Cam Ranh
+3090  migdist  570                        Cam Lam
+3091  migdist  571                       Van Ninh
+3092  migdist  572                       Ninh Hoa
+3093  migdist  573                     Khanh Vinh
+3094  migdist  574                     Dien Khanh
+3095  migdist  575                      Khanh Son
+3096  migdist  576                      Truong Sa
+3097  migdist  582            Phan Rang-Thap Cham
+3098  migdist  584                         Bac Ai
+3099  migdist  585                       Ninh Son
+3100  migdist  586                       Ninh Hai
+3101  migdist  587                     Ninh Phuoc
+3102  migdist  588                      Thuan Bac
+3103  migdist  593                     Phan Thiet
+3104  migdist  594                          La Gi
+3105  migdist  595                      Tuy Phong
+3106  migdist  596                       Bac Binh
+3107  migdist  597                  Ham Thuan Bac
+3108  migdist  598                  Ham Thuan Nam
+3109  migdist  599                      Tanh Linh
+3110  migdist  600                       Duc Linh
+3111  migdist  601                        Ham Tan
+3112  migdist  602                        Phu Qui
+3113  migdist  608                   Kon Tum town
+3114  migdist  610                       Dak Glei
+3115  migdist  611                       Ngoc Hoi
+3116  migdist  612                         Dak To
+3117  migdist  613                      Kon Plong
+3118  migdist  614                        Kon Ray
+3119  migdist  615                         Dak Ha
+3120  migdist  616                        Sa Thay
+3121  migdist  617                     Tu Mo Rong
+3122  migdist  622                         Pleiku
+3123  migdist  623                         An Khe
+3124  migdist  624                        Ayun Pa
+3125  migdist  625                          KBang
+3126  migdist  626                        Dak Doa
+3127  migdist  627                        Chu Pah
+3128  migdist  628                        Ia Grai
+3129  migdist  629                      Mang Yang
+3130  migdist  630                      Kong Chro
+3131  migdist  631                         Duc Co
+3132  migdist  632                      Chu Prong
+3133  migdist  633                         Chu Se
+3134  migdist  634                         Dak Po
+3135  migdist  635                          Ia Pa
+3136  migdist  637                       Krong Pa
+3137  migdist  638                      Phu Thien
+3138  migdist  643                  Buon Ma Thuot
+3139  migdist  644                        Buon Ho
+3140  migdist  645                       Ea H'leo
+3141  migdist  646                         Ea Sup
+3142  migdist  647                       Buon Don
+3143  migdist  648                       Cu M'gar
+3144  migdist  649                      Krong Buk
+3145  migdist  650                     Krong Nang
+3146  migdist  651                         Ea Kar
+3147  migdist  652                         M'Drak
+3148  migdist  653                     Krong Bong
+3149  migdist  654                      Krong Pac
+3150  migdist  655                     Krong A Na
+3151  migdist  656                            Lak
+3152  migdist  657                        Cu Kuin
+3153  migdist  660                      Gia Nghia
+3154  migdist  661                      Dak Glong
+3155  migdist  662                         Cu Jut
+3156  migdist  663                        Dak Mil
+3157  migdist  664                       Krong No
+3158  migdist  665                       Dak Song
+3159  migdist  666                      Dak R'Lap
+3160  migdist  667                        Tuy Duc
+3161  migdist  672                         Da Lat
+3162  migdist  673                        Bao Loc
+3163  migdist  674                       Dam Rong
+3164  migdist  675                      Lac Duong
+3165  migdist  676                         Lam Ha
+3166  migdist  677                      Don Duong
+3167  migdist  678                      Duc Trong
+3168  migdist  679                        Di Linh
+3169  migdist  680                        Bao Lam
+3170  migdist  681                       Da Huoai
+3171  migdist  682                         Da Teh
+3172  migdist  683                       Cat Tien
+3173  migdist  689                      Dong Xoai
+3174  migdist  691                     Phuoc Long
+3175  migdist  692                       Loc Ninh
+3176  migdist  693                         Bu Dop
+3177  migdist  694                      Binh Long
+3178  migdist  695                       Dong Phu
+3179  migdist  696                        Bu Dang
+3180  migdist  697                     Chon Thanh
+3181  migdist  703                  Tay Ninh town
+3182  migdist  705                       Tan Bien
+3183  migdist  706                       Tan Chau
+3184  migdist  707                Duong Minh Chau
+3185  migdist  708                     Chau Thanh
+3186  migdist  709                      Hoa Thanh
+3187  migdist  710                         Go Dau
+3188  migdist  711                        Ben Cau
+3189  migdist  712                     Trang Bang
+3190  migdist  718                    Thu Dau Mot
+3191  migdist  720                      Dau Tieng
+3192  migdist  721                        Ben Cat
+3193  migdist  722                       Phu Giao
+3194  migdist  723                       Tan Uyen
+3195  migdist  724                          Di An
+3196  migdist  725                       Thuan An
+3197  migdist  731                       Bien Hoa
+3198  migdist  732                     Long Khanh
+3199  migdist  734                        Tan Phu
+3200  migdist  735                       Vinh Cuu
+3201  migdist  736                      Dinh Quan
+3202  migdist  737                      Trang Bom
+3203  migdist  738                     Thong Nhat
+3204  migdist  739                         Cam My
+3205  migdist  740                     Long Thanh
+3206  migdist  741                       Xuan Loc
+3207  migdist  742                     Nhon Trach
+3208  migdist  747                       Vung Tau
+3209  migdist  748                         Ba Ria
+3210  migdist  750                       Chau Duc
+3211  migdist  751                      Xuyen Moc
+3212  migdist  752                      Long Dien
+3213  migdist  753                         Dat Do
+3214  migdist  754                      Tan Thanh
+3215  migdist  755                        Con Dao
+3216  migdist  760                     District 1
+3217  migdist  761                    District 12
+3218  migdist  762                        Thu Duc
+3219  migdist  763                     District 9
+3220  migdist  764                         Go Vap
+3221  migdist  765                     Binh Thanh
+3222  migdist  766                       Tan Binh
+3223  migdist  767                        Tan Phu
+3224  migdist  768                      Phu Nhuan
+3225  migdist  769                     District 2
+3226  migdist  770                     District 3
+3227  migdist  771                    District 10
+3228  migdist  772                    District 11
+3229  migdist  773                     District 4
+3230  migdist  774                     District 5
+3231  migdist  775                     District 6
+3232  migdist  776                     District 8
+3233  migdist  777                       Binh Tan
+3234  migdist  778                     District 7
+3235  migdist  783                         Cu Chi
+3236  migdist  784                        Hoc Mon
+3237  migdist  785                     Binh Chanh
+3238  migdist  786                         Nha Be
+3239  migdist  787                        Can Gio
+3240  migdist  794                         Tan An
+3241  migdist  796                       Tan Hung
+3242  migdist  797                      Vinh Hung
+3243  migdist  798                        Moc Hoa
+3244  migdist  799                      Tan Thanh
+3245  migdist  800                      Thanh Hoa
+3246  migdist  801                        Duc Hue
+3247  migdist  802                        Duc Hoa
+3248  migdist  803                        Ben Luc
+3249  migdist  804                       Thu Thua
+3250  migdist  805                        Tan Tru
+3251  migdist  806                       Can Duoc
+3252  migdist  807                      Can Giuoc
+3253  migdist  808                     Chau Thanh
+3254  migdist  815                         My Tho
+3255  migdist  816                        Go Cong
+3256  migdist  818                      Tan Phuoc
+3257  migdist  819                         Cai Be
+3258  migdist  820                        Cai Lay
+3259  migdist  821                     Chau Thanh
+3260  migdist  822                        Cho Gao
+3261  migdist  823                    Go Cong Tay
+3262  migdist  824                   Go Cong Dong
+3263  migdist  825                   Tan Phu Dong
+3264  migdist  829                   Ben Tre town
+3265  migdist  831                     Chau Thanh
+3266  migdist  832                       Cho Lach
+3267  migdist  833                         Mo Cay
+3268  migdist  834                     Giong Trom
+3269  migdist  835                       Binh Dai
+3270  migdist  836                         Ba Tri
+3271  migdist  837                      Thanh Phu
+3272  migdist  842                  Tra Vinh town
+3273  migdist  844                      Cang Long
+3274  migdist  845                         Cau Ke
+3275  migdist  846                       Tieu Can
+3276  migdist  847                     Chau Thanh
+3277  migdist  848                      Cau Ngang
+3278  migdist  849                         Tra Cu
+3279  migdist  850                      Duyen Hai
+3280  migdist  855                 Vinh Long town
+3281  migdist  857                        Long Ho
+3282  migdist  858                      Mang Thit
+3283  migdist  859                      Vung Liem
+3284  migdist  860                       Tam Binh
+3285  migdist  861                      Binh Minh
+3286  migdist  862                         Tra on
+3287  migdist  863                       Binh Tan
+3288  migdist  866                       Cao Lanh
+3289  migdist  867                         Sa Dec
+3290  migdist  868                       Hong Ngu
+3291  migdist  869                       Tan Hong
+3292  migdist  870                       Hong Ngu
+3293  migdist  871                       Tam Nong
+3294  migdist  872                      Thap Muoi
+3295  migdist  873                       Cao Lanh
+3296  migdist  874                     Thanh Binh
+3297  migdist  875                         Lap Vo
+3298  migdist  876                       Lai Vung
+3299  migdist  877                     Chau Thanh
+3300  migdist  883                     Long Xuyen
+3301  migdist  884                       Chau Doc
+3302  migdist  886                         An Phu
+3303  migdist  887                       Tan Chau
+3304  migdist  888                        Phu Tan
+3305  migdist  889                       Chau Phu
+3306  migdist  890                      Tinh Bien
+3307  migdist  891                        Tri Ton
+3308  migdist  892                     Chau Thanh
+3309  migdist  893                        Cho Moi
+3310  migdist  894                      Thoai Son
+3311  migdist  899                       Rach Gia
+3312  migdist  900                        Ha Tien
+3313  migdist  902                     Kien Luong
+3314  migdist  903                        Hon Dat
+3315  migdist  904                       Tan Hiep
+3316  migdist  905                     Chau Thanh
+3317  migdist  906                    Giong Rieng
+3318  migdist  907                        Go Quao
+3319  migdist  908                        An Bien
+3320  migdist  909                        An Minh
+3321  migdist  910                     Vinh Thuan
+3322  migdist  911                       Phu Quoc
+3323  migdist  912                       Kien Hai
+3324  migdist  913                  U Minh Thuong
+3325  migdist  916                      Ninh Kieu
+3326  migdist  917                          O Mon
+3327  migdist  918                      Binh Thuy
+3328  migdist  919                       Cai Rang
+3329  migdist  923                       Thot Not
+3330  migdist  924                     Vinh Thanh
+3331  migdist  925                          Co Do
+3332  migdist  926                     Phong Dien
+3333  migdist  927                       Thoi Lai
+ [ reached getOption("max.print") -- omitted 100 rows ]

@@ -1,0 +1,73 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      dwnum                                                   Dwelling number
+6       pern                                    Number of persons in household
+7       fbig Dwelling created by splitting apart a large dwelling or household
+8     region                                                            Region
+9      urban                                                         Area type
+10    hhtype                                             Household composition
+11    dwtype                                             Type of accommodation
+12   bltyear                                           Year dwelling was built
+13   ownrshp                                               Nature of occupancy
+14   heating                                                   Central heating
+15    watsup                                        Type of piped water supply
+16    sewage                                                 Sewerage facility
+17      cars                                  Number of cars or vans available
+18  internet                                           Type of internet access
+19        pc                                                Household has a PC
+20     rooms                                         Number of rooms available
+21    pernum                                                     Person number
+22     wtper                                                     Person weight
+23  resident                               Residence status: de facto, de jure
+24    pernum                                  Person number (within household)
+25     ptype                                                     Absent person
+26  usualres                                              Usual residence flag
+27   famtype                                                       Family type
+28    relate                                  Relationship to reference person
+29       sex                                                               Sex
+30     marst                                                    Marital status
+31       bpl                                        Region or country of birth
+32   bplstat                                             Place of birth (flag)
+33    resnow                              Region or country of usual residence
+34  resyrago                         Region or country of residence 1 year ago
+35   yrimmig                               Year taking up residency in Ireland
+36  prevctry                                Country of last previous residence
+37  spkirish                                            Ability to speak Irish
+38   irishfq                                       Frequency of speaking Irish
+39   leveduc                              Highest level of education completed
+40     field                                                    Field of study
+41   edcease                                              Age education ceased
+42   empstat                                                 Employment status
+43   classwk                                                   Class of worker
+44       ind                                                          Industry
+45   socecon                                        Socio-economic group (SEG)
+46  socclass                                                      Social class
+47    nation                                                       Nationality
+48     relig                                                          Religion
+49     disab                                                        Disability
+50    health                                                    General health
+51     carer                                                      Unpaid carer
+52    ethnic                                                         Ethnicity
+53  langhome                                          Foreign language at home
+54    englev                                                  Level of English
+55   langfor                                           Foreign language spoken
+56    chborn                                     Number of children born alive
+57  trantime                          Journey time to work, school, or college
+58   departs                       Time left home for work, school, or college
+59   meantrv                            Means of travel to work/school/college
+60  dissight                                                 Visual disability
+61   dishear                                                Hearing disability
+62   disphys                                               Physical disability
+63   dismntl                                           Intellectual disability
+64  dislearn                                               Learning disability
+65 disspsych                                          Psychological disability
+66  disother                                                  Other disability
+67 diffdress                                               Difficulty dressing
+68   diffout                                          Difficulty going outside
+69   diffwrk                                            Difficulty doing a job
+70 diffother                                                  Other difficulty
+71       age                                                               Age
+72       occ                                             Occupation (shuffled)

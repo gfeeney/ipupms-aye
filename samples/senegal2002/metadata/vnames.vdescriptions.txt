@@ -1,0 +1,114 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      dwnum                                                   Dwelling number
+6       pern                                    Number of persons in household
+7       fbig Dwelling created by splitting apart a large dwelling or household
+8     region                                                            Region
+9       dept                                                        Department
+10     urban                                                             Urban
+11    dwtype                                             Type of dwelling unit
+12       e02                                            Number of living rooms
+13     owner                                                  Ownership status
+14    toilet                                           Type of toilet facility
+15    watsrc                                                   Source of water
+16     light                                             Main type of lighting
+17    fuelck                                     Main type of fuel for cooking
+18      wall                                                      Type of wall
+19      roof                                                      Type of roof
+20     floor                                                      Type offloor
+21     radio                                                             Radio
+22        tv                                                        Television
+23       vcr                                                  VCR / DVD player
+24    refrig                                            Refrigerator / freezer
+25     phone                                                         Telephone
+26    cooker                                                 Gas cooker / oven
+27     stove                                                    Improved stove
+28   aircond                                                   Air conditioner
+29   sewmach                                                    Sewing machine
+30    noamen                                                      No amenities
+31       car                                                               Car
+32   motorcy                                       Motorcycle / scooter/ moped
+33      bike                                                           Bicycle
+34      cart                                     Cart / barouche for transport
+35      boat                          Pirogue / traditional boat for transport
+36    notran                                                 No transportation
+37      hoem                                              Hoe / plough / sower
+38     cartm                             Cart / barouche (means of production)
+39     animm                Draft animals (horses, oxen) (means of production)
+40    tractm                                     Tractor (means of production)
+41      carm                                 Car / truck (means of production)
+42  motorcym                 Motorcycle / scooter/ moped (means of production)
+43     boatm                   Pirogue / traditional boat(means of production)
+44   refrigm                      Refrigerator / freezer (means of production)
+45  sewmachm                              Sewing machine (means of production)
+46    musicm                            Music instrument (means of production)
+47   stoolsm                        Stools, canvas cover (means of production)
+48    phonem                     Telephone / fax machine (means of production)
+49     copym                           Photocopy machine (means of production)
+50  computrm                                    Computer (means of production)
+51     millm                     Mill / shelling machine (means of production)
+52   cameram                    Photo camera / camcorder (means of production)
+53     landm                       Land patch / building (means of production)
+54   nomeans                                            No means of production
+55   garbage                       Main mode of disposal for household garbage
+56    sewage                            Main mode of disposal for sewage water
+57    mealsk                                                      Meal skipped
+58   healthc                                                        Healthcare
+59      mign                                       Number of migration records
+60     mortn                                       Number of mortality records
+61    pernum                                                     Person number
+62     wtper                                                     Person weight
+63  resident                               Residence status: de facto, de jure
+64    pernum                                  Person number (within household)
+65    relate                                              Relationship to head
+66       sex                                                               Sex
+67       age                                                               Age
+68    bplreg                                                   Region of birth
+69    bpldep                                               Department of birth
+70   resstat                                                  Residence status
+71     respr                                   Region of residence 5 years ago
+72     respa                                 District of residence 5 years ago
+73    ethnic                                       Ethnic group or nationality
+74     lang1                                             First language spoken
+75     lang2                                            Second language spoken
+76   disnone                                 Absence of disability or handicap
+77    disbli                                                         Blindness
+78   disdeaf                                                          Deafness
+79   dismute                                                          Muteness
+80    dislow                                     Disability in the lower limbs
+81     disup                                     Disability in the upper limbs
+82    dismen                                                 Mental deficiency
+83    disalb                                                           Albinos
+84    dislep                                          Leper (with mutilations)
+85    disoth                                      Other disability or handicap
+86     schno                                              Never been to school
+87     schfr                                        Ever been to French school
+88   schfrar                                 Ever been to Franco-Arabic school
+89     schar                                        Ever been to Arabic school
+90     schko                                       Ever been to Koranic school
+91    schoth                                 Ever been to other type of school
+92     edlev                                                Level of education
+93       lit                                                          Literacy
+94     litfr                                          Reads / writes in French
+95     litar                                          Reads / writes in Arabic
+96     litpu                                          Reads / writes in Pulaar
+97     litse                                          Reads / writes in Sereer
+98     litma                                        Reads / writes in Mandinka
+99     litdi                                           Reads / writes in Diola
+100    litso                                         Reads / writes in Soninke
+101   litoth                                 Reads / writes in other languages
+102  empstat                           Employment status in the last 12 months
+103     occ3                                              Occupation, 3 digits
+104  classwk                                                       Work status
+105    marst                                                    Marital status
+106  chbornm                                 Number of male children ever born
+107  chbornf                               Number of female children ever born
+108  chsurvm                                 Number of male children surviving
+109  chsurvf                               Number of female children surviving
+110  bthlyrm                Number of male children born in the past 12 months
+111  bthlyrf              Number of female children born in the past 12 months
+112  birthyr                                                     Year of birth
+113   edlevg                                      Level of education (grouped)

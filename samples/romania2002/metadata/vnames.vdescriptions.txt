@@ -1,0 +1,126 @@
+       vname                                                                     vdescription
+1      cntry                                                                          Country
+2       year                                                                             Year
+3     sample                                                          IPUMS sample identifier
+4     serial                                                          Household serial number
+5      dwnum                                                                  Dwelling number
+6       pern                                                   Number of persons in household
+7      urban                                                                      Urban-rural
+8     region                                                                           Region
+9     county                                                                           County
+10    hhnumo                                    Order number of the household in the dwelling
+11    desigb                                                      Designation of the building
+12   yrconst                                                    Year of building construction
+13     walls                                                          Material of outer walls
+14   bldtype                                                                 Type of building
+15   roomsbb     Number of rooms used only for business and professional purposes in building
+16  livareab                                                          Living area in building
+17  busareab Floor area of rooms in building used only for business and professional purposes
+18    dwnocc                                         Number of occupied dwellings in building
+19   unconvb                             Number of non-conventional housing units in building
+20  dwnbspsb Number of permanent and seasonal dwellings with rooms used only for business and
+21  dwnbspsb Number of permanent and seasonal dwellings with rooms used only for business and
+22   ownerps                            Type of ownership, conventional dwellings in building
+23    ownerb                                     Type of ownership, all dwellings in building
+24    waterb                                                    Water supply system, building
+25   hotwatb                                                Hot water supply system, building
+26    sewerb                                                    Sewage installation, building
+27    electb                                                  Electric installation, building
+28      gasb                                          Piped gas from public network, building
+29     heatb                                                        Thermal heating, building
+30      util                                                    Installed utilities, building
+31     occup                                                                 Occupancy status
+32   tenureb                                Tenure status of building by status of households
+33     dwtyb                                                    Type of dwellings in building
+34    bldage                                                                  Age of building
+35      hhno                                      Number of the household within the dwelling
+36    dwtype                                                                 Type of dwelling
+37    occupd                                                     Occupancy status of dwelling
+38   owntype                                                    Type of ownership of dwelling
+39     rooms                                             Number of occupied rooms in dwelling
+40   livarea                                                          Living area in dwelling
+41  roomsbus      Number of rooms designated for professional/commercial purposes in dwelling
+42   busarea  Floor area of rooms designated for professional/commercial purposes in dwelling
+43     kitch                                                              Location of kitchen
+44   kitarea                                                            Floor area of kitchen
+45  bathroom                                                             Location of bathroom
+46    toilet                                                         Location of flush toilet
+47     water                                                              Water supply system
+48    hotwat                                                    Hot water supply installation
+49    sewage                                              Sewage installation in the dwelling
+50     elect                                                          Electrical installation
+51  fuelcook                                                                     Cooking fuel
+52      heat                                                             Main type of heating
+53    aircon                                                    Dwelling has air conditioning
+54    perndo                                                        Total persons in dwelling
+55   tenured                         Tenure status of dwelling by tenure status of households
+56    rooms2                                             Rooms in dwelling, including kitchen
+57  livarea2                                       Living area of dwelling, including kitchen
+58   hhtyped                                                  Type of households in dwellings
+59   hhtyped                                                  Type of households in dwellings
+60     famnd                                              Number of family nuclei in dwelling
+61    pernho                                             Total number of persons in household
+62     emphh                                          Number of employed persons in household
+63  activehh                               Number of economically active persons in household
+64  dependhh                                         Number of supported persons in household
+65  dependch                                   Number of supported children in family nucleus
+66  childnuc                                             Number of children in family nucleus
+67    empshh                                                 Number of employees in household
+68     gener                                      Number and type of generations in household
+69   famnuch                                             Number of family nuclei in household
+70   relateh                                                Relationship of household members
+71    hhtype                                                                Type of household
+72    pernum                                                                    Person number
+73     wtper                                                                    Person weight
+74    pernum                                                 Person number (within household)
+75   pernumo                                      Order number of the person in the household
+76    relate                                               Relationship to the household head
+77    poploc                                                      Person number of the father
+78    momloc                                                      Person number of the mother
+79     sploc                                           Person number of the spouse/cohabitant
+80    absent                                                   Situation at the census moment
+81    absdur                                                              Duration of absence
+82    abswhy                                                               Reason for absence
+83     moved                                    Person permanently moved from legal residence
+84   prevres                                          County or country of previous residence
+85     resyr                                      Year of establishing actual legal residence
+86       bpl                                                       County or country of birth
+87      bpl2                                                 Place of birth in other locality
+88       sex                                                                              Sex
+89   birthyr                                                                    Year of birth
+90   birthmo                                                                   Month of birth
+91     marst                                                                   Marital status
+92  marstdef                              De facto marital status, living in consensual union
+93    marryr                                                           Year of first marriage
+94    chborn                                                    Number of children born alive
+95     citiz                                                                      Citizenship
+96    citiz2                                                               Second citizenship
+97    ethnic                                                                        Ethnicity
+98      lang                                                                    Mother tongue
+99     relig                                                                         Religion
+100 edattain                                             Highest level of schooling completed
+101 schtype1                               Type of  ownership of the highest graduated school
+102 edattend                                Name and type of educational institution attended
+103 schtype2                        Type of ownership of the educational institution attended
+104  empstat                                              Employment status in week of census
+105  hrswork Number of hours worked on current activity during the reference period (March 11
+106     occ1                                                              Occupation, 1 digit
+107     occ2                                                             Occupation, 2 digits
+108     occ3                                                             Occupation, 3 digits
+109     occ4                                                             Occupation, 4 digits
+110  classwk                                                                  Class of worker
+111      ind                                                                         Industry
+112    wkloc                                                    Location of the working place
+113    wkown                                             Ownership structure of working place
+114 durunemp                                                         Duration of unemployment
+115 benunemp                                             Benefits related to being unemployed
+116  empyear                                         Employment status most of preceding year
+117 empstatu                                        Usual employment status in preceding year
+118 classwku                                      Usual class of worker during preceding year
+119   tenure                                     Tenure status of the households in dwellings
+120     rent                                                                     Monthly rent
+121      age                                                                              Age
+122  relatef                                               Relationship with the nucleus head
+123   famnum                                                     Number of the family nucleus
+124  famtype                                                       Type of the family nucleus
+125  reslegc                                                        County of legal residence

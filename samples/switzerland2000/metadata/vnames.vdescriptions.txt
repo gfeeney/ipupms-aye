@@ -1,0 +1,91 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5       pern                                    Number of persons in household
+6       fbig Dwelling created by splitting apart a large dwelling or household
+7    fbig_nd           Number of persons in large dwelling before it was split
+8    fbig_nh          Number of persons in large household before it was split
+9     canton                                         Canton of usual residence
+10    hhtype                                                 Type of household
+11  categbld                                              Category of building
+12  typebldg                                                  Type of building
+13   yrbuilt                                          Year structure was built
+14    floors                         Number of floors (including ground floor)
+15   ownbldg                                      Type of ownership (building)
+16   heating                                                   Type of heating
+17  hotwater                                                         Hot water
+18  fuelheat                                           Energy used for heating
+19  fuelwatr                                         Energy used for hot water
+20  dwellbld                             Total number of dwellings in building
+21  permdwls              Number of permanently occupied dwellings in building
+22  tempdwls              Number of temporarily occupied dwellings in building
+23   vacdwls                   Number of vacant or empty dwellings in building
+24     rooms                                                   Number of rooms
+25  roomscon                                         Number of connected rooms
+26      area                               Area (in square meters) of dwelling
+27   kitchen                                            Kitchen or kitchenette
+28 occstatus                                      Occupancy status of dwelling
+29      rent                                        Net rent (in Swiss Francs)
+30    pernum                                                     Person number
+31     wtper                                                     Person weight
+32    pernum                                  Person number (within household)
+33  labforce                                               Labour force status
+34    nation                                            Country of citizenship
+35    res5yr                    Place of residence 5 years prior to the census
+36       bpl                                                    Place of birth
+37     citiz                                                       Citizenship
+38  placwork                                         Location of place of work
+39  placeduc                                    Location of place of education
+40       age                                                               Age
+41       sex                                                               Sex
+42     marst                                                    Marital status
+43     relig                                                          Religion
+44   mtongue                                                     Mother tongue
+45      head                                         Reference personor spouse
+46    relate                                   Household status (relationship)
+47    edprof                Profession studied, highest qualification obtained
+48       occ                                                Present occupation
+49     isco3                           Present occupation (ISCO-COM), 3 digits
+50     isco4                                     Present occupation (ISCO-COM)
+51   classwk                                  Position in principal employment
+52   hrswork                                               Time worked (hours)
+53       ind                            Branch of economic activity (industry)
+54   bustype                                   Judicial form of the enterprise
+55   socecon                               Socio-economic status in employment
+56  worktime                         Time to commute (travel duration) to work
+57  wrktrips                        Round trips (how often) to commute to work
+58  wtravmod                          Means of transport (travel mode) to work
+59  schltime                       Time to commute (travel duration) to school
+60  schtrips                      Round trips (how often) to commute to school
+61  stravmod                        Means of transport (travel mode) to school
+62    edatt1         Highest level of educational attainment (original values)
+63    edatt2        Highest level of educational attainment (corrected values)
+64   yrmarst                         Year of the last change in marital status
+65   yrcitiz                          Year of acquisition of Swiss citizenship
+66   nation2                                                Second nationality
+67  respermt                                          Type of residence permit
+68   parents                                                           Parents
+69    nchild                                                Number of children
+70  yrbirth1                                  Year of birth of the first child
+71  yrbirth2                                 Year of birth of the second child
+72  yrbirth3                                  Year of birth of the third child
+73  yrbirth4                                 Year of birth of the fourth child
+74  yrlstbth                                   Year of birth of the last child
+75  yrbthyng                               Year of birth of the youngest child
+76  langhmwk                               Spoken language at home and at work
+77  langhome                                           Spoken language at home
+78  langwksc                                 Spoken language at work/at school
+79  edattend                                         Current educational level
+80   empstat                                                 Employment status
+81  multactv                                          Multiple activity status
+82  homecare                               Housework and caring for the family
+83  voluntry                                                    Voluntary work
+84   hrsfull                            Number of weekly hours: full-time work
+85   hrspart                            Number of weekly hours: part-time work
+86   hrseduc                                 Number of weekly hours: education
+87  hrshomwk       Number of weekly hours: housework and caring for the family
+88  hrsvolun                            Number of weekly hours: voluntary work
+89  commwork                                                   Commute to work
+90  commschl                                                 Commute to school

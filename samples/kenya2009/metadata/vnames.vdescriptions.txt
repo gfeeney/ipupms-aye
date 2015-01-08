@@ -1,0 +1,99 @@
+      vname                                                      vdescription
+1     cntry                                                           Country
+2      year                                                              Year
+3    sample                                           IPUMS sample identifier
+4    serial                                           Household serial number
+5     dwnum                                                   Dwelling number
+6      pern                                    Number of persons in household
+7      fbig Dwelling created by splitting apart a large dwelling or household
+8      prov                                Province where houshold is located
+9      dist                                District where houshold is located
+10    urban                                                             Urban
+11 areastat                                           Enumeration area status
+12  constit                            Constituency where houshold is located
+13   hhtype                                                    Household Type
+14   county                                                            County
+15  bthyrhh                                   Number of births last 12 months
+16  dthyrhh                                   Number of deaths last 12 months
+17 excattle                    Number of exotic cattle owned by the household
+18 idcattle                Number of indigenous cattle owned by the household
+19    sheep                            Number of sheep owned by the household
+20    goats                            Number of goats owned by the household
+21   camels                           Number of camels owned by the household
+22  donkeys                          Number of donkeys owned by the household
+23     pigs                             Number of pigs owned by the household
+24 idchickn              Number of indigenous chickens owned by the household
+25  comchkn               Number of commercialchickens owned by the household
+26 beehives                        Number of bee hives owned by the household
+27  othanim                    Number of other animals owned by the household
+28  dwunits                Number of dwelling units occupied by the household
+29    rooms                         Number of habitable rooms in the dwelling
+30   tenure                                                     Tenure status
+31     roof                                               Main roof materials
+32    walls                                               Main wall materials
+33    floor                                              Main floor materials
+34   watsrc                                              Main source of water
+35    sewer                                 Main type of human waste disposal
+36   fuelck                                                      Cooking fuel
+37    light                                                     Lighting fuel
+38    radio                                                             Radio
+39       tv                                                        Television
+40 cellphon                                                      Mobile phone
+41    phone                                                Landline telephone
+42  computr                                                          Computer
+43     bike                                                           Bicycle
+44 motorcyc                                                        Motorcycle
+45     auto                                                               Car
+46    truck                                           Truck/Lorry/Tractor/Bus
+47   fridge                                                      Refrigerator
+48     boat                                                              Boat
+49     cart                                                 Animal drawn cart
+50    canoe                                                            Canoes
+51   tuktuk                                                           Tuk tuk
+52 emig15yr                                    Number of emigrants since 1995
+53   pernum                                                     Person number
+54    wtper                                                     Person weight
+55   pernum                                  Person number (within household)
+56   relate                                 Relationship to head of household
+57      sex                                                               Sex
+58      age                                                      Age in years
+59   momloc                                             Line number of mother
+60 memberhh                                         Usual member of household
+61    marst                                                    Marital status
+62  prevres                     Country or district of residence one year ago
+63 resdurmo                       Month when person moved to current district
+64 resduryr                        Year when person moved to current district
+65 mortfath                                                      Father alive
+66 mortmoth                                                      Mother alive
+67  chbornm                                         Number of boys born alive
+68  chbornf                                        Number of girls born alive
+69  homechm                     Number of boys born alive living in household
+70  homechf                    Number of girls born alive living in household
+71  chawaym                        Number of boys born alive living elsewhere
+72  chawayf                        Number of girls born alive livingelsewhere
+73  chdeadm                           Number of boys born alive who have died
+74  chdeadf                          Number of girls born alive who have died
+75   lbchmo                       Month of birth of the last child born alive
+76   lbchyr                        Year of birth of the last child born alive
+77  lbnotif                                               Last birth notified
+78  lbchsex                                                 Sex of last child
+79 lbchlive                                          Last child born is alive
+80   disab1                                                      Disability 1
+81   disab2                                                      Disability 2
+82   disab3                                                      Disability 3
+83  wkdisab                              Difficulty working due to disability
+84   school                                          School enrollment status
+85  edlevel                                           Highest education level
+86  edattan                                 Highest education level completed
+87  empstat                              Economic activity in the last 7 days
+88  empsect                                                     Main employer
+89  hrswkwk                                   Hours worked in the last 7 days
+90 radiosvc                                                     Radio service
+91    tvsvc                                                        TV service
+92 cellphsv                                              Mobile phone service
+93 phonesvc                                        Landline telephone service
+94  cptrsvc                                                  Computer service
+95   webloc                                            Main internet location
+96  flagp12                                              Imputation flag: age
+97  flagp39                                           Imputation flag: school
+98 flagfert                                        Imputation flag: fertility

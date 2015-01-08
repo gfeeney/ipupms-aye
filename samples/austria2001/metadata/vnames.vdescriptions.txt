@@ -1,0 +1,98 @@
+      vname                                                       vdescription
+1     cntry                                                            Country
+2      year                                                               Year
+3    sample                                            IPUMS sample identifier
+4    serial                                            Household serial number
+5     dwnum                                                    Dwelling number
+6      pern                                     Number of persons in household
+7      fbig  Dwelling created by splitting apart a large dwelling or household
+8   donated                                                   Donated dwelling
+9     d_num                                     Donation strata: strata number
+10   region                                        Region of residence (NUTS3)
+11    hhty1                                         Type and size of household
+12    hhty2                                                  Type of household
+13    hhty3                                                Type of household 3
+14    hhty4                      Type of household and number of family nuclei
+15    hhty5                                                Type of household 5
+16    hhty6                                                Type of household 6
+17    hhty7                                                Type of household 7
+18  pernsup                                        Number of persons supported
+19  hdcohab                    Cohabitation status of household representative
+20  tenure1                                                Tenure of dwellings
+21   perndo                                                 Number of dwellers
+22  roomdw1                                        Number of rooms in dwelling
+23   space1                  Useful floor space of dwelling (in square meters)
+24   watsup                               Water connection within the dwelling
+25   toilet                                Toilet facility inside the dwelling
+26    facil                                     Equipment standard of dwelling
+27     heat                                        Heating, predominant system
+28   fuelht                                Fuel for heating of dwelling (1991)
+29    story                                                        Floor level
+30   owner1                                                  Owner of building
+31   conyr1                                                Construction period
+32     dwn1                                Number of dwellings in the building
+33   pernum                                                      Person number
+34    wtper                                                      Person weight
+35   pernum                                   Person number (within household)
+36   famnum                                                      Family number
+37    biryr                                                      Year of birth
+38      age                                                                Age
+39      sex                                                                Sex
+40    marst                                                     Marital status
+41    cohab                                                Cohabitation status
+42    citiz                                                        Citizenship
+43     bplc                                                   Country of birth
+44   religd                                               Religion -- detailed
+45 edattan1                               Level of highest education completed
+46 edattan3                             Highest education completed (ISCED-97)
+47   edfldd             Major field of highest education completed -- detailed
+48   school                                                 Enrolled in school
+49   schtyd                   Type of school currently enrolled in -- detailed
+50    empst                              Activity status (labor force concept)
+51      emp               Whether employed or unemployed (labor force concept)
+52    ecact           Whether economically active or not (labor force concept)
+53   empstl                               Activity status (livelihood concept)
+54     empl                Whether employed or unemployed (livelihood concept)
+55   ecactl            Whether economically active or not (livelihood concept)
+56    clwk1                                Status in employment (of supporter)
+57    clwk3                              Status in employment 2 (of supporter)
+58   socec1                                Socio-economic group (of supporter)
+59    occiu                          Occupation of supporter: ISCO unit groups
+60   occimi                         Occupation of supporter: ISCO minor groups
+61   occism                     Occupation of supporter: ISCO sub-major groups
+62    occim                         Occupation of supporter: ISCO major groups
+63    occsm                          Occupation of supporter: sub-major groups
+64     occm                              Occupation of supporter: major groups
+65     indg                        Economic activity of supporter: ONACE group
+66     indm                  Economic activity of supporter: ONACE major group
+67     inds                      Economic activity of supporter: ONACE section
+68    indse                             Economic activity of supporter: sector
+69    indbr                             Economic activity of supporter: branch
+70    inddi                           Economic activity of supporter: division
+71    wkplr               Region of place of work or school enrollment (NUTS3)
+72   wkplc1                      Country of place of work or school enrollment
+73  commut1                                                  Type of commuters
+74  commut2           Commuting: location of residence and workplace or school
+75  commut3 Commuting: location of residence and workplace or school (general)
+76  commut4                                                Commuting frequency
+77  commut5                                    Time for journey to work/school
+78  commut6                             Means of transport for (daily) commute
+79  relate2                                                   Household status
+80   relate                Status in private household, or type of institution
+81  hhstat4   Status in private household, or type of institution (EU version)
+82   famst1                                                      Family status
+83   famst2                                   Whether child of a family or not
+84   famst3                                                      Family status
+85     nch1                                      Number of children per family
+86     nch6                    Number of children under 6 years old per family
+87    nch15                   Number of children under 15 years old per family
+88    nch18                   Number of children under 18 years old per family
+89    nch25                   Number of children under 25 years old per family
+90   famty1                                             Type of family nucleus
+91   famty2                                             Type of family nucleus
+92   famty3                                             Type of family nucleus
+93  chborn1                                       Number of live-born children
+94   maryr1                                                   Year of marriage
+95   mardur                                      Duration of marriage in years
+96   marage                                                    Age at marriage
+97   hhty6p                                                  Type of household

@@ -1,0 +1,92 @@
+      vname                                                        vdescription
+1     cntry                                                             Country
+2      year                                                                Year
+3    sample                                             IPUMS sample identifier
+4    serial                                             Household serial number
+5     dwnum                                                     Dwelling number
+6      pern                                      Number of persons in household
+7      fbig   Dwelling created by splitting apart a large dwelling or household
+8    region                                                              Region
+9  district                                                            District
+10  distype                                                       District type
+11  restype                                                   Type of residence
+12  emig6mo           Former household members 15+ living outside for 6+ months
+13   deaths                                    Any deaths in the past 12 months
+14    phone                                                    Fixed phone line
+15  computr                                          Desktop or laptop computer
+16   agcrop                                                        Crop farming
+17   agtree                                                        Tree growing
+18 aglivest                                                   Livestock raising
+19   agfish                                                             Fishing
+20   agmale   Number of male household members engaged in agricultural activity
+21 agfemale Number of female household members engaged in agricultural activity
+22   dwtype                                                    Type of dwelling
+23     wall                                   Main material used for outer wall
+24    floor                            Main material used for floor of dwelling
+25     roof                                         Main material used for roof
+26  tenancy                              Present holding or tenancy arrangement
+27 ownershp                                                  Dwelling ownership
+28    rooms                                    Number of rooms in the household
+29 bedrooms                                                            Bedrooms
+30 bedshare                                               Sharing sleeping room
+31 bedrmnhh                        Number of households sharing a sleeping room
+32    light                                             Main source of lighting
+33 watdrink                                       Main source of drinking water
+34   watsrc                          Main source of water for domestic purposes
+35   fuelck                                         Main source of cooking fuel
+36 cookspac                                                       Cooking space
+37   bathrm                                                             Bathing
+38   toilet                                                              Toilet
+39 toilshar                                Sharing toilet with other households
+40 toiltnhh                          Number of households using toilet facility
+41    trash                                          Method of rubbish disposal
+42    sewer                                     Method of liquid waste disposal
+43    urban                                                               Urban
+44   houses                                                      Unit structure
+45  aghouse                                              Agricultural household
+46  famtype                                                         Family type
+47   famnuc                                                      Family nucleus
+48    sexhd                                               Sex of household head
+49    agehd                                               Age of household head
+50   agpopn        Number of household members engaged in agricultural activity
+51   pernum                                                       Person number
+52    wtper                                                       Person weight
+53   relate                                                        Relationship
+54      sex                                                                 Sex
+55      age                                                                 Age
+56   nation                                                         Nationality
+57   ethnic                                                           Ethnicity
+58  bplhere                                       Birth in place of enumeration
+59      bpl                                          Region or country of birth
+60 sincebth                          Living in place of enumeration since birth
+61  yrshere                       Number of years lived at place of enumeration
+62    relig                                               Religious affiliation
+63    marst                                                      Marital status
+64      lit                                                            Literacy
+65   school                                                   School attendance
+66  edlevel                       Highest level of school attended or attending
+67  edattan                       Highest educational level and grade completed
+68  empstat                              Worked for pay, profit, or family gain
+69 activity                                    Activity status (if not working)
+70  whynowk                                         Reason for not seeking work
+71      occ                                           Occupation (major groups)
+72      ind                                             Industry (major groups)
+73  classwk                                                     Class of worker
+74  empsect                                                   Employment sector
+75 dissight                                                    Sight disability
+76  dishear                                                  Hearing disability
+77  dismute                                                   Speech disability
+78  disphys                                                 Physical disability
+79   disdev                                             Intellectual disability
+80  disemot                                                Emotional disability
+81 cellphon                                                        Mobile phone
+82 internet                                                            Internet
+83  chbornm                                             Male children ever born
+84  chbornf                                           Female children ever born
+85  chsurvm                                             Male children surviving
+86  chsurvf                                           Female children surviving
+87 birth12f                                 Female births in the last 12 months
+88   chborn                                                  Children ever born
+89   chsurv                                                  Children surviving
+90 bthlstyr                                                    Births last year
+91  econact                                                   Economic activity

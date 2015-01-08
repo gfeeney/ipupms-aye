@@ -1,0 +1,77 @@
+      vname                                                      vdescription
+1     cntry                                                           Country
+2      year                                                              Year
+3    sample                                           IPUMS sample identifier
+4    serial                                           Household serial number
+5     dwnum                                                   Dwelling number
+6      pern                                    Number of persons in household
+7      fbig Dwelling created by splitting apart a large dwelling or household
+8      prov                                                          Province
+9      town                                               District / Township
+10    urban                                                       Urban/rural
+11   dwtype                                                    Household type
+12   resabm                                   Number of absent male residents
+13   resabf                                 Number of absent female residents
+14    resab                                        Number of absent residents
+15   settty                                                Type of settlement
+16  dwtype2                          Type of dwelling unit / type of building
+17     roof                                                Main roof material
+18    walls                                               Main walls material
+19    floor                                               Main floor material
+20    rooms                                                   Number of rooms
+21   watsrc                                                   Source of water
+22    light                                                  Type of lighting
+23   fuelck                                                      Cooking fuel
+24   toilet                                           Type of toilet facility
+25  garbage                                          Type of garbage disposal
+26   tenure                                             Home ownership status
+27  radiotv                                       Ownership of a radio and TV
+28    phone                          Ownership of a fixed or mobile telephone
+29 computer                               Ownership of a computer or internet
+30  vehicle                                     Ownership of motor vehicle(s)
+31   motocy                                           Ownership of motorcycle
+32     bike                                              Ownership of bicycle
+33   dead12                                       Any death in past 12 months
+34  dead12n                          Total number of deaths in past 12 months
+35       gq                                            Main type of household
+36   gqtype                                   Type of institutional household
+37 dead12nr                         Number of mortality records in input data
+38   pernum                                                     Person number
+39    wtper                                                     Person weight
+40 resident                               Residence status: de facto, de jure
+41   pernum                                  Person number (within household)
+42   relate                                    Relationship to household head
+43    resid                                                  Residence status
+44      sex                                                               Sex
+45    birmo                                                    Month of birth
+46    biryr                                                     Year of birth
+47      age                                                               Age
+48   nation                                Nationality/country of citizenship
+49      bpl                                Country of birth/district of birth
+50   resdur                                             Duration of residence
+51  resprev                         Country or district of previous residence
+52     lang                                                   Language spoken
+53    relig                                                          Religion
+54    disab                                       Major handicap / disability
+55 discause                               Cause of the handicap or disability
+56  parlive                                               Survival of parents
+57   school                                                 School attendance
+58    edlev                                                Level of education
+59  edfield                                    Field of education or training
+60   degree                                          Highest diploma received
+61      lit                                                          Literacy
+62  empstat                Employment status (situation in economic activity)
+63      occ                                                        Occupation
+64  classwk                                                       Work status
+65      ind                                                          Industry
+66 econsect                                       Sector of economic activity
+67    marst                                                    Marital status
+68  chbornm                                     Male children ever born alive
+69  chbornf                                   Female children ever born alive
+70  chlivem                                         Male children still alive
+71  chlivef                                       Female children still alive
+72   chb12m                          Male children born in the past 12 months
+73   chb12f                        Female children born in the past 12 months
+74   chl12m              Male children born in the past 12 months still alive
+75   chl12f            Female children born in the past 12 months still alive
+76  visitor                                   Residence status (large groups)

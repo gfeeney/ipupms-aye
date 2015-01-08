@@ -1,0 +1,110 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      dwnum                                                   Dwelling number
+6      hhnum                                Household number (within dwelling)
+7        hhn                                  Number of households in dwelling
+8      pernd                                     Number of persons in dwelling
+9       pern                                    Number of persons in household
+10      fbig Dwelling created by splitting apart a large dwelling or household
+11     state                                                             State
+12     urban                                               Urban or rural area
+13    dwtype                                                  Type of dwelling
+14     occup                                  Occupancy status of the dwelling
+15      wall                        Predominant construction material of walls
+16      roof                      Predominant construction material of roof(s)
+17     floor                       Predominant construction material of floors
+18     kitch                                               Location of kitchen
+19    fuelck                                             Fuel used for cooking
+20    watsup                                                      Water supply
+21    roomsh                      Number of rooms with showers in the dwelling
+22     sewer                                              Removal of excretion
+23     phone                                              Telephone (landline)
+24   garbage                                                  Trash collection
+25     rooms                                   Number of rooms in the dwelling
+26     elect                                                Electrical service
+27     owner                                         Ownership of the dwelling
+28  rentmort                                 Monthly mortgage and rent payment
+29   roombed                                      Number of rooms for sleeping
+30  headcomp                                    Household head has a companion
+31   roomshh             Number of rooms with a tub or shower in the household
+32      bike                                                     Has a bicycle
+33   motorcy                                                  Has a motorcycle
+34       car                                                         Has a car
+35     vehic                                                  Have any vehicle
+36    vehicn                                                    Number of cars
+37    refrig                                                Has a refrigerator
+38   watfilt                                                Has a water filter
+39     radio                                                       Has a radio
+40        tv                                                  Has a television
+41    washer                                             Has a washing machine
+42     dryer                                                       Has a dryer
+43   watheat                                                Has a water heater
+44   aircond                                              Has air conditioning
+45    microw                                                   Has a microwave
+46      cell                                                  Has a cell phone
+47     cable                                              Has cable television
+48  computer                                                    Has a computer
+49  internet                                               Has internet access
+50    hhtype                                                 Type of household
+51     crowd                                                 Critical crowding
+52      dwok                                  Household in inadequate dwelling
+53    servok                                       Basic services in household
+54   econdep                                 Households by economic dependency
+55     needs                                 Number of unsatisfied basic needs
+56   poverty                                          Poverty according to NBI
+57    pernum                                                     Person number
+58     wtper                                                     Person weight
+59    pernum                                  Person number (within household)
+60    relate                                 Relationship to head of household
+61       sex                                                               Sex
+62   agetype                                                       Type of age
+63   ageyrmo                                          Age (in years or months)
+64       bpl                                         State or country of birth
+65   arrivyr                                        Year of arrival in country
+66    nation                                                       Nationality
+67     indig                                               Indigenous identity
+68   langind                                     Speaks an indigenous language
+69   disdeaf                                                Hearing disability
+70   disment                                                 Mental disability
+71    disarm                                  Disability in an upper extremity
+72    disleg                                   Disability in a lower extremity
+73    disoth                                                  Other disability
+74   disnone                                                     No disability
+75   wheelch                                                 Uses a wheelchair
+76    resprc                     State or country of residence in October 1996
+77       lit                                       Knows how to read and write
+78    school                                                 School attendance
+79  schoolty                                                    Type of school
+80     edlev                                                 Educational level
+81   edgrade                               Last grade or year passed/completed
+82   edattan                                        Educational level attained
+83    degree                                                   Degree obtained
+84   degreeg                                                   Graduate degree
+85     marst                                                    Marital status
+86   empstat                                                 Employment status
+87  workpaid                                   Carries out other paid activity
+88       occ                                                        Occupation
+89       ind                                                          Industry
+90   empsize                               Size of business where person works
+91   empsect                                                 Employment sector
+92   mercant                                               Mercantile registry
+93   classwk                                                   Class of worker
+94  occtrain                                             Occupational training
+95    wrkhrs                                                      Hours worked
+96       inc                                                      Labor income
+97    incinv                                 Income from rent or bank interest
+98    incpen                                              Income from pensions
+99    incret                                            Income from retirement
+100   incsch                              Income from public or private grants
+101  incunem                                            Unemployment insurance
+102  incfood                                                           Alimony
+103   incoth                                                      Other income
+104  incnone                                              Has non-labor income
+105   chborn                                     Number of children born alive
+106 lastbirm                           Month of birth of last child born alive
+107 lastbiry                            Year of birth of last child born alive
+108    chliv                                Number of children currently alive
+109      age                                          Age (in completed years)

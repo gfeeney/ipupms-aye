@@ -1,0 +1,232 @@
+        vname                                                                     vdescription
+1       cntry                                                                          Country
+2        year                                                                             Year
+3      sample                                                          IPUMS sample identifier
+4      serial                                                          Household serial number
+5     persons                                        Number of person records in the household
+6        wthh                                                                 Household weight
+7     subsamp                                                                 Subsample number
+8          gq                                                            Group quarters status
+9       unrel                                                      Number of unrelated persons
+10      urban                                                               Urban-rural status
+11    regionw                                                  Continent and region of country
+12    geolev1        1st subnational geographic level, world [consistent boundaries over time]
+13   geo1a_pa                      Province, Panama [Level 1; consistent boundaries over time]
+14   geo1b_pa          Province, Panama [Level 1; inconsistent boundaries, harmonized by name]
+15   geo2b_pa          District, Panama [Level 2; inconsistent boundaries, harmonized by name]
+16    ownrshp                                          Ownership of dwelling [general version]
+17   ownrshpd                                         Ownership of dwelling [detailed version]
+18    intmig1                                                 Number of international migrants
+19    electrc                                                                      Electricity
+20     watsup                                                                     Water supply
+21     sewage                                                                           Sewage
+22     fuelck                                                                     Cooking fuel
+23      phone                                                           Telephone availability
+24       cell                                                      Cellular phone availability
+25    intrnet                                                                  Internet access
+26      trash                                                                   Trash disposal
+27      autos                                                            Automobiles available
+28     aircon                                                                 Air conditioning
+29    computr                                                                         Computer
+30     washer                                                          Clothes washing machine
+31     refrig                                                                     Refrigerator
+32         tv                                                                   Television set
+33      radio                                                               Radio in household
+34      rooms                                                                  Number of rooms
+35     bedrms                                                               Number of bedrooms
+36     toilet                                                                           Toilet
+37      floor                                                                   Floor material
+38       wall                                                        Wall or building material
+39       roof                                                                    Roof material
+40      bltyr                                                         Year structure was built
+41     strag2                                           Age of structure, coded from intervals
+42     hhtype                                                         Household classification
+43      nfams                                                  Number of families in household
+44    ncoupls                                           Number of married couples in household
+45    nmothrs                                                   Number of mothers in household
+46    nfathrs                                                   Number of fathers in household
+47      dwnum                                                                  Dwelling number
+48      hhnum                                               Household number (within dwelling)
+49        hhn                                                 Number of households in dwelling
+50      pernd                                                    Number of persons in dwelling
+51       pern                                                   Number of persons in household
+52       prov                                              Province where household is located
+53       hhn2                                                                 Household number
+54     typedw                                                                 Type of dwelling
+55    occupdw                                                 Occupancy status of the dwelling
+56   ownershp                                                 Ownership status of the dwelling
+57    ownshp2                                         Other types of ownership of the dwelling
+58      hpaym                  Value of monthly rent or mortgage payment in Panamanian balboas
+59   constryr                                           Period of construction of the dwelling
+60      walls                                                              Main wall materials
+61       roof                                                              Main roof materials
+62     floors                                                             Main floor materials
+63      rooms                                                  Number of rooms in the dwelling
+64   bedrooms                                               Number of bedrooms in the dwelling
+65     watsup                                                           Source of water supply
+66    dwatdry                  Number of days per week with water supply during the dry season
+67    hwatdry                    Number of hours a day with water supply during the dry season
+68   hwatrain                  Number of hours a day with water supply during the rainy season
+69     toilet                                                        Type of toilet facilities
+70    sewage1                                                Place used to deposit human waste
+71    toilet2                                                         Use of toilet facilities
+72      light                                                                 Type of lighting
+73   lightpay                            Monthly payment for electricity in Panamanian balboas
+74      trash                                                  Main method of garbage disposal
+75     fuelck                                                                 Fuel for cooking
+76     econdw                                                Economic activity in the dwelling
+77     dw2use                                                           Use of second dwelling
+78     numhhs                                             Number of households in the dwelling
+79       isdw                                                    Dwelling counts as a dwelling
+80      incdw                                     Income of the dwelling in Panamanian balboas
+81       area                                           Area in which the household is located
+82    indarea                                   Is the dwelling located in an indigenous area?
+83      stove                                                                       Cook stove
+84     refrig                                                                     Refrigerator
+85     washer                                                                  Washing machine
+86    sewmach                                                                   Sewing machine
+87      phone                                                                Residential phone
+88      radio                                                                            Radio
+89     radion                                                    Number of radios in household
+90        fan                                                                     Electric fan
+91       fann                                             Number of electric fans in household
+92      celln                                               Number of cell phones in household
+93       auto                                                                       Automobile
+94      auton                                               Number of automobiles in household
+95         tv                                                                           TV set
+96        tvn                                                   Number of TV sets in household
+97      cable                                                                         Cable TV
+98     comput                                                                         Computer
+99    computn                                                 Number of computers in household
+100  internet                                                              Internet connection
+101    plants Does any person in this household have plants, fruit or timber trees, or pasture
+102  medplant Does any person in this household have medicinal or ornamental plants for commer
+103    cattle               Does any person in this household have cattle, pigs, horses, etc.?
+104   poultry Does any person in this household raise chickens, ducks, geese, turkeys, quails 
+105  migrants                  Household member left to live in another country in last decade
+106   mig1sex                                       Sex of first household member who migrated
+107   mig1age                                       Age of first household member at migration
+108    mig1yr                                 Year of migration for the first household member
+109  mig1ctry                             Country to which the first household member migrated
+110   mig3sex                                       Sex of third household member who migrated
+111     inchh                                           Household income in Panamanian balboas
+112    hhtype                                                                   Household type
+113     area2                                            Area in which the dwelling is located
+114    pernum                                                                    Person number
+115     wtper                                                                    Person weight
+116    momloc                                                   Mother's location in household
+117    poploc                                                   Father's location in household
+118     sploc                                                   Spouse's location in household
+119   parrule                                                          Rule for linking parent
+120    sprule                                                          Rule for linking spouse
+121   stepmom                                                              Probable stepmother
+122   steppop                                                              Probable stepfather
+123   polymal                                               Man with more than one wife linked
+124   poly2nd                                             Woman is second or higher order wife
+125   famsize                                        Number of own family members in household
+126    nchild                                              Number of own children in household
+127    nchlt5                                  Number of own children under age 5 in household
+128     eldch                                             Age of eldest own child in household
+129     yngch                                           Age of youngest own child in household
+130    relate                                 Relationship to household head [general version]
+131   related                                Relationship to household head [detailed version]
+132       age                                                                              Age
+133       sex                                                                              Sex
+134     marst                                                 Marital status [general version]
+135    marstd                                                Marital status [detailed version]
+136   consens                                                                 Consensual union
+137    chborn                                                               Children ever born
+138    chsurv                                                               Children surviving
+139   brthlyr                                                       Number of births last year
+140   bthsurv                                         Children surviving from births last year
+141   nativty                                                                  Nativity status
+142   yrsimm2                                              Years since immigrated, categorized
+143     indig                                                    Member of an indigenous group
+144    ethnpa                                          Ethnicity (indigenous group) for Panama
+145    school                                                                School attendance
+146       lit                                                                         Literacy
+147   edattan                   Educational attainment, international recode [general version]
+148  edattand                  Educational attainment, international recode [detailed version]
+149    yrschl                                                               Years of schooling
+150    educpa                                                   Educational attainment, Panama
+151   empstat                                              Employment status [general version]
+152  empstatd                                             Employment status [detailed version]
+153   occisco                                                         Occupation, ISCO general
+154       occ                                                            Occupation, unrecoded
+155    indgen                                                         Industry, general recode
+156       ind                                                              Industry, unrecoded
+157   classwk                                                Class of worker [general version]
+158  classwkd                                               Class of worker [detailed version]
+159   empsect                                                             Sector of employment
+160    inctot                                                                     Total income
+161   incearn                                                                    Earned income
+162   incwage                                                           Wage and salary income
+163   incself                                                           Self-employment income
+164    incwel                                     Income from anti-poverty or welfare programs
+165    incret                                                     Retirement or pension income
+166   mgratep                                             Migration status, previous residence
+167   mgctry1                                                    Country of previous residence
+168     migpa                                           District of previous residence, Panama
+169   disable                                                                Disability status
+170    disemp                                                            Employment disability
+171   disblnd                                                         Blind or vision-impaired
+172   disdeaf                                                         Deaf or hearing-impaired
+173   dismute                                                                             Mute
+174   disuppr                                           Disability affecting upper extremities
+175   dismntl                                                                Mental disability
+176   dispsyc                                                         Psychological disability
+177    pernum                                                 Person number (within household)
+178    relate                                                             Relationship to head
+179   relate2                                                          Other relatives of head
+180   nucleus                                                            Nuclear family number
+181       sex                                                                              Sex
+182       age                                                                     Age in years
+183    socsec                                                         Social security benefits
+184     marst                                                                   Marital status
+185  diffhear                                                               Difficulty hearing
+186   diffsee                                                                Difficulty seeing
+187  diffwalk                                                               Difficulty walking
+188  diffarms                                                   Difficulty using arms or hands
+189 diffspeak                                                              Difficulty speaking
+190 difflearn                                                              Difficulty learning
+191     disab                                                                       Disability
+192     indig                                                                 Indigenous group
+193     black                                                   Black of African-descent group
+194     black                                                   Black of African-descent group
+195       bpl                                                     Country or district of birth
+196     arrpa                                                      Period of arrival in Panama
+197  prvcntry                                        Country or district of previous residence
+198    school                                                                 Attending school
+199   edattan                                                Highest level of education passed
+200       lit                                                           Able to read and write
+201    degree                                                                  Degree obtained
+202    worked                                                                 Worked last week
+203     abswk              Do you have a job from which you were temporarily absent last week?
+204     wkpay                  Did you do any work for which you received any money last week?
+205  wklookwk                                                        Looked for work last week
+206  wklookmo                                                       Looked for work last month
+207    whynot                                                  Reason for not looking for work
+208       occ                                                             Occupation, 3 digits
+209       ind                                                      Economic activity, 4 digits
+210  contract                                                                    Contract type
+211  incbonus                           Income from thirteen month bonus in Panamanian balboas
+212    incind             Income for independent work of self-employment in Panamanian balboas
+213    incret                          Income from retirement or pension in Panamanian balboas
+214    incacc        Income from pension due to accident, sickness, etc. in Panamanian balboas
+215  incfoodp                                 Income from food allowance in Panamanian balboas
+216   incasst                                Income from cash assistance in Panamanian balboas
+217   incotha                    Income from other sources of assistance in Panamanian balboas
+218   asstoth                                       Description of other sources of assistance
+219   incrent             Income from rent, returns on investments, etc. in Panamanian balboas
+220    incsch                                   Income from scholarships in Panamanian balboas
+221     incag        Income from sale of agricultural goods or livestock in Panamanian balboas
+222    incoth                                               Other income in Panamanian balboas
+223    incyes                                                                       Has income
+224    chborn                                                    Number of children born alive
+225    chlive                                               Number of children currently alive
+226  chbornyr                                             Child born during the last 12 months
+227  chliveyr                      Is the child born during the last 12 month currently alive?
+228      incp                                                             Income of the person
+229     bplrc                                            Country or district of birth, recoded
+230  resdisrc                                         District of permanent residence, recoded
+231  prvdisrc                                Country or district of previous residence recoded

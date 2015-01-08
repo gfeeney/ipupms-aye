@@ -1,0 +1,3335 @@
+            vname     code                          short
+1           cntry       32                      Argentina
+2           cntry       51                        Armenia
+3           cntry       40                        Austria
+4           cntry       50                     Bangladesh
+5           cntry      112                        Belarus
+6           cntry       68                        Bolivia
+7           cntry       76                         Brazil
+8           cntry      854                   Burkina Faso
+9           cntry      116                       Cambodia
+10          cntry      120                       Cameroon
+11          cntry      124                         Canada
+12          cntry      152                          Chile
+13          cntry      156                          China
+14          cntry      170                       Colombia
+15          cntry      188                     Costa Rica
+16          cntry      192                           Cuba
+17          cntry      214             Dominican Republic
+18          cntry      218                        Ecuador
+19          cntry      818                          Egypt
+20          cntry      222                    El Salvador
+21          cntry      242                           Fiji
+22          cntry      250                         France
+23          cntry      276                        Germany
+24          cntry      288                          Ghana
+25          cntry      300                         Greece
+26          cntry      324                         Guinea
+27          cntry      332                          Haiti
+28          cntry      348                        Hungary
+29          cntry      356                          India
+30          cntry      360                      Indonesia
+31          cntry      364                           Iran
+32          cntry      368                           Iraq
+33          cntry      372                        Ireland
+34          cntry      376                         Israel
+35          cntry      380                          Italy
+36          cntry      388                        Jamaica
+37          cntry      400                         Jordan
+38          cntry      404                          Kenya
+39          cntry      417                Kyrgyz Republic
+40          cntry      430                        Liberia
+41          cntry      454                         Malawi
+42          cntry      458                       Malaysia
+43          cntry      466                           Mali
+44          cntry      484                         Mexico
+45          cntry      496                       Mongolia
+46          cntry      504                        Morocco
+47          cntry      524                          Nepal
+48          cntry      528                    Netherlands
+49          cntry      558                      Nicaragua
+50          cntry      566                        Nigeria
+51          cntry      586                       Pakistan
+52          cntry      275                      Palestine
+53          cntry      591                         Panama
+54          cntry      604                           Peru
+55          cntry      608                    Philippines
+56          cntry      620                       Portugal
+57          cntry      630                    Puerto Rico
+58          cntry      642                        Romania
+59          cntry      646                         Rwanda
+60          cntry      662                    Saint Lucia
+61          cntry      686                        Senegal
+62          cntry      694                   Sierra Leone
+63          cntry      705                       Slovenia
+64          cntry      710                   South Africa
+65          cntry      728                    South Sudan
+66          cntry      724                          Spain
+67          cntry      729                          Sudan
+68          cntry      756                    Switzerland
+69          cntry      834                       Tanzania
+70          cntry      764                       Thailand
+71          cntry      792                         Turkey
+72          cntry      800                         Uganda
+73          cntry      804                        Ukraine
+74          cntry      826                 United Kingdom
+75          cntry      840                  United States
+76          cntry      858                        Uruguay
+77          cntry      862                      Venezuela
+78          cntry      704                        Vietnam
+79          cntry      894                         Zambia
+80           year     1960                           1960
+81           year     1962                           1962
+82           year     1963                           1963
+83           year     1964                           1964
+84           year     1966                           1966
+85           year     1968                           1968
+86           year     1969                           1969
+87           year     1970                           1970
+88           year     1971                           1971
+89           year     1972                           1972
+90           year     1973                           1973
+91           year     1974                           1974
+92           year     1975                           1975
+93           year     1976                           1976
+94           year     1977                           1977
+95           year     1979                           1979
+96           year     1980                           1980
+97           year     1981                           1981
+98           year     1982                           1982
+99           year     1983                           1983
+100          year     1984                           1984
+101          year     1985                           1985
+102          year     1986                           1986
+103          year     1987                           1987
+104          year     1989                           1989
+105          year     1990                           1990
+106          year     1991                           1991
+107          year     1992                           1992
+108          year     1993                           1993
+109          year     1994                           1994
+110          year     1995                           1995
+111          year     1996                           1996
+112          year     1997                           1997
+113          year     1998                           1998
+114          year     1999                           1999
+115          year     2000                           2000
+116          year     2001                           2001
+117          year     2002                           2002
+118          year     2003                           2003
+119          year     2004                           2004
+120          year     2005                           2005
+121          year     2006                           2006
+122          year     2007                           2007
+123          year     2008                           2008
+124          year     2009                           2009
+125          year     2010                           2010
+126          year     2011                           2011
+127        sample      321                 Argentina 1970
+128        sample      322                 Argentina 1980
+129        sample      323                 Argentina 1991
+130        sample      324                 Argentina 2001
+131        sample      325                 Argentina 2010
+132        sample      511                   Armenia 2001
+133        sample      401                   Austria 1971
+134        sample      402                   Austria 1981
+135        sample      403                   Austria 1991
+136        sample      404                   Austria 2001
+137        sample      501                Bangladesh 1991
+138        sample      502                Bangladesh 2001
+139        sample      503                Bangladesh 2011
+140        sample      681                   Bolivia 1976
+141        sample      682                   Bolivia 1992
+142        sample      683                   Bolivia 2001
+143        sample      761                    Brazil 1960
+144        sample      762                    Brazil 1970
+145        sample      763                    Brazil 1980
+146        sample      764                    Brazil 1991
+147        sample      765                    Brazil 2000
+148        sample      766                    Brazil 2010
+149        sample     1121                   Belarus 1999
+150        sample     8541              Burkina Faso 1985
+151        sample     8542              Burkina Faso 1996
+152        sample     8543              Burkina Faso 2006
+153        sample     1161                  Cambodia 1998
+154        sample     1162                  Cambodia 2008
+155        sample     1201                  Cameroon 1976
+156        sample     1202                  Cameroon 1987
+157        sample     1203                  Cameroon 2005
+158        sample     1241                    Canada 1971
+159        sample     1242                    Canada 1981
+160        sample     1243                    Canada 1991
+161        sample     1244                    Canada 2001
+162        sample     1521                     Chile 1960
+163        sample     1522                     Chile 1970
+164        sample     1523                     Chile 1982
+165        sample     1524                     Chile 1992
+166        sample     1525                     Chile 2002
+167        sample     1561                     China 1982
+168        sample     1562                     China 1990
+169        sample     1701                  Colombia 1964
+170        sample     1702                  Colombia 1973
+171        sample     1703                  Colombia 1985
+172        sample     1704                  Colombia 1993
+173        sample     1705                  Colombia 2005
+174        sample     1881                Costa Rica 1963
+175        sample     1882                Costa Rica 1973
+176        sample     1883                Costa Rica 1984
+177        sample     1884                Costa Rica 2000
+178        sample     1921                      Cuba 2002
+179        sample     2141        Dominican Republic 1960
+180        sample     2142        Dominican Republic 1970
+181        sample     2143        Dominican Republic 1981
+182        sample     2144        Dominican Republic 2002
+183        sample     2145        Dominican Republic 2010
+184        sample     2181                   Ecuador 1962
+185        sample     2182                   Ecuador 1974
+186        sample     2183                   Ecuador 1982
+187        sample     2184                   Ecuador 1990
+188        sample     2185                   Ecuador 2001
+189        sample     2186                   Ecuador 2010
+190        sample     8181                     Egypt 1996
+191        sample     8182                     Egypt 2006
+192        sample     2221               El Salvador 1992
+193        sample     2222               El Salvador 2007
+194        sample     2421                      Fiji 1966
+195        sample     2422                      Fiji 1976
+196        sample     2423                      Fiji 1986
+197        sample     2424                      Fiji 1996
+198        sample     2425                      Fiji 2007
+199        sample     2501                    France 1962
+200        sample     2502                    France 1968
+201        sample     2503                    France 1975
+202        sample     2504                    France 1982
+203        sample     2505                    France 1990
+204        sample     2506                    France 1999
+205        sample     2507                    France 2006
+206        sample     2761            Germany 1970 (West)
+207        sample     2762            Germany 1971 (East)
+208        sample     2763            Germany 1981 (East)
+209        sample     2764            Germany 1987 (West)
+210        sample     2881                     Ghana 2000
+211        sample     2882                     Ghana 2010
+212        sample     3001                    Greece 1971
+213        sample     3002                    Greece 1981
+214        sample     3003                    Greece 1991
+215        sample     3004                    Greece 2001
+216        sample     3241                    Guinea 1983
+217        sample     3242                    Guinea 1996
+218        sample     3321                     Haiti 1971
+219        sample     3322                     Haiti 1982
+220        sample     3323                     Haiti 2003
+221        sample     3481                   Hungary 1970
+222        sample     3482                   Hungary 1980
+223        sample     3483                   Hungary 1990
+224        sample     3484                   Hungary 2001
+225        sample     3561                     India 1983
+226        sample     3562                     India 1987
+227        sample     3563                     India 1993
+228        sample     3564                     India 1999
+229        sample     3565                     India 2004
+230        sample     3601                 Indonesia 1971
+231        sample     3602                 Indonesia 1976
+232        sample     3603                 Indonesia 1980
+233        sample     3604                 Indonesia 1985
+234        sample     3605                 Indonesia 1990
+235        sample     3606                 Indonesia 1995
+236        sample     3607                 Indonesia 2000
+237        sample     3608                 Indonesia 2005
+238        sample     3609                 Indonesia 2010
+239        sample     3641                      Iran 2006
+240        sample     3681                      Iraq 1997
+241        sample     3721                   Ireland 1971
+242        sample     3722                   Ireland 1979
+243        sample     3723                   Ireland 1981
+244        sample     3724                   Ireland 1986
+245        sample     3725                   Ireland 1991
+246        sample     3726                   Ireland 1996
+247        sample     3727                   Ireland 2002
+248        sample     3728                   Ireland 2006
+249        sample     3729                   Ireland 2011
+250        sample     3761                    Israel 1972
+251        sample     3762                    Israel 1983
+252        sample     3763                    Israel 1995
+253        sample     3801                     Italy 2001
+254        sample     3881                   Jamaica 1982
+255        sample     3882                   Jamaica 1991
+256        sample     3883                   Jamaica 2001
+257        sample     4001                    Jordan 2004
+258        sample     4041                     Kenya 1969
+259        sample     4042                     Kenya 1979
+260        sample     4043                     Kenya 1989
+261        sample     4044                     Kenya 1999
+262        sample     4045                     Kenya 2009
+263        sample     4171           Kyrgyz Republic 1999
+264        sample     4172           Kyrgyz Republic 2009
+265        sample     4301                   Liberia 1974
+266        sample     4302                   Liberia 2008
+267        sample     4541                    Malawi 1987
+268        sample     4542                    Malawi 1998
+269        sample     4543                    Malawi 2008
+270        sample     4581                  Malaysia 1970
+271        sample     4582                  Malaysia 1980
+272        sample     4583                  Malaysia 1991
+273        sample     4584                  Malaysia 2000
+274        sample     4661                      Mali 1987
+275        sample     4662                      Mali 1998
+276        sample     4663                      Mali 2009
+277        sample     4841                    Mexico 1960
+278        sample     4842                    Mexico 1970
+279        sample     4843                    Mexico 1990
+280        sample     4844                    Mexico 1995
+281        sample     4845                    Mexico 2000
+282        sample     4846                    Mexico 2005
+283        sample     4847                    Mexico 2010
+284        sample     4961                  Mongolia 1989
+285        sample     4962                  Mongolia 2000
+286        sample     5041                   Morocco 1982
+287        sample     5042                   Morocco 1994
+288        sample     5043                   Morocco 2004
+289        sample     5241                     Nepal 2001
+290        sample     5281               Netherlands 1960
+291        sample     5282               Netherlands 1971
+292        sample     5283               Netherlands 2001
+293        sample     5581                 Nicaragua 1971
+294        sample     5582                 Nicaragua 1995
+295        sample     5583                 Nicaragua 2005
+296        sample     5661                   Nigeria 2006
+297        sample     5662                   Nigeria 2007
+298        sample     5663                   Nigeria 2008
+299        sample     5664                   Nigeria 2009
+300        sample     5665                   Nigeria 2010
+301        sample     5861                  Pakistan 1973
+302        sample     5862                  Pakistan 1981
+303        sample     5863                  Pakistan 1998
+304        sample     2751                 Palestine 1997
+305        sample     2752                 Palestine 2007
+306        sample     5911                    Panama 1960
+307        sample     5912                    Panama 1970
+308        sample     5913                    Panama 1980
+309        sample     5914                    Panama 1990
+310        sample     5915                    Panama 2000
+311        sample     5916                    Panama 2010
+312        sample     6041                      Peru 1993
+313        sample     6042                      Peru 2007
+314        sample     6081               Philippines 1990
+315        sample     6082               Philippines 1995
+316        sample     6083               Philippines 2000
+317        sample     6201                  Portugal 1981
+318        sample     6202                  Portugal 1991
+319        sample     6203                  Portugal 2001
+320        sample     6301               Puerto Rico 1970
+321        sample     6302               Puerto Rico 1980
+322        sample     6303               Puerto Rico 1990
+323        sample     6304               Puerto Rico 2000
+324        sample     6305               Puerto Rico 2005
+325        sample     6421                   Romania 1977
+326        sample     6422                   Romania 1992
+327        sample     6423                   Romania 2002
+328        sample     6461                    Rwanda 1991
+329        sample     6462                    Rwanda 2002
+330        sample     6621               Saint Lucia 1980
+331        sample     6622               Saint Lucia 1991
+332        sample     6861                   Senegal 1988
+333        sample     6862                   Senegal 2002
+334        sample     6941              Sierra Leone 2004
+335        sample     7051                  Slovenia 2002
+336        sample     7101              South Africa 1996
+337        sample     7102              South Africa 2001
+338        sample     7103              South Africa 2007
+339        sample     7241                     Spain 1981
+340        sample     7242                     Spain 1991
+341        sample     7243                     Spain 2001
+342        sample     7281               South Sudan 2008
+343        sample     7291                     Sudan 2008
+344        sample     7561               Switzerland 1970
+345        sample     7562               Switzerland 1980
+346        sample     7563               Switzerland 1990
+347        sample     7564               Switzerland 2000
+348        sample     8341                  Tanzania 1988
+349        sample     8342                  Tanzania 2002
+350        sample     7641                  Thailand 1970
+351        sample     7642                  Thailand 1980
+352        sample     7643                  Thailand 1990
+353        sample     7644                  Thailand 2000
+354        sample     7921                    Turkey 1985
+355        sample     7922                    Turkey 1990
+356        sample     7923                    Turkey 2000
+357        sample     8001                    Uganda 1991
+358        sample     8002                    Uganda 2002
+359        sample     8041                   Ukraine 2001
+360        sample     8261            United Kingdom 1991
+361        sample     8262            United Kingdom 2001
+362        sample     8401             United States 1960
+363        sample     8402             United States 1970
+364        sample     8403             United States 1980
+365        sample     8404             United States 1990
+366        sample     8405             United States 2000
+367        sample     8406             United States 2005
+368        sample     8407             United States 2010
+369        sample     8581                   Uruguay 1963
+370        sample     8582                   Uruguay 1975
+371        sample     8583                   Uruguay 1985
+372        sample     8584                   Uruguay 1996
+373        sample     8585                   Uruguay 2006
+374        sample     8586                   Uruguay 2011
+375        sample     8621                 Venezuela 1971
+376        sample     8622                 Venezuela 1981
+377        sample     8623                 Venezuela 1990
+378        sample     8624                 Venezuela 2001
+379        sample     7041                   Vietnam 1989
+380        sample     7042                   Vietnam 1999
+381        sample     7043                   Vietnam 2009
+382        sample     8941                    Zambia 1990
+383        sample     8942                    Zambia 2000
+384        sample     8943                    Zambia 2010
+385      za01pern        1                              1
+386      za01pern        2                              2
+387      za01pern        3                              3
+388      za01pern        4                              4
+389      za01pern        5                              5
+390      za01pern        6                              6
+391      za01pern        7                              7
+392      za01pern        8                              8
+393      za01pern        9                              9
+394      za01pern       10                             10
+395      za01pern       11                             11
+396      za01pern       12                             12
+397      za01pern       13                             13
+398      za01pern       14                             14
+399      za01pern       15                             15
+400      za01pern       16                             16
+401      za01pern       17                             17
+402      za01pern       18                             18
+403      za01pern       19                             19
+404      za01pern       20                             20
+405      za01pern       21                             21
+406      za01pern       22                             22
+407      za01pern       23                             23
+408      za01pern       24                             24
+409      za01pern       25                             25
+410      za01pern       26                             26
+411      za01pern       27                             27
+412      za01pern       28                             28
+413      za01pern       29                             29
+414      za01pern       30                             30
+415      za01fbig        0                     No problem
+416      za01fbig        1 Yes: households within a large
+417      za01fbig        2 Yes: persons within a large ho
+418      za01dist        1 DC1: West Coast District Munic
+419      za01dist        2 DC2: Boland District Municipal
+420      za01dist        3 DC3: Overberg District Municip
+421      za01dist        4 DC4: Eden District Municipalit
+422      za01dist        5 DC5: Central Karoo District Mu
+423      za01dist        6 DC6: Namakwa District Municipa
+424      za01dist        7 DC7: Pixley ka Seme District M
+425      za01dist        8 DC8: Siyanda District Municipa
+426      za01dist        9 DC9: Francis Baard (cross-boun
+427      za01dist       10 DC10: Cacadu District Municipa
+428      za01dist       12 DC12: Amatole District Municip
+429      za01dist       13 DC13: Chris Hani District Muni
+430      za01dist       14 DC14: Ukhahlamba District Muni
+431      za01dist       15 DC15: O.R.Tambo District Munic
+432      za01dist       16 DC16: Xhariep District Municip
+433      za01dist       17 DC17: Motheo District Municipa
+434      za01dist       18 DC18: Lejweleputswa District M
+435      za01dist       19 DC19: Thabo Mofutsanyane Distr
+436      za01dist       20 DC20: Northern Free State Dist
+437      za01dist       21 DC21: Ugu District Municipalit
+438      za01dist       22 DC22: UMgungundlovu District M
+439      za01dist       23 DC23: Uthukela District Munici
+440      za01dist       24 DC24: Umzinyathi District Muni
+441      za01dist       25 DC25: Amajuba District Municip
+442      za01dist       26 DC26: Zululand District Munici
+443      za01dist       27 DC27: Umkhanyakude District Mu
+444      za01dist       28 DC28: Uthungulu District Munic
+445      za01dist       29 DC29: iLembe District Municipa
+446      za01dist       30 DC30: Gert Sibande District Mu
+447      za01dist       31 DC31: Nkangala District Munici
+448      za01dist       32 DC32: Ehlanzeni District Munic
+449      za01dist       33 DC33: Mopani District Municipa
+450      za01dist       34 DC34: Vhembe District Municipa
+451      za01dist       35 DC35: Capricorn District Munic
+452      za01dist       36 DC36: Waterberg District Munic
+453      za01dist       37 DC37: Bojanala District Munici
+454      za01dist       38 DC38: Central District Municip
+455      za01dist       39 DC39: Bophirima District Munic
+456      za01dist       40 DC40: Southern District Munici
+457      za01dist       42 DC42: Sedibeng District Munici
+458      za01dist       43 DC43: Sisonke District Municip
+459      za01dist       44 DC44: Alfred Nzo District Muni
+460      za01dist       76 City of Tshwane (cross-boundar
+461      za01dist       81 CBDC1: Kgalagadi (cross-bounda
+462      za01dist       82 CBDC2: Metsweding (cross-bound
+463      za01dist       83 CBDC3: Sekhukhune (cross-bound
+464      za01dist       84 CBDC4: Eastern (cross-boundary
+465      za01dist       88 CDBC8: West Rand (cross-bounda
+466      za01dist      171   Cape Town: City of Cape Town
+467      za01dist      275 Port Elizabeth: Nelson Mandela
+468      za01dist      572 Durban: Ethekwini Municipality
+469      za01dist      773 East Rand: Ekurhuleni Metropol
+470      za01dist      774 Johannesburg: City of Johannes
+471      za01dist      998                        Unknown
+472      za01prov        1                   Western Cape
+473      za01prov        2                   Eastern Cape
+474      za01prov        3                  Northern Cape
+475      za01prov        4                     Free State
+476      za01prov        5                  KwaZulu-Natal
+477      za01prov        6                     North West
+478      za01prov        7                        Gauteng
+479      za01prov        8                     Mpumalanga
+480      za01prov        9                        Limpopo
+481      za01prov        0                        Unknown
+482    za01eatype        0 Sparse (10 or fewer households
+483    za01eatype        1              Tribal Settlement
+484    za01eatype        2                           Farm
+485    za01eatype        3                   Smallholding
+486    za01eatype        4               Urban Settlement
+487    za01eatype        5            Informal Settlement
+488    za01eatype        6                   Recreational
+489    za01eatype        7                Industrial Area
+490    za01eatype        8                    Institution
+491    za01eatype        9                         Hostel
+492     za01urban        1                          Urban
+493     za01urban        2                          Rural
+494     za01urban        8                        Unknown
+495   za01density        1 High density or large settleme
+496   za01density        2                    Low density
+497   za01density        8                        Unknown
+498   za01dwtype1        1                   Housing unit
+499   za01dwtype1        2              Residential hotel
+500   za01dwtype1        3              Student residence
+501   za01dwtype1        4              Home for the aged
+502   za01dwtype1        5                  Worker hostel
+503   za01dwtype1       11            Tourist hotel/motel
+504   za01dwtype1       12 Hospital/medical facility/clin
+505   za01dwtype1       13 Childcare institution/orphanag
+506   za01dwtype1       14          Home for the disabled
+507   za01dwtype1       15         Boarding school hostel
+508   za01dwtype1       16              Initiation school
+509   za01dwtype1       17 Convent/monastery/religious re
+510   za01dwtype1       18 Defence force barracks/camp/sh
+511   za01dwtype1       19 Prison/correctional institutio
+512   za01dwtype1       20       Community or church hall
+513   za01dwtype1       21 Refugee camp/shelter for the h
+514   za01dwtype1       22                       Homeless
+515   za01dwtype2        1 House or brick structure on a 
+516   za01dwtype2        2 Traditional dwelling/hut/struc
+517   za01dwtype2        3       Flat in a block of flats
+518   za01dwtype2        4 Town/cluster/semi-detached hou
+519   za01dwtype2        5   House/flat/room, in backyard
+520   za01dwtype2        6 Informal dwelling/shack, in ba
+521   za01dwtype2        7 Informal dwelling/shack, not i
+522   za01dwtype2        8 Room/flatlet not in backyard b
+523   za01dwtype2        9                Caravan or tent
+524   za01dwtype2       10              Private ship/boat
+525   za01dwtype2       20            Tourist hotel/motel
+526   za01dwtype2       21 Hospital/medical facility/clin
+527   za01dwtype2       22 Childcare institution/orphanag
+528   za01dwtype2       23          Home for the disabled
+529   za01dwtype2       24         Boarding school hostel
+530   za01dwtype2       25              Initiation school
+531   za01dwtype2       26 Convent/monastery/religious re
+532   za01dwtype2       27 Defence force barracks/camp/sh
+533   za01dwtype2       28 Prison/correctional institutio
+534   za01dwtype2       29       Community or church hall
+535   za01dwtype2       30 Refugee camp/shelter for the h
+536   za01dwtype2       31                       Homeless
+537   za01dwtype2       99                            NIU
+538    za01dwmult        1                            Yes
+539    za01dwmult        2                             No
+540    za01dwmult        9                            NIU
+541     za01rooms        1                              1
+542     za01rooms        2                              2
+543     za01rooms        3                              3
+544     za01rooms        4                              4
+545     za01rooms        5                              5
+546     za01rooms        6                              6
+547     za01rooms        7                              7
+548     za01rooms        8                              8
+549     za01rooms        9                              9
+550     za01rooms       10                             10
+551     za01rooms       11                             11
+552     za01rooms       12                             12
+553     za01rooms       13                             13
+554     za01rooms       14                             14
+555     za01rooms       15                             15
+556     za01rooms       16                             16
+557     za01rooms       17                             17
+558     za01rooms       18                             18
+559     za01rooms       19                             19
+560     za01rooms       20                             20
+561     za01rooms       21                             21
+562     za01rooms       22                             22
+563     za01rooms       23                             23
+564     za01rooms       24                             24
+565     za01rooms       25                             25
+566     za01rooms       26                             26
+567     za01rooms       27                             27
+568     za01rooms       28                             28
+569     za01rooms       29                             29
+570     za01rooms       30                             30
+571     za01rooms       31                             31
+572     za01rooms       32                             32
+573     za01rooms       33                             33
+574     za01rooms       34                             34
+575     za01rooms       35                             35
+576     za01rooms       36                             36
+577     za01rooms       37                             37
+578     za01rooms       38                             38
+579     za01rooms       39                             39
+580     za01rooms       40                             40
+581     za01rooms       41                             41
+582     za01rooms       42                             42
+583     za01rooms       43                             43
+584     za01rooms       44                             44
+585     za01rooms       45                             45
+586     za01rooms       46                             46
+587     za01rooms       47                             47
+588     za01rooms       48                             48
+589     za01rooms       49                             49
+590     za01rooms       50                             50
+591     za01rooms       51                             51
+592     za01rooms       52                             52
+593     za01rooms       53                             53
+594     za01rooms       54                             54
+595     za01rooms       55                             55
+596     za01rooms       57                             57
+597     za01rooms       58                             58
+598     za01rooms       59                             59
+599     za01rooms       60                             60
+600     za01rooms       62                             62
+601     za01rooms       63                             63
+602     za01rooms       64                             64
+603     za01rooms       65                             65
+604     za01rooms       66                             66
+605     za01rooms       68                             68
+606     za01rooms       69                             69
+607     za01rooms       70                             70
+608     za01rooms       71                             71
+609     za01rooms       72                             72
+610     za01rooms       73                             73
+611     za01rooms       74                             74
+612     za01rooms       75                             75
+613     za01rooms       76                             76
+614     za01rooms       77                             77
+615     za01rooms       78                             78
+616     za01rooms       79                             79
+617     za01rooms       80                             80
+618     za01rooms       81                             81
+619     za01rooms       82                             82
+620     za01rooms       84                             84
+621     za01rooms       85                             85
+622     za01rooms       86                             86
+623     za01rooms       87                             87
+624     za01rooms       89                             89
+625     za01rooms       90                             90
+626     za01rooms       94                             94
+627     za01rooms       96                             96
+628     za01rooms       97                             97
+629     za01rooms       98                             98
+630     za01rooms       99                            99+
+631     za01rooms      999                            NIU
+632   za01sharerm        1                            Yes
+633   za01sharerm        2                             No
+634   za01sharerm        9                            NIU
+635     za01owner        1       Owned and fully paid off
+636     za01owner        2     Owned but not yet paid off
+637     za01owner        3                         Rented
+638     za01owner        4             Occupied rent-free
+639     za01owner        9                            NIU
+640   za01watpipe        1 No access to piped (tap) water
+641   za01watpipe        2 Piped (tap) water on community
+642   za01watpipe        3 Piped (tap) water on community
+643   za01watpipe        4  Piped (tap) water inside yard
+644   za01watpipe        5 Piped (tap) water inside dwell
+645   za01watpipe        9                            NIU
+646    za01watsrc        1 Regional/local water scheme (o
+647    za01watsrc        2                       Borehole
+648    za01watsrc        3                         Spring
+649    za01watsrc        4                 Rainwater tank
+650    za01watsrc        5        Dam/pool/stagnant water
+651    za01watsrc        6                   River/stream
+652    za01watsrc        7                   Water vendor
+653    za01watsrc        8                          Other
+654    za01watsrc        9                            NIU
+655    za01watacc        1 Piped water (tap) inside dwell
+656    za01watacc        2  Piped water (tap) inside yard
+657    za01watacc        3 Piped water on community stand
+658    za01watacc        4 Piped water on community stand
+659    za01watacc        5                       Borehole
+660    za01watacc        6                         Spring
+661    za01watacc        7                 Rainwater tank
+662    za01watacc        8        Dam/pool/stagnant water
+663    za01watacc        9                   River/stream
+664    za01watacc       10                   Water vendor
+665    za01watacc       11                          Other
+666    za01watacc       99                            NIU
+667    za01toilet        1 Flush toilet (connected to sew
+668    za01toilet        2 Flush toilet (with septic tank
+669    za01toilet        3                Chemical toilet
+670    za01toilet        4 Pit latrine with ventilation (
+671    za01toilet        5 Pit latrine without ventilatio
+672    za01toilet        6                 Bucket latrine
+673    za01toilet        7                           None
+674    za01toilet        9                            NIU
+675    za01fuelck        0                            NIU
+676    za01fuelck        1                    Electricity
+677    za01fuelck        2                            Gas
+678    za01fuelck        3                       Paraffin
+679    za01fuelck        4                           Wood
+680    za01fuelck        5                           Coal
+681    za01fuelck        7                    Animal dung
+682    za01fuelck        8                          Solar
+683    za01fuelck        9                          Other
+684    za01fuelht        0                            NIU
+685    za01fuelht        1                    Electricity
+686    za01fuelht        2                            Gas
+687    za01fuelht        3                       Paraffin
+688    za01fuelht        4                           Wood
+689    za01fuelht        5                           Coal
+690    za01fuelht        7                    Animal dung
+691    za01fuelht        8                          Solar
+692    za01fuelht        9                          Other
+693    za01fuellt        0                            NIU
+694    za01fuellt        1                    Electricity
+695    za01fuellt        2                            Gas
+696    za01fuellt        3                       Paraffin
+697    za01fuellt        6                        Candles
+698    za01fuellt        8                          Solar
+699    za01fuellt        9                          Other
+700     za01radio        1                            Yes
+701     za01radio        2                             No
+702     za01radio        9                            NIU
+703        za01tv        1                            Yes
+704        za01tv        2                             No
+705        za01tv        9                            NIU
+706  za01computer        1                            Yes
+707  za01computer        2                             No
+708  za01computer        9                            NIU
+709    za01refrig        1                            Yes
+710    za01refrig        2                             No
+711    za01refrig        9                            NIU
+712     za01phone        1                            Yes
+713     za01phone        2                             No
+714     za01phone        9                            NIU
+715      za01cell        1                            Yes
+716      za01cell        2                             No
+717      za01cell        9                            NIU
+718   za01phoneac        1          At a neighbour nearby
+719   za01phoneac        2   At a public telephone nearby
+720   za01phoneac        3     At another location nearby
+721   za01phoneac        4 At another location, not nearb
+722   za01phoneac        5       No access to a telephone
+723   za01phoneac        9                            NIU
+724   za01phonety        1 Telephone in dwelling and cell
+725   za01phonety        2     Telephone in dwelling only
+726   za01phonety        3                Cell-phone only
+727   za01phonety        4          At a neighbour nearby
+728   za01phonety        5   At a public telephone nearby
+729   za01phonety        6     At another location nearby
+730   za01phonety        7 At another location, not nearb
+731   za01phonety        8       No access to a telephone
+732   za01phonety        9                            NIU
+733   za01garbage        1 Removed by local authority at 
+734   za01garbage        2 Removed by local authority les
+735   za01garbage        3           Communal refuse dump
+736   za01garbage        4                Own refuse dump
+737   za01garbage        5            No rubbish disposal
+738   za01garbage        9                            NIU
+739     za01raceh        1                  Black African
+740     za01raceh        2                       Coloured
+741     za01raceh        3                Indian or Asian
+742     za01raceh        4                          White
+743      za01inch        1                      No income
+744      za01inch        2                    R 1-R 4 800
+745      za01inch        3                R 4 801-R 9 600
+746      za01inch        4               R 9 601-R 19 200
+747      za01inch        5              R 19 201-R 38 400
+748      za01inch        6              R 38 401-R 76 800
+749      za01inch        7             R 76 801-R 153 600
+750      za01inch        8            R 153 601-R 307 200
+751      za01inch        9            R 307 201-R 614 400
+752      za01inch       10          R 614 401-R 1 228 800
+753      za01inch       11        R 1 228 801-R 2 457 600
+754      za01inch       12            R 2 457 601 or more
+755      za01inch       99                            NIU
+756      za01wthh 10000000                       10000000
+757      za01wthh 10568670                       10568670
+758      za01wthh 10768460                       10768460
+759      za01wthh 11030760                       11030760
+760      za01wthh 11054900                       11054900
+761      za01wthh 11063170                       11063170
+762      za01wthh 11146380                       11146380
+763      za01wthh 11169660                       11169660
+764      za01wthh 11335480                       11335480
+765      za01wthh 11370300                       11370300
+766      za01wthh 11516940                       11516940
+767      za01wthh 11552040                       11552040
+768      za01wthh 11859070                       11859070
+769      za01wthh 11898990                       11898990
+770      za01wthh 11943040                       11943040
+771      za01wthh 12027340                       12027340
+772      za01wthh 12219700                       12219700
+773      za01wthh 12272300                       12272300
+774      za01wthh 13341280                       13341280
+775      za01wthh 13408520                       13408520
+776      za01wthh 13656010                       13656010
+777      za01wthh 13667230                       13667230
+778      za01wthh 13695700                       13695700
+779      za01wthh 14610920                       14610920
+780      za01wthh 15464940                       15464940
+781      za01wthh 15948680                       15948680
+782      za01wthh 16164970                       16164970
+783      za01wthh 16206660                       16206660
+784      za01wthh 16269550                       16269550
+785      za01wthh 16774410                       16774410
+786      za01wthh 17232520                       17232520
+787      za01wthh 23496120                       23496120
+788      za01wthh 25091350                       25091350
+789  za01qdwtype1        0                  No imputation
+790  za01qdwtype1        1 Logical imputation (from blank
+791  za01qdwtype1        2 Logical imputation (non-blank)
+792  za01qdwtype1        3 Hot deck imputation (from blan
+793  za01qdwtype1        4 Hot deck imputation (non-blank
+794  za01qdwtype2        0                  No imputation
+795  za01qdwtype2        1 Logical imputation (from blank
+796  za01qdwtype2        2 Logical imputation (non-blank)
+797  za01qdwtype2        3 Hot deck imputation (from blan
+798  za01qdwtype2        4 Hot deck imputation (non-blank
+799   za01qdwmult        0                  No imputation
+800   za01qdwmult        1 Logical imputation (from blank
+801   za01qdwmult        2 Logical imputation (non-blank)
+802   za01qdwmult        3 Hot deck imputation (from blan
+803   za01qdwmult        4 Hot deck imputation (non-blank
+804    za01qrooms        0                  No imputation
+805    za01qrooms        1 Logical imputation (from blank
+806    za01qrooms        2 Logical imputation (non-blank)
+807    za01qrooms        3 Hot deck imputation (from blan
+808    za01qrooms        4 Hot deck imputation (non-blank
+809  za01qsharerm        0                  No imputation
+810  za01qsharerm        1 Logical imputation (from blank
+811  za01qsharerm        2 Logical imputation (non-blank)
+812  za01qsharerm        3 Hot deck imputation (from blan
+813  za01qsharerm        4 Hot deck imputation (non-blank
+814    za01qowner        0                  No imputation
+815    za01qowner        1 Logical imputation (from blank
+816    za01qowner        2 Logical imputation (non-blank)
+817    za01qowner        3 Hot deck imputation (from blan
+818    za01qowner        4 Hot deck imputation (non-blank
+819  za01qwatpipe        0                  No imputation
+820  za01qwatpipe        1 Logical imputation (from blank
+821  za01qwatpipe        2 Logical imputation (non-blank)
+822  za01qwatpipe        3 Hot deck imputation (from blan
+823  za01qwatpipe        4 Hot deck imputation (non-blank
+824   za01qwatsrc        0                  No imputation
+825   za01qwatsrc        1 Logical imputation (from blank
+826   za01qwatsrc        2 Logical imputation (non-blank)
+827   za01qwatsrc        3 Hot deck imputation (from blan
+828   za01qwatsrc        4 Hot deck imputation (non-blank
+829   za01qtoilet        0                  No imputation
+830   za01qtoilet        1 Logical imputation (from blank
+831   za01qtoilet        2 Logical imputation (non-blank)
+832   za01qtoilet        3 Hot deck imputation (from blan
+833   za01qtoilet        4 Hot deck imputation (non-blank
+834   za01qfuelck        0                  No imputation
+835   za01qfuelck        1 Logical imputation (from blank
+836   za01qfuelck        2 Logical imputation (non-blank)
+837   za01qfuelck        3 Hot deck imputation (from blan
+838   za01qfuelck        4 Hot deck imputation (non-blank
+839   za01qfuelht        0                  No imputation
+840   za01qfuelht        1 Logical imputation (from blank
+841   za01qfuelht        2 Logical imputation (non-blank)
+842   za01qfuelht        3 Hot deck imputation (from blan
+843   za01qfuelht        4 Hot deck imputation (non-blank
+844   za01qfuellt        0                  No imputation
+845   za01qfuellt        1 Logical imputation (from blank
+846   za01qfuellt        2 Logical imputation (non-blank)
+847   za01qfuellt        3 Hot deck imputation (from blan
+848   za01qfuellt        4 Hot deck imputation (non-blank
+849    za01qradio        0                  No imputation
+850    za01qradio        1 Logical imputation (from blank
+851    za01qradio        2 Logical imputation (non-blank)
+852    za01qradio        3 Hot deck imputation (from blan
+853    za01qradio        4 Hot deck imputation (non-blank
+854       za01qtv        0                  No imputation
+855       za01qtv        1 Logical imputation (from blank
+856       za01qtv        2 Logical imputation (non-blank)
+857       za01qtv        3 Hot deck imputation (from blan
+858       za01qtv        4 Hot deck imputation (non-blank
+859  za01qcompute        0                  No imputation
+860  za01qcompute        1 Logical imputation (from blank
+861  za01qcompute        2 Logical imputation (non-blank)
+862  za01qcompute        3 Hot deck imputation (from blan
+863  za01qcompute        4 Hot deck imputation (non-blank
+864   za01qrefrig        0                  No imputation
+865   za01qrefrig        1 Logical imputation (from blank
+866   za01qrefrig        2 Logical imputation (non-blank)
+867   za01qrefrig        3 Hot deck imputation (from blan
+868   za01qrefrig        4 Hot deck imputation (non-blank
+869    za01qphone        0                  No imputation
+870    za01qphone        1 Logical imputation (from blank
+871    za01qphone        2 Logical imputation (non-blank)
+872    za01qphone        3 Hot deck imputation (from blan
+873    za01qphone        4 Hot deck imputation (non-blank
+874     za01qcell        0                  No imputation
+875     za01qcell        1 Logical imputation (from blank
+876     za01qcell        2 Logical imputation (non-blank)
+877     za01qcell        3 Hot deck imputation (from blan
+878     za01qcell        4 Hot deck imputation (non-blank
+879  za01qphoneac        0                  No imputation
+880  za01qphoneac        1 Logical imputation (from blank
+881  za01qphoneac        2 Logical imputation (non-blank)
+882  za01qphoneac        3 Hot deck imputation (from blan
+883  za01qphoneac        4 Hot deck imputation (non-blank
+884  za01qgarbage        0                  No imputation
+885  za01qgarbage        1 Logical imputation (from blank
+886  za01qgarbage        2 Logical imputation (non-blank)
+887  za01qgarbage        3 Hot deck imputation (from blan
+888  za01qgarbage        4 Hot deck imputation (non-blank
+889     za01mortn        0                              0
+890     za01mortn        1                              1
+891     za01mortn        2                              2
+892     za01mortn        3                              3
+893     za01mortn        4                              4
+894     za01mortn        5                              5
+895     za01mortn        6                              6
+896    za01pernum        0                              0
+897    za01pernum        1                              1
+898    za01pernum        2                              2
+899    za01pernum        3                              3
+900    za01pernum        4                              4
+901    za01pernum        5                              5
+902    za01pernum        6                              6
+903    za01pernum        7                              7
+904    za01pernum        8                              8
+905    za01pernum        9                              9
+906    za01pernum       10                             10
+907    za01pernum       11                             11
+908    za01pernum       12                             12
+909    za01pernum       13                             13
+910    za01pernum       14                             14
+911    za01pernum       15                             15
+912    za01pernum       16                             16
+913    za01pernum       17                             17
+914    za01pernum       18                             18
+915    za01pernum       19                             19
+916    za01pernum       20                             20
+917    za01pernum       21                             21
+918    za01pernum       22                             22
+919    za01pernum       23                             23
+920    za01pernum       24                             24
+921    za01pernum       25                             25
+922    za01pernum       26                             26
+923    za01pernum       27                             27
+924    za01pernum       28                             28
+925    za01pernum       29                             29
+926    za01pernum       30                             30
+927  za01dwtype1p        1                   Housing unit
+928  za01dwtype1p        2              Residential hotel
+929  za01dwtype1p        3              Student residence
+930  za01dwtype1p        4              Home for the aged
+931  za01dwtype1p        5                  Worker hostel
+932  za01dwtype1p       11            Tourist hotel/motel
+933  za01dwtype1p       12 Hospital/medical facility/clin
+934  za01dwtype1p       13 Childcare institution/orphanag
+935  za01dwtype1p       14          Home for the disabled
+936  za01dwtype1p       15         Boarding school hostel
+937  za01dwtype1p       16              Initiation school
+938  za01dwtype1p       17 Convent/monastery/religious re
+939  za01dwtype1p       18 Defence force barracks/camp/sh
+940  za01dwtype1p       19 Prison/correctional institutio
+941  za01dwtype1p       20       Community or church hall
+942  za01dwtype1p       21 Refugee camp/shelter for the h
+943  za01dwtype1p       22                       Homeless
+944   za01pernumo        1                              1
+945   za01pernumo        2                              2
+946   za01pernumo        3                              3
+947   za01pernumo        4                              4
+948   za01pernumo        5                              5
+949   za01pernumo        6                              6
+950   za01pernumo        7                              7
+951   za01pernumo        8                              8
+952   za01pernumo        9                              9
+953   za01pernumo       10                             10
+954   za01pernumo       11                             11
+955   za01pernumo       12                             12
+956   za01pernumo       13                             13
+957   za01pernumo       14                             14
+958   za01pernumo       15                             15
+959   za01pernumo       16                             16
+960   za01pernumo       17                             17
+961   za01pernumo       18                             18
+962   za01pernumo       19                             19
+963   za01pernumo       20                             20
+964   za01pernumo       21                             21
+965   za01pernumo       22                             22
+966   za01pernumo       23                             23
+967   za01pernumo       24                             24
+968   za01pernumo       25                             25
+969   za01pernumo       26                             26
+970   za01pernumo       27                             27
+971   za01pernumo       28                             28
+972   za01pernumo       29                             29
+973   za01pernumo       30                             30
+974   za01pernumo       31                             31
+975   za01pernumo       32                             32
+976   za01pernumo       33                             33
+977   za01pernumo       34                             34
+978   za01pernumo       35                             35
+979   za01pernumo       36                             36
+980   za01pernumo       37                             37
+981   za01pernumo       38                             38
+982   za01pernumo       39                             39
+983   za01pernumo       40                             40
+984   za01pernumo       41                             41
+985   za01pernumo       42                             42
+986   za01pernumo       43                             43
+987   za01pernumo       44                             44
+988   za01pernumo       45                             45
+989   za01pernumo       46                             46
+990   za01pernumo       47                             47
+991   za01pernumo       48                             48
+992   za01pernumo       49                             49
+993   za01pernumo       50                             50
+994   za01pernumo       51                             51
+995   za01pernumo       52                             52
+996   za01pernumo       53                             53
+997   za01pernumo       54                             54
+998   za01pernumo       55                             55
+999   za01pernumo       56                             56
+1000  za01pernumo       57                             57
+1001  za01pernumo       58                             58
+1002  za01pernumo       59                             59
+1003  za01pernumo       60                             60
+1004  za01pernumo       61                             61
+1005  za01pernumo       62                             62
+1006  za01pernumo       63                             63
+1007  za01pernumo       64                             64
+1008  za01pernumo       65                             65
+1009  za01pernumo       66                             66
+1010  za01pernumo       67                             67
+1011  za01pernumo       68                             68
+1012  za01pernumo       69                             69
+1013  za01pernumo       70                             70
+1014  za01pernumo       71                             71
+1015  za01pernumo       72                             72
+1016  za01pernumo       73                             73
+1017  za01pernumo       74                             74
+1018  za01pernumo       75                             75
+1019  za01pernumo       76                             76
+1020  za01pernumo       77                             77
+1021  za01pernumo       78                             78
+1022  za01pernumo       79                             79
+1023  za01pernumo       80                             80
+1024  za01pernumo       81                             81
+1025  za01pernumo       82                             82
+1026  za01pernumo       83                             83
+1027  za01pernumo       84                             84
+1028  za01pernumo       85                             85
+1029  za01pernumo       86                             86
+1030  za01pernumo       87                             87
+1031  za01pernumo       88                             88
+1032  za01pernumo       89                             89
+1033  za01pernumo       90                             90
+1034  za01pernumo       91                             91
+1035  za01pernumo       92                             92
+1036  za01pernumo       93                             93
+1037  za01pernumo       94                             94
+1038  za01pernumo       95                             95
+1039  za01pernumo       96                             96
+1040  za01pernumo       97                             97
+1041  za01pernumo       98                             98
+1042  za01pernumo       99                             99
+1043  za01pernumo      100                            100
+1044  za01pernumo      101                            101
+1045  za01pernumo      102                            102
+1046  za01pernumo      103                            103
+1047  za01pernumo      104                            104
+1048  za01pernumo      105                            105
+1049  za01pernumo      106                            106
+1050  za01pernumo      107                            107
+1051  za01pernumo      108                            108
+1052  za01pernumo      109                            109
+1053  za01pernumo      110                            110
+1054  za01pernumo      111                            111
+1055  za01pernumo      112                            112
+1056  za01pernumo      113                            113
+1057  za01pernumo      114                            114
+1058  za01pernumo      115                            115
+1059  za01pernumo      116                            116
+1060  za01pernumo      117                            117
+1061  za01pernumo      118                            118
+1062  za01pernumo      119                            119
+1063  za01pernumo      120                            120
+1064  za01pernumo      121                            121
+1065  za01pernumo      122                            122
+1066  za01pernumo      123                            123
+1067  za01pernumo      124                            124
+1068  za01pernumo      125                            125
+1069  za01pernumo      126                            126
+1070  za01pernumo      127                            127
+1071  za01pernumo      128                            128
+1072  za01pernumo      129                            129
+1073  za01pernumo      130                            130
+1074  za01pernumo      131                            131
+1075  za01pernumo      132                            132
+1076  za01pernumo      133                            133
+1077  za01pernumo      134                            134
+1078  za01pernumo      135                            135
+1079  za01pernumo      136                            136
+1080  za01pernumo      137                            137
+1081  za01pernumo      138                            138
+1082  za01pernumo      139                            139
+1083  za01pernumo      140                            140
+1084  za01pernumo      141                            141
+1085  za01pernumo      142                            142
+1086  za01pernumo      143                            143
+1087  za01pernumo      144                            144
+1088  za01pernumo      145                            145
+1089  za01pernumo      146                            146
+1090  za01pernumo      147                            147
+1091  za01pernumo      148                            148
+1092  za01pernumo      149                            149
+1093  za01pernumo      150                            150
+1094  za01pernumo      151                            151
+1095  za01pernumo      152                            152
+1096  za01pernumo      153                            153
+1097  za01pernumo      154                            154
+1098  za01pernumo      155                            155
+1099  za01pernumo      156                            156
+1100  za01pernumo      157                            157
+1101  za01pernumo      158                            158
+1102  za01pernumo      159                            159
+1103  za01pernumo      160                            160
+1104  za01pernumo      161                            161
+1105  za01pernumo      162                            162
+1106  za01pernumo      163                            163
+1107  za01pernumo      164                            164
+1108  za01pernumo      165                            165
+1109  za01pernumo      166                            166
+1110  za01pernumo      167                            167
+1111  za01pernumo      168                            168
+1112  za01pernumo      169                            169
+1113  za01pernumo      170                            170
+1114  za01pernumo      171                            171
+1115  za01pernumo      172                            172
+1116  za01pernumo      173                            173
+1117  za01pernumo      174                            174
+1118  za01pernumo      175                            175
+1119  za01pernumo      176                            176
+1120  za01pernumo      177                            177
+1121  za01pernumo      178                            178
+1122  za01pernumo      179                            179
+1123  za01pernumo      180                            180
+1124  za01pernumo      181                            181
+1125  za01pernumo      182                            182
+1126  za01pernumo      183                            183
+1127  za01pernumo      184                            184
+1128  za01pernumo      185                            185
+1129  za01pernumo      186                            186
+1130  za01pernumo      187                            187
+1131  za01pernumo      188                            188
+1132  za01pernumo      189                            189
+1133  za01pernumo      190                            190
+1134  za01pernumo      191                            191
+1135  za01pernumo      192                            192
+1136  za01pernumo      193                            193
+1137  za01pernumo      194                            194
+1138  za01pernumo      195                            195
+1139  za01pernumo      196                            196
+1140  za01pernumo      197                            197
+1141  za01pernumo      198                            198
+1142  za01pernumo      199                            199
+1143  za01pernumo      200                            200
+1144  za01pernumo      201                            201
+1145  za01pernumo      202                            202
+1146  za01pernumo      203                            203
+1147  za01pernumo      204                            204
+1148  za01pernumo      205                            205
+1149  za01pernumo      206                            206
+1150  za01pernumo      207                            207
+1151  za01pernumo      208                            208
+1152  za01pernumo      209                            209
+1153  za01pernumo      210                            210
+1154  za01pernumo      211                            211
+1155  za01pernumo      212                            212
+1156  za01pernumo      213                            213
+1157  za01pernumo      214                            214
+1158  za01pernumo      215                            215
+1159  za01pernumo      216                            216
+1160  za01pernumo      217                            217
+1161  za01pernumo      218                            218
+1162  za01pernumo      219                            219
+1163  za01pernumo      220                            220
+1164  za01pernumo      221                            221
+1165  za01pernumo      222                            222
+1166  za01pernumo      223                            223
+1167  za01pernumo      224                            224
+1168  za01pernumo      225                            225
+1169  za01pernumo      226                            226
+1170  za01pernumo      227                            227
+1171  za01pernumo      228                            228
+1172  za01pernumo      229                            229
+1173  za01pernumo      230                            230
+1174  za01pernumo      231                            231
+1175  za01pernumo      232                            232
+1176  za01pernumo      233                            233
+1177  za01pernumo      234                            234
+1178  za01pernumo      235                            235
+1179  za01pernumo      236                            236
+1180  za01pernumo      237                            237
+1181  za01pernumo      238                            238
+1182  za01pernumo      239                            239
+1183  za01pernumo      240                            240
+1184  za01pernumo      241                            241
+1185  za01pernumo      242                            242
+1186  za01pernumo      243                            243
+1187  za01pernumo      244                            244
+1188  za01pernumo      245                            245
+1189  za01pernumo      246                            246
+1190  za01pernumo      247                            247
+1191  za01pernumo      248                            248
+1192  za01pernumo      249                            249
+1193  za01pernumo      250                            250
+1194  za01pernumo      251                            251
+1195  za01pernumo      252                            252
+1196  za01pernumo      253                            253
+1197  za01pernumo      254                            254
+1198  za01pernumo      255                            255
+1199  za01pernumo      256                            256
+1200  za01pernumo      257                            257
+1201  za01pernumo      258                            258
+1202  za01pernumo      259                            259
+1203  za01pernumo      260                            260
+1204  za01pernumo      261                            261
+1205  za01pernumo      262                            262
+1206  za01pernumo      263                            263
+1207  za01pernumo      264                            264
+1208  za01pernumo      265                            265
+1209  za01pernumo      266                            266
+1210  za01pernumo      267                            267
+1211  za01pernumo      268                            268
+1212  za01pernumo      269                            269
+1213  za01pernumo      270                            270
+1214  za01pernumo      271                            271
+1215  za01pernumo      272                            272
+1216  za01pernumo      273                            273
+1217  za01pernumo      274                            274
+1218  za01pernumo      275                            275
+1219  za01pernumo      276                            276
+1220  za01pernumo      277                            277
+1221  za01pernumo      278                            278
+1222  za01pernumo      279                            279
+1223  za01pernumo      280                            280
+1224  za01pernumo      281                            281
+1225  za01pernumo      282                            282
+1226  za01pernumo      283                            283
+1227  za01pernumo      284                            284
+1228  za01pernumo      285                            285
+1229  za01pernumo      286                            286
+1230  za01pernumo      287                            287
+1231  za01pernumo      288                            288
+1232  za01pernumo      289                            289
+1233  za01pernumo      290                            290
+1234  za01pernumo      291                            291
+1235  za01pernumo      292                            292
+1236  za01pernumo      293                            293
+1237  za01pernumo      294                            294
+1238  za01pernumo      295                            295
+1239  za01pernumo      296                            296
+1240  za01pernumo      297                            297
+1241  za01pernumo      298                            298
+1242  za01pernumo      299                            299
+1243  za01pernumo      300                            300
+1244  za01pernumo      301                            301
+1245  za01pernumo      302                            302
+1246  za01pernumo      303                            303
+1247  za01pernumo      304                            304
+1248  za01pernumo      305                            305
+1249  za01pernumo      306                            306
+1250  za01pernumo      307                            307
+1251  za01pernumo      308                            308
+1252  za01pernumo      309                            309
+1253  za01pernumo      310                            310
+1254  za01pernumo      311                            311
+1255  za01pernumo      312                            312
+1256  za01pernumo      313                            313
+1257  za01pernumo      314                            314
+1258  za01pernumo      315                            315
+1259  za01pernumo      316                            316
+1260  za01pernumo      317                            317
+1261  za01pernumo      318                            318
+1262  za01pernumo      319                            319
+1263  za01pernumo      320                            320
+1264  za01pernumo      321                            321
+1265  za01pernumo      322                            322
+1266  za01pernumo      323                            323
+1267  za01pernumo      324                            324
+1268  za01pernumo      325                            325
+1269  za01pernumo      326                            326
+1270  za01pernumo      327                            327
+1271  za01pernumo      328                            328
+1272  za01pernumo      329                            329
+1273  za01pernumo      330                            330
+1274  za01pernumo      331                            331
+1275  za01pernumo      332                            332
+1276  za01pernumo      333                            333
+1277  za01pernumo      334                            334
+1278  za01pernumo      335                            335
+1279  za01pernumo      336                            336
+1280  za01pernumo      337                            337
+1281  za01pernumo      338                            338
+1282  za01pernumo      339                            339
+1283  za01pernumo      340                            340
+1284  za01pernumo      341                            341
+1285  za01pernumo      342                            342
+1286  za01pernumo      343                            343
+1287  za01pernumo      344                            344
+1288  za01pernumo      345                            345
+1289  za01pernumo      346                            346
+1290  za01pernumo      347                            347
+1291  za01pernumo      348                            348
+1292  za01pernumo      349                            349
+1293  za01pernumo      350                            350
+1294  za01pernumo      351                            351
+1295  za01pernumo      352                            352
+1296  za01pernumo      353                            353
+1297  za01pernumo      354                            354
+1298  za01pernumo      355                            355
+1299  za01pernumo      356                            356
+1300  za01pernumo      357                            357
+1301  za01pernumo      358                            358
+1302  za01pernumo      359                            359
+1303  za01pernumo      360                            360
+1304  za01pernumo      361                            361
+1305  za01pernumo      362                            362
+1306  za01pernumo      363                            363
+1307  za01pernumo      364                            364
+1308  za01pernumo      365                            365
+1309  za01pernumo      366                            366
+1310  za01pernumo      367                            367
+1311  za01pernumo      368                            368
+1312  za01pernumo      369                            369
+1313  za01pernumo      370                            370
+1314  za01pernumo      371                            371
+1315  za01pernumo      372                            372
+1316  za01pernumo      373                            373
+1317  za01pernumo      374                            374
+1318  za01pernumo      375                            375
+1319  za01pernumo      376                            376
+1320  za01pernumo      377                            377
+1321  za01pernumo      378                            378
+1322  za01pernumo      379                            379
+1323  za01pernumo      380                            380
+1324  za01pernumo      381                            381
+1325  za01pernumo      382                            382
+1326  za01pernumo      383                            383
+1327  za01pernumo      384                            384
+1328  za01pernumo      385                            385
+1329  za01pernumo      386                            386
+1330  za01pernumo      387                            387
+1331  za01pernumo      388                            388
+1332  za01pernumo      389                            389
+1333  za01pernumo      390                            390
+1334  za01pernumo      391                            391
+1335  za01pernumo      392                            392
+1336  za01pernumo      393                            393
+1337  za01pernumo      394                            394
+1338  za01pernumo      395                            395
+1339  za01pernumo      396                            396
+1340  za01pernumo      397                            397
+1341  za01pernumo      398                            398
+1342  za01pernumo      399                            399
+1343  za01pernumo      400                            400
+1344  za01pernumo      401                            401
+1345  za01pernumo      402                            402
+1346  za01pernumo      403                            403
+1347  za01pernumo      404                            404
+1348  za01pernumo      405                            405
+1349  za01pernumo      406                            406
+1350  za01pernumo      407                            407
+1351  za01pernumo      408                            408
+1352  za01pernumo      409                            409
+1353  za01pernumo      410                            410
+1354  za01pernumo      411                            411
+1355  za01pernumo      412                            412
+1356      za01bmo        1                              1
+1357      za01bmo        2                              2
+1358      za01bmo        3                              3
+1359      za01bmo        4                              4
+1360      za01bmo        5                              5
+1361      za01bmo        6                              6
+1362      za01bmo        7                              7
+1363      za01bmo        8                              8
+1364      za01bmo        9                              9
+1365      za01bmo       10                             10
+1366      za01bmo       11                             11
+1367      za01bmo       12                             12
+1368      za01byr     1880                           1880
+1369      za01byr     1881                           1881
+1370      za01byr     1882                           1882
+1371      za01byr     1883                           1883
+1372      za01byr     1884                           1884
+1373      za01byr     1885                           1885
+1374      za01byr     1886                           1886
+1375      za01byr     1887                           1887
+1376      za01byr     1888                           1888
+1377      za01byr     1889                           1889
+1378      za01byr     1890                           1890
+1379      za01byr     1891                           1891
+1380      za01byr     1892                           1892
+1381      za01byr     1893                           1893
+1382      za01byr     1894                           1894
+1383      za01byr     1895                           1895
+1384      za01byr     1896                           1896
+1385      za01byr     1897                           1897
+1386      za01byr     1898                           1898
+1387      za01byr     1899                           1899
+1388      za01byr     1900                           1900
+1389      za01byr     1901                           1901
+1390      za01byr     1902                           1902
+1391      za01byr     1903                           1903
+1392      za01byr     1904                           1904
+1393      za01byr     1905                           1905
+1394      za01byr     1906                           1906
+1395      za01byr     1907                           1907
+1396      za01byr     1908                           1908
+1397      za01byr     1909                           1909
+1398      za01byr     1910                           1910
+1399      za01byr     1911                           1911
+1400      za01byr     1912                           1912
+1401      za01byr     1913                           1913
+1402      za01byr     1914                           1914
+1403      za01byr     1915                           1915
+1404      za01byr     1916                           1916
+1405      za01byr     1917                           1917
+1406      za01byr     1918                           1918
+1407      za01byr     1919                           1919
+1408      za01byr     1920                           1920
+1409      za01byr     1921                           1921
+1410      za01byr     1922                           1922
+1411      za01byr     1923                           1923
+1412      za01byr     1924                           1924
+1413      za01byr     1925                           1925
+1414      za01byr     1926                           1926
+1415      za01byr     1927                           1927
+1416      za01byr     1928                           1928
+1417      za01byr     1929                           1929
+1418      za01byr     1930                           1930
+1419      za01byr     1931                           1931
+1420      za01byr     1932                           1932
+1421      za01byr     1933                           1933
+1422      za01byr     1934                           1934
+1423      za01byr     1935                           1935
+1424      za01byr     1936                           1936
+1425      za01byr     1937                           1937
+1426      za01byr     1938                           1938
+1427      za01byr     1939                           1939
+1428      za01byr     1940                           1940
+1429      za01byr     1941                           1941
+1430      za01byr     1942                           1942
+1431      za01byr     1943                           1943
+1432      za01byr     1944                           1944
+1433      za01byr     1945                           1945
+1434      za01byr     1946                           1946
+1435      za01byr     1947                           1947
+1436      za01byr     1948                           1948
+1437      za01byr     1949                           1949
+1438      za01byr     1950                           1950
+1439      za01byr     1951                           1951
+1440      za01byr     1952                           1952
+1441      za01byr     1953                           1953
+1442      za01byr     1954                           1954
+1443      za01byr     1955                           1955
+1444      za01byr     1956                           1956
+1445      za01byr     1957                           1957
+1446      za01byr     1958                           1958
+1447      za01byr     1959                           1959
+1448      za01byr     1960                           1960
+1449      za01byr     1961                           1961
+1450      za01byr     1962                           1962
+1451      za01byr     1963                           1963
+1452      za01byr     1964                           1964
+1453      za01byr     1965                           1965
+1454      za01byr     1966                           1966
+1455      za01byr     1967                           1967
+1456      za01byr     1968                           1968
+1457      za01byr     1969                           1969
+1458      za01byr     1970                           1970
+1459      za01byr     1971                           1971
+1460      za01byr     1972                           1972
+1461      za01byr     1973                           1973
+1462      za01byr     1974                           1974
+1463      za01byr     1975                           1975
+1464      za01byr     1976                           1976
+1465      za01byr     1977                           1977
+1466      za01byr     1978                           1978
+1467      za01byr     1979                           1979
+1468      za01byr     1980                           1980
+1469      za01byr     1981                           1981
+1470      za01byr     1982                           1982
+1471      za01byr     1983                           1983
+1472      za01byr     1984                           1984
+1473      za01byr     1985                           1985
+1474      za01byr     1986                           1986
+1475      za01byr     1987                           1987
+1476      za01byr     1988                           1988
+1477      za01byr     1989                           1989
+1478      za01byr     1990                           1990
+1479      za01byr     1991                           1991
+1480      za01byr     1992                           1992
+1481      za01byr     1993                           1993
+1482      za01byr     1994                           1994
+1483      za01byr     1995                           1995
+1484      za01byr     1996                           1996
+1485      za01byr     1997                           1997
+1486      za01byr     1998                           1998
+1487      za01byr     1999                           1999
+1488      za01byr     2000                           2000
+1489      za01byr     2001                           2001
+1490      za01age        0                              0
+1491      za01age        1                              1
+1492      za01age        2                              2
+1493      za01age        3                              3
+1494      za01age        4                              4
+1495      za01age        5                              5
+1496      za01age        6                              6
+1497      za01age        7                              7
+1498      za01age        8                              8
+1499      za01age        9                              9
+1500      za01age       10                             10
+1501      za01age       11                             11
+1502      za01age       12                             12
+1503      za01age       13                             13
+1504      za01age       14                             14
+1505      za01age       15                             15
+1506      za01age       16                             16
+1507      za01age       17                             17
+1508      za01age       18                             18
+1509      za01age       19                             19
+1510      za01age       20                             20
+1511      za01age       21                             21
+1512      za01age       22                             22
+1513      za01age       23                             23
+1514      za01age       24                             24
+1515      za01age       25                             25
+1516      za01age       26                             26
+1517      za01age       27                             27
+1518      za01age       28                             28
+1519      za01age       29                             29
+1520      za01age       30                             30
+1521      za01age       31                             31
+1522      za01age       32                             32
+1523      za01age       33                             33
+1524      za01age       34                             34
+1525      za01age       35                             35
+1526      za01age       36                             36
+1527      za01age       37                             37
+1528      za01age       38                             38
+1529      za01age       39                             39
+1530      za01age       40                             40
+1531      za01age       41                             41
+1532      za01age       42                             42
+1533      za01age       43                             43
+1534      za01age       44                             44
+1535      za01age       45                             45
+1536      za01age       46                             46
+1537      za01age       47                             47
+1538      za01age       48                             48
+1539      za01age       49                             49
+1540      za01age       50                             50
+1541      za01age       51                             51
+1542      za01age       52                             52
+1543      za01age       53                             53
+1544      za01age       54                             54
+1545      za01age       55                             55
+1546      za01age       56                             56
+1547      za01age       57                             57
+1548      za01age       58                             58
+1549      za01age       59                             59
+1550      za01age       60                             60
+1551      za01age       61                             61
+1552      za01age       62                             62
+1553      za01age       63                             63
+1554      za01age       64                             64
+1555      za01age       65                             65
+1556      za01age       66                             66
+1557      za01age       67                             67
+1558      za01age       68                             68
+1559      za01age       69                             69
+1560      za01age       70                             70
+1561      za01age       71                             71
+1562      za01age       72                             72
+1563      za01age       73                             73
+1564      za01age       74                             74
+1565      za01age       75                             75
+1566      za01age       76                             76
+1567      za01age       77                             77
+1568      za01age       78                             78
+1569      za01age       79                             79
+1570      za01age       80                             80
+1571      za01age       81                             81
+1572      za01age       82                             82
+1573      za01age       83                             83
+1574      za01age       84                             84
+1575      za01age       85                             85
+1576      za01age       86                             86
+1577      za01age       87                             87
+1578      za01age       88                             88
+1579      za01age       89                             89
+1580      za01age       90                             90
+1581      za01age       91                             91
+1582      za01age       92                             92
+1583      za01age       93                             93
+1584      za01age       94                             94
+1585      za01age       95                             95
+1586      za01age       96                             96
+1587      za01age       97                             97
+1588      za01age       98                             98
+1589      za01age       99                             99
+1590      za01age      100                            100
+1591      za01age      101                            101
+1592      za01age      102                            102
+1593      za01age      103                            103
+1594      za01age      104                            104
+1595      za01age      105                            105
+1596      za01age      106                            106
+1597      za01age      107                            107
+1598      za01age      108                            108
+1599      za01age      109                            109
+1600      za01age      110                            110
+1601      za01age      111                            111
+1602      za01age      112                            112
+1603      za01age      113                            113
+1604      za01age      114                            114
+1605      za01age      115                            115
+1606      za01age      116                            116
+1607      za01age      117                            117
+1608      za01age      118                            118
+1609      za01age      119                            119
+1610      za01age      120                            120
+1611      za01sex        1                           Male
+1612      za01sex        2                         Female
+1613   za01relate        1               Head/Acting head
+1614   za01relate        2           Husband/wife/partner
+1615   za01relate        3                   Son/daughter
+1616   za01relate        4           Adopted son/daughter
+1617   za01relate        5           Stepson/stepdaughter
+1618   za01relate        6                 Brother/sister
+1619   za01relate        7                         Parent
+1620   za01relate        8                  Parent-in-law
+1621   za01relate        9    Grandchild/great-grandchild
+1622   za01relate       10            Son/daughter-in-law
+1623   za01relate       11          Brother/sister-in-law
+1624   za01relate       12                 Other relative
+1625   za01relate       13             Non-related person
+1626   za01relate       99           Member of collective
+1627    za01marst        1        Married civil/religious
+1628    za01marst        2  Married traditional/customary
+1629    za01marst        3            Polygamous marriage
+1630    za01marst        4 Living together as unmarried p
+1631    za01marst        5                  Never married
+1632    za01marst        6                  Widower/widow
+1633    za01marst        7                      Separated
+1634    za01marst        8                       Divorced
+1635   za01sploco        1                              1
+1636   za01sploco        2                              2
+1637   za01sploco        3                              3
+1638   za01sploco        4                              4
+1639   za01sploco        5                              5
+1640   za01sploco        6                              6
+1641   za01sploco        7                              7
+1642   za01sploco        8                              8
+1643   za01sploco        9                              9
+1644   za01sploco       10                             10
+1645   za01sploco       11                             11
+1646   za01sploco       12                             12
+1647   za01sploco       13                             13
+1648   za01sploco       14                             14
+1649   za01sploco       15                             15
+1650   za01sploco       16                             16
+1651   za01sploco       17                             17
+1652   za01sploco       18                             18
+1653   za01sploco       19                             19
+1654   za01sploco       20                             20
+1655   za01sploco       21                             21
+1656   za01sploco       22                             22
+1657   za01sploco       36                             36
+1658   za01sploco       98 The spouse is not in the house
+1659   za01sploco       99                            NIU
+1660     za01race        1                  Black African
+1661     za01race        2                       Coloured
+1662     za01race        3                Indian or Asian
+1663     za01race        4                          White
+1664     za01lang        1                      Afrikaans
+1665     za01lang        2                        English
+1666     za01lang        3                     IsiNdebele
+1667     za01lang        4                       IsiXhosa
+1668     za01lang        5                        IsiZulu
+1669     za01lang        6                         Sepedi
+1670     za01lang        7                        Sesotho
+1671     za01lang        8                       Setswana
+1672     za01lang        9                        Siswati
+1673     za01lang       10                      Tshivenda
+1674     za01lang       11                       Xitsonga
+1675     za01lang       12                          Other
+1676   za01relig1        1        Dutch Reformed Churches
+1677   za01relig1        2              Reformed Churches
+1678   za01relig1        3      Nederduits Hervormde Kerk
+1679   za01relig1        4                Anglican Church
+1680   za01relig1        5        Church of England in Sa
+1681   za01relig1        6 International Fellowship of Ch
+1682   za01relig1        7         Methodist Church of Sa
+1683   za01relig1        8          Presbyterian Churches
+1684   za01relig1        9 United Congregational Church o
+1685   za01relig1       10 Lutheran Church of Southern Af
+1686   za01relig1       11          Roman Catholic Church
+1687   za01relig1       12  Apostolic Faith Mission of Sa
+1688   za01relig1       13       Other Apostolic Churches
+1689   za01relig1       14 Baptist Churches of Southern A
+1690   za01relig1       15      Pinkster Protestante Kerk
+1691   za01relig1       16    Afrikaanse Protestante Kerk
+1692   za01relig1       17 Full Gospel Church of God in S
+1693   za01relig1       18              Orthodox Churches
+1694   za01relig1       19 Church of Christ of Latter Day
+1695   za01relig1       20           Pentecostal Churches
+1696   za01relig1       21   Salvation Army United Church
+1697   za01relig1       22   Seventh-Day Adventist Church
+1698   za01relig1       23           New Apostolic Church
+1699   za01relig1       24        Assemblies of God of Sa
+1700   za01relig1       25 St Engenas Zion Christian Chur
+1701   za01relig1       26          Zion Christian Church
+1702   za01relig1       27          Bandla Lama Nazaretha
+1703   za01relig1       28 African Methodist Episcopal Ch
+1704   za01relig1       29     St John's Apostolic Church
+1705   za01relig1       30 International Pentecost Church
+1706   za01relig1       31 Other African Independent Chur
+1707   za01relig1       32       Other Christian Churches
+1708   za01relig1       33     African Traditional Belief
+1709   za01relig1       34                        Judaism
+1710   za01relig1       35                       Buddhism
+1711   za01relig1       36                         Taoist
+1712   za01relig1       37                      Confucian
+1713   za01relig1       38                       Hinduism
+1714   za01relig1       39                          Islam
+1715   za01relig1       40                         Bahais
+1716   za01relig1       41   Other Non-Christian Churched
+1717   za01relig1       42            Jehovah's Witnesses
+1718   za01relig1       43  Other Non-Christian Religions
+1719   za01relig1       44       Other Methodist Churches
+1720   za01relig1       45    Other Presbyterian Churches
+1721   za01relig1       46  Other Congregational Churches
+1722   za01relig1       47        Other Lutheran Churches
+1723   za01relig1       48        Other Catholic Churches
+1724   za01relig1       49         Other Baptist Churches
+1725   za01relig1       50     Other Pentecostal Churches
+1726   za01relig1       51        Other Orthodox Churches
+1727   za01relig1       52 Other (Seventh-Day) Adventist 
+1728   za01relig1       53 Other African Apostolic Church
+1729   za01relig1       54               Other Assemblies
+1730   za01relig1       55         Other Zionist Churches
+1731   za01relig1       56         Church of the Nazarene
+1732   za01relig1       57            Christian Scientist
+1733   za01relig1       58              Christian Centres
+1734   za01relig1       59        Ethiopian type Churches
+1735   za01relig1       60                Ethnic Churches
+1736   za01relig1       61     Other Evangelical Churches
+1737   za01relig1       62     Other Charismatic Churches
+1738   za01relig1       63                    No Religion
+1739   za01relig1       64                        Refused
+1740   za01relig1       65                          Other
+1741   za01relig1       98                        Unknown
+1742  za01religgr        1        Dutch reformed churches
+1743  za01religgr        2        Zion Christian churches
+1744  za01religgr        3              Catholic churches
+1745  za01religgr        4             Methodist churches
+1746  za01religgr        5 Pentecostal/Charismatic church
+1747  za01religgr        6              Anglican churches
+1748  za01religgr        7        Apostolic Faith Mission
+1749  za01religgr        8              Lutheran churches
+1750  za01religgr        9          Presbyterian churches
+1751  za01religgr       10          Bandla Lama Nazaretha
+1752  za01religgr       11               Baptist churches
+1753  za01religgr       12        Congregational churches
+1754  za01religgr       13              Orthodox churches
+1755  za01religgr       14       Other Apostolic churches
+1756  za01religgr       15         Other Zionist churches
+1757  za01religgr       16        Ethiopian-type churches
+1758  za01religgr       17        Other Reformed churches
+1759  za01religgr       18 Other African independent chur
+1760  za01religgr       19       Otehr Christian churches
+1761  za01religgr       20     African traditional belief
+1762  za01religgr       21                        Judaism
+1763  za01religgr       22                       Hinduism
+1764  za01religgr       23                          Islam
+1765  za01religgr       24   Other non-Christian churches
+1766  za01religgr       25                    No religion
+1767  za01religgr       98                        Unknown
+1768  za01bornsaf        1                            Yes
+1769  za01bornsaf        2                             No
+1770  za01bplprov        0                            NIU
+1771  za01bplprov        1                   Western Cape
+1772  za01bplprov        2                   Eastern Cape
+1773  za01bplprov        3                  Northern Cape
+1774  za01bplprov        4                     Free State
+1775  za01bplprov        5                  KwaZulu-Natal
+1776  za01bplprov        6                     North West
+1777  za01bplprov        7                        Gauteng
+1778  za01bplprov        8                     Mpumalanga
+1779  za01bplprov        9                        Limpopo
+1780  za01bplctry      111                        Lesotho
+1781  za01bplctry      112                        Namibia
+1782  za01bplctry      113                       Botswana
+1783  za01bplctry      114                       Zimbabwe
+1784  za01bplctry      115                     Mozambique
+1785  za01bplctry      116                      Swaziland
+1786  za01bplctry      121                         Angola
+1787  za01bplctry      122 Democratic Republic Of The Con
+1788  za01bplctry      123                         Malawi
+1789  za01bplctry      124                      Mauritius
+1790  za01bplctry      125                     Seychelles
+1791  za01bplctry      126                       Tanzania
+1792  za01bplctry      127                         Zambia
+1793  za01bplctry      130                        Algeria
+1794  za01bplctry      131                          Benin
+1795  za01bplctry      132                   Burkina Faso
+1796  za01bplctry      133                        Burundi
+1797  za01bplctry      134                       Cameroon
+1798  za01bplctry      135                     Cape Verde
+1799  za01bplctry      136       Central African Republic
+1800  za01bplctry      137                           Chad
+1801  za01bplctry      138                        Comoros
+1802  za01bplctry      139                          Congo
+1803  za01bplctry      140                  Cote D'ivoire
+1804  za01bplctry      141                       Djibouti
+1805  za01bplctry      142                          Egypt
+1806  za01bplctry      143              Equatorial Guinea
+1807  za01bplctry      144                        Eritrea
+1808  za01bplctry      145                       Ethiopia
+1809  za01bplctry      146                          Gabon
+1810  za01bplctry      147                         Gambia
+1811  za01bplctry      148                          Ghana
+1812  za01bplctry      149                         Guinea
+1813  za01bplctry      150                  Guinea-Bissau
+1814  za01bplctry      151                          Kenya
+1815  za01bplctry      152                        Liberia
+1816  za01bplctry      153         Libyan Arab Jamahiriya
+1817  za01bplctry      154                     Madagascar
+1818  za01bplctry      155                           Mali
+1819  za01bplctry      156                     Mauritania
+1820  za01bplctry      157                        Morocco
+1821  za01bplctry      158                          Niger
+1822  za01bplctry      159                        Nigeria
+1823  za01bplctry      160                        Reunion
+1824  za01bplctry      161                         Rwanda
+1825  za01bplctry      162                   Saint Helena
+1826  za01bplctry      163          Sao Tome And Principe
+1827  za01bplctry      164                        Senegal
+1828  za01bplctry      165                   Sierra Leone
+1829  za01bplctry      166                        Somalia
+1830  za01bplctry      167                          Sudan
+1831  za01bplctry      168                           Togo
+1832  za01bplctry      169                        Tunisia
+1833  za01bplctry      170                         Uganda
+1834  za01bplctry      171                 Western Sahara
+1835  za01bplctry      199                   Other Africa
+1836  za01bplctry      201                  United States
+1837  za01bplctry      202                       Anguilla
+1838  za01bplctry      203            Antigua And Barbuda
+1839  za01bplctry      204                      Argentina
+1840  za01bplctry      205                          Aruba
+1841  za01bplctry      206                        Bahamas
+1842  za01bplctry      207                       Barbados
+1843  za01bplctry      208                         Belize
+1844  za01bplctry      209                        Bermuda
+1845  za01bplctry      210                        Bolivia
+1846  za01bplctry      211                         Brazil
+1847  za01bplctry      212         British Virgin Islands
+1848  za01bplctry      213                         Canada
+1849  za01bplctry      214                      Caribbean
+1850  za01bplctry      215                 Cayman Islands
+1851  za01bplctry      216                          Chile
+1852  za01bplctry      217                       Colombia
+1853  za01bplctry      218                     Costa Rica
+1854  za01bplctry      219                           Cuba
+1855  za01bplctry      220                       Dominica
+1856  za01bplctry      221             Dominican Republic
+1857  za01bplctry      222                        Ecuador
+1858  za01bplctry      223                    El Salvador
+1859  za01bplctry      224    Falkland Islands (Malvinas)
+1860  za01bplctry      225                  French Guiana
+1861  za01bplctry      226                      Greenland
+1862  za01bplctry      227                        Grenada
+1863  za01bplctry      228                     Guadeloupe
+1864  za01bplctry      229                      Guatemala
+1865  za01bplctry      230                         Guyana
+1866  za01bplctry      231                          Haiti
+1867  za01bplctry      232                       Honduras
+1868  za01bplctry      233                        Jamaica
+1869  za01bplctry      234 Latin America And The Caribbea
+1870  za01bplctry      235                     Martinique
+1871  za01bplctry      236                         Mexico
+1872  za01bplctry      237                     Montserrat
+1873  za01bplctry      238           Netherlands Antilles
+1874  za01bplctry      239                      Nicaragua
+1875  za01bplctry      240                         Panama
+1876  za01bplctry      241                       Paraguay
+1877  za01bplctry      242                           Peru
+1878  za01bplctry      243                    Puerto Rico
+1879  za01bplctry      244          Saint Kitts And Nevis
+1880  za01bplctry      245                    Saint Lucia
+1881  za01bplctry      246      Saint Pierre And Miquelon
+1882  za01bplctry      247 Saint Vincent And The Grenadin
+1883  za01bplctry      248                       Suriname
+1884  za01bplctry      249            Trinidad And Tobago
+1885  za01bplctry      250       Turks And Caicos Islands
+1886  za01bplctry      251   United States Virgin Islands
+1887  za01bplctry      252                        Uruguay
+1888  za01bplctry      253                      Venezuela
+1889  za01bplctry      299  Other North And South America
+1890  za01bplctry      301                          China
+1891  za01bplctry      302                    Afghanistan
+1892  za01bplctry      303                        Armenia
+1893  za01bplctry      304                     Azerbaijan
+1894  za01bplctry      305                        Bahrain
+1895  za01bplctry      306                     Bangladesh
+1896  za01bplctry      307                         Bhutan
+1897  za01bplctry      308              Brunei Darussalam
+1898  za01bplctry      309                       Cambodia
+1899  za01bplctry      310                         Cyprus
+1900  za01bplctry      311 Democratic People's Republic O
+1901  za01bplctry      312                     East Timor
+1902  za01bplctry      313                        Georgia
+1903  za01bplctry      314 Hong Kong Special Administrati
+1904  za01bplctry      315                          India
+1905  za01bplctry      316                      Indonesia
+1906  za01bplctry      317     Iran (Islamic Republic Of)
+1907  za01bplctry      318                           Iraq
+1908  za01bplctry      319                         Israel
+1909  za01bplctry      320                          Japan
+1910  za01bplctry      321                         Jordan
+1911  za01bplctry      322                     Kazakhstan
+1912  za01bplctry      323                         Kuwait
+1913  za01bplctry      324                     Kyrgyzstan
+1914  za01bplctry      325 Lao People's Democratic Republ
+1915  za01bplctry      326                        Lebanon
+1916  za01bplctry      327 Macao Special Administrative R
+1917  za01bplctry      328                       Malaysia
+1918  za01bplctry      329                       Maldives
+1919  za01bplctry      330                       Mongolia
+1920  za01bplctry      331                        Myanmar
+1921  za01bplctry      332                          Nepal
+1922  za01bplctry      333 Occupied Palestinian Territory
+1923  za01bplctry      334                           Oman
+1924  za01bplctry      335                       Pakistan
+1925  za01bplctry      336                    Philippines
+1926  za01bplctry      337                          Qatar
+1927  za01bplctry      338              Republic Of Korea
+1928  za01bplctry      339                   Saudi Arabia
+1929  za01bplctry      340                      Singapore
+1930  za01bplctry      341                      Sri Lanka
+1931  za01bplctry      342           Syrian Arab Republic
+1932  za01bplctry      343       Taiwan Province Of China
+1933  za01bplctry      344                     Tajikistan
+1934  za01bplctry      345                       Thailand
+1935  za01bplctry      346                         Turkey
+1936  za01bplctry      347                   Turkmenistan
+1937  za01bplctry      348           United Arab Emirates
+1938  za01bplctry      349                     Uzbekistan
+1939  za01bplctry      350                       Viet Nam
+1940  za01bplctry      351                          Yemen
+1941  za01bplctry      399                     Other Asia
+1942  za01bplctry      401   United Kingdom/Great Britain
+1943  za01bplctry      402                        Albania
+1944  za01bplctry      403                        Andorra
+1945  za01bplctry      404                        Austria
+1946  za01bplctry      405                        Belarus
+1947  za01bplctry      406                        Belgium
+1948  za01bplctry      407         Bosnia And Herzegovina
+1949  za01bplctry      408                       Bulgaria
+1950  za01bplctry      409                Channel Islands
+1951  za01bplctry      410                        Croatia
+1952  za01bplctry      411                 Czech Republic
+1953  za01bplctry      412                        Denmark
+1954  za01bplctry      413                        Estonia
+1955  za01bplctry      414                 Faeroe Islands
+1956  za01bplctry      415                        Finland
+1957  za01bplctry      416                         France
+1958  za01bplctry      417                        Germany
+1959  za01bplctry      418                      Gibraltar
+1960  za01bplctry      419                         Greece
+1961  za01bplctry      420                       Holy See
+1962  za01bplctry      421                        Hungary
+1963  za01bplctry      422                        Iceland
+1964  za01bplctry      423                        Ireland
+1965  za01bplctry      424                    Isle Of Man
+1966  za01bplctry      425                          Italy
+1967  za01bplctry      426                         Latvia
+1968  za01bplctry      427                  Liechtenstein
+1969  za01bplctry      428                      Lithuania
+1970  za01bplctry      429                     Luxembourg
+1971  za01bplctry      430                          Malta
+1972  za01bplctry      431                         Monaco
+1973  za01bplctry      432                    Netherlands
+1974  za01bplctry      433                         Norway
+1975  za01bplctry      434                         Poland
+1976  za01bplctry      435                       Portugal
+1977  za01bplctry      436            Republic Of Moldova
+1978  za01bplctry      437                        Romania
+1979  za01bplctry      438             Russian Federation
+1980  za01bplctry      439                     San Marino
+1981  za01bplctry      440                       Slovakia
+1982  za01bplctry      441                       Slovenia
+1983  za01bplctry      442                Southern Europe
+1984  za01bplctry      443                          Spain
+1985  za01bplctry      444 Svalbard And Jan Mayen Islands
+1986  za01bplctry      445                         Sweden
+1987  za01bplctry      446                    Switzerland
+1988  za01bplctry      447 The Former Yugoslav Republic O
+1989  za01bplctry      448                        Ukraine
+1990  za01bplctry      449 Federal Republic Of Yugoslavia
+1991  za01bplctry      499                   Other Europe
+1992  za01bplctry      501                      Australia
+1993  za01bplctry      502                 American Samoa
+1994  za01bplctry      503                   Cook Islands
+1995  za01bplctry      504                           Fiji
+1996  za01bplctry      505               French Polynesia
+1997  za01bplctry      506                           Guam
+1998  za01bplctry      507                       Kiribati
+1999  za01bplctry      508               Marshall Islands
+2000  za01bplctry      509                      Melanesia
+2001  za01bplctry      510                     Micronesia
+2002  za01bplctry      511 Micronesia (Federated States O
+2003  za01bplctry      512                          Nauru
+2004  za01bplctry      513                  New Caledonia
+2005  za01bplctry      514                    New Zealand
+2006  za01bplctry      515                           Niue
+2007  za01bplctry      516                 Norfolk Island
+2008  za01bplctry      517       Northern Mariana Islands
+2009  za01bplctry      518                          Palau
+2010  za01bplctry      519               Papua New Guinea
+2011  za01bplctry      520                       Pitcairn
+2012  za01bplctry      521                      Polynesia
+2013  za01bplctry      522                          Samoa
+2014  za01bplctry      523                Solomon Islands
+2015  za01bplctry      524                        Tokelau
+2016  za01bplctry      525                          Tonga
+2017  za01bplctry      526                         Tuvalu
+2018  za01bplctry      527                        Vanuatu
+2019  za01bplctry      528      Wallis and Futuna Islands
+2020  za01bplctry      599                  Other Oceania
+2021  za01bplctry      999                            NIU
+2022 za01bplctry2        1                   South Africa
+2023 za01bplctry2        2                 SADC countries
+2024 za01bplctry2        3                 Rest of Africa
+2025 za01bplctry2        4                         Europe
+2026 za01bplctry2        5                           Asia
+2027 za01bplctry2        6                  North America
+2028 za01bplctry2        7      Central and South America
+2029 za01bplctry2        8      Australia and New Zealand
+2030    za01citiz      111                        Lesotho
+2031    za01citiz      112                        Namibia
+2032    za01citiz      113                       Botswana
+2033    za01citiz      114                       Zimbabwe
+2034    za01citiz      115                     Mozambique
+2035    za01citiz      116                      Swaziland
+2036    za01citiz      121                         Angola
+2037    za01citiz      122 Democratic Republic Of The Con
+2038    za01citiz      123                         Malawi
+2039    za01citiz      124                      Mauritius
+2040    za01citiz      125                     Seychelles
+2041    za01citiz      126                       Tanzania
+2042    za01citiz      127                         Zambia
+2043    za01citiz      130                        Algeria
+2044    za01citiz      131                          Benin
+2045    za01citiz      132                   Burkina Faso
+2046    za01citiz      133                        Burundi
+2047    za01citiz      134                       Cameroon
+2048    za01citiz      135                     Cape Verde
+2049    za01citiz      136       Central African Republic
+2050    za01citiz      137                           Chad
+2051    za01citiz      138                        Comoros
+2052    za01citiz      139                          Congo
+2053    za01citiz      140                  Cote D'ivoire
+2054    za01citiz      141                       Djibouti
+2055    za01citiz      142                          Egypt
+2056    za01citiz      143              Equatorial Guinea
+2057    za01citiz      144                        Eritrea
+2058    za01citiz      145                       Ethiopia
+2059    za01citiz      146                          Gabon
+2060    za01citiz      147                         Gambia
+2061    za01citiz      148                          Ghana
+2062    za01citiz      149                         Guinea
+2063    za01citiz      150                  Guinea-Bissau
+2064    za01citiz      151                          Kenya
+2065    za01citiz      152                        Liberia
+2066    za01citiz      153         Libyan Arab Jamahiriya
+2067    za01citiz      154                     Madagascar
+2068    za01citiz      155                           Mali
+2069    za01citiz      156                     Mauritania
+2070    za01citiz      157                        Morocco
+2071    za01citiz      158                          Niger
+2072    za01citiz      159                        Nigeria
+2073    za01citiz      160                        Reunion
+2074    za01citiz      161                         Rwanda
+2075    za01citiz      162                   Saint Helena
+2076    za01citiz      163          Sao Tome And Principe
+2077    za01citiz      164                        Senegal
+2078    za01citiz      165                   Sierra Leone
+2079    za01citiz      166                        Somalia
+2080    za01citiz      167                          Sudan
+2081    za01citiz      168                           Togo
+2082    za01citiz      169                        Tunisia
+2083    za01citiz      170                         Uganda
+2084    za01citiz      171                 Western Sahara
+2085    za01citiz      199                   Other Africa
+2086    za01citiz      201                  United States
+2087    za01citiz      202                       Anguilla
+2088    za01citiz      203            Antigua And Barbuda
+2089    za01citiz      204                      Argentina
+2090    za01citiz      205                          Aruba
+2091    za01citiz      206                        Bahamas
+2092    za01citiz      207                       Barbados
+2093    za01citiz      208                         Belize
+2094    za01citiz      209                        Bermuda
+2095    za01citiz      210                        Bolivia
+2096    za01citiz      211                         Brazil
+2097    za01citiz      212         British Virgin Islands
+2098    za01citiz      213                         Canada
+2099    za01citiz      214                      Caribbean
+2100    za01citiz      215                 Cayman Islands
+2101    za01citiz      216                          Chile
+2102    za01citiz      217                       Colombia
+2103    za01citiz      218                     Costa Rica
+2104    za01citiz      219                           Cuba
+2105    za01citiz      220                       Dominica
+2106    za01citiz      221             Dominican Republic
+2107    za01citiz      222                        Ecuador
+2108    za01citiz      223                    El Salvador
+2109    za01citiz      224    Falkland Islands (Malvinas)
+2110    za01citiz      225                  French Guiana
+2111    za01citiz      226                      Greenland
+2112    za01citiz      227                        Grenada
+2113    za01citiz      228                     Guadeloupe
+2114    za01citiz      229                      Guatemala
+2115    za01citiz      230                         Guyana
+2116    za01citiz      231                          Haiti
+2117    za01citiz      232                       Honduras
+2118    za01citiz      233                        Jamaica
+2119    za01citiz      234 Latin America And The Caribbea
+2120    za01citiz      235                     Martinique
+2121    za01citiz      236                         Mexico
+2122    za01citiz      237                     Montserrat
+2123    za01citiz      238           Netherlands Antilles
+2124    za01citiz      239                      Nicaragua
+2125    za01citiz      240                         Panama
+2126    za01citiz      241                       Paraguay
+2127    za01citiz      242                           Peru
+2128    za01citiz      243                    Puerto Rico
+2129    za01citiz      244          Saint Kitts And Nevis
+2130    za01citiz      245                    Saint Lucia
+2131    za01citiz      246      Saint Pierre And Miquelon
+2132    za01citiz      247 Saint Vincent And The Grenadin
+2133    za01citiz      248                       Suriname
+2134    za01citiz      249            Trinidad And Tobago
+2135    za01citiz      250       Turks And Caicos Islands
+2136    za01citiz      251   United States Virgin Islands
+2137    za01citiz      252                        Uruguay
+2138    za01citiz      253                      Venezuela
+2139    za01citiz      299  Other North And South America
+2140    za01citiz      301                          China
+2141    za01citiz      302                    Afghanistan
+2142    za01citiz      303                        Armenia
+2143    za01citiz      304                     Azerbaijan
+2144    za01citiz      305                        Bahrain
+2145    za01citiz      306                     Bangladesh
+2146    za01citiz      307                         Bhutan
+2147    za01citiz      308              Brunei Darussalam
+2148    za01citiz      309                       Cambodia
+2149    za01citiz      310                         Cyprus
+2150    za01citiz      311 Democratic People's Republic O
+2151    za01citiz      312                     East Timor
+2152    za01citiz      313                        Georgia
+2153    za01citiz      314 Hong Kong Special Administrati
+2154    za01citiz      315                          India
+2155    za01citiz      316                      Indonesia
+2156    za01citiz      317     Iran (Islamic Republic Of)
+2157    za01citiz      318                           Iraq
+2158    za01citiz      319                         Israel
+2159    za01citiz      320                          Japan
+2160    za01citiz      321                         Jordan
+2161    za01citiz      322                     Kazakhstan
+2162    za01citiz      323                         Kuwait
+2163    za01citiz      324                     Kyrgyzstan
+2164    za01citiz      325 Lao People's Democratic Republ
+2165    za01citiz      326                        Lebanon
+2166    za01citiz      327 Macao Special Administrative R
+2167    za01citiz      328                       Malaysia
+2168    za01citiz      329                       Maldives
+2169    za01citiz      330                       Mongolia
+2170    za01citiz      331                        Myanmar
+2171    za01citiz      332                          Nepal
+2172    za01citiz      333 Occupied Palestinian Territory
+2173    za01citiz      334                           Oman
+2174    za01citiz      335                       Pakistan
+2175    za01citiz      336                    Philippines
+2176    za01citiz      337                          Qatar
+2177    za01citiz      338              Republic Of Korea
+2178    za01citiz      339                   Saudi Arabia
+2179    za01citiz      340                      Singapore
+2180    za01citiz      341                      Sri Lanka
+2181    za01citiz      342           Syrian Arab Republic
+2182    za01citiz      343       Taiwan Province Of China
+2183    za01citiz      344                     Tajikistan
+2184    za01citiz      345                       Thailand
+2185    za01citiz      346                         Turkey
+2186    za01citiz      347                   Turkmenistan
+2187    za01citiz      348           United Arab Emirates
+2188    za01citiz      349                     Uzbekistan
+2189    za01citiz      350                       Viet Nam
+2190    za01citiz      351                          Yemen
+2191    za01citiz      399                     Other Asia
+2192    za01citiz      401   United Kingdom/Great Britain
+2193    za01citiz      402                        Albania
+2194    za01citiz      403                        Andorra
+2195    za01citiz      404                        Austria
+2196    za01citiz      405                        Belarus
+2197    za01citiz      406                        Belgium
+2198    za01citiz      407         Bosnia And Herzegovina
+2199    za01citiz      408                       Bulgaria
+2200    za01citiz      409                Channel Islands
+2201    za01citiz      410                        Croatia
+2202    za01citiz      411                 Czech Republic
+2203    za01citiz      412                        Denmark
+2204    za01citiz      413                        Estonia
+2205    za01citiz      414                 Faeroe Islands
+2206    za01citiz      415                        Finland
+2207    za01citiz      416                         France
+2208    za01citiz      417                        Germany
+2209    za01citiz      418                      Gibraltar
+2210    za01citiz      419                         Greece
+2211    za01citiz      420                       Holy See
+2212    za01citiz      421                        Hungary
+2213    za01citiz      422                        Iceland
+2214    za01citiz      423                        Ireland
+2215    za01citiz      424                    Isle Of Man
+2216    za01citiz      425                          Italy
+2217    za01citiz      426                         Latvia
+2218    za01citiz      427                  Liechtenstein
+2219    za01citiz      428                      Lithuania
+2220    za01citiz      429                     Luxembourg
+2221    za01citiz      430                          Malta
+2222    za01citiz      431                         Monaco
+2223    za01citiz      432                    Netherlands
+2224    za01citiz      433                         Norway
+2225    za01citiz      434                         Poland
+2226    za01citiz      435                       Portugal
+2227    za01citiz      436            Republic Of Moldova
+2228    za01citiz      437                        Romania
+2229    za01citiz      438             Russian Federation
+2230    za01citiz      439                     San Marino
+2231    za01citiz      440                       Slovakia
+2232    za01citiz      441                       Slovenia
+2233    za01citiz      442                Southern Europe
+2234    za01citiz      443                          Spain
+2235    za01citiz      444 Svalbard And Jan Mayen Islands
+2236    za01citiz      445                         Sweden
+2237    za01citiz      446                    Switzerland
+2238    za01citiz      447 The Former Yugoslav Republic O
+2239    za01citiz      448                        Ukraine
+2240    za01citiz      449 Federal Republic Of Yugoslavia
+2241    za01citiz      499                   Other Europe
+2242    za01citiz      501                      Australia
+2243    za01citiz      502                 American Samoa
+2244    za01citiz      503                   Cook Islands
+2245    za01citiz      504                           Fiji
+2246    za01citiz      505               French Polynesia
+2247    za01citiz      506                           Guam
+2248    za01citiz      507                       Kiribati
+2249    za01citiz      508               Marshall Islands
+2250    za01citiz      509                      Melanesia
+2251    za01citiz      510                     Micronesia
+2252    za01citiz      511 Micronesia (Federated States O
+2253    za01citiz      512                          Nauru
+2254    za01citiz      513                  New Caledonia
+2255    za01citiz      514                    New Zealand
+2256    za01citiz      515                           Niue
+2257    za01citiz      516                 Norfolk Island
+2258    za01citiz      517       Northern Mariana Islands
+2259    za01citiz      518                          Palau
+2260    za01citiz      519               Papua New Guinea
+2261    za01citiz      520                       Pitcairn
+2262    za01citiz      521                      Polynesia
+2263    za01citiz      522                          Samoa
+2264    za01citiz      523                Solomon Islands
+2265    za01citiz      524                        Tokelau
+2266    za01citiz      525                          Tonga
+2267    za01citiz      526                         Tuvalu
+2268    za01citiz      527                        Vanuatu
+2269    za01citiz      528      Wallis and Futuna Islands
+2270    za01citiz      599                  Other Oceania
+2271    za01citiz      600                   South Africa
+2272  za01citizgr        1                   South Africa
+2273  za01citizgr        2                 SADC countries
+2274  za01citizgr        3                 Rest of Africa
+2275  za01citizgr        4                         Europe
+2276  za01citizgr        5                           Asia
+2277  za01citizgr        6                  North America
+2278  za01citizgr        7      Central and South America
+2279  za01citizgr        8      Australia and New Zealand
+2280   za01uslres        1                            Yes
+2281   za01uslres        2                             No
+2282    za01moved        1                            Yes
+2283    za01moved        2                             No
+2284    za01moved        3        Born after October 1996
+2285  za01yrmoved        1                           1996
+2286  za01yrmoved        2                           1997
+2287  za01yrmoved        3                           1998
+2288  za01yrmoved        4                           1999
+2289  za01yrmoved        5                           2000
+2290  za01yrmoved        6                           2001
+2291  za01yrmoved        9                            NIU
+2292  za01prvprov        1                   Western Cape
+2293  za01prvprov        2                   Eastern Cape
+2294  za01prvprov        3                  Northern Cape
+2295  za01prvprov        4                     Free State
+2296  za01prvprov        5                  KwaZulu-Natal
+2297  za01prvprov        6                     North West
+2298  za01prvprov        7                        Gauteng
+2299  za01prvprov        8                     Mpumalanga
+2300  za01prvprov        9                        Limpopo
+2301  za01prvprov       10                Foreign country
+2302  za01prvprov       98                        Unknown
+2303  za01prvprov       99                            NIU
+2304  za01dssight        1                            Yes
+2305  za01dssight        2                             No
+2306   za01dshear        1                            Yes
+2307   za01dshear        2                             No
+2308   za01dscomm        1                            Yes
+2309   za01dscomm        2                             No
+2310   za01dsphys        1                            Yes
+2311   za01dsphys        2                             No
+2312  za01disment        1                            Yes
+2313  za01disment        2                             No
+2314  za01disemot        1                            Yes
+2315  za01disemot        2                             No
+2316    za01disab        0                           None
+2317    za01disab        1 Sight (blind/severe visual lim
+2318    za01disab        2 Hearing (deaf, profoundly hard
+2319    za01disab        3 Communication (speech impairme
+2320    za01disab        4 Physical (e.g. needs wheelchai
+2321    za01disab        5 Intellectual (serious difficul
+2322    za01disab        6 Emotional (behavioural, psycho
+2323    za01disab        7 Multiple (combination of two o
+2324  za01mothliv        1                            Yes
+2325  za01mothliv        2                             No
+2326  za01mothloc        1                              1
+2327  za01mothloc        2                              2
+2328  za01mothloc        3                              3
+2329  za01mothloc        4                              4
+2330  za01mothloc        5                              5
+2331  za01mothloc        6                              6
+2332  za01mothloc        7                              7
+2333  za01mothloc        8                              8
+2334  za01mothloc        9                              9
+2335  za01mothloc       10                             10
+2336  za01mothloc       11                             11
+2337  za01mothloc       12                             12
+2338  za01mothloc       13                             13
+2339  za01mothloc       14                             14
+2340  za01mothloc       15                             15
+2341  za01mothloc       16                             16
+2342  za01mothloc       17                             17
+2343  za01mothloc       18                             18
+2344  za01mothloc       19                             19
+2345  za01mothloc       20                             20
+2346  za01mothloc       21                             21
+2347  za01mothloc       22                             22
+2348  za01mothloc       23                             23
+2349  za01mothloc       24                             24
+2350  za01mothloc       26                             26
+2351  za01mothloc       32                             32
+2352  za01mothloc       36                             36
+2353  za01mothloc       39                             39
+2354  za01mothloc       40                             40
+2355  za01mothloc       58                             58
+2356  za01mothloc       97 Mother does not live in househ
+2357  za01mothloc       98                        Unknown
+2358  za01mothloc       99                            NIU
+2359  za01fathliv        1                            Yes
+2360  za01fathliv        2                             No
+2361  za01fathloc        1                              1
+2362  za01fathloc        2                              2
+2363  za01fathloc        3                              3
+2364  za01fathloc        4                              4
+2365  za01fathloc        5                              5
+2366  za01fathloc        6                              6
+2367  za01fathloc        7                              7
+2368  za01fathloc        8                              8
+2369  za01fathloc        9                              9
+2370  za01fathloc       10                             10
+2371  za01fathloc       11                             11
+2372  za01fathloc       12                             12
+2373  za01fathloc       13                             13
+2374  za01fathloc       14                             14
+2375  za01fathloc       15                             15
+2376  za01fathloc       16                             16
+2377  za01fathloc       17                             17
+2378  za01fathloc       18                             18
+2379  za01fathloc       19                             19
+2380  za01fathloc       20                             20
+2381  za01fathloc       21                             21
+2382  za01fathloc       22                             22
+2383  za01fathloc       23                             23
+2384  za01fathloc       24                             24
+2385  za01fathloc       30                             30
+2386  za01fathloc       34                             34
+2387  za01fathloc       97 Father does not live in househ
+2388  za01fathloc       98                        Unknown
+2389  za01fathloc       99                            NIU
+2390   za01school        1                             No
+2391   za01school        2                     Pre-school
+2392   za01school        3                         School
+2393   za01school        4                        College
+2394   za01school        5                      Technikon
+2395   za01school        6                     University
+2396   za01school        7         Adult education centre
+2397   za01school        8                          Other
+2398  za01schtype        1            Public (government)
+2399  za01schtype        2                        Private
+2400  za01schtype        9                            NIU
+2401  za01edattan        0                   No schooling
+2402  za01edattan        1                Grade 1 / Sub A
+2403  za01edattan        2                Grade 2 / Sub B
+2404  za01edattan        3           Grade 3 / Standard 1
+2405  za01edattan        4           Grade 4 / Standard 2
+2406  za01edattan        5           Grade 5 / Standard 3
+2407  za01edattan        6           Grade 6 / Standard 4
+2408  za01edattan        7           Grade 7 / Standard 5
+2409  za01edattan        8  Grade 8 / Standard 6 / Form 1
+2410  za01edattan        9  Grade 9 / Standard 7 / Form 2
+2411  za01edattan       10 Grade 10 / Standard 8 / Form 3
+2412  za01edattan       11 Grade 11 / Standard 9 / Form 4
+2413  za01edattan       12 Grade 12 / Standard 10 / Form 
+2414  za01edattan       13 Certificate with less than Gra
+2415  za01edattan       14 Diploma with less than Grade 1
+2416  za01edattan       15      Certificate with Grade 12
+2417  za01edattan       16          Diploma with Grade 12
+2418  za01edattan       17              Bachelor's Degree
+2419  za01edattan       18  Bachelor's Degree and Diploma
+2420  za01edattan       19                 Honours degree
+2421  za01edattan       20 Higher Degree (Master's, Docto
+2422  za01edattan       99                            NIU
+2423 za01edattan2        1                   No schooling
+2424 za01edattan2        2                   Some primary
+2425 za01edattan2        3               Complete primary
+2426 za01edattan2        4                 Some secondary
+2427 za01edattan2        5              Grade 12 / Std 10
+2428 za01edattan2        6                         Higher
+2429 za01edattan2        9                            NIU
+2430  za01edfield        1 Agriculture or renewable energ
+2431  za01edfield        2 Architecture or environment de
+2432  za01edfield        3    Arts (visual or performing)
+2433  za01edfield        4 Business, commerce or manageme
+2434  za01edfield        5                  Communication
+2435  za01edfield        6 Computer science or data proce
+2436  za01edfield        7 Education, training or develop
+2437  za01edfield        8 Engineering or engineering tec
+2438  za01edfield        9 Health care or health sciences
+2439  za01edfield       10                 Home economics
+2440  za01edfield       11 Industrial arts, trades or tec
+2441  za01edfield       12 Languages, linguistics or lite
+2442  za01edfield       13                            Law
+2443  za01edfield       14           Libraries or museums
+2444  za01edfield       15 Life sciences or physical scie
+2445  za01edfield       16          Mathematical sciences
+2446  za01edfield       17              Military sciences
+2447  za01edfield       18 Philosophy, religion or theolo
+2448  za01edfield       19  Physical education or leisure
+2449  za01edfield       20                     Psychology
+2450  za01edfield       21 Public administration or socia
+2451  za01edfield       22 Social sciences or social stud
+2452  za01edfield       23                          Other
+2453  za01edfield       99                            NIU
+2454  za01wrkweek        1 Yes: formal registered (non-fa
+2455  za01wrkweek        2 Yes: informal unregistered (no
+2456  za01wrkweek        3                   Yes: farming
+2457  za01wrkweek        4 Yes: has work but was temporar
+2458  za01wrkweek        5          No: did not have work
+2459  za01wrkweek        9                            NIU
+2460 za01wrkreasn        1             Scholar or student
+2461 za01wrkreasn        2         Homemaker or housewife
+2462 za01wrkreasn        3 Pensioner or retired person/to
+2463 za01wrkreasn        4 Unable to work due to illness 
+2464 za01wrkreasn        5 Seasonal worker not working pr
+2465 za01wrkreasn        6        Does not choose to work
+2466 za01wrkreasn        7            Could not find work
+2467 za01wrkreasn        9                            NIU
+2468  za01wrkseek        1                            Yes
+2469  za01wrkseek        2                             No
+2470  za01wrkseek        9                            NIU
+2471 za01wrkavail        1                Within one week
+2472 za01wrkavail        2 More than 1 week, up to 4 week
+2473 za01wrkavail        3 More than 2 weeks, up to 4 wee
+2474 za01wrkavail        4        Some time after 4 weeks
+2475 za01wrkavail        5        Does not choose to work
+2476 za01wrkavail        9                            NIU
+2477  za01empstat        1                       Employed
+2478  za01empstat        2                     Unemployed
+2479  za01empstat        3        Not economically active
+2480  za01empstat        9                            NIU
+2481 za01empstat2        1                       Employed
+2482 za01empstat2        2                     Unemployed
+2483 za01empstat2        3        Not economically active
+2484 za01empstat2        9                            NIU
+2485 za01empstat3        0                            NIU
+2486 za01empstat3        1                       Employed
+2487 za01empstat3        2                     Unemployed
+2488 za01empstat3        3             Scholar or student
+2489 za01empstat3        4        Home-maker or housewife
+2490 za01empstat3        5 Pensioner or retired person/to
+2491 za01empstat3        6 Unable to work due to illness 
+2492 za01empstat3        7 Seasonal worker not working pr
+2493 za01empstat3        8        Does not choose to work
+2494 za01empstat3        9            Could not find work
+2495  za01classwk        1                  Paid employee
+2496  za01classwk        2             Paid family worker
+2497  za01classwk        3                  Self-employed
+2498  za01classwk        4                       Employer
+2499  za01classwk        5           Unpaid family worker
+2500  za01classwk        9                            NIU
+2501     za01ind1        0 Private households with employ
+2502     za01ind1        1 Agriculture; hunting; forestry
+2503     za01ind1        2           Mining and quarrying
+2504     za01ind1        3                  Manufacturing
+2505     za01ind1        4 Electricity; gas and water sup
+2506     za01ind1        5                   Construction
+2507     za01ind1        6     Wholesale and retail trade
+2508     za01ind1        7 Transport; storage and communi
+2509     za01ind1        8 Financial; insurance; real est
+2510     za01ind1        9 Community; social and personal
+2511     za01ind1       98                        Unknown
+2512     za01ind1       99                            NIU
+2513     za01ind3       10 Private households with employ
+2514     za01ind3       20    Exterritorial organizations
+2515     za01ind3       30 Representatives of foreign gov
+2516     za01ind3      100 Agriculture, hunting and relat
+2517     za01ind3      111 Growing of crops, market garde
+2518     za01ind3      112             Farming of animals
+2519     za01ind3      113 Growing of crops combined with
+2520     za01ind3      114 Agricultural and animal husban
+2521     za01ind3      115 Hunting, trapping and game pro
+2522     za01ind3      116 Production of organic fertiliz
+2523     za01ind3      120 Forestry, logging and related 
+2524     za01ind3      121  Forestry and related services
+2525     za01ind3      122   Logging and related services
+2526     za01ind3      130 Fishing, operational of fish h
+2527     za01ind3      131      Ocean and coastal fishing
+2528     za01ind3      132 Fish hatcheries and fish farms
+2529     za01ind3      210     Mining of coal and lignite
+2530     za01ind3      221 Extraction of crude petroleum 
+2531     za01ind3      230 Mining of gold and uranium ore
+2532     za01ind3      240           Mining of metal ores
+2533     za01ind3      241             Mining of iron ore
+2534     za01ind3      242 Mining of non-ferrous metal or
+2535     za01ind3      250     Other mining and quarrying
+2536     za01ind3      251 Stone quarrying, clay and sand
+2537     za01ind3      252 Mining of diamonds (including-
+2538     za01ind3      253    Mining and quarrying n.e.c.
+2539     za01ind3      290 Service activities incidental 
+2540     za01ind3      300 Manufacture of food products a
+2541     za01ind3      301 Production, processing and pre
+2542     za01ind3      302  Manufacture of dairy products
+2543     za01ind3      303 Manufacture of grain mill prod
+2544     za01ind3      304 Manufacture of other food prod
+2545     za01ind3      305       Manufacture of beverages
+2546     za01ind3      306 Manufacture of tobacco product
+2547     za01ind3      310 Manufacture of textiles, cloth
+2548     za01ind3      311 Spinning, weaving and finishin
+2549     za01ind3      312  Manufacture of other textiles
+2550     za01ind3      313 Manufacture of knitted and cro
+2551     za01ind3      314 Manufacture of wearing apparel
+2552     za01ind3      315 Dressing and dyeing of fur; ma
+2553     za01ind3      316 Tanning and dressing of leathe
+2554     za01ind3      317        Manufacture of footwear
+2555     za01ind3      320 Manufacture of wood and produc
+2556     za01ind3      321 Saw milling and plaining of wo
+2557     za01ind3      322 Manufacture of products of woo
+2558     za01ind3      323 Manufacture of paper and paper
+2559     za01ind3      324                     Publishing
+2560     za01ind3      325 Printing and service activitie
+2561     za01ind3      326 Reproduction of recorded media
+2562     za01ind3      330 Manufacture of coke, refined p
+2563     za01ind3      331 Manufacture of coke oven produ
+2564     za01ind3      332 Petroleum refineries / synthes
+2565     za01ind3      333     Processing of nuclear fuel
+2566     za01ind3      334 Manufacture of basic chemicals
+2567     za01ind3      335 Manufacture of other chemical 
+2568     za01ind3      336 Manufacture of man-made fibres
+2569     za01ind3      337 Manufacture of rubber products
+2570     za01ind3      338 Manufacture of plastic product
+2571     za01ind3      340 Manufacture of other non-metal
+2572     za01ind3      341 Manufacture of glass and glass
+2573     za01ind3      342 Manufacture of non-metallic mi
+2574     za01ind3      350 Manufacture of basic metals, f
+2575     za01ind3      351 Manufacture of basic iron and 
+2576     za01ind3      352 Manufacture of basic precious 
+2577     za01ind3      353              Casting of metals
+2578     za01ind3      354 Manufacture of structural meta
+2579     za01ind3      355 Manufacture of other fabricate
+2580     za01ind3      356 Manufacture of general purpose
+2581     za01ind3      357 Manufacture of special purpose
+2582     za01ind3      358 Manufacture of household appli
+2583     za01ind3      359 Manufacture of office, account
+2584     za01ind3      360 Manufacture of electrical mach
+2585     za01ind3      361 Manufacture of electric motors
+2586     za01ind3      362 Manufacture of electricity dis
+2587     za01ind3      363 Manufacture of insulated wire 
+2588     za01ind3      364 Manufacture of accumulators, p
+2589     za01ind3      365 Manufacture of electric lamps 
+2590     za01ind3      366 Manufacture of other electrica
+2591     za01ind3      370 Manufacture of radio, televisi
+2592     za01ind3      371 Manufacture of electronic valv
+2593     za01ind3      372 Manufacture of television and 
+2594     za01ind3      373 Manufacture of television and 
+2595     za01ind3      374 Manufacture of medical applian
+2596     za01ind3      375 Manufacture of optical instrum
+2597     za01ind3      376 Manufacture of watches and clo
+2598     za01ind3      380 Manufacture of transport equip
+2599     za01ind3      381  Manufacture of motor vehicles
+2600     za01ind3      382 Manufacture of bodies (coachwo
+2601     za01ind3      383 Manufacture of parts and acces
+2602     za01ind3      384 Building and repairing of ship
+2603     za01ind3      385 Manufacture of railway and tra
+2604     za01ind3      386 Manufacture of aircraft and sp
+2605     za01ind3      387 Manufacture of transport equip
+2606     za01ind3      390 Manufacture of furniture; manu
+2607     za01ind3      391       Manufacture of furniture
+2608     za01ind3      392           Manufacturing n.e.c.
+2609     za01ind3      395               Recycling n.e.c.
+2610     za01ind3      410 Electricity, gas, steam and ho
+2611     za01ind3      411 Production, collection and dis
+2612     za01ind3      412 Manufacture of gas; distributi
+2613     za01ind3      413     Steam and hot water supply
+2614     za01ind3      420 Collection, purification and d
+2615     za01ind3      500                   Construction
+2616     za01ind3      501               Site preparation
+2617     za01ind3      502 Building of complete construct
+2618     za01ind3      503          Building installation
+2619     za01ind3      504            Building completion
+2620     za01ind3      505 Renting of construction of dem
+2621     za01ind3      610 Wholesale and commission trade
+2622     za01ind3      611 Wholesale trade on a fee or co
+2623     za01ind3      612 Wholesale trade in agricultura
+2624     za01ind3      613 Wholesale trade in house-hold 
+2625     za01ind3      614 Wholesale trade in non-agricul
+2626     za01ind3      615 Wholesale trade in machinery, 
+2627     za01ind3      619          Other wholesale trade
+2628     za01ind3      620 Retail trade, except of motor 
+2629     za01ind3      621 Non-specialized retail trade i
+2630     za01ind3      622 Retail trade in food, beverage
+2631     za01ind3      623 Other retail trade in new good
+2632     za01ind3      624 Retail trade in second-hand go
+2633     za01ind3      625     Retail trade not in stores
+2634     za01ind3      626 Repair of personal and house-h
+2635     za01ind3      630 Sale, maintenance and repair o
+2636     za01ind3      631         Sale of motor vehicles
+2637     za01ind3      632 Maintenance and re-pair of mot
+2638     za01ind3      633 Sale of motor vehicle parts an
+2639     za01ind3      634 Sale, maintenance and repair o
+2640     za01ind3      635 Retail sale of automotive fuel
+2641     za01ind3      640         Hotels and restaurants
+2642     za01ind3      641 Hotels, camping sites and othe
+2643     za01ind3      642 Restaurants, bars and can-teen
+2644     za01ind3      710 Land transport; transport via 
+2645     za01ind3      711              Railway transport
+2646     za01ind3      712           Other land transport
+2647     za01ind3      713        Transport via pipelines
+2648     za01ind3      720                Water transport
+2649     za01ind3      721 Sea and coastal water transpor
+2650     za01ind3      722         Inland water transport
+2651     za01ind3      730                  Air transport
+2652     za01ind3      741 Supporting and auxiliary trans
+2653     za01ind3      750     Post and telecommunication
+2654     za01ind3      751 Postal and related courier act
+2655     za01ind3      752              Telecommunication
+2656     za01ind3      810 Financial intermediation, exce
+2657     za01ind3      811        Monetary intermediation
+2658     za01ind3      819 Other financial intermediation
+2659     za01ind3      820 Insurance and pension funding,
+2660     za01ind3      821 Insurance and pension funding,
+2661     za01ind3      830 Activities auxiliary to financ
+2662     za01ind3      831 Activities auxiliary to financ
+2663     za01ind3      832 Activities auxiliary to insura
+2664     za01ind3      840         Real estate activities
+2665     za01ind3      841 Real estate activities with ow
+2666     za01ind3      842 Real estate activities on a fe
+2667     za01ind3      850 Renting of machinery and equip
+2668     za01ind3      851 Renting of transport equipment
+2669     za01ind3      852 Renting of other machinery and
+2670     za01ind3      853 Renting of personal and househ
+2671     za01ind3      860 Computer and related activitie
+2672     za01ind3      861           Hardware consultancy
+2673     za01ind3      862 Software consultancy and suppl
+2674     za01ind3      863                Data processing
+2675     za01ind3      864           Data base activities
+2676     za01ind3      865 Maintenance and repair of offi
+2677     za01ind3      869 Other computer related activit
+2678     za01ind3      870       Research and development
+2679     za01ind3      871 Research and experimental deve
+2680     za01ind3      872 Research and experimental deve
+2681     za01ind3      880      Other business activities
+2682     za01ind3      881 Legal, accounting, bookkeeping
+2683     za01ind3      882 Architectural, engineering and
+2684     za01ind3      883                    Advertising
+2685     za01ind3      889     Business activities n.e.c.
+2686     za01ind3      910 Public administration and defe
+2687     za01ind3      911  Central government activities
+2688     za01ind3      912 Regional services council acti
+2689     za01ind3      913     Local authority activities
+2690     za01ind3      914     Provincial administrations
+2691     za01ind3      915              S A defense force
+2692     za01ind3      916             S A police service
+2693     za01ind3      917           Correctional service
+2694     za01ind3      920                      Education
+2695     za01ind3      930         Health and social work
+2696     za01ind3      931        Human health activities
+2697     za01ind3      932          Veterinary activities
+2698     za01ind3      933         Social work activities
+2699     za01ind3      940 Other community, social and pe
+2700     za01ind3      950 Activities of membership organ
+2701     za01ind3      951 Activities of business, employ
+2702     za01ind3      952     Activities of trade unions
+2703     za01ind3      959 Activities of other membership
+2704     za01ind3      960 Recreational, cultural and spo
+2705     za01ind3      961 Motion picture, radio, televis
+2706     za01ind3      962         News agency activities
+2707     za01ind3      963 Library, archives, museums and
+2708     za01ind3      964 Sporting and other recreationa
+2709     za01ind3      990       Other service activities
+2710     za01ind3      998                        Unknown
+2711     za01ind3      999                            NIU
+2712     za01occ1        0                            NIU
+2713     za01occ1        1 Legislators; senior officials 
+2714     za01occ1        2                  Professionals
+2715     za01occ1        3 Technicians and associate prof
+2716     za01occ1        4                         Clerks
+2717     za01occ1        5 Service workers; shop and mark
+2718     za01occ1        6 Skilled agricultural and fishe
+2719     za01occ1        7 Craft and related trades worke
+2720     za01occ1        8 Plant and machine operators an
+2721     za01occ1        9 Elementary occupations and unk
+2722     za01occ1       98                        Unknown
+2723     za01occ2       11 Legislators and Senior Officia
+2724     za01occ2       12             Corporate Managers
+2725     za01occ2       13               General Managers
+2726     za01occ2       21 Physical; Mathematical and Eng
+2727     za01occ2       22 Life Science and Health Profes
+2728     za01occ2       23         Teaching Professionals
+2729     za01occ2       24            Other Professionals
+2730     za01occ2       31 Natural and Engineering Scienc
+2731     za01occ2       32 Life science and Health Associ
+2732     za01occ2       33 Teaching Associate Professiona
+2733     za01occ2       34  Other Associate Professionals
+2734     za01occ2       41                  Office Clerks
+2735     za01occ2       42        Customer Service Clerks
+2736     za01occ2       51 Personal and Protective Servic
+2737     za01occ2       52 Models; Salespersons and Demon
+2738     za01occ2       61 Market-oriented skilled Agricu
+2739     za01occ2       62 Subsistence Agricultural and F
+2740     za01occ2       71 Extraction and Building Trade 
+2741     za01occ2       72 Metal; Machinery and related T
+2742     za01occ2       73 Handicraft; Printing and relat
+2743     za01occ2       74 Other Craft and related Trade 
+2744     za01occ2       81 Stationary-Plant and related O
+2745     za01occ2       82 Machine Operators and Assemble
+2746     za01occ2       83 Drivers and Mobile-Plant Opera
+2747     za01occ2       91 Sales and Services Elementary 
+2748     za01occ2       92 Agricultural; Fishery and rela
+2749     za01occ2       93 Mining; Construction; Manufact
+2750     za01occ2       98                        Unknown
+2751     za01occ2       99                            NIU
+2752      za01occ      111                    Legislators
+2753      za01occ      112     Senior government officers
+2754      za01occ      113 Traditional chiefs and heads o
+2755      za01occ      114 Senior officers of special-int
+2756      za01occ      119 Legislators and senior officer
+2757      za01occ      121 Directors and chief executives
+2758      za01occ      122 Production and operations mana
+2759      za01occ      123 Other managers/department mana
+2760      za01occ      129 Corporate managers not elsewhe
+2761      za01occ      131               General managers
+2762      za01occ      139 General managers not elsewhere
+2763      za01occ      211 Physicists; chemists and relat
+2764      za01occ      212 Mathematicians; statisticians 
+2765      za01occ      213        Computing professionals
+2766      za01occ      214 Architects; engineers and rela
+2767      za01occ      215 Physical sciences technologist
+2768      za01occ      219 Physical; mathematical and eng
+2769      za01occ      221     Life science professionals
+2770      za01occ      222 Health professionals (except n
+2771      za01occ      223 Nursing and midwifery professi
+2772      za01occ      229 Life science and health profes
+2773      za01occ      231 College; university and higher
+2774      za01occ      232 Secondary education institutio
+2775      za01occ      233 Primary and pre-primary educat
+2776      za01occ      234 Special education institutions
+2777      za01occ      235 Other teaching institutions pr
+2778      za01occ      239 Other education professionals 
+2779      za01occ      241         Business professionals
+2780      za01occ      242            Legal professionals
+2781      za01occ      243 Archivists; librarians and rel
+2782      za01occ      244 Social science and related pro
+2783      za01occ      245 Writers and creative or perfor
+2784      za01occ      246        Religious professionals
+2785      za01occ      249 Other professionals not elsewh
+2786      za01occ      311 Natural and engineering scienc
+2787      za01occ      312 Computer associate professiona
+2788      za01occ      313 Optical and electronic equipme
+2789      za01occ      314 Ship and aircraft controllers 
+2790      za01occ      315  Safety and quality inspectors
+2791      za01occ      321 Life science technicians and r
+2792      za01occ      322 Modern health associate profes
+2793      za01occ      323 Nursing and midwifery associat
+2794      za01occ      324 Traditional medicine practitio
+2795      za01occ      329 Life science and health associ
+2796      za01occ      331 Primary education teaching ass
+2797      za01occ      332 Pre-primary education teaching
+2798      za01occ      333 Special education teaching ass
+2799      za01occ      334 Other teaching associate profe
+2800      za01occ      339 Teaching associate professiona
+2801      za01occ      341 Finance and sales associate pr
+2802      za01occ      342 Business services agents and t
+2803      za01occ      343 Administrative associate profe
+2804      za01occ      344 Customs; tax and related gover
+2805      za01occ      345 Police inspectors and detectiv
+2806      za01occ      346 Social work associate professi
+2807      za01occ      347 Artistic; entertainment and sp
+2808      za01occ      348 Religious associate profession
+2809      za01occ      349 Other associate professionals 
+2810      za01occ      411 Secretaries and keyboard-opera
+2811      za01occ      412               Numerical clerks
+2812      za01occ      413 Material-recording and transpo
+2813      za01occ      414 Library; mail and related cler
+2814      za01occ      419 Other office clerks and clerks
+2815      za01occ      421 Cashiers; tellers and related 
+2816      za01occ      422      Client information clerks
+2817      za01occ      429 Customer services clerks not e
+2818      za01occ      511 Travel attendants and related 
+2819      za01occ      512 Housekeeping and restaurant se
+2820      za01occ      513 Personal care and related work
+2821      za01occ      514 Other personal services worker
+2822      za01occ      515 Astrologers; fortune-tellers a
+2823      za01occ      516    Protective services workers
+2824      za01occ      519 Personal and protective servic
+2825      za01occ      521       Fashion and other models
+2826      za01occ      522 Shop salespersons and demonstr
+2827      za01occ      523  Stall and market salespersons
+2828      za01occ      611 Market gardeners and crop grow
+2829      za01occ      612 Market-oriented animal produce
+2830      za01occ      613 Market-oriented crop and anima
+2831      za01occ      614   Forestry and related workers
+2832      za01occ      615 Fishery workers; hunters and t
+2833      za01occ      619 Market-oriented skilled agricu
+2834      za01occ      621 Subsistence agricultural and f
+2835      za01occ      711 Miners; shot-firers; stone cut
+2836      za01occ      712 Building frame and related tra
+2837      za01occ      713 Building finishers and related
+2838      za01occ      714 Painters; building structure c
+2839      za01occ      719 Extraction and building trades
+2840      za01occ      721 Metal molders; welders; sheet-
+2841      za01occ      722 Blacksmiths; tool-makers and r
+2842      za01occ      723 Machinery mechanics and fitter
+2843      za01occ      724 Electrical and electronic equi
+2844      za01occ      729 Metal; machinery and related t
+2845      za01occ      731 Precision workers in metal and
+2846      za01occ      732 Potters; glass-makers and rela
+2847      za01occ      733 Handicraft workers in wood; te
+2848      za01occ      734 Printing and related trades wo
+2849      za01occ      739 Precision; handicraft; printin
+2850      za01occ      741 Food processing and related tr
+2851      za01occ      742 Wood treaters; cabinetmakers a
+2852      za01occ      743 Textile; garment and related t
+2853      za01occ      744 Pelt; leather and shoemaking t
+2854      za01occ      749 Other craft and related trades
+2855      za01occ      811 Mining and mineral processing 
+2856      za01occ      812 Metal-processing plant operato
+2857      za01occ      813 Glass; ceramics and related pl
+2858      za01occ      814 Wood-processing and papermakin
+2859      za01occ      815 Chemical-processing plant oper
+2860      za01occ      816 Power-production and related p
+2861      za01occ      817 Automated assembly-line and in
+2862      za01occ      819 Stationary-plant and related o
+2863      za01occ      821 Metal and mineral-products mac
+2864      za01occ      822 Chemical-products machine oper
+2865      za01occ      823 Rubber and plastic products ma
+2866      za01occ      824 Wood products machine operator
+2867      za01occ      825 Printing; binding and paper pr
+2868      za01occ      826 Textile; fur and leather produ
+2869      za01occ      827 Food and related products mach
+2870      za01occ      828                     Assemblers
+2871      za01occ      829 Other machine operators and as
+2872      za01occ      831 Locomotive-engine drivers and 
+2873      za01occ      832 Motor vehicle drivers and rela
+2874      za01occ      833 Agricultural and other mobile 
+2875      za01occ      834 Ships' deck crews and related 
+2876      za01occ      839 Drivers and mobile plant opera
+2877      za01occ      911 Street vendors and related wor
+2878      za01occ      912 Shoe-cleaning and other elemen
+2879      za01occ      913 Domestic and related helpers; 
+2880      za01occ      914 Building caretakers and window
+2881      za01occ      915 Messengers; porters; doorkeepe
+2882      za01occ      916 Garbage collectors and related
+2883      za01occ      919 Elementary sales and services 
+2884      za01occ      921 Agricultural; fishery and rela
+2885      za01occ      929 Agricultural; fishery and rela
+2886      za01occ      931 Mining and construction labour
+2887      za01occ      932        Manufacturing labourers
+2888      za01occ      933 Transport labourers and freigh
+2889      za01occ      939 Labourers in mining; construct
+2890      za01occ      997   Non-identifiable occupations
+2891      za01occ      998                        Unknown
+2892      za01occ      999 NIU (under 10 years, not emplo
+2893   za01hrswrk        1                              1
+2894   za01hrswrk        2                              2
+2895   za01hrswrk        3                              3
+2896   za01hrswrk        4                              4
+2897   za01hrswrk        5                              5
+2898   za01hrswrk        6                              6
+2899   za01hrswrk        7                              7
+2900   za01hrswrk        8                              8
+2901   za01hrswrk        9                              9
+2902   za01hrswrk       10                             10
+2903   za01hrswrk       11                             11
+2904   za01hrswrk       12                             12
+2905   za01hrswrk       13                             13
+2906   za01hrswrk       14                             14
+2907   za01hrswrk       15                             15
+2908   za01hrswrk       16                             16
+2909   za01hrswrk       17                             17
+2910   za01hrswrk       18                             18
+2911   za01hrswrk       19                             19
+2912   za01hrswrk       20                             20
+2913   za01hrswrk       21                             21
+2914   za01hrswrk       22                             22
+2915   za01hrswrk       23                             23
+2916   za01hrswrk       24                             24
+2917   za01hrswrk       25                             25
+2918   za01hrswrk       26                             26
+2919   za01hrswrk       27                             27
+2920   za01hrswrk       28                             28
+2921   za01hrswrk       29                             29
+2922   za01hrswrk       30                             30
+2923   za01hrswrk       31                             31
+2924   za01hrswrk       32                             32
+2925   za01hrswrk       33                             33
+2926   za01hrswrk       34                             34
+2927   za01hrswrk       35                             35
+2928   za01hrswrk       36                             36
+2929   za01hrswrk       37                             37
+2930   za01hrswrk       38                             38
+2931   za01hrswrk       39                             39
+2932   za01hrswrk       40                             40
+2933   za01hrswrk       41                             41
+2934   za01hrswrk       42                             42
+2935   za01hrswrk       43                             43
+2936   za01hrswrk       44                             44
+2937   za01hrswrk       45                             45
+2938   za01hrswrk       46                             46
+2939   za01hrswrk       47                             47
+2940   za01hrswrk       48                             48
+2941   za01hrswrk       49                             49
+2942   za01hrswrk       50                             50
+2943   za01hrswrk       51                             51
+2944   za01hrswrk       52                             52
+2945   za01hrswrk       53                             53
+2946   za01hrswrk       54                             54
+2947   za01hrswrk       55                             55
+2948   za01hrswrk       56                             56
+2949   za01hrswrk       57                             57
+2950   za01hrswrk       58                             58
+2951   za01hrswrk       59                             59
+2952   za01hrswrk       60                             60
+2953   za01hrswrk       61                             61
+2954   za01hrswrk       62                             62
+2955   za01hrswrk       63                             63
+2956   za01hrswrk       64                             64
+2957   za01hrswrk       65                             65
+2958   za01hrswrk       66                             66
+2959   za01hrswrk       67                             67
+2960   za01hrswrk       68                             68
+2961   za01hrswrk       69                             69
+2962   za01hrswrk       70                             70
+2963   za01hrswrk       71                             71
+2964   za01hrswrk       72                             72
+2965   za01hrswrk       73                             73
+2966   za01hrswrk       74                             74
+2967   za01hrswrk       75                             75
+2968   za01hrswrk       76                             76
+2969   za01hrswrk       77                             77
+2970   za01hrswrk       78                             78
+2971   za01hrswrk       79                             79
+2972   za01hrswrk       80                             80
+2973   za01hrswrk       81                             81
+2974   za01hrswrk       82                             82
+2975   za01hrswrk       83                             83
+2976   za01hrswrk       84                             84
+2977   za01hrswrk       85                             85
+2978   za01hrswrk       86                             86
+2979   za01hrswrk       87                             87
+2980   za01hrswrk       88                             88
+2981   za01hrswrk       89                             89
+2982   za01hrswrk       90                             90
+2983   za01hrswrk       91                             91
+2984   za01hrswrk       92                             92
+2985   za01hrswrk       93                             93
+2986   za01hrswrk       94                             94
+2987   za01hrswrk       95                             95
+2988   za01hrswrk       99                            NIU
+2989  za01wrkhere        1                            Yes
+2990  za01wrkhere        2                             No
+2991  za01wrkhere        9                            NIU
+2992  za01wrkprov        1                   Western Cape
+2993  za01wrkprov        2                   Eastern Cape
+2994  za01wrkprov        3                  Northern Cape
+2995  za01wrkprov        4                     Free State
+2996  za01wrkprov        5                  KwaZulu-Natal
+2997  za01wrkprov        6                     North West
+2998  za01wrkprov        7                        Gauteng
+2999  za01wrkprov        8                     Mpumalanga
+3000  za01wrkprov        9                        Limpopo
+3001  za01wrkprov       97          Foreign place of work
+3002  za01wrkprov       98                        Unknown
+3003  za01wrkprov       99                            NIU
+3004   za01chborn        0                              0
+3005   za01chborn        1                              1
+3006   za01chborn        2                              2
+3007   za01chborn        3                              3
+3008   za01chborn        4                              4
+3009   za01chborn        5                              5
+3010   za01chborn        6                              6
+3011   za01chborn        7                              7
+3012   za01chborn        8                              8
+3013   za01chborn        9                              9
+3014   za01chborn       10                             10
+3015   za01chborn       11                             11
+3016   za01chborn       12                             12
+3017   za01chborn       13                             13
+3018   za01chborn       14                             14
+3019   za01chborn       15                             15
+3020   za01chborn       16                             16
+3021   za01chborn       17                             17
+3022   za01chborn       18                             18
+3023   za01chborn       19                             19
+3024   za01chborn       20                             20
+3025   za01chborn       21                             21
+3026   za01chborn       22                             22
+3027   za01chborn       23                             23
+3028   za01chborn       24                             24
+3029   za01chborn       99                            NIU
+3030  za01bornmal        0                              0
+3031  za01bornmal        1                              1
+3032  za01bornmal        2                              2
+3033  za01bornmal        3                              3
+3034  za01bornmal        4                              4
+3035  za01bornmal        5                              5
+3036  za01bornmal        6                              6
+3037  za01bornmal        7                              7
+3038  za01bornmal        8                              8
+3039  za01bornmal        9                              9
+3040  za01bornmal       10                             10
+3041  za01bornmal       11                             11
+3042  za01bornmal       12                             12
+3043  za01bornmal       13                             13
+3044  za01bornmal       14                             14
+3045  za01bornmal       15                             15
+3046  za01bornmal       16                             16
+3047  za01bornmal       17                             17
+3048  za01bornmal       18                             18
+3049  za01bornmal       19                             19
+3050  za01bornmal       20                             20
+3051  za01bornmal       21                             21
+3052  za01bornmal       22                             22
+3053  za01bornmal       23                             23
+3054  za01bornmal       24                             24
+3055  za01bornmal       99                            NIU
+3056  za01bornfem        0                              0
+3057  za01bornfem        1                              1
+3058  za01bornfem        2                              2
+3059  za01bornfem        3                              3
+3060  za01bornfem        4                              4
+3061  za01bornfem        5                              5
+3062  za01bornfem        6                              6
+3063  za01bornfem        7                              7
+3064  za01bornfem        8                              8
+3065  za01bornfem        9                              9
+3066  za01bornfem       10                             10
+3067  za01bornfem       11                             11
+3068  za01bornfem       12                             12
+3069  za01bornfem       13                             13
+3070  za01bornfem       14                             14
+3071  za01bornfem       15                             15
+3072  za01bornfem       16                             16
+3073  za01bornfem       17                             17
+3074  za01bornfem       18                             18
+3075  za01bornfem       19                             19
+3076  za01bornfem       20                             20
+3077  za01bornfem       21                             21
+3078  za01bornfem       22                             22
+3079  za01bornfem       23                             23
+3080  za01bornfem       24                             24
+3081  za01bornfem       99                            NIU
+3082   za01chsurv        0                              0
+3083   za01chsurv        1                              1
+3084   za01chsurv        2                              2
+3085   za01chsurv        3                              3
+3086   za01chsurv        4                              4
+3087   za01chsurv        5                              5
+3088   za01chsurv        6                              6
+3089   za01chsurv        7                              7
+3090   za01chsurv        8                              8
+3091   za01chsurv        9                              9
+3092   za01chsurv       10                             10
+3093   za01chsurv       11                             11
+3094   za01chsurv       12                             12
+3095   za01chsurv       13                             13
+3096   za01chsurv       14                             14
+3097   za01chsurv       15                             15
+3098   za01chsurv       16                             16
+3099   za01chsurv       17                             17
+3100   za01chsurv       18                             18
+3101   za01chsurv       19                             19
+3102   za01chsurv       20                             20
+3103   za01chsurv       21                             21
+3104   za01chsurv       22                             22
+3105   za01chsurv       23                             23
+3106   za01chsurv       24                             24
+3107   za01chsurv       99                            NIU
+3108  za01survmal        0                              0
+3109  za01survmal        1                              1
+3110  za01survmal        2                              2
+3111  za01survmal        3                              3
+3112  za01survmal        4                              4
+3113  za01survmal        5                              5
+3114  za01survmal        6                              6
+3115  za01survmal        7                              7
+3116  za01survmal        8                              8
+3117  za01survmal        9                              9
+3118  za01survmal       10                             10
+3119  za01survmal       11                             11
+3120  za01survmal       12                             12
+3121  za01survmal       13                             13
+3122  za01survmal       14                             14
+3123  za01survmal       15                             15
+3124  za01survmal       16                             16
+3125  za01survmal       17                             17
+3126  za01survmal       18                             18
+3127  za01survmal       19                             19
+3128  za01survmal       20                             20
+3129  za01survmal       21                             21
+3130  za01survmal       22                             22
+3131  za01survmal       23                             23
+3132  za01survmal       24                             24
+3133  za01survmal       99                            NIU
+3134  za01survfem        0                              0
+3135  za01survfem        1                              1
+3136  za01survfem        2                              2
+3137  za01survfem        3                              3
+3138  za01survfem        4                              4
+3139  za01survfem        5                              5
+3140  za01survfem        6                              6
+3141  za01survfem        7                              7
+3142  za01survfem        8                              8
+3143  za01survfem        9                              9
+3144  za01survfem       10                             10
+3145  za01survfem       11                             11
+3146  za01survfem       12                             12
+3147  za01survfem       13                             13
+3148  za01survfem       14                             14
+3149  za01survfem       15                             15
+3150  za01survfem       16                             16
+3151  za01survfem       17                             17
+3152  za01survfem       18                             18
+3153  za01survfem       19                             19
+3154  za01survfem       20                             20
+3155  za01survfem       21                             21
+3156  za01survfem       22                             22
+3157  za01survfem       23                             23
+3158  za01survfem       24                             24
+3159  za01survfem       99                            NIU
+3160    za01lstmo        1                        January
+3161    za01lstmo        2                       February
+3162    za01lstmo        3                          March
+3163    za01lstmo        4                          April
+3164    za01lstmo        5                            May
+3165    za01lstmo        6                           June
+3166    za01lstmo        7                           July
+3167    za01lstmo        8                         August
+3168    za01lstmo        9                      September
+3169    za01lstmo       10                        October
+3170    za01lstmo       11                       November
+3171    za01lstmo       12                       December
+3172    za01lstmo       99                            NIU
+3173    za01lstyr     1962                           1962
+3174    za01lstyr     1963                           1963
+3175    za01lstyr     1964                           1964
+3176    za01lstyr     1965                           1965
+3177    za01lstyr     1966                           1966
+3178    za01lstyr     1967                           1967
+3179    za01lstyr     1968                           1968
+3180    za01lstyr     1969                           1969
+3181    za01lstyr     1970                           1970
+3182    za01lstyr     1971                           1971
+3183    za01lstyr     1972                           1972
+3184    za01lstyr     1973                           1973
+3185    za01lstyr     1974                           1974
+3186    za01lstyr     1975                           1975
+3187    za01lstyr     1976                           1976
+3188    za01lstyr     1977                           1977
+3189    za01lstyr     1978                           1978
+3190    za01lstyr     1979                           1979
+3191    za01lstyr     1980                           1980
+3192    za01lstyr     1981                           1981
+3193    za01lstyr     1982                           1982
+3194    za01lstyr     1983                           1983
+3195    za01lstyr     1984                           1984
+3196    za01lstyr     1985                           1985
+3197    za01lstyr     1986                           1986
+3198    za01lstyr     1987                           1987
+3199    za01lstyr     1988                           1988
+3200    za01lstyr     1989                           1989
+3201    za01lstyr     1990                           1990
+3202    za01lstyr     1991                           1991
+3203    za01lstyr     1992                           1992
+3204    za01lstyr     1993                           1993
+3205    za01lstyr     1994                           1994
+3206    za01lstyr     1995                           1995
+3207    za01lstyr     1996                           1996
+3208    za01lstyr     1997                           1997
+3209    za01lstyr     1998                           1998
+3210    za01lstyr     1999                           1999
+3211    za01lstyr     2000                           2000
+3212    za01lstyr     2001                           2001
+3213    za01lstyr     9999                            NIU
+3214  za01lsttime        0                              0
+3215  za01lsttime        1                              1
+3216  za01lsttime        2                              2
+3217  za01lsttime        3                              3
+3218  za01lsttime        4                              4
+3219  za01lsttime        5                              5
+3220  za01lsttime        6                              6
+3221  za01lsttime        7                              7
+3222  za01lsttime        8                              8
+3223  za01lsttime        9                              9
+3224  za01lsttime       10                             10
+3225  za01lsttime       11                             11
+3226  za01lsttime       12                             12
+3227  za01lsttime       13                             13
+3228  za01lsttime       14                             14
+3229  za01lsttime       15                             15
+3230  za01lsttime       16                             16
+3231  za01lsttime       17                             17
+3232  za01lsttime       18                             18
+3233  za01lsttime       19                             19
+3234  za01lsttime       20                             20
+3235  za01lsttime       21                             21
+3236  za01lsttime       22                             22
+3237  za01lsttime       23                             23
+3238  za01lsttime       24                             24
+3239  za01lsttime       25                             25
+3240  za01lsttime       26                             26
+3241  za01lsttime       27                             27
+3242  za01lsttime       28                             28
+3243  za01lsttime       29                             29
+3244  za01lsttime       30                             30
+3245  za01lsttime       31                             31
+3246  za01lsttime       32                             32
+3247  za01lsttime       33                             33
+3248  za01lsttime       34                             34
+3249  za01lsttime       35                             35
+3250  za01lsttime       36                             36
+3251  za01lsttime       37                             37
+3252  za01lsttime       38                             38
+3253  za01lsttime       99                            NIU
+3254   za01lstage       12                             12
+3255   za01lstage       13                             13
+3256   za01lstage       14                             14
+3257   za01lstage       15                             15
+3258   za01lstage       16                             16
+3259   za01lstage       17                             17
+3260   za01lstage       18                             18
+3261   za01lstage       19                             19
+3262   za01lstage       20                             20
+3263   za01lstage       21                             21
+3264   za01lstage       22                             22
+3265   za01lstage       23                             23
+3266   za01lstage       24                             24
+3267   za01lstage       25                             25
+3268   za01lstage       26                             26
+3269   za01lstage       27                             27
+3270   za01lstage       28                             28
+3271   za01lstage       29                             29
+3272   za01lstage       30                             30
+3273   za01lstage       31                             31
+3274   za01lstage       32                             32
+3275   za01lstage       33                             33
+3276   za01lstage       34                             34
+3277   za01lstage       35                             35
+3278   za01lstage       36                             36
+3279   za01lstage       37                             37
+3280   za01lstage       38                             38
+3281   za01lstage       39                             39
+3282   za01lstage       40                             40
+3283   za01lstage       41                             41
+3284   za01lstage       42                             42
+3285   za01lstage       43                             43
+3286   za01lstage       44                             44
+3287   za01lstage       45                             45
+3288   za01lstage       46                             46
+3289   za01lstage       47                             47
+3290   za01lstage       48                             48
+3291   za01lstage       49                             49
+3292   za01lstage       50                             50
+3293   za01lstage       99                            NIU
+3294   za01lstsex        1                           Male
+3295   za01lstsex        2                         Female
+3296   za01lstsex        9                            NIU
+3297  za01lstlive        1                          Alive
+3298  za01lstlive        2                           Dead
+3299  za01lstlive        9                            NIU
+3300  za01travwrk        0 Not applicable - not working a
+3301  za01travwrk        1                        On foot
+3302  za01travwrk        2                     By bicycle
+3303  za01travwrk        3                  By motorcycle
+3304  za01travwrk        4             By car as a driver
+3305  za01travwrk        5          By car as a passenger
+3306  za01travwrk        6                By minibus/taxi
+3307  za01travwrk        7                         By bus
+3308  za01travwrk        8                       By train
+3309  za01travwrk        9                          Other
+3310   za01income        1                      no income
+3311   za01income        2                  R 1 - R 4 800
+3312   za01income        3              R 4 801 - R 9 600
+3313   za01income        4              R 9 601- R 19 200
+3314   za01income        5             R 19 201- R 38 400
+3315   za01income        6            R 38 401 - R 76 800
+3316   za01income        7           R 76 801 - R 153 600
+3317   za01income        8          R 153 601 - R 307 200
+3318   za01income        9           R 307 201- R 614 400
+3319   za01income       10        R 614 401 - R 1 228 800
+3320   za01income       11      R 1 228 801 - R 2 457 600
+3321   za01income       12            R 2 457 601 or more
+3322 za01enumplac        1                     Same place
+3323 za01enumplac        2 Different places, same provinc
+3324 za01enumplac        3            Different provinces
+3325 za01enumplac        4        Foreign usual residence
+3326 za01enumplac        8                        Unknown
+3327 za01enumprov        1                  Same province
+3328 za01enumprov        2            Different provinces
+3329 za01enumprov        3            Foreign birth place
+3330   za01enum96        1                     Same place
+3331   za01enum96        2 Different places, same provinc
+3332   za01enum96        3            Different provinces
+3333   za01enum96        4         Foreign 1996 residence
+ [ reached getOption("max.print") -- omitted 429 rows ]

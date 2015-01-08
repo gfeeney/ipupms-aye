@@ -1,0 +1,1463 @@
+              vname code                          short
+1             cntry   32                      Argentina
+2             cntry   51                        Armenia
+3             cntry   40                        Austria
+4             cntry   50                     Bangladesh
+5             cntry  112                        Belarus
+6             cntry   68                        Bolivia
+7             cntry   76                         Brazil
+8             cntry  854                   Burkina Faso
+9             cntry  116                       Cambodia
+10            cntry  120                       Cameroon
+11            cntry  124                         Canada
+12            cntry  152                          Chile
+13            cntry  156                          China
+14            cntry  170                       Colombia
+15            cntry  188                     Costa Rica
+16            cntry  192                           Cuba
+17            cntry  214             Dominican Republic
+18            cntry  218                        Ecuador
+19            cntry  818                          Egypt
+20            cntry  222                    El Salvador
+21            cntry  242                           Fiji
+22            cntry  250                         France
+23            cntry  276                        Germany
+24            cntry  288                          Ghana
+25            cntry  300                         Greece
+26            cntry  324                         Guinea
+27            cntry  332                          Haiti
+28            cntry  348                        Hungary
+29            cntry  356                          India
+30            cntry  360                      Indonesia
+31            cntry  364                           Iran
+32            cntry  368                           Iraq
+33            cntry  372                        Ireland
+34            cntry  376                         Israel
+35            cntry  380                          Italy
+36            cntry  388                        Jamaica
+37            cntry  400                         Jordan
+38            cntry  404                          Kenya
+39            cntry  417                Kyrgyz Republic
+40            cntry  430                        Liberia
+41            cntry  454                         Malawi
+42            cntry  458                       Malaysia
+43            cntry  466                           Mali
+44            cntry  484                         Mexico
+45            cntry  496                       Mongolia
+46            cntry  504                        Morocco
+47            cntry  524                          Nepal
+48            cntry  528                    Netherlands
+49            cntry  558                      Nicaragua
+50            cntry  566                        Nigeria
+51            cntry  586                       Pakistan
+52            cntry  275                      Palestine
+53            cntry  591                         Panama
+54            cntry  604                           Peru
+55            cntry  608                    Philippines
+56            cntry  620                       Portugal
+57            cntry  630                    Puerto Rico
+58            cntry  642                        Romania
+59            cntry  646                         Rwanda
+60            cntry  662                    Saint Lucia
+61            cntry  686                        Senegal
+62            cntry  694                   Sierra Leone
+63            cntry  705                       Slovenia
+64            cntry  710                   South Africa
+65            cntry  728                    South Sudan
+66            cntry  724                          Spain
+67            cntry  729                          Sudan
+68            cntry  756                    Switzerland
+69            cntry  834                       Tanzania
+70            cntry  764                       Thailand
+71            cntry  792                         Turkey
+72            cntry  800                         Uganda
+73            cntry  804                        Ukraine
+74            cntry  826                 United Kingdom
+75            cntry  840                  United States
+76            cntry  858                        Uruguay
+77            cntry  862                      Venezuela
+78            cntry  704                        Vietnam
+79            cntry  894                         Zambia
+80             year 1960                           1960
+81             year 1962                           1962
+82             year 1963                           1963
+83             year 1964                           1964
+84             year 1966                           1966
+85             year 1968                           1968
+86             year 1969                           1969
+87             year 1970                           1970
+88             year 1971                           1971
+89             year 1972                           1972
+90             year 1973                           1973
+91             year 1974                           1974
+92             year 1975                           1975
+93             year 1976                           1976
+94             year 1977                           1977
+95             year 1979                           1979
+96             year 1980                           1980
+97             year 1981                           1981
+98             year 1982                           1982
+99             year 1983                           1983
+100            year 1984                           1984
+101            year 1985                           1985
+102            year 1986                           1986
+103            year 1987                           1987
+104            year 1989                           1989
+105            year 1990                           1990
+106            year 1991                           1991
+107            year 1992                           1992
+108            year 1993                           1993
+109            year 1994                           1994
+110            year 1995                           1995
+111            year 1996                           1996
+112            year 1997                           1997
+113            year 1998                           1998
+114            year 1999                           1999
+115            year 2000                           2000
+116            year 2001                           2001
+117            year 2002                           2002
+118            year 2003                           2003
+119            year 2004                           2004
+120            year 2005                           2005
+121            year 2006                           2006
+122            year 2007                           2007
+123            year 2008                           2008
+124            year 2009                           2009
+125            year 2010                           2010
+126            year 2011                           2011
+127          sample  321                 Argentina 1970
+128          sample  322                 Argentina 1980
+129          sample  323                 Argentina 1991
+130          sample  324                 Argentina 2001
+131          sample  325                 Argentina 2010
+132          sample  511                   Armenia 2001
+133          sample  401                   Austria 1971
+134          sample  402                   Austria 1981
+135          sample  403                   Austria 1991
+136          sample  404                   Austria 2001
+137          sample  501                Bangladesh 1991
+138          sample  502                Bangladesh 2001
+139          sample  503                Bangladesh 2011
+140          sample  681                   Bolivia 1976
+141          sample  682                   Bolivia 1992
+142          sample  683                   Bolivia 2001
+143          sample  761                    Brazil 1960
+144          sample  762                    Brazil 1970
+145          sample  763                    Brazil 1980
+146          sample  764                    Brazil 1991
+147          sample  765                    Brazil 2000
+148          sample  766                    Brazil 2010
+149          sample 1121                   Belarus 1999
+150          sample 8541              Burkina Faso 1985
+151          sample 8542              Burkina Faso 1996
+152          sample 8543              Burkina Faso 2006
+153          sample 1161                  Cambodia 1998
+154          sample 1162                  Cambodia 2008
+155          sample 1201                  Cameroon 1976
+156          sample 1202                  Cameroon 1987
+157          sample 1203                  Cameroon 2005
+158          sample 1241                    Canada 1971
+159          sample 1242                    Canada 1981
+160          sample 1243                    Canada 1991
+161          sample 1244                    Canada 2001
+162          sample 1521                     Chile 1960
+163          sample 1522                     Chile 1970
+164          sample 1523                     Chile 1982
+165          sample 1524                     Chile 1992
+166          sample 1525                     Chile 2002
+167          sample 1561                     China 1982
+168          sample 1562                     China 1990
+169          sample 1701                  Colombia 1964
+170          sample 1702                  Colombia 1973
+171          sample 1703                  Colombia 1985
+172          sample 1704                  Colombia 1993
+173          sample 1705                  Colombia 2005
+174          sample 1881                Costa Rica 1963
+175          sample 1882                Costa Rica 1973
+176          sample 1883                Costa Rica 1984
+177          sample 1884                Costa Rica 2000
+178          sample 1921                      Cuba 2002
+179          sample 2141        Dominican Republic 1960
+180          sample 2142        Dominican Republic 1970
+181          sample 2143        Dominican Republic 1981
+182          sample 2144        Dominican Republic 2002
+183          sample 2145        Dominican Republic 2010
+184          sample 2181                   Ecuador 1962
+185          sample 2182                   Ecuador 1974
+186          sample 2183                   Ecuador 1982
+187          sample 2184                   Ecuador 1990
+188          sample 2185                   Ecuador 2001
+189          sample 2186                   Ecuador 2010
+190          sample 8181                     Egypt 1996
+191          sample 8182                     Egypt 2006
+192          sample 2221               El Salvador 1992
+193          sample 2222               El Salvador 2007
+194          sample 2421                      Fiji 1966
+195          sample 2422                      Fiji 1976
+196          sample 2423                      Fiji 1986
+197          sample 2424                      Fiji 1996
+198          sample 2425                      Fiji 2007
+199          sample 2501                    France 1962
+200          sample 2502                    France 1968
+201          sample 2503                    France 1975
+202          sample 2504                    France 1982
+203          sample 2505                    France 1990
+204          sample 2506                    France 1999
+205          sample 2507                    France 2006
+206          sample 2761            Germany 1970 (West)
+207          sample 2762            Germany 1971 (East)
+208          sample 2763            Germany 1981 (East)
+209          sample 2764            Germany 1987 (West)
+210          sample 2881                     Ghana 2000
+211          sample 2882                     Ghana 2010
+212          sample 3001                    Greece 1971
+213          sample 3002                    Greece 1981
+214          sample 3003                    Greece 1991
+215          sample 3004                    Greece 2001
+216          sample 3241                    Guinea 1983
+217          sample 3242                    Guinea 1996
+218          sample 3321                     Haiti 1971
+219          sample 3322                     Haiti 1982
+220          sample 3323                     Haiti 2003
+221          sample 3481                   Hungary 1970
+222          sample 3482                   Hungary 1980
+223          sample 3483                   Hungary 1990
+224          sample 3484                   Hungary 2001
+225          sample 3561                     India 1983
+226          sample 3562                     India 1987
+227          sample 3563                     India 1993
+228          sample 3564                     India 1999
+229          sample 3565                     India 2004
+230          sample 3601                 Indonesia 1971
+231          sample 3602                 Indonesia 1976
+232          sample 3603                 Indonesia 1980
+233          sample 3604                 Indonesia 1985
+234          sample 3605                 Indonesia 1990
+235          sample 3606                 Indonesia 1995
+236          sample 3607                 Indonesia 2000
+237          sample 3608                 Indonesia 2005
+238          sample 3609                 Indonesia 2010
+239          sample 3641                      Iran 2006
+240          sample 3681                      Iraq 1997
+241          sample 3721                   Ireland 1971
+242          sample 3722                   Ireland 1979
+243          sample 3723                   Ireland 1981
+244          sample 3724                   Ireland 1986
+245          sample 3725                   Ireland 1991
+246          sample 3726                   Ireland 1996
+247          sample 3727                   Ireland 2002
+248          sample 3728                   Ireland 2006
+249          sample 3729                   Ireland 2011
+250          sample 3761                    Israel 1972
+251          sample 3762                    Israel 1983
+252          sample 3763                    Israel 1995
+253          sample 3801                     Italy 2001
+254          sample 3881                   Jamaica 1982
+255          sample 3882                   Jamaica 1991
+256          sample 3883                   Jamaica 2001
+257          sample 4001                    Jordan 2004
+258          sample 4041                     Kenya 1969
+259          sample 4042                     Kenya 1979
+260          sample 4043                     Kenya 1989
+261          sample 4044                     Kenya 1999
+262          sample 4045                     Kenya 2009
+263          sample 4171           Kyrgyz Republic 1999
+264          sample 4172           Kyrgyz Republic 2009
+265          sample 4301                   Liberia 1974
+266          sample 4302                   Liberia 2008
+267          sample 4541                    Malawi 1987
+268          sample 4542                    Malawi 1998
+269          sample 4543                    Malawi 2008
+270          sample 4581                  Malaysia 1970
+271          sample 4582                  Malaysia 1980
+272          sample 4583                  Malaysia 1991
+273          sample 4584                  Malaysia 2000
+274          sample 4661                      Mali 1987
+275          sample 4662                      Mali 1998
+276          sample 4663                      Mali 2009
+277          sample 4841                    Mexico 1960
+278          sample 4842                    Mexico 1970
+279          sample 4843                    Mexico 1990
+280          sample 4844                    Mexico 1995
+281          sample 4845                    Mexico 2000
+282          sample 4846                    Mexico 2005
+283          sample 4847                    Mexico 2010
+284          sample 4961                  Mongolia 1989
+285          sample 4962                  Mongolia 2000
+286          sample 5041                   Morocco 1982
+287          sample 5042                   Morocco 1994
+288          sample 5043                   Morocco 2004
+289          sample 5241                     Nepal 2001
+290          sample 5281               Netherlands 1960
+291          sample 5282               Netherlands 1971
+292          sample 5283               Netherlands 2001
+293          sample 5581                 Nicaragua 1971
+294          sample 5582                 Nicaragua 1995
+295          sample 5583                 Nicaragua 2005
+296          sample 5661                   Nigeria 2006
+297          sample 5662                   Nigeria 2007
+298          sample 5663                   Nigeria 2008
+299          sample 5664                   Nigeria 2009
+300          sample 5665                   Nigeria 2010
+301          sample 5861                  Pakistan 1973
+302          sample 5862                  Pakistan 1981
+303          sample 5863                  Pakistan 1998
+304          sample 2751                 Palestine 1997
+305          sample 2752                 Palestine 2007
+306          sample 5911                    Panama 1960
+307          sample 5912                    Panama 1970
+308          sample 5913                    Panama 1980
+309          sample 5914                    Panama 1990
+310          sample 5915                    Panama 2000
+311          sample 5916                    Panama 2010
+312          sample 6041                      Peru 1993
+313          sample 6042                      Peru 2007
+314          sample 6081               Philippines 1990
+315          sample 6082               Philippines 1995
+316          sample 6083               Philippines 2000
+317          sample 6201                  Portugal 1981
+318          sample 6202                  Portugal 1991
+319          sample 6203                  Portugal 2001
+320          sample 6301               Puerto Rico 1970
+321          sample 6302               Puerto Rico 1980
+322          sample 6303               Puerto Rico 1990
+323          sample 6304               Puerto Rico 2000
+324          sample 6305               Puerto Rico 2005
+325          sample 6421                   Romania 1977
+326          sample 6422                   Romania 1992
+327          sample 6423                   Romania 2002
+328          sample 6461                    Rwanda 1991
+329          sample 6462                    Rwanda 2002
+330          sample 6621               Saint Lucia 1980
+331          sample 6622               Saint Lucia 1991
+332          sample 6861                   Senegal 1988
+333          sample 6862                   Senegal 2002
+334          sample 6941              Sierra Leone 2004
+335          sample 7051                  Slovenia 2002
+336          sample 7101              South Africa 1996
+337          sample 7102              South Africa 2001
+338          sample 7103              South Africa 2007
+339          sample 7241                     Spain 1981
+340          sample 7242                     Spain 1991
+341          sample 7243                     Spain 2001
+342          sample 7281               South Sudan 2008
+343          sample 7291                     Sudan 2008
+344          sample 7561               Switzerland 1970
+345          sample 7562               Switzerland 1980
+346          sample 7563               Switzerland 1990
+347          sample 7564               Switzerland 2000
+348          sample 8341                  Tanzania 1988
+349          sample 8342                  Tanzania 2002
+350          sample 7641                  Thailand 1970
+351          sample 7642                  Thailand 1980
+352          sample 7643                  Thailand 1990
+353          sample 7644                  Thailand 2000
+354          sample 7921                    Turkey 1985
+355          sample 7922                    Turkey 1990
+356          sample 7923                    Turkey 2000
+357          sample 8001                    Uganda 1991
+358          sample 8002                    Uganda 2002
+359          sample 8041                   Ukraine 2001
+360          sample 8261            United Kingdom 1991
+361          sample 8262            United Kingdom 2001
+362          sample 8401             United States 1960
+363          sample 8402             United States 1970
+364          sample 8403             United States 1980
+365          sample 8404             United States 1990
+366          sample 8405             United States 2000
+367          sample 8406             United States 2005
+368          sample 8407             United States 2010
+369          sample 8581                   Uruguay 1963
+370          sample 8582                   Uruguay 1975
+371          sample 8583                   Uruguay 1985
+372          sample 8584                   Uruguay 1996
+373          sample 8585                   Uruguay 2006
+374          sample 8586                   Uruguay 2011
+375          sample 8621                 Venezuela 1971
+376          sample 8622                 Venezuela 1981
+377          sample 8623                 Venezuela 1990
+378          sample 8624                 Venezuela 2001
+379          sample 7041                   Vietnam 1989
+380          sample 7042                   Vietnam 1999
+381          sample 7043                   Vietnam 2009
+382          sample 8941                    Zambia 1990
+383          sample 8942                    Zambia 2000
+384          sample 8943                    Zambia 2010
+385      tz02a_pern    1                              1
+386      tz02a_pern    2                              2
+387      tz02a_pern    3                              3
+388      tz02a_pern    4                              4
+389      tz02a_pern    5                              5
+390      tz02a_pern    6                              6
+391      tz02a_pern    7                              7
+392      tz02a_pern    8                              8
+393      tz02a_pern    9                              9
+394      tz02a_pern   10                             10
+395      tz02a_pern   11                             11
+396      tz02a_pern   12                             12
+397      tz02a_pern   13                             13
+398      tz02a_pern   14                             14
+399      tz02a_pern   15                             15
+400      tz02a_pern   16                             16
+401      tz02a_pern   17                             17
+402      tz02a_pern   18                             18
+403      tz02a_pern   19                             19
+404      tz02a_pern   20                             20
+405      tz02a_pern   21                             21
+406      tz02a_pern   22                             22
+407      tz02a_pern   23                             23
+408      tz02a_pern   24                             24
+409      tz02a_pern   25                             25
+410      tz02a_pern   26                             26
+411      tz02a_pern   27                             27
+412      tz02a_pern   28                             28
+413      tz02a_pern   29                             29
+414      tz02a_pern   30                             30
+415      tz02a_fbig    0                     No problem
+416      tz02a_fbig    1 Yes: households within a large
+417      tz02a_fbig    2 Yes: persons within a large ho
+418    tz02a_region    1                         Dodoma
+419    tz02a_region    2                         Arusha
+420    tz02a_region    3                    Kilimanjaro
+421    tz02a_region    4                          Tanga
+422    tz02a_region    5                       Morogoro
+423    tz02a_region    6                          Pwani
+424    tz02a_region    7                  Dar es salaam
+425    tz02a_region    8                          Lindi
+426    tz02a_region    9                         Mtwara
+427    tz02a_region   10                         Ruvuma
+428    tz02a_region   11                         Iringa
+429    tz02a_region   12                          Mbeya
+430    tz02a_region   13                        Singida
+431    tz02a_region   14                         Tabora
+432    tz02a_region   15                          Rukwa
+433    tz02a_region   16                         Kigoma
+434    tz02a_region   17                      Shinyanga
+435    tz02a_region   18                         Kagera
+436    tz02a_region   19                         Mwanza
+437    tz02a_region   20                           Mara
+438    tz02a_region   21                        Manyara
+439    tz02a_region   51                 Zanzibar north
+440    tz02a_region   52                 Zanzibar south
+441    tz02a_region   53             Zanzibar town/west
+442    tz02a_region   54                    Pemba north
+443    tz02a_region   55                    Pemba south
+444      tz02a_dist   11                         Kondoa
+445      tz02a_dist   12                        Mpwapwa
+446      tz02a_dist   13                         Kongwa
+447      tz02a_dist   14                   Dodoma rural
+448      tz02a_dist   15                   Dodoma urban
+449      tz02a_dist   21                        Monduli
+450      tz02a_dist   22                        Arumeru
+451      tz02a_dist   23                         Arusha
+452      tz02a_dist   24                         Karatu
+453      tz02a_dist   25                     Ngorongoro
+454      tz02a_dist   31                          Rombo
+455      tz02a_dist   32                         Mwanga
+456      tz02a_dist   33                           Same
+457      tz02a_dist   34                    Moshi rural
+458      tz02a_dist   35                            Hai
+459      tz02a_dist   36                    Moshi urban
+460      tz02a_dist   41                        Lushoto
+461      tz02a_dist   42                        Korogwe
+462      tz02a_dist   43                         Muheza
+463      tz02a_dist   44                          Tanga
+464      tz02a_dist   45                        Pangani
+465      tz02a_dist   46                        Handeni
+466      tz02a_dist   47                        Kilindi
+467      tz02a_dist   51                         Kilosa
+468      tz02a_dist   52                 Morogoro rural
+469      tz02a_dist   53                      Kilombero
+470      tz02a_dist   54                         Ulanga
+471      tz02a_dist   55                 Morogoro urban
+472      tz02a_dist   56                        Mvomero
+473      tz02a_dist   61                       Bagamoyo
+474      tz02a_dist   62                         Kibaha
+475      tz02a_dist   63                       Kisarawe
+476      tz02a_dist   64                       Mkuranga
+477      tz02a_dist   65                         Rufiji
+478      tz02a_dist   66                          Mafia
+479      tz02a_dist   71                      Kinondoni
+480      tz02a_dist   72                          Ilala
+481      tz02a_dist   73                         Temeke
+482      tz02a_dist   81                          Kilwa
+483      tz02a_dist   82                    Lindi rural
+484      tz02a_dist   83                     Nachingwea
+485      tz02a_dist   84                         Liwale
+486      tz02a_dist   85                        Ruangwa
+487      tz02a_dist   86                    Lindi urban
+488      tz02a_dist   91                   Mtwara rural
+489      tz02a_dist   92                         Newala
+490      tz02a_dist   93                         Masasi
+491      tz02a_dist   94                     Tandahimba
+492      tz02a_dist   95                   Mtwara urban
+493      tz02a_dist  101                        Tunduru
+494      tz02a_dist  102                   Songea rural
+495      tz02a_dist  103                         Mbinga
+496      tz02a_dist  104                   Songea urban
+497      tz02a_dist  105                       Namtumbo
+498      tz02a_dist  111                   Iringa rural
+499      tz02a_dist  112                        Mufindi
+500      tz02a_dist  113                         Makete
+501      tz02a_dist  114                         Njombe
+502      tz02a_dist  115                         Ludewa
+503      tz02a_dist  116                   Iringa urban
+504      tz02a_dist  117                         Kilolo
+505      tz02a_dist  121                         Chunya
+506      tz02a_dist  122                    Mbeya rural
+507      tz02a_dist  123                          Kyela
+508      tz02a_dist  124                         Rungwe
+509      tz02a_dist  125                          Ileje
+510      tz02a_dist  126                          Mbozi
+511      tz02a_dist  127                        Mbarali
+512      tz02a_dist  128                    Mbeya urban
+513      tz02a_dist  131                         Iramba
+514      tz02a_dist  132                  Singida rural
+515      tz02a_dist  133                        Manyoni
+516      tz02a_dist  134                  Singida urban
+517      tz02a_dist  141                          Nzega
+518      tz02a_dist  142                         Igunga
+519      tz02a_dist  143                           Uyui
+520      tz02a_dist  144                         Urambo
+521      tz02a_dist  145                        Sikonge
+522      tz02a_dist  146                   Tabora urban
+523      tz02a_dist  151                         Mpanda
+524      tz02a_dist  152               Sumbawanga rural
+525      tz02a_dist  153                          Nkasi
+526      tz02a_dist  154               Sumbawanga urban
+527      tz02a_dist  161                        Kibondo
+528      tz02a_dist  162                         Kasulu
+529      tz02a_dist  163                   Kigoma rural
+530      tz02a_dist  164                   Kigoma urban
+531      tz02a_dist  171                        Bariadi
+532      tz02a_dist  172                          Maswa
+533      tz02a_dist  173                Shinyanga rural
+534      tz02a_dist  174                         Kahama
+535      tz02a_dist  175                        Bukombe
+536      tz02a_dist  176                          Meatu
+537      tz02a_dist  177                Shinyanga urban
+538      tz02a_dist  178                        Kishapu
+539      tz02a_dist  181                        Karagwe
+540      tz02a_dist  182                   Bukoba rural
+541      tz02a_dist  183                         Muleba
+542      tz02a_dist  184                     Biharamulo
+543      tz02a_dist  185                          Ngara
+544      tz02a_dist  186                   Bukoba urban
+545      tz02a_dist  191                        Ukerewe
+546      tz02a_dist  192                           Magu
+547      tz02a_dist  193                      Nyamagana
+548      tz02a_dist  194                         Kwimba
+549      tz02a_dist  195                      Sengerema
+550      tz02a_dist  196                          Geita
+551      tz02a_dist  197                       Misungwi
+552      tz02a_dist  198                        Ilemela
+553      tz02a_dist  201                         Tarime
+554      tz02a_dist  202                      Serengeti
+555      tz02a_dist  203                   Musoma rural
+556      tz02a_dist  204                          Bunda
+557      tz02a_dist  205                   Musoma urban
+558      tz02a_dist  211                         Babati
+559      tz02a_dist  212                         Hanang
+560      tz02a_dist  213                          Mbulu
+561      tz02a_dist  214                      Simanjiro
+562      tz02a_dist  215                         Kiteto
+563      tz02a_dist  511                      North 'A'
+564      tz02a_dist  512                      North 'B'
+565      tz02a_dist  521                        Central
+566      tz02a_dist  522                          South
+567      tz02a_dist  531                           West
+568      tz02a_dist  532                          Urban
+569      tz02a_dist  541                           Wete
+570      tz02a_dist  542                      Micheweni
+571      tz02a_dist  551                    Chake Chake
+572      tz02a_dist  552                         Mkoani
+573     tz02a_urban    1                          Rural
+574     tz02a_urban    2                          Urban
+575      tz02a_roof    1                    Iron sheets
+576      tz02a_roof    2                          Tiles
+577      tz02a_roof    3                       Concrete
+578      tz02a_roof    4                       Asbestos
+579      tz02a_roof    5                          Grass
+580      tz02a_roof    6                  Grass and mud
+581      tz02a_roof    7       Other type not specified
+582      tz02a_roof    9                            NIU
+583     tz02a_walls    1                         Stones
+584     tz02a_walls    2                  Cement bricks
+585     tz02a_walls    3                Sundried bricks
+586     tz02a_walls    4                   Baked bricks
+587     tz02a_walls    5                  Poles and mud
+588     tz02a_walls    6                         Timber
+589     tz02a_walls    7                          Grass
+590     tz02a_walls    8       Other type not specified
+591     tz02a_walls    9                            NIU
+592     tz02a_floor    1                         Cement
+593     tz02a_floor    2                            Mud
+594     tz02a_floor    3                         Timber
+595     tz02a_floor    4                          Tiles
+596     tz02a_floor    5       Other type not specified
+597     tz02a_floor    9                            NIU
+598     tz02a_rooms    1                              1
+599     tz02a_rooms    2                              2
+600     tz02a_rooms    3                              3
+601     tz02a_rooms    4                              4
+602     tz02a_rooms    5                              5
+603     tz02a_rooms    6                              6
+604     tz02a_rooms    7                              7
+605     tz02a_rooms    8                              8
+606     tz02a_rooms    9                              9
+607     tz02a_rooms   10                             10
+608     tz02a_rooms   11                             11
+609     tz02a_rooms   12                             12
+610     tz02a_rooms   13                             13
+611     tz02a_rooms   14                             14
+612     tz02a_rooms   15                             15
+613     tz02a_rooms   16                             16
+614     tz02a_rooms   17                             17
+615     tz02a_rooms   18                             18
+616     tz02a_rooms   19                             19
+617     tz02a_rooms   20                             20
+618     tz02a_rooms   21                             21
+619     tz02a_rooms   22                             22
+620     tz02a_rooms   23                             23
+621     tz02a_rooms   24                             24
+622     tz02a_rooms   25                             25
+623     tz02a_rooms   27                             27
+624     tz02a_rooms   28                             28
+625     tz02a_rooms   29                             29
+626     tz02a_rooms   30                            30+
+627     tz02a_rooms   98                        Unknown
+628     tz02a_rooms   99                            NIU
+629  tz02a_fuelcook    1                    Electricity
+630  tz02a_fuelcook    2              Kerosene/paraffin
+631  tz02a_fuelcook    3                            Gas
+632  tz02a_fuelcook    4                       Firewood
+633  tz02a_fuelcook    5                       Charcoal
+634  tz02a_fuelcook    6                 Not applicable
+635  tz02a_fuelcook    7     Other source not specified
+636  tz02a_fuelcook    9                            NIU
+637  tz02a_lighting    1                    Electricity
+638  tz02a_lighting    2                        Lantern
+639  tz02a_lighting    3                  Pressure lamp
+640  tz02a_lighting    4                       Firewood
+641  tz02a_lighting    5                         Candle
+642  tz02a_lighting    6                       Oil lamp
+643  tz02a_lighting    7                          Solar
+644  tz02a_lighting    8     Other source not specified
+645  tz02a_lighting    9                            NIU
+646    tz02a_watsrc    1                    Piped water
+647    tz02a_watsrc    2                 Protected well
+648    tz02a_watsrc    3               Unprotected well
+649    tz02a_watsrc    4               Protected spring
+650    tz02a_watsrc    5             Unprotected spring
+651    tz02a_watsrc    6                   River/stream
+652    tz02a_watsrc    7                       Pond/dam
+653    tz02a_watsrc    8                           Lake
+654    tz02a_watsrc    9                     Rain water
+655    tz02a_watsrc   10                  Water vendors
+656    tz02a_watsrc   99                            NIU
+657    tz02a_toilet    1                   Flush toilet
+658    tz02a_toilet    2        Traditional pit latrine
+659    tz02a_toilet    3 Ventilated improved pit latrin
+660    tz02a_toilet    4                    No facility
+661    tz02a_toilet    6       Other type not specified
+662    tz02a_toilet    9                            NIU
+663     tz02a_radio    1                            Yes
+664     tz02a_radio    2                             No
+665     tz02a_radio    9                            NIU
+666     tz02a_phone    1                            Yes
+667     tz02a_phone    2                             No
+668     tz02a_phone    9                            NIU
+669   tz02a_bicycle    1                            Yes
+670   tz02a_bicycle    2                             No
+671   tz02a_bicycle    9                            NIU
+672  tz02a_whbarrow    1                            Yes
+673  tz02a_whbarrow    2                             No
+674  tz02a_whbarrow    9                            NIU
+675      tz02a_iron    1                            Yes
+676      tz02a_iron    2                             No
+677      tz02a_iron    9                            NIU
+678       tz02a_hoe    1                            Yes
+679       tz02a_hoe    2                             No
+680       tz02a_hoe    9                            NIU
+681  tz02a_electric    1                            Yes
+682  tz02a_electric    2                             No
+683  tz02a_electric    9                            NIU
+684  tz02a_deathser    1            Have a death record
+685  tz02a_deathser    2                No death record
+686  tz02a_deathsex    1                           Male
+687  tz02a_deathsex    2                         Female
+688  tz02a_deathsex    8                        Unknown
+689  tz02a_deathsex    9                            NIU
+690  tz02a_deathage    0                              0
+691  tz02a_deathage    1                              1
+692  tz02a_deathage    2                              2
+693  tz02a_deathage    3                              3
+694  tz02a_deathage    4                              4
+695  tz02a_deathage    5                              5
+696  tz02a_deathage    6                              6
+697  tz02a_deathage    7                              7
+698  tz02a_deathage    8                              8
+699  tz02a_deathage    9                              9
+700  tz02a_deathage   10                             10
+701  tz02a_deathage   11                             11
+702  tz02a_deathage   12                             12
+703  tz02a_deathage   13                             13
+704  tz02a_deathage   14                             14
+705  tz02a_deathage   15                             15
+706  tz02a_deathage   16                             16
+707  tz02a_deathage   17                             17
+708  tz02a_deathage   18                             18
+709  tz02a_deathage   19                             19
+710  tz02a_deathage   20                             20
+711  tz02a_deathage   21                             21
+712  tz02a_deathage   22                             22
+713  tz02a_deathage   23                             23
+714  tz02a_deathage   24                             24
+715  tz02a_deathage   25                             25
+716  tz02a_deathage   26                             26
+717  tz02a_deathage   27                             27
+718  tz02a_deathage   28                             28
+719  tz02a_deathage   29                             29
+720  tz02a_deathage   30                             30
+721  tz02a_deathage   31                             31
+722  tz02a_deathage   32                             32
+723  tz02a_deathage   33                             33
+724  tz02a_deathage   34                             34
+725  tz02a_deathage   35                             35
+726  tz02a_deathage   36                             36
+727  tz02a_deathage   37                             37
+728  tz02a_deathage   38                             38
+729  tz02a_deathage   39                             39
+730  tz02a_deathage   40                             40
+731  tz02a_deathage   41                             41
+732  tz02a_deathage   42                             42
+733  tz02a_deathage   43                             43
+734  tz02a_deathage   44                             44
+735  tz02a_deathage   45                             45
+736  tz02a_deathage   46                             46
+737  tz02a_deathage   47                             47
+738  tz02a_deathage   48                             48
+739  tz02a_deathage   49                             49
+740  tz02a_deathage   50                             50
+741  tz02a_deathage   51                             51
+742  tz02a_deathage   52                             52
+743  tz02a_deathage   53                             53
+744  tz02a_deathage   54                             54
+745  tz02a_deathage   55                             55
+746  tz02a_deathage   56                             56
+747  tz02a_deathage   57                             57
+748  tz02a_deathage   58                             58
+749  tz02a_deathage   59                             59
+750  tz02a_deathage   60                             60
+751  tz02a_deathage   61                             61
+752  tz02a_deathage   62                             62
+753  tz02a_deathage   63                             63
+754  tz02a_deathage   64                             64
+755  tz02a_deathage   65                             65
+756  tz02a_deathage   66                             66
+757  tz02a_deathage   67                             67
+758  tz02a_deathage   68                             68
+759  tz02a_deathage   69                             69
+760  tz02a_deathage   70                             70
+761  tz02a_deathage   71                             71
+762  tz02a_deathage   72                             72
+763  tz02a_deathage   73                             73
+764  tz02a_deathage   74                             74
+765  tz02a_deathage   75                             75
+766  tz02a_deathage   76                             76
+767  tz02a_deathage   77                             77
+768  tz02a_deathage   78                             78
+769  tz02a_deathage   79                             79
+770  tz02a_deathage   80                             80
+771  tz02a_deathage   81                             81
+772  tz02a_deathage   82                             82
+773  tz02a_deathage   83                             83
+774  tz02a_deathage   84                             84
+775  tz02a_deathage   85                             85
+776  tz02a_deathage   86                             86
+777  tz02a_deathage   87                             87
+778  tz02a_deathage   88                             88
+779  tz02a_deathage   89                             89
+780  tz02a_deathage   90                             90
+781  tz02a_deathage   91                             91
+782  tz02a_deathage   92                             92
+783  tz02a_deathage   93                             93
+784  tz02a_deathage   94                             94
+785  tz02a_deathage   95                             95
+786  tz02a_deathage   96                             96
+787  tz02a_deathage   97                             97
+788  tz02a_deathage   98                        Unknown
+789  tz02a_deathage   99                            NIU
+790   tz02a_collect    1                            Yes
+791   tz02a_collect    2                             No
+792    tz02a_pernum    0               Household record
+793    tz02a_pernum    1                              1
+794    tz02a_pernum    2                              2
+795    tz02a_pernum    3                              3
+796    tz02a_pernum    4                              4
+797    tz02a_pernum    5                              5
+798    tz02a_pernum    6                              6
+799    tz02a_pernum    7                              7
+800    tz02a_pernum    8                              8
+801    tz02a_pernum    9                              9
+802    tz02a_pernum   10                             10
+803    tz02a_pernum   11                             11
+804    tz02a_pernum   12                             12
+805    tz02a_pernum   13                             13
+806    tz02a_pernum   14                             14
+807    tz02a_pernum   15                             15
+808    tz02a_pernum   16                             16
+809    tz02a_pernum   17                             17
+810    tz02a_pernum   18                             18
+811    tz02a_pernum   19                             19
+812    tz02a_pernum   20                             20
+813    tz02a_pernum   21                             21
+814    tz02a_pernum   22                             22
+815    tz02a_pernum   23                             23
+816    tz02a_pernum   24                             24
+817    tz02a_pernum   25                             25
+818    tz02a_pernum   26                             26
+819    tz02a_pernum   27                             27
+820    tz02a_pernum   28                             28
+821    tz02a_pernum   29                             29
+822    tz02a_pernum   30                             30
+823    tz02a_relate    1                           Head
+824    tz02a_relate    2                         Spouse
+825    tz02a_relate    3                   Son/daughter
+826    tz02a_relate    4                         Parent
+827    tz02a_relate    5                     Grandchild
+828    tz02a_relate    6                 Other relative
+829    tz02a_relate    7                    Nonrelative
+830       tz02a_sex    1                           Male
+831       tz02a_sex    2                         Female
+832       tz02a_age    0                 Under one year
+833       tz02a_age    1                              1
+834       tz02a_age    2                              2
+835       tz02a_age    3                              3
+836       tz02a_age    4                              4
+837       tz02a_age    5                              5
+838       tz02a_age    6                              6
+839       tz02a_age    7                              7
+840       tz02a_age    8                              8
+841       tz02a_age    9                              9
+842       tz02a_age   10                             10
+843       tz02a_age   11                             11
+844       tz02a_age   12                             12
+845       tz02a_age   13                             13
+846       tz02a_age   14                             14
+847       tz02a_age   15                             15
+848       tz02a_age   16                             16
+849       tz02a_age   17                             17
+850       tz02a_age   18                             18
+851       tz02a_age   19                             19
+852       tz02a_age   20                             20
+853       tz02a_age   21                             21
+854       tz02a_age   22                             22
+855       tz02a_age   23                             23
+856       tz02a_age   24                             24
+857       tz02a_age   25                             25
+858       tz02a_age   26                             26
+859       tz02a_age   27                             27
+860       tz02a_age   28                             28
+861       tz02a_age   29                             29
+862       tz02a_age   30                             30
+863       tz02a_age   31                             31
+864       tz02a_age   32                             32
+865       tz02a_age   33                             33
+866       tz02a_age   34                             34
+867       tz02a_age   35                             35
+868       tz02a_age   36                             36
+869       tz02a_age   37                             37
+870       tz02a_age   38                             38
+871       tz02a_age   39                             39
+872       tz02a_age   40                             40
+873       tz02a_age   41                             41
+874       tz02a_age   42                             42
+875       tz02a_age   43                             43
+876       tz02a_age   44                             44
+877       tz02a_age   45                             45
+878       tz02a_age   46                             46
+879       tz02a_age   47                             47
+880       tz02a_age   48                             48
+881       tz02a_age   49                             49
+882       tz02a_age   50                             50
+883       tz02a_age   51                             51
+884       tz02a_age   52                             52
+885       tz02a_age   53                             53
+886       tz02a_age   54                             54
+887       tz02a_age   55                             55
+888       tz02a_age   56                             56
+889       tz02a_age   57                             57
+890       tz02a_age   58                             58
+891       tz02a_age   59                             59
+892       tz02a_age   60                             60
+893       tz02a_age   61                             61
+894       tz02a_age   62                             62
+895       tz02a_age   63                             63
+896       tz02a_age   64                             64
+897       tz02a_age   65                             65
+898       tz02a_age   66                             66
+899       tz02a_age   67                             67
+900       tz02a_age   68                             68
+901       tz02a_age   69                             69
+902       tz02a_age   70                             70
+903       tz02a_age   71                             71
+904       tz02a_age   72                             72
+905       tz02a_age   73                             73
+906       tz02a_age   74                             74
+907       tz02a_age   75                             75
+908       tz02a_age   76                             76
+909       tz02a_age   77                             77
+910       tz02a_age   78                             78
+911       tz02a_age   79                             79
+912       tz02a_age   80                             80
+913       tz02a_age   81                             81
+914       tz02a_age   82                             82
+915       tz02a_age   83                             83
+916       tz02a_age   84                             84
+917       tz02a_age   85                             85
+918       tz02a_age   86                             86
+919       tz02a_age   87                             87
+920       tz02a_age   88                             88
+921       tz02a_age   89                             89
+922       tz02a_age   90                             90
+923       tz02a_age   91                             91
+924       tz02a_age   92                             92
+925       tz02a_age   93                             93
+926       tz02a_age   94                             94
+927       tz02a_age   95                             95
+928       tz02a_age   96                             96
+929       tz02a_age   97                            97+
+930     tz02a_disab    1             Without disability
+931     tz02a_disab    2                        Leprosy
+932     tz02a_disab    3                          Blind
+933     tz02a_disab    4                           Mute
+934     tz02a_disab    5                           Deaf
+935     tz02a_disab    6                         Albino
+936     tz02a_disab    7           Mentally handicapped
+937     tz02a_disab    8           Multiple handicapped
+938     tz02a_citiz   60                       Tanzania
+939     tz02a_citiz   61                         Angola
+940     tz02a_citiz   62                       Botswana
+941     tz02a_citiz   63                        Burundi
+942     tz02a_citiz   64                         Comoro
+943     tz02a_citiz   65                          Kenya
+944     tz02a_citiz   66                        Lesotho
+945     tz02a_citiz   67                         Malawi
+946     tz02a_citiz   69                     Mozambique
+947     tz02a_citiz   70                        Namibia
+948     tz02a_citiz   71                         Rwanda
+949     tz02a_citiz   73                        Somalia
+950     tz02a_citiz   75                   South Africa
+951     tz02a_citiz   76                         Uganda
+952     tz02a_citiz   77              Republic of Congo
+953     tz02a_citiz   79                         Zambia
+954     tz02a_citiz   80        Other African countries
+955     tz02a_citiz   81                          India
+956     tz02a_citiz   82                       Pakistan
+957     tz02a_citiz   83            Other Asian country
+958     tz02a_citiz   84                          Italy
+959     tz02a_citiz   85               Nordic countries
+960     tz02a_citiz   86                  Great britain
+961     tz02a_citiz   87                        Germany
+962     tz02a_citiz   88         Other European country
+963     tz02a_citiz   89                         Canada
+964     tz02a_citiz   90                  United States
+965     tz02a_citiz   91                Other countries
+966     tz02a_marst    1                  Never married
+967     tz02a_marst    2                        Married
+968     tz02a_marst    3                Living together
+969     tz02a_marst    4                       Divorced
+970     tz02a_marst    5                      Separated
+971     tz02a_marst    6                        Widowed
+972    tz02a_falive    1              Yes, father alive
+973    tz02a_falive    2           No, father not alive
+974    tz02a_falive    9                            NIU
+975    tz02a_malive    1              Yes, mother alive
+976    tz02a_malive    2           No, mother not alive
+977    tz02a_malive    9                            NIU
+978       tz02a_bpl    1                         Dodoma
+979       tz02a_bpl    2                         Arusha
+980       tz02a_bpl    3                    Kilimanjaro
+981       tz02a_bpl    4                          Tanga
+982       tz02a_bpl    5                       Morogoro
+983       tz02a_bpl    6                          Coast
+984       tz02a_bpl    7                  Dar es Salaam
+985       tz02a_bpl    8                          Lindi
+986       tz02a_bpl    9                         Mtwara
+987       tz02a_bpl   10                         Ruvuma
+988       tz02a_bpl   11                         Iringa
+989       tz02a_bpl   12                          Mbeya
+990       tz02a_bpl   13                        Singida
+991       tz02a_bpl   14                         Tabora
+992       tz02a_bpl   15                          Rukwa
+993       tz02a_bpl   16                         Kigoma
+994       tz02a_bpl   17                      Shinyanga
+995       tz02a_bpl   18                         Kagera
+996       tz02a_bpl   19                         Mwanza
+997       tz02a_bpl   20                           Mara
+998       tz02a_bpl   21                        Manyara
+999       tz02a_bpl   51                 Zanzibar north
+1000      tz02a_bpl   52                 Zanzibar south
+1001      tz02a_bpl   53             Zanzibar town/west
+1002      tz02a_bpl   54                    Pemba north
+1003      tz02a_bpl   55                    Pemba south
+1004      tz02a_bpl   61                         Angola
+1005      tz02a_bpl   63                        Burundi
+1006      tz02a_bpl   64                         Comoro
+1007      tz02a_bpl   65                          Kenya
+1008      tz02a_bpl   67                         Malawi
+1009      tz02a_bpl   69                     Mozambique
+1010      tz02a_bpl   70                        Namibia
+1011      tz02a_bpl   71                         Rwanda
+1012      tz02a_bpl   72                     Seychelles
+1013      tz02a_bpl   73                        Somalia
+1014      tz02a_bpl   75                   South Africa
+1015      tz02a_bpl   76                         Uganda
+1016      tz02a_bpl   77              Republic of Congo
+1017      tz02a_bpl   78                       Zimbabwe
+1018      tz02a_bpl   79                         Zambia
+1019      tz02a_bpl   80        Other African countries
+1020      tz02a_bpl   81                          India
+1021      tz02a_bpl   82                       Pakistan
+1022      tz02a_bpl   83          Other Asian countries
+1023      tz02a_bpl   84                          Italy
+1024      tz02a_bpl   85 Nordic countries (Demark, Norw
+1025      tz02a_bpl   86                  Great Britain
+1026      tz02a_bpl   87                        Germany
+1027      tz02a_bpl   88       Other European countries
+1028      tz02a_bpl   90                            USA
+1029      tz02a_bpl   91                Other countries
+1030      tz02a_bpl   98                        Unknown
+1031      tz02a_bpl   99                            NIU
+1032    tz02a_resid    1                         Dodoma
+1033    tz02a_resid    2                         Arusha
+1034    tz02a_resid    3                    Kilimanjaro
+1035    tz02a_resid    4                          Tanga
+1036    tz02a_resid    5                       Morogoro
+1037    tz02a_resid    6                          Coast
+1038    tz02a_resid    7                  Dar es Salaam
+1039    tz02a_resid    8                          Lindi
+1040    tz02a_resid    9                         Mtwara
+1041    tz02a_resid   10                         Ruvuma
+1042    tz02a_resid   11                         Iringa
+1043    tz02a_resid   12                          Mbeya
+1044    tz02a_resid   13                        Singida
+1045    tz02a_resid   14                         Tabora
+1046    tz02a_resid   15                          Rukwa
+1047    tz02a_resid   16                         Kigoma
+1048    tz02a_resid   17                      Shinyanga
+1049    tz02a_resid   18                         Kagera
+1050    tz02a_resid   19                         Mwanza
+1051    tz02a_resid   20                           Mara
+1052    tz02a_resid   21                        Manyara
+1053    tz02a_resid   51                 Zanzibar north
+1054    tz02a_resid   52                 Zanzibar south
+1055    tz02a_resid   53             Zanzibar town/west
+1056    tz02a_resid   54                    Pemba north
+1057    tz02a_resid   55                    Pemba south
+1058    tz02a_resid   63                        Burundi
+1059    tz02a_resid   65                          Kenya
+1060    tz02a_resid   67                         Malawi
+1061    tz02a_resid   69                     Mozambique
+1062    tz02a_resid   71                         Rwanda
+1063    tz02a_resid   76                         Uganda
+1064    tz02a_resid   77              Republic of Congo
+1065    tz02a_resid   78                       Zimbabwe
+1066    tz02a_resid   79                         Zambia
+1067    tz02a_resid   80        Other African countries
+1068    tz02a_resid   81                          India
+1069    tz02a_resid   83          Other Asian countries
+1070    tz02a_resid   88             European countries
+1071    tz02a_resid   90                            USA
+1072    tz02a_resid   91                Other countries
+1073    tz02a_resid   98                        Unknown
+1074    tz02a_resid   99                            NIU
+1075  tz02a_areares    1                Living in rural
+1076  tz02a_areares    2          Regional headquarters
+1077  tz02a_areares    3 District headquarters and othe
+1078  tz02a_areares    4               Outside Tanzania
+1079  tz02a_areares    8                        Unknown
+1080  tz02a_areares    9                            NIU
+1081  tz02a_resid01    1                         Dodoma
+1082  tz02a_resid01    2                         Arusha
+1083  tz02a_resid01    3                    Kilimanjaro
+1084  tz02a_resid01    4                          Tanga
+1085  tz02a_resid01    5                       Morogoro
+1086  tz02a_resid01    6                          Coast
+1087  tz02a_resid01    7                  Dar es Salaam
+1088  tz02a_resid01    8                          Lindi
+1089  tz02a_resid01    9                         Mtwara
+1090  tz02a_resid01   10                         Ruvuma
+1091  tz02a_resid01   11                         Iringa
+1092  tz02a_resid01   12                          Mbeya
+1093  tz02a_resid01   13                        Singida
+1094  tz02a_resid01   14                         Tabora
+1095  tz02a_resid01   15                          Rukwa
+1096  tz02a_resid01   16                         Kigoma
+1097  tz02a_resid01   17                      Shinyanga
+1098  tz02a_resid01   18                         Kagera
+1099  tz02a_resid01   19                         Mwanza
+1100  tz02a_resid01   20                           Mara
+1101  tz02a_resid01   21                        Manyara
+1102  tz02a_resid01   51                 Zanzibar north
+1103  tz02a_resid01   52                 Zanzibar south
+1104  tz02a_resid01   53         Zanzibar town and west
+1105  tz02a_resid01   54                    Pemba north
+1106  tz02a_resid01   55                    Pemba south
+1107  tz02a_resid01   63                        Burundi
+1108  tz02a_resid01   65                          Kenya
+1109  tz02a_resid01   67                         Malawi
+1110  tz02a_resid01   69                     Mozambique
+1111  tz02a_resid01   71                         Rwanda
+1112  tz02a_resid01   76                         Uganda
+1113  tz02a_resid01   77              Republic of Congo
+1114  tz02a_resid01   78                       Zimbabwe
+1115  tz02a_resid01   79                         Zambia
+1116  tz02a_resid01   80        Other African countries
+1117  tz02a_resid01   81                          India
+1118  tz02a_resid01   83          Other Asian countries
+1119  tz02a_resid01   86                  Great Britain
+1120  tz02a_resid01   88       Other European countries
+1121  tz02a_resid01   90                            USA
+1122  tz02a_resid01   91                Other countries
+1123  tz02a_resid01   98                        Unknown
+1124  tz02a_resid01   99                            NIU
+1125   tz02a_area01    1                Living in rural
+1126   tz02a_area01    2          Regional headquarters
+1127   tz02a_area01    3 District headquarters and othe
+1128   tz02a_area01    4               Outside Tanzania
+1129   tz02a_area01    8                        Unknown
+1130   tz02a_area01    9                            NIU
+1131      tz02a_lit    1    Can read/write in Kiswahili
+1132      tz02a_lit    2      Can read/write in English
+1133      tz02a_lit    3 Can read/write in both English
+1134      tz02a_lit    4 Can read/write in another lang
+1135      tz02a_lit    5            Can't read or write
+1136      tz02a_lit    8                        Unknown
+1137      tz02a_lit    9                            NIU
+1138   tz02a_school    1               Is now attending
+1139   tz02a_school    2                    Dropped out
+1140   tz02a_school    3           Has completed school
+1141   tz02a_school    4             Has never attended
+1142   tz02a_school    8                        Unknown
+1143   tz02a_school    9                            NIU
+1144 tz02a_edattain    0          Pre-primary education
+1145 tz02a_edattain    1             Primary standard 1
+1146 tz02a_edattain    2             Primary standard 2
+1147 tz02a_edattain    3             Primary standard 3
+1148 tz02a_edattain    4             Primary standard 4
+1149 tz02a_edattain    5             Primary standard 5
+1150 tz02a_edattain    6             Primary standard 6
+1151 tz02a_edattain    7             Primary standard 7
+1152 tz02a_edattain    8             Primary standard 8
+1153 tz02a_edattain    9               Secondary form 1
+1154 tz02a_edattain   10               Secondary form 2
+1155 tz02a_edattain   11               Secondary form 3
+1156 tz02a_edattain   12               Secondary form 4
+1157 tz02a_edattain   13               Secondary form 5
+1158 tz02a_edattain   14               Secondary form 6
+1159 tz02a_edattain   15   University and other related
+1160 tz02a_edattain   16 Training after primary educati
+1161 tz02a_edattain   17 Training after secondary educa
+1162 tz02a_edattain   18                   Pre-form one
+1163 tz02a_edattain   98                        Unknown
+1164 tz02a_edattain   99                            NIU
+1165  tz02a_activyr    1       Worked paid non seasonal
+1166  tz02a_activyr    2           Worked paid seasonal
+1167  tz02a_activyr    3     Worked unpaid non seasonal
+1168  tz02a_activyr    4         Worked unpaid seasonal
+1169  tz02a_activyr    5 Worked for own benefit full ti
+1170  tz02a_activyr    6 Worked for own benefit seasona
+1171  tz02a_activyr    7 Not worked (available for work
+1172  tz02a_activyr    8 Not worked (available for work
+1173  tz02a_activyr    9              Full time student
+1174  tz02a_activyr   10 Home maintenance (e.g. cooking
+1175  tz02a_activyr   11 Unable to work, sick, too old,
+1176  tz02a_activyr   96       Other work not specified
+1177  tz02a_activyr   98                        Unknown
+1178  tz02a_activyr   99                            NIU
+1179  tz02a_activwk    1       Worked paid non seasonal
+1180  tz02a_activwk    2           Worked paid seasonal
+1181  tz02a_activwk    3     Worked unpaid non seasonal
+1182  tz02a_activwk    4         Worked unpaid seasonal
+1183  tz02a_activwk    5 Worked for own benefit full ti
+1184  tz02a_activwk    6 Worked for own benefit seasona
+1185  tz02a_activwk    7 Not worked (available for work
+1186  tz02a_activwk    8 Not worked (available for work
+1187  tz02a_activwk    9              Full time student
+1188  tz02a_activwk   10 Home maintenance (e.g. cooking
+1189  tz02a_activwk   11 Unable to work, sick, too old,
+1190  tz02a_activwk   96       Other work not specified
+1191  tz02a_activwk   98                        Unknown
+1192  tz02a_activwk   99                            NIU
+1193 tz02a_classwkr    1                       Employer
+1194 tz02a_classwkr    2                       Employee
+1195 tz02a_classwkr    3 Own account worker (non agricu
+1196 tz02a_classwkr    4 Own account worker (agricultur
+1197 tz02a_classwkr    5     Contributing family worker
+1198 tz02a_classwkr    6                    Apprentices
+1199 tz02a_classwkr    7     Other status not specified
+1200 tz02a_classwkr    8                        Unknown
+1201 tz02a_classwkr    9                            NIU
+1202      tz02a_occ    1    Legislators, administrators
+1203      tz02a_occ    2                   Professional
+1204      tz02a_occ    3 Technicians and associate prof
+1205      tz02a_occ    4                         Clerks
+1206      tz02a_occ    5        Small business managers
+1207      tz02a_occ    6 Service workers, shop and stal
+1208      tz02a_occ    7 Street vendors and related wor
+1209      tz02a_occ    8     Crafts and related workers
+1210      tz02a_occ    9                        Farmers
+1211      tz02a_occ   10              Livestock keepers
+1212      tz02a_occ   11                      Fishermen
+1213      tz02a_occ   12 Plant, machine operators and a
+1214      tz02a_occ   13         Elementary occupations
+1215      tz02a_occ   96 Other occupation not specified
+1216      tz02a_occ   98                        Unknown
+1217      tz02a_occ   99                            NIU
+1218      tz02a_ind    1 Agriculture, commercial and fo
+1219      tz02a_ind    2 Forestry, fishing, hunting, li
+1220      tz02a_ind    3           Mining and quarrying
+1221      tz02a_ind    4                  Manufacturing
+1222      tz02a_ind    5     Electricity, gas and water
+1223      tz02a_ind    6                   Construction
+1224      tz02a_ind    7                 Raw food sales
+1225      tz02a_ind    8             Trade and commerce
+1226      tz02a_ind    9    Communication and transport
+1227      tz02a_ind   10 Finance and insurance services
+1228      tz02a_ind   11 Public administration and educ
+1229      tz02a_ind   96   Other services not specified
+1230      tz02a_ind   98                        Unknown
+1231      tz02a_ind   99                            NIU
+1232 tz02a_mchildhh    0                              0
+1233 tz02a_mchildhh    1                              1
+1234 tz02a_mchildhh    2                              2
+1235 tz02a_mchildhh    3                              3
+1236 tz02a_mchildhh    4                              4
+1237 tz02a_mchildhh    5                              5
+1238 tz02a_mchildhh    6                              6
+1239 tz02a_mchildhh    7                              7
+1240 tz02a_mchildhh    8                              8
+1241 tz02a_mchildhh    9                              9
+1242 tz02a_mchildhh   10                             10
+1243 tz02a_mchildhh   11                            11+
+1244 tz02a_mchildhh   98                        Unknown
+1245 tz02a_mchildhh   99                            NIU
+1246 tz02a_fchildhh    0                              0
+1247 tz02a_fchildhh    1                              1
+1248 tz02a_fchildhh    2                              2
+1249 tz02a_fchildhh    3                              3
+1250 tz02a_fchildhh    4                              4
+1251 tz02a_fchildhh    5                              5
+1252 tz02a_fchildhh    6                              6
+1253 tz02a_fchildhh    7                              7
+1254 tz02a_fchildhh    8                              8
+1255 tz02a_fchildhh    9                              9
+1256 tz02a_fchildhh   10                             10
+1257 tz02a_fchildhh   11                            11+
+1258 tz02a_fchildhh   98                        Unknown
+1259 tz02a_fchildhh   99                            NIU
+1260  tz02a_mchaway    0                              0
+1261  tz02a_mchaway    1                              1
+1262  tz02a_mchaway    2                              2
+1263  tz02a_mchaway    3                              3
+1264  tz02a_mchaway    4                              4
+1265  tz02a_mchaway    5                              5
+1266  tz02a_mchaway    6                              6
+1267  tz02a_mchaway    7                              7
+1268  tz02a_mchaway    8                              8
+1269  tz02a_mchaway    9                              9
+1270  tz02a_mchaway   10                             10
+1271  tz02a_mchaway   11                             11
+1272  tz02a_mchaway   12                            12+
+1273  tz02a_mchaway   98                        Unknown
+1274  tz02a_mchaway   99                            NIU
+1275  tz02a_mchdead    0                              0
+1276  tz02a_mchdead    1                              1
+1277  tz02a_mchdead    2                              2
+1278  tz02a_mchdead    3                              3
+1279  tz02a_mchdead    4                              4
+1280  tz02a_mchdead    5                              5
+1281  tz02a_mchdead    6                              6
+1282  tz02a_mchdead    7                              7
+1283  tz02a_mchdead    8                              8
+1284  tz02a_mchdead    9                              9
+1285  tz02a_mchdead   10                             10
+1286  tz02a_mchdead   11                             11
+1287  tz02a_mchdead   12                            12+
+1288  tz02a_mchdead   98                        Unknown
+1289  tz02a_mchdead   99                            NIU
+1290  tz02a_fchdead    0                              0
+1291  tz02a_fchdead    1                              1
+1292  tz02a_fchdead    2                              2
+1293  tz02a_fchdead    3                              3
+1294  tz02a_fchdead    4                              4
+1295  tz02a_fchdead    5                              5
+1296  tz02a_fchdead    6                              6
+1297  tz02a_fchdead    7                              7
+1298  tz02a_fchdead    8                              8
+1299  tz02a_fchdead    9                              9
+1300  tz02a_fchdead   10                             10
+1301  tz02a_fchdead   11                             11
+1302  tz02a_fchdead   12                            12+
+1303  tz02a_fchdead   98                        Unknown
+1304  tz02a_fchdead   99                            NIU
+1305  tz02a_mbirths    0                              0
+1306  tz02a_mbirths    1                              1
+1307  tz02a_mbirths    2                             2+
+1308  tz02a_mbirths    8                        Unknown
+1309  tz02a_mbirths    9                            NIU
+1310  tz02a_fbirths    0                              0
+1311  tz02a_fbirths    1                              1
+1312  tz02a_fbirths    2                             2+
+1313  tz02a_fbirths    8                        Unknown
+1314  tz02a_fbirths    9                            NIU
+1315   tz02a_chborn    0                              0
+1316   tz02a_chborn    1                              1
+1317   tz02a_chborn    2                              2
+1318   tz02a_chborn    3                              3
+1319   tz02a_chborn    4                              4
+1320   tz02a_chborn    5                              5
+1321   tz02a_chborn    6                              6
+1322   tz02a_chborn    7                              7
+1323   tz02a_chborn    8                              8
+1324   tz02a_chborn    9                              9
+1325   tz02a_chborn   10                             10
+1326   tz02a_chborn   11                             11
+1327   tz02a_chborn   12                             12
+1328   tz02a_chborn   13                             13
+1329   tz02a_chborn   14                             14
+1330   tz02a_chborn   15                             15
+1331   tz02a_chborn   16                             16
+1332   tz02a_chborn   17                             17
+1333   tz02a_chborn   18                             18
+1334   tz02a_chborn   19                             19
+1335   tz02a_chborn   20                             20
+1336   tz02a_chborn   98                        Unknown
+1337   tz02a_chborn   99                            NIU
+1338   tz02a_chsurv    0                              0
+1339   tz02a_chsurv    1                              1
+1340   tz02a_chsurv    2                              2
+1341   tz02a_chsurv    3                              3
+1342   tz02a_chsurv    4                              4
+1343   tz02a_chsurv    5                              5
+1344   tz02a_chsurv    6                              6
+1345   tz02a_chsurv    7                              7
+1346   tz02a_chsurv    8                              8
+1347   tz02a_chsurv    9                              9
+1348   tz02a_chsurv   10                             10
+1349   tz02a_chsurv   11                             11
+1350   tz02a_chsurv   12                             12
+1351   tz02a_chsurv   13                             13
+1352   tz02a_chsurv   14                             14
+1353   tz02a_chsurv   15                             15
+1354   tz02a_chsurv   16                             16
+1355   tz02a_chsurv   17                             17
+1356   tz02a_chsurv   18                             18
+1357   tz02a_chsurv   19                             19
+1358   tz02a_chsurv   20                             20
+1359   tz02a_chsurv   98                        Unknown
+1360   tz02a_chsurv   99                            NIU
+1361 tz02a_bthlstyr    0                              0
+1362 tz02a_bthlstyr    1                              1
+1363 tz02a_bthlstyr    2                              2
+1364 tz02a_bthlstyr    3                              3
+1365 tz02a_bthlstyr    4                              4
+1366 tz02a_bthlstyr    5                             5+
+1367 tz02a_bthlstyr    8                        Unknown
+1368 tz02a_bthlstyr    9                            NIU
+1369   tz02a_mchhhu    0                              0
+1370   tz02a_mchhhu    1                              1
+1371   tz02a_mchhhu    2                              2
+1372   tz02a_mchhhu    3                              3
+1373   tz02a_mchhhu    4                              4
+1374   tz02a_mchhhu    5                              5
+1375   tz02a_mchhhu    6                              6
+1376   tz02a_mchhhu    7                              7
+1377   tz02a_mchhhu    8                              8
+1378   tz02a_mchhhu    9                              9
+1379   tz02a_mchhhu   10                             10
+1380   tz02a_mchhhu   11                             11
+1381   tz02a_mchhhu   12                            12+
+1382   tz02a_mchhhu   98                        Unknown
+1383   tz02a_mchhhu   99                            NIU
+1384   tz02a_fchhhu    0                              0
+1385   tz02a_fchhhu    1                              1
+1386   tz02a_fchhhu    2                              2
+1387   tz02a_fchhhu    3                              3
+1388   tz02a_fchhhu    4                              4
+1389   tz02a_fchhhu    5                              5
+1390   tz02a_fchhhu    6                              6
+1391   tz02a_fchhhu    7                              7
+1392   tz02a_fchhhu    8                              8
+1393   tz02a_fchhhu    9                              9
+1394   tz02a_fchhhu   10                             10
+1395   tz02a_fchhhu   11                             11
+1396   tz02a_fchhhu   12                            12+
+1397   tz02a_fchhhu   98                        Unknown
+1398   tz02a_fchhhu   99                            NIU
+1399 tz02a_mchawayu    0                              0
+1400 tz02a_mchawayu    1                              1
+1401 tz02a_mchawayu    2                              2
+1402 tz02a_mchawayu    3                              3
+1403 tz02a_mchawayu    4                              4
+1404 tz02a_mchawayu    5                              5
+1405 tz02a_mchawayu    6                              6
+1406 tz02a_mchawayu    7                              7
+1407 tz02a_mchawayu    8                              8
+1408 tz02a_mchawayu    9                              9
+1409 tz02a_mchawayu   10                             10
+1410 tz02a_mchawayu   11                             11
+1411 tz02a_mchawayu   12                             12
+1412 tz02a_mchawayu   13                             13
+1413 tz02a_mchawayu   14                            14+
+1414 tz02a_mchawayu   98                        Unknown
+1415 tz02a_mchawayu   99                            NIU
+1416 tz02a_fchawayu    0                              0
+1417 tz02a_fchawayu    1                              1
+1418 tz02a_fchawayu    2                              2
+1419 tz02a_fchawayu    3                              3
+1420 tz02a_fchawayu    4                              4
+1421 tz02a_fchawayu    5                              5
+1422 tz02a_fchawayu    6                              6
+1423 tz02a_fchawayu    7                              7
+1424 tz02a_fchawayu    8                              8
+1425 tz02a_fchawayu    9                              9
+1426 tz02a_fchawayu   10                             10
+1427 tz02a_fchawayu   11                             11
+1428 tz02a_fchawayu   12                             12
+1429 tz02a_fchawayu   13                             13
+1430 tz02a_fchawayu   14                            14+
+1431 tz02a_fchawayu   98                        Unknown
+1432 tz02a_fchawayu   99                            NIU
+1433 tz02a_mchdeadu    0                              0
+1434 tz02a_mchdeadu    1                              1
+1435 tz02a_mchdeadu    2                              2
+1436 tz02a_mchdeadu    3                              3
+1437 tz02a_mchdeadu    4                              4
+1438 tz02a_mchdeadu    5                              5
+1439 tz02a_mchdeadu    6                              6
+1440 tz02a_mchdeadu    7                              7
+1441 tz02a_mchdeadu    8                              8
+1442 tz02a_mchdeadu    9                              9
+1443 tz02a_mchdeadu   10                             10
+1444 tz02a_mchdeadu   11                             11
+1445 tz02a_mchdeadu   12                            12+
+1446 tz02a_mchdeadu   98                        Unknown
+1447 tz02a_mchdeadu   99                            NIU
+1448 tz02a_fchdeadu    0                              0
+1449 tz02a_fchdeadu    1                              1
+1450 tz02a_fchdeadu    2                              2
+1451 tz02a_fchdeadu    3                              3
+1452 tz02a_fchdeadu    4                              4
+1453 tz02a_fchdeadu    5                              5
+1454 tz02a_fchdeadu    6                              6
+1455 tz02a_fchdeadu    7                              7
+1456 tz02a_fchdeadu    8                              8
+1457 tz02a_fchdeadu    9                              9
+1458 tz02a_fchdeadu   10                             10
+1459 tz02a_fchdeadu   11                             11
+1460 tz02a_fchdeadu   12                            12+
+1461 tz02a_fchdeadu   98                        Unknown
+1462 tz02a_fchdeadu   99                            NIU

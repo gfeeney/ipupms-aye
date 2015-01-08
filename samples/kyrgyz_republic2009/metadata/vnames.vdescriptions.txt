@@ -1,0 +1,67 @@
+        vname                                             vdescription
+1       cntry                                                  Country
+2        year                                                     Year
+3      sample                                  IPUMS sample identifier
+4      serial                                  Household serial number
+5       dwnum                                          Dwelling number
+6       hhnum                       Household number (within dwelling)
+7         hhn                         Number of households in dwelling
+8       pernd                            Number of persons in dwelling
+9        pern                           Number of persons in household
+10  structnum                                      Number of structure
+11    restype                                 Residential premise type
+12    stories                                        Number of stories
+13       wall                                Wall material of premises
+14  construct                                      Construction period
+15    seismic                                        Seismic stability
+16 occrestype                     Type of occupied residential premise
+17  occupancy                                                Occupancy
+18       area                   Total area of dwelling (square meters)
+19    livarea             Residential area of dwelling (square meters)
+20      rooms                    Number of rooms occupied by household
+21     region                                                   Region
+22       dist                                                 District
+23      urban                                           Urban or rural
+24     pernum                                            Person number
+25      wtper                                            Person weight
+26     pernum                         Person number (within household)
+27   geogaway                               Location of absent persons
+28   awaytime                   How long have absent persons been away
+29    whyaway                                       Reason for absence
+30     relate                  Relationship to person enumerated first
+31  parentloc                           Number of the mother or father
+32        sex                                                      Sex
+33  resstatus                                   Absent on census night
+34        mob                                           Month of birth
+35        yob                                            Year of birth
+36        age                                                      Age
+37     nation                                              Nationality
+38      lang1                                            Mother tongue
+39      lang2                          Second fluently spoken language
+40      lang3                           Third fluently spoken language
+41        bpl                                District or city of birth
+42    bplctry                                         Country of birth
+43    citizen                                              Citizenship
+44    yrmoved                         Year moved to current settlement
+45   whymoved                                        Reason for moving
+46      marst                                           Marital status
+47      sploc                                  Person number of spouse
+48    edlevel                                          Education level
+49        lit                                           Read and write
+50     degree                                           Type of degree
+51     edtype                Type of educational institution attending
+52  preschool                                      Attending preschool
+53     incsrc                                        Sources of income
+54        ind             Type of industry, enterprise or organization
+55    empstat                                        Employment status
+56     lookwk                                         Looking for work
+57   nowkreas                              Reason not looking for work
+58     chborn                            Total number of children born
+59    chbornm                             Number of male children born
+60    chbornf                           Number of female children born
+61     chsurv                             Number of children surviving
+62    chsurvm                        Number of male children surviving
+63    chsurvf                      Number of female children surviving
+64     chaway        Number of children born that are living elsewhere
+65    chawaym   Number of male children born that are living elsewhere
+66    chawayf Number of female children born that are living elsewhere

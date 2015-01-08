@@ -1,0 +1,216 @@
+       vname                                                                     vdescription
+1      cntry                                                                          Country
+2       year                                                                             Year
+3     sample                                                          IPUMS sample identifier
+4     serial                                                          Household serial number
+5      dwnum                                                                  Dwelling number
+6      hhnum                                               Household number (within dwelling)
+7        hhn                                                 Number of households in dwelling
+8      pernd                                                    Number of persons in dwelling
+9       pern                                                   Number of persons in household
+10      fbig                Dwelling created by splitting apart a large dwelling or household
+11   donated                                                                 Donated dwelling
+12     d_num                                                   Donation strata: strata number
+13      dept                                                                       Department
+14      geoc                                                                            Class
+15    dwtype                                                                 Type of dwelling
+16      wall                                                                    Wall material
+17     floor                                                                  Floor materials
+18     elect                                                                 Eletrical energy
+19     sewer                                                                    Sewage drains
+20    runwat                                                                    Running water
+21    natgas                                                                      Natural gas
+22     phone                                                                        Telephone
+23    toilet                                                         Type of sanitary service
+24     water                                                        Location of water service
+25   roomsba                                                              Number of bathrooms
+26   kitchex                                                       Exclusive area for cooking
+27     wtdwb                                          Expansion factor for the basic dwelling
+28     wtdwc                                     Expansion factor for the calibrated dwelling
+29    tenure                                                    Tenure status of the dwelling
+30     owner                                                        Dwelling totally paid for
+31     rooms                                                 Number of rooms in the household
+32   roomsbd                                                     Number of rooms for sleeping
+33    bathex                                                         Use of sanitary services
+34    watsrc                                                      Source of water for cooking
+35    cookpl                                                                Place for cooking
+36    fuelck                                                            Fuel used for cooking
+37    refrig                                                                     Refrigerator
+38    washer                                                                  Washing machine
+39    stereo                                                           Sound equipment/stereo
+40   watheat                                                                     Water heater
+41    shower                                                                  Electric shower
+42   blender                                                                          Blender
+43      oven                                                             Electric or gas oven
+44   aircond                                                      Air conditioning appliances
+45       fan                                                                              Fan
+46       tvc                                                                 Color television
+47   compute                                                                         Computer
+48    microw                                                                   Microwave oven
+49      bike                                                               Number of bicycles
+50   motorcy                                                            Number of motorcycles
+51      boat                                                Number of ships, sailboats, boats
+52      auto                                                      Number of automobiles (car)
+53   commorg                                         Participates in a community organization
+54   commorg                                         Participates in a community organization
+55    incbas                                                 Income enough for basic expenses
+56     incad                                     Adequate income for the household (in pesos)
+57        pa                                                                   Persons abroad
+58     patot                                                             Total persons abroad
+59    pave05                           Total persons left for Venezuela between 2001 and 2005
+60    pave00                           Total persons left for Venezuela between 1996 and 2000
+61    pave96                                     Total persons left for Venezuela before 1996
+62    paus05                       Total persons left for United states between 2001 and 2005
+63    paus00                       Total persons left for United States between 1996 and 2000
+64    paus96                                 Total persons left for United States before 1996
+65    paes05                               Total persons left for Spain between 2001 and 2005
+66    paes96                                         Total persons left for Spain before 1996
+67    pamx05                              Total persons left for Mexico between 2001 and 2005
+68    pamx00                                Total persons left for Mexico between1996and 2000
+69    pamx96                                        Total persons left for Mexico before 1996
+70    pacr05                          Total persons left for Costa Rica between 2001 and 2005
+71    pacr00                          Total persons left for Costa Rica between 1996 and 2000
+72    pacr96                                    Total persons left for Costa Rica before 1996
+73    paca05                              Total persons left for Canada between 2001 and 2005
+74    paca00                              Total persons left for Canada between 1996 and 2000
+75    paca96                                        Total persons left for Canada before 1996
+76    paat05                           Total persons left for Australia between 2001 and 2005
+77    paat00                           Total persons left for Australia between 1996 and 2000
+78    paat96                                     Total persons left for Australia before 1996
+79    paec05                             Total persons left for Ecuador between 2001 and 2005
+80    paec00                             Total persons left for Ecuador between 1996 and 2000
+81    paec96                                       Total persons left for Ecuador before 1996
+82    papa05                              Total persons left for Panama between 2001 and 2005
+83    papa00                              Total persons left for Panama between 1996 and 2000
+84    papa96                                        Total persons left for Panama before 1996
+85    pape05                                Total persons left for Peru between 2001 and 2005
+86    pabo05                             Total persons left for Bolivia between 2001 and 2005
+87    paot05 Total persons left for other countries not mentioned above between 2001 and 2005
+88    paot00 Total persons left for other countries not mentioned above between 1996 and 2000
+89    paot96           Total persons left for other countries not mentioned above before 1996
+90     perno                                                       Total persons in household
+91     diedn                                                       Number of persons who died
+92   econact                                               Economic activity in the household
+93     wthhb                                          Basic expansion factor of the household
+94     wthhc                                     Calibrated expansion factor of the household
+95    pernum                                                                    Person number
+96     wtper                                                                    Person weight
+97    pernum                                                 Person number (within household)
+98       sex                                                                              Sex
+99      bmon                                                                   Month of birth
+100      byr                                                                    Year of birth
+101   knowbd                                                               Know date of birth
+102      age                                                                              Age
+103   relate                                            Relationship to the head of household
+104     bplp                                                                   Place of birth
+105     bpld                                                              Department of birth
+106     bplc                                                                 Country of birth
+107  arrivyr                                                   Year of arrival in the country
+108    bplpm                         Place of mother's residence at the time of his/her birth
+109    bpldm                    Department of mother's residence at the time of his/her birth
+110    bplmc                          Country where mother lived at the time of his/her birth
+111    res5p                                                Place of residence five years ago
+112    res5d                                           Department of residence five years ago
+113    res5c                                              Country of residence five years ago
+114    res5y                                Year of arrival in the country in last five years
+115    geocp                                                Type of place within municipality
+116      mv5                                           Change of residence in past five years
+117     mvyr                                   Year of change of residence in last five years
+118      mvp                              Municipality of different residence in last 5 years
+119      mvd                                Department of different residence in last 5 years
+120     mvcl Class within municipality of previous residence at the time of the change of res
+121      mvc                                Country of different residence in last five years
+122    mvwhy                                  Cause of change of residence in last five years
+123   ethnic                                                                  Ethnic identity
+124    indig                                                           Indigenous tribe/group
+125  langind                                       Speaks the language of her/his tribe group
+126   nofood                                         Had days of no food due to lack of money
+127    hcare                                                              Type of health care
+128      ill                                                         Was ill in the past year
+129       md                                       Place where he/she sought medical services
+130    mdcar                                           Cardiac surgery in the past five years
+131   mdcars                       Cardiac surgery provided by General Social Security System
+132    mdorg                                                 Organ transplant past five years
+133    mdneu                                              Neurosurgery in the past five years
+134   mdneus                          Neurosurgery provided by General Social Security System
+135    mdtra                        Medical treatment for Major trauma in the last five years
+136   mdtras Medical treatment and surgery for major trauma provided by General Social Securi
+137    mdcon                                        Surgical treatment for congenital illness
+138   mdcons Surgical treatment for congenital illness provided by General Social Security Sy
+139    mdjoi                                                                Joint replacement
+140   mdjois                     Joint replacement provided by General Social Security System
+141    mddia                                               Dialysis for chronic insufficiency
+142   mddias    Dialysis for chronic insufficiency provided by General Social Security System
+143    mdbur                                                        Therapy for serious burns
+144   mdburs             Therapy for serious burns provided by General Social Security System
+145   mdaids                Treatment for HIV/AIDS provided by General Social Security System
+146    mdche                                                          Chemotherapy for cancer
+147   mdches               Chemotherapy for cancer provided by General Social Security System
+148    mdint                                                                   Intensive care
+149   mdints                        Intensive care provided by General Social Security System
+150   limwal                                                 Permanent limitation for walking
+151   limvis                                                  Permanent limitation for vision
+152   limhea                                                 Permanent limitation for hearing
+153   limspe                                                  Permanent limitation for speech
+154   limlea                                                Permanent limitation for learning
+155   limsoc                                           Permanent limitation for socialization
+156   limbat                   Permanent limitation for bathing, dressing and feeding oneself
+157   limoth                                               Other type of permanent limitation
+158   limper                                                   Principal permanent limitation
+159  limperc                                                    Cause of permanent limitation
+160      lit                                                      Knows how to read and write
+161    books                                Number of books that he/she read in the past year
+162      sch                       Current attendance at some type of educational institution
+163   schpub                                                Currently attends a public school
+164   schcom                       Reason for not attending school: completed his/her studies
+165   schcos                         Reason for not attending school: high costs of education
+166   schwor                                    Reason for not attending school: need to work
+167   schspa                        Reason for not attending school: lack of enrollment space
+168   schdis         Reason for not attending school: distance from educational establishment
+169   schill                                         Reason for not attending school: illness
+170   schpre                                       Reason for not attending school: pregnancy
+171   schoth                                           Reason for not attending school: other
+172   schloc                                              Location of educational institution
+173  schlocd                                            Department of educational institution
+174    edlev                                                       Level of studies completed
+175    grade                                                                  Grade completed
+176  edattan                                            Level of studies and grades completed
+177 edattan1                                          Level of studies and grades completed 1
+178       pc                                                                     Computer use
+179      pcw                                                              Used a PC last week
+180    pcown                                      Used a PC last week to do his/her own tasks
+181    pctra                                         Used a PC last week to make transactions
+182    pcent                                            Used a PC last week for entertainment
+183    pccom                                               Used a PC last week to communicate
+184    pcoth                                         Used a PC last week for other activities
+185      ind                                                               Industry (2-digit)
+186  classwk                                                                     Type of work
+187   wklocp                                            Location of place where he/she worked
+188   wklocd                                                   Department where he/she worked
+189  pension                                                    Affiliation to a pension fund
+190    wkfam                                     Worked complementarily for a family business
+191    wksal               Worked complementarily for sale of products on his/her own account
+192    wkman                       Worked complementarily for manufacture of products to sell
+193    wkani                          Worked complementarily in the fields or animal breeding
+194    wkcho                                      Worked complementarily for household chores
+195    wkoth                                Worked complementarily for other type of activity
+196    marst                                                                   Marital status
+197   langsp                                                                   Speaks Spanish
+198   langen                                                                   Speaks English
+199   langfr                                                                    Speaks French
+200   langit                                                                   Speaks Italian
+201   langge                                                                    Speaks German
+202   langot                                                          Speaks another language
+203  chborny                                                          Had children born alive
+204   chborn                                                    Number of children born alive
+205  chbornm                                                        Number of boys born alive
+206  chbornf                                                     Number of females born alive
+207   chsurv                                               Number of children currently alive
+208  chsurvm                                                  Number of males currently alive
+209  chsurvf                                                Number of females currently alive
+210  chsurvk                            Know whether she has children who are currently alive
+211  lastkyr                                               Year the last child was born alive
+212  lastkmo                                              Month the last child was born alive
+213   firkyr                                         Year that the first child was born alive
+214   wtperb                                                    Basic person expansion factor
+215   wtperc                                               Calibrated person expansion factor

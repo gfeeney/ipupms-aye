@@ -1,0 +1,121 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      hhnum                                Household number (within dwelling)
+6        hhn                                  Number of households in dwelling
+7      pernd                                     Number of persons in dwelling
+8       pern                                    Number of persons in household
+9       fbig Dwelling created by splitting apart a large dwelling or household
+10   fbig_nd           Number of persons in large dwelling before it was split
+11   fbig_nh          Number of persons in large household before it was split
+12      dept                                                        Department
+13    dwnmbr                                                   Dwelling number
+14    hhnmbr                                                  Household number
+15    dwtype                                                  Type of dwelling
+16     occup                                                         Occupancy
+17   noncoll    Usual residents that do not belong to the collective household
+18     walls                                                     Wall material
+19      roof                                                     Roof material
+20    floors                                                    Floor material
+21    watsrc                                                   Source of water
+22    watsup                                                      Water supply
+23   electrc                                                Electricity source
+24    multhh                              Number of households in the dwelling
+25  nhhshare                      Number of households that share the dwelling
+26     dwcat                                                 Dwelling category
+27  resident                                                   Absent resident
+28     owner                                                     Tenure status
+29     otype                                                    Homeowner type
+30   usetype                                             User or occupant type
+31     rooms                                                       Total rooms
+32  bedrooms                                                          Bedrooms
+33    bathdw                                          Bathroom in the dwelling
+34  sharbath                                            Shared use of bathroom
+35     sewer                                                   Sewage disposal
+36   kitchen                                                 Place for cooking
+37    fuelck                                                      Cooking fuel
+38    fuelht                                                      Heating fuel
+39  boilerht                                            Water heater or boiler
+40    wathtr                                              Instant water heater
+41   refridg                                           Refrigerator or freezer
+42     dryer                                             Clothes dryer machine
+43     radio                                                             Radio
+44   colortv                                                          Color TV
+45     phone                                                          Landline
+46    cellph                                                        Cell phone
+47  xoceibal                                               XO from Ceibal plan
+48        pc                                                      PC or laptop
+49  internet                                                   Internet access
+50    motorc                                             Mopeds or motorcycles
+51     autos                                             Automobiles or trucks
+52   hhtotal                                           Total household members
+53    hhmale                                      Total male household members
+54     hhfem                                    Total female household members
+55    pernum                                                     Person number
+56     wtper                                                     Person weight
+57    pernum                                  Person number (within household)
+58    perabs                                                   Absent Resident
+59       sex                                                               Sex
+60       age                                             Age (completed years)
+61   birthmo                                                    Month of birth
+62   birthyr                                                     Year of birth
+63    relate                Relationship to household head or reference person
+64    father                                        Father is household member
+65    ethnbl                                          Ethnicity: Afro or Black
+66    ethnas                                        Ethnicity: Asian or Yellow
+67   ethnwht                                                  Ethnicity: White
+68    ethnid                                             Ethnicity: Indigenous
+69   ethnoth                                                  Ethnicity: Other
+70  ancestry                                                    Main ethnicity
+71  spousehh                                Spouse or partner in the household
+72     union                                                     Type of union
+73     marst                                                    Marital status
+74  bplplace                                                    Place of birth
+75   bpldept                                               Department of birth
+76    bploth                   Locality or area or birth in another department
+77   bplctry                                                  Country of birth
+78     arryr                                                   Year of arrival
+79   restime                           Permanent residence in locality or area
+80   resdurr                                                Years of residence
+81   prevres                                       Previous place of residence
+82  prevdept                                  Department of previous residence
+83  prevloce      Locality or area of previous residence in another department
+84  prevctry                                     Country of previous residence
+85      res5                                    Place of residence 5 years ago
+86  res5dept                               Department of residence 5 years ago
+87  res5loce   Locality or area of residence 5 years ago in another department
+88  res5ctry                                  Country of residence 5 years ago
+89   edearly                              Attends early education or preschool
+90    school                                                    Attends school
+91    schloc                                                Location of school
+92   schdept                                              Department of school
+93   schctry                                                 Country of school
+94  edattend                                         Level currently attending
+95   edlevel                                            Highest level attended
+96  edlevcom                                                   Level completed
+97       lit                                                          Literacy
+98    worklw                                                  Worked last week
+99     wkagr   Helped at home, in business, or taking care of animals or crops
+100 wkreturn                                      Has work that will return to
+101   wklook                               Looked for work during last 4 weeks
+102   wkprev                                                 Has worked before
+103    wkloc                                             Location of workplace
+104   wkdept                                           Department of workplace
+105  retired                                      Retired or receiving pension
+106  domhome                                      Does domestic chores at home
+107   chborn                                     Number of children born alive
+108 chborunk                          Number of children born alive is unknown
+109  chalive                                      Number of children surviving
+110 chlivunk                           Number of children surviving is unknown
+111   lstbyr                                                Year of last birth
+112   lstbmo                                               Month of last birth
+113  frstbyr                                               Year of first birth
+114   dissee                                       Permanent difficulty seeing
+115   dismob                   Permanent difficulty walking or going up stairs
+116   disdev                    Permanent difficulty understanding or learning
+117  edattan                                  Highest education level attained
+118  empstat                                                 Employment status
+119 chbornrc                                     Number of children born alive
+120 chliverc                                      Number of children surviving

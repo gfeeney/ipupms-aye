@@ -1,0 +1,2573 @@
+        vname code                          short
+1       cntry   32                      Argentina
+2       cntry   51                        Armenia
+3       cntry   40                        Austria
+4       cntry   50                     Bangladesh
+5       cntry  112                        Belarus
+6       cntry   68                        Bolivia
+7       cntry   76                         Brazil
+8       cntry  854                   Burkina Faso
+9       cntry  116                       Cambodia
+10      cntry  120                       Cameroon
+11      cntry  124                         Canada
+12      cntry  152                          Chile
+13      cntry  156                          China
+14      cntry  170                       Colombia
+15      cntry  188                     Costa Rica
+16      cntry  192                           Cuba
+17      cntry  214             Dominican Republic
+18      cntry  218                        Ecuador
+19      cntry  818                          Egypt
+20      cntry  222                    El Salvador
+21      cntry  242                           Fiji
+22      cntry  250                         France
+23      cntry  276                        Germany
+24      cntry  288                          Ghana
+25      cntry  300                         Greece
+26      cntry  324                         Guinea
+27      cntry  332                          Haiti
+28      cntry  348                        Hungary
+29      cntry  356                          India
+30      cntry  360                      Indonesia
+31      cntry  364                           Iran
+32      cntry  368                           Iraq
+33      cntry  372                        Ireland
+34      cntry  376                         Israel
+35      cntry  380                          Italy
+36      cntry  388                        Jamaica
+37      cntry  400                         Jordan
+38      cntry  404                          Kenya
+39      cntry  417                Kyrgyz Republic
+40      cntry  430                        Liberia
+41      cntry  454                         Malawi
+42      cntry  458                       Malaysia
+43      cntry  466                           Mali
+44      cntry  484                         Mexico
+45      cntry  496                       Mongolia
+46      cntry  504                        Morocco
+47      cntry  524                          Nepal
+48      cntry  528                    Netherlands
+49      cntry  558                      Nicaragua
+50      cntry  566                        Nigeria
+51      cntry  586                       Pakistan
+52      cntry  275                      Palestine
+53      cntry  591                         Panama
+54      cntry  604                           Peru
+55      cntry  608                    Philippines
+56      cntry  620                       Portugal
+57      cntry  630                    Puerto Rico
+58      cntry  642                        Romania
+59      cntry  646                         Rwanda
+60      cntry  662                    Saint Lucia
+61      cntry  686                        Senegal
+62      cntry  694                   Sierra Leone
+63      cntry  705                       Slovenia
+64      cntry  710                   South Africa
+65      cntry  728                    South Sudan
+66      cntry  724                          Spain
+67      cntry  729                          Sudan
+68      cntry  756                    Switzerland
+69      cntry  834                       Tanzania
+70      cntry  764                       Thailand
+71      cntry  792                         Turkey
+72      cntry  800                         Uganda
+73      cntry  804                        Ukraine
+74      cntry  826                 United Kingdom
+75      cntry  840                  United States
+76      cntry  858                        Uruguay
+77      cntry  862                      Venezuela
+78      cntry  704                        Vietnam
+79      cntry  894                         Zambia
+80       year 1960                           1960
+81       year 1962                           1962
+82       year 1963                           1963
+83       year 1964                           1964
+84       year 1966                           1966
+85       year 1968                           1968
+86       year 1969                           1969
+87       year 1970                           1970
+88       year 1971                           1971
+89       year 1972                           1972
+90       year 1973                           1973
+91       year 1974                           1974
+92       year 1975                           1975
+93       year 1976                           1976
+94       year 1977                           1977
+95       year 1979                           1979
+96       year 1980                           1980
+97       year 1981                           1981
+98       year 1982                           1982
+99       year 1983                           1983
+100      year 1984                           1984
+101      year 1985                           1985
+102      year 1986                           1986
+103      year 1987                           1987
+104      year 1989                           1989
+105      year 1990                           1990
+106      year 1991                           1991
+107      year 1992                           1992
+108      year 1993                           1993
+109      year 1994                           1994
+110      year 1995                           1995
+111      year 1996                           1996
+112      year 1997                           1997
+113      year 1998                           1998
+114      year 1999                           1999
+115      year 2000                           2000
+116      year 2001                           2001
+117      year 2002                           2002
+118      year 2003                           2003
+119      year 2004                           2004
+120      year 2005                           2005
+121      year 2006                           2006
+122      year 2007                           2007
+123      year 2008                           2008
+124      year 2009                           2009
+125      year 2010                           2010
+126      year 2011                           2011
+127    sample  321                 Argentina 1970
+128    sample  322                 Argentina 1980
+129    sample  323                 Argentina 1991
+130    sample  324                 Argentina 2001
+131    sample  325                 Argentina 2010
+132    sample  511                   Armenia 2001
+133    sample  401                   Austria 1971
+134    sample  402                   Austria 1981
+135    sample  403                   Austria 1991
+136    sample  404                   Austria 2001
+137    sample  501                Bangladesh 1991
+138    sample  502                Bangladesh 2001
+139    sample  503                Bangladesh 2011
+140    sample  681                   Bolivia 1976
+141    sample  682                   Bolivia 1992
+142    sample  683                   Bolivia 2001
+143    sample  761                    Brazil 1960
+144    sample  762                    Brazil 1970
+145    sample  763                    Brazil 1980
+146    sample  764                    Brazil 1991
+147    sample  765                    Brazil 2000
+148    sample  766                    Brazil 2010
+149    sample 1121                   Belarus 1999
+150    sample 8541              Burkina Faso 1985
+151    sample 8542              Burkina Faso 1996
+152    sample 8543              Burkina Faso 2006
+153    sample 1161                  Cambodia 1998
+154    sample 1162                  Cambodia 2008
+155    sample 1201                  Cameroon 1976
+156    sample 1202                  Cameroon 1987
+157    sample 1203                  Cameroon 2005
+158    sample 1241                    Canada 1971
+159    sample 1242                    Canada 1981
+160    sample 1243                    Canada 1991
+161    sample 1244                    Canada 2001
+162    sample 1521                     Chile 1960
+163    sample 1522                     Chile 1970
+164    sample 1523                     Chile 1982
+165    sample 1524                     Chile 1992
+166    sample 1525                     Chile 2002
+167    sample 1561                     China 1982
+168    sample 1562                     China 1990
+169    sample 1701                  Colombia 1964
+170    sample 1702                  Colombia 1973
+171    sample 1703                  Colombia 1985
+172    sample 1704                  Colombia 1993
+173    sample 1705                  Colombia 2005
+174    sample 1881                Costa Rica 1963
+175    sample 1882                Costa Rica 1973
+176    sample 1883                Costa Rica 1984
+177    sample 1884                Costa Rica 2000
+178    sample 1921                      Cuba 2002
+179    sample 2141        Dominican Republic 1960
+180    sample 2142        Dominican Republic 1970
+181    sample 2143        Dominican Republic 1981
+182    sample 2144        Dominican Republic 2002
+183    sample 2145        Dominican Republic 2010
+184    sample 2181                   Ecuador 1962
+185    sample 2182                   Ecuador 1974
+186    sample 2183                   Ecuador 1982
+187    sample 2184                   Ecuador 1990
+188    sample 2185                   Ecuador 2001
+189    sample 2186                   Ecuador 2010
+190    sample 8181                     Egypt 1996
+191    sample 8182                     Egypt 2006
+192    sample 2221               El Salvador 1992
+193    sample 2222               El Salvador 2007
+194    sample 2421                      Fiji 1966
+195    sample 2422                      Fiji 1976
+196    sample 2423                      Fiji 1986
+197    sample 2424                      Fiji 1996
+198    sample 2425                      Fiji 2007
+199    sample 2501                    France 1962
+200    sample 2502                    France 1968
+201    sample 2503                    France 1975
+202    sample 2504                    France 1982
+203    sample 2505                    France 1990
+204    sample 2506                    France 1999
+205    sample 2507                    France 2006
+206    sample 2761            Germany 1970 (West)
+207    sample 2762            Germany 1971 (East)
+208    sample 2763            Germany 1981 (East)
+209    sample 2764            Germany 1987 (West)
+210    sample 2881                     Ghana 2000
+211    sample 2882                     Ghana 2010
+212    sample 3001                    Greece 1971
+213    sample 3002                    Greece 1981
+214    sample 3003                    Greece 1991
+215    sample 3004                    Greece 2001
+216    sample 3241                    Guinea 1983
+217    sample 3242                    Guinea 1996
+218    sample 3321                     Haiti 1971
+219    sample 3322                     Haiti 1982
+220    sample 3323                     Haiti 2003
+221    sample 3481                   Hungary 1970
+222    sample 3482                   Hungary 1980
+223    sample 3483                   Hungary 1990
+224    sample 3484                   Hungary 2001
+225    sample 3561                     India 1983
+226    sample 3562                     India 1987
+227    sample 3563                     India 1993
+228    sample 3564                     India 1999
+229    sample 3565                     India 2004
+230    sample 3601                 Indonesia 1971
+231    sample 3602                 Indonesia 1976
+232    sample 3603                 Indonesia 1980
+233    sample 3604                 Indonesia 1985
+234    sample 3605                 Indonesia 1990
+235    sample 3606                 Indonesia 1995
+236    sample 3607                 Indonesia 2000
+237    sample 3608                 Indonesia 2005
+238    sample 3609                 Indonesia 2010
+239    sample 3641                      Iran 2006
+240    sample 3681                      Iraq 1997
+241    sample 3721                   Ireland 1971
+242    sample 3722                   Ireland 1979
+243    sample 3723                   Ireland 1981
+244    sample 3724                   Ireland 1986
+245    sample 3725                   Ireland 1991
+246    sample 3726                   Ireland 1996
+247    sample 3727                   Ireland 2002
+248    sample 3728                   Ireland 2006
+249    sample 3729                   Ireland 2011
+250    sample 3761                    Israel 1972
+251    sample 3762                    Israel 1983
+252    sample 3763                    Israel 1995
+253    sample 3801                     Italy 2001
+254    sample 3881                   Jamaica 1982
+255    sample 3882                   Jamaica 1991
+256    sample 3883                   Jamaica 2001
+257    sample 4001                    Jordan 2004
+258    sample 4041                     Kenya 1969
+259    sample 4042                     Kenya 1979
+260    sample 4043                     Kenya 1989
+261    sample 4044                     Kenya 1999
+262    sample 4045                     Kenya 2009
+263    sample 4171           Kyrgyz Republic 1999
+264    sample 4172           Kyrgyz Republic 2009
+265    sample 4301                   Liberia 1974
+266    sample 4302                   Liberia 2008
+267    sample 4541                    Malawi 1987
+268    sample 4542                    Malawi 1998
+269    sample 4543                    Malawi 2008
+270    sample 4581                  Malaysia 1970
+271    sample 4582                  Malaysia 1980
+272    sample 4583                  Malaysia 1991
+273    sample 4584                  Malaysia 2000
+274    sample 4661                      Mali 1987
+275    sample 4662                      Mali 1998
+276    sample 4663                      Mali 2009
+277    sample 4841                    Mexico 1960
+278    sample 4842                    Mexico 1970
+279    sample 4843                    Mexico 1990
+280    sample 4844                    Mexico 1995
+281    sample 4845                    Mexico 2000
+282    sample 4846                    Mexico 2005
+283    sample 4847                    Mexico 2010
+284    sample 4961                  Mongolia 1989
+285    sample 4962                  Mongolia 2000
+286    sample 5041                   Morocco 1982
+287    sample 5042                   Morocco 1994
+288    sample 5043                   Morocco 2004
+289    sample 5241                     Nepal 2001
+290    sample 5281               Netherlands 1960
+291    sample 5282               Netherlands 1971
+292    sample 5283               Netherlands 2001
+293    sample 5581                 Nicaragua 1971
+294    sample 5582                 Nicaragua 1995
+295    sample 5583                 Nicaragua 2005
+296    sample 5661                   Nigeria 2006
+297    sample 5662                   Nigeria 2007
+298    sample 5663                   Nigeria 2008
+299    sample 5664                   Nigeria 2009
+300    sample 5665                   Nigeria 2010
+301    sample 5861                  Pakistan 1973
+302    sample 5862                  Pakistan 1981
+303    sample 5863                  Pakistan 1998
+304    sample 2751                 Palestine 1997
+305    sample 2752                 Palestine 2007
+306    sample 5911                    Panama 1960
+307    sample 5912                    Panama 1970
+308    sample 5913                    Panama 1980
+309    sample 5914                    Panama 1990
+310    sample 5915                    Panama 2000
+311    sample 5916                    Panama 2010
+312    sample 6041                      Peru 1993
+313    sample 6042                      Peru 2007
+314    sample 6081               Philippines 1990
+315    sample 6082               Philippines 1995
+316    sample 6083               Philippines 2000
+317    sample 6201                  Portugal 1981
+318    sample 6202                  Portugal 1991
+319    sample 6203                  Portugal 2001
+320    sample 6301               Puerto Rico 1970
+321    sample 6302               Puerto Rico 1980
+322    sample 6303               Puerto Rico 1990
+323    sample 6304               Puerto Rico 2000
+324    sample 6305               Puerto Rico 2005
+325    sample 6421                   Romania 1977
+326    sample 6422                   Romania 1992
+327    sample 6423                   Romania 2002
+328    sample 6461                    Rwanda 1991
+329    sample 6462                    Rwanda 2002
+330    sample 6621               Saint Lucia 1980
+331    sample 6622               Saint Lucia 1991
+332    sample 6861                   Senegal 1988
+333    sample 6862                   Senegal 2002
+334    sample 6941              Sierra Leone 2004
+335    sample 7051                  Slovenia 2002
+336    sample 7101              South Africa 1996
+337    sample 7102              South Africa 2001
+338    sample 7103              South Africa 2007
+339    sample 7241                     Spain 1981
+340    sample 7242                     Spain 1991
+341    sample 7243                     Spain 2001
+342    sample 7281               South Sudan 2008
+343    sample 7291                     Sudan 2008
+344    sample 7561               Switzerland 1970
+345    sample 7562               Switzerland 1980
+346    sample 7563               Switzerland 1990
+347    sample 7564               Switzerland 2000
+348    sample 8341                  Tanzania 1988
+349    sample 8342                  Tanzania 2002
+350    sample 7641                  Thailand 1970
+351    sample 7642                  Thailand 1980
+352    sample 7643                  Thailand 1990
+353    sample 7644                  Thailand 2000
+354    sample 7921                    Turkey 1985
+355    sample 7922                    Turkey 1990
+356    sample 7923                    Turkey 2000
+357    sample 8001                    Uganda 1991
+358    sample 8002                    Uganda 2002
+359    sample 8041                   Ukraine 2001
+360    sample 8261            United Kingdom 1991
+361    sample 8262            United Kingdom 2001
+362    sample 8401             United States 1960
+363    sample 8402             United States 1970
+364    sample 8403             United States 1980
+365    sample 8404             United States 1990
+366    sample 8405             United States 2000
+367    sample 8406             United States 2005
+368    sample 8407             United States 2010
+369    sample 8581                   Uruguay 1963
+370    sample 8582                   Uruguay 1975
+371    sample 8583                   Uruguay 1985
+372    sample 8584                   Uruguay 1996
+373    sample 8585                   Uruguay 2006
+374    sample 8586                   Uruguay 2011
+375    sample 8621                 Venezuela 1971
+376    sample 8622                 Venezuela 1981
+377    sample 8623                 Venezuela 1990
+378    sample 8624                 Venezuela 2001
+379    sample 7041                   Vietnam 1989
+380    sample 7042                   Vietnam 1999
+381    sample 7043                   Vietnam 2009
+382    sample 8941                    Zambia 1990
+383    sample 8942                    Zambia 2000
+384    sample 8943                    Zambia 2010
+385      pern    1                              1
+386      pern    2                              2
+387      pern    3                              3
+388      pern    4                              4
+389      pern    5                              5
+390      pern    6                              6
+391      pern    7                              7
+392      pern    8                              8
+393      pern    9                              9
+394      pern   10                             10
+395      pern   11                             11
+396      pern   12                             12
+397      pern   13                             13
+398      pern   14                             14
+399      pern   15                             15
+400      pern   16                             16
+401      pern   17                             17
+402      pern   18                             18
+403      pern   19                             19
+404      pern   20                             20
+405      pern   21                             21
+406      pern   22                             22
+407      pern   23                             23
+408      pern   24                             24
+409      pern   25                             25
+410      pern   26                             26
+411      pern   27                             27
+412      pern   28                             28
+413      pern   29                             29
+414      pern   30                             30
+415      fbig    0                     No problem
+416      fbig    1 Yes: households within a large
+417      fbig    2 Yes: persons within a large ho
+418   fbig_nh    0                      Not split
+419   fbig_nh   31                             31
+420   fbig_nh   32                             32
+421   fbig_nh   33                             33
+422   fbig_nh   34                             34
+423   fbig_nh   35                             35
+424   fbig_nh   36                             36
+425   fbig_nh   37                             37
+426   fbig_nh   38                             38
+427   fbig_nh   39                             39
+428   fbig_nh   40                             40
+429   fbig_nh   41                             41
+430   fbig_nh   42                             42
+431   fbig_nh   43                             43
+432   fbig_nh   44                             44
+433   fbig_nh   45                             45
+434   fbig_nh   47                             47
+435   fbig_nh   48                             48
+436   fbig_nh   49                             49
+437   fbig_nh   50                             50
+438   fbig_nh   53                             53
+439   fbig_nh   56                             56
+440   fbig_nh   59                             59
+441   fbig_nh   62                             62
+442   fbig_nh   63                             63
+443   fbig_nh   65                             65
+444   fbig_nh   67                             67
+445   fbig_nh   80                             80
+446   fbig_nh  116                            116
+447     state    1             Schleswig-Holstein
+448     state    2                        Hamburg
+449     state    3                   Lower Saxony
+450     state    4                         Bremen
+451     state    5         North Rhine-Westphalia
+452     state    6                          Hesse
+453     state    7           Rhineland-Palatinate
+454     state    8              Baden-Württemberg
+455     state    9                        Bavaria
+456     state   10                       Saarland
+457     state   11                  Berlin (West)
+458    bldseq    1                              1
+459    bldseq    2                              2
+460    bldseq    3                              3
+461    bldseq    4                              4
+462    bldseq    5                              5
+463    bldseq    6                              6
+464    bldseq    7                              7
+465    bldseq    8                              8
+466    bldseq    9                              9
+467    bldseq   10                             10
+468    bldseq   11                             11
+469    bldseq   12                             12
+470    bldseq   13                             13
+471    bldseq   14                             14
+472    bldseq   15                             15
+473    bldseq   16                             16
+474    bldseq   17                             17
+475    bldseq   18                             18
+476    bldseq   19                             19
+477    bldseq   20                             20
+478    bldseq   21                             21
+479    bldseq   22                             22
+480    bldseq   23                             23
+481    bldseq   24                             24
+482     dwseq    1                              1
+483     dwseq    2                              2
+484     dwseq    3                              3
+485     dwseq    4                              4
+486     dwseq    5                              5
+487     dwseq    6                              6
+488     dwseq    7                              7
+489     dwseq    8                              8
+490     dwseq    9                              9
+491     dwseq   10                             10
+492     dwseq   11                             11
+493     dwseq   12                             12
+494     dwseq   13                             13
+495     dwseq   14                             14
+496     dwseq   15                             15
+497     dwseq   16                             16
+498     dwseq   17                             17
+499     dwseq   18                             18
+500     dwseq   19                             19
+501     dwseq   20                             20
+502     dwseq   21                             21
+503     dwseq   22                             22
+504     dwseq   23                             23
+505     dwseq   24                             24
+506     dwseq   25                             25
+507     dwseq   26                             26
+508     dwseq   27                             27
+509     dwseq   28                             28
+510     dwseq   29                             29
+511     dwseq   30                             30
+512     dwseq   31                             31
+513     dwseq   32                             32
+514     dwseq   33                             33
+515     dwseq   34                             34
+516     dwseq   35                             35
+517     dwseq   36                             36
+518     dwseq   37                             37
+519     dwseq   38                             38
+520     dwseq   39                             39
+521     dwseq   40                             40
+522     dwseq   41                             41
+523     dwseq   42                             42
+524     dwseq   43                             43
+525     dwseq   44                             44
+526     seqhh    1                              1
+527     seqhh    2                              2
+528     seqhh    3                              3
+529     seqhh    4                              4
+530   placsiz    1     Fewer than 5,000 residents
+531   placsiz    2 5,000 to fewer than 20,000 res
+532   placsiz    3 20,000 to fewer than 100,000 r
+533   placsiz    4 100,000 to fewer than 500,000 
+534   placsiz    5      500,000 residents or more
+535   placsiz    6 For North Rhine-Westphalia and
+536   placsiz    7 For Saarland: 20,000 residents
+537   placsiz    8 For Berlin (West): 100,000 res
+538   placsiz    9 For Bremen: 100,000 residents 
+539   dwowner    1 Owner, co-owner or prospective
+540   dwowner    2 Main tenant, including annuita
+541   dwowner    3                     Sub-tenant
+542   dwowner    9          NIU (Not in universe)
+543   leisure    1                             No
+544   leisure    2                            Yes
+545   leisure    9          NIU (Not in universe)
+546   yrmoved    1                  Prior to 1970
+547   yrmoved    2                    1970 - 1974
+548   yrmoved    3                    1975 - 1979
+549   yrmoved    4                    1980 - 1984
+550   yrmoved    5                           1985
+551   yrmoved    6                           1986
+552   yrmoved    7                           1987
+553   yrmoved    9          NIU (Not in universe)
+554   kitchen    1             No, has no kitchen
+555   kitchen    2               Yes, has kitchen
+556  kitchnet    1                 No kitchenette
+557  kitchnet    2           Yes, has kitchenette
+558    shower    1         No, has no bath/shower
+559    shower    2           Yes, has bath/shower
+560    toilet    1                No, has no W.C.
+561    toilet    2                  Yes, has W.C.
+562   heating    1           Remote/block heating
+563   heating    2                Central heating
+564   heating    3                  Floor heating
+565   heating    4 Single/multi-room stoves (also
+566   heating    9          NIU (Not in universe)
+567   heatgas    1                             No
+568   heatgas    2                            Yes
+569   heatoil    1                             No
+570   heatoil    2                            Yes
+571  heatelec    1                             No
+572  heatelec    2                            Yes
+573  heatcoal    1                             No
+574  heatcoal    2                            Yes
+575  heattele    1                             No
+576  heattele    2                            Yes
+577  heatsolr    1                             No
+578  heatsolr    2                            Yes
+579     rooms    0          NIU (Not in universe)
+580     rooms    1                         1 room
+581     rooms    2                        2 rooms
+582     rooms    3                        3 rooms
+583     rooms    4                        4 rooms
+584     rooms    5                        5 rooms
+585     rooms    6                        6 rooms
+586     rooms    7                        7 rooms
+587     rooms    8                        8 rooms
+588     rooms    9                9 or more rooms
+589  subrooms    0                              0
+590  subrooms    1                         1 room
+591  subrooms    2                        2 rooms
+592  subrooms    3                3 or more rooms
+593  subrooms    9          NIU (Not in universe)
+594   commrms    0                              0
+595   commrms    1                         1 room
+596   commrms    2                        2 rooms
+597   commrms    3                3 or more rooms
+598   commrms    9          NIU (Not in universe)
+599      area   10                             10
+600      area   11                             11
+601      area   12                             12
+602      area   13                             13
+603      area   14                             14
+604      area   15                             15
+605      area   16                             16
+606      area   17                             17
+607      area   18                             18
+608      area   19                             19
+609      area   20                             20
+610      area   21                             21
+611      area   22                             22
+612      area   23                             23
+613      area   24                             24
+614      area   25                             25
+615      area   26                             26
+616      area   27                             27
+617      area   28                             28
+618      area   29                             29
+619      area   30                             30
+620      area   31                             31
+621      area   32                             32
+622      area   33                             33
+623      area   34                             34
+624      area   35                             35
+625      area   36                             36
+626      area   37                             37
+627      area   38                             38
+628      area   39                             39
+629      area   40                             40
+630      area   41                             41
+631      area   42                             42
+632      area   43                             43
+633      area   44                             44
+634      area   45                             45
+635      area   46                             46
+636      area   47                             47
+637      area   48                             48
+638      area   49                             49
+639      area   50                             50
+640      area   51                             51
+641      area   52                             52
+642      area   53                             53
+643      area   54                             54
+644      area   55                             55
+645      area   56                             56
+646      area   57                             57
+647      area   58                             58
+648      area   59                             59
+649      area   60                             60
+650      area   61                             61
+651      area   62                             62
+652      area   63                             63
+653      area   64                             64
+654      area   65                             65
+655      area   66                             66
+656      area   67                             67
+657      area   68                             68
+658      area   69                             69
+659      area   70                             70
+660      area   71                             71
+661      area   72                             72
+662      area   73                             73
+663      area   74                             74
+664      area   75                             75
+665      area   76                             76
+666      area   77                             77
+667      area   78                             78
+668      area   79                             79
+669      area   80                             80
+670      area   81                             81
+671      area   82                             82
+672      area   83                             83
+673      area   84                             84
+674      area   85                             85
+675      area   86                             86
+676      area   87                             87
+677      area   88                             88
+678      area   89                             89
+679      area   90                             90
+680      area   91                             91
+681      area   92                             92
+682      area   93                             93
+683      area   94                             94
+684      area   95                             95
+685      area   96                             96
+686      area   97                             97
+687      area   98                             98
+688      area   99                             99
+689      area  100                            100
+690      area  101                            101
+691      area  102                            102
+692      area  103                            103
+693      area  104                            104
+694      area  105                            105
+695      area  106                            106
+696      area  107                            107
+697      area  108                            108
+698      area  109                            109
+699      area  110                            110
+700      area  111                            111
+701      area  112                            112
+702      area  113                            113
+703      area  114                            114
+704      area  115                            115
+705      area  116                            116
+706      area  117                            117
+707      area  118                            118
+708      area  119                            119
+709      area  120                            120
+710      area  121                            121
+711      area  122                            122
+712      area  123                            123
+713      area  124                            124
+714      area  125                            125
+715      area  126                            126
+716      area  127                            127
+717      area  128                            128
+718      area  129                            129
+719      area  130                            130
+720      area  131                            131
+721      area  132                            132
+722      area  133                            133
+723      area  134                            134
+724      area  135                            135
+725      area  136                            136
+726      area  137                            137
+727      area  138                            138
+728      area  139                            139
+729      area  140                            140
+730      area  141                            141
+731      area  142                            142
+732      area  143                            143
+733      area  144                            144
+734      area  145                            145
+735      area  146                            146
+736      area  147                            147
+737      area  148                            148
+738      area  149                            149
+739      area  150                            150
+740      area  151                            151
+741      area  152                            152
+742      area  153                            153
+743      area  154                            154
+744      area  155                            155
+745      area  156                            156
+746      area  157                            157
+747      area  158                            158
+748      area  159                            159
+749      area  160                            160
+750      area  161                            161
+751      area  162                            162
+752      area  163                            163
+753      area  164                            164
+754      area  165                            165
+755      area  166                            166
+756      area  167                            167
+757      area  168                            168
+758      area  169                            169
+759      area  170                            170
+760      area  171                            171
+761      area  172                            172
+762      area  173                            173
+763      area  174                            174
+764      area  175                            175
+765      area  176                            176
+766      area  177                            177
+767      area  178                            178
+768      area  179                            179
+769      area  180                            180
+770      area  181                            181
+771      area  182                            182
+772      area  183                            183
+773      area  184                            184
+774      area  185                            185
+775      area  186                            186
+776      area  187                            187
+777      area  188                            188
+778      area  189                            189
+779      area  190                            190
+780      area  200                            200
+781      area  210                            210
+782      area  220                            220
+783      area  230                            230
+784      area  240                            240
+785      area  250                            250
+786      area  260                            260
+787      area  270                            270
+788      area  280                            280
+789      area  290                            290
+790      area  300                            300
+791      area  310                            310
+792      area  320                            320
+793      area  330                            330
+794      area  340                            340
+795      area  350                            350
+796      area  360                            360
+797      area  361             361+ square metres
+798      area  999          NIU (Not in universe)
+799   pubasst    1                             No
+800   pubasst    2                            Yes
+801   pubasst    9          NIU (Not in universe)
+802      rent    0                              0
+803      rent   20                             20
+804      rent   30                             30
+805      rent   40                             40
+806      rent   50                             50
+807      rent   60                             60
+808      rent   70                             70
+809      rent   80                             80
+810      rent   90                             90
+811      rent  100                            100
+812      rent  110                            110
+813      rent  120                            120
+814      rent  130                            130
+815      rent  140                            140
+816      rent  150                            150
+817      rent  160                            160
+818      rent  170                            170
+819      rent  180                            180
+820      rent  190                            190
+821      rent  200                            200
+822      rent  210                            210
+823      rent  211                            211
+824      rent  212                            212
+825      rent  213                            213
+826      rent  214                            214
+827      rent  215                            215
+828      rent  216                            216
+829      rent  217                            217
+830      rent  218                            218
+831      rent  219                            219
+832      rent  220                            220
+833      rent  221                            221
+834      rent  222                            222
+835      rent  223                            223
+836      rent  224                            224
+837      rent  225                            225
+838      rent  226                            226
+839      rent  227                            227
+840      rent  228                            228
+841      rent  229                            229
+842      rent  230                            230
+843      rent  231                            231
+844      rent  232                            232
+845      rent  233                            233
+846      rent  234                            234
+847      rent  235                            235
+848      rent  236                            236
+849      rent  237                            237
+850      rent  238                            238
+851      rent  239                            239
+852      rent  240                            240
+853      rent  241                            241
+854      rent  242                            242
+855      rent  243                            243
+856      rent  244                            244
+857      rent  245                            245
+858      rent  246                            246
+859      rent  247                            247
+860      rent  248                            248
+861      rent  249                            249
+862      rent  250                            250
+863      rent  251                            251
+864      rent  252                            252
+865      rent  253                            253
+866      rent  254                            254
+867      rent  255                            255
+868      rent  256                            256
+869      rent  257                            257
+870      rent  258                            258
+871      rent  259                            259
+872      rent  260                            260
+873      rent  261                            261
+874      rent  262                            262
+875      rent  263                            263
+876      rent  264                            264
+877      rent  265                            265
+878      rent  266                            266
+879      rent  267                            267
+880      rent  268                            268
+881      rent  269                            269
+882      rent  270                            270
+883      rent  271                            271
+884      rent  272                            272
+885      rent  273                            273
+886      rent  274                            274
+887      rent  275                            275
+888      rent  276                            276
+889      rent  277                            277
+890      rent  278                            278
+891      rent  279                            279
+892      rent  280                            280
+893      rent  281                            281
+894      rent  282                            282
+895      rent  283                            283
+896      rent  284                            284
+897      rent  285                            285
+898      rent  286                            286
+899      rent  287                            287
+900      rent  288                            288
+901      rent  289                            289
+902      rent  290                            290
+903      rent  291                            291
+904      rent  292                            292
+905      rent  293                            293
+906      rent  294                            294
+907      rent  295                            295
+908      rent  296                            296
+909      rent  297                            297
+910      rent  298                            298
+911      rent  299                            299
+912      rent  300                            300
+913      rent  301                            301
+914      rent  302                            302
+915      rent  303                            303
+916      rent  304                            304
+917      rent  305                            305
+918      rent  306                            306
+919      rent  307                            307
+920      rent  308                            308
+921      rent  309                            309
+922      rent  310                            310
+923      rent  311                            311
+924      rent  312                            312
+925      rent  313                            313
+926      rent  314                            314
+927      rent  315                            315
+928      rent  316                            316
+929      rent  317                            317
+930      rent  318                            318
+931      rent  319                            319
+932      rent  320                            320
+933      rent  321                            321
+934      rent  322                            322
+935      rent  323                            323
+936      rent  324                            324
+937      rent  325                            325
+938      rent  326                            326
+939      rent  327                            327
+940      rent  328                            328
+941      rent  329                            329
+942      rent  330                            330
+943      rent  331                            331
+944      rent  332                            332
+945      rent  333                            333
+946      rent  334                            334
+947      rent  335                            335
+948      rent  336                            336
+949      rent  337                            337
+950      rent  338                            338
+951      rent  339                            339
+952      rent  340                            340
+953      rent  341                            341
+954      rent  342                            342
+955      rent  343                            343
+956      rent  344                            344
+957      rent  345                            345
+958      rent  346                            346
+959      rent  347                            347
+960      rent  348                            348
+961      rent  349                            349
+962      rent  350                            350
+963      rent  351                            351
+964      rent  352                            352
+965      rent  353                            353
+966      rent  354                            354
+967      rent  355                            355
+968      rent  356                            356
+969      rent  357                            357
+970      rent  358                            358
+971      rent  359                            359
+972      rent  360                            360
+973      rent  361                            361
+974      rent  362                            362
+975      rent  363                            363
+976      rent  364                            364
+977      rent  365                            365
+978      rent  366                            366
+979      rent  367                            367
+980      rent  368                            368
+981      rent  369                            369
+982      rent  370                            370
+983      rent  371                            371
+984      rent  372                            372
+985      rent  373                            373
+986      rent  374                            374
+987      rent  375                            375
+988      rent  376                            376
+989      rent  377                            377
+990      rent  378                            378
+991      rent  379                            379
+992      rent  380                            380
+993      rent  381                            381
+994      rent  382                            382
+995      rent  383                            383
+996      rent  384                            384
+997      rent  385                            385
+998      rent  386                            386
+999      rent  387                            387
+1000     rent  388                            388
+1001     rent  389                            389
+1002     rent  390                            390
+1003     rent  391                            391
+1004     rent  392                            392
+1005     rent  393                            393
+1006     rent  394                            394
+1007     rent  395                            395
+1008     rent  396                            396
+1009     rent  397                            397
+1010     rent  398                            398
+1011     rent  399                            399
+1012     rent  400                            400
+1013     rent  401                            401
+1014     rent  402                            402
+1015     rent  403                            403
+1016     rent  404                            404
+1017     rent  405                            405
+1018     rent  406                            406
+1019     rent  407                            407
+1020     rent  408                            408
+1021     rent  409                            409
+1022     rent  410                            410
+1023     rent  411                            411
+1024     rent  412                            412
+1025     rent  413                            413
+1026     rent  414                            414
+1027     rent  415                            415
+1028     rent  416                            416
+1029     rent  417                            417
+1030     rent  418                            418
+1031     rent  419                            419
+1032     rent  420                            420
+1033     rent  421                            421
+1034     rent  422                            422
+1035     rent  423                            423
+1036     rent  424                            424
+1037     rent  425                            425
+1038     rent  426                            426
+1039     rent  427                            427
+1040     rent  428                            428
+1041     rent  429                            429
+1042     rent  430                            430
+1043     rent  431                            431
+1044     rent  432                            432
+1045     rent  433                            433
+1046     rent  434                            434
+1047     rent  435                            435
+1048     rent  436                            436
+1049     rent  437                            437
+1050     rent  438                            438
+1051     rent  439                            439
+1052     rent  440                            440
+1053     rent  441                            441
+1054     rent  442                            442
+1055     rent  443                            443
+1056     rent  444                            444
+1057     rent  445                            445
+1058     rent  446                            446
+1059     rent  447                            447
+1060     rent  448                            448
+1061     rent  449                            449
+1062     rent  450                            450
+1063     rent  451                            451
+1064     rent  452                            452
+1065     rent  453                            453
+1066     rent  454                            454
+1067     rent  455                            455
+1068     rent  456                            456
+1069     rent  457                            457
+1070     rent  458                            458
+1071     rent  459                            459
+1072     rent  460                            460
+1073     rent  461                            461
+1074     rent  462                            462
+1075     rent  463                            463
+1076     rent  464                            464
+1077     rent  465                            465
+1078     rent  466                            466
+1079     rent  467                            467
+1080     rent  468                            468
+1081     rent  469                            469
+1082     rent  470                            470
+1083     rent  471                            471
+1084     rent  472                            472
+1085     rent  473                            473
+1086     rent  474                            474
+1087     rent  475                            475
+1088     rent  476                            476
+1089     rent  477                            477
+1090     rent  478                            478
+1091     rent  479                            479
+1092     rent  480                            480
+1093     rent  481                            481
+1094     rent  482                            482
+1095     rent  483                            483
+1096     rent  484                            484
+1097     rent  485                            485
+1098     rent  486                            486
+1099     rent  487                            487
+1100     rent  488                            488
+1101     rent  489                            489
+1102     rent  490                            490
+1103     rent  491                            491
+1104     rent  492                            492
+1105     rent  493                            493
+1106     rent  494                            494
+1107     rent  495                            495
+1108     rent  496                            496
+1109     rent  497                            497
+1110     rent  498                            498
+1111     rent  499                            499
+1112     rent  500                            500
+1113     rent  501                            501
+1114     rent  502                            502
+1115     rent  503                            503
+1116     rent  504                            504
+1117     rent  505                            505
+1118     rent  506                            506
+1119     rent  507                            507
+1120     rent  508                            508
+1121     rent  509                            509
+1122     rent  510                            510
+1123     rent  511                            511
+1124     rent  512                            512
+1125     rent  513                            513
+1126     rent  514                            514
+1127     rent  515                            515
+1128     rent  516                            516
+1129     rent  517                            517
+1130     rent  518                            518
+1131     rent  519                            519
+1132     rent  520                            520
+1133     rent  521                            521
+1134     rent  522                            522
+1135     rent  523                            523
+1136     rent  524                            524
+1137     rent  525                            525
+1138     rent  526                            526
+1139     rent  527                            527
+1140     rent  528                            528
+1141     rent  529                            529
+1142     rent  530                            530
+1143     rent  531                            531
+1144     rent  532                            532
+1145     rent  533                            533
+1146     rent  534                            534
+1147     rent  535                            535
+1148     rent  536                            536
+1149     rent  537                            537
+1150     rent  538                            538
+1151     rent  539                            539
+1152     rent  540                            540
+1153     rent  541                            541
+1154     rent  542                            542
+1155     rent  543                            543
+1156     rent  544                            544
+1157     rent  545                            545
+1158     rent  546                            546
+1159     rent  547                            547
+1160     rent  548                            548
+1161     rent  549                            549
+1162     rent  550                            550
+1163     rent  551                            551
+1164     rent  552                            552
+1165     rent  553                            553
+1166     rent  554                            554
+1167     rent  555                            555
+1168     rent  556                            556
+1169     rent  557                            557
+1170     rent  558                            558
+1171     rent  559                            559
+1172     rent  560                            560
+1173     rent  561                            561
+1174     rent  562                            562
+1175     rent  563                            563
+1176     rent  564                            564
+1177     rent  565                            565
+1178     rent  566                            566
+1179     rent  567                            567
+1180     rent  568                            568
+1181     rent  569                            569
+1182     rent  570                            570
+1183     rent  571                            571
+1184     rent  572                            572
+1185     rent  573                            573
+1186     rent  574                            574
+1187     rent  575                            575
+1188     rent  576                            576
+1189     rent  577                            577
+1190     rent  578                            578
+1191     rent  579                            579
+1192     rent  580                            580
+1193     rent  581                            581
+1194     rent  582                            582
+1195     rent  583                            583
+1196     rent  584                            584
+1197     rent  585                            585
+1198     rent  586                            586
+1199     rent  587                            587
+1200     rent  588                            588
+1201     rent  589                            589
+1202     rent  590                            590
+1203     rent  591                            591
+1204     rent  592                            592
+1205     rent  593                            593
+1206     rent  594                            594
+1207     rent  595                            595
+1208     rent  596                            596
+1209     rent  597                            597
+1210     rent  598                            598
+1211     rent  599                            599
+1212     rent  600                            600
+1213     rent  601                            601
+1214     rent  602                            602
+1215     rent  603                            603
+1216     rent  604                            604
+1217     rent  605                            605
+1218     rent  606                            606
+1219     rent  607                            607
+1220     rent  608                            608
+1221     rent  609                            609
+1222     rent  610                            610
+1223     rent  620                            620
+1224     rent  630                            630
+1225     rent  640                            640
+1226     rent  650                            650
+1227     rent  660                            660
+1228     rent  670                            670
+1229     rent  680                            680
+1230     rent  690                            690
+1231     rent  700                            700
+1232     rent  710                            710
+1233     rent  720                            720
+1234     rent  730                            730
+1235     rent  740                            740
+1236     rent  750                            750
+1237     rent  760                            760
+1238     rent  770                            770
+1239     rent  780                            780
+1240     rent  790                            790
+1241     rent  800                            800
+1242     rent  810                            810
+1243     rent  820                            820
+1244     rent  830                            830
+1245     rent  840                            840
+1246     rent  850                            850
+1247     rent  860                            860
+1248     rent  870                            870
+1249     rent  880                            880
+1250     rent  890                            890
+1251     rent  900                            900
+1252     rent  910                            910
+1253     rent  920                            920
+1254     rent  930                            930
+1255     rent  940                            940
+1256     rent  950                            950
+1257     rent  960                            960
+1258     rent  970                            970
+1259     rent  980                            980
+1260     rent  990                            990
+1261     rent 1000                           1000
+1262     rent 1010                           1010
+1263     rent 1020                           1020
+1264     rent 1030                           1030
+1265     rent 1040                           1040
+1266     rent 1050                           1050
+1267     rent 1060                           1060
+1268     rent 1070                           1070
+1269     rent 1080                           1080
+1270     rent 1090                           1090
+1271     rent 1100                           1100
+1272     rent 1101           1101+ Deutsche Marks
+1273     rent 9999          NIU (Not in universe)
+1274 empdwell    1                             No
+1275 empdwell    2                            Yes
+1276 empdwell    9                            NIU
+1277  subrent    1                             No
+1278  subrent    2                            Yes
+1279  subrent    9                            NIU
+1280 bldtype1    1 Residential building (used at 
+1281 bldtype1    2 Other building with space used
+1282 bldtype1    3   Other types of accommodation
+1283 bldtype1    9                            NIU
+1284    dorms    1                     Completely
+1285    dorms    2                         Partly
+1286    dorms    8                        Unknown
+1287    dorms    9                            NIU
+1288 bldowner    1 Individual person, couple, ass
+1289 bldowner    2 Association of dwelling owners
+1290 bldowner    3 Housing for public benefit, ho
+1291 bldowner    4    Independent housing company
+1292 bldowner    5                Other ownership
+1293 bldowner    9                            NIU
+1294  yrbuilt 1900                1900 or earlier
+1295  yrbuilt 1918                   1901 to 1918
+1296  yrbuilt 1948                   1919 to 1948
+1297  yrbuilt 1957                   1949 to 1957
+1298  yrbuilt 1962                   1958 to 1962
+1299  yrbuilt 1963                           1963
+1300  yrbuilt 1964                           1964
+1301  yrbuilt 1965                           1965
+1302  yrbuilt 1966                           1966
+1303  yrbuilt 1967                           1967
+1304  yrbuilt 1968                           1968
+1305  yrbuilt 1969                           1969
+1306  yrbuilt 1970                           1970
+1307  yrbuilt 1971                           1971
+1308  yrbuilt 1972                           1972
+1309  yrbuilt 1973                           1973
+1310  yrbuilt 1974                           1974
+1311  yrbuilt 1975                           1975
+1312  yrbuilt 1976                           1976
+1313  yrbuilt 1977                           1977
+1314  yrbuilt 1978                           1978
+1315  yrbuilt 1979                           1979
+1316  yrbuilt 1980                           1980
+1317  yrbuilt 1981                           1981
+1318  yrbuilt 1982                           1982
+1319  yrbuilt 1983                           1983
+1320  yrbuilt 1984                           1984
+1321  yrbuilt 1985                           1985
+1322  yrbuilt 1986                           1986
+1323  yrbuilt 1987                           1987
+1324  yrbuilt 9999                            NIU
+1325 subsidiz    1                           None
+1326 subsidiz    2                            All
+1327 subsidiz    3                         Partly
+1328 subsidiz    9                            NIU
+1329 bldtype2    1 Normal building, person(s) hav
+1330 bldtype2    2 Community use with at least on
+1331 bldtype2    9 Community use and vacant dwell
+1332   dwtype    1   Owner in principal residence
+1333   dwtype    2   Owner in secondary residence
+1334   dwtype    3 Leisure-time dwelling with per
+1335   dwtype    4  Tenant in principal residence
+1336   dwtype    5  Tenant in secondary residence
+1337   dwtype    6 Completely sublet with and wit
+1338   dwtype    7 Subtenant with dwelling owner 
+1339   dwtype    8 Dormitory with dwelling charac
+1340   dwtype    9 Dormitory without dwelling cha
+1341   dwtype   98                        Unknown
+1342   dwtype   99                            NIU
+1343  ndwells    0                              0
+1344  ndwells    1                              1
+1345  ndwells    2                              2
+1346  ndwells    3                              3
+1347  ndwells    4                              4
+1348  ndwells    5                              5
+1349  ndwells    6                              6
+1350  ndwells    7                              7
+1351  ndwells    8                              8
+1352  ndwells    9                              9
+1353  ndwells   10                             10
+1354  ndwells   11                             11
+1355  ndwells   12                             12
+1356  ndwells   13                             13
+1357  ndwells   14                             14
+1358  ndwells   15                             15
+1359  ndwells   16                             16
+1360  ndwells   17                             17
+1361  ndwells   18                             18
+1362  ndwells   19                             19
+1363  ndwells   20                             20
+1364  ndwells   21                             21
+1365  ndwells   22                             22
+1366  ndwells   23                             23
+1367  ndwells   24                             24
+1368  ndwells   25                             25
+1369  ndwells   26                             26
+1370  ndwells   27                             27
+1371  ndwells   28                             28
+1372  ndwells   29                             29
+1373  ndwells   30                             30
+1374  ndwells   31                             31
+1375  ndwells   32                             32
+1376  ndwells   33                             33
+1377  ndwells   34                             34
+1378  ndwells   35                             35
+1379  ndwells   36                             36
+1380  ndwells   37                             37
+1381  ndwells   38                             38
+1382  ndwells   39                             39
+1383  ndwells   40                             40
+1384  ndwells   41                             41
+1385  ndwells   42                             42
+1386  ndwells   43                             43
+1387  ndwells   44                             44
+1388  ndwells   45                             45
+1389  ndwells   46                             46
+1390  ndwells   47                             47
+1391  ndwells   48                             48
+1392  ndwells   49                             49
+1393  ndwells   50                             50
+1394  ndwells   51                             51
+1395  ndwells   52                             52
+1396  ndwells   53                             53
+1397  ndwells   54                             54
+1398  ndwells   55                             55
+1399  ndwells   56                             56
+1400  ndwells   57                             57
+1401  ndwells   58                             58
+1402  ndwells   59                             59
+1403  ndwells   60                             60
+1404  ndwells   61                             61
+1405  ndwells   62                             62
+1406  ndwells   63                             63
+1407  ndwells   64                             64
+1408  ndwells   65                             65
+1409  ndwells   66                             66
+1410  ndwells   67                             67
+1411  ndwells   68                             68
+1412  ndwells   69                             69
+1413  ndwells   70                             70
+1414  ndwells   71                             71
+1415  ndwells   72                             72
+1416  ndwells   73                             73
+1417  ndwells   74          74 and more dwellings
+1418  ndwells   99                            NIU
+1419   nothdw    0                              0
+1420   nothdw    1                              1
+1421   nothdw    2                              2
+1422   nothdw    3                              3
+1423   nothdw    4                              4
+1424   nothdw    5                              5
+1425   nothdw    6                              6
+1426   nothdw    7                              7
+1427   nothdw    8                              8
+1428   nothdw    9                              9
+1429   nothdw   10             10+ dwelling units
+1430   nothdw   99                            NIU
+1431  nleisdw    0                              0
+1432  nleisdw    1                              1
+1433  nleisdw    2                              2
+1434  nleisdw    3                              3
+1435  nleisdw    4                              4
+1436  nleisdw    5                              5
+1437  nleisdw    6                              6
+1438  nleisdw    7                             7+
+1439  nleisdw    9                            NIU
+1440  leisbld    1                            Yes
+1441  leisbld    2                             No
+1442  leisbld    9                            NIU
+1443  bldarea 4161     4161 or more square metres
+1444  bldarea 9999          NIU (Not in universe)
+1445  bldheat    1        Remote/district heating
+1446  bldheat    2                  Block heating
+1447  bldheat    3                Central heating
+1448  bldheat    4 Floor heating for all units (w
+1449  bldheat    5 Floor heating for all units (w
+1450  bldheat    6 Floor heating not for all unit
+1451  bldheat    7 Floor heating not for all unit
+1452  bldheat    8 Only single or multiple room s
+1453  bldheat    9          NIU (Not in universe)
+1454 bldenerg    1                            Gas
+1455 bldenerg    2                    Heating oil
+1456 bldenerg    3                    Electricity
+1457 bldenerg    4                Coal, wood, etc
+1458 bldenerg    5          Tele/district heating
+1459 bldenerg    9          NIU (Not in universe)
+1460 bldsolar    1                             No
+1461 bldsolar    2                            Yes
+1462   bldfac    1 With bath, WC, central heating
+1463   bldfac    2 With bath, WC, without central
+1464   bldfac    3          Without bath, with WC
+1465   bldfac    4          With bath, without WC
+1466   bldfac    5               Without bath, WC
+1467   bldfac    9          NIU (Not in universe)
+1468   rooms2    1                              1
+1469   rooms2    2                              2
+1470   rooms2    3                              3
+1471   rooms2    4                              4
+1472   rooms2    5                              5
+1473   rooms2    6                              6
+1474   rooms2    7                              7
+1475   rooms2    8                              8
+1476   rooms2    9                              9
+1477   rooms2   10                             10
+1478   rooms2   99          NIU (Not in universe)
+1479 rentarea    0                     Not stated
+1480 rentarea    1                 Under  DM 2.00
+1481 rentarea    2       DM 2.00 to under DM 2.50
+1482 rentarea    3       DM 2.50 to under DM 3.00
+1483 rentarea    4       DM 3.00 to under DM 3.50
+1484 rentarea    5       DM 3.50 to under DM 4.00
+1485 rentarea    6       DM 4.00 to under DM 4.50
+1486 rentarea    7       DM 4.50 to under DM 5.00
+1487 rentarea    8       DM 5.00 to under DM 5.50
+1488 rentarea    9       DM 5.50 to under DM 6.00
+1489 rentarea   10       DM 6.00 to under DM 6.50
+1490 rentarea   11       DM 6.50 to under DM 7.00
+1491 rentarea   12       DM 7.00 to under DM 7.50
+1492 rentarea   13       DM 7.50 to under DM 8.00
+1493 rentarea   14       DM 8.00 to under DM 8.50
+1494 rentarea   15       DM 8.50 to under DM 9.00
+1495 rentarea   16       DM 9.00 to under DM 9.50
+1496 rentarea   17      DM 9.50 to under DM 10.00
+1497 rentarea   18     DM 10.00 to under DM 11.00
+1498 rentarea   19     DM 11.00 to under DM 12.00
+1499 rentarea   20     DM 12.00 to under DM 13.00
+1500 rentarea   21     DM 13.00 to under DM 14.00
+1501 rentarea   22     DM 14.00 to under DM 15.00
+1502 rentarea   23     DM 15.00 to under DM 16.00
+1503 rentarea   24              DM 16.00 and more
+1504 rentarea   99          NIU (Not in universe)
+1505    dwhhs    1                              1
+1506    dwhhs    2                              2
+1507    dwhhs    3                              3
+1508    dwhhs    4                              4
+1509    dwhhs    5                              5
+1510    dwhhs    6                              6
+1511    dwhhs    7                      7 or more
+1512    dwhhs    9          NIU (Not in universe)
+1513   dwpers    1                              1
+1514   dwpers    2                              2
+1515   dwpers    3                              3
+1516   dwpers    4                              4
+1517   dwpers    5                              5
+1518   dwpers    6                              6
+1519   dwpers    7                              7
+1520   dwpers    8                              8
+1521   dwpers    9                              9
+1522   dwpers   10                             10
+1523   dwpers   11                             11
+1524   dwpers   12                             12
+1525   dwpers   13                     13 or more
+1526   dwpers   99          NIU (Not in universe)
+1527  nlegres    1                              1
+1528  nlegres    2                              2
+1529  nlegres    3                              3
+1530  nlegres    4                              4
+1531  nlegres    5                              5
+1532  nlegres    6                              6
+1533  nlegres    7                              7
+1534  nlegres    8                              8
+1535  nlegres    9                              9
+1536  nlegres   10                             10
+1537  nlegres   11                             11
+1538  nlegres   12                     12 or more
+1539  nlegres   99          NIU (Not in universe)
+1540 nprinres    0                              0
+1541 nprinres    1                              1
+1542 nprinres    2                              2
+1543 nprinres    3                              3
+1544 nprinres    4                              4
+1545 nprinres    5                              5
+1546 nprinres    6                              6
+1547 nprinres    7                              7
+1548 nprinres    8                              8
+1549 nprinres    9                              9
+1550 nprinres   10                             10
+1551 nprinres   11                             11
+1552 nprinres   12                     12 or more
+1553 nprinres   99          NIU (Not in universe)
+1554    pophh    0                              0
+1555    pophh    1                              1
+1556    pophh    2                              2
+1557    pophh    3                              3
+1558    pophh    4                              4
+1559    pophh    5                              5
+1560    pophh    6                              6
+1561    pophh    7                              7
+1562    pophh    8                              8
+1563    pophh    9                              9
+1564    pophh   10                             10
+1565    pophh   11                             11
+1566    pophh   12                     12 or more
+1567    pophh   99          NIU (Not in universe)
+1568  legres2    0                              0
+1569  legres2    1                              1
+1570  legres2    2                              2
+1571  legres2    3                              3
+1572  legres2    4                              4
+1573  legres2    5                              5
+1574  legres2    6                              6
+1575  legres2    7                              7
+1576  legres2    8                              8
+1577  legres2    9                              9
+1578  legres2   10                             10
+1579  legres2   11                             11
+1580  legres2   12                     12 or more
+1581  legres2   99          NIU (Not in universe)
+1582   under3    0                              0
+1583   under3    1                              1
+1584   under3    2                              2
+1585   under3    3                      3 or more
+1586   under3    9          NIU (Not in universe)
+1587   under6    0                              0
+1588   under6    1                              1
+1589   under6    2                              2
+1590   under6    3                              3
+1591   under6    4                      4 or more
+1592   under6    9          NIU (Not in universe)
+1593  under10    0                              0
+1594  under10    1                              1
+1595  under10    2                              2
+1596  under10    3                              3
+1597  under10    4                              4
+1598  under10    5                              5
+1599  under10    6                      6 or more
+1600  under10    9          NIU (Not in universe)
+1601  under15    0                              0
+1602  under15    1                              1
+1603  under15    2                              2
+1604  under15    3                              3
+1605  under15    4                              4
+1606  under15    5                              5
+1607  under15    6                              6
+1608  under15    7                      7 or more
+1609  under15    9          NIU (Not in universe)
+1610  under18    0                              0
+1611  under18    1                              1
+1612  under18    2                              2
+1613  under18    3                              3
+1614  under18    4                              4
+1615  under18    5                              5
+1616  under18    6                              6
+1617  under18    7                              7
+1618  under18    8                      8 or more
+1619  under18    9          NIU (Not in universe)
+1620   nmarrs    0                              0
+1621   nmarrs    1                              1
+1622   nmarrs    2                              2
+1623   nmarrs    3                              3
+1624   nmarrs    4                              4
+1625   nmarrs    5                              5
+1626   nmarrs    6                      6 or more
+1627   nmarrs    9          NIU (Not in universe)
+1628 ncouples    0                              0
+1629 ncouples    1                              1
+1630 ncouples    2                              2
+1631 ncouples    3                      3 or more
+1632 ncouples    9          NIU (Not in universe)
+1633     ninc    0                              0
+1634     ninc    1                              1
+1635     ninc    2                              2
+1636     ninc    3                              3
+1637     ninc    4                              4
+1638     ninc    5                              5
+1639     ninc    6                              6
+1640     ninc    7                              7
+1641     ninc    8                              8
+1642     ninc    9                      9 or more
+1643     ninc   99          NIU (Not in universe)
+1644  nincemp    0                              0
+1645  nincemp    1                              1
+1646  nincemp    2                              2
+1647  nincemp    3                              3
+1648  nincemp    4                              4
+1649  nincemp    5                              5
+1650  nincemp    6                              6
+1651  nincemp    7                              7
+1652  nincemp    8                      8 or more
+1653  nincemp    9          NIU (Not in universe)
+1654   empref    1    Full time and pupil/student
+1655   empref    2      Full time and not student
+1656   empref    3 Part time (to 36 hours) and st
+1657   empref    4 Part time (to 36 hours) and no
+1658   empref    5 Unemployed  or seeking employm
+1659   empref    6 Unemployed  or seeking employm
+1660   empref    7 Not economically active and st
+1661   empref    8 Not economically active and no
+1662   empref    9          NIU (Not in universe)
+1663 classref    1                 Skilled worker
+1664 classref    2              Other wage earner
+1665 classref    3              Salaried employee
+1666 classref    4                     Apprentice
+1667 classref    5 Public servant, judge, soldier
+1668 classref    6   Self-employed with employees
+1669 classref    7 Self-employed without employee
+1670 classref    8        Assistant family member
+1671 classref    9          NIU (Not in universe)
+1672 trainref    1                     Industrial
+1673 trainref    2           Merchant / technical
+1674 trainref    9          NIU (Not in universe)
+1675  educref    1      Elementary/primary school
+1676  educref    2       Intermediate high school
+1677  educref    3 High school with final examina
+1678  educref    8                        Unknown
+1679  educref    9          NIU (Not in universe)
+1680  univref    1 Fulltime vocational school (wi
+1681  univref    2             Vocational college
+1682  univref    3  Technical/engineering college
+1683  univref    4 University (including teacher 
+1684  univref    9          NIU (Not in universe)
+1685  ecacthh    0                              0
+1686  ecacthh    1                              1
+1687  ecacthh    2                              2
+1688  ecacthh    3                              3
+1689  ecacthh    4                              4
+1690  ecacthh    5                              5
+1691  ecacthh    6                      6 or more
+1692  ecacthh    9          NIU (Not in universe)
+1693    emphh    0                              0
+1694    emphh    1                              1
+1695    emphh    2                              2
+1696    emphh    3                              3
+1697    emphh    4                              4
+1698    emphh    5                              5
+1699    emphh    6                      6 or more
+1700    emphh    9          NIU (Not in universe)
+1701 nage1565    0                              0
+1702 nage1565    1                              1
+1703 nage1565    2                              2
+1704 nage1565    3                              3
+1705 nage1565    4                              4
+1706 nage1565    5                              5
+1707 nage1565    6                              6
+1708 nage1565    7                      7 or more
+1709 nage1565    9          NIU (Not in universe)
+1710   nage66    0                              0
+1711   nage66    1                              1
+1712   nage66    2                              2
+1713   nage66    3                      3 or more
+1714   nage66    9          NIU (Not in universe)
+1715   nage65    0                              0
+1716   nage65    1                              1
+1717   nage65    2                              2
+1718   nage65    3                      3 or more
+1719   nage65    9          NIU (Not in universe)
+1720 nstudent    0                              0
+1721 nstudent    1                              1
+1722 nstudent    2                              2
+1723 nstudent    3                              3
+1724 nstudent    4                              4
+1725 nstudent    5                      5 or more
+1726 nstudent    9          NIU (Not in universe)
+1727   typehh    1    1 adult, age 15 to 64, male
+1728   typehh    2  1 adult, age 15 to 64, female
+1729   typehh    3 1 adult, age 65 or older, male
+1730   typehh    4 1 adult, age 65 or older, fema
+1731   typehh    5    2 adults, both age 15 to 64
+1732   typehh    6 2 adults, both age 65 or older
+1733   typehh    7 2 adults, one age 15 to 64, on
+1734   typehh    8 1 male adult with at least one
+1735   typehh    9 1 female adult with at least 1
+1736   typehh   10          2 adults with 1 child
+1737   typehh   11       2 adults with 2 children
+1738   typehh   12       2 adults with 3 children
+1739   typehh   13 2 adults with 4 or more childr
+1740   typehh   14 3 adults or more with at least
+1741   typehh   15 3 adults or more without child
+1742   typehh   98                        Unknown
+1743   typehh   99          NIU (Not in universe)
+1744  citizhh    1 All persons in household are G
+1745  citizhh    2 All persons in household are f
+1746  citizhh    3 Household has both Germans and
+1747  citizhh    9          NIU (Not in universe)
+1748  relighh    1          Roman-Catholic church
+1749  relighh    2              Protestant church
+1750  relighh    3         Free Protestant church
+1751  relighh    4     Jewish religious community
+1752  relighh    5    Islamic religious community
+1753  relighh    7 No legal affiliation with a re
+1754  relighh    9          NIU (Not in universe)
+1755 nopartnr    0                           None
+1756 nopartnr    1                 1 person, male
+1757 nopartnr    2               1 person, female
+1758 nopartnr    3 2 persons, one male, one femal
+1759 nopartnr    4               2 persons, other
+1760 nopartnr    5                      3 persons
+1761 nopartnr    6              4 persons or more
+1762 nopartnr    9          NIU (Not in universe)
+1763 nopartnr    0                           None
+1764 nopartnr    1                 1 person, male
+1765 nopartnr    2               1 person, female
+1766 nopartnr    3 2 persons, one male, one femal
+1767 nopartnr    4               2 persons, other
+1768 nopartnr    5                      3 persons
+1769 nopartnr    6              4 persons or more
+1770 nopartnr    9          NIU (Not in universe)
+1771 stud1528    1                            Yes
+1772 stud1528    2                             No
+1773 stud1528    9          NIU (Not in universe)
+1774   pernum    0               Household record
+1775   pernum    1                              1
+1776   pernum    2                              2
+1777   pernum    3                              3
+1778   pernum    4                              4
+1779   pernum    5                              5
+1780   pernum    6                              6
+1781   pernum    7                              7
+1782   pernum    8                              8
+1783   pernum    9                              9
+1784   pernum   10                             10
+1785   pernum   11                             11
+1786   pernum   12                             12
+1787   pernum   13                             13
+1788   pernum   14                             14
+1789   pernum   15                             15
+1790   pernum   16                             16
+1791   pernum   17                             17
+1792   pernum   18                             18
+1793   pernum   19                             19
+1794   pernum   20                             20
+1795   pernum   21                             21
+1796   pernum   22                             22
+1797   pernum   23                             23
+1798   pernum   24                             24
+1799   pernum   25                             25
+1800   pernum   26                             26
+1801   pernum   27                             27
+1802   pernum   28                             28
+1803   pernum   29                             29
+1804   pernum   30                             30
+1805     head    1                             No
+1806     head    2 Reference person in household 
+1807      sex    1                           Male
+1808      sex    2                         Female
+1809    marst    1                         Single
+1810    marst    2                        Married
+1811    marst    3                        Widowed
+1812    marst    4                       Divorced
+1813    relig    1          Roman Catholic church
+1814    relig    2              Protestant church
+1815    relig    3         Free Protestant church
+1816    relig    4     Jewish religious community
+1817    relig    5    Islamic religious community
+1818    relig    6    Other religious communities
+1819    relig    7 No legal affiliation with a re
+1820    relig    9                        Unknown
+1821    citiz    1                         German
+1822    citiz    2                          Greek
+1823    citiz    3                        Italian
+1824    citiz    4 Other European Community count
+1825    citiz    5                       Yugoslav
+1826    citiz    6                        Turkish
+1827    citiz    7                    Others/none
+1828 secdwell    1                             No
+1829 secdwell    2                            Yes
+1830 maincoup    1                             No
+1831 maincoup    2                            Yes
+1832 maincoup    8                        Unknown
+1833 maincoup    9          NIU (Not in universe)
+1834 mainothr    1                             No
+1835 mainothr    2                            Yes
+1836 mainothr    8                        Unknown
+1837 mainothr    9          NIU (Not in universe)
+1838   travel    1                             No
+1839   travel    2                            Yes
+1840   travel    8                        Unknown
+1841   travel    9          NIU (Not in universe)
+1842 fulltime    0                             No
+1843 fulltime    1                            Yes
+1844 parttime    0                             No
+1845 parttime    1                            Yes
+1846    unemp    0                             No
+1847    unemp    1                            Yes
+1848  inactiv    0                             No
+1849  inactiv    1                            Yes
+1850   housep    0                             No
+1851   housep    1                            Yes
+1852  student    0                             No
+1853  student    1                            Yes
+1854 livehood    1 Economic/occupational activity
+1855 livehood    2 Unemployment benefits or relie
+1856 livehood    3                  Pension, etc.
+1857 livehood    4 Own property, letting, leasing
+1858 livehood    5 Support from spouses, parents,
+1859 livehood    6 Other benefits (e.g. social as
+1860  educlev    1      Elementary/primary school
+1861  educlev    2       Intermediate high school
+1862  educlev    3 High school with final examina
+1863  educlev    8                        Unknown
+1864  educlev    9          NIU (Not in universe)
+1865 edhigher    1 Full-time vocational school (w
+1866 edhigher    2             Vocational college
+1867 edhigher    3  Technical/engineering college
+1868 edhigher    4 University (including teacher 
+1869 edhigher    9          NIU (Not in universe)
+1870  edfield    1                    Agriculture
+1871  edfield    2   Horticulture and viniculture
+1872  edfield    3           Forestry and fishery
+1873  edfield    4 Food industry and luxury foods
+1874  edfield    5      Nutrition, home economics
+1875  edfield    7          Mining and metallurgy
+1876  edfield    8   Stone, earth, ceramic, glass
+1877  edfield    9                   Architecture
+1878  edfield   10                Interior design
+1879  edfield   11              Civil engineering
+1880  edfield   12        Construction provisions
+1881  edfield   13      Building industry general
+1882  edfield   14 Metalworking and plastic manuf
+1883  edfield   16                Optic-mechanics
+1884  edfield   17 Mechanical engineering general
+1885  edfield   18           Vehicle construction
+1886  edfield   19             Electro technology
+1887  edfield   20                Wood processing
+1888  edfield   21 Paper manufacturing and proces
+1889  edfield   23              Technical drawing
+1890  edfield   24 Textile/leather manufacturing 
+1891  edfield   26                    Mathematics
+1892  edfield   27                Data processing
+1893  edfield   28     Biology and bioengineering
+1894  edfield   29 Chemistry and chemical enginee
+1895  edfield   30 Physics and physic engineering
+1896  edfield   31             Business economics
+1897  edfield   32 Other natural sciences and sci
+1898  edfield   34        Business administration
+1899  edfield   35      Commercial administration
+1900  edfield   36                Commodity trade
+1901  edfield   37          Banking and insurance
+1902  edfield   38                        Traffic
+1903  edfield   40          Public administration
+1904  edfield   41       Public security, defense
+1905  edfield   42                            Law
+1906  edfield   43       Economics and statistics
+1907  edfield   45  Political and social sciences
+1908  edfield   46              Regional planning
+1909  edfield   48    Hotel, catering and tourism
+1910  edfield   50 Cleaning (buildings, textiles)
+1911  edfield   53                       Medicine
+1912  edfield   54                      Dentistry
+1913  edfield   55            Veterinary medicine
+1914  edfield   56                       Pharmacy
+1915  edfield   57                        Nursing
+1916  edfield   58   Medical-technical assistance
+1917  edfield   59  Alternative medical treatment
+1918  edfield   60 Social worker and educational 
+1919  edfield   61 Social, senior, home and famil
+1920  edfield   64             Educational system
+1921  edfield   65        Teaching primary school
+1922  edfield   66      Teaching secondary school
+1923  edfield   67           Teaching high school
+1924  edfield   68       Teaching special schools
+1925  edfield   69         Teaching trade schools
+1926  edfield   70 Teaching music and technical s
+1927  edfield   71    Teaching other certificates
+1928  edfield   72            Protestant theology
+1929  edfield   73 Catholic theology and other th
+1930  edfield   75                     Philosophy
+1931  edfield   76                        History
+1932  edfield   77 Library, documentation, publis
+1933  edfield   78 Humanities, romanic languages 
+1934  edfield   79                 German studies
+1935  edfield   80                English studies
+1936  edfield   84 Languages and cultures general
+1937  edfield   85                    Translation
+1938  edfield   86                     Psychology
+1939  edfield   87            Art studies general
+1940  edfield   88                      Fine arts
+1941  edfield   89                    Visual arts
+1942  edfield   90                Performing arts
+1943  edfield   91                          Music
+1944  edfield   98              General education
+1945  edfield   99          NIU (Not in universe)
+1946 voctrain    1                         Farmer
+1947 voctrain    2      Animal breeder, fisherman
+1948 voctrain    4    Agricultural worker, keeper
+1949 voctrain    5                 Horticulturist
+1950 voctrain    6          Forester, game keeper
+1951 voctrain    7 Mining mecanics; mineral, natu
+1952 voctrain   10 Stonemason and material worker
+1953 voctrain   12                     Ceramicist
+1954 voctrain   13                     Glassmaker
+1955 voctrain   14 Chemical worker and rubber and
+1956 voctrain   16                    Paper maker
+1957 voctrain   17                        Printer
+1958 voctrain   18 Wood processing mechanic and s
+1959 voctrain   19       Wire-processing mechanic
+1960 voctrain   20                Molder, founder
+1961 voctrain   21 Metal presser (non-machining a
+1962 voctrain   23           Metal surface editor
+1963 voctrain   24                   Metal binder
+1964 voctrain   25                         Smithy
+1965 voctrain   26           Tin smith, installer
+1966 voctrain   27                   Metal fitter
+1967 voctrain   28                       Mechanic
+1968 voctrain   29                     Tool maker
+1969 voctrain   30    Fine structure metal worker
+1970 voctrain   31                    Electrician
+1971 voctrain   33                   Weaving jobs
+1972 voctrain   34           Textile manufacturer
+1973 voctrain   35 Textile fabricator and textile
+1974 voctrain   37                         Tanner
+1975 voctrain   39 Baker (baked goods and pastry 
+1976 voctrain   40         Butcher, fish preparer
+1977 voctrain   41                           Cook
+1978 voctrain   42     Drink and tobacoo producer
+1979 voctrain   43         Other food professions
+1980 voctrain   44          Mason, concrete mason
+1981 voctrain   45              Carpenter, roofer
+1982 voctrain   46                  Asphalt layer
+1983 voctrain   48   Construction fitter/designer
+1984 voctrain   49 Room-and interior designer, up
+1985 voctrain   50   Cabinet maker, pattern maker
+1986 voctrain   51 Painter (house painter, decora
+1987 voctrain   52 Commercial packer (merchandise
+1988 voctrain   62                     Technician
+1989 voctrain   63           Technical specialist
+1990 voctrain   68                      Merchants
+1991 voctrain   69 Banker (bank clerks, insurance
+1992 voctrain   70 Other service traders and affi
+1993 voctrain   71 Transportation (professions of
+1994 voctrain   72 Water- and air transportation 
+1995 voctrain   73          Communication traffic
+1996 voctrain   75 Entrepreneurs, accountants (en
+1997 voctrain   77 Data processing agent (account
+1998 voctrain   78                   Office clerk
+1999 voctrain   80                       Security
+2000 voctrain   82 Librarian (publicists, interpr
+2001 voctrain   85                 Health service
+2002 voctrain   86                    Social care
+2003 voctrain   87                        Teacher
+2004 voctrain   90               Personal hygiene
+2005 voctrain   91   Hospitality industry workers
+2006 voctrain   92                 Home economics
+2007 voctrain   93                   Cleaning job
+2008 voctrain   99          NIU (Not in universe)
+2009 lengtrai    1                         1 year
+2010 lengtrai    2                        2 years
+2011 lengtrai    3                        3 years
+2012 lengtrai    4                4 or more years
+2013 lengtrai    9          NIU (Not in universe)
+2014 stattrai    0                       Saarland
+2015 stattrai    1             Schleswig-Holstein
+2016 stattrai    2                        Hamburg
+2017 stattrai    3                   Lower Saxony
+2018 stattrai    4                         Bremen
+2019 stattrai    5         North Rhine-Westphalia
+2020 stattrai    6                          Hesse
+2021 stattrai    7           Rhineland-Palatinate
+2022 stattrai    8              Baden-Württemberg
+2023 stattrai    9                        Bavaria
+2024 stattrai   98                        Unknown
+2025 stattrai   99          NIU (Not in universe)
+2026 travmode    1                        Walking
+2027 travmode    2                        Bicycle
+2028 travmode    3                            Car
+2029 travmode    4    Underground, metro, tramway
+2030 travmode    5                        Railway
+2031 travmode    6 Bus or other public transporta
+2032 travmode    7 Other (motorcycle, scooter, mo
+2033 travmode    8                        Unknown
+2034 travmode    9          NIU (Not in universe)
+2035 travtime    1            None, same location
+2036 travtime    2               Under 15 minutes
+2037 travtime    3         15 to under 30 minutes
+2038 travtime    4         30 to under 45 minutes
+2039 travtime    5         45 to under 60 minutes
+2040 travtime    6             60 minutes or more
+2041 travtime    8                        Unknown
+2042 travtime    9          NIU (Not in universe)
+2043  classwk    1                 Skilled worker
+2044  classwk    2              Other wage earner
+2045  classwk    3              Salaried employee
+2046  classwk    4                     Apprentice
+2047  classwk    5 Public servant, judge, soldier
+2048  classwk    6   Self-employed with employees
+2049  classwk    7 Self-employed without employee
+2050  classwk    8        Assistant family member
+2051  classwk    9          NIU (Not in universe)
+2052      ind    1 Agriculture (excluding general
+2053      ind    2           General horticulture
+2054      ind    3 Commercial market gardens and 
+2055      ind    4 Forestry, fishery and fish far
+2056      ind    6 Electricity, gas, district hea
+2057      ind    7                    Coal mining
+2058      ind    8 Ore mining, other mining and p
+2059      ind    9 Extraction of petroleum, natur
+2060      ind   11 Manufacture of chemicals and c
+2061      ind   12 Manufacture of synthetic fiber
+2062      ind   13   Refined petroleum processing
+2063      ind   14 Manufacture of plastic and rub
+2064      ind   15           Mining and quarrying
+2065      ind   16 Processing of other non-metall
+2066      ind   17 China, manufacture of abrasive
+2067      ind   18 Blast furnaces and hot rolling
+2068      ind   19                  Metal casting
+2069      ind   20 Drawing plant, cold flat mills
+2070      ind   21 Steel forming, metal surface f
+2071      ind   22 Manufacture of structural meta
+2072      ind   23 Manufacture of machinery and e
+2073      ind   24 Manufacture of office, account
+2074      ind   25 Manufacture of motor vehicles,
+2075      ind   26 Manufacture of road vehicles (
+2076      ind   27 Building and repair of ships, 
+2077      ind   28  Manufacture of railway trains
+2078      ind   29 Repair of motor vehicles, trai
+2079      ind   30 Electrical engineering, repair
+2080      ind   31 Precision engineering, optics,
+2081      ind   32 Manufacture of iron and metal 
+2082      ind   33 Musical instruments manufactur
+2083      ind   34 Wood processing (without uphol
+2084      ind   35         Upholstery, mattresses
+2085      ind   36 Paper manufacture and processi
+2086      ind   37         Printers, reproduction
+2087      ind   38 Leather production and process
+2088      ind   39                      Foot wear
+2089      ind   40                       Textiles
+2090      ind   41               Apparel industry
+2091      ind   42 Slaughter houses, meat product
+2092      ind   43       Manufacture of beverages
+2093      ind   44 Food processing (other than me
+2094      ind   45 Manufacture of tobacco product
+2095      ind   46 Construction (without roofing)
+2096      ind   47  Roof construction and roofing
+2097      ind   48 Finishing trades (without inst
+2098      ind   49 Installation of heating, venti
+2099      ind   50 Wholesale trade of primary and
+2100      ind   51 Wholesale trade of waste, scra
+2101      ind   52 Wholesale trade of food, bever
+2102      ind   53 Wholesale trade of textiles, a
+2103      ind   54 Wholesale trade of iron and me
+2104      ind   55 Wholesale trade of vehicles, m
+2105      ind   56 Wholesale trade of pharmaceuti
+2106      ind   57 Wholesale trade of paper, stat
+2107      ind   58 Wholesale trade on a fee or co
+2108      ind   59 Retail trade of food, beverage
+2109      ind   60 Retail trade of textiles, appa
+2110      ind   61 Retail trade of furniture, ele
+2111      ind   62 Retail trade of paper goods, p
+2112      ind   63 Retail trade of pharmaceutical
+2113      ind   64 Retail trade of non-specialize
+2114      ind   65         Remaining retail trade
+2115      ind   66                      Railroads
+2116      ind   67     German federal post office
+2117      ind   68 Traffic, parking lots and buil
+2118      ind   69 Inland water transport, operat
+2119      ind   70 Sea and costal water transport
+2120      ind   71 Air transport, activities auxi
+2121      ind   72 Transport, storage, and commun
+2122      ind   73            Credit institutions
+2123      ind   74             Insurance industry
+2124      ind   75 Activities auxiliary to credit
+2125      ind   76         Hotels and restaurants
+2126      ind   77 Homes (excluding boarding hous
+2127      ind   78              Laundry, cleaning
+2128      ind   79 Hair stylist and other persona
+2129      ind   80 Other personal services, not e
+2130      ind   81 Industrial cleaning, collectio
+2131      ind   82   Science, research, education
+2132      ind   83 Culture, arts, sports, enterta
+2133      ind   84        Publishing and printing
+2134      ind   85 Health and veterinary activiti
+2135      ind   86 Legal activities, auditing, ac
+2136      ind   87 Technical consulting and plann
+2137      ind   88                    Advertising
+2138      ind   89 Asset management (excluding co
+2139      ind   90 Remaining services for busines
+2140      ind   91 Rental of chattels (excluding 
+2141      ind   92 Housing, real estate managemen
+2142      ind   93                 Other services
+2143      ind   94 Non-profit organizations, not 
+2144      ind   95 Non-profit organizations, enga
+2145      ind   96             Private households
+2146      ind   97 Regional administrative bodies
+2147      ind   98 Social security, employment pr
+2148      ind   99 Representations of foreign cou
+2149      ind  999          NIU (Not in universe)
+2150      occ   11                         Farmer
+2151      occ   12                    Wine grower
+2152      occ   21                 Animal breeder
+2153      occ   32 Agrarian engineer, consultant 
+2154      occ   41                       Farmhand
+2155      occ   43                Family farmhand
+2156      occ   44                         Keeper
+2157      occ   51                 Horticulturist
+2158      occ   52 Landscape gardener, garden man
+2159      occ   61 Game keeper (forest administra
+2160      occ   62 Forester (forest worker, fores
+2161      occ   71                Mining mechanic
+2162      occ   72 Drilling machine, electrical, 
+2163      occ  101                     Stonemason
+2164      occ  102                Diamond grinder
+2165      occ  121                     Ceramicist
+2166      occ  131              Glass batch maker
+2167      occ  141     Chemical processing worker
+2168      occ  142     Chemical laboratory worker
+2169      occ  143       Rubber processing worker
+2170      occ  151      Rubber and plastic former
+2171      occ  161                    Paper maker
+2172      occ  162               Packaging worker
+2173      occ  163                    Book binder
+2174      occ  171                    Type setter
+2175      occ  172               Print form maker
+2176      occ  173                        Printer
+2177      occ  174                  Litho printer
+2178      occ  175                 Screen printer
+2179      occ  177             Printing processor
+2180      occ  181       Wood processing mechanic
+2181      occ  191 Mining processing mechanic (ir
+2182      occ  192            Rolling mill worker
+2183      occ  201            Molder (in foundry)
+2184      occ  202           Founder (in foundry)
+2185      occ  211 Fine stamper (sheet metal pres
+2186      occ  212                     Wire maker
+2187      occ  221                   Metal turner
+2188      occ  222                   Metal cutter
+2189      occ  223                   Metal planer
+2190      occ  225                  Metal grinder
+2191      occ  231                 Metal polisher
+2192      occ  234               Metal galvanizer
+2193      occ  241                         Welder
+2194      occ  242             Sheet metal worker
+2195      occ  251                          Smith
+2196      occ  261                      Tin smith
+2197      occ  262                 Pipe installer
+2198      occ  263             Pipeline installer
+2199      occ  270                   Metal fitter
+2200      occ  271                Building fitter
+2201      occ  272 Sheet metal, and synthetic mat
+2202      occ  273                  Engine fitter
+2203      occ  274 Manufacturing plant fitter, re
+2204      occ  275 Steel construction fitter, iro
+2205      occ  281                  Auto mechanic
+2206      occ  282        Farm machinery mechanic
+2207      occ  283            Aero plane mechanic
+2208      occ  284             Precision mechanic
+2209      occ  285     Mechanic (other mechanics)
+2210      occ  291             Tool and die maker
+2211      occ  301 Knife and jewelry stamper (fin
+2212      occ  302 Gold jeweler (precious metal s
+2213      occ  303             Dentist technician
+2214      occ  304                       Optician
+2215      occ  311              Electro installer
+2216      occ  312     Telecommunication mechanic
+2217      occ  313        Electric motor mechanic
+2218      occ  314               Electro mechanic
+2219      occ  315 Radio and television mechanic 
+2220      occ  321 Electric appliance assemby wor
+2221      occ  322         Other assembly workers
+2222      occ  323                    Metalworker
+2223      occ  331       Weaving machine mechanic
+2224      occ  341    Spinning machine programmer
+2225      occ  342       Weaving machine mechanic
+2226      occ  351                         Tailor
+2227      occ  352            Clothing seamstress
+2228      occ  353          Bed sheets seamstress
+2229      occ  356     Sail maker (sewing worker)
+2230      occ  357 Artificial flower maker (other
+2231      occ  361             Textile dye worker
+2232      occ  371                         Tanner
+2233      occ  372                      Shoemaker
+2234      occ  373               Shoe sole worker
+2235      occ  376 Leather cutter (leather-clothe
+2236      occ  377                    Glove maker
+2237      occ  391                          Baker
+2238      occ  392                    Pastry cook
+2239      occ  401                        Butcher
+2240      occ  411                           Cook
+2241      occ  421                    Wine cooper
+2242      occ  431                   Dairy worker
+2243      occ  441                          Mason
+2244      occ  442                 Concrete mason
+2245      occ  451                      Carpenter
+2246      occ  452                         Roofer
+2247      occ  461             Cobble-stone layer
+2248      occ  462                  Asphalt layer
+2249      occ  463               Railroad builder
+2250      occ  466 Well digger (other civil engin
+2251      occ  470  Unskilled construction worker
+2252      occ  481 Stuccoer (stuccoer, gypsum pla
+2253      occ  482              Insulation fitter
+2254      occ  483                     Tile layer
+2255      occ  484                   Stove fitter
+2256      occ  485                        Glazier
+2257      occ  491 Parquet layer (room fitter/des
+2258      occ  492                    Upholsterer
+2259      occ  501                  Cabinet maker
+2260      occ  502                  Pattern maker
+2261      occ  511 Painter (house painter, varnis
+2262      occ  512                      Varnisher
+2263      occ  521          Merchandise inspector
+2264      occ  522              Commercial packer
+2265      occ  531 Unskilled worker without speci
+2266      occ  541               Energy machinist
+2267      occ  542 Bulk material-handling machins
+2268      occ  544                 Crane operator
+2269      occ  545     Earthworks engine operator
+2270      occ  546     Building machines operator
+2271      occ  547 Machine maintenance worker, ma
+2272      occ  548                         Stoker
+2273      occ  549                Automats fitter
+2274      occ  601 Bachelor of mechanical- and ve
+2275      occ  602 Bachelor of electrical enginee
+2276      occ  603      Architect, civil engineer
+2277      occ  604 Bachelor of survey engineering
+2278      occ  605 Bachelor of mining engineering
+2279      occ  607 Other bachelors of engineering
+2280      occ  611 Chemists, bachelors of chemist
+2281      occ  612 Physicists, bachelors of physi
+2282      occ  621 Mechanical engineering technic
+2283      occ  622         Electricity technician
+2284      occ  623 Road construction technician (
+2285      occ  624                       Surveyor
+2286      occ  625 Mining, metallurgy, foundry te
+2287      occ  626  Chemistry, physics technician
+2288      occ  627   Other production technicians
+2289      occ  628              Other technicians
+2290      occ  629 Industrial production foreman,
+2291      occ  631 Agricultural lab technician (s
+2292      occ  632 Mathematics-physics assistant 
+2293      occ  633       Chemistry lab technician
+2294      occ  634           Photo lab technician
+2295      occ  635               Technical drawer
+2296      occ  681 Merchant (whole sale-, retail 
+2297      occ  682                 Shop assistant
+2298      occ  683 Book seller (publishing agent,
+2299      occ  684 Pharmacist chemist (skilled dr
+2300      occ  685             Pharmacy assistant
+2301      occ  686          Gas station attendant
+2302      occ  687 Sales representative, travelli
+2303      occ  691                 Bank assistant
+2304      occ  692       Home loan/morgage broker
+2305      occ  701                  Freight agent
+2306      occ  702                   Travel agent
+2307      occ  703              Advertising agent
+2308      occ  704 Broking agent, real-estate adm
+2309      occ  705 Landlord, negotiator, auctione
+2310      occ  706 Money collector, disburser, ti
+2311      occ  711         Railroad engine driver
+2312      occ  712                 Railroad agent
+2313      occ  713 Other railroad schedules manag
+2314      occ  714                        Trucker
+2315      occ  716                    Road keeper
+2316      occ  721             Nautical navigator
+2317      occ  724                 Inland boatman
+2318      occ  726 Air transportation professions
+2319      occ  731       Post and mail contractor
+2320      occ  733                 Radio operator
+2321      occ  741 Dental supply agent (warehouse
+2322      occ  742   Transport equipment operator
+2323      occ  744              Freight assistant
+2324      occ  751 Entrepreneur, managing directo
+2325      occ  752 Management consultant, organiz
+2326      occ  753 Book keeper (certified public 
+2327      occ  761 Members of the parliament, min
+2328      occ  762 Directing and acting administr
+2329      occ  771 Financial assessment specialis
+2330      occ  772                    Book keeper
+2331      occ  773             Cashier, treasurer
+2332      occ  774          Data processing agent
+2333      occ  781                   Office clerk
+2334      occ  782 Office assistant (shorthand, m
+2335      occ  783          Data entry specialist
+2336      occ  784              Office assistants
+2337      occ  791 Manufacturing plant security p
+2338      occ  792                  Guard, warden
+2339      occ  793 Doorman / front desk person, b
+2340      occ  794 Building janitor, company jani
+2341      occ  801 Soldiers, border police force,
+2342      occ  802                  Fire fighters
+2343      occ  803       Diver (safety inspector)
+2344      occ  804                Chimney sweeper
+2345      occ  811               Judicial officer
+2346      occ  812 Judicial registrar / legal gua
+2347      occ  813          Lawyer, legal advisor
+2348      occ  814                   Law enforcer
+2349      occ  821                     Publicists
+2350      occ  822      Interpretors, translators
+2351      occ  823 Librarian (librarians, archivi
+2352      occ  831                       Musician
+2353      occ  832                      Performer
+2354      occ  833 Graphic drawer (visual artist,
+2355      occ  834 Sign painter (stage painter, s
+2356      occ  835 Artistic and affiliated profes
+2357      occ  836 Shopping window decorator (sho
+2358      occ  837                   Photographer
+2359      occ  841                 Mecial doctors
+2360      occ  842                       Dentists
+2361      occ  843                  Veterinarians
+2362      occ  844                    Pharmacists
+2363      occ  851 Natural health professional (n
+2364      occ  852 Physiotherapist (massage thera
+2365      occ  853 Nurse (male and female nurses,
+2366      occ  854              Nursing assistant
+2367      occ  856        Doctor office assistant
+2368      occ  857      Veterinary lab technician
+2369      occ  861 Geriatric nurse (social worker
+2370      occ  862 Child care worker (orphanage a
+2371      occ  863 Occupational guidance counselo
+2372      occ  864 Nursery school teacher (nurser
+2373      occ  871 University teachers, college, 
+2374      occ  872           High school teachers
+2375      occ  873 Middle school, elementary, spe
+2376      occ  874 Vocational college teachers, a
+2377      occ  875         Art and music teachers
+2378      occ  876 Swimming instructor (physical 
+2379      occ  877                 Other teachers
+2380      occ  881 Economist, social scientist, s
+2381      occ  882    Humanities and arts scholar
+2382      occ  883                      Scientist
+2383      occ  891 Pastor, chaplain, religous com
+2384      occ  892 Members of monastic orders wit
+2385      occ  901                   Hair dresser
+2386      occ  902 Pedicurist (other personal car
+2387      occ  911 Hotel trade assistant (restaur
+2388      occ  912     Waiter (waiters, stewards)
+2389      occ  913 Restaurant trade assistant (ot
+2390      occ  921                    Housekeeper
+2391      occ  922             Consumer counselor
+2392      occ  931 Launderer (launderer, clothes 
+2393      occ  933  Room, household items cleaner
+2394      occ  934 Building cleaner (window, buil
+2395      occ  935 Disposer (road cleaner, scavan
+2396      occ  936 Automotive vehicle washer, car
+2397      occ  937 Machine, container cleaners an
+2398      occ  971 Assisting family members  othe
+2399      occ  981 Apprentices with yet undetermi
+2400      occ  982 Interns, trainees with yet und
+2401      occ  991 Employees without specified oc
+2402      occ  999          NIU (Not in universe)
+2403   secemp    1                 In agriculture
+2404   secemp    2             In non-agriculture
+2405   secemp    9          NIU (Not in universe)
+2406  prinres    1 Persons with only one dwelling
+2407  prinres    2 Persons with other dwellings i
+2408  prinres    3 Persons with other dwellings i
+2409   legres    1 Persons with only one dwelling
+2410   legres    2 Persons with additional dwelli
+2411   legres    3 Persons with additional dwelli
+2412 resident    1 Population at family place of 
+2413 resident    2 Population not at family place
+2414 resident    3  Persons without own household
+2415  empstat    1                       Employed
+2416  empstat    2                   Not-employed
+2417  empstat    3        Not economically active
+2418      age    0                              0
+2419      age    1                              1
+2420      age    2                              2
+2421      age    3                              3
+2422      age    4                              4
+2423      age    5                              5
+2424      age    6                              6
+2425      age    7                              7
+2426      age    8                              8
+2427      age    9                              9
+2428      age   10                             10
+2429      age   11                             11
+2430      age   12                             12
+2431      age   13                             13
+2432      age   14                             14
+2433      age   15                             15
+2434      age   16                             16
+2435      age   17                             17
+2436      age   18                             18
+2437      age   19                             19
+2438      age   20                             20
+2439      age   21                             21
+2440      age   22                             22
+2441      age   23                             23
+2442      age   24                             24
+2443      age   25                             25
+2444      age   26                             26
+2445      age   27                             27
+2446      age   28                             28
+2447      age   29                             29
+2448      age   30                             30
+2449      age   31                             31
+2450      age   32                             32
+2451      age   33                             33
+2452      age   34                             34
+2453      age   35                             35
+2454      age   36                             36
+2455      age   37                             37
+2456      age   38                             38
+2457      age   39                             39
+2458      age   40                             40
+2459      age   41                             41
+2460      age   42                             42
+2461      age   43                             43
+2462      age   44                             44
+2463      age   45                             45
+2464      age   46                             46
+2465      age   47                             47
+2466      age   48                             48
+2467      age   49                             49
+2468      age   50                             50
+2469      age   51                             51
+2470      age   52                             52
+2471      age   53                             53
+2472      age   54                             54
+2473      age   55                             55
+2474      age   56                             56
+2475      age   57                             57
+2476      age   58                             58
+2477      age   59                             59
+2478      age   60                             60
+2479      age   61                             61
+2480      age   62                             62
+2481      age   63                             63
+2482      age   64                             64
+2483      age   65                             65
+2484      age   66                             66
+2485      age   67                             67
+2486      age   68                             68
+2487      age   69                             69
+2488      age   70                             70
+2489      age   71                             71
+2490      age   72                             72
+2491      age   73                             73
+2492      age   74                             74
+2493      age   75                             75
+2494      age   76                             76
+2495      age   77                             77
+2496      age   78                             78
+2497      age   79                             79
+2498      age   80                             80
+2499      age   81                             81
+2500      age   82                             82
+2501      age   83                             83
+2502      age   84                             84
+2503      age   85                             85
+2504      age   86                             86
+2505      age   87                             87
+2506      age   88                             88
+2507      age   89                             89
+2508      age   90                             90
+2509      age   91                             91
+2510      age   92                             92
+2511      age   93                             93
+2512      age   94                             94
+2513      age   95             95 years and older
+2514  married    1 Married with partner in same h
+2515  married    2 Married with partner not in sa
+2516  married    3                    Not married
+2517  married    9          NIU (Not in universe)
+2518  socecun    1 Employers with agricultural oc
+2519  socecun    2 Own-account workers with agric
+2520  socecun    3 Employers with agricultural oc
+2521  socecun    4 Self-employed persons in free 
+2522  socecun    5 Employers and their unpaid fam
+2523  socecun    6 Own account workers and their 
+2524  socecun    7 Employees with free and relate
+2525  socecun    8 Managers, legislative official
+2526  socecun    9 Foremen and supervisors of man
+2527  socecun   10                       Laborers
+2528  socecun   11 Persons seeking their first jo
+2529  socecun   12 Not economically active person
+2530  socecun   99          NIU (Not in universe)
+2531   sector    0 Agriculture, forestry, fishery
+2532   sector    1 Energy and water provision, mi
+2533   sector    2                  Manufacturing
+2534   sector    3                   Construction
+2535   sector    4              Wholesale, retail
+2536   sector    5        Traffic, communications
+2537   sector    6               Banks, insurance
+2538   sector    7 Services provided by business 
+2539   sector    8 Non-profit organizations and p
+2540   sector    9 Regional administrative bodies
+2541   sector   99          NIU (Not in universe)
+2542 socecon2    1          Farmer with employees
+2543 socecon2    2       Farmer without employees
+2544 socecon2    3   Other workers in agriculture
+2545 socecon2    4 Employer or self-employed pers
+2546 socecon2    5 Employer in industry, construc
+2547 socecon2    6 Self-employed person in indust
+2548 socecon2    7 Employee in independent and re
+2549 socecon2    8 Member of boards, member of go
+2550 socecon2    9 Supervisor in manual trades, s
+2551 socecon2   10 Other employed or unemployed p
+2552 socecon2   99          NIU (Not in universe)
+2553 commtype   10 Works, but does not commute to
+2554 commtype   11 Commutes to work within commun
+2555 commtype   12 Commutes to work within county
+2556 commtype   13 Commutes to work within federa
+2557 commtype   14    Commutes to work within FRG
+2558 commtype   15 Commutes to work in foreign co
+2559 commtype   16 Commutes to work in foreign co
+2560 commtype   20 In education/training, but doe
+2561 commtype   21 Commutes to education/training
+2562 commtype   22 Commutes to education/training
+2563 commtype   23 Commutes to education/training
+2564 commtype   24 Commutes to education/training
+2565 commtype   25 Commutes to education/training
+2566 commtype   30 Commutes to work (long distanc
+2567 commtype   40 Commutes to education/training
+2568 commtype   50 Commutes to work to unknown de
+2569 commtype   60 Commutes to education/training
+2570 commtype   70 Commutes to work long distance
+2571 commtype   98                        Unknown
+2572 commtype   99          NIU (Not in universe)

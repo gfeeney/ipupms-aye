@@ -1,0 +1,115 @@
+               vname                                                                     vdescription
+1              cntry                                                                          Country
+2               year                                                                             Year
+3             sample                                                          IPUMS sample identifier
+4             serial                                                          Household serial number
+5              dwnum                                                                  Dwelling number
+6               pern                                                   Number of persons in household
+7             region                                                              Region of residence
+8               area                                                     Geographic area of residence
+9              perno                                                                    Person number
+10          ownershp                                                Ownership and use of the dwelling
+11           whoowns                                                            Owner of the dwelling
+12           isdwell                                                             Type of accomodation
+13             rooms                                                            Total number of rooms
+14            roomsp                                             Number of rooms for professional use
+15            kitchr                                                               Number of kitchens
+16           kitchet                                                                      Kitchenette
+17          kitchcor                                 Kitchen corner in a room with multiple functions
+18           stories                                                 Number of levels in the dwelling
+19            dwarea                                         Surface area of the dwelling (sq meters)
+20           wataqua                                                   Potable water from an aqueduct
+21           watwell                                                        Potable water from a well
+22            watoth                                         Potable water from another supply source
+23            watnon                                                 Non-potable waterin the dwelling
+24           showern                                             Number of shower and bathtub systems
+25           toiletn                                           Number of toilets (WC) in the dwelling
+26           bathhot                 Hot running water in the bathroom and/or kitchen in the dwelling
+27          sameheat                  Hot water produced by the same system used to heat the dwelling
+28            hwmeth                                          Methane, natural gas used to heat water
+29           hwelect                                                   Electricity used to heat water
+30           hwsolar                                                  Solar energy used to heat water
+31             hwoth                                                         Other used to heat water
+32           cenheat                             Centralized heating system used by various dwellings
+33           indheat               Fixed independent heating system for exclusive use of the dwelling
+34           sinheat              Fixed single heating systems that heat all or most of the dwellings
+35          sinheatp           Fixed single heating systems that heat only some parts of the dwelling
+36            noheat                                         Heating system of some kind listed above
+37           gasheat                    Methane, natural gas fuels the heating system in the dwelling
+38          diesheat                                  Diesel fuels the heating system in the dwelling
+39          propheat                      Liquid propane gas fuels the heating system in the dwelling
+40          woodheat                                    Wood fuels the heating system in the dwelling
+41          elecheat                             Electricity feeds the heating system in the dwelling
+42           oilheat                                Fuel oil fuels the heating system in the dwelling
+43          coalheat                               Coal that fuels the heating system in the dwelling
+44           solheat                            Solar energy fuels the heating system in the dwelling
+45           othheat           Other types of fuel or energy feeds the heating system in the dwelling
+46           syswork                     Work or interventions carried out to systems in the dwelling
+47           strwork     Any work or interventions carried out to structural elements in the dwelling
+48          nstrwork     Work or interventions carried out to non-structural elements in the dwelling
+49          privpark                                               Private box available for car park
+50           covpark                                                        Covered parking available
+51          openpark                                      Open personal and private parking available
+52             phone                         At least one active fixed telephone line in the dwelling
+53            pernum                                                                    Person number
+54             wtper                                                                    Person weight
+55            pernum                                                 Person number (within household)
+56           pernumo                                                          Person number, original
+57          colltype                                                               Type of collective
+58          collreas                                                Main reason staying in collective
+59            relate                          Relationship through kinship or institutional household
+60               sex                                                                              Sex
+61             agegr                                                                Age in categories
+62               bpl                                                                   Place of birth
+63           bplcont                                                      Continent and area of birth
+64             citiz                                                                      Citizenship
+65         citizcont                                                Continent and area of citizenship
+66         citizital                                                              Italian citizenship
+67         italarriv                                                              Year moved to Italy
+68           whyhere                                                Main reason for presence in Italy
+69             marst                                                                   Marital status
+70           maryear                                                     Year of most recent marriage
+71           marstpr                                            Marital status prior to last marriage
+72           present                    Person's location on the date of the Census (21 October 2001)
+73          othracco Lived in other accommodation or institutional household during the past 12 month
+74          dayotacc Number of days in which lived other than in the present accommodation or institu
+75          livotacc Currently living, even for a limited period of time, in one or more accommodatio
+76          locotacc  Location of the accommodation or institutional household other than the present
+77          resotacc                  Main reason used other accommodation or institutional household
+78          placsted                                         Place of habitual residence one year ago
+79          provsted                                      Province of habitual residence one year ago
+80          contsted                                     Continent of habitual residence one year ago
+81           preschl                                                             Preschool attendance
+82           edattan                                              Highest educational degree obtained
+83             eddur                                                               Duration of course
+84          postuniv        In possession of post-university specialization and/or research doctorate
+85          edabroad                    Highest educational certificate or degree was obtained abroad
+86  anni_tit_stud_es                            Years needed to obtain this certificate/degree abroad
+87            school                       Enrolled in school or a post-diploma non-university course
+88          voctrain                                  Attending a vocational training/updating course
+89           course1 Type of course attended: professional training/updating course organized and/or 
+90           course2 Type of course attended: professional training course offered by the region, pro
+91           course3                    Type of course attended: private professional training course
+92           empstat                                                                Employment status
+93            worked          Worked one or more hours of paid work, or as contributing family worker
+94           jobseek                   Actively tried to find a job or attempted to open own activity
+95          willwork      Would be willing to start work within 2 weeks, should the opportunity arise
+96            hadjob Ever held a paid job or worked as a contributing family worker during their life
+97         workedoct                                       Worked during the week of 14 to 20 October
+98         whyworked                          Reason did not work during the week of 14 to 20 October
+99          hrworked                       Number of hours worked during the week of 14 to 20 October
+100           wkfull                                                      Full-time or part-time work
+101         classwkr                                                                  Class of worker
+102          paidwkr                                                              Have paid employees
+103         wrkcondi                                                       Indefinite or definite job
+104         contract                                                            Type of work contract
+105              occ                                                                       Occupation
+106          wrkplc1                                           Travel daily to place of study or work
+107          reenter Re-enters from his/her usual place of study or work to the accommodation every d
+108             wkpl                                                     Usual place of study or work
+109          regwkpl                                           Region of usual place of study or work
+110          cntwkpl                                        Continent of usual place of study or work
+111          minlvhm            Minute person left the house for his/her usual place of study or work
+112         timecomu                         Time to go to the usual place of study or work (one way)
+113         trancomu Means of transportation used to cover the longest stretch of your trip to the us
+114         occupied                                                                         Occupied

@@ -1,0 +1,148 @@
+       vname                                                                     vdescription
+1      cntry                                                                          Country
+2       year                                                                             Year
+3     sample                                                          IPUMS sample identifier
+4     serial                                                          Household serial number
+5      dwnum                                                                  Dwelling number
+6      provp                                                            Province or territory
+7       cmap                                                   Census metropolitan area - CMA
+8   nuhmainp                                                  Number of household maintainers
+9   hhclassp                                                         Household classification
+10    htypep                                                                   Household type
+11    unitsp                                                                   Household size
+12     roomp                                                                  Number of rooms
+13  condwelp                                                            Condition of dwelling
+14    valuep                                                                Value of dwelling
+15    tenurp                                                                           Tenure
+16    rcondp                                                             Tenure - condominium
+17      ompp                                                 Owner's major payments - monthly
+18   grosrtp                                                               Monthly gross rent
+19    pernum                                                                    Person number
+20     wtper                                                                    Person weight
+21    pernum                                                 Person number (within household)
+22   hhstatp                            Relationship to household reference person - person 1
+23   prmainp                                           Primary household maintainer indicator
+24   efstatp                                                           Economic family status
+25   efsizep                                         Number of persons in the economic family
+26   cfstatp                                                             Census family status
+27   cfsizep                                           Number of persons in the census family
+28    prescp                Presence and combination of children at home in the census family
+29       age                                                                              Age
+30       sex                                                                              Sex
+31   marstlp                                                             Legal marital status
+32   marsthp                             Historical comparability indicator of marital status
+33      pobp                                                                 Place of birth 1
+34     pobpa                                                                 Place of birth 2
+35  pobmthrp                                                         Place of birth of mother
+36  pobfthrp                                                         Place of birth of father
+37  genstpob                                                                Generation status
+38   citothp                                                Citizenship other than Canadian 1
+39  citothpa                                                Citizenship other than Canadian 2
+40  citizenp                                                                      Citizenship
+41   immpopp                                                                 Immigrant status
+42   yrimmig                                                            Year of immigration 1
+43  yrimmiga                                                            Year of immigration 2
+44  immiagep                                                               Age at immigration
+45   visminp                                                       Visible minority indicator
+46     absrp                                                              Aboriginal identity
+47    reginp                                            Registered or treaty indian indicator
+48  bnfnmemp                                         Member of an indian band or first nation
+49   ethnicr                                                                  Ethnic origin 1
+50  ethnicra                                                                  Ethnic origin 2
+51  abethncp                                                       Aboriginal ethnic category
+52  afethncp                                                          African ethnic category
+53  baethncp                                                           Balkan ethnic category
+54  caethncp                                                           Canadian ethnic origin
+55  chethncp                                                            Chinese ethnic origin
+56  crethncp                                                        Caribbean ethnic category
+57  duethncp                                                Dutch - Netherlands ethnic origin
+58  fiethncp                                                           Filipino ethnic origin
+59  geethncp                                                             German ethnic origin
+60  grethncp                                                              Greek ethnic origin
+61  huethncp                                                 Hungarian - Magyar ethnic origin
+62  itethncp                                                            Italian ethnic origin
+63  jeethncp                                                             Jewish ethnic origin
+64  lbethncp                                                           Lebanese ethnic origin
+65  lcethncp                                Latin, Central and South American ethnic category
+66  poethncp                                                             Polish ethnic origin
+67  prethncp                                                         Portuguese ethnic origin
+68  soethncp                                                      South Asian ethnic category
+69  spethncp                                                            Spanish ethnic origin
+70  ukethncp                                                          Ukrainian ethnic origin
+71  viethncp                                                         Vietnamese ethnic origin
+72  waethncp                                                       West Asian ethnic category
+73   religrp                                                                 Religion group 1
+74  religrpa                                                                 Religion group 2
+75      olnp                                                  Knowledge of official languages
+76      mtnp                                                                  Mother tongue 1
+77     mtnpa                                                                  Mother tongue 2
+78      hlnp                                                Home language most often spoken 1
+79     hlnpa                                                Home language most often spoken 2
+80     hlnbp                                         Home languages spoken on a regular basis
+81      folp                                                   First official language spoken
+82      nolp                                          Number of non-official languages spoken
+83   nolabop                                              Knowledge of an Aboriginal language
+84   nolarap                                                     Knowledge of Arabic language
+85   nolchip                                                    Knowledge of Chinese language
+86   nolgerp                                                     Knowledge of German language
+87   nolgrep                                                      Knowledge of Greek language
+88   nolirap                                        Knowledge of other Indo-Iranian languages
+89   nolitap                                                    Knowledge of Italian language
+90   nolnetp                                              Knowledge of Netherlandic languages
+91   nolpolp                                                     Knowledge of Polish language
+92   nolporp                                                 Knowledge of Portuguese language
+93   nolpunp                                                    Knowledge of Punjabi language
+94   nolspap                                                    Knowledge of Spanish language
+95   nolukrp                                                  Knowledge of Ukrainian language
+96   nolviep                                            Knowledge of Austro-Asiatic languages
+97     wlnap                                                 Language used most often at work
+98     wlnbp                                        Languages used on a regular basis at work
+99   schattp                                                                School attendance
+100   hgradp                               Highest grade of elementary or secondary schooling
+101 secgradp                                               High school graduation certificate
+102    hlosp                                                       Highest level of schooling
+103   trnucp                                      Trades and college certificates or diplomas
+104   dgreep                                           Highest degree, certificate or diploma
+105   dgmfsp                                                             Major field of study
+106    psuvp                                                              Years of university
+107    psotp                                                       Years of college education
+108  totschp                                                         Total years of schooling
+109    mob5p                                 Mobility status - place of residence 5 years ago
+110    mob1p                                  Mobility status - place of residence 1 year ago
+111   prov5p                                   Province or territory of residence 5 years ago
+112   prov1p                                    Province or territory of residence 1 year ago
+113     powp                                                                    Place of work
+114    distp                                                               Commuting distance
+115    modep                                                           Mode of transportation
+116   lfactp                                        Labour force activity - in reference week
+117     cowp                                                                  Class of worker
+118   fptwkp                                      Full-time or part-time weeks worked in 2000
+119   hrswkp                   Hours worked for pay or in self-employment - in reference week
+120   lstwkp                                   When last worked for pay or in self-employment
+121   wkswkp                                                             Weeks worked in 2000
+122  nochrdp                                Occupation (national occupational classification)
+123  nocs01p            Occupation (2001 national occupational classification for statistics)
+124   ind80p                               Industry (1980 Standard Industrial Classification)
+125   naicsp                  Industry (1997 North American Industry Classification S\\ystem)
+126   uphwkp                                               Hours spent doing unpaid housework
+127   upkidp                                  Hours spent looking after children, without pay
+128    upsrp                       Hours spent providing unpaid care or assistance to seniors
+129   hhincp                                                  Total household income groups 1
+130  hhincpa                                                  Total household income groups 2
+131   cfincp                                              Total census family income groups 1
+132  cfincpa                                              Total census family income groups 2
+133 mscfincp                                             Major source of census family income
+134  totincp                                                                     Total income
+135   wagesp                                                               Wages and salaries
+136   selfip                                                           Self-employment income
+137   chdbnp                                                         Canada child tax benefit
+138   oasgip                        Old age security pension and guaranteed income supplement
+139   cqppbp                                           Canada or Quebec pension plan benefits
+140   uicbnp                                                    Employment insurance benefits
+141   govtip                                             Other income from government sources
+142   tgovtp                                               Total government transfer payments
+143   invstp                                                                Investment income
+144   retirp Retirement pensions, superannuation and annuities, including those from rrsps an
+145   otincp                                                               Other money income
+146   incstp                                         Income status - 2000 low income cut-offs
+147  weightp                                                     Individuals weighting factor

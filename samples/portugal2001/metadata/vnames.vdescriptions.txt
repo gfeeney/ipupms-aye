@@ -1,0 +1,74 @@
+      vname                                                      vdescription
+1     cntry                                                           Country
+2      year                                                              Year
+3    sample                                           IPUMS sample identifier
+4    serial                                           Household serial number
+5     dwnum                                                   Dwelling number
+6     hhnum                                Household number (within dwelling)
+7       hhn                                  Number of households in dwelling
+8     pernd                                     Number of persons in dwelling
+9      pern                                     Number of persons inhousehold
+10     fbig Dwelling created by splitting apart a large dwelling or household
+11    geog1                                           Geography: NUTS 1-digit
+12    geog2                                           Geography: NUTS 2-digit
+13    geog3                                Geography: NUTS 3-digit [modified]
+14   geogun                                                              City
+15   geogsz                                        Size of place of residence
+16       gq                                                    Household type
+17   dwtype                                                     Dwelling type
+18   occup1                                                         Occupancy
+19   occup2                                                  Occupancy status
+20   tenure                                                            Tenure
+21    owner                                                Dwelling ownership
+22 mortgage                                                          Mortgage
+23    elect                                                       Electricity
+24    water                                                             Water
+25   toilet                                                            Toilet
+26     bath                                                              Bath
+27    sewer                                                            Sewage
+28    kitch                                                           Kitchen
+29     heat                                                   Central heating
+30    rooms                                                   Number of rooms
+31     elev                                                          Elevator
+32    conyr                                                        Year built
+33     roof                                                     Roof material
+34   pernum                                                     Person number
+35    wtper                                                     Person weight
+36   pernum                                  Person number (within household)
+37  famnumo               Sequence number of the nucleus inside of the family
+38  pernumo                                           Person number, original
+39    sploc                                       Person number of the spouse
+40   poploc                                       Person number of the father
+41   momloc                                       Person number of the mother
+42  famtype                                                       Family type
+43   relate                      Relationship to household's reference person
+44      sex                                                               Sex
+45      age                                                               Age
+46    marst                                                    Marital status
+47    disab                                                        Disability
+48    relig                                                          Religion
+49      lit                                                          Literacy
+50   school                                                 School attendance
+51  edattan                                            Educational attainment
+52    edfld                                                Field of education
+53    citiz                                                       Citizenship
+54   citizc                                            Country of citizenship
+55      bpl                                                    Place of birth
+56     bpln                                             EU subregion of birth
+57     bplc                                                  Country of birth
+58      res                     Place of usual residence on December 31, 1999
+59     resn             NUTS-3 region of usual residence on December 31, 1999
+60     resc                   Country of usual residence on December 31, 1999
+61     resp                     Place of usual residence on December 31, 1995
+62    respc                   Country of usual residence on December 31, 1995
+63   wkplac                                            Place of work or study
+64  wkplacn                                            Place of work or study
+65    trans                      Main mode of transportation to work or study
+66  empstat                                                 Employment status
+67  classwk                                              Employment condition
+68    wkhrs                             Usual number of hours worked per week
+69   incsrc                                              Source of livelihood
+70    empsz                                       Size of place of employment
+71   sector                                       Sector of economic activity
+72      ind                                                          Industry
+73      occ                                                   Main occupation

@@ -1,0 +1,95 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      dwnum                                                   Dwelling number
+6       pern                                    Number of persons in household
+7       fbig Dwelling created by splitting apart a large dwelling or household
+8      urban                                                             Urban
+9     dwtype                                                  Type of dwelling
+10     occup                                                   Land occupation
+11     owner                                    Type of ownership for dwelling
+12     rooms                                                   Number of rooms
+13   bedroom                                                Number of bedrooms
+14     kitch                                                           Kitchen
+15    toilet                                                 Toilet facilities
+16  toiletsh                                          Shared toilet facilities
+17   kitchsh                                                    Shared kitchen
+18      roof                                                      Type of roof
+19      wall                                                     Wall material
+20    watsup                                                      Water supply
+21   builtyr                                                  Year of building
+22    fuelck                                              Type of cooking fuel
+23     light                                                  Type of lighting
+24     phone                                                         Telephone
+25    radios                                                  Number of radios
+26       tvs                                         Number of television sets
+27    videos                                         Number of video recorders
+28     emign                                  Number of emigrants in household
+29    pernum                                                     Person number
+30     wtper                                                     Person weight
+31    pernum                                  Person number (within household)
+32       age                                                               Age
+33     where                                         Residence on census night
+34     marst                                                    Marital status
+35    relate                                                      Relationship
+36       sex                                                               Sex
+37    agechf                                                Age at first child
+38    agemar                                                Age at first union
+39    agechl                                                 Age at last child
+40    comlaw                                          Ever lived in common law
+41    legpar                                     Living now with legal partner
+42   partner                                         Living with a partner now
+43    ethnic                                                     Ethnic origin
+44     relig                                                          Religion
+45     disab                                                    Any disability
+46      bplc                                                  Country of birth
+47       bpl                                                 District of birth
+48     ctry1                                                Country last lived
+49   bplctry                                                  Country of birth
+50     resus                                           Usual residence address
+51   resprev                                    District of previous residence
+52     migyr                               Year moved to this town or district
+53   immigyr                                               Year of immigration
+54   schoolm                                             School attending mode
+55    school                                                     Attend school
+56    degree                                                       Certificate
+57     edlev                                                   Education level
+58     schty                                                    Type of school
+59   edgrade                                             Standard of education
+60   empstat                                                Activity last week
+61 empstatyr                                                Activity last year
+62   classwk                                                   Employment type
+63    worked                                                       Ever worked
+64    workhr                                  Number of hours worked last week
+65      ind3                                                 Industry, 2 digit
+66   busmove                                                   Moving business
+67    workmo                                 Number of months worked last year
+68       occ                                                        Occupation
+69   incothf                                                  Any other income
+70  trainoth                                                Any other training
+71    payper                                                        Pay period
+72    trainm                                                  Mode of training
+73   tourism                                                  Tourism activity
+74      work                                                Activity last week
+75    workyr                                                Any work last year
+76   transwk                                                 Transport to work
+77  fertfilt                                                  Fertility filter
+78    chborn                                             Number of live births
+79   blastyr                                                   Birth last year
+80      dis1                                                 Disability: sight
+81      dis2                                               Disability: hearing
+82      dis3                                                Disability: speech
+83      dis4                                      Disability: upper limb (arm)
+84      dis5                                     Disability: lower limb (legs)
+85      dis6                                        Disability: neck and spine
+86      dis7                                  Disability: slowness at learning
+87      dis8                                    Disability: mental retardation
+88      dis9                                                 Disability: other
+89      lim1                                             Limitation: self-care
+90      lim2                                              Limitation: mobility
+91      lim3                                         Limitation: communication
+92      lim4                                             Limitation: schooling
+93      lim5                                            Limitation: employment
+94      lim6                                                 Limitation: other

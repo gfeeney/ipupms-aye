@@ -1,0 +1,100 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      dwnum                                                   Dwelling number
+6       pern                                    Number of persons in household
+7       fbig Dwelling created by splitting apart a large dwelling or household
+8      auton                                 Communities and autonomous cities
+9       prov                                                          Province
+10   collect                                  Dwelling, housing, or collective
+11    dwtype                                                  Type of dwelling
+12   colltyp                                                Type of collective
+13   yrmoved                                   Year of arrival to the dwelling
+14     owner                                                 Form of ownership
+15     noisy                                                   Exterior noises
+16   pollute                                                         Pollution
+17     clean                                Lack of cleanliness in the streets
+18    commun                                               Poor communications
+19     green                                                   Few green areas
+20    delinq                                           Delinquency in the area
+21    noserv                                          Lack of sanitary service
+22    aircon                                                  Air conditioning
+23      heat                                                              Heat
+24  heatfuel                                                      Heating fuel
+25   stories                                  Number of floors of the dwelling
+26     rooms                                                   Number of rooms
+27     space                                               Useable floor space
+28     secdw                                   Availability of second dwelling
+29    secdwl                                       Location of second dwelling
+30    secdwp                                       Province of second dwelling
+31    secdwu              Number of days per year that second dwelling is used
+32     vehic                  Availability of motor vehicles (not motorcycles)
+33     flrup                               Number of floors above ground level
+34    flrdwn                               Number of floors below ground level
+35   bldtype                                                  Type of building
+36  constyr1                                 Year of construction, categorized
+37  constyr2                                  Year of construction, since 1990
+38   bldcond                                         Condition of the building
+39  ownertyp                                                    Class of owner
+40    access                                     Accessibility of the building
+41    runwat                                                     Running water
+42    sewage                                            Removal of waste water
+43  doorkeep                                                        Doorkeeper
+44    garage                                                            Garage
+45       gas                                                               Gas
+46     phone                                                   Telephone lines
+47    hotwat                                                 Central hot water
+48      nfam                               Number of families in the household
+49      nnuc                                 Number of nuclei in the household
+50   nperfam                                   Number of persons in the family
+51    pernum                                                     Person number
+52     wtper                                                     Person weight
+53    pernum                                  Person number (within household)
+54   pernumo                                                     Person number
+55     birmo                                                    Month of birth
+56     biryr                                                     Year of birth
+57       age                                                               Age
+58       sex                                                               Sex
+59    nation                                            Country of nationality
+60  bplauton                        Communities and autonomous cities of birth
+61     bplpr                                                 Province of birth
+62    bplmun                                  Municipality or country of birth
+63     marst                                                    Marital status
+64    relate                 Relationship to person for standardized reference
+65     edlev                                      Level of education completed
+66    edtype                                         Type of studies completed
+67   yrspain                                          Year of arrival in Spain
+68    yrcomm                           Year of arrival in autonomous community
+69    yrmuni                                   Year of arrival in municipality
+70 prevauton           Communities and autonomous cities of previous residency
+71  prevprov                                    Province of previous residence
+72   prevmun                     Municipality or country of previous residence
+73     res10                                            Residence 10 years ago
+74  res10prv                                Province of residence 10 years ago
+75   indlang                                      Knowledge of native language
+76      emp2                  Employment situation last week (second response)
+77      emp3                   Employment situation last week (third response)
+78    workpl                                            Place of work or study
+79    wkprov                                  Province of school or employment
+80     trips                                             Number of daily trips
+81    trans1                                         Means of transportation 1
+82    trans2                                         Means of transportation 2
+83  travtime                                                       Travel time
+84    study1                                                   Current studies
+85    study2                                                 Current studies 2
+86    study3                                                 Current studies 3
+87       occ                                                        Occupation
+88   classwk                                                   Class of worker
+89       ind                                                          Industry
+90   socecon                                         Social economic condition
+91     wkhrs                                            Hours of work per week
+92    famnum                                 Number of family in the household
+93    poploc                                       Person number of the father
+94    momloc                                       Person number of the mother
+95     sploc                            Person number of the spouse or partner
+96    nucfam                                       Condition of nuclear family
+97    nucnum                            Number of the nucleus in the household
+98   coupty1                                Type of couple (de facto or legal)
+99   coupty2                                                    Type of couple

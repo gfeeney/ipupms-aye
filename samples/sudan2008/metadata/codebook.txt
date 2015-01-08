@@ -1,0 +1,2459 @@
+            vname   code                          short
+1           cntry     32                      Argentina
+2           cntry     51                        Armenia
+3           cntry     40                        Austria
+4           cntry     50                     Bangladesh
+5           cntry    112                        Belarus
+6           cntry     68                        Bolivia
+7           cntry     76                         Brazil
+8           cntry    854                   Burkina Faso
+9           cntry    116                       Cambodia
+10          cntry    120                       Cameroon
+11          cntry    124                         Canada
+12          cntry    152                          Chile
+13          cntry    156                          China
+14          cntry    170                       Colombia
+15          cntry    188                     Costa Rica
+16          cntry    192                           Cuba
+17          cntry    214             Dominican Republic
+18          cntry    218                        Ecuador
+19          cntry    818                          Egypt
+20          cntry    222                    El Salvador
+21          cntry    242                           Fiji
+22          cntry    250                         France
+23          cntry    276                        Germany
+24          cntry    288                          Ghana
+25          cntry    300                         Greece
+26          cntry    324                         Guinea
+27          cntry    332                          Haiti
+28          cntry    348                        Hungary
+29          cntry    356                          India
+30          cntry    360                      Indonesia
+31          cntry    364                           Iran
+32          cntry    368                           Iraq
+33          cntry    372                        Ireland
+34          cntry    376                         Israel
+35          cntry    380                          Italy
+36          cntry    388                        Jamaica
+37          cntry    400                         Jordan
+38          cntry    404                          Kenya
+39          cntry    417                Kyrgyz Republic
+40          cntry    430                        Liberia
+41          cntry    454                         Malawi
+42          cntry    458                       Malaysia
+43          cntry    466                           Mali
+44          cntry    484                         Mexico
+45          cntry    496                       Mongolia
+46          cntry    504                        Morocco
+47          cntry    524                          Nepal
+48          cntry    528                    Netherlands
+49          cntry    558                      Nicaragua
+50          cntry    566                        Nigeria
+51          cntry    586                       Pakistan
+52          cntry    275                      Palestine
+53          cntry    591                         Panama
+54          cntry    604                           Peru
+55          cntry    608                    Philippines
+56          cntry    620                       Portugal
+57          cntry    630                    Puerto Rico
+58          cntry    642                        Romania
+59          cntry    646                         Rwanda
+60          cntry    662                    Saint Lucia
+61          cntry    686                        Senegal
+62          cntry    694                   Sierra Leone
+63          cntry    705                       Slovenia
+64          cntry    710                   South Africa
+65          cntry    728                    South Sudan
+66          cntry    724                          Spain
+67          cntry    729                          Sudan
+68          cntry    756                    Switzerland
+69          cntry    834                       Tanzania
+70          cntry    764                       Thailand
+71          cntry    792                         Turkey
+72          cntry    800                         Uganda
+73          cntry    804                        Ukraine
+74          cntry    826                 United Kingdom
+75          cntry    840                  United States
+76          cntry    858                        Uruguay
+77          cntry    862                      Venezuela
+78          cntry    704                        Vietnam
+79          cntry    894                         Zambia
+80           year   1960                           1960
+81           year   1962                           1962
+82           year   1963                           1963
+83           year   1964                           1964
+84           year   1966                           1966
+85           year   1968                           1968
+86           year   1969                           1969
+87           year   1970                           1970
+88           year   1971                           1971
+89           year   1972                           1972
+90           year   1973                           1973
+91           year   1974                           1974
+92           year   1975                           1975
+93           year   1976                           1976
+94           year   1977                           1977
+95           year   1979                           1979
+96           year   1980                           1980
+97           year   1981                           1981
+98           year   1982                           1982
+99           year   1983                           1983
+100          year   1984                           1984
+101          year   1985                           1985
+102          year   1986                           1986
+103          year   1987                           1987
+104          year   1989                           1989
+105          year   1990                           1990
+106          year   1991                           1991
+107          year   1992                           1992
+108          year   1993                           1993
+109          year   1994                           1994
+110          year   1995                           1995
+111          year   1996                           1996
+112          year   1997                           1997
+113          year   1998                           1998
+114          year   1999                           1999
+115          year   2000                           2000
+116          year   2001                           2001
+117          year   2002                           2002
+118          year   2003                           2003
+119          year   2004                           2004
+120          year   2005                           2005
+121          year   2006                           2006
+122          year   2007                           2007
+123          year   2008                           2008
+124          year   2009                           2009
+125          year   2010                           2010
+126          year   2011                           2011
+127        sample    321                 Argentina 1970
+128        sample    322                 Argentina 1980
+129        sample    323                 Argentina 1991
+130        sample    324                 Argentina 2001
+131        sample    325                 Argentina 2010
+132        sample    511                   Armenia 2001
+133        sample    401                   Austria 1971
+134        sample    402                   Austria 1981
+135        sample    403                   Austria 1991
+136        sample    404                   Austria 2001
+137        sample    501                Bangladesh 1991
+138        sample    502                Bangladesh 2001
+139        sample    503                Bangladesh 2011
+140        sample    681                   Bolivia 1976
+141        sample    682                   Bolivia 1992
+142        sample    683                   Bolivia 2001
+143        sample    761                    Brazil 1960
+144        sample    762                    Brazil 1970
+145        sample    763                    Brazil 1980
+146        sample    764                    Brazil 1991
+147        sample    765                    Brazil 2000
+148        sample    766                    Brazil 2010
+149        sample   1121                   Belarus 1999
+150        sample   8541              Burkina Faso 1985
+151        sample   8542              Burkina Faso 1996
+152        sample   8543              Burkina Faso 2006
+153        sample   1161                  Cambodia 1998
+154        sample   1162                  Cambodia 2008
+155        sample   1201                  Cameroon 1976
+156        sample   1202                  Cameroon 1987
+157        sample   1203                  Cameroon 2005
+158        sample   1241                    Canada 1971
+159        sample   1242                    Canada 1981
+160        sample   1243                    Canada 1991
+161        sample   1244                    Canada 2001
+162        sample   1521                     Chile 1960
+163        sample   1522                     Chile 1970
+164        sample   1523                     Chile 1982
+165        sample   1524                     Chile 1992
+166        sample   1525                     Chile 2002
+167        sample   1561                     China 1982
+168        sample   1562                     China 1990
+169        sample   1701                  Colombia 1964
+170        sample   1702                  Colombia 1973
+171        sample   1703                  Colombia 1985
+172        sample   1704                  Colombia 1993
+173        sample   1705                  Colombia 2005
+174        sample   1881                Costa Rica 1963
+175        sample   1882                Costa Rica 1973
+176        sample   1883                Costa Rica 1984
+177        sample   1884                Costa Rica 2000
+178        sample   1921                      Cuba 2002
+179        sample   2141        Dominican Republic 1960
+180        sample   2142        Dominican Republic 1970
+181        sample   2143        Dominican Republic 1981
+182        sample   2144        Dominican Republic 2002
+183        sample   2145        Dominican Republic 2010
+184        sample   2181                   Ecuador 1962
+185        sample   2182                   Ecuador 1974
+186        sample   2183                   Ecuador 1982
+187        sample   2184                   Ecuador 1990
+188        sample   2185                   Ecuador 2001
+189        sample   2186                   Ecuador 2010
+190        sample   8181                     Egypt 1996
+191        sample   8182                     Egypt 2006
+192        sample   2221               El Salvador 1992
+193        sample   2222               El Salvador 2007
+194        sample   2421                      Fiji 1966
+195        sample   2422                      Fiji 1976
+196        sample   2423                      Fiji 1986
+197        sample   2424                      Fiji 1996
+198        sample   2425                      Fiji 2007
+199        sample   2501                    France 1962
+200        sample   2502                    France 1968
+201        sample   2503                    France 1975
+202        sample   2504                    France 1982
+203        sample   2505                    France 1990
+204        sample   2506                    France 1999
+205        sample   2507                    France 2006
+206        sample   2761            Germany 1970 (West)
+207        sample   2762            Germany 1971 (East)
+208        sample   2763            Germany 1981 (East)
+209        sample   2764            Germany 1987 (West)
+210        sample   2881                     Ghana 2000
+211        sample   2882                     Ghana 2010
+212        sample   3001                    Greece 1971
+213        sample   3002                    Greece 1981
+214        sample   3003                    Greece 1991
+215        sample   3004                    Greece 2001
+216        sample   3241                    Guinea 1983
+217        sample   3242                    Guinea 1996
+218        sample   3321                     Haiti 1971
+219        sample   3322                     Haiti 1982
+220        sample   3323                     Haiti 2003
+221        sample   3481                   Hungary 1970
+222        sample   3482                   Hungary 1980
+223        sample   3483                   Hungary 1990
+224        sample   3484                   Hungary 2001
+225        sample   3561                     India 1983
+226        sample   3562                     India 1987
+227        sample   3563                     India 1993
+228        sample   3564                     India 1999
+229        sample   3565                     India 2004
+230        sample   3601                 Indonesia 1971
+231        sample   3602                 Indonesia 1976
+232        sample   3603                 Indonesia 1980
+233        sample   3604                 Indonesia 1985
+234        sample   3605                 Indonesia 1990
+235        sample   3606                 Indonesia 1995
+236        sample   3607                 Indonesia 2000
+237        sample   3608                 Indonesia 2005
+238        sample   3609                 Indonesia 2010
+239        sample   3641                      Iran 2006
+240        sample   3681                      Iraq 1997
+241        sample   3721                   Ireland 1971
+242        sample   3722                   Ireland 1979
+243        sample   3723                   Ireland 1981
+244        sample   3724                   Ireland 1986
+245        sample   3725                   Ireland 1991
+246        sample   3726                   Ireland 1996
+247        sample   3727                   Ireland 2002
+248        sample   3728                   Ireland 2006
+249        sample   3729                   Ireland 2011
+250        sample   3761                    Israel 1972
+251        sample   3762                    Israel 1983
+252        sample   3763                    Israel 1995
+253        sample   3801                     Italy 2001
+254        sample   3881                   Jamaica 1982
+255        sample   3882                   Jamaica 1991
+256        sample   3883                   Jamaica 2001
+257        sample   4001                    Jordan 2004
+258        sample   4041                     Kenya 1969
+259        sample   4042                     Kenya 1979
+260        sample   4043                     Kenya 1989
+261        sample   4044                     Kenya 1999
+262        sample   4045                     Kenya 2009
+263        sample   4171           Kyrgyz Republic 1999
+264        sample   4172           Kyrgyz Republic 2009
+265        sample   4301                   Liberia 1974
+266        sample   4302                   Liberia 2008
+267        sample   4541                    Malawi 1987
+268        sample   4542                    Malawi 1998
+269        sample   4543                    Malawi 2008
+270        sample   4581                  Malaysia 1970
+271        sample   4582                  Malaysia 1980
+272        sample   4583                  Malaysia 1991
+273        sample   4584                  Malaysia 2000
+274        sample   4661                      Mali 1987
+275        sample   4662                      Mali 1998
+276        sample   4663                      Mali 2009
+277        sample   4841                    Mexico 1960
+278        sample   4842                    Mexico 1970
+279        sample   4843                    Mexico 1990
+280        sample   4844                    Mexico 1995
+281        sample   4845                    Mexico 2000
+282        sample   4846                    Mexico 2005
+283        sample   4847                    Mexico 2010
+284        sample   4961                  Mongolia 1989
+285        sample   4962                  Mongolia 2000
+286        sample   5041                   Morocco 1982
+287        sample   5042                   Morocco 1994
+288        sample   5043                   Morocco 2004
+289        sample   5241                     Nepal 2001
+290        sample   5281               Netherlands 1960
+291        sample   5282               Netherlands 1971
+292        sample   5283               Netherlands 2001
+293        sample   5581                 Nicaragua 1971
+294        sample   5582                 Nicaragua 1995
+295        sample   5583                 Nicaragua 2005
+296        sample   5661                   Nigeria 2006
+297        sample   5662                   Nigeria 2007
+298        sample   5663                   Nigeria 2008
+299        sample   5664                   Nigeria 2009
+300        sample   5665                   Nigeria 2010
+301        sample   5861                  Pakistan 1973
+302        sample   5862                  Pakistan 1981
+303        sample   5863                  Pakistan 1998
+304        sample   2751                 Palestine 1997
+305        sample   2752                 Palestine 2007
+306        sample   5911                    Panama 1960
+307        sample   5912                    Panama 1970
+308        sample   5913                    Panama 1980
+309        sample   5914                    Panama 1990
+310        sample   5915                    Panama 2000
+311        sample   5916                    Panama 2010
+312        sample   6041                      Peru 1993
+313        sample   6042                      Peru 2007
+314        sample   6081               Philippines 1990
+315        sample   6082               Philippines 1995
+316        sample   6083               Philippines 2000
+317        sample   6201                  Portugal 1981
+318        sample   6202                  Portugal 1991
+319        sample   6203                  Portugal 2001
+320        sample   6301               Puerto Rico 1970
+321        sample   6302               Puerto Rico 1980
+322        sample   6303               Puerto Rico 1990
+323        sample   6304               Puerto Rico 2000
+324        sample   6305               Puerto Rico 2005
+325        sample   6421                   Romania 1977
+326        sample   6422                   Romania 1992
+327        sample   6423                   Romania 2002
+328        sample   6461                    Rwanda 1991
+329        sample   6462                    Rwanda 2002
+330        sample   6621               Saint Lucia 1980
+331        sample   6622               Saint Lucia 1991
+332        sample   6861                   Senegal 1988
+333        sample   6862                   Senegal 2002
+334        sample   6941              Sierra Leone 2004
+335        sample   7051                  Slovenia 2002
+336        sample   7101              South Africa 1996
+337        sample   7102              South Africa 2001
+338        sample   7103              South Africa 2007
+339        sample   7241                     Spain 1981
+340        sample   7242                     Spain 1991
+341        sample   7243                     Spain 2001
+342        sample   7281               South Sudan 2008
+343        sample   7291                     Sudan 2008
+344        sample   7561               Switzerland 1970
+345        sample   7562               Switzerland 1980
+346        sample   7563               Switzerland 1990
+347        sample   7564               Switzerland 2000
+348        sample   8341                  Tanzania 1988
+349        sample   8342                  Tanzania 2002
+350        sample   7641                  Thailand 1970
+351        sample   7642                  Thailand 1980
+352        sample   7643                  Thailand 1990
+353        sample   7644                  Thailand 2000
+354        sample   7921                    Turkey 1985
+355        sample   7922                    Turkey 1990
+356        sample   7923                    Turkey 2000
+357        sample   8001                    Uganda 1991
+358        sample   8002                    Uganda 2002
+359        sample   8041                   Ukraine 2001
+360        sample   8261            United Kingdom 1991
+361        sample   8262            United Kingdom 2001
+362        sample   8401             United States 1960
+363        sample   8402             United States 1970
+364        sample   8403             United States 1980
+365        sample   8404             United States 1990
+366        sample   8405             United States 2000
+367        sample   8406             United States 2005
+368        sample   8407             United States 2010
+369        sample   8581                   Uruguay 1963
+370        sample   8582                   Uruguay 1975
+371        sample   8583                   Uruguay 1985
+372        sample   8584                   Uruguay 1996
+373        sample   8585                   Uruguay 2006
+374        sample   8586                   Uruguay 2011
+375        sample   8621                 Venezuela 1971
+376        sample   8622                 Venezuela 1981
+377        sample   8623                 Venezuela 1990
+378        sample   8624                 Venezuela 2001
+379        sample   7041                   Vietnam 1989
+380        sample   7042                   Vietnam 1999
+381        sample   7043                   Vietnam 2009
+382        sample   8941                    Zambia 1990
+383        sample   8942                    Zambia 2000
+384        sample   8943                    Zambia 2010
+385      sd08pern      1                              1
+386      sd08pern      2                              2
+387      sd08pern      3                              3
+388      sd08pern      4                              4
+389      sd08pern      5                              5
+390      sd08pern      6                              6
+391      sd08pern      7                              7
+392      sd08pern      8                              8
+393      sd08pern      9                              9
+394      sd08pern     10                             10
+395      sd08pern     11                             11
+396      sd08pern     12                             12
+397      sd08pern     13                             13
+398      sd08pern     14                             14
+399      sd08pern     15                             15
+400      sd08pern     16                             16
+401      sd08pern     17                             17
+402      sd08pern     18                             18
+403      sd08pern     19                             19
+404      sd08pern     20                             20
+405      sd08pern     21                             21
+406      sd08pern     22                             22
+407      sd08pern     23                             23
+408      sd08pern     24                             24
+409      sd08pern     25                             25
+410      sd08pern     26                             26
+411      sd08pern     27                             27
+412      sd08pern     28                             28
+413      sd08pern     29                             29
+414      sd08pern     30                             30
+415      sd08pern     31                             31
+416      sd08pern     32                             32
+417      sd08pern     33                             33
+418      sd08pern     34                             34
+419      sd08pern     35                             35
+420      sd08pern     36                             36
+421      sd08pern     37                             37
+422      sd08pern     38                             38
+423      sd08pern     39                             39
+424      sd08pern     40                             40
+425      sd08pern     41                             41
+426      sd08pern     42                             42
+427      sd08pern     43                             43
+428      sd08pern     44                             44
+429      sd08pern     45                             45
+430      sd08pern     46                             46
+431      sd08pern     47                             47
+432      sd08pern     48                             48
+433      sd08pern     49                             49
+434      sd08pern     50                             50
+435      sd08fbig      0                     No problem
+436      sd08fbig      1 Yes: households within a large
+437      sd08fbig      2 Yes: persons within a large ho
+438    sd08region      1                       Northern
+439    sd08region      2                        Eastern
+440    sd08region      3                       Khartoum
+441    sd08region      4                        Central
+442    sd08region      5                       Kordofan
+443    sd08region      6                         Darfur
+444     sd08state     11                       Northern
+445     sd08state     12                    Nahr El Nil
+446     sd08state     21                        Red Sea
+447     sd08state     22                        Kassala
+448     sd08state     23                     Al Gedarif
+449     sd08state     31                       Khartoum
+450     sd08state     41                      Al Gezira
+451     sd08state     42                     White Nile
+452     sd08state     43                         Sinnar
+453     sd08state     44                      Blue Nile
+454     sd08state     51                 North Kordofan
+455     sd08state     52                 South Kordofan
+456     sd08state     61                   North Darfur
+457     sd08state     62                    West Darfur
+458     sd08state     63                   South Darfur
+459    sd08county   1101                          Halfa
+460    sd08county   1102                          Dalgo
+461    sd08county   1103                      Alborgaig
+462    sd08county   1104                        Dongola
+463    sd08county   1105                        Algolid
+464    sd08county   1106                         Aldaba
+465    sd08county   1107                         Marwai
+466    sd08county   1201                      Abu Hamed
+467    sd08county   1202                         Berber
+468    sd08county   1203                         Atbara
+469    sd08county   1204                       El Damar
+470    sd08county   1205                         Shendi
+471    sd08county   1206                      El Matama
+472    sd08county   2101                        Halayib
+473    sd08county   2102                        Elgunab
+474    sd08county   2103                     Port Sudan
+475    sd08county   2104                        Sawakin
+476    sd08county   2105                         Senkat
+477    sd08county   2106                           Haya
+478    sd08county   2107                          Toker
+479    sd08county   2108                          Agieg
+480    sd08county   2201                  North Aldalta
+481    sd08county   2202                   Hamashkoreeb
+482    sd08county   2203                        Talkook
+483    sd08county   2204                    Aroma rural
+484    sd08county   2205                   West Kassala
+485    sd08county   2206                   Kassala city
+486    sd08county   2207                  Kassala rural
+487    sd08county   2208                Halfa Al Gedida
+488    sd08county   2209                    Nahr Atbara
+489    sd08county   2210                          Setit
+490    sd08county   2211                  Wad El Hilaiw
+491    sd08county   2301                      El Botana
+492    sd08county   2302                     El Fashaga
+493    sd08county   2303             Central Al Gedarif
+494    sd08county   2304                Al Gedarif city
+495    sd08county   2305                         Al Fau
+496    sd08county   2306                       El Rahad
+497    sd08county   2307                Qala'a El Nahal
+498    sd08county   2308           Al Galabat Al Garbia
+499    sd08county   2309                   El Ghoreisha
+500    sd08county   2310            El Galabat Sharquia
+501    sd08county   3101                        Karrari
+502    sd08county   3102                        Om Bada
+503    sd08county   3103                      Om Durman
+504    sd08county   3104                          Bahri
+505    sd08county   3105                   Sharg Alneel
+506    sd08county   3106                       Khartoum
+507    sd08county   3107                   Jabel Awliya
+508    sd08county   4101                 El Gezira East
+509    sd08county   4102                      El Kamlin
+510    sd08county   4103                   El Hasaheisa
+511    sd08county   4104                      Um Algora
+512    sd08county   4105              Wad Madni Alkobra
+513    sd08county   4106                South Aljazeera
+514    sd08county   4107                     El Managil
+515    sd08county   4201                     El Geteina
+516    sd08county   4202                       Um Rimta
+517    sd08county   4203                       Eldiwiem
+518    sd08county   4204                          Rabak
+519    sd08county   4205                    El Jebelein
+520    sd08county   4206                          Kosti
+521    sd08county   4207                       Al Salam
+522    sd08county   4208                       Tandalti
+523    sd08county   4301                    East Sinnar
+524    sd08county   4302                         Sinnar
+525    sd08county   4303                       Eldindir
+526    sd08county   4304                         Alsoki
+527    sd08county   4305                          Sinja
+528    sd08county   4306                      Abu Hugar
+529    sd08county   4307                         Eldali
+530    sd08county   4401                     Elrosieris
+531    sd08county   4402                      Eldamazin
+532    sd08county   4403                      Al Tdamon
+533    sd08county   4404                            Bau
+534    sd08county   4405                         Giesan
+535    sd08county   4406                       Elkurmuk
+536    sd08county   5101                Gabrat Elshiekh
+537    sd08county   5102                         Sodari
+538    sd08county   5103                           Bara
+539    sd08county   5104                       Um Rwaba
+540    sd08county   5105                      El Nohook
+541    sd08county   5106                         Shekan
+542    sd08county   5107                      Abu Zabad
+543    sd08county   5108                      Wad Banda
+544    sd08county   5109                       Gebieash
+545    sd08county   5201                       Alrashad
+546    sd08county   5202                    Abu Jibieha
+547    sd08county   5203                      El Dalanj
+548    sd08county   5204                        Kadogli
+549    sd08county   5205                       El Salam
+550    sd08county   5206                         Talody
+551    sd08county   5207                         Lagawa
+552    sd08county   5208                         Kielak
+553    sd08county   5209                         Ab Yei
+554    sd08county   6101                       El Malha
+555    sd08county   6102                         Mellit
+556    sd08county   6104                      Sarf Omra
+557    sd08county   6105                        Alseraf
+558    sd08county   6106                      Kebkabiya
+559    sd08county   6107                          Kutum
+560    sd08county   6108                         Alkoma
+561    sd08county   6109                      El Fasher
+562    sd08county   6110                      Um Kedada
+563    sd08county   6111                       Kalmando
+564    sd08county   6112                Altewash/Alleet
+565    sd08county   6114                         Alwaha
+566    sd08county   6201                         Kulbus
+567    sd08county   6202                          Sirba
+568    sd08county   6203                       Kirienik
+569    sd08county   6204                     El Geneina
+570    sd08county   6205                          Bayda
+571    sd08county   6206                        Habiela
+572    sd08county   6207                          Azoom
+573    sd08county   6208                       Zalingei
+574    sd08county   6209                        Nertiti
+575    sd08county   6211                     Wadi Salih
+576    sd08county   6212                         Mukjar
+577    sd08county   6213                      Um Dukhun
+578    sd08county   6301                        Sheiria
+579    sd08county   6302                          Nyala
+580    sd08county   6303                East Jabal Mara
+581    sd08county   6304                           Kass
+582    sd08county   6305                   Ed Al Fursan
+583    sd08county   6306                        Alsalam
+584    sd08county   6307                      Ed Da'ein
+585    sd08county   6308                         Adiela
+586    sd08county   6309                         Tullus
+587    sd08county   6310                Rihied El Birdi
+588    sd08county   6311                          Buram
+589    sd08county   6312                    Bahr Alarab
+590     sd08urban      1                          Urban
+591     sd08urban      2                          Rural
+592     sd08urban      3                          Nomad
+593    sd08hhtype      1              Private household
+594    sd08hhtype      2                         Nomads
+595    sd08hhtype      3           Internally displaced
+596    sd08hhtype      6                       Refugees
+597    sd08dwtype      1                           Tent
+598    sd08dwtype      2         Dwelling of straw mats
+599    sd08dwtype      3          Tukul /gottiya of mud
+600    sd08dwtype      4       Tukul /gottiya of sticks
+601    sd08dwtype      5              Flat or apartment
+602    sd08dwtype      6                          Villa
+603    sd08dwtype      7        House of one floor, mud
+604    sd08dwtype      8 House of one floor, brick/conc
+605    sd08dwtype      9      House constructed of wood
+606    sd08dwtype     10              Multi-story house
+607    sd08dwtype     11                     Incomplete
+608    sd08bedrms      1                              1
+609    sd08bedrms      2                              2
+610    sd08bedrms      3                              3
+611    sd08bedrms      4                              4
+612    sd08bedrms      5                              5
+613    sd08bedrms      6                              6
+614    sd08bedrms      7                              7
+615    sd08bedrms      8                              8
+616    sd08bedrms      9                              9
+617    sd08bedrms     10                            10+
+618   sd08ownrshp      1                          Owned
+619   sd08ownrshp      2                         Rented
+620   sd08ownrshp      3        Housing provided by job
+621   sd08ownrshp      4                           Free
+622    sd08watsrc      1 Water filtering station with c
+623    sd08watsrc      2 Mechanical boreholes with comm
+624    sd08watsrc      3 Deep borehole (donkey) with ne
+625    sd08watsrc      4 Deep borehole (donkey) without
+626    sd08watsrc      5                      Hand pump
+627    sd08watsrc      6 Sand filter with common networ
+628    sd08watsrc      7        Shallow well (dug well)
+629    sd08watsrc      8 Hafeer/Dam without filter (sti
+630    sd08watsrc      9 Hafeer/Dam with filter (still 
+631    sd08watsrc     10          Seasonal river (fula)
+632    sd08watsrc     11          River, stream (turaa)
+633    sd08watsrc     12 Water vendor (from deep boreho
+634    sd08watsrc     13 Water vendor (from shallow wel
+635  sd08lighting      1                    No lighting
+636  sd08lighting      2             Public electricity
+637  sd08lighting      3 Private electricity (generator
+638  sd08lighting      4                            Gas
+639  sd08lighting      5               Paraffin lantern
+640  sd08lighting      6                  Paraffin lamp
+641  sd08lighting      7                       Firewood
+642  sd08lighting      8                          Grass
+643  sd08lighting      9                     Candle wax
+644  sd08lighting     10                    Solar power
+645  sd08lighting     11                         Biogas
+646  sd08fuelcook      1                       Firewood
+647  sd08fuelcook      2                       Charcoal
+648  sd08fuelcook      3                            Gas
+649  sd08fuelcook      4                    Electricity
+650  sd08fuelcook      5                       Paraffin
+651  sd08fuelcook      6                       Cow dung
+652  sd08fuelcook      7                          Grass
+653  sd08fuelcook      8                         Biogas
+654  sd08fuelcook      9                     No cooking
+655    sd08toilet      1            Pit latrine private
+656    sd08toilet      2             Pit latrine shared
+657    sd08toilet      3           Flush toilet private
+658    sd08toilet      4            Flush toilet shared
+659    sd08toilet      5                  Bucket toilet
+660    sd08toilet      6             No toilet facility
+661   sd08vehicle      1                            Yes
+662   sd08vehicle      2                             No
+663   sd08motocyc      1                            Yes
+664   sd08motocyc      2                             No
+665   sd08bicycle      1                            Yes
+666   sd08bicycle      2                             No
+667      sd08boat      1                            Yes
+668      sd08boat      2                             No
+669  sd08animtran      1                            Yes
+670  sd08animtran      2                             No
+671   sd08tractor      1                            Yes
+672   sd08tractor      2                             No
+673   sd08notrans      1                            Yes
+674   sd08notrans      2                             No
+675        sd08tv      1                            Yes
+676        sd08tv      2                             No
+677     sd08radio      1                            Yes
+678     sd08radio      2                             No
+679    sd08mobile      1                            Yes
+680    sd08mobile      2                             No
+681     sd08phone      1                            Yes
+682     sd08phone      2                             No
+683  sd08computer      1                            Yes
+684  sd08computer      2                             No
+685  sd08refridge      1                            Yes
+686  sd08refridge      2                             No
+687    sd08satell      1                            Yes
+688    sd08satell      2                             No
+689       sd08fan      1                            Yes
+690       sd08fan      2                             No
+691    sd08aircon      1                            Yes
+692    sd08aircon      2                             No
+693    sd08noamen      1                            Yes
+694    sd08noamen      2                             No
+695  sd08livehood      1       Subsistence crop farming
+696  sd08livehood      2   Subsistence animal husbandry
+697  sd08livehood      3             Wages and salaries
+698  sd08livehood      4      Owned business enterprise
+699  sd08livehood      5                Property income
+700  sd08livehood      6                    Remittances
+701  sd08livehood      7                        Pension
+702  sd08livehood      8               Humanitarian aid
+703    sd08cultiv      1                            Yes
+704    sd08cultiv      2                             No
+705  sd08areacult      0      No cultivation/plantation
+706  sd08areacult      1                       1 feddan
+707  sd08areacult      2                      2 feddans
+708  sd08areacult      3                              3
+709  sd08areacult      4                              4
+710  sd08areacult      5                              5
+711  sd08areacult      6                              6
+712  sd08areacult      7                              7
+713  sd08areacult      8                              8
+714  sd08areacult      9                              9
+715  sd08areacult     10                             10
+716  sd08areacult     11                             11
+717  sd08areacult     12                             12
+718  sd08areacult     13                             13
+719  sd08areacult     14                             14
+720  sd08areacult     15                             15
+721  sd08areacult     16                             16
+722  sd08areacult     17                             17
+723  sd08areacult     18                             18
+724  sd08areacult     19                             19
+725  sd08areacult     20                             20
+726  sd08areacult     21                             21
+727  sd08areacult     22                             22
+728  sd08areacult     23                             23
+729  sd08areacult     24                             24
+730  sd08areacult     25                             25
+731  sd08areacult     26                             26
+732  sd08areacult     27                             27
+733  sd08areacult     28                             28
+734  sd08areacult     29                             29
+735  sd08areacult     30                       30 to 34
+736  sd08areacult     35                       35 to 39
+737  sd08areacult     40                       40 to 44
+738  sd08areacult     45                       45 to 49
+739  sd08areacult     50                       50 to 54
+740  sd08areacult     55                       55 to 59
+741  sd08areacult     60                       60 to 64
+742  sd08areacult     65                       65 to 69
+743  sd08areacult     70                       70 to 74
+744  sd08areacult     75                       75 to 79
+745  sd08areacult     80                       80 to 84
+746  sd08areacult     85                       85 to 89
+747  sd08areacult     90                       90 to 94
+748  sd08areacult     95                       95 to 99
+749  sd08areacult    100                     100 to 109
+750  sd08areacult    110                     110 to 119
+751  sd08areacult    120                     120 to 129
+752  sd08areacult    130                     130 to 139
+753  sd08areacult    140                     140 to 149
+754  sd08areacult    150                     150 to 159
+755  sd08areacult    160                     160 to 169
+756  sd08areacult    170                     170 to 179
+757  sd08areacult    180                     180 to 189
+758  sd08areacult    190                     190 to 199
+759  sd08areacult    200                     200 to 219
+760  sd08areacult    220                     220 to 239
+761  sd08areacult    240                     240 to 259
+762  sd08areacult    260                     260 to 279
+763  sd08areacult    280                     280 to 299
+764  sd08areacult    300                     300 to 319
+765  sd08areacult    320                     320 to 339
+766  sd08areacult    340                     340 to 359
+767  sd08areacult    360                     360 to 379
+768  sd08areacult    380                     380 to 399
+769  sd08areacult    400                     400 to 419
+770  sd08areacult    420                     420 to 439
+771  sd08areacult    440                     440 to 459
+772  sd08areacult    460                     460 to 479
+773  sd08areacult    480                     480 to 499
+774  sd08areacult    500                     500 to 519
+775  sd08areacult    520                     520 to 539
+776  sd08areacult    540                     540 to 559
+777  sd08areacult    560                     560 to 579
+778  sd08areacult    580                     580 to 599
+779  sd08areacult    600                     600 to 619
+780  sd08areacult    620                     620 to 639
+781  sd08areacult    640                     640 to 659
+782  sd08areacult    660                     660 to 679
+783  sd08areacult    680                     680 to 699
+784  sd08areacult    700                     700 to 719
+785  sd08areacult    720                     720 to 739
+786  sd08areacult    740                     740 to 759
+787  sd08areacult    760                     760 to 779
+788  sd08areacult    780                     780 to 799
+789  sd08areacult    800                     800 to 819
+790  sd08areacult    820                     820 to 839
+791  sd08areacult    840                     840 to 859
+792  sd08areacult    860                     860 to 879
+793  sd08areacult    880                     880 to 899
+794  sd08areacult    900                     900 to 919
+795  sd08areacult    920                     920 to 939
+796  sd08areacult    940                     940 to 959
+797  sd08areacult    960                     960 to 979
+798  sd08areacult    980                     980 to 998
+799  sd08areacult    999            999 or more feddans
+800    sd08cereal      1                            Yes
+801    sd08cereal      2                             No
+802    sd08cereal      9                            NIU
+803       sd08veg      1                            Yes
+804       sd08veg      2                             No
+805       sd08veg      9                            NIU
+806     sd08fruit      1                            Yes
+807     sd08fruit      2                             No
+808     sd08fruit      9                            NIU
+809   sd08oilseed      1                            Yes
+810   sd08oilseed      2                             No
+811   sd08oilseed      9                            NIU
+812      sd08root      1                            Yes
+813      sd08root      2                             No
+814      sd08root      9                            NIU
+815     sd08spice      1                            Yes
+816     sd08spice      2                             No
+817     sd08spice      9                            NIU
+818     sd08legum      1                            Yes
+819     sd08legum      2                             No
+820     sd08legum      9                            NIU
+821     sd08sugar      1                            Yes
+822     sd08sugar      2                             No
+823     sd08sugar      9                            NIU
+824    sd08cotton      1                            Yes
+825    sd08cotton      2                             No
+826    sd08cotton      9                            NIU
+827    sd08coffee      1                            Yes
+828    sd08coffee      2                             No
+829    sd08coffee      9                            NIU
+830     sd08telbl      1                            Yes
+831     sd08telbl      2                             No
+832     sd08telbl      9                            NIU
+833   sd08othcrop      1                            Yes
+834   sd08othcrop      2                             No
+835   sd08othcrop      9                            NIU
+836   sd08landown      1                          Owned
+837   sd08landown      2                         Rented
+838   sd08landown      3                Partially owned
+839   sd08landown      4                       Communal
+840   sd08landown      9                            NIU
+841   sd08fishery      1                            Yes
+842   sd08fishery      2                             No
+843    sd08cattle    999                    999 or more
+844    sd08camels    999                    999 or more
+845     sd08sheep    999                    999 or more
+846     sd08goats    999                    999 or more
+847    sd08horses      0                              0
+848    sd08horses      1                              1
+849    sd08horses      2                              2
+850    sd08horses      3                              3
+851    sd08horses      4                              4
+852    sd08horses      5                              5
+853    sd08horses      6                              6
+854    sd08horses      7                              7
+855    sd08horses      8                              8
+856    sd08horses      9                              9
+857    sd08horses     10                             10
+858    sd08horses     11                             11
+859    sd08horses     12                             12
+860    sd08horses     13                             13
+861    sd08horses     14                             14
+862    sd08horses     15                             15
+863    sd08horses     16                             16
+864    sd08horses     17                             17
+865    sd08horses     18                             18
+866    sd08horses     19                             19
+867    sd08horses     20                             20
+868    sd08horses     21                             21
+869    sd08horses     22                             22
+870    sd08horses     23                             23
+871    sd08horses     24                             24
+872    sd08horses     25                             25
+873    sd08horses     26                             26
+874    sd08horses     27                             27
+875    sd08horses     28                             28
+876    sd08horses     29                             29
+877    sd08horses     30                             30
+878    sd08horses     31                             31
+879    sd08horses     32                             32
+880    sd08horses     33                             33
+881    sd08horses     34                             34
+882    sd08horses     35                             35
+883    sd08horses     37                             37
+884    sd08horses     39                             39
+885    sd08horses     40                             40
+886    sd08horses     41                             41
+887    sd08horses     42                             42
+888    sd08horses     43                             43
+889    sd08horses     44                             44
+890    sd08horses     45                             45
+891    sd08horses     48                             48
+892    sd08horses     50                             50
+893    sd08horses     51                             51
+894    sd08horses     52                             52
+895    sd08horses     53                             53
+896    sd08horses     54                             54
+897    sd08horses     55                             55
+898    sd08horses     56                             56
+899    sd08horses     59                             59
+900    sd08horses     60                             60
+901    sd08horses     61                             61
+902    sd08horses     63                             63
+903    sd08horses     65                             65
+904    sd08horses     66                             66
+905    sd08horses     69                             69
+906    sd08horses     70                             70
+907    sd08horses     71                             71
+908    sd08horses     72                             72
+909    sd08horses     73                             73
+910    sd08horses     74                             74
+911    sd08horses     75                             75
+912    sd08horses     77                             77
+913    sd08horses     78                             78
+914    sd08horses     80                             80
+915    sd08horses     82                             82
+916    sd08horses     83                             83
+917    sd08horses     86                             86
+918    sd08horses     87                             87
+919    sd08horses     88                             88
+920    sd08horses     90                             90
+921    sd08horses     91                             91
+922    sd08horses     92                             92
+923    sd08horses     93                             93
+924    sd08horses     94                             94
+925    sd08horses     95                             95
+926    sd08horses     97                             97
+927    sd08horses     98                             98
+928    sd08horses     99                             99
+929    sd08horses    100                           100+
+930   sd08donkeys      0                              0
+931   sd08donkeys      1                              1
+932   sd08donkeys      2                              2
+933   sd08donkeys      3                              3
+934   sd08donkeys      4                              4
+935   sd08donkeys      5                              5
+936   sd08donkeys      6                              6
+937   sd08donkeys      7                              7
+938   sd08donkeys      8                              8
+939   sd08donkeys      9                              9
+940   sd08donkeys     10                             10
+941   sd08donkeys     11                             11
+942   sd08donkeys     12                             12
+943   sd08donkeys     13                             13
+944   sd08donkeys     14                             14
+945   sd08donkeys     15                             15
+946   sd08donkeys     16                             16
+947   sd08donkeys     17                             17
+948   sd08donkeys     18                             18
+949   sd08donkeys     19                             19
+950   sd08donkeys     20                             20
+951   sd08donkeys     21                             21
+952   sd08donkeys     22                             22
+953   sd08donkeys     23                             23
+954   sd08donkeys     24                             24
+955   sd08donkeys     25                             25
+956   sd08donkeys     26                             26
+957   sd08donkeys     27                             27
+958   sd08donkeys     28                             28
+959   sd08donkeys     29                             29
+960   sd08donkeys     30                             30
+961   sd08donkeys     31                             31
+962   sd08donkeys     32                             32
+963   sd08donkeys     33                             33
+964   sd08donkeys     34                             34
+965   sd08donkeys     35                             35
+966   sd08donkeys     36                             36
+967   sd08donkeys     37                             37
+968   sd08donkeys     38                             38
+969   sd08donkeys     40                             40
+970   sd08donkeys     41                             41
+971   sd08donkeys     42                             42
+972   sd08donkeys     43                             43
+973   sd08donkeys     44                             44
+974   sd08donkeys     45                             45
+975   sd08donkeys     46                             46
+976   sd08donkeys     47                             47
+977   sd08donkeys     48                             48
+978   sd08donkeys     49                             49
+979   sd08donkeys     50                             50
+980   sd08donkeys     51                             51
+981   sd08donkeys     52                             52
+982   sd08donkeys     53                             53
+983   sd08donkeys     54                             54
+984   sd08donkeys     55                             55
+985   sd08donkeys     56                             56
+986   sd08donkeys     57                             57
+987   sd08donkeys     58                             58
+988   sd08donkeys     60                             60
+989   sd08donkeys     61                             61
+990   sd08donkeys     62                             62
+991   sd08donkeys     63                             63
+992   sd08donkeys     64                             64
+993   sd08donkeys     65                             65
+994   sd08donkeys     66                             66
+995   sd08donkeys     67                             67
+996   sd08donkeys     69                             69
+997   sd08donkeys     70                             70
+998   sd08donkeys     71                             71
+999   sd08donkeys     72                             72
+1000  sd08donkeys     73                             73
+1001  sd08donkeys     74                             74
+1002  sd08donkeys     75                             75
+1003  sd08donkeys     76                             76
+1004  sd08donkeys     77                             77
+1005  sd08donkeys     80                             80
+1006  sd08donkeys     81                             81
+1007  sd08donkeys     82                             82
+1008  sd08donkeys     85                             85
+1009  sd08donkeys     86                             86
+1010  sd08donkeys     87                             87
+1011  sd08donkeys     88                             88
+1012  sd08donkeys     89                             89
+1013  sd08donkeys     90                             90
+1014  sd08donkeys     92                             92
+1015  sd08donkeys     93                             93
+1016  sd08donkeys     94                             94
+1017  sd08donkeys     95                             95
+1018  sd08donkeys     96                             96
+1019  sd08donkeys     97                             97
+1020  sd08donkeys     98                             98
+1021  sd08donkeys     99                             99
+1022  sd08donkeys    100                           100+
+1023     sd08pigs      0                              0
+1024     sd08pigs      1                              1
+1025     sd08pigs      2                              2
+1026     sd08pigs      3                              3
+1027     sd08pigs      4                              4
+1028     sd08pigs      5                              5
+1029     sd08pigs      6                              6
+1030     sd08pigs      7                              7
+1031     sd08pigs      8                              8
+1032     sd08pigs      9                              9
+1033     sd08pigs     10                             10
+1034     sd08pigs     11                             11
+1035     sd08pigs     12                             12
+1036     sd08pigs     13                             13
+1037     sd08pigs     14                             14
+1038     sd08pigs     15                             15
+1039     sd08pigs     16                             16
+1040     sd08pigs     17                             17
+1041     sd08pigs     18                             18
+1042     sd08pigs     19                             19
+1043     sd08pigs     20                             20
+1044     sd08pigs     21                             21
+1045     sd08pigs     22                             22
+1046     sd08pigs     23                             23
+1047     sd08pigs     24                             24
+1048     sd08pigs     25                             25
+1049     sd08pigs     26                             26
+1050     sd08pigs     27                             27
+1051     sd08pigs     28                             28
+1052     sd08pigs     29                             29
+1053     sd08pigs     30                            30+
+1054  sd08poultry    999                    999 or more
+1055   sd08deaths      1                            Yes
+1056   sd08deaths      2                             No
+1057   sd08deaths      9                        Unknown
+1058  sd08qhhtype      0                  No imputation
+1059  sd08qhhtype      1             Logical from blank
+1060  sd08qhhtype      2   Logical from valid non-blank
+1061  sd08qhhtype      3 Logical from invalid non-blank
+1062  sd08qhhtype      4          Imputation from blank
+1063  sd08qhhtype      5 Imputation from valid non-blan
+1064  sd08qhhtype      6 Imputation from invalid non-bl
+1065  sd08qdwtype      0                  No imputation
+1066  sd08qdwtype      1             Logical from blank
+1067  sd08qdwtype      2   Logical from valid non-blank
+1068  sd08qdwtype      3 Logical from invalid non-blank
+1069  sd08qdwtype      4          Imputation from blank
+1070  sd08qdwtype      5 Imputation from valid non-blan
+1071  sd08qdwtype      6 Imputation from invalid non-bl
+1072   sd08qrooms      0                  No imputation
+1073   sd08qrooms      1             Logical from blank
+1074   sd08qrooms      2   Logical from valid non-blank
+1075   sd08qrooms      3 Logical from invalid non-blank
+1076   sd08qrooms      4          Imputation from blank
+1077   sd08qrooms      5 Imputation from valid non-blan
+1078   sd08qrooms      6 Imputation from invalid non-bl
+1079 sd08qownrshp      0                  No imputation
+1080 sd08qownrshp      1             Logical from blank
+1081 sd08qownrshp      2   Logical from valid non-blank
+1082 sd08qownrshp      3 Logical from invalid non-blank
+1083 sd08qownrshp      4          Imputation from blank
+1084 sd08qownrshp      5 Imputation from valid non-blan
+1085 sd08qownrshp      6 Imputation from invalid non-bl
+1086  sd08qwatsrc      0                  No imputation
+1087  sd08qwatsrc      1             Logical from blank
+1088  sd08qwatsrc      2   Logical from valid non-blank
+1089  sd08qwatsrc      3 Logical from invalid non-blank
+1090  sd08qwatsrc      4          Imputation from blank
+1091  sd08qwatsrc      5 Imputation from valid non-blan
+1092  sd08qwatsrc      6 Imputation from invalid non-bl
+1093 sd08qlightng      0                  No imputation
+1094 sd08qlightng      1             Logical from blank
+1095 sd08qlightng      2   Logical from valid non-blank
+1096 sd08qlightng      3 Logical from invalid non-blank
+1097 sd08qlightng      4          Imputation from blank
+1098 sd08qlightng      5 Imputation from valid non-blan
+1099 sd08qlightng      6 Imputation from invalid non-bl
+1100  sd08qfuelck      0                  No imputation
+1101  sd08qfuelck      1             Logical from blank
+1102  sd08qfuelck      2   Logical from valid non-blank
+1103  sd08qfuelck      3 Logical from invalid non-blank
+1104  sd08qfuelck      4          Imputation from blank
+1105  sd08qfuelck      5 Imputation from valid non-blan
+1106  sd08qfuelck      6 Imputation from invalid non-bl
+1107  sd08qtoilet      0                  No imputation
+1108  sd08qtoilet      1             Logical from blank
+1109  sd08qtoilet      2   Logical from valid non-blank
+1110  sd08qtoilet      3 Logical from invalid non-blank
+1111  sd08qtoilet      4          Imputation from blank
+1112  sd08qtoilet      5 Imputation from valid non-blan
+1113  sd08qtoilet      6 Imputation from invalid non-bl
+1114 sd08qvehicle      0                  No imputation
+1115 sd08qvehicle      1             Logical from blank
+1116 sd08qvehicle      2   Logical from valid non-blank
+1117 sd08qvehicle      3 Logical from invalid non-blank
+1118 sd08qvehicle      4          Imputation from blank
+1119 sd08qvehicle      5 Imputation from valid non-blan
+1120 sd08qvehicle      6 Imputation from invalid non-bl
+1121 sd08qmotocyc      0                  No imputation
+1122 sd08qmotocyc      1             Logical from blank
+1123 sd08qmotocyc      2   Logical from valid non-blank
+1124 sd08qmotocyc      3 Logical from invalid non-blank
+1125 sd08qmotocyc      4          Imputation from blank
+1126 sd08qmotocyc      5 Imputation from valid non-blan
+1127 sd08qmotocyc      6 Imputation from invalid non-bl
+1128 sd08qbicycle      0                  No imputation
+1129 sd08qbicycle      1             Logical from blank
+1130 sd08qbicycle      2   Logical from valid non-blank
+1131 sd08qbicycle      3 Logical from invalid non-blank
+1132 sd08qbicycle      4          Imputation from blank
+1133 sd08qbicycle      5 Imputation from valid non-blan
+1134 sd08qbicycle      6 Imputation from invalid non-bl
+1135    sd08qboat      0                  No imputation
+1136    sd08qboat      1             Logical from blank
+1137    sd08qboat      2   Logical from valid non-blank
+1138    sd08qboat      3 Logical from invalid non-blank
+1139    sd08qboat      4          Imputation from blank
+1140    sd08qboat      5 Imputation from valid non-blan
+1141    sd08qboat      6 Imputation from invalid non-bl
+1142 sd08qanitran      0                  No imputation
+1143 sd08qanitran      1             Logical from blank
+1144 sd08qanitran      2   Logical from valid non-blank
+1145 sd08qanitran      3 Logical from invalid non-blank
+1146 sd08qanitran      4          Imputation from blank
+1147 sd08qanitran      5 Imputation from valid non-blan
+1148 sd08qanitran      6 Imputation from invalid non-bl
+1149 sd08qtractor      0                  No imputation
+1150 sd08qtractor      1             Logical from blank
+1151 sd08qtractor      2   Logical from valid non-blank
+1152 sd08qtractor      3 Logical from invalid non-blank
+1153 sd08qtractor      4          Imputation from blank
+1154 sd08qtractor      5 Imputation from valid non-blan
+1155 sd08qtractor      6 Imputation from invalid non-bl
+1156 sd08qnotrans      0                  No imputation
+1157 sd08qnotrans      1             Logical from blank
+1158 sd08qnotrans      2   Logical from valid non-blank
+1159 sd08qnotrans      3 Logical from invalid non-blank
+1160 sd08qnotrans      4          Imputation from blank
+1161 sd08qnotrans      5 Imputation from valid non-blan
+1162 sd08qnotrans      6 Imputation from invalid non-bl
+1163      sd08qtv      0                  No imputation
+1164      sd08qtv      1             Logical from blank
+1165      sd08qtv      2   Logical from valid non-blank
+1166      sd08qtv      3 Logical from invalid non-blank
+1167      sd08qtv      4          Imputation from blank
+1168      sd08qtv      5 Imputation from valid non-blan
+1169      sd08qtv      6 Imputation from invalid non-bl
+1170   sd08qradio      0                  No imputation
+1171   sd08qradio      1             Logical from blank
+1172   sd08qradio      2   Logical from valid non-blank
+1173   sd08qradio      3 Logical from invalid non-blank
+1174   sd08qradio      4          Imputation from blank
+1175   sd08qradio      5 Imputation from valid non-blan
+1176   sd08qradio      6 Imputation from invalid non-bl
+1177  sd08qmobile      0                  No imputation
+1178  sd08qmobile      1             Logical from blank
+1179  sd08qmobile      2   Logical from valid non-blank
+1180  sd08qmobile      3 Logical from invalid non-blank
+1181  sd08qmobile      4          Imputation from blank
+1182  sd08qmobile      5 Imputation from valid non-blan
+1183  sd08qmobile      6 Imputation from invalid non-bl
+1184   sd08qphone      0                  No imputation
+1185   sd08qphone      1             Logical from blank
+1186   sd08qphone      2   Logical from valid non-blank
+1187   sd08qphone      3 Logical from invalid non-blank
+1188   sd08qphone      4          Imputation from blank
+1189   sd08qphone      5 Imputation from valid non-blan
+1190   sd08qphone      6 Imputation from invalid non-bl
+1191 sd08qcomputr      0                  No imputation
+1192 sd08qcomputr      1             Logical from blank
+1193 sd08qcomputr      2   Logical from valid non-blank
+1194 sd08qcomputr      3 Logical from invalid non-blank
+1195 sd08qcomputr      4          Imputation from blank
+1196 sd08qcomputr      5 Imputation from valid non-blan
+1197 sd08qcomputr      6 Imputation from invalid non-bl
+1198 sd08qrefridg      0                  No imputation
+1199 sd08qrefridg      1             Logical from blank
+1200 sd08qrefridg      2   Logical from valid non-blank
+1201 sd08qrefridg      3 Logical from invalid non-blank
+1202 sd08qrefridg      4          Imputation from blank
+1203 sd08qrefridg      5 Imputation from valid non-blan
+1204 sd08qrefridg      6 Imputation from invalid non-bl
+1205  sd08qsatell      0                  No imputation
+1206  sd08qsatell      1             Logical from blank
+1207  sd08qsatell      2   Logical from valid non-blank
+1208  sd08qsatell      3 Logical from invalid non-blank
+1209  sd08qsatell      4          Imputation from blank
+1210  sd08qsatell      5 Imputation from valid non-blan
+1211  sd08qsatell      6 Imputation from invalid non-bl
+1212     sd08qfan      0                  No imputation
+1213     sd08qfan      1             Logical from blank
+1214     sd08qfan      2   Logical from valid non-blank
+1215     sd08qfan      3 Logical from invalid non-blank
+1216     sd08qfan      4          Imputation from blank
+1217     sd08qfan      5 Imputation from valid non-blan
+1218     sd08qfan      6 Imputation from invalid non-bl
+1219  sd08qaircon      0                  No imputation
+1220  sd08qaircon      1             Logical from blank
+1221  sd08qaircon      2   Logical from valid non-blank
+1222  sd08qaircon      3 Logical from invalid non-blank
+1223  sd08qaircon      4          Imputation from blank
+1224  sd08qaircon      5 Imputation from valid non-blan
+1225  sd08qaircon      6 Imputation from invalid non-bl
+1226  sd08qnoamen      0                  No imputation
+1227  sd08qnoamen      1             Logical from blank
+1228  sd08qnoamen      2   Logical from valid non-blank
+1229  sd08qnoamen      3 Logical from invalid non-blank
+1230  sd08qnoamen      4          Imputation from blank
+1231  sd08qnoamen      5 Imputation from valid non-blan
+1232  sd08qnoamen      6 Imputation from invalid non-bl
+1233 sd08qlivehod      0                  No imputation
+1234 sd08qlivehod      1             Logical from blank
+1235 sd08qlivehod      2   Logical from valid non-blank
+1236 sd08qlivehod      3 Logical from invalid non-blank
+1237 sd08qlivehod      4          Imputation from blank
+1238 sd08qlivehod      5 Imputation from valid non-blan
+1239 sd08qlivehod      6 Imputation from invalid non-bl
+1240  sd08qcultiv      0                  No imputation
+1241  sd08qcultiv      1             Logical from blank
+1242  sd08qcultiv      2   Logical from valid non-blank
+1243  sd08qcultiv      3 Logical from invalid non-blank
+1244  sd08qcultiv      4          Imputation from blank
+1245  sd08qcultiv      5 Imputation from valid non-blan
+1246  sd08qcultiv      6 Imputation from invalid non-bl
+1247 sd08qareacul      0                  No imputation
+1248 sd08qareacul      1             Logical from blank
+1249 sd08qareacul      2   Logical from valid non-blank
+1250 sd08qareacul      3 Logical from invalid non-blank
+1251 sd08qareacul      4          Imputation from blank
+1252 sd08qareacul      5 Imputation from valid non-blan
+1253 sd08qareacul      6 Imputation from invalid non-bl
+1254  sd08qcereal      0                  No imputation
+1255  sd08qcereal      1             Logical from blank
+1256  sd08qcereal      2   Logical from valid non-blank
+1257  sd08qcereal      3 Logical from invalid non-blank
+1258  sd08qcereal      4          Imputation from blank
+1259  sd08qcereal      5 Imputation from valid non-blan
+1260  sd08qcereal      6 Imputation from invalid non-bl
+1261     sd08qveg      0                  No imputation
+1262     sd08qveg      1             Logical from blank
+1263     sd08qveg      2   Logical from valid non-blank
+1264     sd08qveg      3 Logical from invalid non-blank
+1265     sd08qveg      4          Imputation from blank
+1266     sd08qveg      5 Imputation from valid non-blan
+1267     sd08qveg      6 Imputation from invalid non-bl
+1268   sd08qfruit      0                  No imputation
+1269   sd08qfruit      1             Logical from blank
+1270   sd08qfruit      2   Logical from valid non-blank
+1271   sd08qfruit      3 Logical from invalid non-blank
+1272   sd08qfruit      4          Imputation from blank
+1273   sd08qfruit      5 Imputation from valid non-blan
+1274   sd08qfruit      6 Imputation from invalid non-bl
+1275 sd08qoilseed      0                  No imputation
+1276 sd08qoilseed      1             Logical from blank
+1277 sd08qoilseed      2   Logical from valid non-blank
+1278 sd08qoilseed      3 Logical from invalid non-blank
+1279 sd08qoilseed      4          Imputation from blank
+1280 sd08qoilseed      5 Imputation from valid non-blan
+1281 sd08qoilseed      6 Imputation from invalid non-bl
+1282    sd08qroot      0                  No imputation
+1283    sd08qroot      1             Logical from blank
+1284    sd08qroot      2   Logical from valid non-blank
+1285    sd08qroot      3 Logical from invalid non-blank
+1286    sd08qroot      4          Imputation from blank
+1287    sd08qroot      5 Imputation from valid non-blan
+1288    sd08qroot      6 Imputation from invalid non-bl
+1289   sd08qspice      0                  No imputation
+1290   sd08qspice      1             Logical from blank
+1291   sd08qspice      2   Logical from valid non-blank
+1292   sd08qspice      3 Logical from invalid non-blank
+1293   sd08qspice      4          Imputation from blank
+1294   sd08qspice      5 Imputation from valid non-blan
+1295   sd08qspice      6 Imputation from invalid non-bl
+1296   sd08qlegum      0                  No imputation
+1297   sd08qlegum      1             Logical from blank
+1298   sd08qlegum      2   Logical from valid non-blank
+1299   sd08qlegum      3 Logical from invalid non-blank
+1300   sd08qlegum      4          Imputation from blank
+1301   sd08qlegum      5 Imputation from valid non-blan
+1302   sd08qlegum      6 Imputation from invalid non-bl
+1303   sd08qsugar      0                  No imputation
+1304   sd08qsugar      1             Logical from blank
+1305   sd08qsugar      2   Logical from valid non-blank
+1306   sd08qsugar      3 Logical from invalid non-blank
+1307   sd08qsugar      4          Imputation from blank
+1308   sd08qsugar      5 Imputation from valid non-blan
+1309   sd08qsugar      6 Imputation from invalid non-bl
+1310  sd08qcotton      0                  No imputation
+1311  sd08qcotton      1             Logical from blank
+1312  sd08qcotton      2   Logical from valid non-blank
+1313  sd08qcotton      3 Logical from invalid non-blank
+1314  sd08qcotton      4          Imputation from blank
+1315  sd08qcotton      5 Imputation from valid non-blan
+1316  sd08qcotton      6 Imputation from invalid non-bl
+1317  sd08qcoffee      0                  No imputation
+1318  sd08qcoffee      1             Logical from blank
+1319  sd08qcoffee      2   Logical from valid non-blank
+1320  sd08qcoffee      3 Logical from invalid non-blank
+1321  sd08qcoffee      4          Imputation from blank
+1322  sd08qcoffee      5 Imputation from valid non-blan
+1323  sd08qcoffee      6 Imputation from invalid non-bl
+1324   sd08qtelbl      0                  No imputation
+1325   sd08qtelbl      1             Logical from blank
+1326   sd08qtelbl      2   Logical from valid non-blank
+1327   sd08qtelbl      3 Logical from invalid non-blank
+1328   sd08qtelbl      4          Imputation from blank
+1329   sd08qtelbl      5 Imputation from valid non-blan
+1330   sd08qtelbl      6 Imputation from invalid non-bl
+1331 sd08qothcrop      0                  No imputation
+1332 sd08qothcrop      1             Logical from blank
+1333 sd08qothcrop      2   Logical from valid non-blank
+1334 sd08qothcrop      3 Logical from invalid non-blank
+1335 sd08qothcrop      4          Imputation from blank
+1336 sd08qothcrop      5 Imputation from valid non-blan
+1337 sd08qothcrop      6 Imputation from invalid non-bl
+1338 sd08qlandown      0                  No imputation
+1339 sd08qlandown      1             Logical from blank
+1340 sd08qlandown      2   Logical from valid non-blank
+1341 sd08qlandown      3 Logical from invalid non-blank
+1342 sd08qlandown      4          Imputation from blank
+1343 sd08qlandown      5 Imputation from valid non-blan
+1344 sd08qlandown      6 Imputation from invalid non-bl
+1345 sd08qfishery      0                  No imputation
+1346 sd08qfishery      1             Logical from blank
+1347 sd08qfishery      2   Logical from valid non-blank
+1348 sd08qfishery      3 Logical from invalid non-blank
+1349 sd08qfishery      4          Imputation from blank
+1350 sd08qfishery      5 Imputation from valid non-blan
+1351 sd08qfishery      6 Imputation from invalid non-bl
+1352  sd08qcattle      0                  No imputation
+1353  sd08qcattle      1             Logical from blank
+1354  sd08qcattle      2   Logical from valid non-blank
+1355  sd08qcattle      3 Logical from invalid non-blank
+1356  sd08qcattle      4          Imputation from blank
+1357  sd08qcattle      5 Imputation from valid non-blan
+1358  sd08qcattle      6 Imputation from invalid non-bl
+1359  sd08qcamels      0                  No imputation
+1360  sd08qcamels      1             Logical from blank
+1361  sd08qcamels      2   Logical from valid non-blank
+1362  sd08qcamels      3 Logical from invalid non-blank
+1363  sd08qcamels      4          Imputation from blank
+1364  sd08qcamels      5 Imputation from valid non-blan
+1365  sd08qcamels      6 Imputation from invalid non-bl
+1366   sd08qsheep      0                  No imputation
+1367   sd08qsheep      1             Logical from blank
+1368   sd08qsheep      2   Logical from valid non-blank
+1369   sd08qsheep      3 Logical from invalid non-blank
+1370   sd08qsheep      4          Imputation from blank
+1371   sd08qsheep      5 Imputation from valid non-blan
+1372   sd08qsheep      6 Imputation from invalid non-bl
+1373   sd08qgoats      0                  No imputation
+1374   sd08qgoats      1             Logical from blank
+1375   sd08qgoats      2   Logical from valid non-blank
+1376   sd08qgoats      3 Logical from invalid non-blank
+1377   sd08qgoats      4          Imputation from blank
+1378   sd08qgoats      5 Imputation from valid non-blan
+1379   sd08qgoats      6 Imputation from invalid non-bl
+1380  sd08qhorses      0                  No imputation
+1381  sd08qhorses      1             Logical from blank
+1382  sd08qhorses      2   Logical from valid non-blank
+1383  sd08qhorses      3 Logical from invalid non-blank
+1384  sd08qhorses      4          Imputation from blank
+1385  sd08qhorses      5 Imputation from valid non-blan
+1386  sd08qhorses      6 Imputation from invalid non-bl
+1387    sd08qpigs      0                  No imputation
+1388    sd08qpigs      1             Logical from blank
+1389    sd08qpigs      2   Logical from valid non-blank
+1390    sd08qpigs      3 Logical from invalid non-blank
+1391    sd08qpigs      4          Imputation from blank
+1392    sd08qpigs      5 Imputation from valid non-blan
+1393    sd08qpigs      6 Imputation from invalid non-bl
+1394 sd08qpoultry      0                  No imputation
+1395 sd08qpoultry      1             Logical from blank
+1396 sd08qpoultry      2   Logical from valid non-blank
+1397 sd08qpoultry      3 Logical from invalid non-blank
+1398 sd08qpoultry      4          Imputation from blank
+1399 sd08qpoultry      5 Imputation from valid non-blan
+1400 sd08qpoultry      6 Imputation from invalid non-bl
+1401  sd08qdeaths      0                  No imputation
+1402  sd08qdeaths      1             Logical from blank
+1403  sd08qdeaths      2   Logical from valid non-blank
+1404  sd08qdeaths      3 Logical from invalid non-blank
+1405  sd08qdeaths      4          Imputation from blank
+1406  sd08qdeaths      5 Imputation from valid non-blan
+1407  sd08qdeaths      6 Imputation from invalid non-bl
+1408     sd08hhwt  10035                          10035
+1409     sd08hhwt  10040                          10040
+1410     sd08hhwt  10056                          10056
+1411     sd08hhwt  10082                          10082
+1412     sd08hhwt  10093                          10093
+1413     sd08hhwt  10096                          10096
+1414     sd08hhwt  10150                          10150
+1415     sd08hhwt  10175                          10175
+1416     sd08hhwt  10186                          10186
+1417     sd08hhwt  10218                          10218
+1418     sd08hhwt  10223                          10223
+1419     sd08hhwt  10336                          10336
+1420     sd08hhwt  10400                          10400
+1421     sd08hhwt  48113                          48113
+1422     sd08hhwt  86388                          86388
+1423     sd08hhwt  96343                          96343
+1424     sd08hhwt  96774                          96774
+1425     sd08hhwt  97151                          97151
+1426     sd08hhwt 102072                         102072
+1427     sd08hhwt 102622                         102622
+1428     sd08hhwt 103453                         103453
+1429     sd08hhwt 103648                         103648
+1430     sd08hhwt 103874                         103874
+1431     sd08hhwt 104276                         104276
+1432     sd08hhwt 105259                         105259
+1433     sd08hhwt 106067                         106067
+1434     sd08hhwt 106491                         106491
+1435     sd08hhwt 106532                         106532
+1436     sd08hhwt 111205                         111205
+1437     sd08hhwt 112224                         112224
+1438     sd08hhwt 112292                         112292
+1439     sd08hhwt 115260                         115260
+1440     sd08hhwt 117254                         117254
+1441     sd08hhwt 117562                         117562
+1442     sd08hhwt 120003                         120003
+1443     sd08hhwt 121403                         121403
+1444     sd08hhwt 126326                         126326
+1445     sd08hhwt 127875                         127875
+1446     sd08hhwt 135093                         135093
+1447     sd08hhwt 156526                         156526
+1448     sd08hhwt 162625                         162625
+1449     sd08hhwt 162873                         162873
+1450     sd08hhwt 247198                         247198
+1451     sd08hhwt 297162                         297162
+1452  sd08ndeaths      0                              0
+1453  sd08ndeaths      1                              1
+1454  sd08ndeaths      2                              2
+1455  sd08ndeaths      3                              3
+1456  sd08ndeaths      4                              4
+1457  sd08ndeaths      5                              5
+1458  sd08ndeaths      6                              6
+1459  sd08ndeaths      7                             7+
+1460   sd08pernum      0               Household record
+1461   sd08pernum      1                              1
+1462   sd08pernum      2                              2
+1463   sd08pernum      3                              3
+1464   sd08pernum      4                              4
+1465   sd08pernum      5                              5
+1466   sd08pernum      6                              6
+1467   sd08pernum      7                              7
+1468   sd08pernum      8                              8
+1469   sd08pernum      9                              9
+1470   sd08pernum     10                             10
+1471   sd08pernum     11                             11
+1472   sd08pernum     12                             12
+1473   sd08pernum     13                             13
+1474   sd08pernum     14                             14
+1475   sd08pernum     15                             15
+1476   sd08pernum     16                             16
+1477   sd08pernum     17                             17
+1478   sd08pernum     18                             18
+1479   sd08pernum     19                             19
+1480   sd08pernum     20                             20
+1481   sd08pernum     21                             21
+1482   sd08pernum     22                             22
+1483   sd08pernum     23                             23
+1484   sd08pernum     24                             24
+1485   sd08pernum     25                             25
+1486   sd08pernum     26                             26
+1487   sd08pernum     27                             27
+1488   sd08pernum     28                             28
+1489   sd08pernum     29                             29
+1490   sd08pernum     30                             30
+1491   sd08pernum     31                             31
+1492   sd08pernum     32                             32
+1493   sd08pernum     33                             33
+1494   sd08pernum     34                             34
+1495   sd08pernum     35                             35
+1496   sd08pernum     36                             36
+1497   sd08pernum     37                             37
+1498   sd08pernum     38                             38
+1499   sd08pernum     39                             39
+1500   sd08pernum     40                             40
+1501   sd08pernum     41                             41
+1502   sd08pernum     42                             42
+1503   sd08pernum     43                             43
+1504   sd08pernum     44                             44
+1505   sd08pernum     45                             45
+1506   sd08pernum     46                             46
+1507   sd08pernum     47                             47
+1508   sd08pernum     48                             48
+1509   sd08pernum     49                             49
+1510   sd08pernum     50                             50
+1511   sd08relate      1                           Head
+1512   sd08relate      2                         Spouse
+1513   sd08relate      3                   Daughter/son
+1514   sd08relate      4         Spouse of son/daughter
+1515   sd08relate      5                     Grandchild
+1516   sd08relate      6                   Niece/nephew
+1517   sd08relate      7           Parent/parent in-law
+1518   sd08relate      8         Sibling/sibling-in-law
+1519   sd08relate      9                 Other relative
+1520   sd08relate     10                   Non-relative
+1521      sd08sex      1                           Male
+1522      sd08sex      2                         Female
+1523      sd08age      0          Less than 1 years old
+1524      sd08age      1                              1
+1525      sd08age      2                              2
+1526      sd08age      3                              3
+1527      sd08age      4                              4
+1528      sd08age      5                              5
+1529      sd08age      6                              6
+1530      sd08age      7                              7
+1531      sd08age      8                              8
+1532      sd08age      9                              9
+1533      sd08age     10                             10
+1534      sd08age     11                             11
+1535      sd08age     12                             12
+1536      sd08age     13                             13
+1537      sd08age     14                             14
+1538      sd08age     15                             15
+1539      sd08age     16                             16
+1540      sd08age     17                             17
+1541      sd08age     18                             18
+1542      sd08age     19                             19
+1543      sd08age     20                             20
+1544      sd08age     21                             21
+1545      sd08age     22                             22
+1546      sd08age     23                             23
+1547      sd08age     24                             24
+1548      sd08age     25                             25
+1549      sd08age     26                             26
+1550      sd08age     27                             27
+1551      sd08age     28                             28
+1552      sd08age     29                             29
+1553      sd08age     30                             30
+1554      sd08age     31                             31
+1555      sd08age     32                             32
+1556      sd08age     33                             33
+1557      sd08age     34                             34
+1558      sd08age     35                             35
+1559      sd08age     36                             36
+1560      sd08age     37                             37
+1561      sd08age     38                             38
+1562      sd08age     39                             39
+1563      sd08age     40                             40
+1564      sd08age     41                             41
+1565      sd08age     42                             42
+1566      sd08age     43                             43
+1567      sd08age     44                             44
+1568      sd08age     45                             45
+1569      sd08age     46                             46
+1570      sd08age     47                             47
+1571      sd08age     48                             48
+1572      sd08age     49                             49
+1573      sd08age     50                             50
+1574      sd08age     51                             51
+1575      sd08age     52                             52
+1576      sd08age     53                             53
+1577      sd08age     54                             54
+1578      sd08age     55                             55
+1579      sd08age     56                             56
+1580      sd08age     57                             57
+1581      sd08age     58                             58
+1582      sd08age     59                             59
+1583      sd08age     60                             60
+1584      sd08age     61                             61
+1585      sd08age     62                             62
+1586      sd08age     63                             63
+1587      sd08age     64                             64
+1588      sd08age     65                             65
+1589      sd08age     66                             66
+1590      sd08age     67                             67
+1591      sd08age     68                             68
+1592      sd08age     69                             69
+1593      sd08age     70                             70
+1594      sd08age     71                             71
+1595      sd08age     72                             72
+1596      sd08age     73                             73
+1597      sd08age     74                             74
+1598      sd08age     75                             75
+1599      sd08age     76                             76
+1600      sd08age     77                             77
+1601      sd08age     78                             78
+1602      sd08age     79                             79
+1603      sd08age     80                             80
+1604      sd08age     81                             81
+1605      sd08age     82                             82
+1606      sd08age     83                             83
+1607      sd08age     84                             84
+1608      sd08age     85                             85
+1609      sd08age     86                             86
+1610      sd08age     87                             87
+1611      sd08age     88                             88
+1612      sd08age     89                             89
+1613      sd08age     90                             90
+1614      sd08age     91                             91
+1615      sd08age     92                             92
+1616      sd08age     93                             93
+1617      sd08age     94                             94
+1618      sd08age     95             95 years and above
+1619   sd08nation      1                       Sudanese
+1620   sd08nation      2                       Egyptian
+1621   sd08nation      3                         Libyan
+1622   sd08nation      4                       Eritrean
+1623   sd08nation      5                      Ethiopian
+1624   sd08nation      6                        Ugandan
+1625   sd08nation      7                         Kenyan
+1626   sd08nation      8                Congolese - DRC
+1627   sd08nation      9                        Chadian
+1628   sd08nation     10                Central African
+1629   sd08nation     11                       Nigerian
+1630   sd08nation     12                         Malian
+1631   sd08nation     13                        Chinese
+1632   sd08nation     14                         Indian
+1633   sd08nation     15                Other countries
+1634 sd08reggroup      1              Northern Sudanese
+1635 sd08reggroup      2              Southern Sudanese
+1636 sd08reggroup      3                   Non-Sudanese
+1637 sd08orregion      1                       Northern
+1638 sd08orregion      2                        Eastern
+1639 sd08orregion      3                       Khartoum
+1640 sd08orregion      4                        Central
+1641 sd08orregion      5                       Kordofan
+1642 sd08orregion      6                         Darfur
+1643 sd08orregion      7                     Upper Nile
+1644 sd08orregion      8                 Bahr El Ghazal
+1645 sd08orregion      9                      Equatoria
+1646 sd08orregion     10                      Not Sudan
+1647 sd08orregion     11                        Unknown
+1648 sd08bplstate     11                       Northern
+1649 sd08bplstate     12                    Nahr El Nil
+1650 sd08bplstate     21                        Red Sea
+1651 sd08bplstate     22                        Kassala
+1652 sd08bplstate     23                     Al Gedarif
+1653 sd08bplstate     31                       Khartoum
+1654 sd08bplstate     41                      Al Gezira
+1655 sd08bplstate     42                     White Nile
+1656 sd08bplstate     43                         Sinnar
+1657 sd08bplstate     44                      Blue Nile
+1658 sd08bplstate     51                 North Kordofan
+1659 sd08bplstate     52                 South Kordofan
+1660 sd08bplstate     61                   North Darfur
+1661 sd08bplstate     62                    West Darfur
+1662 sd08bplstate     63                   South Darfur
+1663 sd08bplstate     71                     Upper Nile
+1664 sd08bplstate     72                        Jonglei
+1665 sd08bplstate     73                          Unity
+1666 sd08bplstate     81                         Warrap
+1667 sd08bplstate     82        Northern Bahr El Ghazal
+1668 sd08bplstate     83         Western Bahr El Ghazal
+1669 sd08bplstate     84                          Lakes
+1670 sd08bplstate     91              Western Equatoria
+1671 sd08bplstate     92              Central Equatoria
+1672 sd08bplstate     93              Eastern Equatoria
+1673 sd08bplstate     99                         Abroad
+1674   sd08ustate     11                       Northern
+1675   sd08ustate     12                    Nahr El Nil
+1676   sd08ustate     21                        Red Sea
+1677   sd08ustate     22                        Kassala
+1678   sd08ustate     23                     Al Gedarif
+1679   sd08ustate     31                       Khartoum
+1680   sd08ustate     41                      Al Gezira
+1681   sd08ustate     42                     White Nile
+1682   sd08ustate     43                         Sinnar
+1683   sd08ustate     44                      Blue Nile
+1684   sd08ustate     51                 North Kordofan
+1685   sd08ustate     52                 South Kordofan
+1686   sd08ustate     61                   North Darfur
+1687   sd08ustate     62                    West Darfur
+1688   sd08ustate     63                   South Darfur
+1689   sd08ustate     71                     Upper Nile
+1690   sd08ustate     72                        Jonglei
+1691   sd08ustate     73                          Unity
+1692   sd08ustate     81                         Warrap
+1693   sd08ustate     82        Northern Bahr El Ghazal
+1694   sd08ustate     83         Western Bahr El Ghazal
+1695   sd08ustate     84                          Lakes
+1696   sd08ustate     91              Western Equatoria
+1697   sd08ustate     92              Central Equatoria
+1698   sd08ustate     93              Eastern Equatoria
+1699   sd08ustate     99                         Abroad
+1700   sd08durres      0                              0
+1701   sd08durres      1                              1
+1702   sd08durres      2                              2
+1703   sd08durres      3                              3
+1704   sd08durres      4                              4
+1705   sd08durres      5                              5
+1706   sd08durres      6                              6
+1707   sd08durres      7                              7
+1708   sd08durres      8                              8
+1709   sd08durres      9                              9
+1710   sd08durres     10                             10
+1711   sd08durres     11                             11
+1712   sd08durres     12                             12
+1713   sd08durres     13                             13
+1714   sd08durres     14                             14
+1715   sd08durres     15                             15
+1716   sd08durres     16                             16
+1717   sd08durres     17                             17
+1718   sd08durres     18                             18
+1719   sd08durres     19                             19
+1720   sd08durres     20                             20
+1721   sd08durres     21                             21
+1722   sd08durres     22                             22
+1723   sd08durres     23                             23
+1724   sd08durres     24                             24
+1725   sd08durres     25                             25
+1726   sd08durres     26                             26
+1727   sd08durres     27                             27
+1728   sd08durres     28                             28
+1729   sd08durres     29                             29
+1730   sd08durres     30                             30
+1731   sd08durres     31                             31
+1732   sd08durres     32                             32
+1733   sd08durres     33                             33
+1734   sd08durres     34                             34
+1735   sd08durres     35                             35
+1736   sd08durres     36                             36
+1737   sd08durres     37                             37
+1738   sd08durres     38                             38
+1739   sd08durres     39                             39
+1740   sd08durres     40                             40
+1741   sd08durres     41                             41
+1742   sd08durres     42                             42
+1743   sd08durres     43                             43
+1744   sd08durres     44                             44
+1745   sd08durres     45                             45
+1746   sd08durres     46                             46
+1747   sd08durres     47                             47
+1748   sd08durres     48                             48
+1749   sd08durres     49                             49
+1750   sd08durres     50                             50
+1751   sd08durres     51                             51
+1752   sd08durres     52                             52
+1753   sd08durres     53                             53
+1754   sd08durres     54                             54
+1755   sd08durres     55                             55
+1756   sd08durres     56                             56
+1757   sd08durres     57                             57
+1758   sd08durres     58                             58
+1759   sd08durres     59                             59
+1760   sd08durres     60                             60
+1761   sd08durres     61                             61
+1762   sd08durres     62                             62
+1763   sd08durres     63                             63
+1764   sd08durres     64                             64
+1765   sd08durres     65                             65
+1766   sd08durres     66                             66
+1767   sd08durres     67                             67
+1768   sd08durres     68                             68
+1769   sd08durres     69                             69
+1770   sd08durres     70                             70
+1771   sd08durres     71                             71
+1772   sd08durres     72                             72
+1773   sd08durres     73                             73
+1774   sd08durres     74                             74
+1775   sd08durres     75                             75
+1776   sd08durres     76                             76
+1777   sd08durres     77                             77
+1778   sd08durres     78                             78
+1779   sd08durres     79                             79
+1780   sd08durres     80                             80
+1781   sd08durres     81                             81
+1782   sd08durres     82                             82
+1783   sd08durres     83                             83
+1784   sd08durres     84                             84
+1785   sd08durres     85                             85
+1786   sd08durres     86                             86
+1787   sd08durres     87                             87
+1788   sd08durres     88                             88
+1789   sd08durres     89                             89
+1790   sd08durres     90                             90
+1791   sd08durres     91                             91
+1792   sd08durres     92                             92
+1793   sd08durres     93                             93
+1794   sd08durres     94                             94
+1795   sd08durres     95            95 years and beyond
+1796   sd08durres     99                        Unknown
+1797 sd08migstate     11                       Northern
+1798 sd08migstate     12                    Nahr El Nil
+1799 sd08migstate     21                        Red Sea
+1800 sd08migstate     22                        Kassala
+1801 sd08migstate     23                     Al Gedarif
+1802 sd08migstate     31                       Khartoum
+1803 sd08migstate     41                      Al Gezira
+1804 sd08migstate     42                     White Nile
+1805 sd08migstate     43                         Sinnar
+1806 sd08migstate     44                      Blue Nile
+1807 sd08migstate     51                 North Kordofan
+1808 sd08migstate     52                 South Kordofan
+1809 sd08migstate     61                   North Darfur
+1810 sd08migstate     62                    West Darfur
+1811 sd08migstate     63                   South Darfur
+1812 sd08migstate     71                     Upper Nile
+1813 sd08migstate     72                        Jonglei
+1814 sd08migstate     73                          Unity
+1815 sd08migstate     81                         Warrap
+1816 sd08migstate     82        Northern Bahr El Ghazal
+1817 sd08migstate     83         Western Bahr El Ghazal
+1818 sd08migstate     84                          Lakes
+1819 sd08migstate     91              Western Equatoria
+1820 sd08migstate     92              Central Equatoria
+1821 sd08migstate     93              Eastern Equatoria
+1822 sd08migstate     98                         Abroad
+1823 sd08fathlive      1                   Father alive
+1824 sd08fathlive      2                    Father dead
+1825   sd08limleg      1                            Yes
+1826   sd08limleg      2                             No
+1827   sd08limarm      1                            Yes
+1828   sd08limarm      2                             No
+1829  sd08lossarm      1                            Yes
+1830  sd08lossarm      2                             No
+1831 sd08diffhear      1                            Yes
+1832 sd08diffhear      2                             No
+1833     sd08deaf      1                            Yes
+1834     sd08deaf      2                             No
+1835  sd08diffsee      1                            Yes
+1836  sd08diffsee      2                             No
+1837    sd08blind      1                            Yes
+1838    sd08blind      2                             No
+1839  sd08diffspk      1                            Yes
+1840  sd08diffspk      2                             No
+1841     sd08mute      1                            Yes
+1842     sd08mute      2                             No
+1843 sd08diffment      1                            Yes
+1844 sd08diffment      2                             No
+1845    sd08disab      1                  No disability
+1846    sd08disab      2                Have disability
+1847   sd08school      1            Currently attending
+1848   sd08school      2            Previously attended
+1849   sd08school      3                 Never attended
+1850   sd08school      9                            NIU
+1851   sd08attend      1                             P1
+1852   sd08attend      2                             P2
+1853   sd08attend      3                             P3
+1854   sd08attend      4                             P4
+1855   sd08attend      5                             P5
+1856   sd08attend      6                             P6
+1857   sd08attend      7                             P7
+1858   sd08attend      8                             P8
+1859   sd08attend      9                             S1
+1860   sd08attend     10                             S2
+1861   sd08attend     11                             S3
+1862   sd08attend     12                             S4
+1863   sd08attend     13                             S5
+1864   sd08attend     14                             S6
+1865   sd08attend     15 Post secondary/diploma program
+1866   sd08attend     16                        College
+1867   sd08attend     17                     University
+1868   sd08attend     18                Masters program
+1869   sd08attend     19                    PhD program
+1870   sd08attend     98                        Unknown
+1871   sd08attend     99                            NIU
+1872 sd08edattain      1               No qualification
+1873 sd08edattain      2             Incomplete primary
+1874 sd08edattain      3                      Primary 4
+1875 sd08edattain      4                      Primary 6
+1876 sd08edattain      5                      Primary 8
+1877 sd08edattain      6                       Junior 3
+1878 sd08edattain      7                       Junior 4
+1879 sd08edattain      8                    Secondary 3
+1880 sd08edattain      9                    Secondary 4
+1881 sd08edattain     10                    Secondary 5
+1882 sd08edattain     11                    Secondary 6
+1883 sd08edattain     12         Post-secondary diploma
+1884 sd08edattain     13        University first degree
+1885 sd08edattain     14          Post-graduate diploma
+1886 sd08edattain     15                 Masters degree
+1887 sd08edattain     16                     PhD degree
+1888 sd08edattain     17                         Khalwa
+1889 sd08edattain     98                        Unknown
+1890 sd08edattain     99                            NIU
+1891  sd08empstat      1               Worked last week
+1892  sd08empstat      2      Temporarily away from job
+1893  sd08empstat      3 Worked before and seeking work
+1894  sd08empstat      4          First time job seeker
+1895  sd08empstat      5    Not working or seeking work
+1896  sd08empstat      9                            NIU
+1897   sd08reason      1            No hope to find job
+1898   sd08reason      2              Full-time student
+1899   sd08reason      3               Income recipient
+1900   sd08reason      4                        Too old
+1901   sd08reason      5              Disabled/too sick
+1902   sd08reason      6            Full-time homemaker
+1903   sd08reason      7              Pensioner/retired
+1904   sd08reason      8                        Unknown
+1905   sd08reason      9                            NIU
+1906      sd08occ      1 Commissioned armed forces offi
+1907      sd08occ      2 Non-commissioned armed forces 
+1908      sd08occ      3 Armed forces occupations, othe
+1909      sd08occ     11 Chief executives senior offici
+1910      sd08occ     12 Administrative and commercial 
+1911      sd08occ     13 Production and specialized ser
+1912      sd08occ     14 Hospitality, retail and other 
+1913      sd08occ     21 Science and engineering profes
+1914      sd08occ     22           Health professionals
+1915      sd08occ     23         Teaching professionals
+1916      sd08occ     24 Business and administration pr
+1917      sd08occ     25 Information and communications
+1918      sd08occ     26 Legal, social and cultural pro
+1919      sd08occ     31 Science and engineering associ
+1920      sd08occ     32 Health associate professionals
+1921      sd08occ     33 Business and administration as
+1922      sd08occ     34 Legal, social, cultural and re
+1923      sd08occ     35 Information and communications
+1924      sd08occ     41    General and keyboard clerks
+1925      sd08occ     42       Customer services clerks
+1926      sd08occ     43 Numerical and material recordi
+1927      sd08occ     44 Other clerical support workers
+1928      sd08occ     51       Personal service workers
+1929      sd08occ     52                  Sales workers
+1930      sd08occ     54    Protective services workers
+1931      sd08occ     61 Market-oriented skilled agricu
+1932      sd08occ     62 Market-oriented skilled forest
+1933      sd08occ     63 Subsistence farmers, fishers, 
+1934      sd08occ     71 Building and related trades wo
+1935      sd08occ     72 Metal, machinery and related t
+1936      sd08occ     73 Handicraft and printing worker
+1937      sd08occ     74 Electrical and electronic trad
+1938      sd08occ     75 Food processing, wood working,
+1939      sd08occ     81 Stationary plant and machine o
+1940      sd08occ     83 Drivers and mobile plant opera
+1941      sd08occ     91           Cleaners and helpers
+1942      sd08occ     92 Agricultural, forestry and fis
+1943      sd08occ     93 Labourers in mining, construct
+1944      sd08occ     94    Food preparation assistants
+1945      sd08occ     95 Street and related sales and s
+1946      sd08occ     96 Refuse workers and other eleme
+1947      sd08occ     90 Other occupation, response sup
+1948      sd08occ     98                        Unknown
+1949      sd08occ     99                            NIU
+1950    sd08marst      1                  Never married
+1951    sd08marst      2                        Married
+1952    sd08marst      3                        Widowed
+1953    sd08marst      4                       Divorced
+1954    sd08marst      9                            NIU
+1955  sd08chbornf      0                              0
+1956  sd08chbornf      1                              1
+1957  sd08chbornf      2                              2
+1958  sd08chbornf      3                              3
+1959  sd08chbornf      4                              4
+1960  sd08chbornf      5                              5
+1961  sd08chbornf      6                              6
+1962  sd08chbornf      7                              7
+1963  sd08chbornf      8                              8
+1964  sd08chbornf      9                              9
+1965  sd08chbornf     10                             10
+1966  sd08chbornf     11                             11
+1967  sd08chbornf     12                             12
+1968  sd08chbornf     13                             13
+1969  sd08chbornf     14                            14+
+1970  sd08chbornf     99                            NIU
+1971  sd08homemal      0                              0
+1972  sd08homemal      1                              1
+1973  sd08homemal      2                              2
+1974  sd08homemal      3                              3
+1975  sd08homemal      4                              4
+1976  sd08homemal      5                              5
+1977  sd08homemal      6                              6
+1978  sd08homemal      7                              7
+1979  sd08homemal      8                              8
+1980  sd08homemal      9                              9
+1981  sd08homemal     10                             10
+1982  sd08homemal     11                             11
+1983  sd08homemal     12                            12+
+1984  sd08homemal     99                            NIU
+1985  sd08homefem      0                              0
+1986  sd08homefem      1                              1
+1987  sd08homefem      2                              2
+1988  sd08homefem      3                              3
+1989  sd08homefem      4                              4
+1990  sd08homefem      5                              5
+1991  sd08homefem      6                              6
+1992  sd08homefem      7                              7
+1993  sd08homefem      8                              8
+1994  sd08homefem      9                              9
+1995  sd08homefem     10                            10+
+1996  sd08homefem     99                            NIU
+1997  sd08awaymal      0                              0
+1998  sd08awaymal      1                              1
+1999  sd08awaymal      2                              2
+2000  sd08awaymal      3                              3
+2001  sd08awaymal      4                              4
+2002  sd08awaymal      5                              5
+2003  sd08awaymal      6                              6
+2004  sd08awaymal      7                              7
+2005  sd08awaymal      8                              8
+2006  sd08awaymal      9                              9
+2007  sd08awaymal     10                            10+
+2008  sd08awaymal     99                            NIU
+2009  sd08awayfem      0                              0
+2010  sd08awayfem      1                              1
+2011  sd08awayfem      2                              2
+2012  sd08awayfem      3                              3
+2013  sd08awayfem      4                              4
+2014  sd08awayfem      5                              5
+2015  sd08awayfem      6                              6
+2016  sd08awayfem      7                              7
+2017  sd08awayfem      8                              8
+2018  sd08awayfem      9                              9
+2019  sd08awayfem     10                            10+
+2020  sd08awayfem     99                            NIU
+2021  sd08deadmal      0                              0
+2022  sd08deadmal      1                              1
+2023  sd08deadmal      2                              2
+2024  sd08deadmal      3                              3
+2025  sd08deadmal      4                              4
+2026  sd08deadmal      5                              5
+2027  sd08deadmal      6                              6
+2028  sd08deadmal      7                              7
+2029  sd08deadmal      8                              8
+2030  sd08deadmal      9                              9
+2031  sd08deadmal     10                            10+
+2032  sd08deadmal     99                            NIU
+2033  sd08deadfem      0                              0
+2034  sd08deadfem      1                              1
+2035  sd08deadfem      2                              2
+2036  sd08deadfem      3                              3
+2037  sd08deadfem      4                              4
+2038  sd08deadfem      5                              5
+2039  sd08deadfem      6                              6
+2040  sd08deadfem      7                              7
+2041  sd08deadfem      8                              8
+2042  sd08deadfem      9                              9
+2043  sd08deadfem     10                            10+
+2044  sd08deadfem     99                            NIU
+2045   sd08births      1                            Yes
+2046   sd08births      2                             No
+2047   sd08births      8                        Unknown
+2048   sd08births      9                            NIU
+2049  sd08birthsm      0                              0
+2050  sd08birthsm      1                              1
+2051  sd08birthsm      2                              2
+2052  sd08birthsm      8                        Unknown
+2053  sd08birthsm      9                            NIU
+2054  sd08birthsf      0                              0
+2055  sd08birthsf      1                              1
+2056  sd08birthsf      2                              2
+2057  sd08birthsf      8                        Unknown
+2058  sd08birthsf      9                            NIU
+2059  sd08livbthm      0                              0
+2060  sd08livbthm      1                              1
+2061  sd08livbthm      2                              2
+2062  sd08livbthm      8                        Unknown
+2063  sd08livbthm      9                            NIU
+2064  sd08livbthf      0                              0
+2065  sd08livbthf      1                              1
+2066  sd08livbthf      2                              2
+2067  sd08livbthf      8                        Unknown
+2068  sd08livbthf      9                            NIU
+2069     sd08qage      0                  No imputation
+2070     sd08qage      1             Logical from blank
+2071     sd08qage      2   Logical from valid non-blank
+2072     sd08qage      3 Logical from invalid non-blank
+2073     sd08qage      4          Imputation from blank
+2074     sd08qage      5 Imputation from valid non-blan
+2075     sd08qage      6 Imputation from invalid non-bl
+2076  sd08qreggrp      0                  No imputation
+2077  sd08qreggrp      1             Logical from blank
+2078  sd08qreggrp      2   Logical from valid non-blank
+2079  sd08qreggrp      3 Logical from invalid non-blank
+2080  sd08qreggrp      4          Imputation from blank
+2081  sd08qreggrp      5 Imputation from valid non-blan
+2082  sd08qreggrp      6 Imputation from invalid non-bl
+2083   sd08qorreg      0                  No imputation
+2084   sd08qorreg      1             Logical from blank
+2085   sd08qorreg      2   Logical from valid non-blank
+2086   sd08qorreg      3 Logical from invalid non-blank
+2087   sd08qorreg      4          Imputation from blank
+2088   sd08qorreg      5 Imputation from valid non-blan
+2089   sd08qorreg      6 Imputation from invalid non-bl
+2090 sd08qbplstat      0                  No imputation
+2091 sd08qbplstat      1             Logical from blank
+2092 sd08qbplstat      2   Logical from valid non-blank
+2093 sd08qbplstat      3 Logical from invalid non-blank
+2094 sd08qbplstat      4          Imputation from blank
+2095 sd08qbplstat      5 Imputation from valid non-blan
+2096 sd08qbplstat      6 Imputation from invalid non-bl
+2097  sd08qustate      0                  No imputation
+2098  sd08qustate      1             Logical from blank
+2099  sd08qustate      2   Logical from valid non-blank
+2100  sd08qustate      3 Logical from invalid non-blank
+2101  sd08qustate      4          Imputation from blank
+2102  sd08qustate      5 Imputation from valid non-blan
+2103  sd08qustate      6 Imputation from invalid non-bl
+2104  sd08qdurres      0                  No imputation
+2105  sd08qdurres      1             Logical from blank
+2106  sd08qdurres      2   Logical from valid non-blank
+2107  sd08qdurres      3 Logical from invalid non-blank
+2108  sd08qdurres      4          Imputation from blank
+2109  sd08qdurres      5 Imputation from valid non-blan
+2110  sd08qdurres      6 Imputation from invalid non-bl
+2111 sd08qmigstat      0                  No imputation
+2112 sd08qmigstat      1             Logical from blank
+2113 sd08qmigstat      2   Logical from valid non-blank
+2114 sd08qmigstat      3 Logical from invalid non-blank
+2115 sd08qmigstat      4          Imputation from blank
+2116 sd08qmigstat      5 Imputation from valid non-blan
+2117 sd08qmigstat      6 Imputation from invalid non-bl
+2118 sd08qmothliv      0                  No imputation
+2119 sd08qmothliv      1             Logical from blank
+2120 sd08qmothliv      2   Logical from valid non-blank
+2121 sd08qmothliv      3 Logical from invalid non-blank
+2122 sd08qmothliv      4          Imputation from blank
+2123 sd08qmothliv      5 Imputation from valid non-blan
+2124 sd08qmothliv      6 Imputation from invalid non-bl
+2125 sd08qfathliv      0                  No imputation
+2126 sd08qfathliv      1             Logical from blank
+2127 sd08qfathliv      2   Logical from valid non-blank
+2128 sd08qfathliv      3 Logical from invalid non-blank
+2129 sd08qfathliv      4          Imputation from blank
+2130 sd08qfathliv      5 Imputation from valid non-blan
+2131 sd08qfathliv      6 Imputation from invalid non-bl
+2132 sd08qlossleg      0                  No imputation
+2133 sd08qlossleg      1             Logical from blank
+2134 sd08qlossleg      2   Logical from valid non-blank
+2135 sd08qlossleg      3 Logical from invalid non-blank
+2136 sd08qlossleg      4          Imputation from blank
+2137 sd08qlossleg      5 Imputation from valid non-blan
+2138 sd08qlossleg      6 Imputation from invalid non-bl
+2139 sd08qlossarm      0                  No imputation
+2140 sd08qlossarm      1             Logical from blank
+2141 sd08qlossarm      2   Logical from valid non-blank
+2142 sd08qlossarm      3 Logical from invalid non-blank
+2143 sd08qlossarm      4          Imputation from blank
+2144 sd08qlossarm      5 Imputation from valid non-blan
+2145 sd08qlossarm      6 Imputation from invalid non-bl
+2146    sd08qdeaf      0                  No imputation
+2147    sd08qdeaf      1             Logical from blank
+2148    sd08qdeaf      2   Logical from valid non-blank
+2149    sd08qdeaf      3 Logical from invalid non-blank
+2150    sd08qdeaf      4          Imputation from blank
+2151    sd08qdeaf      5 Imputation from valid non-blan
+2152    sd08qdeaf      6 Imputation from invalid non-bl
+2153   sd08qblind      0                  No imputation
+2154   sd08qblind      1             Logical from blank
+2155   sd08qblind      2   Logical from valid non-blank
+2156   sd08qblind      3 Logical from invalid non-blank
+2157   sd08qblind      4          Imputation from blank
+2158   sd08qblind      5 Imputation from valid non-blan
+2159   sd08qblind      6 Imputation from invalid non-bl
+2160    sd08qmute      0                  No imputation
+2161    sd08qmute      1             Logical from blank
+2162    sd08qmute      2   Logical from valid non-blank
+2163    sd08qmute      3 Logical from invalid non-blank
+2164    sd08qmute      4          Imputation from blank
+2165    sd08qmute      5 Imputation from valid non-blan
+2166    sd08qmute      6 Imputation from invalid non-bl
+2167     sd08qlit      0                  No imputation
+2168     sd08qlit      1             Logical from blank
+2169     sd08qlit      2   Logical from valid non-blank
+2170     sd08qlit      3 Logical from invalid non-blank
+2171     sd08qlit      4          Imputation from blank
+2172     sd08qlit      5 Imputation from valid non-blan
+2173     sd08qlit      6 Imputation from invalid non-bl
+2174  sd08qattend      0                  No imputation
+2175  sd08qattend      1             Logical from blank
+2176  sd08qattend      2   Logical from valid non-blank
+2177  sd08qattend      3 Logical from invalid non-blank
+2178  sd08qattend      4          Imputation from blank
+2179  sd08qattend      5 Imputation from valid non-blan
+2180  sd08qattend      6 Imputation from invalid non-bl
+2181 sd08qedattan      0                  No imputation
+2182 sd08qedattan      1             Logical from blank
+2183 sd08qedattan      2   Logical from valid non-blank
+2184 sd08qedattan      3 Logical from invalid non-blank
+2185 sd08qedattan      4          Imputation from blank
+2186 sd08qedattan      5 Imputation from valid non-blan
+2187 sd08qedattan      6 Imputation from invalid non-bl
+2188 sd08qempstat      0                  No imputation
+2189 sd08qempstat      1             Logical from blank
+2190 sd08qempstat      2   Logical from valid non-blank
+2191 sd08qempstat      3 Logical from invalid non-blank
+2192 sd08qempstat      4          Imputation from blank
+2193 sd08qempstat      5 Imputation from valid non-blan
+2194 sd08qempstat      6 Imputation from invalid non-bl
+2195  sd08qreason      0                  No imputation
+2196  sd08qreason      1             Logical from blank
+2197  sd08qreason      2   Logical from valid non-blank
+2198  sd08qreason      3 Logical from invalid non-blank
+2199  sd08qreason      4          Imputation from blank
+2200  sd08qreason      5 Imputation from valid non-blan
+2201  sd08qreason      6 Imputation from invalid non-bl
+2202     sd08qocc      0                  No imputation
+2203     sd08qocc      1             Logical from blank
+2204     sd08qocc      2   Logical from valid non-blank
+2205     sd08qocc      3 Logical from invalid non-blank
+2206     sd08qocc      4          Imputation from blank
+2207     sd08qocc      5 Imputation from valid non-blan
+2208     sd08qocc      6 Imputation from invalid non-bl
+2209     sd08qind      0                  No imputation
+2210     sd08qind      1             Logical from blank
+2211     sd08qind      2   Logical from valid non-blank
+2212     sd08qind      3 Logical from invalid non-blank
+2213     sd08qind      4          Imputation from blank
+2214     sd08qind      5 Imputation from valid non-blan
+2215     sd08qind      6 Imputation from invalid non-bl
+2216 sd08qclasswk      0                  No imputation
+2217 sd08qclasswk      1             Logical from blank
+2218 sd08qclasswk      2   Logical from valid non-blank
+2219 sd08qclasswk      3 Logical from invalid non-blank
+2220 sd08qclasswk      4          Imputation from blank
+2221 sd08qclasswk      5 Imputation from valid non-blan
+2222 sd08qclasswk      6 Imputation from invalid non-bl
+2223   sd08qmarst      0                  No imputation
+2224   sd08qmarst      1             Logical from blank
+2225   sd08qmarst      2   Logical from valid non-blank
+2226   sd08qmarst      3 Logical from invalid non-blank
+2227   sd08qmarst      4          Imputation from blank
+2228   sd08qmarst      5 Imputation from valid non-blan
+2229   sd08qmarst      6 Imputation from invalid non-bl
+2230 sd08qagemarr      0                  No imputation
+2231 sd08qagemarr      1             Logical from blank
+2232 sd08qagemarr      2   Logical from valid non-blank
+2233 sd08qagemarr      3 Logical from invalid non-blank
+2234 sd08qagemarr      4          Imputation from blank
+2235 sd08qagemarr      5 Imputation from valid non-blan
+2236 sd08qagemarr      6 Imputation from invalid non-bl
+2237 sd08qchbornm      0                  No imputation
+2238 sd08qchbornm      1             Logical from blank
+2239 sd08qchbornm      2   Logical from valid non-blank
+2240 sd08qchbornm      3 Logical from invalid non-blank
+2241 sd08qchbornm      4          Imputation from blank
+2242 sd08qchbornm      5 Imputation from valid non-blan
+2243 sd08qchbornm      6 Imputation from invalid non-bl
+2244 sd08qchbornf      0                  No imputation
+2245 sd08qchbornf      1             Logical from blank
+2246 sd08qchbornf      2   Logical from valid non-blank
+2247 sd08qchbornf      3 Logical from invalid non-blank
+2248 sd08qchbornf      4          Imputation from blank
+2249 sd08qchbornf      5 Imputation from valid non-blan
+2250 sd08qchbornf      6 Imputation from invalid non-bl
+2251 sd08qhomemal      0                  No imputation
+2252 sd08qhomemal      1             Logical from blank
+2253 sd08qhomemal      2   Logical from valid non-blank
+2254 sd08qhomemal      3 Logical from invalid non-blank
+2255 sd08qhomemal      4          Imputation from blank
+2256 sd08qhomemal      5 Imputation from valid non-blan
+2257 sd08qhomemal      6 Imputation from invalid non-bl
+2258 sd08qawaymal      0                  No imputation
+2259 sd08qawaymal      1             Logical from blank
+2260 sd08qawaymal      2   Logical from valid non-blank
+2261 sd08qawaymal      3 Logical from invalid non-blank
+2262 sd08qawaymal      4          Imputation from blank
+2263 sd08qawaymal      5 Imputation from valid non-blan
+2264 sd08qawaymal      6 Imputation from invalid non-bl
+2265 sd08qawayfem      0                  No imputation
+2266 sd08qawayfem      1             Logical from blank
+2267 sd08qawayfem      2   Logical from valid non-blank
+2268 sd08qawayfem      3 Logical from invalid non-blank
+2269 sd08qawayfem      4          Imputation from blank
+2270 sd08qawayfem      5 Imputation from valid non-blan
+2271 sd08qawayfem      6 Imputation from invalid non-bl
+2272 sd08qdeadmal      0                  No imputation
+2273 sd08qdeadmal      1             Logical from blank
+2274 sd08qdeadmal      2   Logical from valid non-blank
+2275 sd08qdeadmal      3 Logical from invalid non-blank
+2276 sd08qdeadmal      4          Imputation from blank
+2277 sd08qdeadmal      5 Imputation from valid non-blan
+2278 sd08qdeadmal      6 Imputation from invalid non-bl
+2279 sd08qdeadfem      0                  No imputation
+2280 sd08qdeadfem      1             Logical from blank
+2281 sd08qdeadfem      2   Logical from valid non-blank
+2282 sd08qdeadfem      3 Logical from invalid non-blank
+2283 sd08qdeadfem      4          Imputation from blank
+2284 sd08qdeadfem      5 Imputation from valid non-blan
+2285 sd08qdeadfem      6 Imputation from invalid non-bl
+2286  sd08qbirths      0                  No imputation
+2287  sd08qbirths      1             Logical from blank
+2288  sd08qbirths      2   Logical from valid non-blank
+2289  sd08qbirths      3 Logical from invalid non-blank
+2290  sd08qbirths      4          Imputation from blank
+2291  sd08qbirths      5 Imputation from valid non-blan
+2292  sd08qbirths      6 Imputation from invalid non-bl
+2293 sd08qbirthsm      0                  No imputation
+2294 sd08qbirthsm      1             Logical from blank
+2295 sd08qbirthsm      2   Logical from valid non-blank
+2296 sd08qbirthsm      3 Logical from invalid non-blank
+2297 sd08qbirthsm      4          Imputation from blank
+2298 sd08qbirthsm      5 Imputation from valid non-blan
+2299 sd08qbirthsm      6 Imputation from invalid non-bl
+2300 sd08qbirthsf      0                  No imputation
+2301 sd08qbirthsf      1             Logical from blank
+2302 sd08qbirthsf      2   Logical from valid non-blank
+2303 sd08qbirthsf      3 Logical from invalid non-blank
+2304 sd08qbirthsf      4          Imputation from blank
+2305 sd08qbirthsf      5 Imputation from valid non-blan
+2306 sd08qbirthsf      6 Imputation from invalid non-bl
+2307 sd08qlivbthm      0                  No imputation
+2308 sd08qlivbthm      1             Logical from blank
+2309 sd08qlivbthm      2   Logical from valid non-blank
+2310 sd08qlivbthm      3 Logical from invalid non-blank
+2311 sd08qlivbthm      4          Imputation from blank
+2312 sd08qlivbthm      5 Imputation from valid non-blan
+2313 sd08qlivbthm      6 Imputation from invalid non-bl
+2314 sd08qlivbthf      0                  No imputation
+2315 sd08qlivbthf      1             Logical from blank
+2316 sd08qlivbthf      2   Logical from valid non-blank
+2317 sd08qlivbthf      3 Logical from invalid non-blank
+2318 sd08qlivbthf      4          Imputation from blank
+2319 sd08qlivbthf      5 Imputation from valid non-blan
+2320 sd08qlivbthf      6 Imputation from invalid non-bl
+2321   sd08chhome      0                              0
+2322   sd08chhome      1                              1
+2323   sd08chhome      2                              2
+2324   sd08chhome      3                              3
+2325   sd08chhome      4                              4
+2326   sd08chhome      5                              5
+2327   sd08chhome      6                              6
+2328   sd08chhome      7                              7
+2329   sd08chhome      8                              8
+2330   sd08chhome      9                              9
+2331   sd08chhome     10                             10
+2332   sd08chhome     11                             11
+2333   sd08chhome     12                             12
+2334   sd08chhome     13                             13
+2335   sd08chhome     14                             14
+2336   sd08chhome     15                            15+
+2337   sd08chhome     99                            NIU
+2338   sd08chaway      0                              0
+2339   sd08chaway      1                              1
+2340   sd08chaway      2                              2
+2341   sd08chaway      3                              3
+2342   sd08chaway      4                              4
+2343   sd08chaway      5                              5
+2344   sd08chaway      6                              6
+2345   sd08chaway      7                              7
+2346   sd08chaway      8                              8
+2347   sd08chaway      9                              9
+2348   sd08chaway     10                             10
+2349   sd08chaway     11                             11
+2350   sd08chaway     12                             12
+2351   sd08chaway     13                            13+
+2352   sd08chaway     99                            NIU
+2353   sd08chdead      0                              0
+2354   sd08chdead      1                              1
+2355   sd08chdead      2                              2
+2356   sd08chdead      3                              3
+2357   sd08chdead      4                              4
+2358   sd08chdead      5                              5
+2359   sd08chdead      6                              6
+2360   sd08chdead      7                              7
+2361   sd08chdead      8                              8
+2362   sd08chdead      9                              9
+2363   sd08chdead     10                             10
+2364   sd08chdead     11                             11
+2365   sd08chdead     12                            12+
+2366   sd08chdead     99                            NIU
+2367   sd08chborn      0                              0
+2368   sd08chborn      1                              1
+2369   sd08chborn      2                              2
+2370   sd08chborn      3                              3
+2371   sd08chborn      4                              4
+2372   sd08chborn      5                              5
+2373   sd08chborn      6                              6
+2374   sd08chborn      7                              7
+2375   sd08chborn      8                              8
+2376   sd08chborn      9                              9
+2377   sd08chborn     10                             10
+2378   sd08chborn     11                             11
+2379   sd08chborn     12                             12
+2380   sd08chborn     13                             13
+2381   sd08chborn     14                             14
+2382   sd08chborn     15                             15
+2383   sd08chborn     16                             16
+2384   sd08chborn     17                             17
+2385   sd08chborn     18                             18
+2386   sd08chborn     19                             19
+2387   sd08chborn     20                             20
+2388   sd08chborn     21                             21
+2389   sd08chborn     99                            NIU
+2390   sd08chsurv      0                              0
+2391   sd08chsurv      1                              1
+2392   sd08chsurv      2                              2
+2393   sd08chsurv      3                              3
+2394   sd08chsurv      4                              4
+2395   sd08chsurv      5                              5
+2396   sd08chsurv      6                              6
+2397   sd08chsurv      7                              7
+2398   sd08chsurv      8                              8
+2399   sd08chsurv      9                              9
+2400   sd08chsurv     10                             10
+2401   sd08chsurv     11                             11
+2402   sd08chsurv     12                             12
+2403   sd08chsurv     13                             13
+2404   sd08chsurv     14                             14
+2405   sd08chsurv     15                             15
+2406   sd08chsurv     16                             16
+2407   sd08chsurv     17                             17
+2408   sd08chsurv     18                            18+
+2409   sd08chsurv     99                            NIU
+2410  sd08chsurvm      0                              0
+2411  sd08chsurvm      1                              1
+2412  sd08chsurvm      2                              2
+2413  sd08chsurvm      3                              3
+2414  sd08chsurvm      4                              4
+2415  sd08chsurvm      5                              5
+2416  sd08chsurvm      6                              6
+2417  sd08chsurvm      7                              7
+2418  sd08chsurvm      8                              8
+2419  sd08chsurvm      9                              9
+2420  sd08chsurvm     10                             10
+2421  sd08chsurvm     11                             11
+2422  sd08chsurvm     12                             12
+2423  sd08chsurvm     13                             13
+2424  sd08chsurvm     14                            14+
+2425  sd08chsurvm     99                            NIU
+2426  sd08chsurvf      0                              0
+2427  sd08chsurvf      1                              1
+2428  sd08chsurvf      2                              2
+2429  sd08chsurvf      3                              3
+2430  sd08chsurvf      4                              4
+2431  sd08chsurvf      5                              5
+2432  sd08chsurvf      6                              6
+2433  sd08chsurvf      7                              7
+2434  sd08chsurvf      8                              8
+2435  sd08chsurvf      9                              9
+2436  sd08chsurvf     10                             10
+2437  sd08chsurvf     11                             11
+2438  sd08chsurvf     12                             12
+2439  sd08chsurvf     13                            13+
+2440  sd08chsurvf     99                            NIU
+2441 sd08bthlstyr      0                              0
+2442 sd08bthlstyr      1                              1
+2443 sd08bthlstyr      2                              2
+2444 sd08bthlstyr      3                              3
+2445 sd08bthlstyr      4                              4
+2446 sd08bthlstyr      8                        Unknown
+2447 sd08bthlstyr      9                            NIU
+2448 sd08srvlstyr      0                              0
+2449 sd08srvlstyr      1                              1
+2450 sd08srvlstyr      2                              2
+2451 sd08srvlstyr      3                              3
+2452 sd08srvlstyr      4                             4+
+2453 sd08srvlstyr      8                        Unknown
+2454 sd08srvlstyr      9                            NIU
+2455  sd08parlive      1     Father alive, mother alive
+2456  sd08parlive      2      Father alive, mother dead
+2457  sd08parlive      3      Father dead, mother alive
+2458  sd08parlive      4       Father dead, mother dead

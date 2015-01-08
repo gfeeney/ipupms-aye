@@ -1,0 +1,145 @@
+          vname                                                                  vdescription
+1         cntry                                                                       Country
+2          year                                                                          Year
+3        sample                                                       IPUMS sample identifier
+4        serial                                                       Household serial number
+5         dwnum                                                               Dwelling number
+6          pern                                                Number of persons in household
+7          prov                                                                      Province
+8          dist                                                                      District
+9         const                                                                  Constituency
+10       hhtype                                                               Type of housing
+11         roof                                                            Main roof material
+12         wall                                                            Main wall material
+13        floor                                                           Main floor material
+14        occup                                                              Occupancy status
+15         nohh                                                          Number of households
+16       watsup                                             Source of water for household use
+17    drinkwsup                                                      Source of drinking water
+18        rooms                                                        Number of living rooms
+19       bedrms                                                            Number of bedrooms
+20     persleep                                    Number of persons sleeping in housing unit
+21      kitchen                                                    Housing unit has a kitchen
+22      electrc                                            Main source of energy for lighting
+23       fuelck                                             Main source of energy for cooking
+24        fuelh                                             Main source of energy for heating
+25        radio                                                        Any radio in household
+26           tv                                                   Any television in household
+27       refrig                                      Any refrigerator or freezer in household
+28        phone                                                    Any telephone in household
+29         bike                                                      Any bicycle in household
+30        autos                                                Any motor vehicle in household
+31     internet                                                Internet facility in household
+32      computr                                           Any computer or laptop in household
+33       motorc                                                   Any motorcycle in household
+34       plough                                                       Any plough in household
+35         boat                                                Any boat or canoe in household
+36        scart                                                  Any scotch cart in household
+37       donkey                                                       Any donkey in household
+38       mobile                                                 Any mobile phone in household
+39         oxen                                                         Any oxen in household
+40       wheelb                                                  Any wheelbarrow in household
+41        waste                                                        Refuse disposal method
+42       toilet                                                                Type of toilet
+43    toiletins                                                    Toilet inside housing unit
+44    toiletexc                                            Toilet exclusively used by members
+45       ownshp                                    Housing unit owned by any household member
+46      ownmeth                                                   Method of acquiring housing
+47     freehous                                                         Housing provided free
+48     renthous                     Housing unit rented from employer of any household member
+49    emplrenth               Type of employer providing for free or renting the housing unit
+50     orgrenth                                     Type of organization renting housing unit
+51     agricact                           Household engaged in agriculture since October 2009
+52         corn                                                  Any maize crops in household
+53      sorghum                                                Any sorghum crops in household
+54       millet                                                 Any millet crops in household
+55         rice                                                   Any rice crops in household
+56      cassava                                                Any cassava crops in household
+57     sweetpot                                         Any sweet potatoes crops in household
+58     irishpot                                           Any Irish potato crops in household
+59       grnuts                                             Any groundnuts crops in household
+60     mixbeans                                            Any mixed beans crops in household
+61      cowpeas                                               Any cow peas crops in household
+62        wheat                                                  Any wheat crops in household
+63       cotton                                                 Any cotton crops in household
+64     burlytob                                          Any Burly tobacco crops in household
+65   virginatob                                        Any Virgina tobacco crops in household
+66      sunflow                                              Any sunflower crops in household
+67     soybeans                                             Any soya beans crops in household
+68      paprika                                                Any paprika crops in household
+69    sugarcane                                             Any sugar cane crops in household
+70       cashew                                            Any cashew nuts crops in household
+71      vegetab                                             Any vegetables crops in household
+72     orchards                                               Any orchards crops in household
+73       coffee                                                 Any coffee crops in household
+74     velvbean                                           Any velvet beans crops in household
+75      bambnut                                           Any bambara nuts crops in household
+76    pineapple                                              Any pineapple crops in household
+77     othcrops                                                      Other crops in household
+78       cattle                                                   Raising cattle in household
+79         goat                                                    Raising goats in household
+80          pig                                                     Raising pigs in household
+81        sheep                                                    Raising sheep in household
+82      donkeyr                                                  Raising donkeys in household
+83      chicken                                                 Raising chickens in household
+84   othpoultry                                            Raising other poultry in household
+85     othlivst                                          Raising other livestock in household
+86     fishfarm              Agricultural enterprise include fish farming since October, 2009
+87     gamranch             Agricultural enterprise include game ranching since October, 2009
+88      nummort                                                   Number of mortality records
+89       pernum                                                                 Person number
+90        wtper                                                                 Person weight
+91     resident                                           Residence status: de facto, de jure
+92       pernum                                              Person number (within household)
+93       mbstat                                                   Household membership status
+94       relate                                             Relationship to head of household
+95          sex                                                                           Sex
+96          age                                                                  Age in years
+97      bplctry                                                  Country or district of birth
+98      bplprov                                                             Province of birth
+99    bplregion                                    Urban or rural region at the time of birth
+100      nation                                                                   Nationality
+101     nation2                                                           Foreign Nationality
+102       stayp                                                     Purpose of stay in Zambia
+103       relig                                                                      Religion
+104        ethn                                                                     Ethnicity
+105        lang                                                          Main language spoken
+106     migprov                                              Province of residence 1 year ago
+107         mig                                   Country or district of residence 1 year ago
+108      durres                       Years living continuously in current place of residence
+109     disable                                                                Any disability
+110     distype                                                            Type of disability
+111    mothaliv                                                                  Mother alive
+112   mothlivhh                                                Mother lives in this household
+113    fathaliv                                                                  Father alive
+114   fathlivhh                                                 Father lives inthis household
+115    brthcert                                                       Has a birth certificate
+116         lit                                                                      Literacy
+117  everattend                                                          Ever attended school
+118  currattend                                                    Currently attending school
+119    higheduc                                          Highest level of education completed
+120     highvoc                    Highest professional or vocational qualification completed
+121  fieldstudy Field of study for highest professional or vocational qualification completed
+122  activ7days                                                   Activity in last seven days
+123 activ12mths                                                Activity in last twelve months
+124     classwk                                                          Status in employment
+125        occ2                                      Main occupation last 12 months, 3 digits
+126        ind2                                                            Industry, 3 digits
+127       marst                                                                Marital Status
+128     agemarr                                                         Age at first marriage
+129      chborn                                                         Ever had a live birth
+130     maleshh                              Number of male live births still living with you
+131      femshh                            Number of female live births still living with you
+132   maleselse                                   Number of male live births living elsewhere
+133    femselse                                 Number of female live births living elsewhere
+134   malesdead                                           Number of male live births now dead
+135    femsdead                                         Number of female live births now dead
+136 brths12mths                                             Any live births in last 12 months
+137  males12liv                 Number of male live births in past year still living with you
+138   fems12liv               Number of female live births in past year still living with you
+139 males12else                      Number of male live births in past year living elsewhere
+140   fem12else                    Number of female live births in past year living elsewhere
+141 males12dead                              Number of male live births in past year now dead
+142   fem12dead                            Number of female live births in past year now dead
+143     nidcard                                  Has Zambian Green National Registration Card
+144       voter                                                              Registered voter

@@ -1,0 +1,86 @@
+       vname                                                vdescription
+1      cntry                                                     Country
+2       year                                                        Year
+3     sample                                     IPUMS sample identifier
+4     serial                                     Household serial number
+5      hhnum                          Household number (within dwelling)
+6        hhn                            Number of households in dwelling
+7      pernd                               Number of persons in dwelling
+8       pern                              Number of persons in household
+9    fbig_nd     Number of persons in large dwelling before it was split
+10   fbig_nh    Number of persons in large household before it was split
+11     state                                                       State
+12     urban                                                  Urban area
+13    perndo              Number of persons in living quarters (de jure)
+14      hhno          Number of households in living quarters  (de jure)
+15    dwtype                                     Type of living quarters
+16     walls                              Construction material of walls
+17     owner                                                   Ownership
+18   bedroom                                          Number of bedrooms
+19    watsrc                                    Source of drinking water
+20     elect                                          Electricity supply
+21    toilet                                             Toilet facility
+22   garbage                                          Garbage collection
+23    hhnumo                                            Household number
+24      car1                                           Motorcar - 1 unit
+25      car2                                          Motorcar - 2 units
+26      car3                                 Motorcar - 3 units and more
+27     moto1                                         Motorcycle - 1 unit
+28     moto2                               Motorcycle - 2 units and more
+29      bike                                                     Bicycle
+30    aircon                                             Air conditioner
+31    washer                                             Washing machine
+32    refrig                                                Refrigerator
+33     micro                                                   Microwave
+34     radio                                                 Radio/hi-fi
+35        tv                                                  Television
+36     video                                               Video/VCR/DVD
+37     phone                                                  Land phone
+38    phoneh                                                Mobile phone
+39  computer                                           Personel computer
+40  internet                                       Internet subscription
+41   hasnone                 None of the items mentioned above available
+42   tenure1                                  Own present living quarter
+43   tenure2                    Own any other living quarter in Malaysia
+44    renter                                                     Renting
+45      rent                                        Monthly rent payment
+46     perno                                      Total number of people
+47    hhtype                                              Household type
+48    pernum                                               Person number
+49     wtper                                               Person weight
+50    pernum                            Person number (within household)
+51    relate                              Relationship to household head
+52       sex                                                         Sex
+53       age                                    Age (in completed years)
+54     marst                                              Marital status
+55       bpl                                            Born in Malaysia
+56      bpls                                              State of birth
+57      bplc                                            Country of birth
+58  citizen1                                                 Citizenship
+59  citizen2                           Country for non-Malaysian citizen
+60      resp                                       Residence 5 years ago
+61    respst                   State or country of residence 5 years ago
+62    respad Administrative district or country of residence 5 years ago
+63    school                                        Ever attended school
+64     edlev                                     Highest education level
+65    degree            Highest certificate/diploma/certificate obtained
+66    edinst              Place obtained certificate/diploma/certificate
+67     field                                              Field of study
+68       lit                         Reading and writing in any language
+69   working             Worked during last 7 days for at least one hour
+70 jobreturn                                            Job to return to
+71   seekwrk                     Looking for work during the last 7 days
+72    whynot                                    Reasons not seeking work
+73   occsect                                           Occupation sector
+74      occ1                                        Occupation - 1 digit
+75      occ2                                       Occupation - 2 digits
+76      occ3                                      Occupation -- 3 digits
+77      ind2                                    Main industry - 2 digits
+78      ind3                                    Main industry - 3 digits
+79   empstat                                           Employment status
+80    ethnic                                          Major ethnic group
+81  disable1                                               Handicapped 1
+82  disable2                                               Handicapped 2
+83  disable3                                               Handicapped 3
+84     relig                                                    Religion
+85   migrant                                              Migrant status

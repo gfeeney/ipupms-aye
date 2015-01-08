@@ -1,0 +1,174 @@
+        vname                                                                 vdescription
+1       cntry                                                                      Country
+2        year                                                                         Year
+3      sample                                                      IPUMS sample identifier
+4      serial                                                      Household serial number
+5       dwnum                                                              Dwelling number
+6      dwtype                                                           Accommodation type
+7    bathroom                                                    Use of bath/shower/toilet
+8        cars                                         Cars/vans owned or available for use
+9        heat                                                              Central heating
+10     gqstat                                             Status in communal establishment
+11    density                                   Number of  residents per room in household
+12      famty                                                                  Family type
+13      emphd                           Economic position of family reference person (FRP)
+14    clwkhd1              NS-SEC Socio-economic classification of family reference person
+15      sexhd                                               Sex of family reference person
+16       furn                                               Rented accommodation furnished
+17      educh                                                Household education indicator
+18       emph                                               Household employment indicator
+19      hlthh                                    Household health and disability indicator
+20     crowdh                                                  Household housing indicator
+21      caren                                            Number of carers in the household
+22       empn                                       Number of employed adults in household
+23       eldn                               Number of persons in household aged 65 or over
+24       famn                                             Number of families in households
+25       illn                          Number in household with limiting long-term illness
+26      sickn                                 Number of household members with poor health
+27     hhsize                                       Number of usual residents in household
+28    clwkhd2                                   Social grade of household reference person
+29      floor                         Lowest floor level of household living accommodation
+30    ethmult                                       Multiple ethnicity household indicator
+31    occrate                                                Occupancy rating of household
+32     floors                                                       Number of floor levels
+33      rooms                                  Number of rooms in occupied household space
+34     dwself                                                 Accommodation self-contained
+35      studn                                Household with students away during term time
+36    tenure1                                   Tenure of accommodation, England and Wales
+37    tenure2                       Tenure of accommodation, Scotland and Northern Ireland
+38      depch                                                 Dependent children in family
+39    qdwtype                                                  Flag for accommodation type
+40   qbathroo                                           Flag for use of bath/shower/toilet
+41      qcars                                Flag for cars/vans owned or available for use
+42      qheat                                                     Flag for central heating
+43    qgqstat                                    Flag for status in communal establishment
+44    qgqtype                                      Flag for type of communal establishment
+45   qdensity                          Flag for number of  residents per room in household
+46     qfamty                                                         Flag for family type
+47     qemphd                        Flag for economic position of family reference person
+48   qclwkhd1     Flag for NS-SEC Socio-economic classification of family reference person
+49     qsexhd                                      Flag for sex of family reference person
+50      qfurn                                      Flag for rented accommodation furnished
+51     qeduch                                       Flag for household education indicator
+52      qemph                                      Flag for household employment indicator
+53     qhlthh                           Flag for household health and disability indicator
+54    qcrowdh                                         Flag for household housing indicator
+55     qcaren                                   Flag for number of carers in the household
+56      qempn                              Flag for number of employed adults in household
+57      qeldn                      Flag for number of persons in household aged 65 or over
+58      qfamn                                    Flag for number of families in households
+59     qsickn                        Flag for number of household members with poor health
+60    qhhsize                              Flag for number of usual residents in household
+61   qclwkhd2                          Flag for social grade of household reference person
+62     qfloor                Flag for lowest floor level of household living accommodation
+63   qethmult                               Flag for multipleethnicity household indicator
+64   qoccrate                                       Flag for occupancy rating of household
+65   qpernumo                                      Flag for person's number within country
+66    qfloors                                              Flag for number of floor levels
+67     qrooms                         Flag for number of rooms in occupied household space
+68    qdwself                                        Flag for accommodation self-contained
+69     qstudn                       Flag for household with students away during term time
+70   qtenure1                     Flag for tenure of accommodation, England and Wales only
+71   qtenure2         Flag for tenure of accommodation, Scotland and Northern Ireland only
+72     qdepch                                        Flag for dependent children in family
+73     pernum                                                                Person number
+74      wtper                                                                Person weight
+75     pernum                                             Person number (within household)
+76        age                                        Age of respondents, improved grouping
+77      bplco                                          Country of birth, improved grouping
+78      relig                                                                     Religion
+79      resco                                                   Country of usual residence
+80    migdist                                         Distance of move for migrants-banded
+81     wkdist                               Distance to work (including study in Scotland)
+82    empstat                                                Economic activity (last week)
+83     donorn                    Number of times individual's information has been donated
+84    ethnicw                         Ethnic group for Englandand Wales, improved grouping
+85    ethnicn                                            Ethnic group for Northern Ireland
+86    ethnics                                       Ethnic group for Scotland, v2 grouping
+87     worked                                                                  Ever worked
+88    gaelicr                                                         Whether reads Gaelic
+89    gaelics                                                        Whether speaks Gaelic
+90    gaelicu                                                   Whether understands Gaelic
+91      gener                                                         Generation indicator
+92     health                                       General health over last twelve months
+93      wkhrs                                                          Hours worked weekly
+94     wkhrsg                                                  Hours worked weekly-grouped
+95        ind                                                      Industry classification
+96      irish                                                               Irish language
+97       isco                         International standard classification of occupations
+98       wkyr                                                             Year last worked
+99    illness                                                   Limiting long term illness
+100     marst                                                               Marital status
+101   resform                                                 Area of residence 1 year ago
+102   censtat                                                     One number census status
+103    profqu                                                   Professional qualification
+104   hrscare                                       Number of hours care provided per week
+105    edleve         Level of highest qualifications: England, Wales and Northern Ireland
+106    edlevs                                    Level of highest qualifications: Scotland
+107    resreg                                                    Region of usual residence
+108    relige                                                  Religion, England and Wales
+109    religs                                                           Religion, Scotland
+110    relign                                                   Religion, Northern Ireland
+111    relate                                   Relationship to household reference person
+112       sex                                                                          Sex
+113      occ3                              Standard occupational classification 2000-minor
+114      occ2                          Standard Occupational Classification 2000-sub major
+115   student                                Schoolchild or student in full-time education
+116      boss                                                           Supervisor/foreman
+117  resstud1                              Term time address of students or schoolchildren
+118    wktran                       Transport to work, UK (including to study in Scotland)
+119    welshr                                                          Whether reads Welsh
+120    welshs                                                         Whether speaks Welsh
+121    welshu                                                    Whether understands Welsh
+122    welshw                                                         Whether writes Welsh
+123    wksize                                                            Size of workforce
+124   wrkplac                                                                    Workplace
+125    migind                                                          Migration indicator
+126  resstud2                                                  Students residential status
+127      qage                               Flag for age of respondents, improved grouping
+128    qbplco                                 Flag for country of birth, improved grouping
+129    qrelig             Flag for community background-religion or religion brought up in
+130  qmigdist                                Flag for distance of move for migrants-banded
+131   qwkdist                      Flag for distance to work (including study in Scotland)
+132  qempstat                                       Flag for economic activity (last week)
+133  qethnicw               Flag for ethnic group for England and Wales, improved grouping
+134  qethnicn                                   Flag for ethnic group for Northern Ireland
+135  qethnics                              Flag for ethnic group for Scotland, v2 grouping
+136   qworked                                                         Flag for ever worked
+137  qgaelicr                                                Flag for whether reads Gaelic
+138  qgaelics                                               Flag for whether speaks Gaelic
+139  qgaelicu                                          Flag for whether understands Gaelic
+140  qgaelicw                                               Flag for whether writes Gaelic
+141    qgener                                                Flag for generation indicator
+142   qhealth                              Flag for general health over last twelve months
+143    qwkhrs                                                 Flag for hours worked weekly
+144      qind                                             Flag for industry classification
+145    qirish                       Flag for whether reads/speaks/understands/writes Irish
+146     qisco                Flag for international standard classification of occupations
+147     qwkyr                                                    Flag for year last worked
+148  qillness                                          Flag for limiting long term illness
+149    qmarst                                                      Flag for marital status
+150  qresform                                            Flag for area of former residence
+151  qcenstat                                            Flag for one number census status
+152   qprofqu                                          Flag for professional qualification
+153  qhrscare                              Flag for number of hours care provided per week
+154   qedleve Flag for level of highest qualifications England, Wales and Northern Ireland
+155   qedlevs                      Flag for level of highest qualifications, Scotland Only
+156   qresreg                                           Flag for region of usual residence
+157   qrelige                                         Flag for religion, England and Wales
+158   qreligs                                                  Flag for religion, Scotland
+159   qrelign                                          Flag for religion, Northern Ireland
+160   qrelate                          Flag for relationship to household reference person
+161      qsex                                                                 Flag for sex
+162     qocc3                     Flag for standard occupational classification 2000-minor
+163  qstudent                       Flag for schoolchild or student in full-time education
+164     qboss                                                  Flag for supervisor/foreman
+165 qresstud1                     Flag for term time address of students or schoolchildren
+166   qwktran              Flag for transport to work, UK (including to study in Scotland)
+167   qwelshr                                                 Flag for whether reads Welsh
+168   qwelshs                                                Flag for whether speaks Welsh
+169   qwelshu                                           Flag for whether understands Welsh
+170   qwelshw                                                Flag for whether writes Welsh
+171   qwksize                                                   Flag for size of workforce
+172  qwrkplac                                                           Flag for workplace
+173   qmigind                                                 Flag for migration indicator

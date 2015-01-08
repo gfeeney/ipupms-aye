@@ -1,0 +1,292 @@
+        vname                                                                     vdescription
+1       cntry                                                                          Country
+2        year                                                                             Year
+3      sample                                                          IPUMS sample identifier
+4      serial                                                          Household serial number
+5       dwnum                                                                  Dwelling number
+6        pern                                                   Number of persons in household
+7        fbig                Dwelling created by splitting apart a large dwelling or household
+8     fbig_nh                         Number of persons in large household before it was split
+9       state                                                               State of residence
+10      geogr                                                              Geographical region
+11      metro                                                                Metropolitan area
+12      urban                                                                      Urban-rural
+13      typhh                                                                   Household type
+14    typunit                                                              Unit classification
+15      owner                                                    Household occupancy condition
+16     renthh                                            Monthly rent (in Reais) in July, 2010
+17    rentmin                             Monthly rent as ratio of minimum wages in July, 2010
+18      walls                                                          External walls material
+19      rooms                                                                  Number of rooms
+20   nperroom                                                             Density dweller/room
+21   nbedroom                                                               Number of bedrooms
+22   nperbdrm                                                          Density dweller/bedroom
+23      nbath                                            Number of bathrooms for exclusive use
+24    toilets                                                Use of toilet or latrine [buraco]
+25     sewage                                                        Type of sanitary sewerage
+26      water                                                                     Water supply
+27    watpipe                                                                      Piped water
+28      trash                                                              Garbage destination
+29   electric                                                               Power availability
+30      meter                                    Energy meter, electricity company distributor
+31      radio                                                                       Have radio
+32         tv                                                                          Have TV
+33     washer                                                             Have washing machine
+34     refrig                                                                Have refrigerator
+35   cellphon                                                                  Have cell phone
+36      phone                                                                       Have phone
+37   computer                                                           Have personal computer
+38   internet                                             Have computers connected to Internet
+39   motorcyc                                                       Motorcycle for private use
+40       auto                                                              Car for private use
+41     emighh                                        Any person living abroad in July 31, 2010
+42   numperhh                      Number of persons living in this household in July 31, 2010
+43   nheadshh                                                                  Number of heads
+44    deathhh                          Deaths in the household from August, 2009 to July, 2010
+45    incmohh                                           Monthly household income in July, 2010
+46    incwghh                             Household income to minimum wage ratio in July, 2010
+47    incpchh                                        Household income per capita in July, 2010
+48    incwgpc                  Household income per capita to minimum wage ratio in July, 2010
+49   hhstruct                                                              Household structure
+50     qowner                                 Imputation mark in household occupancy condition
+51    qrenthh                         Imputation mark in monthly rent (in reais) in July, 2010
+52     qwalls                                       Imputation mark in external walls material
+53     qrooms                                               Imputation mark in number of rooms
+54  qnbedroom                                            Imputation mark in number of bedrooms
+55     qnbath                         Imputation mark in number of bathrooms for exclusive use
+56   qtoilets                             Imputation mark in use of toilet or latrine [buraco]
+57    qsewage                                              Imputation mark in type of sewerage
+58     qwater                                                  Imputation mark in water supply
+59   qwatpipe                                                   Imputation mark in piped water
+60     qtrash                                           Imputation mark in garbage destination
+61  qelectric                                            Imputation mark in power availability
+62     qmeter                 Imputation mark in energy meter, electricity company distributor
+63     qradio                                                    Imputation mark in have radio
+64        qtv                                                       Imputation mark in have TV
+65    qwasher                                          Imputation mark in have washing machine
+66    qrefrig                                             Imputation mark in have refrigerator
+67  qcellphon                                               Imputation mark in have cell phone
+68     qphone                                                    Imputation mark in have phone
+69  qcomputer                                        Imputation mark in have personal computer
+70  qinternet                          Imputation mark in have computers connected to internet
+71  qmotorcyc                                    Imputation mark in motorcycle for private use
+72      qauto                                           Imputation mark in car for private use
+73    qemighh                        Imputation mark in any person living abroad in July, 2010
+74  qnumperhh      Imputation mark in number of persons living in this household in July, 2010
+75  qnheadshh                                               Imputation mark in number of heads
+76   qdeathhh       Imputation mark in deaths in the household from August, 2009 to July, 2010
+77       nmig                                                      Number of migration records
+78      nmort                                                      Number of mortality records
+79     pernum                                                                    Person number
+80      wtper                                                                    Person weight
+81     pernum                                                 Person number (within household)
+82     relate                                                Relationship to head of household
+83        sex                                                                              Sex
+84        age                                                                              Age
+85      agemo                                                                    Age in months
+86    ageform                                                          Form of age declaration
+87       race                                                                    Color or race
+88   birthrec                                                                     Birth record
+89     dissee                                                      Permanent difficulty seeing
+90    dishear                                                     Permanent difficulty hearing
+91     dismob                                                     Permanent difficulty walking
+92    dismntl                                         Permanent mental/intellectual disability
+93   bornmuni                                                        Born in this municipality
+94   bornstat                                                               Born in this state
+95     nation                                                                      Nationality
+96     moveyr                                                             Year moved to Brazil
+97        bpl                                                State or foreign country of birth
+98   bplstate                                                                   State of birth
+99    bplctry                                                         Foreign country of birth
+100  yrsstate                                             Number of years living in this state
+101   yrsmuni                                      Number of years living in this municipality
+102   prevres                              Previous municipality/state or country of residence
+103  prevstat                                                        Former state of residence
+104  prevmuni                                                 Former municipality of residence
+105  prevctry                                                      Former country of residence
+106    res5yr              State/municipality or foreign country of residence in July 31, 2005
+107  state5yr                                              State of residence in July 31, 2005
+108   muni5yr                                       Municipality of residence in July 31, 2005
+109  cntry5yr                                                 Country of residence 5 years ago
+110       lit                                                               Can read and write
+111    school                                                      Attending school or daycare
+112  edlevel1                                                        Level of school attending
+113    grade1                                                  Elementary grade/year attending
+114    grade2                                                      High school grade attending
+115   college                                    Completion of additional undergraduate degree
+116  edattain                                              Highest level of education attended
+117   edcompl                       Have you completed the highest level of education attended
+118    degtyp                                                  Type of highest degree achieved
+119  edlevel2                                                                  Education level
+120  undergrd                                          Field of study in undergraduate studies
+121   masters                                                Field of study in Master's degree
+122  doctoral                                                Field of study in doctoral degree
+123     edloc                             Municipality/state or country where attending school
+124   edstate                                          State where attending school or daycare
+125   schctry                                           Country where attending school/daycare
+126    livesp                                                         Live with spouse/partner
+127     sploc Number of person for spouse/partner for females living in indigenous areas or no
+128     union                                                                  Nature of union
+129     marst                                                                   Marital status
+130   wklstwk                                      Paid work last week (for at least one hour)
+131  paidaway                         Paid work last week while temporarily away from that job
+132   wknopay                 Unpaid work for other resident last week (for at least one hour)
+133   subsist               Worked for household subsistence last week (for at least one hour)
+134     njobs                                                    Number of jobs held last week
+135       occ                                    Occupation held from July 25 to July 31, 2010
+136       ind                                   Industry of work from July 25 to July 31, 2010
+137  classwkr                               Status in employment from July 25 to July 31, 2010
+138     nemps                  Number of employees in work place from July 25 to July 31, 2010
+139    socsec                     Contributed to social security from July 25 to July 31, 2010
+140    paysrc                    Source of gross monthly income in main job held in July, 2010
+141  incgross                              Gross monthly income in main job held in July, 2010
+142    incjob                                 Main job income in Brazilian reais in July, 2010
+143  incjobmw                           Main job income as ratio to minimum wage in July, 2010
+144  incothjb                           Source of monthly income from other jobs in July, 2010
+145  incjb2gr                              Gross monthly income from other jobs  in July, 2010
+146  incjb2mw         Gross monthly income from other jobs to minimum wage ratio in July, 2010
+147   incjobs                                         Gross income from all jobs in July, 2010
+148  incjbsmw                   Gross income from all jobs to minimum wage ratio in July, 2010
+149  inctotmo                                         Total gross monthly income in July, 2010
+150  inctotmw                         Total monthly income to minimum wage ratio in July, 2010
+151     inchh                                                   Household income in July, 2010
+152   inchhmw                             Household income to minimum wage ratio in July, 2010
+153   inchhpc                                        Household income per capita in July, 2010
+154  inchpcmw                  Household income per capita to minimum wage ratio in July, 2010
+155     hours           Usual number of hours worked at main job from July 25 to July 31, 2010
+156  seekwork                                     Looked for job from July 25 to July 31, 2010
+157   canwork                                  Available for job from July 25 to July 31, 2010
+158  incretir                              Received retirement income or pension in July, 2010
+159  incfamss Received income from a social program (Bolsa familia or Program for the eradicat
+160   inctran            Received income from other social programs or transfers in July, 2010
+161    incoth Received income from other sources (interest on savings, securities, rental, pen
+162  incvalue                 Total income received from other sources of income in July, 2010
+163   wherewk         Municipality/state or country where worked from July 25 to July 31, 2010
+164   wkstate                                 State where worked from July 25 to July 31, 2010
+165   wkcntry                       Foreign country where worked from July 25 to July 31, 2010
+166   homqday                        Commuting to home every day from July 25 to July 31, 2010
+167   commute             Time spent in travel from home to work from July 25 to July 31, 2010
+168  everborn                                          Children born alive as of July 31, 2010
+169   chbornm                                             Males born alive as of July 31, 2010
+170   chbornf                                           Females born alive as of July 31, 2010
+171    chborn                          Total number of children born alive as of July 31, 2010
+172   chsurvm                             Number of male children still alive on July 31, 2010
+173   chsurvf                           Number of female children still alive on July 31, 2010
+174    chsurv                                      Total children still alive on July 31, 2010
+175   lbthsex                             Sex of the last child born alive as of July 31, 2010
+176   lbthage                                Age of the last child born alive on July 31, 2010
+177    chbnyr                  Last child born alive was born in 12 months up to July 31, 2010
+178  chliveyr                                Last child bornalive still alive on July 31, 2010
+179  chdeadyr                                           Date of death of last child born alive
+180   chdthmo                                          Month of death of last child born alive
+181   chdthyr                                          Year of  death of last child born alive
+182  stillbth                                         Ever had stillbirths as of July 31, 2010
+183   nstillb                                   Number of male stillbirths as of July 31, 2010
+184   stilbnf                                 Number of female stillbirths as of July 31, 2010
+185   stilbnm                                  Total number of stillbirths as of July 31, 2010
+186  nstilbth          Total number of children born alive and stillbirths as of July 31, 2010
+187   respond                                  Person who provided information for this person
+188   respnum                             Number of order of the respondent (another resident)
+189  labforce                                  Economic activity from July 25 to July 31, 2010
+190   empstat Employment status from July 25 to July 31, 2010 (Definition 1: among economicall
+191  empstat2 Employment status from July 25 to July 31, 2010 (Definition 2: all persons age 1
+192  classwk2               Class of worker in main job among economically active and employed
+193  contract              Type of work contract for employees and military and civil servants
+194     relig                                                                         Religion
+195   qrelate                             Imputation mark in relationship to head of household
+196      qsex                                                           Imputation mark in sex
+197  qageyrmo                                        Imputation mark in age in years or months
+198 qmothaliv                                                  Imputation mark in mother alive
+199     qrace                                                 Imputation mark in color or race
+200 qbirthrec                                                  Imputation mark in birth record
+201   qdissee                                   Imputation mark in permanent difficulty seeing
+202  qdishear                                  Imputation mark in permanent difficulty hearing
+203   qdismob                                  Imputation mark in permanent difficulty walking
+204  qdismntl                      Imputation mark in permanent mental/intellectual disability
+205 qbornmuni                                     Imputation mark in born in this municipality
+206 qbornstat                                            Imputation mark in born in this state
+207   qnation                                                   Imputation mark in nationality
+208   qmoveyr                                          Imputation mark in year moved to Brazil
+209      qbpl                             Imputation mark in state or foreign country of birth
+210 qbplstate                                                Imputation mark in state of birth
+211  qbplctry                                      Imputation mark in foreign country of birth
+212 qyrsstate                          Imputation mark in number of years living in this state
+213  qyrsmuni                   Imputation mark in number of years living in this municipality
+214  qprevres           Imputation mark in previous municipality/state or country of residence
+215 qprevstat                                     Imputation mark in former state of residence
+216 qprevmuni                              Imputation mark in former municipality of residence
+217 qprevctry                                   Imputation mark in former country of residence
+218   qres5yr Imputation mark in state/municipality or foreign country of residence in July 31
+219 qstate5yr                           Imputation mark in state of residence in July 31, 2005
+220  qmuni5yr                    Imputation mark in municipality of residence in July 31, 2005
+221 qcntry5yr                              Imputation mark in country of residence 5 years ago
+222      qlit                                            Imputation mark in can read and write
+223   qschool                                   Imputation mark in attending school or daycare
+224 qedlevel1                                     Imputation mark in level of school attending
+225   qgrade1                               Imputation mark in elementary grade/year attending
+226   qgrade2                                   Imputation mark in high school grade attending
+227  qcollege                           Imputation mark in completion of undergraduate studies
+228 qedattain                           Imputation mark in highest level of education attended
+229  qedcompl    Imputation mark in have you completed the highest level of education attended
+230   qdegtyp                                        Imputation mark in type of highest degree
+231 qundergrd                       Imputation mark in field of study in undergraduate studies
+232  qmasters                             Imputation mark in field of study in master's degree
+233 qdoctoral                             Imputation mark in field of study in doctoral degree
+234    qedloc           Imputation mark in municipality/state or country where attended school
+235  qedstate                        Imputation mark in state where attended school or daycare
+236   qedmuni                    Imputation mark in municipality where attended school/daycare
+237  qschctry                         Imputation mark in country where attended school/daycare
+238   qlivesp                                      Imputation mark in live with spouse/partner
+239    qsploc Imputation mark in number of spouse/partner for females living in indigenous are
+240    qunion                                               Imputation mark in nature of union
+241    qmarst                                                Imputation mark in marital status
+242  qwklstwk Imputation mark in paid work from July 25 to July 31, 2010 (for at least one hou
+243 qpaidaway Imputation mark in paid work from July 25 to July 31, 2010 while temporarily awa
+244  qwknopay Imputation mark in helped without payment with other resident's paid work from J
+245  qsubsist Imputation mark in worked for household subsistence from July 25 to July 31, 201
+246    qnjobs             Imputation mark in number of jobs held from July 25 to July 31, 2010
+247      qocc                 Imputation mark in occupation held from July 25 to July 31, 2010
+248      qind                Imputation mark in Industry of work from July 25 to July 31, 2010
+249 qclasswkr            Imputation mark in status in employment from July 25 to July 31, 2010
+250    qnemps Imputation mark in number of employees in your work place from July 25 to July 3
+251   qsocsec  Imputation mark in contributed to social security from July 25 to July 31, 2010
+252   qpaysrc Imputation mark in source of gross monthly income in main job held in July, 2010
+253 qincgross           Imputation mark in gross monthly income in main job held in July, 2010
+254 qincothjb        Imputation mark in source of monthly income from other jobs in July, 2010
+255 qincjb2gr           Imputation mark in gross monthly income from other jobs  in July, 2010
+256    qhours Imputation mark in usual number of hoursworked at main job from July 25 to July 
+257 qseekwork                  Imputation mark in looked for job from July 25 to July 31, 2010
+258  qcanwork               Imputation mark in available for job from July 25 to July 31, 2010
+259 qincretir           Imputation mark in received retirement income or pension in July, 2010
+260 qincfamss Imputation mark in received income from a social program (bolsa familia or progr
+261  qinctran Imputation mark in received income from other social programs or transfers in Ju
+262   qincoth Imputation mark in received income from other sources (interest on savings, secu
+263 qincvalue Imputation mark in totalincome received from other sources of income in July, 20
+264  qwherewk Imputation mark in municipality/state or country where worked from July 25 to Ju
+265  qwkstate              Imputation mark in state where worked from July 25 to July 31, 2010
+266   qwkmuni       Imputation mark in municipality where worked from July 25 to July 31, 2010
+267  qwkcntry    Imputation mark in foreign country where worked from July 25 to July 31, 2010
+268  qhomqday     Imputation mark in commuting to home every day from July 25 to July 31, 2010
+269  qcommute Imputation mark in time spent in travel from home to work from July 25 to July 3
+270 qeverborn                       Imputation mark in children born alive as of July 31, 2010
+271  qchbornm                          Imputation mark in males born alive as of July 31, 2010
+272  qchbornf                        Imputation mark in females born alive as of July 31, 2010
+273   qchborn       Imputation mark in total number of children born alive as of July 31, 2010
+274   qchlive                     Imputation mark in any children still alive on July 31, 2010
+275  qchsurvm                    Imputation mark in male children still alive on July 31, 2010
+276  qchsurvf                  Imputation mark in female children still alive on July 31, 2010
+277   qchsurv                   Imputation mark in total children still alive on July 31, 2010
+278  qlbthsex          Imputation mark in sex of the last child born alive as of July 31, 2010
+279  qlbthage             Imputation mark in age of the last child born alive on July 31, 2010
+280 qchliveyr            Imputation mark in last child born alive still alive on July 31, 2010
+281 qchdeadyr                        Imputation mark in date of death of last child born alive
+282  qchdthmo                       Imputation mark in month of death of last child born alive
+283  qchdthyr                       Imputation mark in year of  death of last child born alive
+284 qstillbth                      Imputation mark in ever had stillbirths as of July 31, 2010
+285  qnstillb                Imputation mark in number of male stillbirths as of July 31, 2010
+286  qstilbnf              Imputation mark in number of female stillbirths as of July 31, 2010
+287  qstilbnm               Imputation mark in total number of stillbirths as of July 31, 2010
+288  qrespond               Imputation mark in person who provided information for this person
+289  qrespnum          Imputation mark in number of order of the respondent (another resident)
+290 qnstilbth Imputation mark in total number of children born alive and stillbirths as of Jul
+291    qrelig                                                      Imputation mark in religion

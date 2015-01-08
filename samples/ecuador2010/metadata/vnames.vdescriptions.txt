@@ -1,0 +1,139 @@
+        vname                                                                     vdescription
+1       cntry                                                                          Country
+2        year                                                                             Year
+3      sample                                                          IPUMS sample identifier
+4      serial                                                          Household serial number
+5       dwnum                                                                  Dwelling number
+6        pern                                                   Number of persons in household
+7        prov                                                                         Province
+8       urban                                                                      Urban-rural
+9      dwtype                                                                 Type of dwelling
+10       road                                                          Road access to dwelling
+11      occup                                                                 Occupancy status
+12       roof                                                 Predominant material of the roof
+13      walls                                          Predominant material of the outer walls
+14      floor                                               Predominant materials of the floor
+15   ceilcond                                                         Condition of the ceiling
+16   wallcond                                                           Condition of the walls
+17   floorcon                                                           Condition of the floor
+18     watsrc                                         Primary source of water for the dwelling
+19     watsup                                        Type of water connection for the dwelling
+20      sewer                              Type of sanitary service or toilet for the dwelling
+21      light                                  Primary source for electricity for the dwelling
+22    elecmet                                        Does the dwelling has an electrical meter
+23    savbulb                Number of energy saving light bulbs in the dwelling (fluorescent)
+24    regbulb                Number of conventional light bulbs in the dwelling (incandescent)
+25      trash                                                 Primary method of trash disposal
+26      rooms Number of rooms in the dwelling (excluding kitchen, bathrooms, and rooms for bus
+27     morehh More than one household in the dwelling (people sleeping and cooking separately)
+28    numbhhs                                             Number of households in the dwelling
+29   bedrooms                                               Number of bedrooms in the dwelling
+30     emigdw                                              Number of emigrants in the dwelling
+31    perroom                                            Number of persons per room (dwelling)
+32    perbdrm                                         Number of persons per bedroom (dwelling)
+33     remitt                                                   Household receives remittances
+34    roomshh                                              Number of bedrooms in the household
+35    cookspc                                            Room or space exclusively for cooking
+36     toilet                             Type of sanitary service or toilet for the household
+37       bath                               Facilities or shower for bathing for the household
+38     fuelck                                        Primary fuel or energy source for cooking
+39   drinkwtr                                                   Primary type of drinking water
+40      phone                                                            Regular phone service
+41   cellphon                                                               Cell phone service
+42   internet                                                                 Internet service
+43   computer                                                                         Computer
+44      cable                                                                 Cable TV service
+45   payelect                  Last payment made on the household electricity account (amount)
+46   electbil                                                             Pays for electricity
+47    movwork           Any household member travels outside this city or rural parish to work
+48    nmvwork Number of household members that travel outside this city or rural parish to wor
+49   movstudy             Any household member goes outside this city or rural parish to study
+50     nstudy   Number of household members that go outside this city or rural parish to study
+51   ownershp                                                               Dwelling ownership
+52   moneyrel                  Received money from relatives or friends living outside in 2010
+53     travel   Any household member traveled abroad and not returned since last census (2001)
+54    ntravel        Number of household members that traveled abroad since last census (2001)
+55      nmigs                                                      Number of migration records
+56     pernum                                                                    Person number
+57      wtper                                                                    Person weight
+58     pernum                                                 Person number (within household)
+59   resident                                          Person eats and sleeps in the household
+60        sex                                                                              Sex
+61     relate                                                Relationship to head of household
+62        age                                                                              Age
+63    birthmo                                                                   Month of birth
+64    birthyr                                                                    Year of birth
+65    citcard                                                                 Citizenship card
+66     civreg                                                               Civil registration
+67   privinsr                                                         Private health insurance
+68      disab                                        Permanent disability (more than one year)
+69   disintel                                                          Intellectual disability
+70    disphys                                                      Physical/motor disabilities
+71   dissight                                                                Visual impairment
+72    dishear                                                               Hearing impairment
+73    disment                                                                Mental disability
+74    diseduc                Attending special education facility for people with disabilities
+75        bpl                                                                       Birthplace
+76    immigyr                                                       Year of arrival to Ecuador
+77    bplprov                                                                Province of birth
+78   bplcntry                                                                 Country of birth
+79     uresid                                                         Place of usual residence
+80      uprov                                                      Province of usual residence
+81     ucntry                                                       Country of usual residence
+82     res5yr                                   Place of residence 5 years ago (November 2005)
+83    prov5yr                                Province of residence 5 years ago (November 2005)
+84    ctry5yr                                 Country of residence 5 years ago (November 2005)
+85   langfind                                                Father speaks indigenous language
+86   langmind                                                Mother speaks indigenous language
+87    langfsp                                                  Father speaks Castilian/Spanish
+88    langmsp                                                  Mother speaks Castilian/Spanish
+89   langffor                                                   Father speaks foreign language
+90   langmfor                                                   Mother speaks foreign language
+91   langfnon                                                            Father does not speak
+92   langmnon                                                            Mother does not speak
+93   langind1                                                        Speak indigenous language
+94   langind2                                                       Indigenous language spoken
+95     langsp                                                         Speaks Castilian/Spanish
+96    langfor                                                          Speaks foreign language
+97    langnon                                                      Does not speak any language
+98       race                                 Racial self-identification (culture and customs)
+99     ethnic                                                             Indigenous ethnicity
+100   chcare1                                               Child participates in INFA program
+101   chcare2                              Child participates in Ministry of Education program
+102   chcare3                           Child participates in private childhood center program
+103   chcare4                            Child participates in public childhood center program
+104   chcare5                                              Child participates in other program
+105   chcare6                     Father, mother, or relatives take care of the child for free
+106   chcare7      Relatives or persons known to the family are paid to take care of the child
+107  cell6mon                                         Used a cell phone in the past six months
+108   int6mon                                             Used internet in the past six months
+109  cmpt6mon                                           Used a computer in the past six months
+110    school                                      Current attendance to education institution
+111   schtype                                Type of education institution currently attending
+112     edlev                                               Highest educational level attended
+113   edgrade                                          Highest grade, course, or year attended
+114   edattan                                                           Educational attainment
+115  higedtit                                             Higher or postgraduate diploma/title
+116   edfield                                                           Field of diploma/title
+117   empstat                                                     Activity performed last week
+118 unempstat                                                       Activity of the unemployed
+119      ind3                                                  Industry (3 digits, ISIC rev 4)
+120      ind2                                                  Industry (2 digits, ISIC rev 4)
+121      occ3                                                   Occupation (3 digits, ISCO 08)
+122      occ2                                                   Occupation (2 digits, ISCO 08)
+123   classwk                                                                  Class of worker
+124   hrswork                                        Hours of work last week the person worked
+125     wkloc                                                            Location of workplace
+126     marst                                                                   Marital status
+127    socsec                                                      Social security affiliation
+128    chborn                                                     Number of children ever born
+129   chbornm                                                Number of male children ever born
+130   chbornf                                              Number of female children ever born
+131    chsurv                                                     Number of children surviving
+132   age1stb                                                               Age at first birth
+133  lstbyear                                                               Year of last birth
+134   lstbmon                                                              Month of last birth
+135  lstbsurv                                                           Last birth still alive
+136  empstat2                                                               Labor force status
+137       ind                                                            Industry (ISIC rev 4)
+138       occ                                                             Occupation (ISCO 08)

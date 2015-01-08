@@ -1,0 +1,123 @@
+        vname                                                                     vdescription
+1       cntry                                                                          Country
+2        year                                                                             Year
+3      sample                                                          IPUMS sample identifier
+4      serial                                                          Household serial number
+5       dwnum                                                                  Dwelling number
+6       hhnum                                               Household number (within dwelling)
+7         hhn                                                 Number of households in dwelling
+8       pernd                                                    Number of persons in dwelling
+9        pern                                                   Number of persons in household
+10       fbig                Dwelling created by splitting apart a large dwelling or household
+11       dept                                                                       Department
+12       muni                                                                     Municipality
+13      urban                                                                      Urban-rural
+14     dwtype                                                                 Type of dwelling
+15    occstat                                                        Dwelling occupancy status
+16      walls                                  Primary construction material of exterior walls
+17       roof                                        Primary construction material of the roof
+18      floor                                       Primary construction material of the floor
+19   lighting                                                                 Type of lighting
+20     watsup                                                           Source of water supply
+21   ownershp                                                               Dwelling ownership
+22     htlhkm                       Distance to nearest health center or clinic, in kilometers
+23    hlthmet                           Distance to nearest health center or clinic, in meters
+24    hlthblk                           Distance to nearest health center or clinic, in blocks
+25   hlthvara                            Distance to nearest health center or clinic, in varas
+26     htimed                                 Time to nearest health center or clinic, in days
+27     htimeh                                Time to nearest health center or clinic, in hours
+28     htimem                              Time to nearest health center or clinic, in minutes
+29     toilet                                                          Type of toilet facility
+30    toilexc                                               Exclusive use of toilet facilities
+31   bedrooms                                                     Rooms used only for sleeping
+32    kitchen                                                       Room used only for cooking
+33   fuelcook                                                    Primary fuel used for cooking
+34    garbage                                          Disposal method for majority of garbage
+35    radcass                                              Radio/cassette/CD player [boom box]
+36     stereo                                                                 Stereo equipment
+37      radio                                                                            Radio
+38    kitfuel                                                         Stove (butane, electric)
+39     refrig                                                                     Refrigerator
+40        fan                                                                              Fan
+41    sewmach                                                                   Sewing machine
+42       iron                                                                    Electric iron
+43      phone                                                              Land-line telephone
+44       cell                                                                       Cell phone
+45     washer                                                                  Washing machine
+46     aircon                                                                 Air conditioning
+47    cabletv                                                                 Cable TV service
+48         pc                                                                         Computer
+49   internet                                                                         Internet
+50        car                                                           Car/station wagon/jeep
+51    motocyc                                                           Motorcycle/scooter/ATV
+52       bike                                                                          Bicycle
+53     animal                                                       Animal [for transport use]
+54      canoe                                                                    Canoe/rowboat
+55   motoboat                                                                       Motor boat
+56      yacht                                                                            Yacht
+57       make                                             Home-based industry, making products
+58       sell                                            Home-based industry, selling products
+59    service                                                     Home-based industry, service
+60    agactiv                                        Agricultural activity by household member
+61    dissens                           Household member with disability: deaf, mute, or blind
+62    disphys Household member with disability: permanent difficulty walking, bathing, or dres
+63   dismentl Household member with disability: permanent learning or social difficulty, menta
+64     remitt         Payments received by household from someone abroad in the last 12 months
+65     abroad                             Household member currently living in another country
+66    nabroad                                        Number of household members living abroad
+67      death                               Death of household member (since January 1st 2004)
+68     ndeath                                        Number of deaths (since January 1st 2004)
+69      nmale                                  Number of usual male residents of the household
+70     nfemal                                Number of usual female residents of the household
+71     pernum                                                                    Person number
+72      wtper                                                                    Person weight
+73     pernum                                                 Person number (within household)
+74     relate                                                   Relationship to household head
+75        sex                                                                              Sex
+76        age                                                                              Age
+77    birthmo                                                                   Month of birth
+78    birthyr                                                                    Year of birth
+79      marst                                                                   Marital status
+80      indig                                               Indigenous group (self-assessment)
+81   indiggrp                                                       Indigenous or ethnic group
+82    indlang                                                       Speaks indigenous language
+83    bplstat                                                   Lives in municipality of birth
+84    bpldept                                                              Department of birth
+85    yrimmig                                                     Year of arrival to Nicaragua
+86    bpltype                                                   Urban status of place of birth
+87     mig5yr                                               Lived in same municipality as 2000
+88    dept5yr                                                   Department where lived in 2000
+89   immig5yr                                Year arrived in Nicaragua (living abroad in 2000)
+90  pl5yrtype                                        Urban status of place where lived in 2000
+91      relig                                                                         Religion
+92        lit                                                                         Literacy
+93     school                                                         Currently attends school
+94    edlevel                                              Highest educational level completed
+95    edattan                                                           Educational attainment
+96   univtech                                        Completed university or technical studies
+97     study2                                             Course of studies or major (2-digit)
+98     worked                                                            Work status last week
+99     absent                                                        Absent from job last week
+100   work2wk                                                  Looking for work last two weeks
+101  nolookwk                                                  Reason for not looking for work
+102   nonwork                                  Activity performed last week (inactive persons)
+103  workpast                                                                     Previous job
+104  othactiv                                                          Informal work last week
+105  workhere                                                               Workplace location
+106  tempwork                                                       Permanent or temporary job
+107      occ3                                                   Occupation (ISCO 88, 3 digits)
+108  classwrk                                                                  Class of worker
+109      ind3                                                   Industry (ISIC 3.1, 3 digits))
+110  children                                                       Has had live-born children
+111    chborn                                                         Total live-born children
+112   chbornm                                                            Total live-born males
+113   chbornf                                                          Total live-born females
+114    chsurv                                                   Total children currently alive
+115   chsurvm                                                      Total males currently alive
+116   chsurvf                                                    Total females currently alive
+117     bthmo                                           Month of birth of last live-born child
+118     bthyr                                            Year of birth of last live-born child
+119     bthyr                                            Year of birth of last live-born child
+120  birthloc                                               Location where last child was born
+121   bthcert                     Certificate from Ministry of Health for last live-born child
+122      econ                                                                Employment status

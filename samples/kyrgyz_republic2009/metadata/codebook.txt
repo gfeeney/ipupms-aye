@@ -1,0 +1,1634 @@
+          vname  code                          short
+1         cntry    32                      Argentina
+2         cntry    51                        Armenia
+3         cntry    40                        Austria
+4         cntry    50                     Bangladesh
+5         cntry   112                        Belarus
+6         cntry    68                        Bolivia
+7         cntry    76                         Brazil
+8         cntry   854                   Burkina Faso
+9         cntry   116                       Cambodia
+10        cntry   120                       Cameroon
+11        cntry   124                         Canada
+12        cntry   152                          Chile
+13        cntry   156                          China
+14        cntry   170                       Colombia
+15        cntry   188                     Costa Rica
+16        cntry   192                           Cuba
+17        cntry   214             Dominican Republic
+18        cntry   218                        Ecuador
+19        cntry   818                          Egypt
+20        cntry   222                    El Salvador
+21        cntry   242                           Fiji
+22        cntry   250                         France
+23        cntry   276                        Germany
+24        cntry   288                          Ghana
+25        cntry   300                         Greece
+26        cntry   324                         Guinea
+27        cntry   332                          Haiti
+28        cntry   348                        Hungary
+29        cntry   356                          India
+30        cntry   360                      Indonesia
+31        cntry   364                           Iran
+32        cntry   368                           Iraq
+33        cntry   372                        Ireland
+34        cntry   376                         Israel
+35        cntry   380                          Italy
+36        cntry   388                        Jamaica
+37        cntry   400                         Jordan
+38        cntry   404                          Kenya
+39        cntry   417                Kyrgyz Republic
+40        cntry   430                        Liberia
+41        cntry   454                         Malawi
+42        cntry   458                       Malaysia
+43        cntry   466                           Mali
+44        cntry   484                         Mexico
+45        cntry   496                       Mongolia
+46        cntry   504                        Morocco
+47        cntry   524                          Nepal
+48        cntry   528                    Netherlands
+49        cntry   558                      Nicaragua
+50        cntry   566                        Nigeria
+51        cntry   586                       Pakistan
+52        cntry   275                      Palestine
+53        cntry   591                         Panama
+54        cntry   604                           Peru
+55        cntry   608                    Philippines
+56        cntry   620                       Portugal
+57        cntry   630                    Puerto Rico
+58        cntry   642                        Romania
+59        cntry   646                         Rwanda
+60        cntry   662                    Saint Lucia
+61        cntry   686                        Senegal
+62        cntry   694                   Sierra Leone
+63        cntry   705                       Slovenia
+64        cntry   710                   South Africa
+65        cntry   728                    South Sudan
+66        cntry   724                          Spain
+67        cntry   729                          Sudan
+68        cntry   756                    Switzerland
+69        cntry   834                       Tanzania
+70        cntry   764                       Thailand
+71        cntry   792                         Turkey
+72        cntry   800                         Uganda
+73        cntry   804                        Ukraine
+74        cntry   826                 United Kingdom
+75        cntry   840                  United States
+76        cntry   858                        Uruguay
+77        cntry   862                      Venezuela
+78        cntry   704                        Vietnam
+79        cntry   894                         Zambia
+80         year  1960                           1960
+81         year  1962                           1962
+82         year  1963                           1963
+83         year  1964                           1964
+84         year  1966                           1966
+85         year  1968                           1968
+86         year  1969                           1969
+87         year  1970                           1970
+88         year  1971                           1971
+89         year  1972                           1972
+90         year  1973                           1973
+91         year  1974                           1974
+92         year  1975                           1975
+93         year  1976                           1976
+94         year  1977                           1977
+95         year  1979                           1979
+96         year  1980                           1980
+97         year  1981                           1981
+98         year  1982                           1982
+99         year  1983                           1983
+100        year  1984                           1984
+101        year  1985                           1985
+102        year  1986                           1986
+103        year  1987                           1987
+104        year  1989                           1989
+105        year  1990                           1990
+106        year  1991                           1991
+107        year  1992                           1992
+108        year  1993                           1993
+109        year  1994                           1994
+110        year  1995                           1995
+111        year  1996                           1996
+112        year  1997                           1997
+113        year  1998                           1998
+114        year  1999                           1999
+115        year  2000                           2000
+116        year  2001                           2001
+117        year  2002                           2002
+118        year  2003                           2003
+119        year  2004                           2004
+120        year  2005                           2005
+121        year  2006                           2006
+122        year  2007                           2007
+123        year  2008                           2008
+124        year  2009                           2009
+125        year  2010                           2010
+126        year  2011                           2011
+127      sample   321                 Argentina 1970
+128      sample   322                 Argentina 1980
+129      sample   323                 Argentina 1991
+130      sample   324                 Argentina 2001
+131      sample   325                 Argentina 2010
+132      sample   511                   Armenia 2001
+133      sample   401                   Austria 1971
+134      sample   402                   Austria 1981
+135      sample   403                   Austria 1991
+136      sample   404                   Austria 2001
+137      sample   501                Bangladesh 1991
+138      sample   502                Bangladesh 2001
+139      sample   503                Bangladesh 2011
+140      sample   681                   Bolivia 1976
+141      sample   682                   Bolivia 1992
+142      sample   683                   Bolivia 2001
+143      sample   761                    Brazil 1960
+144      sample   762                    Brazil 1970
+145      sample   763                    Brazil 1980
+146      sample   764                    Brazil 1991
+147      sample   765                    Brazil 2000
+148      sample   766                    Brazil 2010
+149      sample  1121                   Belarus 1999
+150      sample  8541              Burkina Faso 1985
+151      sample  8542              Burkina Faso 1996
+152      sample  8543              Burkina Faso 2006
+153      sample  1161                  Cambodia 1998
+154      sample  1162                  Cambodia 2008
+155      sample  1201                  Cameroon 1976
+156      sample  1202                  Cameroon 1987
+157      sample  1203                  Cameroon 2005
+158      sample  1241                    Canada 1971
+159      sample  1242                    Canada 1981
+160      sample  1243                    Canada 1991
+161      sample  1244                    Canada 2001
+162      sample  1521                     Chile 1960
+163      sample  1522                     Chile 1970
+164      sample  1523                     Chile 1982
+165      sample  1524                     Chile 1992
+166      sample  1525                     Chile 2002
+167      sample  1561                     China 1982
+168      sample  1562                     China 1990
+169      sample  1701                  Colombia 1964
+170      sample  1702                  Colombia 1973
+171      sample  1703                  Colombia 1985
+172      sample  1704                  Colombia 1993
+173      sample  1705                  Colombia 2005
+174      sample  1881                Costa Rica 1963
+175      sample  1882                Costa Rica 1973
+176      sample  1883                Costa Rica 1984
+177      sample  1884                Costa Rica 2000
+178      sample  1921                      Cuba 2002
+179      sample  2141        Dominican Republic 1960
+180      sample  2142        Dominican Republic 1970
+181      sample  2143        Dominican Republic 1981
+182      sample  2144        Dominican Republic 2002
+183      sample  2145        Dominican Republic 2010
+184      sample  2181                   Ecuador 1962
+185      sample  2182                   Ecuador 1974
+186      sample  2183                   Ecuador 1982
+187      sample  2184                   Ecuador 1990
+188      sample  2185                   Ecuador 2001
+189      sample  2186                   Ecuador 2010
+190      sample  8181                     Egypt 1996
+191      sample  8182                     Egypt 2006
+192      sample  2221               El Salvador 1992
+193      sample  2222               El Salvador 2007
+194      sample  2421                      Fiji 1966
+195      sample  2422                      Fiji 1976
+196      sample  2423                      Fiji 1986
+197      sample  2424                      Fiji 1996
+198      sample  2425                      Fiji 2007
+199      sample  2501                    France 1962
+200      sample  2502                    France 1968
+201      sample  2503                    France 1975
+202      sample  2504                    France 1982
+203      sample  2505                    France 1990
+204      sample  2506                    France 1999
+205      sample  2507                    France 2006
+206      sample  2761            Germany 1970 (West)
+207      sample  2762            Germany 1971 (East)
+208      sample  2763            Germany 1981 (East)
+209      sample  2764            Germany 1987 (West)
+210      sample  2881                     Ghana 2000
+211      sample  2882                     Ghana 2010
+212      sample  3001                    Greece 1971
+213      sample  3002                    Greece 1981
+214      sample  3003                    Greece 1991
+215      sample  3004                    Greece 2001
+216      sample  3241                    Guinea 1983
+217      sample  3242                    Guinea 1996
+218      sample  3321                     Haiti 1971
+219      sample  3322                     Haiti 1982
+220      sample  3323                     Haiti 2003
+221      sample  3481                   Hungary 1970
+222      sample  3482                   Hungary 1980
+223      sample  3483                   Hungary 1990
+224      sample  3484                   Hungary 2001
+225      sample  3561                     India 1983
+226      sample  3562                     India 1987
+227      sample  3563                     India 1993
+228      sample  3564                     India 1999
+229      sample  3565                     India 2004
+230      sample  3601                 Indonesia 1971
+231      sample  3602                 Indonesia 1976
+232      sample  3603                 Indonesia 1980
+233      sample  3604                 Indonesia 1985
+234      sample  3605                 Indonesia 1990
+235      sample  3606                 Indonesia 1995
+236      sample  3607                 Indonesia 2000
+237      sample  3608                 Indonesia 2005
+238      sample  3609                 Indonesia 2010
+239      sample  3641                      Iran 2006
+240      sample  3681                      Iraq 1997
+241      sample  3721                   Ireland 1971
+242      sample  3722                   Ireland 1979
+243      sample  3723                   Ireland 1981
+244      sample  3724                   Ireland 1986
+245      sample  3725                   Ireland 1991
+246      sample  3726                   Ireland 1996
+247      sample  3727                   Ireland 2002
+248      sample  3728                   Ireland 2006
+249      sample  3729                   Ireland 2011
+250      sample  3761                    Israel 1972
+251      sample  3762                    Israel 1983
+252      sample  3763                    Israel 1995
+253      sample  3801                     Italy 2001
+254      sample  3881                   Jamaica 1982
+255      sample  3882                   Jamaica 1991
+256      sample  3883                   Jamaica 2001
+257      sample  4001                    Jordan 2004
+258      sample  4041                     Kenya 1969
+259      sample  4042                     Kenya 1979
+260      sample  4043                     Kenya 1989
+261      sample  4044                     Kenya 1999
+262      sample  4045                     Kenya 2009
+263      sample  4171           Kyrgyz Republic 1999
+264      sample  4172           Kyrgyz Republic 2009
+265      sample  4301                   Liberia 1974
+266      sample  4302                   Liberia 2008
+267      sample  4541                    Malawi 1987
+268      sample  4542                    Malawi 1998
+269      sample  4543                    Malawi 2008
+270      sample  4581                  Malaysia 1970
+271      sample  4582                  Malaysia 1980
+272      sample  4583                  Malaysia 1991
+273      sample  4584                  Malaysia 2000
+274      sample  4661                      Mali 1987
+275      sample  4662                      Mali 1998
+276      sample  4663                      Mali 2009
+277      sample  4841                    Mexico 1960
+278      sample  4842                    Mexico 1970
+279      sample  4843                    Mexico 1990
+280      sample  4844                    Mexico 1995
+281      sample  4845                    Mexico 2000
+282      sample  4846                    Mexico 2005
+283      sample  4847                    Mexico 2010
+284      sample  4961                  Mongolia 1989
+285      sample  4962                  Mongolia 2000
+286      sample  5041                   Morocco 1982
+287      sample  5042                   Morocco 1994
+288      sample  5043                   Morocco 2004
+289      sample  5241                     Nepal 2001
+290      sample  5281               Netherlands 1960
+291      sample  5282               Netherlands 1971
+292      sample  5283               Netherlands 2001
+293      sample  5581                 Nicaragua 1971
+294      sample  5582                 Nicaragua 1995
+295      sample  5583                 Nicaragua 2005
+296      sample  5661                   Nigeria 2006
+297      sample  5662                   Nigeria 2007
+298      sample  5663                   Nigeria 2008
+299      sample  5664                   Nigeria 2009
+300      sample  5665                   Nigeria 2010
+301      sample  5861                  Pakistan 1973
+302      sample  5862                  Pakistan 1981
+303      sample  5863                  Pakistan 1998
+304      sample  2751                 Palestine 1997
+305      sample  2752                 Palestine 2007
+306      sample  5911                    Panama 1960
+307      sample  5912                    Panama 1970
+308      sample  5913                    Panama 1980
+309      sample  5914                    Panama 1990
+310      sample  5915                    Panama 2000
+311      sample  5916                    Panama 2010
+312      sample  6041                      Peru 1993
+313      sample  6042                      Peru 2007
+314      sample  6081               Philippines 1990
+315      sample  6082               Philippines 1995
+316      sample  6083               Philippines 2000
+317      sample  6201                  Portugal 1981
+318      sample  6202                  Portugal 1991
+319      sample  6203                  Portugal 2001
+320      sample  6301               Puerto Rico 1970
+321      sample  6302               Puerto Rico 1980
+322      sample  6303               Puerto Rico 1990
+323      sample  6304               Puerto Rico 2000
+324      sample  6305               Puerto Rico 2005
+325      sample  6421                   Romania 1977
+326      sample  6422                   Romania 1992
+327      sample  6423                   Romania 2002
+328      sample  6461                    Rwanda 1991
+329      sample  6462                    Rwanda 2002
+330      sample  6621               Saint Lucia 1980
+331      sample  6622               Saint Lucia 1991
+332      sample  6861                   Senegal 1988
+333      sample  6862                   Senegal 2002
+334      sample  6941              Sierra Leone 2004
+335      sample  7051                  Slovenia 2002
+336      sample  7101              South Africa 1996
+337      sample  7102              South Africa 2001
+338      sample  7103              South Africa 2007
+339      sample  7241                     Spain 1981
+340      sample  7242                     Spain 1991
+341      sample  7243                     Spain 2001
+342      sample  7281               South Sudan 2008
+343      sample  7291                     Sudan 2008
+344      sample  7561               Switzerland 1970
+345      sample  7562               Switzerland 1980
+346      sample  7563               Switzerland 1990
+347      sample  7564               Switzerland 2000
+348      sample  8341                  Tanzania 1988
+349      sample  8342                  Tanzania 2002
+350      sample  7641                  Thailand 1970
+351      sample  7642                  Thailand 1980
+352      sample  7643                  Thailand 1990
+353      sample  7644                  Thailand 2000
+354      sample  7921                    Turkey 1985
+355      sample  7922                    Turkey 1990
+356      sample  7923                    Turkey 2000
+357      sample  8001                    Uganda 1991
+358      sample  8002                    Uganda 2002
+359      sample  8041                   Ukraine 2001
+360      sample  8261            United Kingdom 1991
+361      sample  8262            United Kingdom 2001
+362      sample  8401             United States 1960
+363      sample  8402             United States 1970
+364      sample  8403             United States 1980
+365      sample  8404             United States 1990
+366      sample  8405             United States 2000
+367      sample  8406             United States 2005
+368      sample  8407             United States 2010
+369      sample  8581                   Uruguay 1963
+370      sample  8582                   Uruguay 1975
+371      sample  8583                   Uruguay 1985
+372      sample  8584                   Uruguay 1996
+373      sample  8585                   Uruguay 2006
+374      sample  8586                   Uruguay 2011
+375      sample  8621                 Venezuela 1971
+376      sample  8622                 Venezuela 1981
+377      sample  8623                 Venezuela 1990
+378      sample  8624                 Venezuela 2001
+379      sample  7041                   Vietnam 1989
+380      sample  7042                   Vietnam 1999
+381      sample  7043                   Vietnam 2009
+382      sample  8941                    Zambia 1990
+383      sample  8942                    Zambia 2000
+384      sample  8943                    Zambia 2010
+385       hhnum     1                              1
+386       hhnum     2                              2
+387       hhnum     3                              3
+388       hhnum     4                              4
+389       hhnum     5                              5
+390       hhnum     6                              6
+391       hhnum     7                              7
+392       hhnum     8                              8
+393       hhnum     9                              9
+394       hhnum    10                             10
+395       hhnum    11                             11
+396       hhnum    12                             12
+397       hhnum    13                             13
+398         hhn     1                              1
+399         hhn     2                              2
+400         hhn     3                              3
+401         hhn     4                              4
+402         hhn     5                              5
+403         hhn     6                              6
+404         hhn     7                              7
+405         hhn     8                              8
+406         hhn     9                              9
+407         hhn    13                             13
+408       pernd     1                              1
+409       pernd     2                              2
+410       pernd     3                              3
+411       pernd     4                              4
+412       pernd     5                              5
+413       pernd     6                              6
+414       pernd     7                              7
+415       pernd     8                              8
+416       pernd     9                              9
+417       pernd    10                             10
+418       pernd    11                             11
+419       pernd    12                             12
+420       pernd    13                             13
+421       pernd    14                             14
+422       pernd    15                             15
+423       pernd    16                             16
+424       pernd    17                             17
+425       pernd    18                             18
+426       pernd    19                             19
+427       pernd    20                             20
+428       pernd    21                             21
+429       pernd    22                             22
+430       pernd    23                             23
+431       pernd    24                             24
+432       pernd    25                             25
+433       pernd    26                             26
+434       pernd    27                             27
+435       pernd    28                             28
+436        pern     1                              1
+437        pern     2                              2
+438        pern     3                              3
+439        pern     4                              4
+440        pern     5                              5
+441        pern     6                              6
+442        pern     7                              7
+443        pern     8                              8
+444        pern     9                              9
+445        pern    10                             10
+446        pern    11                             11
+447        pern    12                             12
+448        pern    13                             13
+449        pern    14                             14
+450        pern    15                             15
+451        pern    16                             16
+452        pern    17                             17
+453        pern    18                             18
+454        pern    19                             19
+455        pern    20                             20
+456        pern    21                             21
+457        pern    22                             22
+458        pern    23                             23
+459        pern    24                             24
+460        pern    25                             25
+461        pern    27                             27
+462   structnum     1                              1
+463   structnum     2                              2
+464   structnum     3                              3
+465   structnum     4                              4
+466   structnum     5                              5
+467   structnum     6                              6
+468   structnum     7                              7
+469     restype     1 Buildings with one housing uni
+470     restype     2 Buildings with more than one h
+471     restype     3          Institutional housing
+472     restype     4                         Hostel
+473     restype     6 Unfinished residential buildin
+474     restype     8                Other buildings
+475     restype     9                        Unknown
+476     stories     1                   Single story
+477     stories     2                      Two story
+478     stories     3                 3 to 5 stories
+479     stories     4                 6 to 9 stories
+480     stories     5             10 or more stories
+481     stories     9          NIU (Not in universe)
+482        wall     1                          Brick
+483        wall     2 Concrete, reinforced concrete,
+484        wall     3                   Cinder block
+485        wall     4                           Wood
+486        wall     5                  Adobe or clay
+487        wall     6                 Mixed material
+488        wall     7                          Other
+489        wall     9          NIU (Not in universe)
+490   construct     1                    Before 1946
+491   construct     2                    1946 - 1960
+492   construct     3                    1961 - 1970
+493   construct     4                    1971 - 1980
+494   construct     5                    1981 - 1990
+495   construct     6                    1991 - 2000
+496   construct     7                      2001-2005
+497   construct     8                    2006 - 2008
+498   construct     9          NIU (Not in universe)
+499     seismic     1 Constructed for earthquake res
+500     seismic     2 Constructed without seismic st
+501     seismic     8                        Unknown
+502     seismic     9          NIU (Not in universe)
+503  occrestype     1                 Separate house
+504  occrestype     2       Part of a separate house
+505  occrestype     3             Separate apartment
+506  occrestype     4 Common (multifamily) apartment
+507  occrestype     5      Room, apartment in hostel
+508  occrestype     9         Country house (dachas)
+509  occrestype    99                        Unknown
+510   occupancy     1             Residence occupied
+511   occupancy     2                     Unoccupied
+512   occupancy     9          NIU (Not in universe)
+513        area   999          NIU (Not in universe)
+514     livarea   999          NIU (Not in universe)
+515       rooms     1                              1
+516       rooms     2                              2
+517       rooms     3                              3
+518       rooms     4                              4
+519       rooms     5                              5
+520       rooms     6                              6
+521       rooms     7                              7
+522       rooms     8                              8
+523       rooms     9                              9
+524       rooms    10                            10+
+525       rooms    99          NIU (Not in universe)
+526      region     1                        Bishkek
+527      region     2               Issyk-Kul region
+528      region     3            Dzhalal-Abad region
+529      region     4                   Naryn region
+530      region     5                  Batken region
+531      region     6                Oshskaya region
+532      region     7              Talasskaya region
+533      region     8                   Chuya region
+534      region     9                    City of Osh
+535        dist  2205              Ak-Suisk district
+536        dist  2210           Dzheti-Oguz district
+537        dist  2215             Issyk Kul district
+538        dist  2220                 Tonsk district
+539        dist  2225                  Tyup district
+540        dist  2410                City of Karakol
+541        dist  2420               City of Balykchi
+542        dist  3204             Ala-Bukin district
+543        dist  3207          Bazar-Korgon district
+544        dist  3211                 Aksyi district
+545        dist  3215                Nooken district
+546        dist  3220                 Suzak district
+547        dist  3223          Toguz-Torouz district
+548        dist  3225              Toktogul district
+549        dist  3230             Chatkalsk district
+550        dist  3410           City of Dzhalal Abad
+551        dist  3420             City of Tash-Kumyr
+552        dist  3430             City of MaiLuu-Suu
+553        dist  3440               City of Kara-Kul
+554        dist  4210              Ak-Talin district
+555        dist  4220             At-Bashin district
+556        dist  4230              Dzhumgal district
+557        dist  4235               Kochkor district
+558        dist  4245                   Naryn oblast
+559        dist  4400                  City of Naryn
+560        dist  5214                Batken district
+561        dist  5236               Lailyak district
+562        dist  5258             Kadamzhai district
+563        dist  5410             City Kenesh Batken
+564        dist  5420               City of Suliukta
+565        dist  5430             City of Kyzyl-Kiya
+566        dist  6207                  Alay district
+567        dist  6211                Aravan district
+568        dist  6226            Kara-Suisk district
+569        dist  6242                Nookat district
+570        dist  6246          Kara-Kuldjin district
+571        dist  6255                Uzghen district
+572        dist  6259             Chon-Alay district
+573        dist  7215           Kara-Buurin district
+574        dist  7220          Bakai-Atinsk district
+575        dist  7225                 Manas district
+576        dist  7232                 Talas district
+577        dist  7400                  City of Talas
+578        dist  8203              Alamudun district
+579        dist  8206           Ysyk-Atinsk district
+580        dist  8209                Zhaiyl district
+581        dist  8213                 Kemin district
+582        dist  8217                Moscow district
+583        dist  8219              Panfilov district
+584        dist  8222               Sokuluk district
+585        dist  8223                  Chui district
+586        dist  8400            City of Chui-Tokmok
+587        dist 11201   Bishkek city: Lenin district
+588        dist 11202 Bishkek city: October district
+589        dist 11203 Bishkek city: Pervomaysky dist
+590        dist 11204 Bishkek city: Sverdlovsk distr
+591        dist 21000          Districts in Osh city
+592       urban     1                          Urban
+593       urban     2                          Rural
+594      pernum     0               Household record
+595      pernum     1                              1
+596      pernum     2                              2
+597      pernum     3                              3
+598      pernum     4                              4
+599      pernum     5                              5
+600      pernum     6                              6
+601      pernum     7                              7
+602      pernum     8                              8
+603      pernum     9                              9
+604      pernum    10                             10
+605      pernum    11                             11
+606      pernum    12                             12
+607      pernum    13                             13
+608      pernum    14                             14
+609      pernum    15                             15
+610      pernum    16                             16
+611      pernum    17                             17
+612      pernum    18                             18
+613      pernum    19                             19
+614      pernum    20                             20
+615      pernum    21                             21
+616      pernum    22                             22
+617      pernum    23                             23
+618      pernum    24                             24
+619      pernum    25                             25
+620      pernum    26                             26
+621      pernum    27                             27
+622    geogaway     1             Issyk Kul district
+623    geogaway     2               Karakol district
+624    geogaway     3                Jalal Abad city
+625    geogaway     4                Tash Kumyr city
+626    geogaway     5                Batken district
+627    geogaway     6                   Sulukta city
+628    geogaway     7                Kyzyl-Kiya city
+629    geogaway     8            Kara-Suisk district
+630    geogaway     9                Uzghen district
+631    geogaway    10           Ysyk-Atinsk district
+632    geogaway    11                Zhaiyl district
+633    geogaway    12               Sokuluk district
+634    geogaway    13                    Tokmok City
+635    geogaway    14 Other areas of Kyrgyz Republic
+636    geogaway    21                          China
+637    geogaway    22                     Kazakhstan
+638    geogaway    23              Republic of Korea
+639    geogaway    24                   Saudi Arabia
+640    geogaway    25                         Russia
+641    geogaway    26                     Uzbekistan
+642    geogaway    29                     Other Asia
+643    geogaway    31                        Germany
+644    geogaway    32                    Switzerland
+645    geogaway    33                         Turkey
+646    geogaway    34                        Ukraine
+647    geogaway    39                   Other Europe
+648    geogaway    49                         Africa
+649    geogaway    51            Eastern Samoa (USA)
+650    geogaway    59 Other Americas, Oceania, and A
+651    geogaway    98                        Unknown
+652    geogaway    99          NIU (Not in universe)
+653    awaytime     1              Less than a month
+654    awaytime     2                   Up to a year
+655    awaytime     3               More than a year
+656    awaytime     9          NIU (Not in universe)
+657     whyaway     1                           Work
+658     whyaway     2                       Learning
+659     whyaway     4                     Sem. Obst.
+660     whyaway     5                          Other
+661     whyaway     9          NIU (Not in universe)
+662      relate     1        Person enumerated first
+663      relate     2                         Spouse
+664      relate     3                Daughter or son
+665      relate     4                         Parent
+666      relate     5                        Sibling
+667      relate     6                  Parent-in-law
+668      relate     7        Daughter- or son-in-law
+669      relate     8                    Grandparent
+670      relate     9    Grandchild/great grandchild
+671      relate    10                 Other relative
+672      relate    11                    No relation
+673   parentloc     0 No mother or father in the hou
+674   parentloc     1                              1
+675   parentloc     2                              2
+676   parentloc     3                              3
+677   parentloc     4                              4
+678   parentloc     5                              5
+679   parentloc     6                              6
+680   parentloc     7                              7
+681   parentloc     8                              8
+682   parentloc     9                              9
+683   parentloc    10                             10
+684   parentloc    11                             11
+685   parentloc    12                             12
+686   parentloc    13                             13
+687   parentloc    14                             14
+688   parentloc    15                             15
+689   parentloc    16                             16
+690   parentloc    17                             17
+691   parentloc    18                             18
+692   parentloc    19                             19
+693   parentloc    20                             20
+694   parentloc    21                             21
+695   parentloc    22                             22
+696   parentloc    23                             23
+697   parentloc    24                             24
+698   parentloc    25                             25
+699   parentloc    26                             26
+700         sex     1                           Male
+701         sex     2                         Female
+702   resstatus     0                       Residing
+703   resstatus     1                         Absent
+704         mob     1                        January
+705         mob     2                       February
+706         mob     3                          March
+707         mob     4                          April
+708         mob     5                            May
+709         mob     6                           June
+710         mob     7                           July
+711         mob     8                         August
+712         mob     9                      September
+713         mob    10                        October
+714         mob    11                       November
+715         mob    12                       December
+716         yob  1912                1912 or earlier
+717         yob  1913                           1913
+718         yob  1914                           1914
+719         yob  1915                           1915
+720         yob  1916                           1916
+721         yob  1917                           1917
+722         yob  1918                           1918
+723         yob  1919                           1919
+724         yob  1920                           1920
+725         yob  1921                           1921
+726         yob  1922                           1922
+727         yob  1923                           1923
+728         yob  1924                           1924
+729         yob  1925                           1925
+730         yob  1926                           1926
+731         yob  1927                           1927
+732         yob  1928                           1928
+733         yob  1929                           1929
+734         yob  1930                           1930
+735         yob  1931                           1931
+736         yob  1932                           1932
+737         yob  1933                           1933
+738         yob  1934                           1934
+739         yob  1935                           1935
+740         yob  1936                           1936
+741         yob  1937                           1937
+742         yob  1938                           1938
+743         yob  1939                           1939
+744         yob  1940                           1940
+745         yob  1941                           1941
+746         yob  1942                           1942
+747         yob  1943                           1943
+748         yob  1944                           1944
+749         yob  1945                           1945
+750         yob  1946                           1946
+751         yob  1947                           1947
+752         yob  1948                           1948
+753         yob  1949                           1949
+754         yob  1950                           1950
+755         yob  1951                           1951
+756         yob  1952                           1952
+757         yob  1953                           1953
+758         yob  1954                           1954
+759         yob  1955                           1955
+760         yob  1956                           1956
+761         yob  1957                           1957
+762         yob  1958                           1958
+763         yob  1959                           1959
+764         yob  1960                           1960
+765         yob  1961                           1961
+766         yob  1962                           1962
+767         yob  1963                           1963
+768         yob  1964                           1964
+769         yob  1965                           1965
+770         yob  1966                           1966
+771         yob  1967                           1967
+772         yob  1968                           1968
+773         yob  1969                           1969
+774         yob  1970                           1970
+775         yob  1971                           1971
+776         yob  1972                           1972
+777         yob  1973                           1973
+778         yob  1974                           1974
+779         yob  1975                           1975
+780         yob  1976                           1976
+781         yob  1977                           1977
+782         yob  1978                           1978
+783         yob  1979                           1979
+784         yob  1980                           1980
+785         yob  1981                           1981
+786         yob  1982                           1982
+787         yob  1983                           1983
+788         yob  1984                           1984
+789         yob  1985                           1985
+790         yob  1986                           1986
+791         yob  1987                           1987
+792         yob  1988                           1988
+793         yob  1989                           1989
+794         yob  1990                           1990
+795         yob  1991                           1991
+796         yob  1992                           1992
+797         yob  1993                           1993
+798         yob  1994                           1994
+799         yob  1995                           1995
+800         yob  1996                           1996
+801         yob  1997                           1997
+802         yob  1998                           1998
+803         yob  1999                           1999
+804         yob  2000                           2000
+805         yob  2001                           2001
+806         yob  2002                           2002
+807         yob  2003                           2003
+808         yob  2004                           2004
+809         yob  2005                           2005
+810         yob  2006                           2006
+811         yob  2007                           2007
+812         yob  2008                           2008
+813         yob  2009                           2009
+814         age     0                              0
+815         age     1                              1
+816         age     2                              2
+817         age     3                              3
+818         age     4                              4
+819         age     5                              5
+820         age     6                              6
+821         age     7                              7
+822         age     8                              8
+823         age     9                              9
+824         age    10                             10
+825         age    11                             11
+826         age    12                             12
+827         age    13                             13
+828         age    14                             14
+829         age    15                             15
+830         age    16                             16
+831         age    17                             17
+832         age    18                             18
+833         age    19                             19
+834         age    20                             20
+835         age    21                             21
+836         age    22                             22
+837         age    23                             23
+838         age    24                             24
+839         age    25                             25
+840         age    26                             26
+841         age    27                             27
+842         age    28                             28
+843         age    29                             29
+844         age    30                             30
+845         age    31                             31
+846         age    32                             32
+847         age    33                             33
+848         age    34                             34
+849         age    35                             35
+850         age    36                             36
+851         age    37                             37
+852         age    38                             38
+853         age    39                             39
+854         age    40                             40
+855         age    41                             41
+856         age    42                             42
+857         age    43                             43
+858         age    44                             44
+859         age    45                             45
+860         age    46                             46
+861         age    47                             47
+862         age    48                             48
+863         age    49                             49
+864         age    50                             50
+865         age    51                             51
+866         age    52                             52
+867         age    53                             53
+868         age    54                             54
+869         age    55                             55
+870         age    56                             56
+871         age    57                             57
+872         age    58                             58
+873         age    59                             59
+874         age    60                             60
+875         age    61                             61
+876         age    62                             62
+877         age    63                             63
+878         age    64                             64
+879         age    65                             65
+880         age    66                             66
+881         age    67                             67
+882         age    68                             68
+883         age    69                             69
+884         age    70                             70
+885         age    71                             71
+886         age    72                             72
+887         age    73                             73
+888         age    74                             74
+889         age    75                             75
+890         age    76                             76
+891         age    77                             77
+892         age    78                             78
+893         age    79                             79
+894         age    80                             80
+895         age    81                             81
+896         age    82                             82
+897         age    83                             83
+898         age    84                             84
+899         age    85                             85
+900         age    86                             86
+901         age    87                             87
+902         age    88                             88
+903         age    89                             89
+904         age    90                             90
+905         age    91                             91
+906         age    92                             92
+907         age    93                             93
+908         age    94                             94
+909         age    95                             95
+910         age    96                            96+
+911      nation     1                         Kyrgyz
+912      nation     2                    Azerbaijani
+913      nation     3                       Armenian
+914      nation     4                     Belarusian
+915      nation     5                       Georgian
+916      nation     6                         Kazakh
+917      nation     9                       Moldovan
+918      nation    10                        Russian
+919      nation    11                          Tajik
+920      nation    12                        Turkmen
+921      nation    13                          Uzbek
+922      nation    14                      Ukrainian
+923      nation    18                           Avar
+924      nation    25                       American
+925      nation    28                           Arab
+926      nation    31               Afghan (Pashtun)
+927      nation    33                         Balkar
+928      nation    34                        Bashkir
+929      nation    38                      Bulgarian
+930      nation    48                          Greek
+931      nation    50                         Dargin
+932      nation    52                         Dungan
+933      nation    53                         Jewish
+934      nation    62                         Kalmyk
+935      nation    66                       Karachai
+936      nation    71                        Chinese
+937      nation    74                         Korean
+938      nation    81                           Kurd
+939      nation    83                         Lezgin
+940      nation    88                      Mordovian
+941      nation    94                         German
+942      nation   101                        Persian
+943      nation   102                         Polish
+944      nation   112                          Tatar
+945      nation   120                        Turkish
+946      nation   122             Meskhetian Turkish
+947      nation   123                        Ottoman
+948      nation   127                         Uighur
+949      nation   135                        Hemshil
+950      nation   139                         Romany
+951      nation   142                        Chechen
+952      nation   144                        Chuvash
+953      nation   161 Pakistani (Punjabis, Sindhis, 
+954      nation   199                          Other
+955       lang1     1                         Kyrgyz
+956       lang1     2                    Azerbaijani
+957       lang1     3                       Armenian
+958       lang1     4                     Belarusian
+959       lang1     5                       Georgian
+960       lang1     6                         Kazakh
+961       lang1     8                        Russian
+962       lang1     9                          Tajik
+963       lang1    10                        Turkmen
+964       lang1    11                          Uzbek
+965       lang1    12                      Ukrainian
+966       lang1    15                           Avar
+967       lang1    21                        English
+968       lang1    23                         Arabic
+969       lang1    26                         Afghan
+970       lang1    28                        Bashkir
+971       lang1    32                      Bulgarian
+972       lang1    41                         Dargin
+973       lang1    42                         Dungan
+974       lang1    49                          Yazdi
+975       lang1    51                       Kalmykia
+976       lang1    54                Karachay-Balkar
+977       lang1    59                        Chinese
+978       lang1    62                         Korean
+979       lang1    68                        Kurdish
+980       lang1    72                         Lezgin
+981       lang1    83                         German
+982       lang1    89                        Persian
+983       lang1   100                          Tatar
+984       lang1   107                        Turkish
+985       lang1   108                         Turkic
+986       lang1   112                          Uigur
+987       lang1   119                       Chemshil
+988       lang1   122                          Gypsy
+989       lang1   125                        Chechen
+990       lang1   146                Pakistan (Urdu)
+991       lang1   199                          Other
+992       lang2     1                         Kyrgyz
+993       lang2     5                       Georgian
+994       lang2     6                         Kazakh
+995       lang2     8                        Russian
+996       lang2     9                          Tajik
+997       lang2    11                          Uzbek
+998       lang2    12                      Ukrainian
+999       lang2    21                        English
+1000      lang2    23                         Andean
+1001      lang2    42                         Dungan
+1002      lang2    49                       Yezidsky
+1003      lang2    59                        Chinese
+1004      lang2    62                         Korean
+1005      lang2    83                         German
+1006      lang2   100                          Tatar
+1007      lang2   107                        Turkish
+1008      lang2   112                          Uigur
+1009      lang2   115                         French
+1010      lang2   199                          Other
+1011      lang2   999      No second language spoken
+1012      lang3     1                         Kyrgyz
+1013      lang3     6                         Kazakh
+1014      lang3     8                        Russian
+1015      lang3     9                          Tajik
+1016      lang3    11                          Uzbek
+1017      lang3    21                        English
+1018      lang3    23                         Arabic
+1019      lang3    42                         Dungan
+1020      lang3    49                       Yezidsky
+1021      lang3    59                        Chinese
+1022      lang3    62                         Korean
+1023      lang3    83                         German
+1024      lang3   100                          Tatar
+1025      lang3   107                        Turkish
+1026      lang3   112                          Uigur
+1027      lang3   115                         French
+1028      lang3   199                          Other
+1029      lang3   999       No third language spoken
+1030        bpl   100                         Abroad
+1031        bpl 11000                        Bishkek
+1032        bpl 21000                            Osh
+1033        bpl 22050              Ak-Suisk district
+1034        bpl 22100           Dzheti-Oguz district
+1035        bpl 22150             Issyk Kul district
+1036        bpl 22200                 Tonsk district
+1037        bpl 22250                  Tyup district
+1038        bpl 24100               Karakol district
+1039        bpl 24200              Balykchy district
+1040        bpl 22999 Unknown district, Issyk-Kul re
+1041        bpl 24999 Unknown city, Issyk-Kul region
+1042        bpl 32040             Ala-Bukin district
+1043        bpl 32070          Bazar-Korgon district
+1044        bpl 32110                 Aksyi district
+1045        bpl 32150                Nooken district
+1046        bpl 32200                 Suzak district
+1047        bpl 32230          Toguz-Torouz district
+1048        bpl 32250              Toktogul district
+1049        bpl 32300             Chatkalsk district
+1050        bpl 34100                Jalal Abad city
+1051        bpl 34200                Tash Kumyr city
+1052        bpl 34300                Mailuu-Suu city
+1053        bpl 34400                  Kara-Kul city
+1054        bpl 32999 Unknown district, Jalal-Abad r
+1055        bpl 34999 Unknown city, Jalal-Abad regio
+1056        bpl 42100              Ak-Talin district
+1057        bpl 42200             At-Bashin district
+1058        bpl 42300              Dzhumgal district
+1059        bpl 42350               Kochkor district
+1060        bpl 42450             Tien Shan district
+1061        bpl 42999 Unknown district, Naryn region
+1062        bpl 44999     Unknown city, Naryn region
+1063        bpl 52140                Batken district
+1064        bpl 52360               Lailyak district
+1065        bpl 52580             Kadamzhai district
+1066        bpl 54000                Kara-Suu region
+1067        bpl 54100                 G. Batken city
+1068        bpl 54200                   Sulukta city
+1069        bpl 54300                Kyzyl-Kiya city
+1070        bpl 62070                  Alay district
+1071        bpl 62110                Aravan district
+1072        bpl 62260            Kara-Suisk district
+1073        bpl 62420                Nookat district
+1074        bpl 62460          Kara-Kuldjin district
+1075        bpl 62550                Uzghen district
+1076        bpl 62590             Chon-Alay district
+1077        bpl 72150           Kara-Buurin district
+1078        bpl 72200          Bakai-Atinsk district
+1079        bpl 72250                 Manas district
+1080        bpl 72320                 Talas district
+1081        bpl 72999 Unkonwn district, Talas region
+1082        bpl 74999     Unknown city, Talas region
+1083        bpl 82030              Alamudun district
+1084        bpl 82060           Ysyk-Atinsk district
+1085        bpl 82090                Zhaiyl district
+1086        bpl 82130                 Kemin district
+1087        bpl 82170                Moscow district
+1088        bpl 82190              Panfilov district
+1089        bpl 82220               Sokuluk district
+1090        bpl 84000                    Tokmok City
+1091        bpl 89999  Unknown district, Chui region
+1092    bplctry     1                Kyrgyz Republic
+1093    bplctry     4                    Afghanistan
+1094    bplctry    31                     Azerbaijan
+1095    bplctry    51                        Armenia
+1096    bplctry   112                        Belarus
+1097    bplctry   156                          China
+1098    bplctry   268                        Georgia
+1099    bplctry   276                        Germany
+1100    bplctry   356                          India
+1101    bplctry   364                           Iran
+1102    bplctry   398                     Kazakhstan
+1103    bplctry   410              Republic of Korea
+1104    bplctry   498                        Moldova
+1105    bplctry   586                       Pakistan
+1106    bplctry   643                         Russia
+1107    bplctry   762                     Tajikistan
+1108    bplctry   792                         Turkey
+1109    bplctry   795                   Turkmenistan
+1110    bplctry   804                        Ukraine
+1111    bplctry   840 United States of America (USA)
+1112    bplctry   860                     Uzbekistan
+1113    bplctry   910                     Other Asia
+1114    bplctry   920                         Africa
+1115    bplctry   930                   Other Europe
+1116    bplctry   940                 Other Americas
+1117    bplctry   998                   Undocumented
+1118    citizen     1                Kyrgyz Republic
+1119    citizen     2                      Stateless
+1120    citizen     3                  Other country
+1121    yrmoved  1934                1934 or earlier
+1122    yrmoved  1935                           1935
+1123    yrmoved  1936                           1936
+1124    yrmoved  1937                           1937
+1125    yrmoved  1938                           1938
+1126    yrmoved  1939                           1939
+1127    yrmoved  1940                           1940
+1128    yrmoved  1941                           1941
+1129    yrmoved  1942                           1942
+1130    yrmoved  1943                           1943
+1131    yrmoved  1944                           1944
+1132    yrmoved  1945                           1945
+1133    yrmoved  1946                           1946
+1134    yrmoved  1947                           1947
+1135    yrmoved  1948                           1948
+1136    yrmoved  1949                           1949
+1137    yrmoved  1950                           1950
+1138    yrmoved  1951                           1951
+1139    yrmoved  1952                           1952
+1140    yrmoved  1953                           1953
+1141    yrmoved  1954                           1954
+1142    yrmoved  1955                           1955
+1143    yrmoved  1956                           1956
+1144    yrmoved  1957                           1957
+1145    yrmoved  1958                           1958
+1146    yrmoved  1959                           1959
+1147    yrmoved  1960                           1960
+1148    yrmoved  1961                           1961
+1149    yrmoved  1962                           1962
+1150    yrmoved  1963                           1963
+1151    yrmoved  1964                           1964
+1152    yrmoved  1965                           1965
+1153    yrmoved  1966                           1966
+1154    yrmoved  1967                           1967
+1155    yrmoved  1968                           1968
+1156    yrmoved  1969                           1969
+1157    yrmoved  1970                           1970
+1158    yrmoved  1971                           1971
+1159    yrmoved  1972                           1972
+1160    yrmoved  1973                           1973
+1161    yrmoved  1974                           1974
+1162    yrmoved  1975                           1975
+1163    yrmoved  1976                           1976
+1164    yrmoved  1977                           1977
+1165    yrmoved  1978                           1978
+1166    yrmoved  1979                           1979
+1167    yrmoved  1980                           1980
+1168    yrmoved  1981                           1981
+1169    yrmoved  1982                           1982
+1170    yrmoved  1983                           1983
+1171    yrmoved  1984                           1984
+1172    yrmoved  1985                           1985
+1173    yrmoved  1986                           1986
+1174    yrmoved  1987                           1987
+1175    yrmoved  1988                           1988
+1176    yrmoved  1989                           1989
+1177    yrmoved  1990                           1990
+1178    yrmoved  1991                           1991
+1179    yrmoved  1992                           1992
+1180    yrmoved  1993                           1993
+1181    yrmoved  1994                           1994
+1182    yrmoved  1995                           1995
+1183    yrmoved  1996                           1996
+1184    yrmoved  1997                           1997
+1185    yrmoved  1998                           1998
+1186    yrmoved  1999                           1999
+1187    yrmoved  2000                           2000
+1188    yrmoved  2001                           2001
+1189    yrmoved  2002                           2002
+1190    yrmoved  2003                           2003
+1191    yrmoved  2004                           2004
+1192    yrmoved  2005                           2005
+1193    yrmoved  2006                           2006
+1194    yrmoved  2007                           2007
+1195    yrmoved  2008                           2008
+1196    yrmoved  2009                           2009
+1197    yrmoved  9999          NIU (Not in universe)
+1198   whymoved     1                       Economic
+1199   whymoved     2                         Social
+1200   whymoved     3       Environmental (climatic)
+1201   whymoved     4                  Other reasons
+1202   whymoved     9          NIU (Not in universe)
+1203      marst     1         Single (never married)
+1204      marst     2             Registered married
+1205      marst     3 Not registered married (in uni
+1206      marst     4                        Widowed
+1207      marst     5                       Divorced
+1208      marst     6                      Separated
+1209      marst     9          NIU (Not in universe)
+1210      sploc     0           No spouse identified
+1211      sploc     1                              1
+1212      sploc     2                              2
+1213      sploc     3                              3
+1214      sploc     4                              4
+1215      sploc     5                              5
+1216      sploc     6                              6
+1217      sploc     7                              7
+1218      sploc     8                              8
+1219      sploc     9                              9
+1220      sploc    10                             10
+1221      sploc    11                             11
+1222      sploc    12                             12
+1223      sploc    13                             13
+1224      sploc    14                             14
+1225      sploc    15                             15
+1226      sploc    16                             16
+1227      sploc    17                             17
+1228      sploc    18                             18
+1229      sploc    19                             19
+1230      sploc    20                             20
+1231      sploc    21                             21
+1232      sploc    22                             22
+1233      sploc    23                             23
+1234      sploc    24                             24
+1235      sploc    25                             25
+1236      sploc    26                             26
+1237      sploc    27                             27
+1238    edlevel     1              Higher - bachelor
+1239    edlevel     2            Higher - specialist
+1240    edlevel     3                Higher - master
+1241    edlevel     4              Incomplete higher
+1242    edlevel     5           Secondary vocational
+1243    edlevel     6             Initial vocational
+1244    edlevel     7              Secondary general
+1245    edlevel     8        Basic general education
+1246    edlevel     9              Completed primary
+1247    edlevel    10    Less than primary education
+1248    edlevel    98                        Unknown
+1249    edlevel    99          NIU (Not in universe)
+1250        lit     1                            Yes
+1251        lit     2                             No
+1252        lit     8                        Unknown
+1253        lit     9          NIU (Not in universe)
+1254     degree     1          Candidate of sciences
+1255     degree     2             Doctor of sciences
+1256     degree     9          NIU (Not in universe)
+1257     edtype     1         Graduate and doctorate
+1258     edtype     2 Higher educational establishme
+1259     edtype     3 Secondary specialized educatio
+1260     edtype     4              Vocational school
+1261     edtype     5 General educational establishm
+1262     edtype     6                   Other school
+1263     edtype     7                  Not attending
+1264     edtype     9          NIU (Not in universe)
+1265  preschool     1                            Yes
+1266  preschool     2                             No
+1267  preschool     8                        Unknown
+1268  preschool     9          NIU (Not in universe)
+1269     incsrc     1         Income from employment
+1270     incsrc     2                    Scholarship
+1271     incsrc     3                        Pension
+1272     incsrc     4                      Allowance
+1273     incsrc     5    Other type of state support
+1274     incsrc     6                        Savings
+1275     incsrc     7           Income from property
+1276     incsrc     8                      Dependent
+1277     incsrc     9                   Other source
+1278        ind     4                    Agriculture
+1279        ind    13 Vegetable, ornamental plants a
+1280        ind    17 Growing of fruit, nuts, bevera
+1281        ind    21                Breeding cattle
+1282        ind    23 Sheep, goats, horses, asses, m
+1283        ind    29             Farming of poultry
+1284        ind    34       Animal husbandry, n.e.c.
+1285        ind    37 Growing of crops combined with
+1286        ind    40     Providing services in crop
+1287        ind    43 Provision of livestock, except
+1288        ind    50           Forestry and logging
+1289        ind    54 Providing services to forestry
+1290        ind    59 Hunting, fishing and pisicultu
+1291        ind    67 Mining and agglomeration of ha
+1292        ind    84      Crude oil and natural gas
+1293        ind    88 Providing services for oil and
+1294        ind    92 Mining of uranium and thorium 
+1295        ind    97            Mining of iron ores
+1296        ind   101 Mining of non-ferrous ores, ex
+1297        ind   120     Gravel and sand extraction
+1298        ind   131 Quarrying and extraction, n.e.
+1299        ind   142       Meat and fish production
+1300        ind   152 Fruit and vegetable preserving
+1301        ind   159   Manufacture of oils and fats
+1302        ind   166                Milk and cheese
+1303        ind   169       Manufacture of ice cream
+1304        ind   172 Manufacture of grain mill prod
+1305        ind   184 Manufacture of bread; manufact
+1306        ind   186 Manufacture of rusks and biscu
+1307        ind   188               Sugar production
+1308        ind   190 Manufacture of cocoa, chocolat
+1309        ind   192            Production of pasta
+1310        ind   194   Processing of tea and coffee
+1311        ind   200 Manufacture of other food prod
+1312        ind   205 Distilled and fermented alcoho
+1313        ind   209      Wine and cider production
+1314        ind   213 Manufacture of other non-disti
+1315        ind   217            Manufacture of malt
+1316        ind   219 Production of mineral waters a
+1317        ind   223 Manufacture of tobacco product
+1318        ind   228      Spinning of cotton fibers
+1319        ind   231     Carded wool fiber spinning
+1320        ind   260 Manufacture of textiles and re
+1321        ind   270 Manufacture of carpets and rug
+1322        ind   287 Manufacture of knitted and cro
+1323        ind   291     Leather related production
+1324        ind   294        Manufacture of workwear
+1325        ind   296        Manufacture of clothing
+1326        ind   300 Manufacture of other wearing a
+1327        ind   320 Manufacture of wood, wood pulp
+1328        ind   350 Manufacture of paper and paper
+1329        ind   370                     Publishing
+1330        ind   377         Printing of newspapers
+1331        ind   379               Printing, n.e.c.
+1332        ind   400        Production of petroleum
+1333        ind   434 Manufacture of pharmaceuticals
+1334        ind   439 Manufacture of soap and deterg
+1335        ind   476                        MISSING
+1336        ind   479 Manufacture of chemical produc
+1337        ind   483  Glass and ceramic manufacture
+1338        ind   514 Manufacture of bricks, tiles a
+1339        ind   517           Production of cement
+1340        ind   525 Manufacture of concrete, plast
+1341        ind   556       Metal and metal products
+1342        ind   598 Manufacture of metal structure
+1343        ind   603 Manufacture of structural meta
+1344        ind   620     Main engineering processes
+1345        ind   623 Manufacture of metal cutlery, 
+1346        ind   646 Manufacture of engines, machin
+1347        ind   734 Manufacture of electric domest
+1348        ind   748 Manufacture of electric motors
+1349        ind   752 Manufacture of electricity dis
+1350        ind   762 Manufacture of electric lamps 
+1351        ind   769 Manufacture of electrical equi
+1352        ind   777 Manufacture of electrical and 
+1353        ind   780 Manufacture of transmission eq
+1354        ind   785 Production of equipment for th
+1355        ind   790 Manufacture of medical and sur
+1356        ind   822                 Car production
+1357        ind   863 Manufacture of chairs and seat
+1358        ind   869 Manufacture of other furniture
+1359        ind   871      Manufacture of mattresses
+1360        ind   893 Other manufacturing and produc
+1361        ind   914            Steam and hot water
+1362        ind   920 Collection, purification and d
+1363        ind   925 Demolition, excavation, and ex
+1364        ind   933                    Civil works
+1365        ind   938 Construction of roads, airfiel
+1366        ind   940 Construction of water projects
+1367        ind   947     Electric installation work
+1368        ind   951                       Plumbing
+1369        ind   956                      Stuccoing
+1370        ind   958 Joinery and carpentry installa
+1371        ind   962           Painting and glazing
+1372        ind   964           Other finishing work
+1373        ind   972                    Motor trade
+1374        ind   976 Maintenance and repair of moto
+1375        ind   979 Sale of motor vehicle parts an
+1376        ind   988 Retail sale of automotive fuel
+1377        ind   992                   Sales agents
+1378        ind  1011                Wholesale trade
+1379        ind  1100 Retail sale in non-specialized
+1380        ind  1102 Other retail sale in non-speci
+1381        ind  1105 Retail sale of fruit and veget
+1382        ind  1107 Retail sale of meat and meat p
+1383        ind  1112 Retail trade in bakery product
+1384        ind  1118 Other retail sale of food in s
+1385        ind  1121 Retail sale of pharmaceutical 
+1386        ind  1125 Retail sale of perfume and cos
+1387        ind  1128        Retail sale of textiles
+1388        ind  1130        Retail sale of clothing
+1389        ind  1133 Retail sale of footwear and le
+1390        ind  1136 Retail sale of furniture and h
+1391        ind  1139 Retail sale of electrical hous
+1392        ind  1143 Retail sale of hardware, paint
+1393        ind  1145 Retail sale of books, newspape
+1394        ind  1147 Other retail sale in specializ
+1395        ind  1159             Other retail sales
+1396        ind  1162 Retail sale via stalls and mar
+1397        ind  1169 Repair of footwear and other l
+1398        ind  1172 Repair of electrical household
+1399        ind  1177 Repair of household goods pers
+1400        ind  1187 Provision of services of hotel
+1401        ind  1189 Providing services hotels with
+1402        ind  1192 Providing services youth touri
+1403        ind  1196 The provision of services othe
+1404        ind  1199   Service delivery restaurants
+1405        ind  1201         Service provision bars
+1406        ind  1204 Providing services canteens an
+1407        ind  1206      Delivery of prepared food
+1408        ind  1211              Railway transport
+1409        ind  1214 Other land passenger transport
+1410        ind  1218                 Taxi operation
+1411        ind  1220 Other land passenger transport
+1412        ind  1222              Freight transport
+1413        ind  1229  Activities of river transport
+1414        ind  1234 Air transport, following time-
+1415        ind  1237   Air transport, not-scheduled
+1416        ind  1246 Other transport and related au
+1417        ind  1257  Activities of travel agencies
+1418        ind  1260 Organization of cargo transpor
+1419        ind  1265  Postal and courier activities
+1420        ind  1266       National post activities
+1421        ind  1271             Telecommunications
+1422        ind  1276                Central banking
+1423        ind  1278  Other monetary intermediation
+1424        ind  1285             Providing a credit
+1425        ind  1294               Pension benefits
+1426        ind  1299 Other financial intermediation
+1427        ind  1314 Development, buying, and selli
+1428        ind  1322           Agencies Real estate
+1429        ind  1325         Real Estate Management
+1430        ind  1329 Transportation and machine ren
+1431        ind  1365 Computing and database consult
+1432        ind  1369 Research and development on na
+1433        ind  1376               Legal activities
+1434        ind  1379 Activities in the field of acc
+1435        ind  1383 Market research, business mana
+1436        ind  1388 Activities in the field of arc
+1437        ind  1395 Technical testing and research
+1438        ind  1400           Advertising activity
+1439        ind  1403 Labour recruitment and selecti
+1440        ind  1406     Investigation and security
+1441        ind  1409 Maintenance and cleaning of in
+1442        ind  1412        Photographic activities
+1443        ind  1419               State management
+1444        ind  1427  Management of social programs
+1445        ind  1429 Regulate and promote the effic
+1446        ind  1431 Support services by government
+1447        ind  1434       International activities
+1448        ind  1436             Defence activities
+1449        ind  1438 Activities in the field of jus
+1450        ind  1440 Activities to ensure public or
+1451        ind  1442 Security activities in emergen
+1452        ind  1445 Activities in the area of ??co
+1453        ind  1450 Primary education (first stage
+1454        ind  1455 General secondary education (s
+1455        ind  1457 Technical and vocational secon
+1456        ind  1461               Higher education
+1457        ind  1466 Adult and other education not 
+1458        ind  1473            Hospital activities
+1459        ind  1479               Medical practice
+1460        ind  1481                Dental Practice
+1461        ind  1483  Other human health activities
+1462        ind  1486          Veterinary activities
+1463        ind  1489 Social services with and witho
+1464        ind  1497 Activities of business and emp
+1465        ind  1499 Activities of professional org
+1466        ind  1502 Activities of political organi
+1467        ind  1505 Activities of religious organi
+1468        ind  1509 Activities of other membership
+1469        ind  1513 Production and dissemination o
+1470        ind  1520 Activities in the field of rad
+1471        ind  1523                        For art
+1472        ind  1527   Operation of arts facilities
+1473        ind  1529 Activity fairs and amusement p
+1474        ind  1531 Other spectacular and entertai
+1475        ind  1536         News agency activities
+1476        ind  1539 Library and archives activitie
+1477        ind  1545 Museums activities and preserv
+1478        ind  1548 The activity of botanical and 
+1479        ind  1552 Operation of sports facilities
+1480        ind  1554 Other activities in the field 
+1481        ind  1557            Activities Gambling
+1482        ind  1559 Other activities and recreatio
+1483        ind  1563 Laundry, dry cleaning and dyei
+1484        ind  1566 Hairdressing and other beauty 
+1485        ind  1568   Funeral and related services
+1486        ind  1570 Physical well-being activities
+1487        ind  1577 Activities of households as em
+1488        ind  1582 Activities of extraterritorial
+1489        ind  1597      Production of electricity
+1490        ind  1602             Power transmission
+1491        ind  1604 Distribution and sale of elect
+1492        ind  1605        Electrical Distribution
+1493        ind  1609     Production of gaseous fuel
+1494        ind  1611 Distribution of gaseous fuels 
+1495        ind  1651 Software development and consu
+1496        ind  1653 Providing secretarial services
+1497        ind  1657 Provision of other services to
+1498        ind  1660 Removal and treatment of waste
+1499        ind  1662 Removal and treatment of solid
+1500        ind  1664 Sanitation, decontamination an
+1501        ind  1665 Sanitation, decontamination an
+1502        ind  1668 Activities of households produ
+1503        ind  1672 Activities of households for p
+1504        ind  1679       Other industries, n.e.c.
+1505        ind  9998                        Unknown
+1506        ind  9999          NIU (Not in universe)
+1507    empstat     1                       Employed
+1508    empstat     2                  Self-employed
+1509    empstat     9          NIU (Not in universe)
+1510     lookwk     1                            Yes
+1511     lookwk     2                             No
+1512     lookwk     9          NIU (Not in universe)
+1513   nowkreas     1                   Lack of work
+1514   nowkreas     2            Illness, disability
+1515   nowkreas     3                 Family reasons
+1516   nowkreas     4                No need to work
+1517   nowkreas     5                 Another reason
+1518   nowkreas     8                        Unknown
+1519   nowkreas     9          NIU (Not in universe)
+1520     chborn     0                              0
+1521     chborn     1                              1
+1522     chborn     2                              2
+1523     chborn     3                              3
+1524     chborn     4                              4
+1525     chborn     5                              5
+1526     chborn     6                              6
+1527     chborn     7                              7
+1528     chborn     8                              8
+1529     chborn     9                              9
+1530     chborn    10                             10
+1531     chborn    11                             11
+1532     chborn    12                             12
+1533     chborn    13                             13
+1534     chborn    14                             14
+1535     chborn    15                            15+
+1536     chborn    99          NIU (Not in universe)
+1537    chbornm     0                              0
+1538    chbornm     1                              1
+1539    chbornm     2                              2
+1540    chbornm     3                              3
+1541    chbornm     4                              4
+1542    chbornm     5                              5
+1543    chbornm     6                              6
+1544    chbornm     7                              7
+1545    chbornm     8                              8
+1546    chbornm     9                              9
+1547    chbornm    10                            10+
+1548    chbornm    99          NIU (Not in universe)
+1549    chbornf     0                              0
+1550    chbornf     1                              1
+1551    chbornf     2                              2
+1552    chbornf     3                              3
+1553    chbornf     4                              4
+1554    chbornf     5                              5
+1555    chbornf     6                              6
+1556    chbornf     7                              7
+1557    chbornf     8                              8
+1558    chbornf     9                              9
+1559    chbornf    10                            10+
+1560    chbornf    99          NIU (Not in universe)
+1561     chsurv     0                              0
+1562     chsurv     1                              1
+1563     chsurv     2                              2
+1564     chsurv     3                              3
+1565     chsurv     4                              4
+1566     chsurv     5                              5
+1567     chsurv     6                              6
+1568     chsurv     7                              7
+1569     chsurv     8                              8
+1570     chsurv     9                              9
+1571     chsurv    10                             10
+1572     chsurv    11                             11
+1573     chsurv    12                             12
+1574     chsurv    13                             13
+1575     chsurv    14                            14+
+1576     chsurv    99          NIU (Not in universe)
+1577    chsurvm     0                              0
+1578    chsurvm     1                              1
+1579    chsurvm     2                              2
+1580    chsurvm     3                              3
+1581    chsurvm     4                              4
+1582    chsurvm     5                              5
+1583    chsurvm     6                              6
+1584    chsurvm     7                              7
+1585    chsurvm     8                              8
+1586    chsurvm     9                             9+
+1587    chsurvm    99          NIU (Not in universe)
+1588    chsurvf     0                              0
+1589    chsurvf     1                              1
+1590    chsurvf     2                              2
+1591    chsurvf     3                              3
+1592    chsurvf     4                              4
+1593    chsurvf     5                              5
+1594    chsurvf     6                              6
+1595    chsurvf     7                              7
+1596    chsurvf     8                              8
+1597    chsurvf     9                             9+
+1598    chsurvf    99          NIU (Not in universe)
+1599     chaway     0                              0
+1600     chaway     1                              1
+1601     chaway     2                              2
+1602     chaway     3                              3
+1603     chaway     4                              4
+1604     chaway     5                              5
+1605     chaway     6                              6
+1606     chaway     7                              7
+1607     chaway     8                              8
+1608     chaway     9                              9
+1609     chaway    10                             10
+1610     chaway    11                             11
+1611     chaway    12                            12+
+1612     chaway    98                        Unknown
+1613     chaway    99          NIU (Not in universe)
+1614    chawaym     0                              0
+1615    chawaym     1                              1
+1616    chawaym     2                              2
+1617    chawaym     3                              3
+1618    chawaym     4                              4
+1619    chawaym     5                              5
+1620    chawaym     6                              6
+1621    chawaym     7                              7
+1622    chawaym     8                             8+
+1623    chawaym    99          NIU (Not in universe)
+1624    chawayf     0                              0
+1625    chawayf     1                              1
+1626    chawayf     2                              2
+1627    chawayf     3                              3
+1628    chawayf     4                              4
+1629    chawayf     5                              5
+1630    chawayf     6                              6
+1631    chawayf     7                              7
+1632    chawayf     8                             8+
+1633    chawayf    99          NIU (Not in universe)

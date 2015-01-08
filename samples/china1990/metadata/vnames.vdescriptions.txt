@@ -1,0 +1,61 @@
+      vname                                                                     vdescription
+1     cntry                                                                          Country
+2      year                                                                             Year
+3    sample                                                          IPUMS sample identifier
+4    serial                                                          Household serial number
+5   persons                                        Number of person records in the household
+6      wthh                                                                 Household weight
+7   subsamp                                                                 Subsample number
+8        gq                                                            Group quarters status
+9     unrel                                                      Number of unrelated persons
+10  regionw                                                  Continent and region of country
+11  geolev1        1st subnational geographic level, world [consistent boundaries over time]
+12 geo1a_cn                       Province, China [Level 1; consistent boundaries over time]
+13 geo1b_cn           Province, China [Level 1; inconsistent boundaries, harmonized by name]
+14 geo2b_cn Prefecture and city, China [Level 2; inconsistent boundaries, harmonized by name
+15   hhtype                                                         Household classification
+16    nfams                                                  Number of families in household
+17  ncoupls                                           Number of married couples in household
+18  nmothrs                                                   Number of mothers in household
+19  nfathrs                                                   Number of fathers in household
+20  headloc                                                     Head's location in household
+21    dwnum                                                                  Dwelling number
+22     pern                                                   Number of persons in household
+23     fbig                Dwelling created by splitting apart a large dwelling or household
+24  fbig_nh                         Number of persons in large household before it was split
+25     prov                                                                         Province
+26  prefect                                                                       Prefecture
+27    hhtya                                                      Household type, agriculture
+28       gq                                                                   Household type
+29   pernum                                                                    Person number
+30    wtper                                                                    Person weight
+31   momloc                                                   Mother's location in household
+32   poploc                                                   Father's location in household
+33    sploc                                                   Spouse's location in household
+34  parrule                                                          Rule for linking parent
+35   sprule                                                          Rule for linking spouse
+36   pernum                                                 Person number (within household)
+37  pernumo                                                 Person number (within household)
+38   relate                                            Relationship to the head of household
+39      sex                                                                              Sex
+40   birthy                                                                       Birth year
+41   birthm                                                                   Month of birth
+42   nation                                                                        Ethnicity
+43   regist                                                              Registration status
+44    res85                                                          Usual residence in 1985
+45   res85t                                                     Usual residence type in 1985
+46  migreas                                                             Reason for migration
+47   edlev1                                                                Educational level
+48   edlev2                                                               Educational status
+49  edattan                                                           Educational attainment
+50      ind                                                                         Industry
+51      occ                                                                       Occupation
+52  unempst                                                            Non-employment status
+53    marst                                                                   Marital status
+54  chbornm                                                            Number of male births
+55  chbornf                                                          Number of female births
+56  chsurvm                                                Number of male children surviving
+57  chsurvf                                              Number of female children surviving
+58 chb89_90                                                      Births between 1989 to 1990
+59   hhtyap                                                    Household type (person-level)
+60      age                                                                              Age

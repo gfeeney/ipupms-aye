@@ -1,0 +1,127 @@
+        vname                                                                vdescription
+1       cntry                                                                     Country
+2        year                                                                        Year
+3      sample                                                     IPUMS sample identifier
+4      serial                                                     Household serial number
+5       dwnum                                                             Dwelling number
+6        pern                                              Number of persons in household
+7     donated                                                            Donated dwelling
+8       d_num                                              Donation strata: strata number
+9        dept                                       Department where household is located
+10   arrondis                                   Arrondissement where household is located
+11      urban                                         Place of residence (urban or rural)
+12   buildtyp                                                            Type of building
+13       wall                                                  Main material of the walls
+14       roof                                                   Main material of the roof
+15      floor                                                  Main material of the floor
+16   bldstate                                                       State of the building
+17      occup                                                            Occupancy status
+18    npremis              Number of premises in the dwelling not intended for habitation
+19    collect          Number of premises in the dwelling intended for collective housing
+20    individ          Number of premises in the dwelling intended for individual housing
+21   colprisn                                                         Prison (collective)
+22      occhh                                         State of occupation of housing unit
+23     nrooms                                             Number of rooms in housing unit
+24      water                                                                Water supply
+25   watdrink                                                    Source of drinking water
+26     watuse                                             Source of water for general use
+27      elect                                               Type of lighting, electricity
+28   lightgen                                                 Type of lighting, generator
+29   lightsol                                               Type of lighting, solar panel
+30   lightker                                             Type of lighting, kerosene lamp
+31   lightfla                                                Type of lighting, flashlight
+32   lightcan                                                   Type of lighting, candles
+33   lightoth                                                     Type of lighting, other
+34      waste                                                 Solid waste disposal system
+35    nrgwood                                                   Energy source, wood/straw
+36    nrgprop                                                  Energy source, propane gas
+37   nrgelect                                                  Energy source, electricity
+38    nrgchar                                                    Energy source, wood coal
+39    nrgkero                                                     Energy source, kerosene
+40     nrgsol                                                   Energy source, solar oven
+41   nrgother                                                        Energy source, other
+42     toilet                                                           Toilet facilities
+43      phone                                                        Number of telephones
+44   radiorec                                                Number of radios (receivers)
+45   radiocom                                           Number of radios (communications)
+46         tv                                                       Number of televisions
+47     fridge                                                     Number of refrigerators
+48       oven                                                Number of electric/gas ovens
+49    sewmach                                                   Number of sewing machines
+50     invert                                                         Number of inverters
+51     washer                                                  Number of washing machines
+52    computr                                                         Number of computers
+53        fan                                                     Number of electric fans
+54    machete                                                          Number of machetes
+55     shovel                                                           Number of shovels
+56     whlbrw                                                      Number of wheelbarrows
+57    motocyc                                                       Number of motorcycles
+58    bicycle                                                          Number of bicycles
+59       auto                                                       Number of automobiles
+60       hoes                                                              Number of hoes
+61       plow                                                             Number of plows
+62   wkanimal                                                      Number of work animals
+63    ownrshp                                                   Ownership of the dwelling
+64     hhtype                                                           Type of household
+65   deathshh                           Deaths in the household during the last 12 months
+66   nhhdeath                 Number of deaths in the household during the past 12 months
+67    dthsex1                                                 Sex (first household death)
+68    dthage1                                                 Age (first household death)
+69    dthsex2                                                Sex (second household death)
+70    dthsex3                                                 Sex (third household death)
+71     sizehh                                                       Size of the household
+72   npersons                                                           Number of persons
+73   collectv                                  Summary variable for collective households
+74     pernum                                                               Person number
+75      wtper                                                               Person weight
+76     pernum                                            Person number (within household)
+77     seqnum                                                             Sequence number
+78   ordernum                                                                Order number
+79     relate                                           Relationship to head of household
+80        sex                                                                         Sex
+81        age                                                                         Age
+82    bthcert                                                           Birth certificate
+83   mothaliv                                                                Mother alive
+84   oldchdrs                                     Older child currently residing in Haiti
+85      relig                                                          Professed religion
+86      disab                                                              Any disability
+87      blind                                                        Diability, blindness
+88       deaf                                                        Disability, deafness
+89       mute                                                            Disability, mute
+90     uplimb                                                     Disability, upper limbs
+91    lowlimb                                                     Disability, lower limbs
+92    mentald                                              Disability, mental development
+93  mentalill                                                  Disability, mental illness
+94   othdisab                                                           Disability, other
+95       bpl2                                          Country or arrondissement of birth
+96     resbpl              Length of residence in the city, district, or communal section
+97   prevres2                     Country or arrondissement of residence in December 1997
+98       read                                                 Knows how to read and write
+99       educ                                                   Education level completed
+100    yreduc                    Year completed or class for completed level of education
+101  fieldunv                                                Field of study at university
+102  fieldvoc                 Field of study at technical or professional training center
+103    school                              School or university attended during 2001-2002
+104   attprof         Professional or technical training center attended during 2001-2002
+105 attlitctr                                   Literacy center attended during 2001-2002
+106  attnoctr                       Attended a school or training center during 2001-2002
+107    tyuniv           Type of school/university establishment attended during 2001-2002
+108  typtrain Type of professional or technical training center attended during 2001-2002
+109 tylitcent                           Type of literacy center attended during 2001-2002
+110     marst                                                              Marital Status
+111  emplstat                                                         Terms of occupation
+112   econact                                                Engaged in economic activity
+113      ind2                                                          Industry, 3 digits
+114       occ                                                        Occupation, 2 digits
+115      occ2                                                        Occupation, 3 digits
+116   typempl                                                            Type of employer
+117   employm                                                          Type of employment
+118  workplac                                                          Main place of work
+119    chlive                                                      Had a child born alive
+120    chborn                                               Number of children born alive
+121    chsurv                               Number of children born alive currently alive
+122    lstbmo                                                    Month of last live birth
+123    lstbyr                                                     Year of last live birth
+124  lstblive                                                       Last born still alive
+125  mthdeath                                           Month of death of last-born child
+126   yrdeath                                            Year of death of last-born child

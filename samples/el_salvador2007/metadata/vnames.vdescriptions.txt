@@ -1,0 +1,120 @@
+        vname                                                                     vdescription
+1       cntry                                                                          Country
+2        year                                                                             Year
+3      sample                                                          IPUMS sample identifier
+4      serial                                                          Household serial number
+5       hhnum                                               Household number (within dwelling)
+6         hhn                                                 Number of households in dwelling
+7       pernd                                                    Number of persons in dwelling
+8        pern                                                   Number of persons in household
+9        fbig                Dwelling created by splitting apart a large dwelling or household
+10       dept                                                                       Department
+11      munic                                                                     Municipality
+12      urban                                                               Urban/rural status
+13     dwtype                                                                 Type of dwelling
+14      walls                                                                    Wall material
+15       roof                                                                    Roof material
+16      occup                                                                 Occupancy status
+17      floor                                                                   Floor material
+18    foodexp                                                             Shared food expenses
+19      rooms                                                            Total number of rooms
+20   bedrooms                                                         Total number of bedrooms
+21     rmcook                                               Rooms used exclusively for cooking
+22    ownrshp                                                         Tenancy of the household
+23      sewer                                                           Type of toilet service
+24     toilet                                                            Use of toilet service
+25   wastewtr                                                           Disposal of wastewater
+26   watersrc                                                                  Source of water
+27    watdays                                                     Frequency of receiving water
+28     fuelck                                                            Main fuel for cooking
+29      light                                                                 Type of lighting
+30      waste                                                                   Trash disposal
+31         tv                                                                       Television
+32      phone                                                             Telephone (landline)
+33     cellph                                                                       Cell phone
+34     refrig                                                                     Refrigerator
+35     washer                                                                  Washing machine
+36        vcr                                                                              VCR
+37   soundsys                                                                     Sound system
+38     microw                                                                   Microwave oven
+39    computr                                                                         Computer
+40       auto                                                                       Automobile
+41    motocyc                                                                       Motorcycle
+42      cable                                                                    Cable service
+43   internet                                                                 Internet service
+44    mkgoods                                        Make tortillas, clothing, furniture, etc.
+45    sellgds                                                           Sell products or items
+46   services                                                                   Offer services
+47     pafarm                                                      Principal activity: farming
+48     paanim                                              Principal activity: raising animals
+49     tenagr                              Tenancy of land used for farming or raising animals
+50   deathtot                                           Number of deaths in the last 12 months
+51     emighh                                       Any residents emigrated from the household
+52    emigtot                                                    Number of residents emigrated
+53    nummort                                                Total number of mortality records
+54     nummig                                                Total number of migration records
+55     pernum                                                                    Person number
+56      wtper                                                                    Person weight
+57     pernum                                                 Person number (within household)
+58     relate                                                Relationship to head of household
+59        sex                                                                              Sex
+60        age                                                         Age (in years completed)
+61     idcard                                                                    Identity card
+62    birthmo                                                                   Month of birth
+63    birthyr                                                                    Year of birth
+64    disuppr                                                Limited movement of hands or arms
+65     disvis                                         Limited vision (even when using glasses)
+66    dishear                                   Limited hearing (even when using hearing aids)
+67    dismute                                                                   Limited speech
+68    dismntl                                                                Mental disability
+69   dislimit                                                         Limitations in self-care
+70    disothr                                                       Other permanent limitation
+71       race                                                                             Race
+72     ethnic                                                                     Ethnic group
+73   nativity                                                                   Place of birth
+74    immigyr                                                   Year of arrival in El Salvador
+75   livehere                                 Whether always lived in the current municipality
+76    arrivyr                                          Year of arrival to current municipality
+77        lit                                                               Can read and write
+78    attschl                                                                School attendance
+79       educ                                                         Grade attending/attended
+80    educatt                                                Highest level of education passed
+81   lstgrade                                          Last grade or year passed in this level
+82     edcomp                                                                  Study completed
+83      major                                                            Major/course of study
+84    othlang                                        Speaks another language (besides Spanish)
+85       lang                                                                  Language spoken
+86        voc                                 Attending/attended vocational educational center
+87      marst                                                                   Marital status
+88      email                                                             Has an email account
+89      remit                                            Support from abroad (cash or in-kind)
+90   remitsex                                              Sex of the sender(s) of remittances
+91     prevwk                                                         Worked the previous week
+92   workjust Did not work for a justified reason (e.g. illness, strike, vacations, bad weathe
+93   othrwork                                                               Other type of work
+94    lookwrk                                             Look for work and ever worked before
+95   seekfrst                                               Looked for work for the first time
+96     whynot                                            Reason did not work the previous week
+97    ind3dig                                                               Industry (3-digit)
+98    occ3dig                                                             Occupation (3-digit)
+99    classwk                                              Work situation in the previous week
+100   hrswork                                          Total hours worked in the previous week
+101   workloc                                                        Location of the workplace
+102   livebth                                                                  Ever gave birth
+103   chbornm                                                Number of male children ever born
+104   chbornf                                              Number of female children ever born
+105  chlvhome                                              Number of children in the household
+106    chdead                                                Number of children that have died
+107    lstbmo                                                Month of birth of last born child
+108    lstbyr                                                 Year of birth of last born child
+109  lstchliv                                                            Last born child alive
+110   empstat                                                      Status in economic activity
+111   bthdept                                                              Department of birth
+112  bthplace                                                                   Place of birth
+113    bthmun                                                            Municipality of birth
+114   bthctry                                                                 Country of birth
+115  prevdept                                                 Department of previous residence
+116  resplace                                                      Place of previous residence
+117  prevctry                                                    Country of previous residence
+118  workdept                                              Department of work in previous week
+119 workplace                                                   Place of work in previous week

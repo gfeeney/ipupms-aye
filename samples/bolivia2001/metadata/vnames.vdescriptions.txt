@@ -1,0 +1,93 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      dwnum                                                   Dwelling number
+6       pern                                    Number of persons in household
+7       fbig Dwelling created by splitting apart a large dwelling or household
+8       dept                                                        Department
+9     dwtype                                                     Dwelling type
+10     occup                                                  Occupancy status
+11      wall                                                     Wall material
+12   wallint                                           Finished interior walls
+13      roof                                                     Roof material
+14     floor                                                    Floor material
+15    watsrc                                                      Water source
+16   watpipe                                         Water distribution/supply
+17   toilet1                                                            Toilet
+18   toilet2                                                     Toilet access
+19    sewage                                             Wastewater connection
+20  electric                                                       Electricity
+21  fuelcook                                             Fuel used for cooking
+22   kitchen                                                  Separate kitchen
+23     rooms                                                   Number of rooms
+24  bedrooms                                                Number of bedrooms
+25     radio                                                             Radio
+26        tv                                                        Television
+27      bike                                                           Bicycle
+28   motbike                                          Motorcycle/motor scooter
+29      auto                                                        Automobile
+30    refrig                                                      Refrigerator
+31     phone                                              Telephone/cell phone
+32   pumpwat                                               Electric water pump
+33  ownershp                                  Tenure of the dwelling/ownership
+34     blind                            Number of dwellers suffering blindness
+35      deaf                        Number of dwellers suffering deaf-muteness
+36   paralys                            Number of dwellers suffering paralysis
+37     death                                                     Death in 2000
+38    deathf                                  Death of female age 15 and older
+39 deathfres                                           Reason for female death
+40 deathfage                                            Age at death of female
+41     urban                                                       Urban-rural
+42    pernum                                                     Person number
+43     wtper                                                     Person weight
+44    pernum                                  Person number (within household)
+45       sex                                                               Sex
+46       age                                                               Age
+47  birthreg                                               Birth is registered
+48    relate                                                      Relationship
+49     lang1                                                    Speaks Quechua
+50     lang2                                                     Speaks Aymara
+51     lang3                                                    Speaks Spanish
+52     lang4                                                    Speaks Guarani
+53     lang5                                           Speaks foreign language
+54     lang6                                                    Does not speak
+55     lang7                                  Speaks other indigenous language
+56  livehere                                             Lives here habitually
+57  countryh                                     Country where live habitually
+58     depth                                        Department live habitually
+59     provh                                          Province live habitually
+60  bornhere                                                         Born here
+61  ctrybrth                                                  Country of birth
+62   yrarriv                                                   Year of arrival
+63  deptbrth                                               Department of birth
+64  provbrth                                                 Province of birth
+65  mothtong                                  Native language learned as child
+66       lit                                                          Literacy
+67    attend                                        Currently attending school
+68    levatt                                            School level attending
+69   levcomp                                 Highest level of school completed
+70    yrcomp                        Years of school completed at highest level
+71   edattan                                            Educational attainment
+72    prereq               Level of schooling prior to highest level completed
+73  prereqyr  Years of schooling in the level prior to highest level completed
+74   here5yr                                         Lived here five years ago
+75  cntry5yr                                            Country five years ago
+76   dept5yr                                         Department five years ago
+77   prov5yr                                           Province five years ago
+78  wkrlstwk                                                  Worked last week
+79  nonwork1                                                Nonwork activity 1
+80  nonwork2                                                Nonwork activity 2
+81       occ                                              Occupation, 3 digits
+82   classwk                                              Status in employment
+83      ind3                                                Industry, 3 digits
+84     marst                                        Marital or conjugal status
+85     indig                                               Indigenous identity
+86    chborn                                               Children born alive
+87    chsurv                                          Children currently alive
+88    chdead                                                 Children deceased
+89  bthmonth                           Month of birth of last child born alive
+90   bthyear                            Year of birth of last child born alive
+91       bpl                                      Place of birth of last child
+92   birthdr                                   Birth of last child attended by

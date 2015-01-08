@@ -1,0 +1,122 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      dwnum                                                   Dwelling number
+6       pern                                    Number of persons in household
+7       fbig Dwelling created by splitting apart a large dwelling or household
+8     region                                                            Region
+9   district                                                          District
+10       ta2                                      Town (traditional authority)
+11    hhtype                                                 Type of household
+12    struct                                        Type of dwelling structure
+13    tenure                                            Tenure of the dwelling
+14      roof                                         Main material of the roof
+15     walls                                        Main material of the walls
+16     floor                                        Main material of the floor
+17     rooms                                                   Number of rooms
+18  bedrooms                                      Number of rooms for sleeping
+19  occupnts                                               Number of occupants
+20   watrdry                       Main source of drinking water in dry season
+21   watrwet                       Main source of drinking water in wet season
+22    toilet                                           Type of toilet facility
+23  lighting                                Main source of energy for lighting
+24  fuelcook                                 Main source of energy for cooking
+25     radio                                                     Owned a radio
+26        tv                                                Owned a television
+27  refridge                                 Owned a refrigerator/deep freezer
+28  hotplate                                          Owned a cooker/hot plate
+29   bicycle                                                   Owned a bicycle
+30   motocyc                                                Owned a motorcycle
+31       car                                              Owned a car or truck
+32     phone                                                 Owned a telephone
+33    oxcart                                                  Owned an ox-cart
+34   mosqnet                            Owned an ITN (insecticide-treated net)
+35    emighh                                  Household had emigrant member(s)
+36    remitt                                    Household received remittances
+37  regremit                                         Regularity of remittances
+38   deathhh                            Household had deaths in last 12 months
+39   resmale                                          Present residents - male
+40    resfem                                        Present residents - female
+41  restotal                                         Present residents - total
+42   vismale                                                   Visitors - male
+43    visfem                                                 Visitors - female
+44    vistot                                                  Visitors - total
+45  enummale                                           Total enumerated - male
+46   enumfem                                         Total enumerated - female
+47   enumtot                                          Total enumerated - total
+48     urban                                                Urban/rural status
+49     nmort                                     Number of deaths in last year
+50      nmig                             Number of emigrants in last ten years
+51    pernum                                                     Person number
+52     wtper                                                     Person weight
+53  resident                               Residence status: de facto, de jure
+54    pernum                                  Person number (within household)
+55    relate                                 Relationship to head of household
+56       sex                                                               Sex
+57   birthmo                                                    Month of birth
+58   birthyr                                                     Year of birth
+59    malawi                                                          Malawian
+60    nation                                                       Nationality
+61   resstat                                                  Residence status
+62     tribe                                                             Tribe
+63   prevres                         District or country of previous residence
+64    resdur                                     Duration of residence (years)
+65    disab1                                         Type of disability, first
+66  discaus1                                        Cause of disability, first
+67    disab2                                        Type of disability, second
+68  discaus2                                       Cause of disability, second
+69    disab3                                         Type of disability, third
+70  discaus3                                        Cause of disability, third
+71  mothlive                                                      Mother alive
+72    mothhh                                                   Mother in house
+73  fathlive                                                      Father alive
+74    fathhh                                                   Father in house
+75   bthcert                                             Has birth certificate
+76  chichewa                                              Literate in Chichewa
+77   othlang                                        Literate in other language
+78  litlangs                                                Literacy, detailed
+79  edattain                           Highest school level and grade attended
+80   edlevel                                     Highest school level attended
+81   edgrade                            Highest school years or grade attended
+82  edqualif                          Highest education qualification attained
+83   empstat                                               Economically active
+84    nowork                                            Reason for not working
+85   subsist                                                  Subsistence work
+86   looking                                                  Looking for work
+87      occ2                                             Occupation (2 digits)
+88   classwk                                                   Class of worker
+89   classwk                                                   Class of worker
+90      ind2                                                     Main industry
+91     marst                                                    Marital status
+92   agemarr                                    Age at first marriage or union
+93   chbornm                                           Male children ever born
+94   chsurvm                                           Male children surviving
+95   chsurvf                                         Female children surviving
+96   blstyrm                                              Males born last year
+97   blstyrf                                            Females born last year
+98    blivem                                    Males born last year surviving
+99    blivef                                  Females born last year surviving
+100  qrelate                                                 Relationship flag
+101     qsex                                                          Sex flag
+102     qage                                                          Age flag
+103  qmalawi                                            Malawian (Yes/No) flag
+104  qnation                                                  Nationality flag
+105   qrelig                                                     Religion flag
+106   qtribe                                                        Tribe flag
+107 qmothliv                                                 Mother alive flag
+108 qfathliv                                                 Father alive flag
+109   qmarst                                               Marital status flag
+110 qchbornm                                      Male children ever born flag
+111 qchbornf                                    Female children ever born flag
+112 qchsurvm                                      Male children surviving flag
+113 qchsurvf                                    Female children surviving flag
+114 qblstyrm                                         Males born last year flag
+115 qblstyrf                                       Females born last year flag
+116 qmlstliv                               Males born last year surviving flag
+117 qflstliv                             Females born last year surviving flag
+118   chborn                                                Children ever born
+119   chsurv                                                Children surviving
+120 bthlstyr                                           Children born last year
+121    blive                                 Children born last year surviving

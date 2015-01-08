@@ -1,0 +1,256 @@
+       vname                                          vdescription
+1      cntry                                               Country
+2       year                                                  Year
+3     sample                               IPUMS sample identifier
+4     serial                               Household serial number
+5      dwnum                                       Dwelling number
+6       pern                        Number of persons in household
+7    subsamp                                      Subsample number
+8       hhwt                                      Household weight
+9       puma                             Public Use Microdata Area
+10   metarea                                     Metropolitan area
+11        gq                                 Group quarters status
+12      farm                                           Farm status
+13  farmprod                                Sales of farm products
+14  ownershp                                 Ownership of dwelling
+15  mortgage                                       Mortgage status
+16  mortgag2                                Second mortgage status
+17  mortamt1                        First mortgage monthly payment
+18    valueh                                           House value
+19   commuse                                        Commercial use
+20  acrehous                                         House acreage
+21   taxincl              Mortgage payment includes property taxes
+22   insincl          Mortgage payment includes property insurance
+23  propinsr                        Annual property insurance cost
+24    proptx                                 Annual property taxes
+25      rent                                 Monthly contract rent
+26   rentgrs                                    Monthly gross rent
+27  rentmeal                                Meals included in rent
+28  condofee                               Monthly condominium fee
+29  costelec                               Annual electricity cost
+30   costgas                                       Annual gas cost
+31  costwatr                                     Annual water cost
+32  costfuel                         Annual home heating fuel cost
+33   ftotinc                                   Total family income
+34   vacancy                                        Vacancy status
+35  hhincome                                Total household income
+36   kitchen                         Kitchen or cooking facilities
+37     rooms                                       Number of rooms
+38  plumbing                                   Plumbing facilities
+39  unitsstr                                    Units in structure
+40  bedrooms                                    Number of bedrooms
+41     phone                                Telephone availability
+42  mortamt2                       Second mortgage monthly payment
+43  lingisol                                  Linguistic isolation
+44  fuelheat                                     Home heating fuel
+45  vehicles                                    Vehicles available
+46     nfams                       Number of families in household
+47  ncouples                Number of married couples in household
+48  nmothers                        Number of mothers in household
+49  nfathers                        Number of fathers in household
+50  qmoblhom                      Flag for annual mobile home cost
+51  qmortam1                Flag for first monthly mortage payment
+52  qinsincl Flag for mortgage payment includes property insurance
+53  qmortam2              Flag for second mortgage monthly payment
+54  qbedroom                           Flag for number of bedrooms
+55  qcommuse                               Flag for commercial use
+56  qmortga2                       Flag for second mortgage stutus
+57  qcostele                             Flag for electricity cost
+58  qmortgag                              Flag for mortgage status
+59  qcostfue                                    Flag for fuel cost
+60  qcostgas                                     Flag for gas cost
+61  qpropins                      Flag for property insurance cost
+62  qcostwat                                   Flag for water cost
+63   qproptx                    Flag for annual property tax, 1999
+64  qfarmpro                Flag for farm products and farm status
+65  qrentmea                       Flag for meals included in rent
+66  qfuelhea                                 Flag for heating fuel
+67  qplumbin                                     Flag for plumbing
+68  qkitchen                                      Flag for kitchen
+69  qownersh                                    Flag for ownership
+70    qphone                                        Flag for phone
+71     qrent                      Flag for monthly contracted rent
+72    qrooms                              Flag for number of rooms
+73  qunitsst                              Flag for units structure
+74  qvacancy                                      Flag for vacancy
+75   qvalueh                                  Flag for house value
+76  qcondofe                              Flag for condominuim fee
+77  qtaxincl     Flag for tax included in monthly mortgage payment
+78  foodstmp                                 Food stamp recipiency
+79  qfoodstm               Flag for foodstamp and foodstamp amount
+80  qmortg2a                       Flag for second mortgage stutus
+81  pumasupr                       Super Public Use Microdata Area
+82  builtyr2                              Age of structure, decade
+83  qbuilty2                             Flag for age of structure
+84    secres                               Second residence status
+85  secresmo                     Months living in second residence
+86  secresre                           Reason for second residence
+87  fdstpamt                                     Food stamp amount
+88    hhtype                                        Household type
+89  qvehicle                         Data quality flag for vehicle
+90    pernum                                         Person number
+91     wtper                                         Person weight
+92    pernum                      Person number (within household)
+93   pernump                          Person number in sample unit
+94     perwt                                         Person weight
+95    momloc                    Mother's location in the household
+96   stepmom                          Probable step/adopted mother
+97   momrule                               Rule for linking mother
+98    poploc                    Father's location in the household
+99   steppop                          Probable step/adopted father
+100  poprule                               Rule for linking father
+101    sploc                        Spouse's location in household
+102   sprule                               Rule for linking spouse
+103  famsize             Number of own family members in household
+104   nchild               Number of own children in the household
+105   nchlt5       Number of own children under age 5 in household
+106  famunit                                Family unit membership
+107    eldch                  Age of eldest own child in household
+108    yngch                Age of youngest own child in household
+109    nsibs                   Number of own siblings in household
+110   relate                        Relationship to household head
+111      age                                                   Age
+112      sex                                                   Sex
+113     race                                                  Race
+114    marst                                        Marital status
+115      bpl                                            Birthplace
+116 ancestr2                             Ancestry, second response
+117  citizen                                    Citizenship status
+118   hispan                                       Hispanic origin
+119  yrsusa2                     Years in Puerto Rico, intervalled
+120 language                                       Language spoken
+121 speakeng                                        Speaks English
+122   school                                     School attendance
+123   educ99                                Educational attainment
+124  educrec                         Educational attainment recode
+125 schltype                              Public or private school
+126  empstat                                     Employment status
+127 labforce                                    Labor force status
+128  occ1950                                Occupation, 1950 basis
+129      occ                                            Occupation
+130 occscore                             Occupational income score
+131      sei                            Duncan Socioeconomic Index
+132  ind1950                                  Industry, 1950 basis
+133      ind                                              Industry
+134 classwkr                                       Class of worker
+135 wkswork1                                Weeks worked last year
+136 wkswork2                   Weeks worked last year, intervalled
+137 uhrswork                           Usual hours worked per week
+138  yrsusa1                                  Years in Puerto Rico
+139 workedyr                                      Worked last year
+140   absent                            Absent from work last week
+141  looking                                      Looking for work
+142 availble                                    Available for work
+143   inctot                                 Total personal income
+144  incwage                                Wage and salary income
+145  poverty                                        Poverty status
+146    incss                                Social Security income
+147 incwelfr                    Welfare (public assistance) income
+148 incinvst                 Interest, dividend, and rental income
+149  incearn                          Total personal earned income
+150 incother                                          Other income
+151 migrate1                              Migration status, 1 year
+152 migplac1              State or country of residence 1 year ago
+153  migmet1             Metropolitan area of residence 1 year ago
+154 migtype1                        Metropolitan status 1 year ago
+155  movedin                    When occupant moved into residence
+156   pwtype                    Place of work: metropolitan status
+157 disabwrk                                       Work disability
+158 disabmob                          Disability limiting mobility
+159 perscare                              Personal care limitation
+160  vetstat                                        Veteran status
+161  vetstat                                        Veteran status
+162 vet80x90                          Veteran, served 1980 to 1990
+163 vet75x80                          Veteran, served 1975 to 1980
+164 vetvietn                    Veteran, served during Vietnam era
+165   vetyrs                 Years of active-duty military service
+166 vet55x64                          Veteran, served 1955 to 1964
+167 vetkorea            Veteran, served during Korean conflict era
+168  vetwwii                       Veteran, served during WWII era
+169 vetother                               Veteran of other period
+170 tranwork                       Means of transportation to work
+171  carpool                                            Carpooling
+172   riders                                     Vehicle occupancy
+173 trantime                                   Travel time to work
+174  departs                            Time of departure for work
+175 birthqtr                                      Quarter of birth
+176 qdeparts                   Flag for time of departure for work
+177     qbpl                         Flag for birthplace, nativity
+178 qcarpool                                      Flag for carpool
+179 qcitizen                                      Flag for citizen
+180 qclasswk                              Flag for class of worker
+181 qlanguag                                     Flag for language
+182 qdisabwr                              Flag for work disability
+183 qempstat               Flag for employment status, labor force
+184  qincbus  Flag for business and farm, total, and earned income
+185 qincinvs Flag for interest, dividend, rental, and total income
+186 qincothe                       Flag for other and total income
+187   qincss             Flag for Social Security and total income
+188 qincwage               Flag for wage, total, and earned income
+189 qincwelf                     Flag for welfare and total income
+190     qind                                     Flag for industry
+191 qdisabmo                 Flag for disability limiting mobility
+192 qperscar                     Flag for personal care limitation
+193 qpwstat2              Flag for place of work: state or country
+194   qmarst                               Flag for marital status
+195 qincreti                  Flag for retirement and total income
+196 qmigplc1     Flag for state or country of residence 1 year ago
+197 qmigrat1                     Flag for migration status, 1 year
+198  qvetyrs        Flag for years of active-duty military service
+199 qmovedin           Flag for when occupant moved into residence
+200     qocc                                   Flag for occupation
+201    qrace                                         Flag for race
+202  qrelate               Flag for relationship to household head
+203  qriders                            Flag for vehicle occupancy
+204  qschool                   Flag for school attendance and type
+205     qsex                                          Flag for sex
+206     qsex                                          Flag for sex
+207 qspeaken                               Flag for speaks English
+208 qtrantim                      Flag for travelling time to work
+209 qtranwor              Flag for means of transportation to work
+210 quhrswor                          Flag for usual hours of work
+211 qvetstat                               Flag for veteran status
+212 qwkswork                       Flag for weeks worked last year
+213 qworkedy                             Flag for worked last year
+214   qyrimm                         Flag for years of immigration
+215  gchouse                 Own grandchildren living in household
+216   fertyr                    Children born within the last year
+217 racamind                Race: American Indian or Alaska Native
+218 racasian                                           Race: Asian
+219   racblk                       Race: black or African American
+220 racpacis                                Race: Pacific Islander
+221   racnum                           Number of major race groups
+222 racother                                 Race: some other race
+223   racwht                                           Race: white
+224 gradeatt                                 Grade level attending
+225 wrklstwk                                      Worked last week
+226 wrkrecal                               Informed of work recall
+227  diffeye                          Vision or hearing difficulty
+228 diffphys                                   Physical difficulty
+229  diffrem                                Difficulty remembering
+230 gcmonths                  Months responsible for grandchildren
+231 gcrespon                         Responsible for grandchildren
+232 qdiffeye                 Flag for vision or hearing difficulty
+233 qincsupp                Flag for Supplementary Security income
+234 qdiffphy                          Flag for physical difficulty
+235 qdiffrem                       Flag for difficulty remembering
+236  qfertyr           Flag for children born within the last year
+237 qgchouse        Flag for own grandchildren living in household
+238 qgcmonth         Flag for months responsible for grandchildren
+239 qgcrespo                Flag for responsible for grandchildren
+240 qgradeat                        Flag for grade level attending
+241 incbus00                        Business and farm income, 2000
+242 incretir                                     Retirement income
+243 vet01ltr                         Veteran, served 2001 or later
+244 vet90x01                             Veteran, served 1990-2001
+245 vet47x50                             Veteran, served 1947-1950
+246 occ2000m                                Occupation, 2000 basis
+247 ind2000m                                  Industry, 2000 basis
+248  ind1990                                  Industry, 1990 basis
+249 racesing                      Race: single race identification
+250  occ1990                                Occupation, 1990 basis
+251 respmode                                         Response mode
+252  arrives                               Time of arrival at work
+253  arrives                               Time of arrival at work
+254    tribe                                                 Tribe
+255 yrimmipr                    Year of immigration to Puerto Rico

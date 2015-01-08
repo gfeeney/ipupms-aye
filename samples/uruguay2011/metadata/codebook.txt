@@ -1,0 +1,3047 @@
+        vname  code                          short
+1       cntry    32                      Argentina
+2       cntry    51                        Armenia
+3       cntry    40                        Austria
+4       cntry    50                     Bangladesh
+5       cntry   112                        Belarus
+6       cntry    68                        Bolivia
+7       cntry    76                         Brazil
+8       cntry   854                   Burkina Faso
+9       cntry   116                       Cambodia
+10      cntry   120                       Cameroon
+11      cntry   124                         Canada
+12      cntry   152                          Chile
+13      cntry   156                          China
+14      cntry   170                       Colombia
+15      cntry   188                     Costa Rica
+16      cntry   192                           Cuba
+17      cntry   214             Dominican Republic
+18      cntry   218                        Ecuador
+19      cntry   818                          Egypt
+20      cntry   222                    El Salvador
+21      cntry   242                           Fiji
+22      cntry   250                         France
+23      cntry   276                        Germany
+24      cntry   288                          Ghana
+25      cntry   300                         Greece
+26      cntry   324                         Guinea
+27      cntry   332                          Haiti
+28      cntry   348                        Hungary
+29      cntry   356                          India
+30      cntry   360                      Indonesia
+31      cntry   364                           Iran
+32      cntry   368                           Iraq
+33      cntry   372                        Ireland
+34      cntry   376                         Israel
+35      cntry   380                          Italy
+36      cntry   388                        Jamaica
+37      cntry   400                         Jordan
+38      cntry   404                          Kenya
+39      cntry   417                Kyrgyz Republic
+40      cntry   430                        Liberia
+41      cntry   454                         Malawi
+42      cntry   458                       Malaysia
+43      cntry   466                           Mali
+44      cntry   484                         Mexico
+45      cntry   496                       Mongolia
+46      cntry   504                        Morocco
+47      cntry   524                          Nepal
+48      cntry   528                    Netherlands
+49      cntry   558                      Nicaragua
+50      cntry   566                        Nigeria
+51      cntry   586                       Pakistan
+52      cntry   275                      Palestine
+53      cntry   591                         Panama
+54      cntry   604                           Peru
+55      cntry   608                    Philippines
+56      cntry   620                       Portugal
+57      cntry   630                    Puerto Rico
+58      cntry   642                        Romania
+59      cntry   646                         Rwanda
+60      cntry   662                    Saint Lucia
+61      cntry   686                        Senegal
+62      cntry   694                   Sierra Leone
+63      cntry   705                       Slovenia
+64      cntry   710                   South Africa
+65      cntry   728                    South Sudan
+66      cntry   724                          Spain
+67      cntry   729                          Sudan
+68      cntry   756                    Switzerland
+69      cntry   834                       Tanzania
+70      cntry   764                       Thailand
+71      cntry   792                         Turkey
+72      cntry   800                         Uganda
+73      cntry   804                        Ukraine
+74      cntry   826                 United Kingdom
+75      cntry   840                  United States
+76      cntry   858                        Uruguay
+77      cntry   862                      Venezuela
+78      cntry   704                        Vietnam
+79      cntry   894                         Zambia
+80       year  1960                           1960
+81       year  1962                           1962
+82       year  1963                           1963
+83       year  1964                           1964
+84       year  1966                           1966
+85       year  1968                           1968
+86       year  1969                           1969
+87       year  1970                           1970
+88       year  1971                           1971
+89       year  1972                           1972
+90       year  1973                           1973
+91       year  1974                           1974
+92       year  1975                           1975
+93       year  1976                           1976
+94       year  1977                           1977
+95       year  1979                           1979
+96       year  1980                           1980
+97       year  1981                           1981
+98       year  1982                           1982
+99       year  1983                           1983
+100      year  1984                           1984
+101      year  1985                           1985
+102      year  1986                           1986
+103      year  1987                           1987
+104      year  1989                           1989
+105      year  1990                           1990
+106      year  1991                           1991
+107      year  1992                           1992
+108      year  1993                           1993
+109      year  1994                           1994
+110      year  1995                           1995
+111      year  1996                           1996
+112      year  1997                           1997
+113      year  1998                           1998
+114      year  1999                           1999
+115      year  2000                           2000
+116      year  2001                           2001
+117      year  2002                           2002
+118      year  2003                           2003
+119      year  2004                           2004
+120      year  2005                           2005
+121      year  2006                           2006
+122      year  2007                           2007
+123      year  2008                           2008
+124      year  2009                           2009
+125      year  2010                           2010
+126      year  2011                           2011
+127    sample   321                 Argentina 1970
+128    sample   322                 Argentina 1980
+129    sample   323                 Argentina 1991
+130    sample   324                 Argentina 2001
+131    sample   325                 Argentina 2010
+132    sample   511                   Armenia 2001
+133    sample   401                   Austria 1971
+134    sample   402                   Austria 1981
+135    sample   403                   Austria 1991
+136    sample   404                   Austria 2001
+137    sample   501                Bangladesh 1991
+138    sample   502                Bangladesh 2001
+139    sample   503                Bangladesh 2011
+140    sample   681                   Bolivia 1976
+141    sample   682                   Bolivia 1992
+142    sample   683                   Bolivia 2001
+143    sample   761                    Brazil 1960
+144    sample   762                    Brazil 1970
+145    sample   763                    Brazil 1980
+146    sample   764                    Brazil 1991
+147    sample   765                    Brazil 2000
+148    sample   766                    Brazil 2010
+149    sample  1121                   Belarus 1999
+150    sample  8541              Burkina Faso 1985
+151    sample  8542              Burkina Faso 1996
+152    sample  8543              Burkina Faso 2006
+153    sample  1161                  Cambodia 1998
+154    sample  1162                  Cambodia 2008
+155    sample  1201                  Cameroon 1976
+156    sample  1202                  Cameroon 1987
+157    sample  1203                  Cameroon 2005
+158    sample  1241                    Canada 1971
+159    sample  1242                    Canada 1981
+160    sample  1243                    Canada 1991
+161    sample  1244                    Canada 2001
+162    sample  1521                     Chile 1960
+163    sample  1522                     Chile 1970
+164    sample  1523                     Chile 1982
+165    sample  1524                     Chile 1992
+166    sample  1525                     Chile 2002
+167    sample  1561                     China 1982
+168    sample  1562                     China 1990
+169    sample  1701                  Colombia 1964
+170    sample  1702                  Colombia 1973
+171    sample  1703                  Colombia 1985
+172    sample  1704                  Colombia 1993
+173    sample  1705                  Colombia 2005
+174    sample  1881                Costa Rica 1963
+175    sample  1882                Costa Rica 1973
+176    sample  1883                Costa Rica 1984
+177    sample  1884                Costa Rica 2000
+178    sample  1921                      Cuba 2002
+179    sample  2141        Dominican Republic 1960
+180    sample  2142        Dominican Republic 1970
+181    sample  2143        Dominican Republic 1981
+182    sample  2144        Dominican Republic 2002
+183    sample  2145        Dominican Republic 2010
+184    sample  2181                   Ecuador 1962
+185    sample  2182                   Ecuador 1974
+186    sample  2183                   Ecuador 1982
+187    sample  2184                   Ecuador 1990
+188    sample  2185                   Ecuador 2001
+189    sample  2186                   Ecuador 2010
+190    sample  8181                     Egypt 1996
+191    sample  8182                     Egypt 2006
+192    sample  2221               El Salvador 1992
+193    sample  2222               El Salvador 2007
+194    sample  2421                      Fiji 1966
+195    sample  2422                      Fiji 1976
+196    sample  2423                      Fiji 1986
+197    sample  2424                      Fiji 1996
+198    sample  2425                      Fiji 2007
+199    sample  2501                    France 1962
+200    sample  2502                    France 1968
+201    sample  2503                    France 1975
+202    sample  2504                    France 1982
+203    sample  2505                    France 1990
+204    sample  2506                    France 1999
+205    sample  2507                    France 2006
+206    sample  2761            Germany 1970 (West)
+207    sample  2762            Germany 1971 (East)
+208    sample  2763            Germany 1981 (East)
+209    sample  2764            Germany 1987 (West)
+210    sample  2881                     Ghana 2000
+211    sample  2882                     Ghana 2010
+212    sample  3001                    Greece 1971
+213    sample  3002                    Greece 1981
+214    sample  3003                    Greece 1991
+215    sample  3004                    Greece 2001
+216    sample  3241                    Guinea 1983
+217    sample  3242                    Guinea 1996
+218    sample  3321                     Haiti 1971
+219    sample  3322                     Haiti 1982
+220    sample  3323                     Haiti 2003
+221    sample  3481                   Hungary 1970
+222    sample  3482                   Hungary 1980
+223    sample  3483                   Hungary 1990
+224    sample  3484                   Hungary 2001
+225    sample  3561                     India 1983
+226    sample  3562                     India 1987
+227    sample  3563                     India 1993
+228    sample  3564                     India 1999
+229    sample  3565                     India 2004
+230    sample  3601                 Indonesia 1971
+231    sample  3602                 Indonesia 1976
+232    sample  3603                 Indonesia 1980
+233    sample  3604                 Indonesia 1985
+234    sample  3605                 Indonesia 1990
+235    sample  3606                 Indonesia 1995
+236    sample  3607                 Indonesia 2000
+237    sample  3608                 Indonesia 2005
+238    sample  3609                 Indonesia 2010
+239    sample  3641                      Iran 2006
+240    sample  3681                      Iraq 1997
+241    sample  3721                   Ireland 1971
+242    sample  3722                   Ireland 1979
+243    sample  3723                   Ireland 1981
+244    sample  3724                   Ireland 1986
+245    sample  3725                   Ireland 1991
+246    sample  3726                   Ireland 1996
+247    sample  3727                   Ireland 2002
+248    sample  3728                   Ireland 2006
+249    sample  3729                   Ireland 2011
+250    sample  3761                    Israel 1972
+251    sample  3762                    Israel 1983
+252    sample  3763                    Israel 1995
+253    sample  3801                     Italy 2001
+254    sample  3881                   Jamaica 1982
+255    sample  3882                   Jamaica 1991
+256    sample  3883                   Jamaica 2001
+257    sample  4001                    Jordan 2004
+258    sample  4041                     Kenya 1969
+259    sample  4042                     Kenya 1979
+260    sample  4043                     Kenya 1989
+261    sample  4044                     Kenya 1999
+262    sample  4045                     Kenya 2009
+263    sample  4171           Kyrgyz Republic 1999
+264    sample  4172           Kyrgyz Republic 2009
+265    sample  4301                   Liberia 1974
+266    sample  4302                   Liberia 2008
+267    sample  4541                    Malawi 1987
+268    sample  4542                    Malawi 1998
+269    sample  4543                    Malawi 2008
+270    sample  4581                  Malaysia 1970
+271    sample  4582                  Malaysia 1980
+272    sample  4583                  Malaysia 1991
+273    sample  4584                  Malaysia 2000
+274    sample  4661                      Mali 1987
+275    sample  4662                      Mali 1998
+276    sample  4663                      Mali 2009
+277    sample  4841                    Mexico 1960
+278    sample  4842                    Mexico 1970
+279    sample  4843                    Mexico 1990
+280    sample  4844                    Mexico 1995
+281    sample  4845                    Mexico 2000
+282    sample  4846                    Mexico 2005
+283    sample  4847                    Mexico 2010
+284    sample  4961                  Mongolia 1989
+285    sample  4962                  Mongolia 2000
+286    sample  5041                   Morocco 1982
+287    sample  5042                   Morocco 1994
+288    sample  5043                   Morocco 2004
+289    sample  5241                     Nepal 2001
+290    sample  5281               Netherlands 1960
+291    sample  5282               Netherlands 1971
+292    sample  5283               Netherlands 2001
+293    sample  5581                 Nicaragua 1971
+294    sample  5582                 Nicaragua 1995
+295    sample  5583                 Nicaragua 2005
+296    sample  5661                   Nigeria 2006
+297    sample  5662                   Nigeria 2007
+298    sample  5663                   Nigeria 2008
+299    sample  5664                   Nigeria 2009
+300    sample  5665                   Nigeria 2010
+301    sample  5861                  Pakistan 1973
+302    sample  5862                  Pakistan 1981
+303    sample  5863                  Pakistan 1998
+304    sample  2751                 Palestine 1997
+305    sample  2752                 Palestine 2007
+306    sample  5911                    Panama 1960
+307    sample  5912                    Panama 1970
+308    sample  5913                    Panama 1980
+309    sample  5914                    Panama 1990
+310    sample  5915                    Panama 2000
+311    sample  5916                    Panama 2010
+312    sample  6041                      Peru 1993
+313    sample  6042                      Peru 2007
+314    sample  6081               Philippines 1990
+315    sample  6082               Philippines 1995
+316    sample  6083               Philippines 2000
+317    sample  6201                  Portugal 1981
+318    sample  6202                  Portugal 1991
+319    sample  6203                  Portugal 2001
+320    sample  6301               Puerto Rico 1970
+321    sample  6302               Puerto Rico 1980
+322    sample  6303               Puerto Rico 1990
+323    sample  6304               Puerto Rico 2000
+324    sample  6305               Puerto Rico 2005
+325    sample  6421                   Romania 1977
+326    sample  6422                   Romania 1992
+327    sample  6423                   Romania 2002
+328    sample  6461                    Rwanda 1991
+329    sample  6462                    Rwanda 2002
+330    sample  6621               Saint Lucia 1980
+331    sample  6622               Saint Lucia 1991
+332    sample  6861                   Senegal 1988
+333    sample  6862                   Senegal 2002
+334    sample  6941              Sierra Leone 2004
+335    sample  7051                  Slovenia 2002
+336    sample  7101              South Africa 1996
+337    sample  7102              South Africa 2001
+338    sample  7103              South Africa 2007
+339    sample  7241                     Spain 1981
+340    sample  7242                     Spain 1991
+341    sample  7243                     Spain 2001
+342    sample  7281               South Sudan 2008
+343    sample  7291                     Sudan 2008
+344    sample  7561               Switzerland 1970
+345    sample  7562               Switzerland 1980
+346    sample  7563               Switzerland 1990
+347    sample  7564               Switzerland 2000
+348    sample  8341                  Tanzania 1988
+349    sample  8342                  Tanzania 2002
+350    sample  7641                  Thailand 1970
+351    sample  7642                  Thailand 1980
+352    sample  7643                  Thailand 1990
+353    sample  7644                  Thailand 2000
+354    sample  7921                    Turkey 1985
+355    sample  7922                    Turkey 1990
+356    sample  7923                    Turkey 2000
+357    sample  8001                    Uganda 1991
+358    sample  8002                    Uganda 2002
+359    sample  8041                   Ukraine 2001
+360    sample  8261            United Kingdom 1991
+361    sample  8262            United Kingdom 2001
+362    sample  8401             United States 1960
+363    sample  8402             United States 1970
+364    sample  8403             United States 1980
+365    sample  8404             United States 1990
+366    sample  8405             United States 2000
+367    sample  8406             United States 2005
+368    sample  8407             United States 2010
+369    sample  8581                   Uruguay 1963
+370    sample  8582                   Uruguay 1975
+371    sample  8583                   Uruguay 1985
+372    sample  8584                   Uruguay 1996
+373    sample  8585                   Uruguay 2006
+374    sample  8586                   Uruguay 2011
+375    sample  8621                 Venezuela 1971
+376    sample  8622                 Venezuela 1981
+377    sample  8623                 Venezuela 1990
+378    sample  8624                 Venezuela 2001
+379    sample  7041                   Vietnam 1989
+380    sample  7042                   Vietnam 1999
+381    sample  7043                   Vietnam 2009
+382    sample  8941                    Zambia 1990
+383    sample  8942                    Zambia 2000
+384    sample  8943                    Zambia 2010
+385     hhnum     1                              1
+386     hhnum     2                              2
+387     hhnum     3                              3
+388     hhnum     4                              4
+389     hhnum     5                              5
+390     hhnum     6                              6
+391     hhnum     7                              7
+392     hhnum     8                              8
+393     hhnum     9                              9
+394     hhnum    10                             10
+395     hhnum    11                             11
+396     hhnum    12                             12
+397     hhnum    13                             13
+398     hhnum    14                             14
+399     hhnum    15                             15
+400     hhnum    16                             16
+401     hhnum    17                             17
+402     hhnum    18                             18
+403     hhnum    19                             19
+404       hhn     1                              1
+405       hhn     2                              2
+406       hhn     3                              3
+407       hhn     4                              4
+408       hhn     5                              5
+409       hhn     6                              6
+410       hhn     7                              7
+411       hhn     8                              8
+412       hhn     9                              9
+413       hhn    10                             10
+414       hhn    11                             11
+415       hhn    12                             12
+416       hhn    14                             14
+417       hhn    15                             15
+418       hhn    19                             19
+419     pernd     1                              1
+420     pernd     2                              2
+421     pernd     3                              3
+422     pernd     4                              4
+423     pernd     5                              5
+424     pernd     6                              6
+425     pernd     7                              7
+426     pernd     8                              8
+427     pernd     9                              9
+428     pernd    10                             10
+429     pernd    11                             11
+430     pernd    12                             12
+431     pernd    13                             13
+432     pernd    14                             14
+433     pernd    15                             15
+434     pernd    16                             16
+435     pernd    17                             17
+436     pernd    18                             18
+437     pernd    19                             19
+438     pernd    20                             20
+439     pernd    21                             21
+440     pernd    22                             22
+441     pernd    23                             23
+442     pernd    24                             24
+443     pernd    25                             25
+444     pernd    26                             26
+445     pernd    27                             27
+446     pernd    28                             28
+447     pernd    29                             29
+448     pernd    30                             30
+449      pern     1                              1
+450      pern     2                              2
+451      pern     3                              3
+452      pern     4                              4
+453      pern     5                              5
+454      pern     6                              6
+455      pern     7                              7
+456      pern     8                              8
+457      pern     9                              9
+458      pern    10                             10
+459      pern    11                             11
+460      pern    12                             12
+461      pern    13                             13
+462      pern    14                             14
+463      pern    15                             15
+464      pern    16                             16
+465      pern    17                             17
+466      pern    18                             18
+467      pern    19                             19
+468      pern    20                             20
+469      pern    21                             21
+470      pern    22                             22
+471      pern    23                             23
+472      pern    24                             24
+473      pern    25                             25
+474      pern    26                             26
+475      pern    27                             27
+476      pern    28                             28
+477      pern    29                             29
+478      pern    30                             30
+479      fbig     0                     No problem
+480      fbig     1 Yes: households within a large
+481      fbig     2 Yes: persons within a large ho
+482   fbig_nd     0                      Not split
+483   fbig_nd    31                             31
+484   fbig_nd    32                             32
+485   fbig_nd    33                             33
+486   fbig_nd    34                             34
+487   fbig_nd    35                             35
+488   fbig_nd    36                             36
+489   fbig_nd    37                             37
+490   fbig_nd    38                             38
+491   fbig_nd    39                             39
+492   fbig_nd    40                             40
+493   fbig_nd    41                             41
+494   fbig_nd    42                             42
+495   fbig_nd    43                             43
+496   fbig_nd    44                             44
+497   fbig_nd    45                             45
+498   fbig_nd    46                             46
+499   fbig_nd    47                             47
+500   fbig_nd    48                             48
+501   fbig_nd    49                             49
+502   fbig_nd    50                             50
+503   fbig_nd    51                             51
+504   fbig_nd    52                             52
+505   fbig_nd    53                             53
+506   fbig_nd    54                             54
+507   fbig_nd    55                             55
+508   fbig_nd    56                             56
+509   fbig_nd    57                             57
+510   fbig_nd    58                             58
+511   fbig_nd    60                             60
+512   fbig_nd    61                             61
+513   fbig_nd    63                             63
+514   fbig_nd    64                             64
+515   fbig_nd    65                             65
+516   fbig_nd    66                             66
+517   fbig_nd    67                             67
+518   fbig_nd    69                             69
+519   fbig_nd    71                             71
+520   fbig_nd    73                             73
+521   fbig_nd    75                             75
+522   fbig_nd    77                             77
+523   fbig_nd    78                             78
+524   fbig_nd    79                             79
+525   fbig_nd    80                             80
+526   fbig_nd    81                             81
+527   fbig_nd    84                             84
+528   fbig_nd    86                             86
+529   fbig_nd    87                             87
+530   fbig_nd    88                             88
+531   fbig_nd    94                             94
+532   fbig_nd    95                             95
+533   fbig_nd    97                             97
+534   fbig_nd   101                            101
+535   fbig_nd   105                            105
+536   fbig_nd   109                            109
+537   fbig_nd   113                            113
+538   fbig_nd   120                            120
+539   fbig_nd   122                            122
+540   fbig_nd   123                            123
+541   fbig_nd   126                            126
+542   fbig_nd   129                            129
+543   fbig_nd   131                            131
+544   fbig_nd   143                            143
+545   fbig_nd   151                            151
+546   fbig_nd   154                            154
+547   fbig_nd   190                            190
+548   fbig_nd   207                            207
+549   fbig_nd   247                            247
+550   fbig_nd   261                            261
+551   fbig_nd   282                            282
+552   fbig_nd   313                            313
+553   fbig_nd   390                            390
+554   fbig_nd   393                            393
+555   fbig_nd   434                            434
+556   fbig_nd   485                            485
+557   fbig_nd  1099                           1099
+558   fbig_nd  1118                           1118
+559   fbig_nd  3381                           3381
+560   fbig_nh     0                      Not split
+561   fbig_nh    31                             31
+562   fbig_nh    32                             32
+563   fbig_nh    33                             33
+564   fbig_nh    34                             34
+565   fbig_nh    35                             35
+566   fbig_nh    36                             36
+567   fbig_nh    37                             37
+568   fbig_nh    38                             38
+569   fbig_nh    39                             39
+570   fbig_nh    40                             40
+571   fbig_nh    41                             41
+572   fbig_nh    42                             42
+573   fbig_nh    43                             43
+574   fbig_nh    44                             44
+575   fbig_nh    45                             45
+576   fbig_nh    46                             46
+577   fbig_nh    47                             47
+578   fbig_nh    48                             48
+579   fbig_nh    49                             49
+580   fbig_nh    50                             50
+581   fbig_nh    51                             51
+582   fbig_nh    52                             52
+583   fbig_nh    53                             53
+584   fbig_nh    54                             54
+585   fbig_nh    55                             55
+586   fbig_nh    56                             56
+587   fbig_nh    57                             57
+588   fbig_nh    60                             60
+589   fbig_nh    61                             61
+590   fbig_nh    63                             63
+591   fbig_nh    64                             64
+592   fbig_nh    65                             65
+593   fbig_nh    66                             66
+594   fbig_nh    67                             67
+595   fbig_nh    69                             69
+596   fbig_nh    71                             71
+597   fbig_nh    73                             73
+598   fbig_nh    75                             75
+599   fbig_nh    78                             78
+600   fbig_nh    79                             79
+601   fbig_nh    80                             80
+602   fbig_nh    81                             81
+603   fbig_nh    84                             84
+604   fbig_nh    86                             86
+605   fbig_nh    87                             87
+606   fbig_nh    88                             88
+607   fbig_nh    94                             94
+608   fbig_nh    95                             95
+609   fbig_nh    97                             97
+610   fbig_nh   101                            101
+611   fbig_nh   105                            105
+612   fbig_nh   109                            109
+613   fbig_nh   113                            113
+614   fbig_nh   120                            120
+615   fbig_nh   122                            122
+616   fbig_nh   123                            123
+617   fbig_nh   126                            126
+618   fbig_nh   129                            129
+619   fbig_nh   131                            131
+620   fbig_nh   143                            143
+621   fbig_nh   151                            151
+622   fbig_nh   154                            154
+623   fbig_nh   190                            190
+624   fbig_nh   207                            207
+625   fbig_nh   247                            247
+626   fbig_nh   261                            261
+627   fbig_nh   282                            282
+628   fbig_nh   313                            313
+629   fbig_nh   390                            390
+630   fbig_nh   393                            393
+631   fbig_nh   434                            434
+632   fbig_nh   485                            485
+633   fbig_nh  1099                           1099
+634   fbig_nh  1118                           1118
+635   fbig_nh  3381                           3381
+636      dept     1                     Montevideo
+637      dept     2                        Artigas
+638      dept     3                      Canelones
+639      dept     4                    Cerro Largo
+640      dept     5                        Colonia
+641      dept     6                        Durazno
+642      dept     7                         Flores
+643      dept     8                        Florida
+644      dept     9                      Lavalleja
+645      dept    10                      Maldonado
+646      dept    11                       Paysandú
+647      dept    12                      Río Negro
+648      dept    13                         Rivera
+649      dept    14                          Rocha
+650      dept    15                          Salto
+651      dept    16                       San Jose
+652      dept    17                        Soriano
+653      dept    18                     Tacuarembó
+654      dept    19                 Treinta Y Tres
+655    hhnmbr     1                              1
+656    hhnmbr     2                              2
+657    hhnmbr     3                              3
+658    hhnmbr     4                              4
+659    hhnmbr     5                              5
+660    hhnmbr     6                              6
+661    hhnmbr     7                              7
+662    hhnmbr     8                              8
+663    hhnmbr     9                              9
+664    hhnmbr    10                             10
+665    hhnmbr    11                             11
+666    hhnmbr    12                             12
+667    hhnmbr    13                             13
+668    hhnmbr    14                             14
+669    hhnmbr    15                             15
+670    hhnmbr    16                             16
+671    hhnmbr    17                             17
+672    hhnmbr    18                             18
+673    hhnmbr    19                             19
+674    hhnmbr    20                             20
+675    hhnmbr    21                             21
+676    hhnmbr    22                             22
+677    hhnmbr    23                             23
+678    hhnmbr    24                             24
+679    hhnmbr    27                             27
+680    hhnmbr    28                             28
+681    hhnmbr    29                             29
+682    hhnmbr    30                             30
+683    hhnmbr    31                             31
+684    hhnmbr    32                             32
+685    hhnmbr    34                             34
+686    hhnmbr    44                             44
+687    dwtype     1                          House
+688    dwtype     2 Multi-level apartment building
+689    dwtype     3 Multi-level apartment building
+690    dwtype     4   One-level apartment building
+691    dwtype     5 Apartment or room in a buildin
+692    dwtype     6 Premise not intended for habit
+693    dwtype     7         Other private dwelling
+694    dwtype     9 Hotel, pension, or other guest
+695    dwtype    10 Hospital or sanatorium with bo
+696    dwtype    11      Residence for the elderly
+697    dwtype    12              Student residence
+698    dwtype    13             Workers' residence
+699    dwtype    14          Religious institution
+700    dwtype    15               Detention center
+701    dwtype    16         Foster home or similar
+702    dwtype    17    Military or police barracks
+703    dwtype    18      Other collective dwelling
+704    dwtype    19                       Shelters
+705    dwtype    20                        Unknown
+706     occup     1 Occupied with present resident
+707     occup     2 Occupied with absent residents
+708   noncoll     0                            NIU
+709   noncoll     1                            Yes
+710   noncoll     2                             No
+711     walls     0                            NIU
+712     walls     1 Masonry: bricks, slabs, stones
+713     walls     2 Masonry: bricks, slabs, stones
+714     walls     3 Lightweight materials (wood or
+715     walls     4 Lightweight materials (wood or
+716     walls     5   Clay (sod, adobe, or fajina)
+717     walls     6                Waste materials
+718     walls     7                          Other
+719     walls     9                        Unknown
+720      roof     0                            NIU
+721      roof     1 Concrete slabs or blocks with 
+722      roof     2       Lightweight with ceiling
+723      roof     3    Lightweight without ceiling
+724      roof     4                        Quincha
+725      roof     5                Waste materials
+726      roof     6                          Other
+727      roof     9                        Unknown
+728    floors     0                            NIU
+729    floors     1 Ceramic, tile, stone, wood, ca
+730    floors     2       Sand and portland cement
+731    floors     3    Only subfloor without floor
+732    floors     4 Ground without floor or subflo
+733    floors     5                          Other
+734    floors     9                        Unknown
+735    watsrc     0                            NIU
+736    watsrc     1         OSE or general network
+737    watsrc     2            Deep protected well
+738    watsrc     3          Deep unprotected well
+739    watsrc     4                        Cistern
+740    watsrc     5                          Pipes
+741    watsrc     6                Stream or river
+742    watsrc     7                          Other
+743    watsrc     9                        Unknown
+744    watsup     0                            NIU
+745    watsup     1      Piped within the dwelling
+746    watsup     2 Piped outside the dwelling, le
+747    watsup     3 Piped outside the dwelling, 10
+748    watsup     4                    Other means
+749    watsup     9                        Unknown
+750   electrc     0                            NIU
+751   electrc     1         UTE or general network
+752   electrc     2   Battery powered wind charger
+753   electrc     3  Battery powered solar charger
+754   electrc     4       Personal power generator
+755   electrc     5                 Other electric
+756   electrc     6                 No electricity
+757   electrc     9                        Unknown
+758    multhh     0                            NIU
+759    multhh     1               Single household
+760    multhh     2        More than one household
+761  nhhshare     0                            NIU
+762  nhhshare     1                              1
+763  nhhshare     2                              2
+764  nhhshare     3                              3
+765  nhhshare     4                              4
+766  nhhshare     5                              5
+767  nhhshare     6                              6
+768  nhhshare     7                              7
+769  nhhshare     8                              8
+770  nhhshare     9                              9
+771  nhhshare    10                            10+
+772     dwcat     0                            NIU
+773     dwcat     1 Heavy materials in walls, resi
+774     dwcat     2 Heavy materials in walls, ligh
+775     dwcat     3 Heavy materials in walls, not 
+776     dwcat     4 Heavy materials in walls, ligh
+777     dwcat     5 Lightweight materials in walls
+778     dwcat     6 Lightweight materials in walls
+779     dwcat     7 Clay or adobe walls, lightweig
+780     dwcat     8 Clay or adobe walls, lightweig
+781     dwcat     9 Waste materials in walls or ro
+782     dwcat    10 Other combinations of material
+783  resident     0                             No
+784  resident     1                            Yes
+785     owner     0                            NIU
+786     owner     1                 Owner occupied
+787     owner     2  Part of a housing cooperative
+788     owner     3                         Rented
+789     owner     4   Used or occupied (rent free)
+790     owner     9                        Unknown
+791     otype     0                            NIU
+792     otype     1 Owns dwelling and terrain, sti
+793     otype     2 Owns dwelling and terrain, pai
+794     otype     3 Owns only the dwelling, still 
+795     otype     4 Owns only the dwelling, paid o
+796     otype     9                        Unknown
+797   usetype     0                            NIU
+798   usetype     1 Because of dependent (work) re
+799   usetype     2       Free, granted by the BPS
+800   usetype     3         Free, borrowed or lent
+801   usetype     4 Without permission from the ho
+802   usetype     9                        Unknown
+803     rooms     0                            NIU
+804     rooms     1                              1
+805     rooms     2                              2
+806     rooms     3                              3
+807     rooms     4                              4
+808     rooms     5                              5
+809     rooms     6                              6
+810     rooms     7                              7
+811     rooms     8                              8
+812     rooms     9                              9
+813     rooms    10                             10
+814     rooms    11                             11
+815     rooms    12                            12+
+816     rooms    99                        Unknown
+817  bedrooms     0                            NIU
+818  bedrooms     1                              1
+819  bedrooms     2                              2
+820  bedrooms     3                              3
+821  bedrooms     4                              4
+822  bedrooms     5                              5
+823  bedrooms     6                              6
+824  bedrooms     7                             7+
+825  bedrooms    99                        Unknown
+826    bathdw     0                            NIU
+827    bathdw     1              Yes, with cistern
+828    bathdw     2           Yes, without cistern
+829    bathdw     3                             No
+830    bathdw     9                        Unknown
+831  sharbath     0                            NIU
+832  sharbath     1                  Exclusive use
+833  sharbath     2   Shared with other households
+834  sharbath     9                        Unknown
+835     sewer     0                            NIU
+836     sewer     1                General network
+837     sewer     2           Septic tank, cesspit
+838     sewer     3 Piped towards gutter or stream
+839     sewer     4 Other (surface, hole in ground
+840     sewer     9                        Unknown
+841   kitchen     0                            NIU
+842   kitchen     1                   Yes, private
+843   kitchen     2 Yes, shared with other househo
+844   kitchen     3                             No
+845   kitchen     9                        Unknown
+846    fuelck     0                            NIU
+847    fuelck     1                    Electricity
+848    fuelck     2                      Piped gas
+849    fuelck     3                      Super-gas
+850    fuelck     4                       Kerosene
+851    fuelck     5           Firewood or charcoal
+852    fuelck     6                          Other
+853    fuelck     7            None, does not cook
+854    fuelck     9                        Unknown
+855    fuelht     0                            NIU
+856    fuelht     1                    Electricity
+857    fuelht     2                       Firewood
+858    fuelht     3                      Piped gas
+859    fuelht     4                      Super-gas
+860    fuelht     5                       Kerosene
+861    fuelht     6                        Gas oil
+862    fuelht     7                       Fuel oil
+863    fuelht     8                          Other
+864    fuelht     9                           None
+865    fuelht    99                        Unknown
+866  boilerht     0                            NIU
+867  boilerht     1                            Yes
+868  boilerht     2                             No
+869  boilerht     9                        Unknown
+870    wathtr     0                            NIU
+871    wathtr     1                            Yes
+872    wathtr     2                             No
+873    wathtr     9                        Unknown
+874   refridg     0                            NIU
+875   refridg     1                            Yes
+876   refridg     2                             No
+877   refridg     9                        Unknown
+878     dryer     0                            NIU
+879     dryer     1                            Yes
+880     dryer     2                             No
+881     dryer     9                        Unknown
+882     radio     0                            NIU
+883     radio     1                            Yes
+884     radio     2                             No
+885     radio     9                        Unknown
+886   colortv     0                              0
+887   colortv     1                              1
+888   colortv     2                              2
+889   colortv     3                              3
+890   colortv     4                              4
+891   colortv     5                              5
+892   colortv     6                             6+
+893   colortv     9                            NIU
+894     phone     0                            NIU
+895     phone     1                            Yes
+896     phone     2                             No
+897     phone     9                        Unknown
+898    cellph     0                            NIU
+899    cellph     1                            Yes
+900    cellph     2                             No
+901    cellph     9                        Unknown
+902  xoceibal     0                              0
+903  xoceibal     1                              1
+904  xoceibal     2                              2
+905  xoceibal     3                              3
+906  xoceibal     4                              4
+907  xoceibal     5                              5
+908  xoceibal     6                             6+
+909  xoceibal     9                            NIU
+910        pc     0                              0
+911        pc     1                              1
+912        pc     2                              2
+913        pc     3                              3
+914        pc     4                              4
+915        pc     5                              5
+916        pc     6                             6+
+917        pc     9                            NIU
+918  internet     0                            NIU
+919  internet     1                            Yes
+920  internet     2                             No
+921  internet     9                        Unknown
+922    motorc     0                              0
+923    motorc     1                              1
+924    motorc     2                              2
+925    motorc     3                              3
+926    motorc     4                              4
+927    motorc     5                              5
+928    motorc     6                             6+
+929    motorc     8                        Unknown
+930    motorc     9                            NIU
+931     autos     0                              0
+932     autos     1                              1
+933     autos     2                              2
+934     autos     3                              3
+935     autos     4                              4
+936     autos     5                              5
+937     autos     6                             6+
+938     autos     8                        Unknown
+939     autos     9                            NIU
+940   hhtotal     1                              1
+941   hhtotal     2                              2
+942   hhtotal     3                              3
+943   hhtotal     4                              4
+944   hhtotal     5                              5
+945   hhtotal     6                              6
+946   hhtotal     7                              7
+947   hhtotal     8                              8
+948   hhtotal     9                              9
+949   hhtotal    10                             10
+950   hhtotal    11                             11
+951   hhtotal    12                             12
+952   hhtotal    13                             13
+953   hhtotal    14                             14
+954   hhtotal    15                            15+
+955    hhmale     0                              0
+956    hhmale     1                              1
+957    hhmale     2                              2
+958    hhmale     3                              3
+959    hhmale     4                              4
+960    hhmale     5                              5
+961    hhmale     6                              6
+962    hhmale     7                              7
+963    hhmale     8                              8
+964    hhmale     9                              9
+965    hhmale    10                            10+
+966     hhfem     0                              0
+967     hhfem     1                              1
+968     hhfem     2                              2
+969     hhfem     3                              3
+970     hhfem     4                              4
+971     hhfem     5                              5
+972     hhfem     6                              6
+973     hhfem     7                              7
+974     hhfem     8                              8
+975     hhfem     9                              9
+976     hhfem    10                            10+
+977    pernum     0               Household record
+978    pernum     1                              1
+979    pernum     2                              2
+980    pernum     3                              3
+981    pernum     4                              4
+982    pernum     5                              5
+983    pernum     6                              6
+984    pernum     7                              7
+985    pernum     8                              8
+986    pernum     9                              9
+987    pernum    10                             10
+988    pernum    11                             11
+989    pernum    12                             12
+990    pernum    13                             13
+991    pernum    14                             14
+992    pernum    15                             15
+993    pernum    16                             16
+994    pernum    17                             17
+995    pernum    18                             18
+996    pernum    19                             19
+997    pernum    20                             20
+998    pernum    21                             21
+999    pernum    22                             22
+1000   pernum    23                             23
+1001   pernum    24                             24
+1002   pernum    25                             25
+1003   pernum    26                             26
+1004   pernum    27                             27
+1005   pernum    28                             28
+1006   pernum    29                             29
+1007   pernum    30                             30
+1008   perabs     0                             No
+1009   perabs     1                            Yes
+1010      sex     1                           Male
+1011      sex     2                         Female
+1012      age     0                              0
+1013      age     1                              1
+1014      age     2                              2
+1015      age     3                              3
+1016      age     4                              4
+1017      age     5                              5
+1018      age     6                              6
+1019      age     7                              7
+1020      age     8                              8
+1021      age     9                              9
+1022      age    10                             10
+1023      age    11                             11
+1024      age    12                             12
+1025      age    13                             13
+1026      age    14                             14
+1027      age    15                             15
+1028      age    16                             16
+1029      age    17                             17
+1030      age    18                             18
+1031      age    19                             19
+1032      age    20                             20
+1033      age    21                             21
+1034      age    22                             22
+1035      age    23                             23
+1036      age    24                             24
+1037      age    25                             25
+1038      age    26                             26
+1039      age    27                             27
+1040      age    28                             28
+1041      age    29                             29
+1042      age    30                             30
+1043      age    31                             31
+1044      age    32                             32
+1045      age    33                             33
+1046      age    34                             34
+1047      age    35                             35
+1048      age    36                             36
+1049      age    37                             37
+1050      age    38                             38
+1051      age    39                             39
+1052      age    40                             40
+1053      age    41                             41
+1054      age    42                             42
+1055      age    43                             43
+1056      age    44                             44
+1057      age    45                             45
+1058      age    46                             46
+1059      age    47                             47
+1060      age    48                             48
+1061      age    49                             49
+1062      age    50                             50
+1063      age    51                             51
+1064      age    52                             52
+1065      age    53                             53
+1066      age    54                             54
+1067      age    55                             55
+1068      age    56                             56
+1069      age    57                             57
+1070      age    58                             58
+1071      age    59                             59
+1072      age    60                             60
+1073      age    61                             61
+1074      age    62                             62
+1075      age    63                             63
+1076      age    64                             64
+1077      age    65                             65
+1078      age    66                             66
+1079      age    67                             67
+1080      age    68                             68
+1081      age    69                             69
+1082      age    70                             70
+1083      age    71                             71
+1084      age    72                             72
+1085      age    73                             73
+1086      age    74                             74
+1087      age    75                             75
+1088      age    76                             76
+1089      age    77                             77
+1090      age    78                             78
+1091      age    79                             79
+1092      age    80                             80
+1093      age    81                             81
+1094      age    82                             82
+1095      age    83                             83
+1096      age    84                             84
+1097      age    85                             85
+1098      age    86                             86
+1099      age    87                             87
+1100      age    88                             88
+1101      age    89                             89
+1102      age    90                             90
+1103      age    91                             91
+1104      age    92                             92
+1105      age    93                             93
+1106      age    94                             94
+1107      age    95                             95
+1108      age    96                             96
+1109      age    97                             97
+1110      age    98                             98
+1111      age    99                             99
+1112      age   100                           100+
+1113  birthmo     1                        January
+1114  birthmo     2                       February
+1115  birthmo     3                          March
+1116  birthmo     4                          April
+1117  birthmo     5                            May
+1118  birthmo     6                           June
+1119  birthmo     7                           July
+1120  birthmo     8                         August
+1121  birthmo     9                      September
+1122  birthmo    10                        October
+1123  birthmo    11                       November
+1124  birthmo    12                       December
+1125  birthmo    99                        Unknown
+1126  birthyr  1911                1911 or earlier
+1127  birthyr  1912                           1912
+1128  birthyr  1913                           1913
+1129  birthyr  1914                           1914
+1130  birthyr  1915                           1915
+1131  birthyr  1916                           1916
+1132  birthyr  1917                           1917
+1133  birthyr  1918                           1918
+1134  birthyr  1919                           1919
+1135  birthyr  1920                           1920
+1136  birthyr  1921                           1921
+1137  birthyr  1922                           1922
+1138  birthyr  1923                           1923
+1139  birthyr  1924                           1924
+1140  birthyr  1925                           1925
+1141  birthyr  1926                           1926
+1142  birthyr  1927                           1927
+1143  birthyr  1928                           1928
+1144  birthyr  1929                           1929
+1145  birthyr  1930                           1930
+1146  birthyr  1931                           1931
+1147  birthyr  1932                           1932
+1148  birthyr  1933                           1933
+1149  birthyr  1934                           1934
+1150  birthyr  1935                           1935
+1151  birthyr  1936                           1936
+1152  birthyr  1937                           1937
+1153  birthyr  1938                           1938
+1154  birthyr  1939                           1939
+1155  birthyr  1940                           1940
+1156  birthyr  1941                           1941
+1157  birthyr  1942                           1942
+1158  birthyr  1943                           1943
+1159  birthyr  1944                           1944
+1160  birthyr  1945                           1945
+1161  birthyr  1946                           1946
+1162  birthyr  1947                           1947
+1163  birthyr  1948                           1948
+1164  birthyr  1949                           1949
+1165  birthyr  1950                           1950
+1166  birthyr  1951                           1951
+1167  birthyr  1952                           1952
+1168  birthyr  1953                           1953
+1169  birthyr  1954                           1954
+1170  birthyr  1955                           1955
+1171  birthyr  1956                           1956
+1172  birthyr  1957                           1957
+1173  birthyr  1958                           1958
+1174  birthyr  1959                           1959
+1175  birthyr  1960                           1960
+1176  birthyr  1961                           1961
+1177  birthyr  1962                           1962
+1178  birthyr  1963                           1963
+1179  birthyr  1964                           1964
+1180  birthyr  1965                           1965
+1181  birthyr  1966                           1966
+1182  birthyr  1967                           1967
+1183  birthyr  1968                           1968
+1184  birthyr  1969                           1969
+1185  birthyr  1970                           1970
+1186  birthyr  1971                           1971
+1187  birthyr  1972                           1972
+1188  birthyr  1973                           1973
+1189  birthyr  1974                           1974
+1190  birthyr  1975                           1975
+1191  birthyr  1976                           1976
+1192  birthyr  1977                           1977
+1193  birthyr  1978                           1978
+1194  birthyr  1979                           1979
+1195  birthyr  1980                           1980
+1196  birthyr  1981                           1981
+1197  birthyr  1982                           1982
+1198  birthyr  1983                           1983
+1199  birthyr  1984                           1984
+1200  birthyr  1985                           1985
+1201  birthyr  1986                           1986
+1202  birthyr  1987                           1987
+1203  birthyr  1988                           1988
+1204  birthyr  1989                           1989
+1205  birthyr  1990                           1990
+1206  birthyr  1991                           1991
+1207  birthyr  1992                           1992
+1208  birthyr  1993                           1993
+1209  birthyr  1994                           1994
+1210  birthyr  1995                           1995
+1211  birthyr  1996                           1996
+1212  birthyr  1997                           1997
+1213  birthyr  1998                           1998
+1214  birthyr  1999                           1999
+1215  birthyr  2000                           2000
+1216  birthyr  2001                           2001
+1217  birthyr  2002                           2002
+1218  birthyr  2003                           2003
+1219  birthyr  2004                           2004
+1220  birthyr  2005                           2005
+1221  birthyr  2006                           2006
+1222  birthyr  2007                           2007
+1223  birthyr  2008                           2008
+1224  birthyr  2009                           2009
+1225  birthyr  2010                           2010
+1226  birthyr  2011                           2011
+1227  birthyr  9999                        Unknown
+1228   relate     1       Head or reference person
+1229   relate     2              Spouse or partner
+1230   relate     3            Child of the couple
+1231   relate     4              Child of the head
+1232   relate     5            Child of the spouse
+1233   relate     6         Son or daughter in law
+1234   relate     7                         Parent
+1235   relate     8                  Parent-in-law
+1236   relate     9                        Sibling
+1237   relate    10                 Sibling-in-law
+1238   relate    11                     Grandchild
+1239   relate    12                 Other relative
+1240   relate    13             Other non-relative
+1241   relate    14 Domestic or household service 
+1242   relate    15 Member of a collective househo
+1243   relate    99                        Unknown
+1244   father     0                            NIU
+1245   father     1                            Yes
+1246   father     2                             No
+1247   father     9                        Unknown
+1248   ethnbl     1                            Yes
+1249   ethnbl     2                             No
+1250   ethnbl     9                        Unknown
+1251   ethnas     1                            Yes
+1252   ethnas     2                             No
+1253   ethnas     9                        Unknown
+1254  ethnwht     1                            Yes
+1255  ethnwht     2                             No
+1256  ethnwht     9                        Unknown
+1257   ethnid     1                            Yes
+1258   ethnid     2                             No
+1259   ethnid     9                        Unknown
+1260  ethnoth     1                            Yes
+1261  ethnoth     2                             No
+1262  ethnoth     9                        Unknown
+1263 ancestry     1                  Afro or Black
+1264 ancestry     2                Asian or Yellow
+1265 ancestry     3                          White
+1266 ancestry     4                     Indigenous
+1267 ancestry     5                          Other
+1268 ancestry     6          No principal ancestry
+1269 ancestry     9                        Unknown
+1270 spousehh     0                            NIU
+1271 spousehh     1                            Yes
+1272 spousehh     2                             No
+1273 spousehh     9                        Unknown
+1274    union     0                            NIU
+1275    union     1                 Civil marriage
+1276    union     2 Consensual union with partner 
+1277    union     3 Consensual union with partner 
+1278    union     9                        Unknown
+1279    marst     0                            NIU
+1280    marst     1 Separated from a consensual un
+1281    marst     2                       Divorced
+1282    marst     3 Married (including separated a
+1283    marst     4          Widowed (of marriage)
+1284    marst     5  Widowed (of consensual union)
+1285    marst     6 Single (never married nor live
+1286    marst     9                        Unknown
+1287 bplplace     1       In this locality or area
+1288 bplplace     2 In another locality or area of
+1289 bplplace     3          In another department
+1290 bplplace     4             In another country
+1291 bplplace     9                        Unknown
+1292  bpldept     0                            NIU
+1293  bpldept     1                     Montevideo
+1294  bpldept     2                        Artigas
+1295  bpldept     3                      Canelones
+1296  bpldept     4                    Cerro Largo
+1297  bpldept     5                        Colonia
+1298  bpldept     6                        Durazno
+1299  bpldept     7                         Flores
+1300  bpldept     8                        Florida
+1301  bpldept     9                      Lavalleja
+1302  bpldept    10                      Maldonado
+1303  bpldept    11                       Paysandu
+1304  bpldept    12                      Rio Negro
+1305  bpldept    13                         Rivera
+1306  bpldept    14                          Rocha
+1307  bpldept    15                          Salto
+1308  bpldept    16                       San Jose
+1309  bpldept    17                        Soriano
+1310  bpldept    18                     Tacuarembo
+1311  bpldept    19                 Treinta y Tres
+1312   bploth     0                            NIU
+1313   bploth  1020                     Montevideo
+1314   bploth  1621                        Abayubá
+1315   bploth  1622               Santiago Vázquez
+1316   bploth  1721                  Pajas Blancas
+1317   bploth  1900 Department of Montevideo, rura
+1318   bploth  1999 Department of Montevideo, loca
+1319   bploth  2220                        Artigas
+1320   bploth  2521                    Bella Unión
+1321   bploth  2522                Tomás Gomensoro
+1322   bploth  2621                  Baltasar Brum
+1323   bploth  2725                       Sequeira
+1324   bploth  2999 Department of Artigas, localit
+1325   bploth  3030             Ciudad de la Costa
+1326   bploth  3221                    Las Piedras
+1327   bploth  3320                      Canelones
+1328   bploth  3321                         La Paz
+1329   bploth  3322                          Pando
+1330   bploth  3323                    Santa Lucía
+1331   bploth  3421                       Progreso
+1332   bploth  3422                      San Ramón
+1333   bploth  3524                 Joaquín Suárez
+1334   bploth  3525                  Paso Carrasco
+1335   bploth  3526                     Santa Rosa
+1336   bploth  3527                          Sauce
+1337   bploth  3528                           Tala
+1338   bploth  3621                      Atlántida
+1339   bploth  3624                      Cerrillos
+1340   bploth  3625                  Empalme Olmos
+1341   bploth  3626                         Migues
+1342   bploth  3627               Parque del Plata
+1343   bploth  3628                   San Bautista
+1344   bploth  3629                    San Jacinto
+1345   bploth  3631                         Toledo
+1346   bploth  3632                         Montes
+1347   bploth  3634              Fracc. sobre R.74
+1348   bploth  3730                    San Antonio
+1349   bploth  3732                        Solymar
+1350   bploth  3828                       El Pinar
+1351   bploth  3831                        Lagomar
+1352   bploth  3835                      Shangrilá
+1353   bploth  3900 Department of Canelones, rural
+1354   bploth  3955                  Los Cerrillos
+1355   bploth  3999 Department of Canelones, local
+1356   bploth  4220                           Melo
+1357   bploth  4521                  Fraile Muerto
+1358   bploth  4522                     Río Branco
+1359   bploth  4621                       Tupambaé
+1360   bploth  4821                         Aceguá
+1361   bploth  4826                   Paso Pereira
+1362   bploth  4900 Department of Cerro Largo, rur
+1363   bploth  4999 Department of Cerro Largo, loc
+1364   bploth  5320         Colonia del Sacramento
+1365   bploth  5321                        Carmelo
+1366   bploth  5323                    Juan Lacaze
+1367   bploth  5421                 Nueva Helvecia
+1368   bploth  5422                        Rosario
+1369   bploth  5423                  Nueva Palmira
+1370   bploth  5521              Ombúes de Lavalle
+1371   bploth  5522                      Tarariras
+1372   bploth  5621               Colonia Valdense
+1373   bploth  5622              Florencio Sánchez
+1374   bploth  5721                     Conchillas
+1375   bploth  5822                     Buena Hora
+1376   bploth  5900 Department of Colonia, rural a
+1377   bploth  5999 Department of Colonia, localit
+1378   bploth  6220                        Durazno
+1379   bploth  6421                 Sarandí del Yí
+1380   bploth  6521                         Carmen
+1381   bploth  6621                     Blanquillo
+1382   bploth  6622                      La Paloma
+1383   bploth  6721                  Carlos Reyles
+1384   bploth  6722                     Centenario
+1385   bploth  6724               Santa Bernardina
+1386   bploth  6790                    Cerro Chato
+1387   bploth  6900 Department of Durazno, rural a
+1388   bploth  6923                        Chileno
+1389   bploth  6930                    Carpintería
+1390   bploth  6941                        Fonseca
+1391   bploth  6945                     Los Agüero
+1392   bploth  6947                      Los Rojas
+1393   bploth  6957                       Reynolds
+1394   bploth  6962                        Salinas
+1395   bploth  6964                      San Jorge
+1396   bploth  6999 Department of Durazno, localit
+1397   bploth  7320                       Trinidad
+1398   bploth  7721                Ismael Cortinas
+1399   bploth  7900 Department of Flores, rural ar
+1400   bploth  7923                Colonia Alemana
+1401   bploth  7926                Pueblito Piedra
+1402   bploth  7929     Puntas de Corral de Piedra
+1403   bploth  7935                    Santa Elena
+1404   bploth  7999 Department of Flores, locality
+1405   bploth  8220                        Florida
+1406   bploth  8421                 Sarandí Grande
+1407   bploth  8521                         Casupá
+1408   bploth  8621                         Cardal
+1409   bploth  8622                    Fray Marcos
+1410   bploth  8623          Veinticinco de Agosto
+1411   bploth  8624            Veinticinco de Mayo
+1412   bploth  8721             Alejandro Gallinal
+1413   bploth  8722              Capilla del Sauce
+1414   bploth  8723                        La Cruz
+1415   bploth  8724                     Nico Pérez
+1416   bploth  8821                        Chamizo
+1417   bploth  8823                        Mendoza
+1418   bploth  8825                       Reboledo
+1419   bploth  8900 Department of Florida, rural a
+1420   bploth  8928               Estación Palermo
+1421   bploth  8929               Estación Urioste
+1422   bploth  8950                   Villa Hípica
+1423   bploth  8992           Caserío La Fundación
+1424   bploth  8999 Department of Florida, localit
+1425   bploth  9220                          Minas
+1426   bploth  9521          José Batlle y Ordóñez
+1427   bploth  9522              José Pedro Varela
+1428   bploth  9621                      Mariscala
+1429   bploth  9622               Solís de Mataojo
+1430   bploth  9721                       Pirarajá
+1431   bploth  9722                        Zapicán
+1432   bploth  9821                          Colón
+1433   bploth  9900 Department of Lavalleja, rural
+1434   bploth  9921                  Aguas Blancas
+1435   bploth  9938             Marco de los Reyes
+1436   bploth  9940            Molles de Gutiérrez
+1437   bploth  9941                Poblado Larrosa
+1438   bploth  9947            Rincón de Mariscala
+1439   bploth  9949                  Ruta 40 Km 25
+1440   bploth  9954                      Velázquez
+1441   bploth  9999 Department of Lavalleja, local
+1442   bploth 10320                      Maldonado
+1443   bploth 10321                     San Carlos
+1444   bploth 10521                          Aiguá
+1445   bploth 10522                  Pan de Azúcar
+1446   bploth 10523                     Piriápolis
+1447   bploth 10524                 Punta del Este
+1448   bploth 10823                         Gerona
+1449   bploth 10831                      Chihuahua
+1450   bploth 10833         San Rafael - El Placer
+1451   bploth 10919                          Islas
+1452   bploth 10923                Barra del Sauce
+1453   bploth 10927                   Buenos Aires
+1454   bploth 10928                   Calera Ramos
+1455   bploth 10929            Canteras de Marelli
+1456   bploth 10933                      Edén Rock
+1457   bploth 10934                      El Chorro
+1458   bploth 10936                      El Tesoro
+1459   bploth 10938              Faro José Ignacio
+1460   bploth 10941                  Guardia Vieja
+1461   bploth 10944                     La Capuera
+1462   bploth 10946                     Los Ceibos
+1463   bploth 10950                  Partido Oeste
+1464   bploth 10951              Paso de los Talas
+1465   bploth 10958                 Punta Colorada
+1466   bploth 10959                    Punta Negra
+1467   bploth 10960          Puntas de San Ignacio
+1468   bploth 10966              San Juan del Este
+1469   bploth 10967                   Santa Mónica
+1470   bploth 10973         Balneario Buenos Aires
+1471   bploth 10974                       De Lobos
+1472   bploth 10983                      Edén Rock
+1473   bploth 10986                     La Sonrisa
+1474   bploth 10999 Department of Maldonado, local
+1475   bploth 11120                       Paysandú
+1476   bploth 11521                        Guichón
+1477   bploth 11621                      Quebracho
+1478   bploth 11695                       Tambores
+1479   bploth 11722                        Merinos
+1480   bploth 11723                       Porvenir
+1481   bploth 11822                         Beisso
+1482   bploth 11827              Piedras Coloradas
+1483   bploth 11830                      San Félix
+1484   bploth 11900 Department of Paysandu, rural 
+1485   bploth 11921                         Alonso
+1486   bploth 11926                       Chapicuy
+1487   bploth 11928                       El Chaco
+1488   bploth 11930                       El Horno
+1489   bploth 11942                  Ruta 90 Km 36
+1490   bploth 11943                    Sacachispas
+1491   bploth 11944                 Sauce de Abajo
+1492   bploth 11950                       Zeballos
+1493   bploth 11957                  Pueblo Alonzo
+1494   bploth 11999 Department of Paysandu, locali
+1495   bploth 12320                    Fray Bentos
+1496   bploth 12421                          Young
+1497   bploth 12621                   Nuevo Berlín
+1498   bploth 12622                     San Javier
+1499   bploth 12723                         Grecco
+1500   bploth 12797                        Algorta
+1501   bploth 12823           Paso de los Mellizos
+1502   bploth 12824             Sarandí de Navarro
+1503   bploth 12900 Department of Rio Negro, rural
+1504   bploth 12919                          Islas
+1505   bploth 12921                         Abrigo
+1506   bploth 12927                       La Ilera
+1507   bploth 12928                       La Unión
+1508   bploth 12931                        Mataojo
+1509   bploth 12999 Department of Rio Negro, local
+1510   bploth 13220                         Rivera
+1511   bploth 13521              Minas de Corrales
+1512   bploth 13522                     Tranqueras
+1513   bploth 13621                      Vichadero
+1514   bploth 13835                   San Gregorio
+1515   bploth 13838                        Lagunón
+1516   bploth 13900 Department of Rivera, rural ar
+1517   bploth 13927                    Carpintería
+1518   bploth 13929                     Cerrillada
+1519   bploth 13938                        Guaviyú
+1520   bploth 13940                Lagos del Norte
+1521   bploth 13950                 Paso de Tapado
+1522   bploth 13956               Rincón de Roland
+1523   bploth 13964                 Zanja Honda 02
+1524   bploth 13999 Department of Rivera, locality
+1525   bploth 14320                          Rocha
+1526   bploth 14421                      Castillos
+1527   bploth 14422                        Lascano
+1528   bploth 14521                           Chuy
+1529   bploth 14621                      Cebollatí
+1530   bploth 14622                      Velázquez
+1531   bploth 14721                    18 de Julio
+1532   bploth 14722                      La Paloma
+1533   bploth 14723              San Luis al Medio
+1534   bploth 14919                           Isla
+1535   bploth 14926                  Barrio Torres
+1536   bploth 14927                    Buena Vista
+1537   bploth 14934                     El Canelón
+1538   bploth 14936                       El Ceibo
+1539   bploth 14937                    El Chimango
+1540   bploth 14938        Estero Pelotas Arrocera
+1541   bploth 14939            Estiva de Chafalote
+1542   bploth 14944                      La Garzas
+1543   bploth 14946                           Mena
+1544   bploth 14947                         Palmar
+1545   bploth 14951        Picada Techera Arrocera
+1546   bploth 14953            Puerto de los Botes
+1547   bploth 14955                Rincón de Nieto
+1548   bploth 14956          Rincón de los Olivera
+1549   bploth 14957                       Puimayen
+1550   bploth 14958                     Tres Islas
+1551   bploth 14963       Palmares de la Coronilla
+1552   bploth 14964                     La Ribiera
+1553   bploth 14999 Department of Rocha, locality 
+1554   bploth 15120                          Salto
+1555   bploth 15522                          Belén
+1556   bploth 15523                   Constitución
+1557   bploth 15722                    San Antonio
+1558   bploth 15831             Sarandí del Arapey
+1559   bploth 15900 Department of Salto, rural are
+1560   bploth 15927                        Cancela
+1561   bploth 15928              Cancela o Varesse
+1562   bploth 15930                          Casco
+1563   bploth 15931                        Celeste
+1564   bploth 15932                     Cerrillada
+1565   bploth 15933          Cerrillada de Saucedo
+1566   bploth 15947                    Mario Rubio
+1567   bploth 15948                      Mataojito
+1568   bploth 15949                       Migliaro
+1569   bploth 15953               Paso del Tropero
+1570   bploth 15954                Paso del Tapado
+1571   bploth 15955          Paso Nuevo del Arapey
+1572   bploth 15967                      Santa Ana
+1573   bploth 15972                          Russo
+1574   bploth 15999 Department of Salto, locality 
+1575   bploth 16220               San José de Mayo
+1576   bploth 16421                       Libertad
+1577   bploth 16521       Delta del Tigre y Villas
+1578   bploth 16621                      Rodríguez
+1579   bploth 16721                      Ituzaingó
+1580   bploth 16793                Ismael Cortinas
+1581   bploth 16824                  Playa Pascual
+1582   bploth 16900 Department of San Jose, rural 
+1583   bploth 16925                        Capurro
+1584   bploth 16929                Ecilda Paullier
+1585   bploth 16935                  La Candelaria
+1586   bploth 16936                    La Cuchilla
+1587   bploth 16942                        Rapetti
+1588   bploth 16943              Rincón de Nazaret
+1589   bploth 16944           Rincón de Buschental
+1590   bploth 16945                Rincón del Pino
+1591   bploth 16947                        Scavino
+1592   bploth 16960              Cerámicas del Sur
+1593   bploth 16961                         Radial
+1594   bploth 16962                Cololó - Tinosa
+1595   bploth 16963                      Mangrullo
+1596   bploth 16964                Carreta Quemada
+1597   bploth 16965              Costas de Pereira
+1598   bploth 16999 Department of San Jose, locali
+1599   bploth 17220                       Mercedes
+1600   bploth 17321                        Dolores
+1601   bploth 17521                        Cardona
+1602   bploth 17621              José Enrique Rodó
+1603   bploth 17622                       Palmitas
+1604   bploth 17623                  Villa Soriano
+1605   bploth 17721                          Egaña
+1606   bploth 17722                 Santa Catalina
+1607   bploth 17798                      Agraciada
+1608   bploth 17821               Cañada Paraguaya
+1609   bploth 17823                          Risso
+1610   bploth 17825                   Cañada Nieto
+1611   bploth 17900 Department of Soriano, rural a
+1612   bploth 17919                          Islas
+1613   bploth 17923           Bequeló Ruta 14 Km 7
+1614   bploth 17925                          Calvo
+1615   bploth 17926                   Colonia Díaz
+1616   bploth 17927           Cuchilla del Perdido
+1617   bploth 17930                   La Concordia
+1618   bploth 17931                        La Loma
+1619   bploth 17999 Department of Soriano, localit
+1620   bploth 18220                     Tacuarembó
+1621   bploth 18321              Paso de los Toros
+1622   bploth 18521        San Gregorio de Polanco
+1623   bploth 18695                       Tambores
+1624   bploth 18721                          Achar
+1625   bploth 18722                         Ansina
+1626   bploth 18723                        Curtina
+1627   bploth 18724                 Paso del Cerro
+1628   bploth 18725            Rincón de Martinote
+1629   bploth 18824          Cuchilla de Caraguatá
+1630   bploth 18828                     Las Toscas
+1631   bploth 18853                  Los Rodríguez
+1632   bploth 18900 Department of Tacuarembo, rura
+1633   bploth 18929                         Colman
+1634   bploth 18932                      Heriberto
+1635   bploth 18935                    La Bolsa 02
+1636   bploth 18940                       Larrayos
+1637   bploth 18948                     Los García
+1638   bploth 18950                  Los Magariños
+1639   bploth 18951                   Los Novillos
+1640   bploth 18952                       Laureles
+1641   bploth 18956                     Los Semper
+1642   bploth 18957                    Los Vázquez
+1643   bploth 18958                          Laura
+1644   bploth 18963               Montevideo Chico
+1645   bploth 18973               Rincón de Giloca
+1646   bploth 18975              Rincón de Freitas
+1647   bploth 18976                   Rivera Chico
+1648   bploth 18979                      Santander
+1649   bploth 18987                     Valle Eden
+1650   bploth 18999 Department of Tacuarembo, loca
+1651   bploth 19220                 Treinta y Tres
+1652   bploth 19521          Santa Clara de Olimar
+1653   bploth 19522                        Vergara
+1654   bploth 19721         Arrozal Treinta y Tres
+1655   bploth 19722         Gral. Enrique Martínez
+1656   bploth 19790                    Cerro Chato
+1657   bploth 19822   Isla Patrulla (María Isabel)
+1658   bploth 19823                 Picada Techera
+1659   bploth 19900 Department of Treinta y Tres, 
+1660   bploth 19923      Arrozal Florencio Barreto
+1661   bploth 19933          Costa del Arroyo Malo
+1662   bploth 19937                    La Calavera
+1663   bploth 19943                  Paso de Píriz
+1664   bploth 19945                 Poblado Medina
+1665   bploth 19950                       San Juan
+1666   bploth 19960                     El Bellaco
+1667   bploth 19999 Department of Treinta y Tres, 
+1668  bplctry     0                            NIU
+1669  bplctry     5                           Cuba
+1670  bplctry    10                         Mexico
+1671  bplctry    20                      Argentina
+1672  bplctry    21                        Bolivia
+1673  bplctry    22                         Brazil
+1674  bplctry    23                          Chile
+1675  bplctry    24                       Colombia
+1676  bplctry    26                       Paraguay
+1677  bplctry    27                           Peru
+1678  bplctry    29                      Venezuela
+1679  bplctry    31                         France
+1680  bplctry    32                        Germany
+1681  bplctry    33                          Italy
+1682  bplctry    35                         Poland
+1683  bplctry    36                       Portugal
+1684  bplctry    37                          Spain
+1685  bplctry    38                         Sweden
+1686  bplctry    60                         Canada
+1687  bplctry    61                  United States
+1688  bplctry    80                      Australia
+1689  bplctry    90                Other Caribbean
+1690  bplctry    91          Other Central America
+1691  bplctry    92            Other South America
+1692  bplctry    93                   Other Europe
+1693  bplctry    94                   Other Africa
+1694  bplctry    95                     Other Asia
+1695  bplctry    99                        Unknown
+1696    arryr     0                            NIU
+1697    arryr  1945                1945 or earlier
+1698    arryr  1946                           1946
+1699    arryr  1947                           1947
+1700    arryr  1948                           1948
+1701    arryr  1949                           1949
+1702    arryr  1950                           1950
+1703    arryr  1951                           1951
+1704    arryr  1952                           1952
+1705    arryr  1953                           1953
+1706    arryr  1954                           1954
+1707    arryr  1955                           1955
+1708    arryr  1956                           1956
+1709    arryr  1957                           1957
+1710    arryr  1958                           1958
+1711    arryr  1959                           1959
+1712    arryr  1960                           1960
+1713    arryr  1961                           1961
+1714    arryr  1962                           1962
+1715    arryr  1963                           1963
+1716    arryr  1964                           1964
+1717    arryr  1965                           1965
+1718    arryr  1966                           1966
+1719    arryr  1967                           1967
+1720    arryr  1968                           1968
+1721    arryr  1969                           1969
+1722    arryr  1970                           1970
+1723    arryr  1971                           1971
+1724    arryr  1972                           1972
+1725    arryr  1973                           1973
+1726    arryr  1974                           1974
+1727    arryr  1975                           1975
+1728    arryr  1976                           1976
+1729    arryr  1977                           1977
+1730    arryr  1978                           1978
+1731    arryr  1979                           1979
+1732    arryr  1980                           1980
+1733    arryr  1981                           1981
+1734    arryr  1982                           1982
+1735    arryr  1983                           1983
+1736    arryr  1984                           1984
+1737    arryr  1985                           1985
+1738    arryr  1986                           1986
+1739    arryr  1987                           1987
+1740    arryr  1988                           1988
+1741    arryr  1989                           1989
+1742    arryr  1990                           1990
+1743    arryr  1991                           1991
+1744    arryr  1992                           1992
+1745    arryr  1993                           1993
+1746    arryr  1994                           1994
+1747    arryr  1995                           1995
+1748    arryr  1996                           1996
+1749    arryr  1997                           1997
+1750    arryr  1998                           1998
+1751    arryr  1999                           1999
+1752    arryr  2000                           2000
+1753    arryr  2001                           2001
+1754    arryr  2002                           2002
+1755    arryr  2003                           2003
+1756    arryr  2004                           2004
+1757    arryr  2005                           2005
+1758    arryr  2006                           2006
+1759    arryr  2007                           2007
+1760    arryr  2008                           2008
+1761    arryr  2009                           2009
+1762    arryr  2010                           2010
+1763    arryr  2011                           2011
+1764    arryr  9999                        Unknown
+1765  restime     1        Has always resided here
+1766  restime     2    Has not always resided here
+1767  restime     9                        Unknown
+1768  resdurr     0                              0
+1769  resdurr     1                              1
+1770  resdurr     2                              2
+1771  resdurr     3                              3
+1772  resdurr     4                              4
+1773  resdurr     5                              5
+1774  resdurr     6                              6
+1775  resdurr     7                              7
+1776  resdurr     8                              8
+1777  resdurr     9                              9
+1778  resdurr    10                             10
+1779  resdurr    11                             11
+1780  resdurr    12                             12
+1781  resdurr    13                             13
+1782  resdurr    14                             14
+1783  resdurr    15                             15
+1784  resdurr    16                             16
+1785  resdurr    17                             17
+1786  resdurr    18                             18
+1787  resdurr    19                             19
+1788  resdurr    20                             20
+1789  resdurr    21                             21
+1790  resdurr    22                             22
+1791  resdurr    23                             23
+1792  resdurr    24                             24
+1793  resdurr    25                             25
+1794  resdurr    26                             26
+1795  resdurr    27                             27
+1796  resdurr    28                             28
+1797  resdurr    29                             29
+1798  resdurr    30               30 or more years
+1799  resdurr    98                        Unknown
+1800  resdurr    99                            NIU
+1801  prevres     0                            NIU
+1802  prevres     1 In another locality or area of
+1803  prevres     2          In another department
+1804  prevres     3             In another country
+1805  prevres     8                        Unknown
+1806 prevdept     0                            NIU
+1807 prevdept     1                     Montevideo
+1808 prevdept     2                        Artigas
+1809 prevdept     3                      Canelones
+1810 prevdept     4                    Cerro Largo
+1811 prevdept     5                        Colonia
+1812 prevdept     6                        Durazno
+1813 prevdept     7                         Flores
+1814 prevdept     8                        Florida
+1815 prevdept     9                      Lavalleja
+1816 prevdept    10                      Maldonado
+1817 prevdept    11                       Paysandú
+1818 prevdept    12                      Río Negro
+1819 prevdept    13                         Rivera
+1820 prevdept    14                          Rocha
+1821 prevdept    15                          Salto
+1822 prevdept    16                       San Jose
+1823 prevdept    17                        Soriano
+1824 prevdept    18                     Tacuarembó
+1825 prevdept    19                 Treinta Y Tres
+1826 prevloce     0                            NIU
+1827 prevloce  1020                     Montevideo
+1828 prevloce  1621                        Abayubá
+1829 prevloce  1622               Santiago Vázquez
+1830 prevloce  1721                  Pajas Blancas
+1831 prevloce  1900 Department of Montevideo, rura
+1832 prevloce  1999 Department of Montevideo, loca
+1833 prevloce  2220                        Artigas
+1834 prevloce  2521                    Bella Unión
+1835 prevloce  2522                Tomás Gomensoro
+1836 prevloce  2621                  Baltasar Brum
+1837 prevloce  2725                       Sequeira
+1838 prevloce  2999 Department of Artigas, localit
+1839 prevloce  3030             Ciudad de la Costa
+1840 prevloce  3221                    Las Piedras
+1841 prevloce  3320                      Canelones
+1842 prevloce  3321                         La Paz
+1843 prevloce  3322                          Pando
+1844 prevloce  3323                    Santa Lucía
+1845 prevloce  3421                       Progreso
+1846 prevloce  3422                      San Ramón
+1847 prevloce  3521                 Barros Blancos
+1848 prevloce  3523               Colonia Nicolich
+1849 prevloce  3524                 Joaquín Suárez
+1850 prevloce  3525                  Paso Carrasco
+1851 prevloce  3526                     Santa Rosa
+1852 prevloce  3527                          Sauce
+1853 prevloce  3528                           Tala
+1854 prevloce  3621                      Atlántida
+1855 prevloce  3624                      Cerrillos
+1856 prevloce  3625                  Empalme Olmos
+1857 prevloce  3626                         Migues
+1858 prevloce  3627               Parque del Plata
+1859 prevloce  3628                   San Bautista
+1860 prevloce  3629                    San Jacinto
+1861 prevloce  3631                         Toledo
+1862 prevloce  3632                         Montes
+1863 prevloce  3633           San José de Carrasco
+1864 prevloce  3722              Barra de Carrasco
+1865 prevloce  3723                        Juanicó
+1866 prevloce  3724                    La Floresta
+1867 prevloce  3726                     Las Toscas
+1868 prevloce  3729                        Salinas
+1869 prevloce  3730                    San Antonio
+1870 prevloce  3731 International airport of Carra
+1871 prevloce  3732                        Solymar
+1872 prevloce  3828                       El Pinar
+1873 prevloce  3830             Pinamar - Pinepark
+1874 prevloce  3831                        Lagomar
+1875 prevloce  3834                       San Luis
+1876 prevloce  3835                      Shangrilá
+1877 prevloce  3900 Department of Canelones, rural
+1878 prevloce  3953               Lomas de Solymar
+1879 prevloce  3959                       Neptunia
+1880 prevloce  3999                        MISSING
+1881 prevloce  4220                           Melo
+1882 prevloce  4521                  Fraile Muerto
+1883 prevloce  4522                     Río Branco
+1884 prevloce  4621                       Tupambaé
+1885 prevloce  4821                         Aceguá
+1886 prevloce  4900 Department of Cerro Largo, rur
+1887 prevloce  4999 Department of Cerro Largo, loc
+1888 prevloce  5320         Colonia del Sacramento
+1889 prevloce  5321                        Carmelo
+1890 prevloce  5323                    Juan Lacaze
+1891 prevloce  5421                 Nueva Helvecia
+1892 prevloce  5422                        Rosario
+1893 prevloce  5423                  Nueva Palmira
+1894 prevloce  5521              Ombúes de Lavalle
+1895 prevloce  5522                      Tarariras
+1896 prevloce  5621               Colonia Valdense
+1897 prevloce  5622              Florencio Sánchez
+1898 prevloce  5721                     Conchillas
+1899 prevloce  5999 Department of Colonia, localit
+1900 prevloce  6220                        Durazno
+1901 prevloce  6421                 Sarandí del Yí
+1902 prevloce  6521                         Carmen
+1903 prevloce  6621                     Blanquillo
+1904 prevloce  6622                      La Paloma
+1905 prevloce  6721                  Carlos Reyles
+1906 prevloce  6722                     Centenario
+1907 prevloce  6790                    Cerro Chato
+1908 prevloce  6900 Department of Durazno, rural a
+1909 prevloce  6923                        Chileno
+1910 prevloce  6999 Department of Durazno, localit
+1911 prevloce  7320                       Trinidad
+1912 prevloce  7721                Ismael Cortinas
+1913 prevloce  7999 Department of Flores, locality
+1914 prevloce  8220                        Florida
+1915 prevloce  8421                 Sarandí Grande
+1916 prevloce  8521                         Casupá
+1917 prevloce  8621                         Cardal
+1918 prevloce  8622                    Fray Marcos
+1919 prevloce  8623          Veinticinco de Agosto
+1920 prevloce  8624            Veinticinco de Mayo
+1921 prevloce  8721             Alejandro Gallinal
+1922 prevloce  8722              Capilla del Sauce
+1923 prevloce  8723                        La Cruz
+1924 prevloce  8724                     Nico Pérez
+1925 prevloce  8821                        Chamizo
+1926 prevloce  8823                        Mendoza
+1927 prevloce  8900 Department of Florida, rural a
+1928 prevloce  8999 Department of Florida, localit
+1929 prevloce  9220                          Minas
+1930 prevloce  9521          José Batlle y Ordóñez
+1931 prevloce  9522              José Pedro Varela
+1932 prevloce  9621                      Mariscala
+1933 prevloce  9622               Solís de Mataojo
+1934 prevloce  9721                       Pirarajá
+1935 prevloce  9722                        Zapicán
+1936 prevloce  9821                          Colón
+1937 prevloce  9900 Department of Lavalleja, rural
+1938 prevloce  9999 Department of Lavalleja, local
+1939 prevloce 10320                      Maldonado
+1940 prevloce 10321                     San Carlos
+1941 prevloce 10521                          Aiguá
+1942 prevloce 10522                  Pan de Azúcar
+1943 prevloce 10523                     Piriápolis
+1944 prevloce 10524                 Punta del Este
+1945 prevloce 10940               Gregorio Aznárez
+1946 prevloce 10999 Department of Maldonado, local
+1947 prevloce 11120                       Paysandú
+1948 prevloce 11521                        Guichón
+1949 prevloce 11621                      Quebracho
+1950 prevloce 11695                       Tambores
+1951 prevloce 11723                       Porvenir
+1952 prevloce 11827              Piedras Coloradas
+1953 prevloce 11900 Department of Paysandu, rural 
+1954 prevloce 11926                       Chapicuy
+1955 prevloce 11999 Department of Paysandu, locali
+1956 prevloce 12320                    Fray Bentos
+1957 prevloce 12421                          Young
+1958 prevloce 12621                   Nuevo Berlín
+1959 prevloce 12622                     San Javier
+1960 prevloce 12723                         Grecco
+1961 prevloce 12797                        Algorta
+1962 prevloce 12900 Department of Rio Negro, rural
+1963 prevloce 12999 Department of Rio Negro, local
+1964 prevloce 13220                         Rivera
+1965 prevloce 13521              Minas de Corrales
+1966 prevloce 13522                     Tranqueras
+1967 prevloce 13621                      Vichadero
+1968 prevloce 13900 Department of Rivera, rural ar
+1969 prevloce 13999 Department of Rivera, locality
+1970 prevloce 14320                          Rocha
+1971 prevloce 14421                      Castillos
+1972 prevloce 14422                        Lascano
+1973 prevloce 14521                           Chuy
+1974 prevloce 14621                      Cebollatí
+1975 prevloce 14622                      Velázquez
+1976 prevloce 14721                    18 de Julio
+1977 prevloce 14722                      La Paloma
+1978 prevloce 14923                 Barra del Chuy
+1979 prevloce 14999 Department of Rocha, locality 
+1980 prevloce 15120                          Salto
+1981 prevloce 15522                          Belén
+1982 prevloce 15523                   Constitución
+1983 prevloce 15722                    San Antonio
+1984 prevloce 15831             Sarandí del Arapey
+1985 prevloce 15948                      Mataojito
+1986 prevloce 15949                       Migliaro
+1987 prevloce 15999 Department of Salto, locality 
+1988 prevloce 16220               San José de Mayo
+1989 prevloce 16421                       Libertad
+1990 prevloce 16521       Delta del Tigre y Villas
+1991 prevloce 16621                      Rodríguez
+1992 prevloce 16721                      Ituzaingó
+1993 prevloce 16824                  Playa Pascual
+1994 prevloce 16900 Department of San Jose, rural 
+1995 prevloce 16925                        Capurro
+1996 prevloce 16929                Ecilda Paullier
+1997 prevloce 16945                Rincón del Pino
+1998 prevloce 16964                Carreta Quemada
+1999 prevloce 16999 Department of San Jose, locali
+2000 prevloce 17220                       Mercedes
+2001 prevloce 17321                        Dolores
+2002 prevloce 17521                        Cardona
+2003 prevloce 17621              José Enrique Rodó
+2004 prevloce 17622                       Palmitas
+2005 prevloce 17623                  Villa Soriano
+2006 prevloce 17624                         Palmar
+2007 prevloce 17721                          Egaña
+2008 prevloce 17722                 Santa Catalina
+2009 prevloce 17798                      Agraciada
+2010 prevloce 17823                          Risso
+2011 prevloce 17900 Department of Soriano, rural a
+2012 prevloce 17999 Department of Soriano, localit
+2013 prevloce 18220                     Tacuarembó
+2014 prevloce 18321              Paso de los Toros
+2015 prevloce 18521        San Gregorio de Polanco
+2016 prevloce 18695                       Tambores
+2017 prevloce 18721                          Achar
+2018 prevloce 18722                         Ansina
+2019 prevloce 18723                        Curtina
+2020 prevloce 18724                 Paso del Cerro
+2021 prevloce 18824          Cuchilla de Caraguatá
+2022 prevloce 18828                     Las Toscas
+2023 prevloce 18900 Department of Tacuarembo, rura
+2024 prevloce 18952                       Laureles
+2025 prevloce 18999 Department of Tacuarembo, loca
+2026 prevloce 19220                 Treinta y Tres
+2027 prevloce 19521          Santa Clara de Olimar
+2028 prevloce 19522                        Vergara
+2029 prevloce 19790                    Cerro Chato
+2030 prevloce 19900 Department of Treinta y Tres, 
+2031 prevloce 19999 Department of Treinta y Tres, 
+2032 prevctry     0                            NIU
+2033 prevctry     5                           Cuba
+2034 prevctry    10                         Mexico
+2035 prevctry    20                      Argentina
+2036 prevctry    21                        Bolivia
+2037 prevctry    22                         Brazil
+2038 prevctry    23                          Chile
+2039 prevctry    24                       Colombia
+2040 prevctry    25                        Ecuador
+2041 prevctry    26                       Paraguay
+2042 prevctry    27                           Peru
+2043 prevctry    29                      Venezuela
+2044 prevctry    30                        England
+2045 prevctry    31                         France
+2046 prevctry    32                        Germany
+2047 prevctry    33                          Italy
+2048 prevctry    34                    Netherlands
+2049 prevctry    35                         Poland
+2050 prevctry    37                          Spain
+2051 prevctry    38                         Sweden
+2052 prevctry    39                    Switzerland
+2053 prevctry    60                         Canada
+2054 prevctry    61                  United States
+2055 prevctry    70                         Israel
+2056 prevctry    80                      Australia
+2057 prevctry    81                    New Zealand
+2058 prevctry    90                Other Caribbean
+2059 prevctry    91          Other Central America
+2060 prevctry    92            Other South America
+2061 prevctry    93                   Other Europe
+2062 prevctry    94                   Other Africa
+2063 prevctry    95                     Other Asia
+2064 prevctry    99                        Unknown
+2065     res5     0                            NIU
+2066     res5     1       In this locality or area
+2067     res5     2 In another locality or area of
+2068     res5     3          In another department
+2069     res5     4             In another country
+2070     res5     9                        Unknown
+2071 res5dept     0                            NIU
+2072 res5dept     1                     Montevideo
+2073 res5dept     2                        Artigas
+2074 res5dept     3                      Canelones
+2075 res5dept     4                    Cerro Largo
+2076 res5dept     5                        Colonia
+2077 res5dept     6                        Durazno
+2078 res5dept     7                         Flores
+2079 res5dept     8                        Florida
+2080 res5dept     9                      Lavalleja
+2081 res5dept    10                      Maldonado
+2082 res5dept    11                       Paysandu
+2083 res5dept    12                      Rio Negro
+2084 res5dept    13                         Rivera
+2085 res5dept    14                          Rocha
+2086 res5dept    15                          Salto
+2087 res5dept    16                       San Jose
+2088 res5dept    17                        Soriano
+2089 res5dept    18                     Tacuarembo
+2090 res5dept    19                 Treinta y Tres
+2091 res5loce     0                            NIU
+2092 res5loce  1020                     Montevideo
+2093 res5loce  1999 Department of Montevideo, loca
+2094 res5loce  2220                        Artigas
+2095 res5loce  2521                    Bella Unión
+2096 res5loce  2621                  Baltasar Brum
+2097 res5loce  2822                       Coronado
+2098 res5loce  2824                          Cuaró
+2099 res5loce  2825                      Guayubira
+2100 res5loce  2826                Javier de Viana
+2101 res5loce  2827                       La Bolsa
+2102 res5loce  2828                    Las Piedras
+2103 res5loce  2830                      Pintadito
+2104 res5loce  2831  Port. de Hierro y Campodónico
+2105 res5loce  2832                       Tamandua
+2106 res5loce  2833                 Mones Quintela
+2107 res5loce  2921                 Arrocera Riusa
+2108 res5loce  2928                 Catalán Grande
+2109 res5loce  2932                  Colonia Palma
+2110 res5loce  2935                         Estiva
+2111 res5loce  2940                     Palma Sola
+2112 res5loce  2945                    Paso Farías
+2113 res5loce  2948                 Piedra Pintada
+2114 res5loce  2949                 Pintado Grande
+2115 res5loce  2950          Puntas de Tres Cruces
+2116 res5loce  2952              Rincón de Pacheco
+2117 res5loce  2953              Rincón de Pintado
+2118 res5loce  2954               Sarandí de Cuaró
+2119 res5loce  2956                        Taruman
+2120 res5loce  2957                        Topador
+2121 res5loce  2958                    Cerro Ejido
+2122 res5loce  2959                  Colonia Palma
+2123 res5loce  2999 Department of Artigas, localit
+2124 res5loce  3030             Ciudad de la Costa
+2125 res5loce  3221                    Las Piedras
+2126 res5loce  3320                      Canelones
+2127 res5loce  3321                         La Paz
+2128 res5loce  3322                          Pando
+2129 res5loce  3323                    Santa Lucía
+2130 res5loce  3421                       Progreso
+2131 res5loce  3422                      San Ramón
+2132 res5loce  3522          Fracc. Cno. Maldonado
+2133 res5loce  3527                          Sauce
+2134 res5loce  3528                           Tala
+2135 res5loce  3530  Fracc. Cno.del Andaluz y R.84
+2136 res5loce  3621                      Atlántida
+2137 res5loce  3622             Estación Atlántida
+2138 res5loce  3627               Parque del Plata
+2139 res5loce  3631                         Toledo
+2140 res5loce  3634              Fracc. sobre R.74
+2141 res5loce  3729                        Salinas
+2142 res5loce  3732                        Solymar
+2143 res5loce  3733               Villa Aeroparque
+2144 res5loce  3828                       El Pinar
+2145 res5loce  3831                        Lagomar
+2146 res5loce  3832                          Olmos
+2147 res5loce  3833                 Parada Cabrera
+2148 res5loce  3835                      Shangrilá
+2149 res5loce  3880               Villa San Felipe
+2150 res5loce  3910                      City Golf
+2151 res5loce  3913              Jardines de Pando
+2152 res5loce  3922                      Argentino
+2153 res5loce  3924            Barrancas Coloradas
+2154 res5loce  3928                  Campo Militar
+2155 res5loce  3929               Capilla de Cella
+2156 res5loce  3931               Cerrillos al Sur
+2157 res5loce  3932                 Costa de Pando
+2158 res5loce  3934            Cruz de los Caminos
+2159 res5loce  3936                 Cuchilla Verde
+2160 res5loce  3938                     Echevarría
+2161 res5loce  3939                      El Bosque
+2162 res5loce  3942               Estación Pedrera
+2163 res5loce  3943           Fortín de Santa Rosa
+2164 res5loce  3947                     La Capilla
+2165 res5loce  3948                       La Lucha
+2166 res5loce  3949                   La Montañesa
+2167 res5loce  3950                     La Palmita
+2168 res5loce  3951                      La Paloma
+2169 res5loce  3954                   Las Barreras
+2170 res5loce  3972            Puntas de Pantanoso
+2171 res5loce  3973                      San Pedro
+2172 res5loce  3975           Santa Lucía del Este
+2173 res5loce  3983                    Villa Nueva
+2174 res5loce  3986                   Guazú - Virá
+2175 res5loce  3987             Colinas de Solymar
+2176 res5loce  3988                 Barrio Remanso
+2177 res5loce  3989                  Villa El Tato
+2178 res5loce  3992            Colinas de Carrasco
+2179 res5loce  3993              Lomas de Carrasco
+2180 res5loce  3997             Altos de la Tahona
+2181 res5loce  3999 Department of Canelones, local
+2182 res5loce  4220                           Melo
+2183 res5loce  4521                  Fraile Muerto
+2184 res5loce  4522                     Río Branco
+2185 res5loce  4825                      Hipódromo
+2186 res5loce  4829                     Tres Islas
+2187 res5loce  4900 Department of Cerro Largo, rur
+2188 res5loce  4921                        Aguirre
+2189 res5loce  4923                       Arbolito
+2190 res5loce  4926                    Buena Vista
+2191 res5loce  4929                  Cañada Grande
+2192 res5loce  4935               Cuchilla de Melo
+2193 res5loce  4936            Cuchilla del Carmen
+2194 res5loce  4940                      Esperanza
+2195 res5loce  4947                     La Micaela
+2196 res5loce  4948                     La Pedrera
+2197 res5loce  4950               Laguna del Junco
+2198 res5loce  4951                      Las Limas
+2199 res5loce  4952                      Mangrullo
+2200 res5loce  4953                   María Isabel
+2201 res5loce  4955                      Montecito
+2202 res5loce  4962                    Piedra Alta
+2203 res5loce  4964                Puente del Chuy
+2204 res5loce  4965              Puntas de Tacuarí
+2205 res5loce  4966                      Quebracho
+2206 res5loce  4968                    Ramón Trigo
+2207 res5loce  4971        Rincón de los Coroneles
+2208 res5loce  4972          Rincón de los Montana
+2209 res5loce  4974                   Rincón de Py
+2210 res5loce  4976                      San Diego
+2211 res5loce  4979              Sarandí de Aceguá
+2212 res5loce  4982                  Tres Boliches
+2213 res5loce  4985               Arrozal Casarone
+2214 res5loce  4988                      Arachania
+2215 res5loce  4999 Department of Cerro Largo, loc
+2216 res5loce  5320         Colonia del Sacramento
+2217 res5loce  5321                        Carmelo
+2218 res5loce  5323                    Juan Lacaze
+2219 res5loce  5421                 Nueva Helvecia
+2220 res5loce  5422                        Rosario
+2221 res5loce  5423                  Nueva Palmira
+2222 res5loce  5452                   Paso Antolín
+2223 res5loce  5522                      Tarariras
+2224 res5loce  5723                     El General
+2225 res5loce  5724                         La Paz
+2226 res5loce  5791                Ismael Cortinas
+2227 res5loce  5826                   El Semillero
+2228 res5loce  5829             Cerros de San Juan
+2229 res5loce  5830                   Martín Chico
+2230 res5loce  5833           Piedra de los Indios
+2231 res5loce  5923                        Campana
+2232 res5loce  5925                         Barker
+2233 res5loce  5930                   Belgrano Sur
+2234 res5loce  5931                   Blanca Arena
+2235 res5loce  5932               Brisas del Plata
+2236 res5loce  5933                        Campana
+2237 res5loce  5936                  Cerros Negros
+2238 res5loce  5937                  Colonia Arrue
+2239 res5loce  5940                 Paraje Minuano
+2240 res5loce  5945                      El Cuadro
+2241 res5loce  5948                       Lagunita
+2242 res5loce  5950                     Las Flores
+2243 res5loce  5951                      Los Pinos
+2244 res5loce  5955                   Chico Torino
+2245 res5loce  5962                  Playa Fomento
+2246 res5loce  5966              Punta de Arenales
+2247 res5loce  5968     Puntas del Rosario (Zunin)
+2248 res5loce  5969               Radial Hernández
+2249 res5loce  5977                      San Pedro
+2250 res5loce  5978                      San Roque
+2251 res5loce  5981                     Santa Rosa
+2252 res5loce  5983          Terminal - Artilleros
+2253 res5loce  5984                  Tres Esquinas
+2254 res5loce  5989                    Arrivillaga
+2255 res5loce  5992                      Palo Solo
+2256 res5loce  5999 Department of Colonia, localit
+2257 res5loce  6220                        Durazno
+2258 res5loce  6421                 Sarandí del Yí
+2259 res5loce  6921                         Abella
+2260 res5loce  6925            Barrancas Coloradas
+2261 res5loce  6928            Blanquillo al Oeste
+2262 res5loce  6929                Capilla Farruco
+2263 res5loce  6930                    Carpintería
+2264 res5loce  6934                Costa de Cuadra
+2265 res5loce  6937                     El Pescado
+2266 res5loce  6938               Estación Chileno
+2267 res5loce  6939                Estación Parish
+2268 res5loce  6940                      Feliciano
+2269 res5loce  6943                   La Mazamorra
+2270 res5loce  6946                      Las Cañas
+2271 res5loce  6949                    María Cejas
+2272 res5loce  6952              Parada Sur Km 265
+2273 res5loce  6956              Puntas de Herrera
+2274 res5loce  6960                 Rossell y Rius
+2275 res5loce  6965          San José de las Cañas
+2276 res5loce  6967          Sarandí del Río Negro
+2277 res5loce  6971                      Las Cañas
+2278 res5loce  6999 Department of Durazno, localit
+2279 res5loce  7320                       Trinidad
+2280 res5loce  7921                      Andresito
+2281 res5loce  7922                   Arenal Chico
+2282 res5loce  7923                Colonia Alemana
+2283 res5loce  7925               Juan José Castro
+2284 res5loce  7926                Pueblito Piedra
+2285 res5loce  7927                  Pueblo Pintos
+2286 res5loce  7928             Puntas de Chamanga
+2287 res5loce  7929     Puntas de Corral de Piedra
+2288 res5loce  7932               Puntas del Sauce
+2289 res5loce  7933                   San Gregorio
+2290 res5loce  7934                 Santa Adelaida
+2291 res5loce  7936                Talas de Maciel
+2292 res5loce  7938                 Cerro Colorado
+2293 res5loce  7999 Department of Flores, locality
+2294 res5loce  8220                        Florida
+2295 res5loce  8421                 Sarandí Grande
+2296 res5loce  8822                           Goñi
+2297 res5loce  8896                     Valentines
+2298 res5loce  8922                        Arrayán
+2299 res5loce  8924                  Chamizo Chico
+2300 res5loce  8925                      Chingolas
+2301 res5loce  8926                Colonia Sánchez
+2302 res5loce  8929               Estación Urioste
+2303 res5loce  8931             Frigorífico Modelo
+2304 res5loce  8935                    Las Chilcas
+2305 res5loce  8937             Molles del Pescado
+2306 res5loce  8938                     Montecoral
+2307 res5loce  8939           Paso de los Novillos
+2308 res5loce  8951                    Villa Vieja
+2309 res5loce  8992           Caserío La Fundación
+2310 res5loce  8993                      La Macana
+2311 res5loce  8994     Estación Capilla del Sauce
+2312 res5loce  8999 Department of Florida, localit
+2313 res5loce  9220                          Minas
+2314 res5loce  9522              José Pedro Varela
+2315 res5loce  9821                          Colón
+2316 res5loce  9823              Poblado Aramendía
+2317 res5loce  9824                Ruta 40 Km 27,5
+2318 res5loce  9922                         Alonso
+2319 res5loce  9923                       Andreoni
+2320 res5loce  9925                       Carnales
+2321 res5loce  9926                   Cerro Pelado
+2322 res5loce  9929                     El Soldado
+2323 res5loce  9931                 Estación Solís
+2324 res5loce  9932                         Gaetán
+2325 res5loce  9933                          Godoy
+2326 res5loce  9939                      Marmarajá
+2327 res5loce  9940            Molles de Gutiérrez
+2328 res5loce  9942                  Polanco Norte
+2329 res5loce  9944        Puntas de Barriga Negra
+2330 res5loce  9946                       Retamosa
+2331 res5loce  9947            Rincón de Mariscala
+2332 res5loce  9948            Rincón de Cebollatí
+2333 res5loce  9956                  Villa Serrana
+2334 res5loce  9991                       Illescas
+2335 res5loce  9999 Department of Lavalleja, local
+2336 res5loce 10320                      Maldonado
+2337 res5loce 10321                     San Carlos
+2338 res5loce 10523                     Piriápolis
+2339 res5loce 10524                 Punta del Este
+2340 res5loce 10822                         Garzón
+2341 res5loce 10823                         Gerona
+2342 res5loce 10825          Las Flores - Estación
+2343 res5loce 10826                      Los Talas
+2344 res5loce 10832                    Villa Delia
+2345 res5loce 10833         San Rafael - El Placer
+2346 res5loce 10921            Abra de Castellanos
+2347 res5loce 10922                Abra de Perdomo
+2348 res5loce 10923                Barra del Sauce
+2349 res5loce 10925              Barrio Los Aromos
+2350 res5loce 10926                    Bella Vista
+2351 res5loce 10928                   Calera Ramos
+2352 res5loce 10930                         Carapé
+2353 res5loce 10931                  Cerros Azules
+2354 res5loce 10932                      Coronilla
+2355 res5loce 10934                      El Chorro
+2356 res5loce 10935                        El Edén
+2357 res5loce 10936                      El Tesoro
+2358 res5loce 10939              Faro José Ignacio
+2359 res5loce 10944                     La Capuera
+2360 res5loce 10946                     Los Ceibos
+2361 res5loce 10949                  Partido Norte
+2362 res5loce 10955                    Playa Verde
+2363 res5loce 10958                 Punta Colorada
+2364 res5loce 10959                    Punta Negra
+2365 res5loce 10960          Puntas de San Ignacio
+2366 res5loce 10965                      Salamanca
+2367 res5loce 10967                   Santa Mónica
+2368 res5loce 10973         Balneario Buenos Aires
+2369 res5loce 10982                   Santa Mónica
+2370 res5loce 10984                  Parque Medina
+2371 res5loce 10985         Arenas de José Ignacio
+2372 res5loce 10986                     La Sonrisa
+2373 res5loce 10999 Department of Maldonado, local
+2374 res5loce 11120                       Paysandú
+2375 res5loce 11521                        Guichón
+2376 res5loce 11621                      Quebracho
+2377 res5loce 11797                        Algorta
+2378 res5loce 11829           Puntas de Buricayupí
+2379 res5loce 11830                      San Félix
+2380 res5loce 11894                    Piedra Sola
+2381 res5loce 11922                         Araújo
+2382 res5loce 11929                  El Eucaliptus
+2383 res5loce 11930                       El Horno
+2384 res5loce 11933                       Guayabos
+2385 res5loce 11937                       Orgoroso
+2386 res5loce 11938           Palmar del Quebracho
+2387 res5loce 11939                        Pandule
+2388 res5loce 11944                 Sauce de Abajo
+2389 res5loce 11949                         Valdez
+2390 res5loce 11950                       Zeballos
+2391 res5loce 11951            Chacras de Paysandú
+2392 res5loce 11952                          Rivas
+2393 res5loce 11954         Puntas de Arroyo Negro
+2394 res5loce 11955              Estación Porvenir
+2395 res5loce 11956              Cuchilla de Fuego
+2396 res5loce 11958                      Queguayar
+2397 res5loce 11999 Department of Paysandu, locali
+2398 res5loce 12320                    Fray Bentos
+2399 res5loce 12421                          Young
+2400 res5loce 12822                    Los Ranchos
+2401 res5loce 12825                          Sauce
+2402 res5loce 12826           Villa General Borges
+2403 res5loce 12919                          Islas
+2404 res5loce 12921                         Abrigo
+2405 res5loce 12923                        Bellaco
+2406 res5loce 12924              Islas de Arguello
+2407 res5loce 12926                     la Florida
+2408 res5loce 12932                        Menafra
+2409 res5loce 12934        Paso Arroyo Don Esteban
+2410 res5loce 12935             Paso de los Cobres
+2411 res5loce 12937                          Rolón
+2412 res5loce 12938                  Sánchez Chico
+2413 res5loce 12942                  Sarandí Chico
+2414 res5loce 12943                     Tres Bocas
+2415 res5loce 12945                   Tres Quintas
+2416 res5loce 12999 Department of Rio Negro, local
+2417 res5loce 13220                         Rivera
+2418 res5loce 13521              Minas de Corrales
+2419 res5loce 13522                     Tranqueras
+2420 res5loce 13621                      Vichadero
+2421 res5loce 13822                  Arroyo Blanco
+2422 res5loce 13824                   Cerro Pelado
+2423 res5loce 13825                 Cerro Caqueiro
+2424 res5loce 13826            Chilca de Caraguatá
+2425 res5loce 13827                        Cortume
+2426 res5loce 13828                    Curticeiras
+2427 res5loce 13830                  Paso Hospital
+2428 res5loce 13831                       Lapuente
+2429 res5loce 13833                       Moirones
+2430 res5loce 13835                   San Gregorio
+2431 res5loce 13838                        Lagunón
+2432 res5loce 13921                       Alborada
+2433 res5loce 13922                       Amarillo
+2434 res5loce 13923                         Batoví
+2435 res5loce 13924                        Berruti
+2436 res5loce 13925                    Blanquillos
+2437 res5loce 13928         Carpintería de Yaguarí
+2438 res5loce 13930                   Cerro Alegre
+2439 res5loce 13931            Cerros de la Calera
+2440 res5loce 13933                      Coronilla
+2441 res5loce 13935              Cruz de San Pedro
+2442 res5loce 13936        Cuchilla de Tres Cerros
+2443 res5loce 13939                      La Chilca
+2444 res5loce 13940                Lagos del Norte
+2445 res5loce 13941                       Laureles
+2446 res5loce 13945               Minas de Zapucay
+2447 res5loce 13946                  Parada Medina
+2448 res5loce 13947               Paso de Amarillo
+2449 res5loce 13951                Paso del Parque
+2450 res5loce 13955            Rincón de Rodríguez
+2451 res5loce 13957         Rincón los Tres Cerros
+2452 res5loce 13958                    Rubio Chico
+2453 res5loce 13959           Sarandí de Río Negro
+2454 res5loce 13962                        Yaguarí
+2455 res5loce 13963                 Zanja Honda 01
+2456 res5loce 13964                 Zanja Honda 02
+2457 res5loce 13999 Department of Rivera, locality
+2458 res5loce 14320                          Rocha
+2459 res5loce 14421                      Castillos
+2460 res5loce 14422                        Lascano
+2461 res5loce 14521                           Chuy
+2462 res5loce 14721                    18 de Julio
+2463 res5loce 14821         La Aguada y Costa Azul
+2464 res5loce 14822            Diecinueve de Abril
+2465 res5loce 14825                 Paso Barrancas
+2466 res5loce 14926                  Barrio Torres
+2467 res5loce 14927                    Buena Vista
+2468 res5loce 14928                   Cabo Polonio
+2469 res5loce 14932             Cuchilla de Garzón
+2470 res5loce 14933       Cuchilla de India Muerta
+2471 res5loce 14934                     El Canelón
+2472 res5loce 14935                     El Caracol
+2473 res5loce 14948                        Parallé
+2474 res5loce 14951        Picada Techera Arrocera
+2475 res5loce 14959                      Arachania
+2476 res5loce 14960 Pta. Rubia y Sta. Isabel de la
+2477 res5loce 14999 Department of Rocha, locality 
+2478 res5loce 15120                          Salto
+2479 res5loce 15722                    San Antonio
+2480 res5loce 15723               Chacras de Belén
+2481 res5loce 15724                        Itapebí
+2482 res5loce 15823                 Campo de Todos
+2483 res5loce 15825            Cuchilla de Guaviyú
+2484 res5loce 15828                        Palomas
+2485 res5loce 15830                       Quintana
+2486 res5loce 15832                        Saucedo
+2487 res5loce 15922                          Alvez
+2488 res5loce 15925                  Baltasar Brum
+2489 res5loce 15927                        Cancela
+2490 res5loce 15932                     Cerrillada
+2491 res5loce 15935                 Cerros de Vera
+2492 res5loce 15936                  El Espinillar
+2493 res5loce 15939                      Garibaldi
+2494 res5loce 15943              Termas del Arapey
+2495 res5loce 15945                       Laureles
+2496 res5loce 15947                    Mario Rubio
+2497 res5loce 15948                      Mataojito
+2498 res5loce 15951                Parada Herrería
+2499 res5loce 15953               Paso del Tropero
+2500 res5loce 15956                     Pepe Núñez
+2501 res5loce 15957 Paso de las Piedras de Arerung
+2502 res5loce 15961                        Sarandí
+2503 res5loce 15962                    Sauce Chico
+2504 res5loce 15965             Rincón de Valentín
+2505 res5loce 15968                         Arapey
+2506 res5loce 15969               Parque José Luis
+2507 res5loce 15972                          Russo
+2508 res5loce 15973                Paso Cementerio
+2509 res5loce 15999 Department of Salto, locality 
+2510 res5loce 16220               San José de Mayo
+2511 res5loce 16421                       Libertad
+2512 res5loce 16722                   Santa Mónica
+2513 res5loce 16793                Ismael Cortinas
+2514 res5loce 16822                       González
+2515 res5loce 16824                  Playa Pascual
+2516 res5loce 16825     18 de Julio (Pueblo Nuevo)
+2517 res5loce 16829         Safici (Parque Postel)
+2518 res5loce 16921                   Arroyo Llano
+2519 res5loce 16922                    Bella Vista
+2520 res5loce 16924                Bocas del Cufré
+2521 res5loce 16928         Cuchilla del Vichadero
+2522 res5loce 16930                       Escudero
+2523 res5loce 16931                         Fajina
+2524 res5loce 16933                      La Boyada
+2525 res5loce 16934        La Boyada Ruta1 Km 91,2
+2526 res5loce 16939                  Cañada Grande
+2527 res5loce 16940             Puntas de Gregorio
+2528 res5loce 16948                  Tropas Viejas
+2529 res5loce 16951               Aguas Corrientes
+2530 res5loce 16960              Cerámicas del Sur
+2531 res5loce 16965              Costas de Pereira
+2532 res5loce 16999 Department of San Jose, locali
+2533 res5loce 17220                       Mercedes
+2534 res5loce 17321                        Dolores
+2535 res5loce 17521                        Cardona
+2536 res5loce 17793                Ismael Cortinas
+2537 res5loce 17821               Cañada Paraguaya
+2538 res5loce 17822                      Castillos
+2539 res5loce 17921                  Arroyo Grande
+2540 res5loce 17923           Bequeló Ruta 14 Km 7
+2541 res5loce 17924                       Bizcocho
+2542 res5loce 17928                        El Tala
+2543 res5loce 17929                        Jackson
+2544 res5loce 17930                   La Concordia
+2545 res5loce 17932                        Olivera
+2546 res5loce 17933                          Pamer
+2547 res5loce 17935                       San Dios
+2548 res5loce 17937                  Sarandí Chico
+2549 res5loce 17939                      Palo Solo
+2550 res5loce 17999 Department of Soriano, localit
+2551 res5loce 18220                     Tacuarembó
+2552 res5loce 18321              Paso de los Toros
+2553 res5loce 18521        San Gregorio de Polanco
+2554 res5loce 18724                 Paso del Cerro
+2555 res5loce 18823                        Clavijo
+2556 res5loce 18825              Cuchilla del Ombú
+2557 res5loce 18831               Pueblo del Barro
+2558 res5loce 18835                         Zapará
+2559 res5loce 18921              Aldea San Joaquín
+2560 res5loce 18922                        Ataques
+2561 res5loce 18926                  Cardozo Chico
+2562 res5loce 18928                    Chamberlain
+2563 res5loce 18929                         Colman
+2564 res5loce 18930           Cuchilla de la Palma
+2565 res5loce 18931            Cuchilla de Peralta
+2566 res5loce 18933                       La Aldea
+2567 res5loce 18934                    La Bolsa 01
+2568 res5loce 18936                     La Humedad
+2569 res5loce 18937                     La Pedrera
+2570 res5loce 18939                        Lambaré
+2571 res5loce 18941                     Las Arenas
+2572 res5loce 18945                       Los Feos
+2573 res5loce 18946                   Los Ferreira
+2574 res5loce 18955                      Los Rosas
+2575 res5loce 18958                          Laura
+2576 res5loce 18960                       Matutina
+2577 res5loce 18963               Montevideo Chico
+2578 res5loce 18964               Paso de Ceferino
+2579 res5loce 18968               Picada de Cuello
+2580 res5loce 18970                  Quiebra Yugos
+2581 res5loce 18971              Cerro de Pastoreo
+2582 res5loce 18972            Rincón de la Laguna
+2583 res5loce 18973               Rincón de Giloca
+2584 res5loce 18978                     Santa Rita
+2585 res5loce 18979                      Santander
+2586 res5loce 18984         Treinta y Tres ó Cañas
+2587 res5loce 18988                        Zapucay
+2588 res5loce 18990         Puntas de Cinco Sauces
+2589 res5loce 18991              Rincón de Pereira
+2590 res5loce 18999 Department of Tacuarembo, loca
+2591 res5loce 19220                 Treinta y Tres
+2592 res5loce 19521          Santa Clara de Olimar
+2593 res5loce 19522                        Vergara
+2594 res5loce 19821                Estación Rincón
+2595 res5loce 19822   Isla Patrulla (María Isabel)
+2596 res5loce 19823                 Picada Techera
+2597 res5loce 19921                         Acosta
+2598 res5loce 19923      Arrozal Florencio Barreto
+2599 res5loce 19927                   Cañada Chica
+2600 res5loce 19928          Cañada de los Cuervos
+2601 res5loce 19931                    Cipa Olimar
+2602 res5loce 19936               Julio María Sanz
+2603 res5loce 19938                        La Lata
+2604 res5loce 19939         Lechiguana de Corrales
+2605 res5loce 19940            Arrocera Los Ceibos
+2606 res5loce 19941                   María Albina
+2607 res5loce 19947               Puntas del Parao
+2608 res5loce 19948                Rincón de Gadea
+2609 res5loce 19951              Sierra del Yerbal
+2610 res5loce 19953                     Tres Bocas
+2611 res5loce 19999 Department of Treinta y Tres, 
+2612 res5ctry     0                            NIU
+2613 res5ctry     5                           Cuba
+2614 res5ctry    10                         Mexico
+2615 res5ctry    20                      Argentina
+2616 res5ctry    22                         Brazil
+2617 res5ctry    23                          Chile
+2618 res5ctry    24                       Colombia
+2619 res5ctry    26                       Paraguay
+2620 res5ctry    27                           Peru
+2621 res5ctry    29                      Venezuela
+2622 res5ctry    30                        England
+2623 res5ctry    31                         France
+2624 res5ctry    32                        Germany
+2625 res5ctry    33                          Italy
+2626 res5ctry    37                          Spain
+2627 res5ctry    60                         Canada
+2628 res5ctry    61                  United States
+2629 res5ctry    90                Other Caribbean
+2630 res5ctry    91          Other Central America
+2631 res5ctry    92            Other South America
+2632 res5ctry    93                   Other Europe
+2633 res5ctry    94                   Other Africa
+2634 res5ctry    95                     Other Asia
+2635 res5ctry    96                  Other Oceania
+2636 res5ctry    99                        Unknown
+2637  edearly     0                            NIU
+2638  edearly     1   Yes, attends a public center
+2639  edearly     2            Yes, attends a CAIF
+2640  edearly     3  Yes, attends a private center
+2641  edearly     4                Does not attend
+2642  edearly     9                        Unknown
+2643   school     0                            NIU
+2644   school     1 Yes, attends a public establis
+2645   school     2 Yes, attends a private establi
+2646   school     3 Does not attend, but has atten
+2647   school     4                 Never attended
+2648   school     9                        Unknown
+2649   schloc     0                            NIU
+2650   schloc     1       In this locality or area
+2651   schloc     2 In another locality or area of
+2652   schloc     3          In another department
+2653   schloc     4             In another country
+2654   schloc     5 Does not apply (distance learn
+2655  schdept     0                            NIU
+2656  schdept     1                     Montevideo
+2657  schdept     3                      Canelones
+2658  schdept     5                        Colonia
+2659  schdept     6                        Durazno
+2660  schdept     8                        Florida
+2661  schdept     9                      Lavalleja
+2662  schdept    10                      Maldonado
+2663  schdept    11                       Paysandú
+2664  schdept    15                          Salto
+2665  schdept    17                        Soriano
+2666  schdept    18                     Tacuarembó
+2667  schdept    19                 Treinta Y Tres
+2668  schdept    20               Other department
+2669  schctry     0                            NIU
+2670  schctry    20                      Argentina
+2671  schctry    22                         Brazil
+2672  schctry    99                        Unknown
+2673 edattend     0                            NIU
+2674 edattend     1                      Preschool
+2675 edattend     2              Elementary school
+2676 edattend     3 Elementary school, special edu
+2677 edattend     4 Junior high school, grades 1 t
+2678 edattend     5 Junior high school UTU, grades
+2679 edattend     6     High school, grades 4 to 6
+2680 edattend     7 High school UTU, grades 4 to 6
+2681 edattend     8 Technical school or profession
+2682 edattend     9               Teacher training
+2683 edattend    10 Post-secondary non-university 
+2684 edattend    11 University or college institut
+2685 edattend    12 Graduate studies (diploma, mas
+2686 edattend    99                        Unknown
+2687  edlevel     0                            NIU
+2688  edlevel     1                      Preschool
+2689  edlevel     2              Elementary school
+2690  edlevel     3 Elementary school, special edu
+2691  edlevel     4 Junior high school, grades 1 t
+2692  edlevel     5 Junior high school UTU, grades
+2693  edlevel     6     High school, grades 4 to 6
+2694  edlevel     7 High school UTU, grades 4 to 6
+2695  edlevel     8 Technical school or profession
+2696  edlevel     9               Teacher training
+2697  edlevel    10 Post-secondary non-university 
+2698  edlevel    11 University or college institut
+2699  edlevel    12 Graduate studies (diploma, mas
+2700 edlevcom     0                            NIU
+2701 edlevcom     1                            Yes
+2702 edlevcom     2                             No
+2703 edlevcom     9                        Unknown
+2704      lit     0                            NIU
+2705      lit     1                            Yes
+2706      lit     2                             No
+2707      lit     9                        Unknown
+2708   worklw     0                            NIU
+2709   worklw     1                            Yes
+2710   worklw     2                             No
+2711   worklw     9                        Unknown
+2712    wkagr     0                            NIU
+2713    wkagr     1                            Yes
+2714    wkagr     2                             No
+2715    wkagr     9                        Unknown
+2716 wkreturn     0                            NIU
+2717 wkreturn     1                            Yes
+2718 wkreturn     2                             No
+2719 wkreturn     9                        Unknown
+2720   wklook     0                            NIU
+2721   wklook     1                            Yes
+2722   wklook     2                             No
+2723   wklook     9                        Unknown
+2724   wkprev     0                            NIU
+2725   wkprev     1                            Yes
+2726   wkprev     2                             No
+2727   wkprev     9                        Unknown
+2728    wkloc     0                            NIU
+2729    wkloc     1 In this locality or area and i
+2730    wkloc     2 In this locality or area and o
+2731    wkloc     3 In another locality or area of
+2732    wkloc     4          In another department
+2733    wkloc     5             In another country
+2734    wkloc     6 Itinerant work (in more than o
+2735    wkloc     9                        Unknown
+2736   wkdept     0                            NIU
+2737   wkdept     1                     Montevideo
+2738   wkdept     2                        Artigas
+2739   wkdept     3                      Canelones
+2740   wkdept     4                    Cerro Largo
+2741   wkdept     5                        Colonia
+2742   wkdept     6                        Durazno
+2743   wkdept     7                         Flores
+2744   wkdept     8                        Florida
+2745   wkdept     9                      Lavalleja
+2746   wkdept    10                      Maldonado
+2747   wkdept    11                       Paysandú
+2748   wkdept    12                      Río Negro
+2749   wkdept    13                         Rivera
+2750   wkdept    14                          Rocha
+2751   wkdept    15                          Salto
+2752   wkdept    16                       San Jose
+2753   wkdept    17                        Soriano
+2754   wkdept    18                     Tacuarembó
+2755   wkdept    19                 Treinta Y Tres
+2756  retired     0                            NIU
+2757  retired     1                            Yes
+2758  retired     2                             No
+2759  retired     9                        Unknown
+2760  domhome     0                            NIU
+2761  domhome     1                            Yes
+2762  domhome     2                             No
+2763  domhome     9                        Unknown
+2764   chborn     0                              0
+2765   chborn     1                              1
+2766   chborn     2                              2
+2767   chborn     3                              3
+2768   chborn     4                              4
+2769   chborn     5                              5
+2770   chborn     6                              6
+2771   chborn     7                              7
+2772   chborn     8                              8
+2773   chborn     9                              9
+2774   chborn    10                             10
+2775   chborn    11                             11
+2776   chborn    12                             12
+2777   chborn    13                             13
+2778   chborn    14                             14
+2779   chborn    15                            15+
+2780   chborn    98                        Unknown
+2781   chborn    99                            NIU
+2782 chborunk     0                            NIU
+2783 chborunk     1                            Yes
+2784 chborunk     2                             No
+2785 chborunk     9                        Unknown
+2786  chalive     0                              0
+2787  chalive     1                              1
+2788  chalive     2                              2
+2789  chalive     3                              3
+2790  chalive     4                              4
+2791  chalive     5                              5
+2792  chalive     6                              6
+2793  chalive     7                              7
+2794  chalive     8                              8
+2795  chalive     9                              9
+2796  chalive    10                             10
+2797  chalive    11                             11
+2798  chalive    12                             12
+2799  chalive    13                             13
+2800  chalive    14                             14
+2801  chalive    15                            15+
+2802  chalive    98                        Unknown
+2803  chalive    99                            NIU
+2804 chlivunk     0                            NIU
+2805 chlivunk     1                            Yes
+2806 chlivunk     2                             No
+2807 chlivunk     9                        Unknown
+2808   lstbyr     0                            NIU
+2809   lstbyr  1940                1940 or earlier
+2810   lstbyr  1941                           1941
+2811   lstbyr  1942                           1942
+2812   lstbyr  1943                           1943
+2813   lstbyr  1944                           1944
+2814   lstbyr  1945                           1945
+2815   lstbyr  1946                           1946
+2816   lstbyr  1947                           1947
+2817   lstbyr  1948                           1948
+2818   lstbyr  1949                           1949
+2819   lstbyr  1950                           1950
+2820   lstbyr  1951                           1951
+2821   lstbyr  1952                           1952
+2822   lstbyr  1953                           1953
+2823   lstbyr  1954                           1954
+2824   lstbyr  1955                           1955
+2825   lstbyr  1956                           1956
+2826   lstbyr  1957                           1957
+2827   lstbyr  1958                           1958
+2828   lstbyr  1959                           1959
+2829   lstbyr  1960                           1960
+2830   lstbyr  1961                           1961
+2831   lstbyr  1962                           1962
+2832   lstbyr  1963                           1963
+2833   lstbyr  1964                           1964
+2834   lstbyr  1965                           1965
+2835   lstbyr  1966                           1966
+2836   lstbyr  1967                           1967
+2837   lstbyr  1968                           1968
+2838   lstbyr  1969                           1969
+2839   lstbyr  1970                           1970
+2840   lstbyr  1971                           1971
+2841   lstbyr  1972                           1972
+2842   lstbyr  1973                           1973
+2843   lstbyr  1974                           1974
+2844   lstbyr  1975                           1975
+2845   lstbyr  1976                           1976
+2846   lstbyr  1977                           1977
+2847   lstbyr  1978                           1978
+2848   lstbyr  1979                           1979
+2849   lstbyr  1980                           1980
+2850   lstbyr  1981                           1981
+2851   lstbyr  1982                           1982
+2852   lstbyr  1983                           1983
+2853   lstbyr  1984                           1984
+2854   lstbyr  1985                           1985
+2855   lstbyr  1986                           1986
+2856   lstbyr  1987                           1987
+2857   lstbyr  1988                           1988
+2858   lstbyr  1989                           1989
+2859   lstbyr  1990                           1990
+2860   lstbyr  1991                           1991
+2861   lstbyr  1992                           1992
+2862   lstbyr  1993                           1993
+2863   lstbyr  1994                           1994
+2864   lstbyr  1995                           1995
+2865   lstbyr  1996                           1996
+2866   lstbyr  1997                           1997
+2867   lstbyr  1998                           1998
+2868   lstbyr  1999                           1999
+2869   lstbyr  2000                           2000
+2870   lstbyr  2001                           2001
+2871   lstbyr  2002                           2002
+2872   lstbyr  2003                           2003
+2873   lstbyr  2004                           2004
+2874   lstbyr  2005                           2005
+2875   lstbyr  2006                           2006
+2876   lstbyr  2007                           2007
+2877   lstbyr  2008                           2008
+2878   lstbyr  2009                           2009
+2879   lstbyr  2010                           2010
+2880   lstbyr  2011                           2011
+2881   lstbyr  9999                        Unknown
+2882   lstbmo     0                            NIU
+2883   lstbmo     1                        January
+2884   lstbmo     2                       February
+2885   lstbmo     3                          March
+2886   lstbmo     4                          April
+2887   lstbmo     5                            May
+2888   lstbmo     6                           June
+2889   lstbmo     7                           July
+2890   lstbmo     8                         August
+2891   lstbmo     9                      September
+2892   lstbmo    10                        October
+2893   lstbmo    11                       November
+2894   lstbmo    12                       December
+2895   lstbmo    99                        Unknown
+2896  frstbyr     0                            NIU
+2897  frstbyr  1935                1935 or earlier
+2898  frstbyr  1936                           1936
+2899  frstbyr  1937                           1937
+2900  frstbyr  1938                           1938
+2901  frstbyr  1939                           1939
+2902  frstbyr  1940                           1940
+2903  frstbyr  1941                           1941
+2904  frstbyr  1942                           1942
+2905  frstbyr  1943                           1943
+2906  frstbyr  1944                           1944
+2907  frstbyr  1945                           1945
+2908  frstbyr  1946                           1946
+2909  frstbyr  1947                           1947
+2910  frstbyr  1948                           1948
+2911  frstbyr  1949                           1949
+2912  frstbyr  1950                           1950
+2913  frstbyr  1951                           1951
+2914  frstbyr  1952                           1952
+2915  frstbyr  1953                           1953
+2916  frstbyr  1954                           1954
+2917  frstbyr  1955                           1955
+2918  frstbyr  1956                           1956
+2919  frstbyr  1957                           1957
+2920  frstbyr  1958                           1958
+2921  frstbyr  1959                           1959
+2922  frstbyr  1960                           1960
+2923  frstbyr  1961                           1961
+2924  frstbyr  1962                           1962
+2925  frstbyr  1963                           1963
+2926  frstbyr  1964                           1964
+2927  frstbyr  1965                           1965
+2928  frstbyr  1966                           1966
+2929  frstbyr  1967                           1967
+2930  frstbyr  1968                           1968
+2931  frstbyr  1969                           1969
+2932  frstbyr  1970                           1970
+2933  frstbyr  1971                           1971
+2934  frstbyr  1972                           1972
+2935  frstbyr  1973                           1973
+2936  frstbyr  1974                           1974
+2937  frstbyr  1975                           1975
+2938  frstbyr  1976                           1976
+2939  frstbyr  1977                           1977
+2940  frstbyr  1978                           1978
+2941  frstbyr  1979                           1979
+2942  frstbyr  1980                           1980
+2943  frstbyr  1981                           1981
+2944  frstbyr  1982                           1982
+2945  frstbyr  1983                           1983
+2946  frstbyr  1984                           1984
+2947  frstbyr  1985                           1985
+2948  frstbyr  1986                           1986
+2949  frstbyr  1987                           1987
+2950  frstbyr  1988                           1988
+2951  frstbyr  1989                           1989
+2952  frstbyr  1990                           1990
+2953  frstbyr  1991                           1991
+2954  frstbyr  1992                           1992
+2955  frstbyr  1993                           1993
+2956  frstbyr  1994                           1994
+2957  frstbyr  1995                           1995
+2958  frstbyr  1996                           1996
+2959  frstbyr  1997                           1997
+2960  frstbyr  1998                           1998
+2961  frstbyr  1999                           1999
+2962  frstbyr  2000                           2000
+2963  frstbyr  2001                           2001
+2964  frstbyr  2002                           2002
+2965  frstbyr  2003                           2003
+2966  frstbyr  2004                           2004
+2967  frstbyr  2005                           2005
+2968  frstbyr  2006                           2006
+2969  frstbyr  2007                           2007
+2970  frstbyr  2008                           2008
+2971  frstbyr  2009                           2009
+2972  frstbyr  2010                           2010
+2973  frstbyr  2011                           2011
+2974  frstbyr  9999                        Unknown
+2975   dissee     1                  No difficulty
+2976   dissee     2           Yes, some difficulty
+2977   dissee     3           Yes, much difficulty
+2978   dissee     4                Yes, cannot see
+2979   dissee     9                        Unknown
+2980   dismob     1                  No difficulty
+2981   dismob     2           Yes, some difficulty
+2982   dismob     3           Yes, much difficulty
+2983   dismob     4 Yes, cannot walk or go up stai
+2984   dismob     9                        Unknown
+2985   disdev     1                  No difficulty
+2986   disdev     2           Yes, some difficulty
+2987   disdev     3           Yes, much difficulty
+2988   disdev     4 Yes, cannot understand or lear
+2989   disdev     9                        Unknown
+2990  edattan     0                            NIU
+2991  edattan     1                      Preschool
+2992  edattan     2              Elementary school
+2993  edattan     3 Elementary school, special edu
+2994  edattan     4             Junior high school
+2995  edattan     5                    High school
+2996  edattan     6 Technical school or profesiona
+2997  edattan     7               Teacher training
+2998  edattan     8 Post-secondary non-university 
+2999  edattan     9          University or similar
+3000  edattan    10 Graduate studies (diploma, mas
+3001  edattan    11   Post-secondary not specified
+3002  edattan    12                 Never attended
+3003  edattan    99                        Unknown
+3004  empstat     0                            NIU
+3005  empstat     1                       Employed
+3006  empstat     2              Seeking first job
+3007  empstat     3                     Unemployed
+3008  empstat     4 Inactive, retired or receiving
+3009  empstat     5        Inactive, other reasons
+3010  empstat     9                        Unknown
+3011 chbornrc     0                              0
+3012 chbornrc     1                              1
+3013 chbornrc     2                              2
+3014 chbornrc     3                              3
+3015 chbornrc     4                              4
+3016 chbornrc     5                              5
+3017 chbornrc     6                              6
+3018 chbornrc     7                              7
+3019 chbornrc     8                              8
+3020 chbornrc     9                              9
+3021 chbornrc    10                             10
+3022 chbornrc    11                             11
+3023 chbornrc    12                             12
+3024 chbornrc    13                             13
+3025 chbornrc    14                             14
+3026 chbornrc    15                            15+
+3027 chbornrc    98                        Unknown
+3028 chbornrc    99                            NIU
+3029 chliverc     0                              0
+3030 chliverc     1                              1
+3031 chliverc     2                              2
+3032 chliverc     3                              3
+3033 chliverc     4                              4
+3034 chliverc     5                              5
+3035 chliverc     6                              6
+3036 chliverc     7                              7
+3037 chliverc     8                              8
+3038 chliverc     9                              9
+3039 chliverc    10                             10
+3040 chliverc    11                             11
+3041 chliverc    12                             12
+3042 chliverc    13                             13
+3043 chliverc    14                             14
+3044 chliverc    15                            15+
+3045 chliverc    98                        Unknown
+3046 chliverc    99                            NIU

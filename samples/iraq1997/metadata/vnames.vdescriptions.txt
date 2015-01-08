@@ -1,0 +1,73 @@
+      vname                                                      vdescription
+1     cntry                                                           Country
+2      year                                                              Year
+3    sample                                           IPUMS sample identifier
+4    serial                                           Household serial number
+5     dwnum                                                   Dwelling number
+6      pern                                    Number of persons in household
+7      fbig Dwelling created by splitting apart a large dwelling or household
+8       gov                                                       Governorate
+9       qad                                                  District (Qadah)
+10    urban                                                       Urban-rural
+11     hhno                      Number of households in the residential unit
+12  roombed                                                Number of bedrooms
+13    owner                                 Ownership of the residential unit
+14   dwsize                               Size of the rented residential unit
+15     rent                                        Monthly rent (Iraqi Dinar)
+16   dwtype                                          Type of residential unit
+17    walls                                        Wall construction material
+18    rooms                                             Total number of rooms
+19     bath                                       Bathroom in the living unit
+20   toilet                                                      Water closet
+21    batht                                         Bathroom and water closet
+22    kitch                                                           Kitchen
+23    elect                                                       Electricity
+24    phone                                                         Telephone
+25   watsrc                                          Source of drinking water
+26    sewer                                                       Waste water
+27    dwtyc                                                  Type of dwelling
+28   pernum                                                     Person number
+29    wtper                                                     Person weight
+30 resident                               Residence status: de facto, de jure
+31   pernum                                  Person number (within household)
+32  resstat                                                Residential status
+33   relate                             Relation to the head of the household
+34      sex                                                               Sex
+35   birthm                                              Date of birth: month
+36   birthy                                                     Year of birth
+37    marst                                                    Marital status
+38    maryr                                            Year of first marriage
+39     marn                                               Number of marriages
+40    wives                                                   Number of wives
+41   mardur                                              Duration of marriage
+42  chbornm                                 Number of live-born male children
+43  chbornf                               Number of live-born female children
+44   chlivm                                Numbe of male children still alive
+45   chlivf                             Number of female children still alive
+46 chbornrm                       Number of male live births in the past year
+47 chbornrf                     Number of female live births in the past year
+48  empstat                                                Labor force status
+49      occ                                                        Occupation
+50      ind                                                          Industry
+51  classwk                                              Status in employment
+52   sector                                              Sector of employment
+53 fulltime                                                         Work time
+54   incsrc                                              Source of livelihood
+55   parliv                                           Vital status of parents
+56      bpl                                                    Place of birth
+57   resdur                               Period in current residential place
+58  resdury                                Years in current residential place
+59    respr                      Previous governorate or country of residence
+60   respru                          Urban-rural status of previous residence
+61  whymove                            Reason for changing place of residence
+62    res87                                      Residence before 1987 census
+63   res87u                             Urban-rural status before 1987 census
+64   nation                                                       Nationality
+65   edlev1                                          Education level studying
+66  edgrade                                           Class or level studying
+67  edattan                              Educational level and grade studying
+68      lit                                                          Literacy
+69   edlev2                                               Highest certificate
+70 handicap                                                Kind of disability
+71      age                                                               Age
+72     lang                                Local and foreign languages spoken

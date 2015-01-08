@@ -1,0 +1,2448 @@
+        vname code                          short
+1       cntry   32                      Argentina
+2       cntry   51                        Armenia
+3       cntry   40                        Austria
+4       cntry   50                     Bangladesh
+5       cntry  112                        Belarus
+6       cntry   68                        Bolivia
+7       cntry   76                         Brazil
+8       cntry  854                   Burkina Faso
+9       cntry  116                       Cambodia
+10      cntry  120                       Cameroon
+11      cntry  124                         Canada
+12      cntry  152                          Chile
+13      cntry  156                          China
+14      cntry  170                       Colombia
+15      cntry  188                     Costa Rica
+16      cntry  192                           Cuba
+17      cntry  214             Dominican Republic
+18      cntry  218                        Ecuador
+19      cntry  818                          Egypt
+20      cntry  222                    El Salvador
+21      cntry  242                           Fiji
+22      cntry  250                         France
+23      cntry  276                        Germany
+24      cntry  288                          Ghana
+25      cntry  300                         Greece
+26      cntry  324                         Guinea
+27      cntry  332                          Haiti
+28      cntry  348                        Hungary
+29      cntry  356                          India
+30      cntry  360                      Indonesia
+31      cntry  364                           Iran
+32      cntry  368                           Iraq
+33      cntry  372                        Ireland
+34      cntry  376                         Israel
+35      cntry  380                          Italy
+36      cntry  388                        Jamaica
+37      cntry  400                         Jordan
+38      cntry  404                          Kenya
+39      cntry  417                Kyrgyz Republic
+40      cntry  430                        Liberia
+41      cntry  454                         Malawi
+42      cntry  458                       Malaysia
+43      cntry  466                           Mali
+44      cntry  484                         Mexico
+45      cntry  496                       Mongolia
+46      cntry  504                        Morocco
+47      cntry  524                          Nepal
+48      cntry  528                    Netherlands
+49      cntry  558                      Nicaragua
+50      cntry  566                        Nigeria
+51      cntry  586                       Pakistan
+52      cntry  275                      Palestine
+53      cntry  591                         Panama
+54      cntry  604                           Peru
+55      cntry  608                    Philippines
+56      cntry  620                       Portugal
+57      cntry  630                    Puerto Rico
+58      cntry  642                        Romania
+59      cntry  646                         Rwanda
+60      cntry  662                    Saint Lucia
+61      cntry  686                        Senegal
+62      cntry  694                   Sierra Leone
+63      cntry  705                       Slovenia
+64      cntry  710                   South Africa
+65      cntry  728                    South Sudan
+66      cntry  724                          Spain
+67      cntry  729                          Sudan
+68      cntry  756                    Switzerland
+69      cntry  834                       Tanzania
+70      cntry  764                       Thailand
+71      cntry  792                         Turkey
+72      cntry  800                         Uganda
+73      cntry  804                        Ukraine
+74      cntry  826                 United Kingdom
+75      cntry  840                  United States
+76      cntry  858                        Uruguay
+77      cntry  862                      Venezuela
+78      cntry  704                        Vietnam
+79      cntry  894                         Zambia
+80       year 1960                           1960
+81       year 1962                           1962
+82       year 1963                           1963
+83       year 1964                           1964
+84       year 1966                           1966
+85       year 1968                           1968
+86       year 1969                           1969
+87       year 1970                           1970
+88       year 1971                           1971
+89       year 1972                           1972
+90       year 1973                           1973
+91       year 1974                           1974
+92       year 1975                           1975
+93       year 1976                           1976
+94       year 1977                           1977
+95       year 1979                           1979
+96       year 1980                           1980
+97       year 1981                           1981
+98       year 1982                           1982
+99       year 1983                           1983
+100      year 1984                           1984
+101      year 1985                           1985
+102      year 1986                           1986
+103      year 1987                           1987
+104      year 1989                           1989
+105      year 1990                           1990
+106      year 1991                           1991
+107      year 1992                           1992
+108      year 1993                           1993
+109      year 1994                           1994
+110      year 1995                           1995
+111      year 1996                           1996
+112      year 1997                           1997
+113      year 1998                           1998
+114      year 1999                           1999
+115      year 2000                           2000
+116      year 2001                           2001
+117      year 2002                           2002
+118      year 2003                           2003
+119      year 2004                           2004
+120      year 2005                           2005
+121      year 2006                           2006
+122      year 2007                           2007
+123      year 2008                           2008
+124      year 2009                           2009
+125      year 2010                           2010
+126      year 2011                           2011
+127    sample  321                 Argentina 1970
+128    sample  322                 Argentina 1980
+129    sample  323                 Argentina 1991
+130    sample  324                 Argentina 2001
+131    sample  325                 Argentina 2010
+132    sample  511                   Armenia 2001
+133    sample  401                   Austria 1971
+134    sample  402                   Austria 1981
+135    sample  403                   Austria 1991
+136    sample  404                   Austria 2001
+137    sample  501                Bangladesh 1991
+138    sample  502                Bangladesh 2001
+139    sample  503                Bangladesh 2011
+140    sample  681                   Bolivia 1976
+141    sample  682                   Bolivia 1992
+142    sample  683                   Bolivia 2001
+143    sample  761                    Brazil 1960
+144    sample  762                    Brazil 1970
+145    sample  763                    Brazil 1980
+146    sample  764                    Brazil 1991
+147    sample  765                    Brazil 2000
+148    sample  766                    Brazil 2010
+149    sample 1121                   Belarus 1999
+150    sample 8541              Burkina Faso 1985
+151    sample 8542              Burkina Faso 1996
+152    sample 8543              Burkina Faso 2006
+153    sample 1161                  Cambodia 1998
+154    sample 1162                  Cambodia 2008
+155    sample 1201                  Cameroon 1976
+156    sample 1202                  Cameroon 1987
+157    sample 1203                  Cameroon 2005
+158    sample 1241                    Canada 1971
+159    sample 1242                    Canada 1981
+160    sample 1243                    Canada 1991
+161    sample 1244                    Canada 2001
+162    sample 1521                     Chile 1960
+163    sample 1522                     Chile 1970
+164    sample 1523                     Chile 1982
+165    sample 1524                     Chile 1992
+166    sample 1525                     Chile 2002
+167    sample 1561                     China 1982
+168    sample 1562                     China 1990
+169    sample 1701                  Colombia 1964
+170    sample 1702                  Colombia 1973
+171    sample 1703                  Colombia 1985
+172    sample 1704                  Colombia 1993
+173    sample 1705                  Colombia 2005
+174    sample 1881                Costa Rica 1963
+175    sample 1882                Costa Rica 1973
+176    sample 1883                Costa Rica 1984
+177    sample 1884                Costa Rica 2000
+178    sample 1921                      Cuba 2002
+179    sample 2141        Dominican Republic 1960
+180    sample 2142        Dominican Republic 1970
+181    sample 2143        Dominican Republic 1981
+182    sample 2144        Dominican Republic 2002
+183    sample 2145        Dominican Republic 2010
+184    sample 2181                   Ecuador 1962
+185    sample 2182                   Ecuador 1974
+186    sample 2183                   Ecuador 1982
+187    sample 2184                   Ecuador 1990
+188    sample 2185                   Ecuador 2001
+189    sample 2186                   Ecuador 2010
+190    sample 8181                     Egypt 1996
+191    sample 8182                     Egypt 2006
+192    sample 2221               El Salvador 1992
+193    sample 2222               El Salvador 2007
+194    sample 2421                      Fiji 1966
+195    sample 2422                      Fiji 1976
+196    sample 2423                      Fiji 1986
+197    sample 2424                      Fiji 1996
+198    sample 2425                      Fiji 2007
+199    sample 2501                    France 1962
+200    sample 2502                    France 1968
+201    sample 2503                    France 1975
+202    sample 2504                    France 1982
+203    sample 2505                    France 1990
+204    sample 2506                    France 1999
+205    sample 2507                    France 2006
+206    sample 2761            Germany 1970 (West)
+207    sample 2762            Germany 1971 (East)
+208    sample 2763            Germany 1981 (East)
+209    sample 2764            Germany 1987 (West)
+210    sample 2881                     Ghana 2000
+211    sample 2882                     Ghana 2010
+212    sample 3001                    Greece 1971
+213    sample 3002                    Greece 1981
+214    sample 3003                    Greece 1991
+215    sample 3004                    Greece 2001
+216    sample 3241                    Guinea 1983
+217    sample 3242                    Guinea 1996
+218    sample 3321                     Haiti 1971
+219    sample 3322                     Haiti 1982
+220    sample 3323                     Haiti 2003
+221    sample 3481                   Hungary 1970
+222    sample 3482                   Hungary 1980
+223    sample 3483                   Hungary 1990
+224    sample 3484                   Hungary 2001
+225    sample 3561                     India 1983
+226    sample 3562                     India 1987
+227    sample 3563                     India 1993
+228    sample 3564                     India 1999
+229    sample 3565                     India 2004
+230    sample 3601                 Indonesia 1971
+231    sample 3602                 Indonesia 1976
+232    sample 3603                 Indonesia 1980
+233    sample 3604                 Indonesia 1985
+234    sample 3605                 Indonesia 1990
+235    sample 3606                 Indonesia 1995
+236    sample 3607                 Indonesia 2000
+237    sample 3608                 Indonesia 2005
+238    sample 3609                 Indonesia 2010
+239    sample 3641                      Iran 2006
+240    sample 3681                      Iraq 1997
+241    sample 3721                   Ireland 1971
+242    sample 3722                   Ireland 1979
+243    sample 3723                   Ireland 1981
+244    sample 3724                   Ireland 1986
+245    sample 3725                   Ireland 1991
+246    sample 3726                   Ireland 1996
+247    sample 3727                   Ireland 2002
+248    sample 3728                   Ireland 2006
+249    sample 3729                   Ireland 2011
+250    sample 3761                    Israel 1972
+251    sample 3762                    Israel 1983
+252    sample 3763                    Israel 1995
+253    sample 3801                     Italy 2001
+254    sample 3881                   Jamaica 1982
+255    sample 3882                   Jamaica 1991
+256    sample 3883                   Jamaica 2001
+257    sample 4001                    Jordan 2004
+258    sample 4041                     Kenya 1969
+259    sample 4042                     Kenya 1979
+260    sample 4043                     Kenya 1989
+261    sample 4044                     Kenya 1999
+262    sample 4045                     Kenya 2009
+263    sample 4171           Kyrgyz Republic 1999
+264    sample 4172           Kyrgyz Republic 2009
+265    sample 4301                   Liberia 1974
+266    sample 4302                   Liberia 2008
+267    sample 4541                    Malawi 1987
+268    sample 4542                    Malawi 1998
+269    sample 4543                    Malawi 2008
+270    sample 4581                  Malaysia 1970
+271    sample 4582                  Malaysia 1980
+272    sample 4583                  Malaysia 1991
+273    sample 4584                  Malaysia 2000
+274    sample 4661                      Mali 1987
+275    sample 4662                      Mali 1998
+276    sample 4663                      Mali 2009
+277    sample 4841                    Mexico 1960
+278    sample 4842                    Mexico 1970
+279    sample 4843                    Mexico 1990
+280    sample 4844                    Mexico 1995
+281    sample 4845                    Mexico 2000
+282    sample 4846                    Mexico 2005
+283    sample 4847                    Mexico 2010
+284    sample 4961                  Mongolia 1989
+285    sample 4962                  Mongolia 2000
+286    sample 5041                   Morocco 1982
+287    sample 5042                   Morocco 1994
+288    sample 5043                   Morocco 2004
+289    sample 5241                     Nepal 2001
+290    sample 5281               Netherlands 1960
+291    sample 5282               Netherlands 1971
+292    sample 5283               Netherlands 2001
+293    sample 5581                 Nicaragua 1971
+294    sample 5582                 Nicaragua 1995
+295    sample 5583                 Nicaragua 2005
+296    sample 5661                   Nigeria 2006
+297    sample 5662                   Nigeria 2007
+298    sample 5663                   Nigeria 2008
+299    sample 5664                   Nigeria 2009
+300    sample 5665                   Nigeria 2010
+301    sample 5861                  Pakistan 1973
+302    sample 5862                  Pakistan 1981
+303    sample 5863                  Pakistan 1998
+304    sample 2751                 Palestine 1997
+305    sample 2752                 Palestine 2007
+306    sample 5911                    Panama 1960
+307    sample 5912                    Panama 1970
+308    sample 5913                    Panama 1980
+309    sample 5914                    Panama 1990
+310    sample 5915                    Panama 2000
+311    sample 5916                    Panama 2010
+312    sample 6041                      Peru 1993
+313    sample 6042                      Peru 2007
+314    sample 6081               Philippines 1990
+315    sample 6082               Philippines 1995
+316    sample 6083               Philippines 2000
+317    sample 6201                  Portugal 1981
+318    sample 6202                  Portugal 1991
+319    sample 6203                  Portugal 2001
+320    sample 6301               Puerto Rico 1970
+321    sample 6302               Puerto Rico 1980
+322    sample 6303               Puerto Rico 1990
+323    sample 6304               Puerto Rico 2000
+324    sample 6305               Puerto Rico 2005
+325    sample 6421                   Romania 1977
+326    sample 6422                   Romania 1992
+327    sample 6423                   Romania 2002
+328    sample 6461                    Rwanda 1991
+329    sample 6462                    Rwanda 2002
+330    sample 6621               Saint Lucia 1980
+331    sample 6622               Saint Lucia 1991
+332    sample 6861                   Senegal 1988
+333    sample 6862                   Senegal 2002
+334    sample 6941              Sierra Leone 2004
+335    sample 7051                  Slovenia 2002
+336    sample 7101              South Africa 1996
+337    sample 7102              South Africa 2001
+338    sample 7103              South Africa 2007
+339    sample 7241                     Spain 1981
+340    sample 7242                     Spain 1991
+341    sample 7243                     Spain 2001
+342    sample 7281               South Sudan 2008
+343    sample 7291                     Sudan 2008
+344    sample 7561               Switzerland 1970
+345    sample 7562               Switzerland 1980
+346    sample 7563               Switzerland 1990
+347    sample 7564               Switzerland 2000
+348    sample 8341                  Tanzania 1988
+349    sample 8342                  Tanzania 2002
+350    sample 7641                  Thailand 1970
+351    sample 7642                  Thailand 1980
+352    sample 7643                  Thailand 1990
+353    sample 7644                  Thailand 2000
+354    sample 7921                    Turkey 1985
+355    sample 7922                    Turkey 1990
+356    sample 7923                    Turkey 2000
+357    sample 8001                    Uganda 1991
+358    sample 8002                    Uganda 2002
+359    sample 8041                   Ukraine 2001
+360    sample 8261            United Kingdom 1991
+361    sample 8262            United Kingdom 2001
+362    sample 8401             United States 1960
+363    sample 8402             United States 1970
+364    sample 8403             United States 1980
+365    sample 8404             United States 1990
+366    sample 8405             United States 2000
+367    sample 8406             United States 2005
+368    sample 8407             United States 2010
+369    sample 8581                   Uruguay 1963
+370    sample 8582                   Uruguay 1975
+371    sample 8583                   Uruguay 1985
+372    sample 8584                   Uruguay 1996
+373    sample 8585                   Uruguay 2006
+374    sample 8586                   Uruguay 2011
+375    sample 8621                 Venezuela 1971
+376    sample 8622                 Venezuela 1981
+377    sample 8623                 Venezuela 1990
+378    sample 8624                 Venezuela 2001
+379    sample 7041                   Vietnam 1989
+380    sample 7042                   Vietnam 1999
+381    sample 7043                   Vietnam 2009
+382    sample 8941                    Zambia 1990
+383    sample 8942                    Zambia 2000
+384    sample 8943                    Zambia 2010
+385     hhnum    1                              1
+386     hhnum    2                              2
+387     hhnum    3                              3
+388     hhnum    4                              4
+389     hhnum    5                              5
+390     hhnum    6                              6
+391     hhnum    7                              7
+392     hhnum    8                              8
+393     hhnum    9                              9
+394     hhnum   10                             10
+395     hhnum   11                             11
+396     hhnum   12                             12
+397     hhnum   13                             13
+398     hhnum   14                             14
+399     hhnum   15                             15
+400     hhnum   16                             16
+401     hhnum   17                             17
+402     hhnum   18                             18
+403     hhnum   19                             19
+404     hhnum   20                             20
+405       hhn    1                              1
+406       hhn    2                              2
+407       hhn    3                              3
+408       hhn    4                              4
+409       hhn    5                              5
+410       hhn    6                              6
+411       hhn    7                              7
+412       hhn    8                              8
+413       hhn    9                              9
+414       hhn   10                             10
+415       hhn   11                             11
+416       hhn   14                             14
+417       hhn   15                             15
+418       hhn   20                             20
+419     pernd    1                              1
+420     pernd    2                              2
+421     pernd    3                              3
+422     pernd    4                              4
+423     pernd    5                              5
+424     pernd    6                              6
+425     pernd    7                              7
+426     pernd    8                              8
+427     pernd    9                              9
+428     pernd   10                             10
+429     pernd   11                             11
+430     pernd   12                             12
+431     pernd   13                             13
+432     pernd   14                             14
+433     pernd   15                             15
+434     pernd   16                             16
+435     pernd   17                             17
+436     pernd   18                             18
+437     pernd   19                             19
+438     pernd   20                             20
+439     pernd   21                             21
+440     pernd   22                             22
+441     pernd   24                             24
+442     pernd   25                             25
+443     pernd   23                             23
+444     pernd   26                             26
+445     pernd   27                             27
+446     pernd   28                             28
+447     pernd   29                             29
+448     pernd   30                             30
+449      pern    1                              1
+450      pern    2                              2
+451      pern    3                              3
+452      pern    4                              4
+453      pern    5                              5
+454      pern    6                              6
+455      pern    7                              7
+456      pern    8                              8
+457      pern    9                              9
+458      pern   10                             10
+459      pern   11                             11
+460      pern   12                             12
+461      pern   13                             13
+462      pern   14                             14
+463      pern   15                             15
+464      pern   16                             16
+465      pern   17                             17
+466      pern   19                             19
+467      pern   22                             22
+468      pern   24                             24
+469      pern   18                             18
+470      pern   20                             20
+471      pern   21                             21
+472      pern   23                             23
+473      pern   25                             25
+474      pern   26                             26
+475      fbig    0                     No problem
+476      fbig    1 Yes: households within a large
+477      fbig    2 Yes: persons within a large ho
+478   donated    0                     No problem
+479   donated    1                        Donated
+480     d_num    1                              1
+481     d_num    2                              2
+482     d_num    3                              3
+483     d_num    4                              4
+484     d_num    5                              5
+485     d_num    6                              6
+486     d_num    7                              7
+487     d_num    8                              8
+488     d_num    9                              9
+489     d_num   10                             10
+490     d_num   11                             11
+491     d_num   12                             12
+492     d_num   13                             13
+493     d_num   14                             14
+494     d_num   15                             15
+495     d_num   16                             16
+496     d_num   17                             17
+497     d_num   18                             18
+498     d_num   19                             19
+499     d_num   20                             20
+500     d_num   21                             21
+501     d_num   22                             22
+502     d_num   23                             23
+503     d_num   24                             24
+504     d_num   25                             25
+505     d_num   26                             26
+506     d_num   27                             27
+507     d_num   28                             28
+508     d_num   29                             29
+509     d_num   30                             30
+510     d_num   31                             31
+511     d_num   32                             32
+512     d_num   33                             33
+513     d_num   34                             34
+514     d_num   35                             35
+515     d_num   36                             36
+516     d_num   37                             37
+517     d_num   38                             38
+518     d_num   39                             39
+519     d_num   40                             40
+520     d_num   41                             41
+521     d_num   42                             42
+522     d_num   43                             43
+523      dept    5                      Antioquia
+524      dept    8                      Atlántico
+525      dept   11                         Bogotá
+526      dept   13                        Bolívar
+527      dept   15                         Boyacá
+528      dept   17                         Caldas
+529      dept   18                        Caquetá
+530      dept   19                          Cauca
+531      dept   20                          Cesar
+532      dept   23                        Córdoba
+533      dept   25                   Cundinamarca
+534      dept   27                          Chocó
+535      dept   41                          Huila
+536      dept   44                     La Guajira
+537      dept   47                      Magdalena
+538      dept   50                           Meta
+539      dept   52                         Nariño
+540      dept   54             Norte de Santander
+541      dept   63                        Quindío
+542      dept   66                      Risaralda
+543      dept   68                      Santander
+544      dept   70                          Sucre
+545      dept   73                         Tolima
+546      dept   76                          Valle
+547      dept   81                         Arauca
+548      dept   85                       Casanare
+549      dept   86                       Putumayo
+550      dept   88                     San Andrés
+551      dept   91                       Amazonas
+552      dept   95                       Guaviare
+553      dept   97             Vaupés and Guainía
+554      dept   99                        Vichada
+555      geoc    1         Municipal seat/capital
+556      geoc    2              Population center
+557      geoc    3                 Disperse rural
+558    dwtype    1                          House
+559    dwtype    2               Indigenous house
+560    dwtype    3                      Apartment
+561    dwtype    4                      Room type
+562    dwtype    5         Other type of dwelling
+563      wall    1 Cement block, brick, stone, po
+564      wall    2 Plastered boards, adobe, mud a
+565      wall    3     Rough wood, board, plywood
+566      wall    4         Prefabricated material
+567      wall    5 Clay brick, cane, cane/mud, ot
+568      wall    6 Zinc, fabric, cardboard, cans,
+569      wall    7                  Without walls
+570      wall    9                        Unknown
+571     floor    1 Carpet, marble, parquet, polis
+572     floor    2  Tile, vinyl, clay tile, brick
+573     floor    3                 Cement, gravel
+574     floor    4 Rough wood, board, plywood, ot
+575     floor    5                     Dirt, sand
+576     floor    9                        Unknown
+577     elect    1                            Yes
+578     elect    2                             No
+579     sewer    1                            Yes
+580     sewer    2                             No
+581    runwat    1                            Yes
+582    runwat    2                             No
+583    natgas    1                            Yes
+584    natgas    2                             No
+585    natgas    9                        Unknown
+586     phone    1                            Yes
+587     phone    2                             No
+588     phone    9                        Unknown
+589    toilet    1 Toilet connected to a sewage d
+590    toilet    2 Toilet connected to a septic t
+591    toilet    3 Toilet without a connection, l
+592    toilet    4            No sanitary service
+593    toilet    9                        Unknown
+594     water    1            Inside the dwelling
+595     water    2 Outside the dwelling but insid
+596     water    3 Outside the dwelling and outsi
+597     water    9                        Unknown
+598   roomsba    0                              0
+599   roomsba    1                              1
+600   roomsba    2                              2
+601   roomsba    3                              3
+602   roomsba    4                              4
+603   roomsba    5                              5
+604   roomsba    6                              6
+605   roomsba    7                              7
+606   roomsba    8                              8
+607   roomsba    9                              9
+608   roomsba   10                             10
+609   roomsba   99                        Unknown
+610   kitchex    1                            Yes
+611   kitchex    2                             No
+612   kitchex    9                        Unknown
+613    tenure    1                    Paying rent
+614    tenure    2                 Owned dwelling
+615    tenure    3  Lives without paying anything
+616    tenure    4  Lives or holding or possesion
+617    tenure    5     Lives in another situation
+618    tenure    9                        Unknown
+619     owner    1               Totally paid for
+620     owner    2                     Are paying
+621     owner    9                            NIU
+622     rooms    0                        0 rooms
+623     rooms    1                              1
+624     rooms    2                              2
+625     rooms    3                              3
+626     rooms    4                              4
+627     rooms    5                              5
+628     rooms    6                              6
+629     rooms    7                              7
+630     rooms    8                              8
+631     rooms    9                              9
+632     rooms   10                             10
+633     rooms   11                             11
+634     rooms   12                             12
+635     rooms   13                             13
+636     rooms   14                             14
+637     rooms   15                             15
+638     rooms   16                             16
+639     rooms   17                             17
+640     rooms   18                             18
+641     rooms   19                             19
+642     rooms   20                            20+
+643     rooms   99                        Unknown
+644   roomsbd    0                        0 rooms
+645   roomsbd    1                              1
+646   roomsbd    2                              2
+647   roomsbd    3                              3
+648   roomsbd    4                              4
+649   roomsbd    5                              5
+650   roomsbd    6                              6
+651   roomsbd    7                              7
+652   roomsbd    8                              8
+653   roomsbd    9                              9
+654   roomsbd   10                             10
+655   roomsbd   11                             11
+656   roomsbd   12                             12
+657   roomsbd   13                             13
+658   roomsbd   14                             14
+659   roomsbd   15                             15
+660   roomsbd   16                             16
+661   roomsbd   17                             17
+662   roomsbd   18                             18
+663   roomsbd   19                             19
+664   roomsbd   20                            20+
+665   roomsbd   99                        Unknown
+666    bathex    1    Exclusive for the household
+667    bathex    2   Shared with other households
+668    bathex    3  Do not have sanitary services
+669    bathex    9                        Unknown
+670    watsrc    1                       Aqueduct
+671    watsrc    2      Well with or without pump
+672    watsrc    3                     Rain water
+673    watsrc    4                  Public faucet
+674    watsrc    5 Water truck, water delivery se
+675    watsrc    6           River, creek, spring
+676    watsrc    7         Bottled or baged water
+677    watsrc    9                        Unknown
+678    cookpl    1     In a room only for cooking
+679    cookpl    2 In a room used also for sleepi
+680    cookpl    3 In a living room-dining room w
+681    cookpl    4 In a living room-dining room w
+682    cookpl    5  In a patio, corridor, hallway
+683    cookpl    6                   No, not cook
+684    cookpl    9                        Unknown
+685    fuelck    1              Electrical energy
+686    fuelck    2                    Natural gas
+687    fuelck    3        Gas in cylinder or tank
+688    fuelck    4 Petroleum, gasoline, kerosene,
+689    fuelck    5 Firewood, wood, discarded mate
+690    fuelck    6                   Mineral coal
+691    fuelck    8                        Unknown
+692    fuelck    9                            NIU
+693    refrig    1                            Yes
+694    refrig    2                             No
+695    refrig    9                        Unknown
+696    washer    1                            Yes
+697    washer    2                             No
+698    washer    9                        Unknown
+699    stereo    1                            Yes
+700    stereo    2                             No
+701    stereo    9                        Unknown
+702   watheat    1                            Yes
+703   watheat    2                             No
+704   watheat    9                        Unknown
+705    shower    1                            Yes
+706    shower    2                             No
+707    shower    9                        Unknown
+708   blender    1                            Yes
+709   blender    2                             No
+710   blender    9                        Unknown
+711      oven    1                            Yes
+712      oven    2                             No
+713      oven    9                        Unknown
+714   aircond    1                            Yes
+715   aircond    2                             No
+716   aircond    9                        Unknown
+717       fan    1                            Yes
+718       fan    2                             No
+719       fan    9                        Unknown
+720       tvc    1                            Yes
+721       tvc    2                             No
+722       tvc    9                        Unknown
+723   compute    1                            Yes
+724   compute    2                             No
+725   compute    9                        Unknown
+726    microw    1                            Yes
+727    microw    2                             No
+728    microw    9                        Unknown
+729      bike    0                              0
+730      bike    1                              1
+731      bike    2                              2
+732      bike    3                              3
+733      bike    4                              4
+734      bike    5                              5
+735      bike    6                              6
+736      bike    7                              7
+737      bike    8                              8
+738      bike    9                              9
+739      bike   99                        Unknown
+740   motorcy    0                              0
+741   motorcy    1                              1
+742   motorcy    2                              2
+743   motorcy    3                              3
+744   motorcy    9                        Unknown
+745      boat    0                              0
+746      boat    1                              1
+747      boat    2                              2
+748      boat    9                        Unknown
+749      auto    0                              0
+750      auto    1                              1
+751      auto    2                              2
+752      auto    3                              3
+753      auto    4                              4
+754      auto    9                        Unknown
+755   commorg    1                            Yes
+756   commorg    2                             No
+757   commorg    9                        Unknown
+758   commorg    1                            Yes
+759   commorg    2                             No
+760   commorg    9                        Unknown
+761    incbas    1 Enough to cover basic expenses
+762    incbas    2 More than enough to cover basi
+763    incbas    3 Not enough to cover basic expe
+764    incbas    9                        Unknown
+765     incad    1              From 0 to 200,000
+766     incad    2        From 200,001 to 400,000
+767     incad    3        From 400,001 to 700,000
+768     incad    4      From 700,001 to 1,000,000
+769     incad    5    From 1,000,001 to 1,500,000
+770     incad    6    From 1,500,001 to 2,000,000
+771     incad    7    From 2,000,001 to 3,000,000
+772     incad    8    From 3,000,001 to 4,500,000
+773     incad    9            More than 4,500,000
+774     incad   11                  Does not know
+775     incad   99                        Unknown
+776        pa    1                            Yes
+777        pa    2                             No
+778        pa    9                        Unknown
+779     patot    0                              0
+780     patot    1                              1
+781     patot    2                              2
+782     patot    3                              3
+783     patot    4                              4
+784     patot    5                              5
+785     patot    6                              6
+786     patot    7                              7
+787     patot    8                              8
+788     patot    9                              9
+789     patot   10                            10+
+790     patot   99                        Unknown
+791    pave05    0                              0
+792    pave05    1                              1
+793    pave05    2                              2
+794    pave05    3                              3
+795    pave05    4                              4
+796    pave05    5                             5+
+797    pave05    9                        Unknown
+798    pave00    0                              0
+799    pave00    1                              1
+800    pave00    2                              2
+801    pave00    3                              3
+802    pave00    4                              4
+803    pave00    5                             5+
+804    pave00    9                        Unknown
+805    pave96    0                              0
+806    pave96    1                              1
+807    pave96    2                              2
+808    pave96    3                              3
+809    pave96    4                              4
+810    pave96    5                              5
+811    pave96    6                             6+
+812    pave96    9                        Unknown
+813    paus05    0                              0
+814    paus05    1                              1
+815    paus05    2                              2
+816    paus05    3                              3
+817    paus05    4                             4+
+818    paus05    9                        Unknown
+819    paus00    0                              0
+820    paus00    1                              1
+821    paus00    2                              2
+822    paus00    3                              3
+823    paus00    4                              4
+824    paus00    5                             5+
+825    paus00    9                        Unknown
+826    paus96    0                              0
+827    paus96    1                              1
+828    paus96    2                              2
+829    paus96    3                              3
+830    paus96    4                              4
+831    paus96    5                              5
+832    paus96    6                             6+
+833    paus96    9                        Unknown
+834    paes05    0                              0
+835    paes05    1                              1
+836    paes05    2                              2
+837    paes05    3                              3
+838    paes05    4                             4+
+839    paes05    9                        Unknown
+840    paes96    0                              0
+841    paes96    1                              1
+842    paes96    2                              2
+843    paes96    3                              3
+844    paes96    4                             4+
+845    paes96    9                        Unknown
+846    pamx05    0                              0
+847    pamx05    1                             1+
+848    pamx05    9                        Unknown
+849    pamx00    0                              0
+850    pamx00    1                             1+
+851    pamx00    9                        Unknown
+852    pamx96    0                              0
+853    pamx96    1                             1+
+854    pamx96    9                        Unknown
+855    pacr05    0                              0
+856    pacr05    1                              1
+857    pacr05    2                             2+
+858    pacr05    9                        Unknown
+859    pacr00    0                              0
+860    pacr00    1                             1+
+861    pacr00    9                        Unknown
+862    pacr96    0                              0
+863    pacr96    1                             1+
+864    pacr96    9                        Unknown
+865    paca05    0                              0
+866    paca05    1                              1
+867    paca05    2                              2
+868    paca05    3                             3+
+869    paca05    9                        Unknown
+870    paca00    0                              0
+871    paca00    1                              1
+872    paca00    2                             2+
+873    paca00    9                        Unknown
+874    paca96    0                              0
+875    paca96    1                             1+
+876    paca96    9                        Unknown
+877    paat05    0                              0
+878    paat05    1                             1+
+879    paat05    9                        Unknown
+880    paat00    0                              0
+881    paat00    1                             1+
+882    paat00    9                        Unknown
+883    paat96    0                              0
+884    paat96    1                             1+
+885    paat96    9                        Unknown
+886    paec05    0                              0
+887    paec05    1                              1
+888    paec05    2                              2
+889    paec05    3                             3+
+890    paec05    9                        Unknown
+891    paec00    0                              0
+892    paec00    1                             1+
+893    paec00    9                        Unknown
+894    paec96    0                              0
+895    paec96    1                             1+
+896    paec96    9                        Unknown
+897    papa05    0                              0
+898    papa05    1                              1
+899    papa05    2                             2+
+900    papa05    9                        Unknown
+901    papa00    0                              0
+902    papa00    1                             1+
+903    papa00    9                        Unknown
+904    papa96    0                              0
+905    papa96    1                             1+
+906    papa96    9                        Unknown
+907    pape05    0                              0
+908    pape05    1                             1+
+909    pape05    2                     MISSING-GF
+910    pape05    9                        Unknown
+911    pabo05    0                              0
+912    pabo05    1                             1+
+913    pabo05    9                        Unknown
+914    paot05    0                              0
+915    paot05    1                              1
+916    paot05    2                              2
+917    paot05    3                              3
+918    paot05    4                             4+
+919    paot05    9                        Unknown
+920    paot00    0                              0
+921    paot00    1                              1
+922    paot00    2                              2
+923    paot00    3                              3
+924    paot00    4                             4+
+925    paot00    9                        Unknown
+926    paot96    0                              0
+927    paot96    1                              1
+928    paot96    2                              2
+929    paot96    3                             3+
+930    paot96    9                        Unknown
+931     perno    1                              1
+932     perno    2                              2
+933     perno    3                              3
+934     perno    4                              4
+935     perno    5                              5
+936     perno    6                              6
+937     perno    7                              7
+938     perno    8                              8
+939     perno    9                              9
+940     perno   10                             10
+941     perno   11                             11
+942     perno   12                             12
+943     perno   13                             13
+944     perno   14                             14
+945     perno   15                             15
+946     perno   16                             16
+947     perno   17                             17
+948     perno   18                             18
+949     perno   19                             19
+950     perno   20                             20
+951     perno   21                             21
+952     perno   22                             22
+953     perno   23                             23
+954     perno   24                             24
+955     perno   25                             25
+956     diedn    0                              0
+957     diedn    1                              1
+958     diedn    2                              2
+959     diedn    3                             3+
+960   econact    1                            Yes
+961   econact    2                             No
+962    pernum    0               Household record
+963    pernum    1                              1
+964    pernum    2                              2
+965    pernum    3                              3
+966    pernum    4                              4
+967    pernum    5                              5
+968    pernum    6                              6
+969    pernum    7                              7
+970    pernum    8                              8
+971    pernum    9                              9
+972    pernum   10                             10
+973    pernum   11                             11
+974    pernum   12                             12
+975    pernum   13                             13
+976    pernum   14                             14
+977    pernum   15                             15
+978    pernum   16                             16
+979    pernum   17                             17
+980    pernum   18                             18
+981    pernum   19                             19
+982    pernum   20                             20
+983    pernum   21                             21
+984    pernum   22                             22
+985    pernum   23                             23
+986    pernum   24                             24
+987    pernum   25                             25
+988       sex    1                           Male
+989       sex    2                         Female
+990      bmon    1                        January
+991      bmon    2                       February
+992      bmon    3                          March
+993      bmon    4                          April
+994      bmon    5                            May
+995      bmon    6                           June
+996      bmon    7                           July
+997      bmon    8                         August
+998      bmon    9                      September
+999      bmon   10                        October
+1000     bmon   11                       November
+1001     bmon   12                       December
+1002     bmon   99                        Unknown
+1003      byr 1900                1900 or earlier
+1004      byr 1901                           1901
+1005      byr 1902                           1902
+1006      byr 1903                           1903
+1007      byr 1904                           1904
+1008      byr 1905                           1905
+1009      byr 1906                           1906
+1010      byr 1907                           1907
+1011      byr 1908                           1908
+1012      byr 1909                           1909
+1013      byr 1910                           1910
+1014      byr 1911                           1911
+1015      byr 1912                           1912
+1016      byr 1913                           1913
+1017      byr 1914                           1914
+1018      byr 1915                           1915
+1019      byr 1916                           1916
+1020      byr 1917                           1917
+1021      byr 1918                           1918
+1022      byr 1919                           1919
+1023      byr 1920                           1920
+1024      byr 1921                           1921
+1025      byr 1922                           1922
+1026      byr 1923                           1923
+1027      byr 1924                           1924
+1028      byr 1925                           1925
+1029      byr 1926                           1926
+1030      byr 1927                           1927
+1031      byr 1928                           1928
+1032      byr 1929                           1929
+1033      byr 1930                           1930
+1034      byr 1931                           1931
+1035      byr 1932                           1932
+1036      byr 1933                           1933
+1037      byr 1934                           1934
+1038      byr 1935                           1935
+1039      byr 1936                           1936
+1040      byr 1937                           1937
+1041      byr 1938                           1938
+1042      byr 1939                           1939
+1043      byr 1940                           1940
+1044      byr 1941                           1941
+1045      byr 1942                           1942
+1046      byr 1943                           1943
+1047      byr 1944                           1944
+1048      byr 1945                           1945
+1049      byr 1946                           1946
+1050      byr 1947                           1947
+1051      byr 1948                           1948
+1052      byr 1949                           1949
+1053      byr 1950                           1950
+1054      byr 1951                           1951
+1055      byr 1952                           1952
+1056      byr 1953                           1953
+1057      byr 1954                           1954
+1058      byr 1955                           1955
+1059      byr 1956                           1956
+1060      byr 1957                           1957
+1061      byr 1958                           1958
+1062      byr 1959                           1959
+1063      byr 1960                           1960
+1064      byr 1961                           1961
+1065      byr 1962                           1962
+1066      byr 1963                           1963
+1067      byr 1964                           1964
+1068      byr 1965                           1965
+1069      byr 1966                           1966
+1070      byr 1967                           1967
+1071      byr 1968                           1968
+1072      byr 1969                           1969
+1073      byr 1970                           1970
+1074      byr 1971                           1971
+1075      byr 1972                           1972
+1076      byr 1973                           1973
+1077      byr 1974                           1974
+1078      byr 1975                           1975
+1079      byr 1976                           1976
+1080      byr 1977                           1977
+1081      byr 1978                           1978
+1082      byr 1979                           1979
+1083      byr 1980                           1980
+1084      byr 1981                           1981
+1085      byr 1982                           1982
+1086      byr 1983                           1983
+1087      byr 1984                           1984
+1088      byr 1985                           1985
+1089      byr 1986                           1986
+1090      byr 1987                           1987
+1091      byr 1988                           1988
+1092      byr 1989                           1989
+1093      byr 1990                           1990
+1094      byr 1991                           1991
+1095      byr 1992                           1992
+1096      byr 1993                           1993
+1097      byr 1994                           1994
+1098      byr 1995                           1995
+1099      byr 1996                           1996
+1100      byr 1997                           1997
+1101      byr 1998                           1998
+1102      byr 1999                           1999
+1103      byr 2000                           2000
+1104      byr 2001                           2001
+1105      byr 2002                           2002
+1106      byr 2003                           2003
+1107      byr 2004                           2004
+1108      byr 2005                           2005
+1109      byr 2006                           2006
+1110      byr 9999                        Unknown
+1111   knowbd    1                            Yes
+1112   knowbd    2                             No
+1113      age    0                              0
+1114      age    1                              1
+1115      age    2                              2
+1116      age    3                              3
+1117      age    4                              4
+1118      age    5                              5
+1119      age    6                              6
+1120      age    7                              7
+1121      age    8                              8
+1122      age    9                              9
+1123      age   10                             10
+1124      age   11                             11
+1125      age   12                             12
+1126      age   13                             13
+1127      age   14                             14
+1128      age   15                             15
+1129      age   16                             16
+1130      age   17                             17
+1131      age   18                             18
+1132      age   19                             19
+1133      age   20                             20
+1134      age   21                             21
+1135      age   22                             22
+1136      age   23                             23
+1137      age   24                             24
+1138      age   25                             25
+1139      age   26                             26
+1140      age   27                             27
+1141      age   28                             28
+1142      age   29                             29
+1143      age   30                             30
+1144      age   31                             31
+1145      age   32                             32
+1146      age   33                             33
+1147      age   34                             34
+1148      age   35                             35
+1149      age   36                             36
+1150      age   37                             37
+1151      age   38                             38
+1152      age   39                             39
+1153      age   40                             40
+1154      age   41                             41
+1155      age   42                             42
+1156      age   43                             43
+1157      age   44                             44
+1158      age   45                             45
+1159      age   46                             46
+1160      age   47                             47
+1161      age   48                             48
+1162      age   49                             49
+1163      age   50                             50
+1164      age   51                             51
+1165      age   52                             52
+1166      age   53                             53
+1167      age   54                             54
+1168      age   55                             55
+1169      age   56                             56
+1170      age   57                             57
+1171      age   58                             58
+1172      age   59                             59
+1173      age   60                             60
+1174      age   61                             61
+1175      age   62                             62
+1176      age   63                             63
+1177      age   64                             64
+1178      age   65                             65
+1179      age   66                             66
+1180      age   67                             67
+1181      age   68                             68
+1182      age   69                             69
+1183      age   70                             70
+1184      age   71                             71
+1185      age   72                             72
+1186      age   73                             73
+1187      age   74                             74
+1188      age   75                             75
+1189      age   76                             76
+1190      age   77                             77
+1191      age   78                             78
+1192      age   79                             79
+1193      age   80                             80
+1194      age   81                             81
+1195      age   82                             82
+1196      age   83                             83
+1197      age   84                             84
+1198      age   85                             85
+1199      age   86                             86
+1200      age   87                             87
+1201      age   88                             88
+1202      age   89                             89
+1203      age   90                             90
+1204      age   91                             91
+1205      age   92                             92
+1206      age   93                             93
+1207      age   94                             94
+1208      age   95                             95
+1209      age   96                             96
+1210      age   97                             97
+1211      age   98                             98
+1212      age   99                             99
+1213      age  100                            100
+1214      age  101                            101
+1215      age  102                            102
+1216      age  103                            103
+1217      age  104                            104
+1218      age  105                           105+
+1219   relate    1              Head of household
+1220   relate    2               Spouse (partner)
+1221   relate    3 Son/daughter, stepson/stepdaug
+1222   relate    4    Son-in-law, daughter-in-law
+1223   relate    5              Grandson/daughter
+1224   relate    6 Father, mother, or father/moth
+1225   relate    7 Brother/sister, step-brother/s
+1226   relate    8                 Other relative
+1227   relate    9              Domestic employee
+1228   relate   10             Other non-relative
+1229     bplp    1           In this municipality
+1230     bplp    2 In another Colombian municipal
+1231     bplp    3             In another country
+1232     bplp    9                        Unknown
+1233     bpld    5                      Antioquia
+1234     bpld    8                      Atlántico
+1235     bpld   11                         Bogotá
+1236     bpld   13                        Bolívar
+1237     bpld   15                         Boyacá
+1238     bpld   17                         Caldas
+1239     bpld   18                        Caquetá
+1240     bpld   19                          Cauca
+1241     bpld   20                          Cesar
+1242     bpld   23                        Córdoba
+1243     bpld   25                   Cundinamarca
+1244     bpld   27                          Chocó
+1245     bpld   41                          Huila
+1246     bpld   44                     La Guajira
+1247     bpld   47                      Magdalena
+1248     bpld   50                           Meta
+1249     bpld   52                         Nariño
+1250     bpld   54             Norte de Santander
+1251     bpld   63                        Quindío
+1252     bpld   66                      Risaralda
+1253     bpld   68                      Santander
+1254     bpld   70                          Sucre
+1255     bpld   73                         Tolima
+1256     bpld   76                          Valle
+1257     bpld   81                         Arauca
+1258     bpld   85                       Casanare
+1259     bpld   86                       Putumayo
+1260     bpld   88                     San Andrés
+1261     bpld   91                       Amazonas
+1262     bpld   94                        Guainía
+1263     bpld   95                       Guaviare
+1264     bpld   97                         Vaupés
+1265     bpld   99                        Vichada
+1266     bpld  998                        Unknown
+1267     bpld  999                            NIU
+1268     bplc   23                        Germany
+1269     bplc   63                      Argentina
+1270     bplc   87                        Belgium
+1271     bplc   97                        Bolivia
+1272     bplc  105                         Brazil
+1273     bplc  149                         Canada
+1274     bplc  196                     Costa Rica
+1275     bplc  199                           Cuba
+1276     bplc  211                          Chile
+1277     bplc  215                          China
+1278     bplc  232                        Denmark
+1279     bplc  239                        Ecuador
+1280     bplc  245                          Spain
+1281     bplc  249                  United States
+1282     bplc  275                         France
+1283     bplc  317                      Guatemala
+1284     bplc  345                       Honduras
+1285     bplc  383                         Israel
+1286     bplc  386                          Italy
+1287     bplc  399                          Japan
+1288     bplc  431                        Lebanon
+1289     bplc  493                         Mexico
+1290     bplc  521                      Nicaragua
+1291     bplc  580                        Panama 
+1292     bplc  589                           Perú
+1293     bplc  611                    Puerto Rico
+1294     bplc  628 United Kingdom-Malvinas (Falkl
+1295     bplc  647             Dominican Republic
+1296     bplc  676          Russia, Federation of
+1297     bplc  767                     Switzerlan
+1298     bplc  830                        Ukraine
+1299     bplc  845                        Uruguay
+1300     bplc  850                      Venezuela
+1301     bplc  990            Response suppressed
+1302     bplc  998                        Unknown
+1303     bplc  999                            NIU
+1304  arrivyr 1950                1950 or earlier
+1305  arrivyr 1951                           1951
+1306  arrivyr 1952                           1952
+1307  arrivyr 1953                           1953
+1308  arrivyr 1954                           1954
+1309  arrivyr 1955                           1955
+1310  arrivyr 1956                           1956
+1311  arrivyr 1957                           1957
+1312  arrivyr 1958                           1958
+1313  arrivyr 1959                           1959
+1314  arrivyr 1960                           1960
+1315  arrivyr 1961                           1961
+1316  arrivyr 1962                           1962
+1317  arrivyr 1963                           1963
+1318  arrivyr 1964                           1964
+1319  arrivyr 1965                           1965
+1320  arrivyr 1966                           1966
+1321  arrivyr 1967                           1967
+1322  arrivyr 1968                           1968
+1323  arrivyr 1969                           1969
+1324  arrivyr 1970                           1970
+1325  arrivyr 1971                           1971
+1326  arrivyr 1972                           1972
+1327  arrivyr 1973                           1973
+1328  arrivyr 1974                           1974
+1329  arrivyr 1975                           1975
+1330  arrivyr 1976                           1976
+1331  arrivyr 1977                           1977
+1332  arrivyr 1978                           1978
+1333  arrivyr 1979                           1979
+1334  arrivyr 1980                           1980
+1335  arrivyr 1981                           1981
+1336  arrivyr 1982                           1982
+1337  arrivyr 1983                           1983
+1338  arrivyr 1984                           1984
+1339  arrivyr 1985                           1985
+1340  arrivyr 1986                           1986
+1341  arrivyr 1987                           1987
+1342  arrivyr 1988                           1988
+1343  arrivyr 1989                           1989
+1344  arrivyr 1990                           1990
+1345  arrivyr 1991                           1991
+1346  arrivyr 1992                           1992
+1347  arrivyr 1993                           1993
+1348  arrivyr 1994                           1994
+1349  arrivyr 1995                           1995
+1350  arrivyr 1996                           1996
+1351  arrivyr 1997                           1997
+1352  arrivyr 1998                           1998
+1353  arrivyr 1999                           1999
+1354  arrivyr 2000                           2000
+1355  arrivyr 2001                           2001
+1356  arrivyr 2002                           2002
+1357  arrivyr 2003                           2003
+1358  arrivyr 2004                           2004
+1359  arrivyr 2005                           2005
+1360  arrivyr 9998                        Unknown
+1361  arrivyr 9999                            NIU
+1362    bplpm    1 In the same municipality where
+1363    bplpm    2 In another Colombian municipal
+1364    bplpm    3             In another country
+1365    bplpm    4                  Does not know
+1366    bplpm    9                        Unknown
+1367    bpldm    0                            NIU
+1368    bpldm    5                      Antioquia
+1369    bpldm    8                      Atlántico
+1370    bpldm   11                         Bogotá
+1371    bpldm   13                        Bolívar
+1372    bpldm   15                         Boyacá
+1373    bpldm   17                         Caldas
+1374    bpldm   18                        Caquetá
+1375    bpldm   19                          Cauca
+1376    bpldm   20                          Cesar
+1377    bpldm   23                        Córdoba
+1378    bpldm   25                   Cundinamarca
+1379    bpldm   27                          Chocó
+1380    bpldm   41                          Huila
+1381    bpldm   44                     La Guajira
+1382    bpldm   47                      Magdalena
+1383    bpldm   50                           Meta
+1384    bpldm   52                         Nariño
+1385    bpldm   54             Norte de Santander
+1386    bpldm   63                        Quindío
+1387    bpldm   66                      Risaralda
+1388    bpldm   68                      Santander
+1389    bpldm   70                          Sucre
+1390    bpldm   73                         Tolima
+1391    bpldm   76                          Valle
+1392    bpldm   81                         Arauca
+1393    bpldm   85                       Casanare
+1394    bpldm   86                       Putumayo
+1395    bpldm   88                     San Andrés
+1396    bpldm   91                       Amazonas
+1397    bpldm   94                        Guainía
+1398    bpldm   95                       Guaviare
+1399    bpldm   97                         Vaupés
+1400    bpldm   99                        Vichada
+1401    bplmc   23                        Germany
+1402    bplmc   63                      Argentina
+1403    bplmc  239                        Ecuador
+1404    bplmc  245                          Spain
+1405    bplmc  249                  United States
+1406    bplmc  275                         France
+1407    bplmc  386                          Italy
+1408    bplmc  580                         Panam 
+1409    bplmc  589                           Perú
+1410    bplmc  850                      Venezuela
+1411    bplmc  990            Response suppressed
+1412    bplmc  998                        Unknown
+1413    bplmc  999                            NIU
+1414    res5p    1           In this municipality
+1415    res5p    2 In another Colombian municipal
+1416    res5p    3             In another country
+1417    res5p    8                        Unknown
+1418    res5p    9                            NIU
+1419    res5d    5                      Antioquia
+1420    res5d    8                      Atlántico
+1421    res5d   11                         Bogotá
+1422    res5d   13                        Bolívar
+1423    res5d   15                         Boyacá
+1424    res5d   17                         Caldas
+1425    res5d   18                        Caquetá
+1426    res5d   19                          Cauca
+1427    res5d   20                          Cesar
+1428    res5d   23                        Córdoba
+1429    res5d   25                   Cundinamarca
+1430    res5d   27                          Chocó
+1431    res5d   41                          Huila
+1432    res5d   44                     La Guajira
+1433    res5d   47                      Magdalena
+1434    res5d   50                           Meta
+1435    res5d   52                         Nariño
+1436    res5d   54             Norte de Santander
+1437    res5d   63                        Quindío
+1438    res5d   66                      Risaralda
+1439    res5d   68                      Santander
+1440    res5d   70                          Sucre
+1441    res5d   73                         Tolima
+1442    res5d   76                          Valle
+1443    res5d   81                         Arauca
+1444    res5d   85                       Casanare
+1445    res5d   86                       Putumayo
+1446    res5d   88                     San Andrés
+1447    res5d   91                       Amazonas
+1448    res5d   94                        Guainía
+1449    res5d   95                       Guaviare
+1450    res5d   97                         Vaupés
+1451    res5d   99                        Vichada
+1452    res5d  998                        Unknown
+1453    res5d  999                            NIU
+1454    res5c   23                        Germany
+1455    res5c   27                          Aruba
+1456    res5c   63                      Argentina
+1457    res5c   69                      Australia
+1458    res5c   97                        Bolivia
+1459    res5c  105                         Brazil
+1460    res5c  149                         Canada
+1461    res5c  196                     Costa Rica
+1462    res5c  199                           Cuba
+1463    res5c  211                          Chile
+1464    res5c  239                        Ecuador
+1465    res5c  245                          Spain
+1466    res5c  249                  United States
+1467    res5c  275                         France
+1468    res5c  317                      Guatemala
+1469    res5c  345                       Honduras
+1470    res5c  383                         Israel
+1471    res5c  386                          Italy
+1472    res5c  399                          Japan
+1473    res5c  493                         Mexico
+1474    res5c  580                        Panama 
+1475    res5c  589                           Perú
+1476    res5c  628 United Kingdom-Malvinas (Falkl
+1477    res5c  676          Russia, Federation of
+1478    res5c  767                    Switzerland
+1479    res5c  850                      Venezuela
+1480    res5c  990            Response suppressed
+1481    res5c  998                        Unknown
+1482    res5c  999                            NIU
+1483    res5y 2000                           2000
+1484    res5y 2001                           2001
+1485    res5y 2002                           2002
+1486    res5y 2003                           2003
+1487    res5y 2004                           2004
+1488    res5y 2005                           2005
+1489    res5y 9998                        Unknown
+1490    res5y 9999                            NIU
+1491    geocp    1         Municipal capital/seat
+1492    geocp    2              Population center
+1493    geocp    3                  Rest of rural
+1494    geocp    8                        Unknown
+1495    geocp    9                            NIU
+1496      mv5    1                            Yes
+1497      mv5    2                             No
+1498      mv5    9                        Unknown
+1499     mvyr 2000                           2000
+1500     mvyr 2001                           2001
+1501     mvyr 2002                           2002
+1502     mvyr 2003                           2003
+1503     mvyr 2004                           2004
+1504     mvyr 2005                           2005
+1505     mvyr 9998                        Unknown
+1506     mvyr 9999                            NIU
+1507      mvp    1           In this municipality
+1508      mvp    2 In another Colombian municipal
+1509      mvp    3             In another country
+1510      mvp    8                        Unknown
+1511      mvp    9                            NIU
+1512      mvd    0                            NIU
+1513      mvd    5                      Antioquia
+1514      mvd    8                      Atlántico
+1515      mvd   11                         Bogotá
+1516      mvd   13                        Bolívar
+1517      mvd   15                         Boyacá
+1518      mvd   17                         Caldas
+1519      mvd   18                        Caquetá
+1520      mvd   19                          Cauca
+1521      mvd   20                          Cesar
+1522      mvd   23                        Córdoba
+1523      mvd   25                   Cundinamarca
+1524      mvd   27                          Chocó
+1525      mvd   41                          Huila
+1526      mvd   44                     La Guajira
+1527      mvd   47                      Magdalena
+1528      mvd   50                           Meta
+1529      mvd   52                         Nariño
+1530      mvd   54             Norte de Santander
+1531      mvd   63                        Quindío
+1532      mvd   66                      Risaralda
+1533      mvd   68                      Santander
+1534      mvd   70                          Sucre
+1535      mvd   73                         Tolima
+1536      mvd   76                          Valle
+1537      mvd   81                         Arauca
+1538      mvd   85                       Casanare
+1539      mvd   86                       Putumayo
+1540      mvd   88                     San Andrés
+1541      mvd   91                       Amazonas
+1542      mvd   94                        Guainía
+1543      mvd   95                       Guaviare
+1544      mvd   97                         Vaupés
+1545      mvd   99                        Vichada
+1546      mvd  999                        Unknown
+1547     mvcl    1         Municipal capital/seat
+1548     mvcl    2                     Rural zone
+1549     mvcl    8                        Unknown
+1550     mvcl    9                            NIU
+1551      mvc   23                        Germany
+1552      mvc   27                          Aruba
+1553      mvc   63                      Argentina
+1554      mvc   69                      Australia
+1555      mvc   72                        Austria
+1556      mvc  105                         Brazil
+1557      mvc  149                         Canada
+1558      mvc  196                     Costa Rica
+1559      mvc  199                           Cuba
+1560      mvc  211                          Chile
+1561      mvc  239                        Ecuador
+1562      mvc  245                          Spain
+1563      mvc  249                  United States
+1564      mvc  275                         France
+1565      mvc  383                         Israel
+1566      mvc  386                          Italy
+1567      mvc  399                          Japan
+1568      mvc  493                         Mexico
+1569      mvc  573                        Holland
+1570      mvc  580                        Panama 
+1571      mvc  589                           Perú
+1572      mvc  628 United Kingdom-Malvinas (Falkl
+1573      mvc  647             Dominican Republic
+1574      mvc  676          Russia, Federation of
+1575      mvc  767                    Switzerland
+1576      mvc  850                      Venezuela
+1577      mvc  990            Response suppressed
+1578      mvc  998                        Unknown
+1579      mvc  999                            NIU
+1580    mvwhy    1 Difficulty in finding employme
+1581    mvwhy    2     Threat of natural disaster
+1582    mvwhy    3    Threat against his/her life
+1583    mvwhy    4              Educational needs
+1584    mvwhy    5                 Health reasons
+1585    mvwhy    6                 Family reasons
+1586    mvwhy    7 Member of nomad tribe or anoth
+1587    mvwhy    8                        Unknown
+1588    mvwhy    9                            NIU
+1589   ethnic    1                     Indigenous
+1590   ethnic    2                            Rom
+1591   ethnic    3 Raizal de San Andrés and Provi
+1592   ethnic    4                     Palenquero
+1593   ethnic    5 Negro, mulatto, African Columb
+1594   ethnic    6              None of the above
+1595   ethnic    9                        Unknown
+1596    indig    4                        Arhuaco
+1597    indig    5                        Arzario
+1598    indig    8                           Bari
+1599    indig   18                       Coconuco
+1600    indig   20              Coyaima Natagaima
+1601    indig   21                    Awa Kuaiker
+1602    indig   22                          Kubeo
+1603    indig   25                      Kurripako
+1604    indig   28                         Embera
+1605    indig   29                      Guambiano
+1606    indig   33                       Cañamomo
+1607    indig   34                           Inga
+1608    indig   35                       Kamontsa
+1609    indig   37                          Kogui
+1610    indig   47                         Muisca
+1611    indig   50                           Nasa
+1612    indig   51                          Tzase
+1613    indig   55                        Puinave
+1614    indig   56                          Pasto
+1615    indig   57                         Saliba
+1616    indig   58                        Sikuani
+1617    indig   65                         Totoro
+1618    indig   66                         Tikuna
+1619    indig   69                            Uwa
+1620    indig   71                         Waunan
+1621    indig   72                          Wayuu
+1622    indig   73                         Uitoto
+1623    indig   75                       Yanacona
+1624    indig   78                           Yuko
+1625    indig   80                           Senu
+1626    indig   82                         Mokana
+1627    indig   85                       Kamkuamo
+1628    indig   95            Response suppressed
+1629    indig   97      Indigenous, not specified
+1630    indig   99                            NIU
+1631  langind    1                            Yes
+1632  langind    2                             No
+1633  langind    8                        Unknown
+1634  langind    9                            NIU
+1635   nofood    1                            Yes
+1636   nofood    2                             No
+1637   nofood    9                        Unknown
+1638    hcare    1 Social Security Institute (ISS
+1639    hcare    2              Special regiments
+1640    hcare    3                      Other EPS
+1641    hcare    4                         An ARS
+1642    hcare    5                           None
+1643    hcare    6       Respondent does not know
+1644    hcare    9                        Unknown
+1645      ill    1                            Yes
+1646      ill    2                             No
+1647      ill    9                        Unknown
+1648       md    1 The service to which he/she ha
+1649       md    2       Another hospital, clinic
+1650       md    3 A drug store, healer or curand
+1651       md    4 Traditional doctor of her/his 
+1652       md    5                       No place
+1653       md    8                        Unknown
+1654       md    9                            NIU
+1655    mdcar    1                            Yes
+1656    mdcar    2                             No
+1657    mdcar    9                        Unknown
+1658   mdcars    1                            Yes
+1659   mdcars    2                             No
+1660   mdcars    8                        Unknown
+1661   mdcars    9                            NIU
+1662    mdorg    1                            Yes
+1663    mdorg    2                             No
+1664    mdorg    9                        Unknown
+1665    mdneu    1                            Yes
+1666    mdneu    2                             No
+1667    mdneu    9                        Unknown
+1668   mdneus    1                            Yes
+1669   mdneus    2                             No
+1670   mdneus    8                        Unknown
+1671   mdneus    9                            NIU
+1672    mdtra    1                            Yes
+1673    mdtra    2                             No
+1674    mdtra    9                        Unknown
+1675   mdtras    1                            Yes
+1676   mdtras    2                             No
+1677   mdtras    8                        Unknown
+1678   mdtras    9                            NIU
+1679    mdcon    1                            Yes
+1680    mdcon    2                             No
+1681    mdcon    9                        Unknown
+1682   mdcons    1                            Yes
+1683   mdcons    2                             No
+1684   mdcons    8                        Unknown
+1685   mdcons    9                            NIU
+1686    mdjoi    1                            Yes
+1687    mdjoi    2                             No
+1688    mdjoi    9                        Unknown
+1689   mdjois    1                            Yes
+1690   mdjois    2                             No
+1691   mdjois    8                        Unknown
+1692   mdjois    9                            NIU
+1693    mddia    1                            Yes
+1694    mddia    2                             No
+1695    mddia    9                        Unknown
+1696   mddias    1                            Yes
+1697   mddias    2                             No
+1698   mddias    8                        Unknown
+1699   mddias    9                            NIU
+1700    mdbur    1                            Yes
+1701    mdbur    2                             No
+1702    mdbur    9                        Unknown
+1703   mdburs    1                            Yes
+1704   mdburs    2                             No
+1705   mdburs    8                        Unknown
+1706   mdburs    9                            NIU
+1707   mdaids    1                            Yes
+1708   mdaids    2                             No
+1709   mdaids    8                        Unknown
+1710   mdaids    9                            NIU
+1711    mdche    1                            Yes
+1712    mdche    2                             No
+1713    mdche    9                        Unknown
+1714   mdches    1                            Yes
+1715   mdches    2                             No
+1716   mdches    8                        Unknown
+1717   mdches    9                            NIU
+1718    mdint    1                            Yes
+1719    mdint    2                             No
+1720    mdint    9                        Unknown
+1721   mdints    1                            Yes
+1722   mdints    2                             No
+1723   mdints    8                        Unknown
+1724   mdints    9                            NIU
+1725   limwal    1                            Yes
+1726   limwal    2                             No
+1727   limwal    9                        Unknown
+1728   limvis    1                            Yes
+1729   limvis    2                             No
+1730   limvis    9                        Unknown
+1731   limhea    1                            Yes
+1732   limhea    2                             No
+1733   limhea    9                        Unknown
+1734   limspe    1                            Yes
+1735   limspe    2                             No
+1736   limspe    9                        Unknown
+1737   limlea    1                            Yes
+1738   limlea    2                             No
+1739   limlea    9                        Unknown
+1740   limsoc    1                            Yes
+1741   limsoc    2                             No
+1742   limsoc    9                        Unknown
+1743   limbat    1                            Yes
+1744   limbat    2                             No
+1745   limbat    9                        Unknown
+1746   limoth    1                            Yes
+1747   limoth    2                             No
+1748   limoth    9                        Unknown
+1749   limper    1            Movement or walking
+1750   limper    2            Using arms or hands
+1751   limper    3   Sight, despite using glasses
+1752   limper    4 Hearing, even with special app
+1753   limper    5                         Speech
+1754   limper    6      Understanding or learning
+1755   limper    7      Relationships with others
+1756   limper    8 Bath oneself, dress oneself, f
+1757   limper    9     Other permanent limitation
+1758   limper   98                        Unknown
+1759   limper   99                            NIU
+1760  limperc    1                   Born with it
+1761  limperc    2              Due to an illness
+1762  limperc    3             Due to an accident
+1763  limperc    4 Due to violence of armed group
+1764  limperc    5       Due to domestic violence
+1765  limperc    6 Due to violence of common deli
+1766  limperc    7            Due to advanced age
+1767  limperc    8             Due to other cause
+1768  limperc    9       Respondent does not know
+1769  limperc   98                        Unknown
+1770  limperc   99                            NIU
+1771      lit    1                            Yes
+1772      lit    2                             No
+1773      lit    8                        Unknown
+1774      lit    9                            NIU
+1775    books    0                           None
+1776    books    1                              1
+1777    books    2                              2
+1778    books    3                              3
+1779    books    4                              4
+1780    books    5                              5
+1781    books    6                              6
+1782    books    7                              7
+1783    books    8                              8
+1784    books    9                              9
+1785    books   10                             10
+1786    books   11                             11
+1787    books   12                             12
+1788    books   13                             13
+1789    books   14                             14
+1790    books   15                             15
+1791    books   16                             16
+1792    books   17                             17
+1793    books   18                             18
+1794    books   19                             19
+1795    books   20                             20
+1796    books   21                             21
+1797    books   22                             22
+1798    books   23                             23
+1799    books   24                             24
+1800    books   25                             25
+1801    books   26                             26
+1802    books   27                             27
+1803    books   28                             28
+1804    books   29                             29
+1805    books   30                             30
+1806    books   32                             32
+1807    books   33                             33
+1808    books   34                             34
+1809    books   35                             35
+1810    books   36                             36
+1811    books   37                             37
+1812    books   38                             38
+1813    books   40                             40
+1814    books   42                             42
+1815    books   45                             45
+1816    books   46                             46
+1817    books   48                             48
+1818    books   49                             49
+1819    books   50                            50+
+1820    books   98                        Unknown
+1821    books   99                            NIU
+1822      sch    1                            Yes
+1823      sch    2                             No
+1824      sch    8                        Unknown
+1825      sch    9                            NIU
+1826   schpub    1                            Yes
+1827   schpub    2                             No
+1828   schpub    8                        Unknown
+1829   schpub    9                            NIU
+1830   schcom    1                            Yes
+1831   schcom    2                             No
+1832   schcom    8                        Unknown
+1833   schcom    9                            NIU
+1834   schcos    1                            Yes
+1835   schcos    2                             No
+1836   schcos    8                        Unknown
+1837   schcos    9                            NIU
+1838   schwor    1                            Yes
+1839   schwor    2                             No
+1840   schwor    8                        Unknown
+1841   schwor    9                            NIU
+1842   schspa    1                            Yes
+1843   schspa    2                             No
+1844   schspa    8                        Unknown
+1845   schspa    9                            NIU
+1846   schdis    1                            Yes
+1847   schdis    2                             No
+1848   schdis    8                        Unknown
+1849   schdis    9                            NIU
+1850   schill    1                            Yes
+1851   schill    2                             No
+1852   schill    8                        Unknown
+1853   schill    9                            NIU
+1854   schpre    1                            Yes
+1855   schpre    2                             No
+1856   schpre    8                        Unknown
+1857   schpre    9                            NIU
+1858   schoth    1                            Yes
+1859   schoth    2                             No
+1860   schoth    8                        Unknown
+1861   schoth    9                            NIU
+1862   schloc    1              This municipality
+1863   schloc    2             Other municipality
+1864   schloc    8                        Unknown
+1865   schloc    9                            NIU
+1866  schlocd    5                      Antioquia
+1867  schlocd    8                      Atlántico
+1868  schlocd   11                         Bogotá
+1869  schlocd   13                        Bolívar
+1870  schlocd   15                         Boyacá
+1871  schlocd   17                         Caldas
+1872  schlocd   18                        Caquetá
+1873  schlocd   19                          Cauca
+1874  schlocd   20                          Cesar
+1875  schlocd   23                        Córdoba
+1876  schlocd   25                   Cundinamarca
+1877  schlocd   27                          Chocó
+1878  schlocd   41                          Huila
+1879  schlocd   44                     La Guajira
+1880  schlocd   47                      Magdalena
+1881  schlocd   50                           Meta
+1882  schlocd   52                         Nariño
+1883  schlocd   54             Norte de Santander
+1884  schlocd   63                        Quindío
+1885  schlocd   66                      Risaralda
+1886  schlocd   68                      Santander
+1887  schlocd   70                          Sucre
+1888  schlocd   73                         Tolima
+1889  schlocd   76                          Valle
+1890  schlocd   81                         Arauca
+1891  schlocd   85                       Casanare
+1892  schlocd   86                       Putumayo
+1893  schlocd   88                     San Andrés
+1894  schlocd   91                       Amazonas
+1895  schlocd   94                        Guainía
+1896  schlocd   95                       Guaviare
+1897  schlocd   97                         Vaupés
+1898  schlocd   99                        Vichada
+1899  schlocd  998                        Unknown
+1900  schlocd  999                            NIU
+1901    edlev    1                     Pre school
+1902    edlev    2               Basic elementary
+1903    edlev    3                Basic secondary
+1904    edlev    4       Upper academic secondary
+1905    edlev    5      Upper technical secondary
+1906    edlev    6             Teacher's training
+1907    edlev    7         Professional technical
+1908    edlev    8                  Technological
+1909    edlev    9                   Professional
+1910    edlev   10                 Specialization
+1911    edlev   11                        Masters
+1912    edlev   12                      Doctorate
+1913    edlev   13                           None
+1914    edlev   98                        Unknown
+1915    edlev   99                            NIU
+1916    grade    0                        0 years
+1917    grade    1                         1 year
+1918    grade    2                        2 years
+1919    grade    3                        3 years
+1920    grade    4                        4 years
+1921    grade    5                        5 years
+1922    grade    6                        6 years
+1923    grade    8                        Unknown
+1924    grade    9                            NIU
+1925  edattan   11   Preschool (pre-kindergarten)
+1926  edattan   12       Preschool (kindergarten)
+1927  edattan   13         Preschool (transition)
+1928  edattan   19        Preschool, year unknown
+1929  edattan   21             Basic elementary 1
+1930  edattan   22             Basic elementary 2
+1931  edattan   23             Basic elementary 3
+1932  edattan   24             Basic elementary 4
+1933  edattan   25              Basic elemenary 5
+1934  edattan   29  Basic elementary, year unknow
+1935  edattan   31              Basic secondary 6
+1936  edattan   32              Basic secondary 7
+1937  edattan   33              Basic secondary 8
+1938  edattan   34              Basic secondary 9
+1939  edattan   39  Basic secondary, year unknown
+1940  edattan   41    Upper academic secondary 10
+1941  edattan   42    Upper academic secondary 11
+1942  edattan   49 Upper academic secondary, year
+1943  edattan   51   Upper technical secondary 10
+1944  edattan   52   Upper technical secondary 11
+1945  edattan   59 Upper technical secondary, yea
+1946  edattan   61          Teacher's training 10
+1947  edattan   62          Teacher's training 11
+1948  edattan   63          Teacher's training 12
+1949  edattan   64          Teacher's training 13
+1950  edattan   69 Teacher's training, year unkno
+1951  edattan   71       Professional technical 1
+1952  edattan   72       Professional technical 2
+1953  edattan   79 Professional technical, year u
+1954  edattan   81                Technological 1
+1955  edattan   82                Technological 2
+1956  edattan   83                Technological 3
+1957  edattan   89    Technological, year unknown
+1958  edattan   91                 Professional 1
+1959  edattan   92                 Professional 2
+1960  edattan   93                 Professional 3
+1961  edattan   94                 Professional 4
+1962  edattan   95                 Professional 5
+1963  edattan   96                 Professional 6
+1964  edattan   99     Professional, year unknown
+1965  edattan  101               Specialization 1
+1966  edattan  102               Specialization 2
+1967  edattan  109   Specialization, year unknown
+1968  edattan  111                      Masters 1
+1969  edattan  112                      Masters 2
+1970  edattan  113                      Masters 3
+1971  edattan  119          Masters, year unknown
+1972  edattan  121                    Doctorate 1
+1973  edattan  122                    Doctorate 2
+1974  edattan  123                    Doctorate 3
+1975  edattan  124                    Doctorate 4
+1976  edattan  125                    Doctorate 5
+1977  edattan  126                    Doctorate 6
+1978  edattan  129        Doctorate, year unknown
+1979  edattan  130                           None
+1980  edattan  998                        Unknown
+1981  edattan  999                            NIU
+1982 edattan1    1               Pre-kindergarten
+1983 edattan1    2                   Kindergarten
+1984 edattan1    3                     Transition
+1985 edattan1    4             Basic elementary 1
+1986 edattan1    5             Basic elementary 2
+1987 edattan1    6             Basic elementary 3
+1988 edattan1    7             Basic elementary 4
+1989 edattan1    8              Basic elemenary 5
+1990 edattan1    9              Basic secondary 6
+1991 edattan1   10              Basic secondary 7
+1992 edattan1   11              Basic secondary 8
+1993 edattan1   12              Basic secondary 9
+1994 edattan1   13 Mid-level classical academy 10
+1995 edattan1   14 Mid-level classical academy 11
+1996 edattan1   15         Mid-level technical 10
+1997 edattan1   16         Mid-level technical 11
+1998 edattan1   17          Teacher's training 10
+1999 edattan1   18          Teacher's training 11
+2000 edattan1   19          Teacher's training 12
+2001 edattan1   20          Teacher's training 13
+2002 edattan1   21       Professional technical 1
+2003 edattan1   22       Professional technical 2
+2004 edattan1   23                Technological 1
+2005 edattan1   24                Technological 2
+2006 edattan1   25                Technological 3
+2007 edattan1   26                 Professional 1
+2008 edattan1   27                 Professional 2
+2009 edattan1   28                 Professional 3
+2010 edattan1   29                 Professional 4
+2011 edattan1   30                 Professional 5
+2012 edattan1   31                 Professional 6
+2013 edattan1   32               Specialization 1
+2014 edattan1   33               Specialization 2
+2015 edattan1   34                      Masters 1
+2016 edattan1   35                      Masters 2
+2017 edattan1   36                      Masters 3
+2018 edattan1   37                    Doctorate 1
+2019 edattan1   38                    Doctorate 2
+2020 edattan1   39                    Doctorate 3
+2021 edattan1   40                    Doctorate 4
+2022 edattan1   41                    Doctorate 5
+2023 edattan1   42                    Doctorate 6
+2024 edattan1   43                           None
+2025 edattan1   97                   Invalid year
+2026 edattan1   98                        Unknown
+2027 edattan1   99                            NIU
+2028       pc    1                            Yes
+2029       pc    2                             No
+2030       pc    8                        Unknown
+2031       pc    9                            NIU
+2032      pcw    1                            Yes
+2033      pcw    2                             No
+2034      pcw    8                        Unknown
+2035      pcw    9                            NIU
+2036    pcown    1                            Yes
+2037    pcown    2                             No
+2038    pcown    8                        Unknown
+2039    pcown    9                            NIU
+2040    pctra    1                            Yes
+2041    pctra    2                             No
+2042    pctra    8                        Unknown
+2043    pctra    9                            NIU
+2044    pcent    1                            Yes
+2045    pcent    2                             No
+2046    pcent    8                        Unknown
+2047    pcent    9                            NIU
+2048    pccom    1                            Yes
+2049    pccom    2                             No
+2050    pccom    8                        Unknown
+2051    pccom    9                            NIU
+2052    pcoth    1                            Yes
+2053    pcoth    2                             No
+2054    pcoth    8                        Unknown
+2055    pcoth    9                            NIU
+2056      ind    1 Agriculture, ranching, hunting
+2057      ind    2 Forestry, lumber extraction an
+2058      ind    5 Fishing, production of fish in
+2059      ind   10 Extraction of coal, lignite co
+2060      ind   11 Extraction of crude petroleum 
+2061      ind   12 Extraction of uranium and thor
+2062      ind   13 Extraction of metallic mineral
+2063      ind   14 Exploitation of non-metallic m
+2064      ind   15 Manufacture of food and bevera
+2065      ind   16 Manufacture of tobacco product
+2066      ind   17 Manufacture of textile product
+2067      ind   18 Manufacture of clothing, prepa
+2068      ind   19 Tanning and preparation of lea
+2069      ind   20 Transformation of wood and man
+2070      ind   21 Manufacture of paper, cardboar
+2071      ind   22 Activities of editing and prin
+2072      ind   23 Coke production, manufacture o
+2073      ind   24 Manufacture of chemical substa
+2074      ind   25 Manufacture of rubber and plas
+2075      ind   26 Manufacture of other products 
+2076      ind   27 Manufacture of basic metallurg
+2077      ind   28 Manufacture of products made f
+2078      ind   29 Manufacture of machinery and e
+2079      ind   30 Manufacture of office, account
+2080      ind   31 Manufacture of electrical mach
+2081      ind   32 Manufacture of radio, televisi
+2082      ind   33 Manufacture of medical, optica
+2083      ind   34 Manufacture of automobile, tow
+2084      ind   35 Manufacture of other types of 
+2085      ind   36 Manufacture of furniture, manu
+2086      ind   37                      Recycling
+2087      ind   40 Distribution of electricity, g
+2088      ind   41 Water collection, purification
+2089      ind   45                   Construction
+2090      ind   50 Commerce, maintenance and repa
+2091      ind   51 Wholesale and commission and c
+2092      ind   52 Retail commerce, except commer
+2093      ind   55 Hotels, restaurants, bars and 
+2094      ind   60 Ground transportation; transpo
+2095      ind   61    Transportation via aqueduct
+2096      ind   62             Air Transportation
+2097      ind   63 Activities that are complement
+2098      ind   64    Mail and Telecommunications
+2099      ind   65 Financial Intermediation, exce
+2100      ind   66 Financing of insurance and pen
+2101      ind   67 Auxiliary activities of financ
+2102      ind   70         Real estate activities
+2103      ind   71 Rental of machinery and equipm
+2104      ind   72 Informatics and related activi
+2105      ind   73       Research and development
+2106      ind   74      Other business activities
+2107      ind   75 Public administration and defe
+2108      ind   80                      Education
+2109      ind   85     Social and health services
+2110      ind   90 Elimination of waste products 
+2111      ind   91 Activities of associations not
+2112      ind   92 Recreational activities and cu
+2113      ind   93       Other service activities
+2114      ind   95 Private households with domest
+2115      ind   97 Extraterritorial organizations
+2116      ind   98                        Unknown
+2117      ind   99                            NIU
+2118  classwk    1               Worker, employee
+2119  classwk    2               Patron, employer
+2120  classwk    3           Self-employed worker
+2121  classwk    4              Domestic employee
+2122  classwk    5           Unpaid family worker
+2123  classwk    8                        Unknown
+2124  classwk    9                            NIU
+2125   wklocp    1           In this municipality
+2126   wklocp    2        In another municipality
+2127   wklocp    3             In another country
+2128   wklocp    8                        Unknown
+2129   wklocp    9                            NIU
+2130   wklocd    5                      Antioquia
+2131   wklocd    8                      Atlántico
+2132   wklocd   11                         Bogotá
+2133   wklocd   13                        Bolívar
+2134   wklocd   15                         Boyacá
+2135   wklocd   17                         Caldas
+2136   wklocd   18                        Caquetá
+2137   wklocd   19                          Cauca
+2138   wklocd   20                          Cesar
+2139   wklocd   23                        Córdoba
+2140   wklocd   25                   Cundinamarca
+2141   wklocd   27                          Chocó
+2142   wklocd   41                          Huila
+2143   wklocd   44                     La Guajira
+2144   wklocd   47                      Magdalena
+2145   wklocd   50                           Meta
+2146   wklocd   52                         Nariño
+2147   wklocd   54             Norte de Santander
+2148   wklocd   63                        Quindío
+2149   wklocd   66                      Risaralda
+2150   wklocd   68                      Santander
+2151   wklocd   70                          Sucre
+2152   wklocd   73                         Tolima
+2153   wklocd   76                          Valle
+2154   wklocd   81                         Arauca
+2155   wklocd   85                       Casanare
+2156   wklocd   86                       Putumayo
+2157   wklocd   88                     San Andrés
+2158   wklocd   91                       Amazonas
+2159   wklocd   94                        Guainía
+2160   wklocd   95                       Guaviare
+2161   wklocd   96                         Vaupés
+2162   wklocd   99                        Vichada
+2163   wklocd  998                        Unknown
+2164   wklocd  999                            NIU
+2165  pension    1                            Yes
+2166  pension    2                             No
+2167  pension    3             Is already retired
+2168  pension    8                        Unknown
+2169  pension    9                            NIU
+2170    wkfam    1                            Yes
+2171    wkfam    2                             No
+2172    wkfam    8                        Unknown
+2173    wkfam    9                            NIU
+2174    wksal    1                            Yes
+2175    wksal    2                             No
+2176    wksal    8                        Unknown
+2177    wksal    9                            NIU
+2178    wkman    1                            Yes
+2179    wkman    2                             No
+2180    wkman    8                        Unknown
+2181    wkman    9                            NIU
+2182    wkani    1                            Yes
+2183    wkani    2                             No
+2184    wkani    8                        Unknown
+2185    wkani    9                            NIU
+2186    wkcho    1                            Yes
+2187    wkcho    2                             No
+2188    wkcho    8                        Unknown
+2189    wkcho    9                            NIU
+2190    wkoth    1                            Yes
+2191    wkoth    2                             No
+2192    wkoth    8                        Unknown
+2193    wkoth    9                            NIU
+2194    marst    1 Not married and has 2 or more 
+2195    marst    2 Not married and has less than 
+2196    marst    3            Separated, divorced
+2197    marst    4                      Widow(er)
+2198    marst    5                         Single
+2199    marst    6                        Married
+2200    marst    8                        Unknown
+2201    marst    9                            NIU
+2202   langsp    1                            Yes
+2203   langsp    2                             No
+2204   langsp    8                        Unknown
+2205   langsp    9                            NIU
+2206   langen    1                            Yes
+2207   langen    2                             No
+2208   langen    8                        Unknown
+2209   langen    9                            NIU
+2210   langfr    1                            Yes
+2211   langfr    2                             No
+2212   langfr    8                        Unknown
+2213   langfr    9                            NIU
+2214   langit    1                            Yes
+2215   langit    2                             No
+2216   langit    8                        Unknown
+2217   langit    9                            NIU
+2218   langge    1                            Yes
+2219   langge    2                             No
+2220   langge    8                        Unknown
+2221   langge    9                            NIU
+2222   langot    1                            Yes
+2223   langot    2                             No
+2224   langot    8                        Unknown
+2225   langot    9                            NIU
+2226  chborny    1                            Yes
+2227  chborny    2                             No
+2228  chborny    8                        Unknown
+2229  chborny    9                            NIU
+2230   chborn    0                              0
+2231   chborn    1                              1
+2232   chborn    2                              2
+2233   chborn    3                              3
+2234   chborn    4                              4
+2235   chborn    5                              5
+2236   chborn    6                              6
+2237   chborn    7                              7
+2238   chborn    8                              8
+2239   chborn    9                              9
+2240   chborn   10                             10
+2241   chborn   11                             11
+2242   chborn   12                             12
+2243   chborn   13                             13
+2244   chborn   14                             14
+2245   chborn   15                             15
+2246   chborn   16                             16
+2247   chborn   17                             17
+2248   chborn   18                             18
+2249   chborn   19                             19
+2250   chborn   20                             20
+2251   chborn   21                             21
+2252   chborn   22                             22
+2253   chborn   23                             23
+2254   chborn   24                            24+
+2255   chborn   98                        Unknown
+2256   chborn   99                            NIU
+2257  chbornm    0                              0
+2258  chbornm    1                              1
+2259  chbornm    2                              2
+2260  chbornm    3                              3
+2261  chbornm    4                              4
+2262  chbornm    5                              5
+2263  chbornm    6                              6
+2264  chbornm    7                              7
+2265  chbornm    8                              8
+2266  chbornm    9                              9
+2267  chbornm   10                             10
+2268  chbornm   11                             11
+2269  chbornm   12                             12
+2270  chbornm   13                             13
+2271  chbornm   14                             14
+2272  chbornm   15                            15+
+2273  chbornm   98                        Unknown
+2274  chbornm   99                            NIU
+2275  chbornf    0                              0
+2276  chbornf    1                              1
+2277  chbornf    2                              2
+2278  chbornf    3                              3
+2279  chbornf    4                              4
+2280  chbornf    5                              5
+2281  chbornf    6                              6
+2282  chbornf    7                              7
+2283  chbornf    8                              8
+2284  chbornf    9                              9
+2285  chbornf   10                             10
+2286  chbornf   11                             11
+2287  chbornf   12                             12
+2288  chbornf   13                             13
+2289  chbornf   14                             14
+2290  chbornf   15                            15+
+2291  chbornf   98                        Unknown
+2292  chbornf   99                            NIU
+2293   chsurv    0                              0
+2294   chsurv    1                              1
+2295   chsurv    2                              2
+2296   chsurv    3                              3
+2297   chsurv    4                              4
+2298   chsurv    5                              5
+2299   chsurv    6                              6
+2300   chsurv    7                              7
+2301   chsurv    8                              8
+2302   chsurv    9                              9
+2303   chsurv   10                             10
+2304   chsurv   11                             11
+2305   chsurv   12                             12
+2306   chsurv   13                             13
+2307   chsurv   14                             14
+2308   chsurv   15                             15
+2309   chsurv   16                            16+
+2310   chsurv   98                        Unknown
+2311   chsurv   99                            NIU
+2312  chsurvm    0                              0
+2313  chsurvm    1                              1
+2314  chsurvm    2                              2
+2315  chsurvm    3                              3
+2316  chsurvm    4                              4
+2317  chsurvm    5                              5
+2318  chsurvm    6                              6
+2319  chsurvm    7                              7
+2320  chsurvm    8                              8
+2321  chsurvm    9                              9
+2322  chsurvm   10                             10
+2323  chsurvm   11                            11+
+2324  chsurvm   98                        Unknown
+2325  chsurvm   99                            NIU
+2326  chsurvf    0                              0
+2327  chsurvf    1                              1
+2328  chsurvf    2                              2
+2329  chsurvf    3                              3
+2330  chsurvf    4                              4
+2331  chsurvf    5                              5
+2332  chsurvf    6                              6
+2333  chsurvf    7                              7
+2334  chsurvf    8                              8
+2335  chsurvf    9                              9
+2336  chsurvf   10                             10
+2337  chsurvf   11                            11+
+2338  chsurvf   98                        Unknown
+2339  chsurvf   99                            NIU
+2340  chsurvk    1                 Yes, she knows
+2341  chsurvk    2          No, she does not know
+2342  chsurvk    9                            NIU
+2343  lastkyr    1                           2005
+2344  lastkyr    2                           2004
+2345  lastkyr    3                           2003
+2346  lastkyr    4                           2002
+2347  lastkyr    5                           2001
+2348  lastkyr    6                 2000 or before
+2349  lastkyr    8                        Unknown
+2350  lastkyr    9                            NIU
+2351  lastkmo    1                        January
+2352  lastkmo    2                       February
+2353  lastkmo    3                          March
+2354  lastkmo    4                          April
+2355  lastkmo    5                            May
+2356  lastkmo    6                           June
+2357  lastkmo    7                           July
+2358  lastkmo    8                         August
+2359  lastkmo    9                      September
+2360  lastkmo   10                        October
+2361  lastkmo   11                       November
+2362  lastkmo   12                       December
+2363  lastkmo   98                        Unknown
+2364  lastkmo   99                            NIU
+2365   firkyr 1925                1925 or earlier
+2366   firkyr 1926                           1926
+2367   firkyr 1927                           1927
+2368   firkyr 1928                           1928
+2369   firkyr 1929                           1929
+2370   firkyr 1930                           1930
+2371   firkyr 1931                           1931
+2372   firkyr 1932                           1932
+2373   firkyr 1933                           1933
+2374   firkyr 1934                           1934
+2375   firkyr 1935                           1935
+2376   firkyr 1936                           1936
+2377   firkyr 1937                           1937
+2378   firkyr 1938                           1938
+2379   firkyr 1939                           1939
+2380   firkyr 1940                           1940
+2381   firkyr 1941                           1941
+2382   firkyr 1942                           1942
+2383   firkyr 1943                           1943
+2384   firkyr 1944                           1944
+2385   firkyr 1945                           1945
+2386   firkyr 1946                           1946
+2387   firkyr 1947                           1947
+2388   firkyr 1948                           1948
+2389   firkyr 1949                           1949
+2390   firkyr 1950                           1950
+2391   firkyr 1951                           1951
+2392   firkyr 1952                           1952
+2393   firkyr 1953                           1953
+2394   firkyr 1954                           1954
+2395   firkyr 1955                           1955
+2396   firkyr 1956                           1956
+2397   firkyr 1957                           1957
+2398   firkyr 1958                           1958
+2399   firkyr 1959                           1959
+2400   firkyr 1960                           1960
+2401   firkyr 1961                           1961
+2402   firkyr 1962                           1962
+2403   firkyr 1963                           1963
+2404   firkyr 1964                           1964
+2405   firkyr 1965                           1965
+2406   firkyr 1966                           1966
+2407   firkyr 1967                           1967
+2408   firkyr 1968                           1968
+2409   firkyr 1969                           1969
+2410   firkyr 1970                           1970
+2411   firkyr 1971                           1971
+2412   firkyr 1972                           1972
+2413   firkyr 1973                           1973
+2414   firkyr 1974                           1974
+2415   firkyr 1975                           1975
+2416   firkyr 1976                           1976
+2417   firkyr 1977                           1977
+2418   firkyr 1978                           1978
+2419   firkyr 1979                           1979
+2420   firkyr 1980                           1980
+2421   firkyr 1981                           1981
+2422   firkyr 1982                           1982
+2423   firkyr 1983                           1983
+2424   firkyr 1984                           1984
+2425   firkyr 1985                           1985
+2426   firkyr 1986                           1986
+2427   firkyr 1987                           1987
+2428   firkyr 1988                           1988
+2429   firkyr 1989                           1989
+2430   firkyr 1990                           1990
+2431   firkyr 1991                           1991
+2432   firkyr 1992                           1992
+2433   firkyr 1993                           1993
+2434   firkyr 1994                           1994
+2435   firkyr 1995                           1995
+2436   firkyr 1996                           1996
+2437   firkyr 1997                           1997
+2438   firkyr 1998                           1998
+2439   firkyr 1999                           1999
+2440   firkyr 2000                           2000
+2441   firkyr 2001                           2001
+2442   firkyr 2002                           2002
+2443   firkyr 2003                           2003
+2444   firkyr 2004                           2004
+2445   firkyr 2005                           2005
+2446   firkyr 9998                        Unknown
+2447   firkyr 9999                            NIU

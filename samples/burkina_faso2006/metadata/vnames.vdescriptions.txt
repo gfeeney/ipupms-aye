@@ -1,0 +1,97 @@
+      vname                                                      vdescription
+1     cntry                                                           Country
+2      year                                                              Year
+3    sample                                           IPUMS sample identifier
+4    serial                                           Household serial number
+5     dwnum                                                   Dwelling number
+6      pern                                    Number of persons in household
+7      fbig Dwelling created by splitting apart a large dwelling or household
+8    region                                                            Region
+9      prov                                                          Province
+10    urban                                                  Type of locality
+11  numhhqs                          Number of questionaires in the household
+12   hhzone                                                      Housing zone
+13   hhtype                                                      Housing type
+14    occup                                                 Occupation status
+15    rooms                                                   Number of rooms
+16    walls                                                     Type of walls
+17     roof                                                      Type of roof
+18    floor                                                     Type of floor
+19    light                                                 Main light source
+20   fuelck                                Principal source of cooking energy
+21   watsup                                Principal source of drinking water
+22   toilet                                                Sanitary equipment
+23    trash                                             Trash disposal method
+24    sewer                                        Used water disposal method
+25    radio                          Number of functional radios in household
+26       tv                     Number of functional televisions in household
+27    phone             Number of functional landline telephones in household
+28 cellphon                 Number of functional cellular phones in household
+29   refrig                   Number of functional refrigerators in household
+30 computer                       Number of functional computers in household
+31 internet            Number of functional internet connections in household
+32     bike                                     Number of functional bicycles
+33 motorbik                                   Number of functional motorbikes
+34     auto                                         Number of functional cars
+35     boat                                        Number of functional boats
+36     cart                                        Number of functional carts
+37    camel                                                  Number of camels
+38    horse                                                  Number of horses
+39   donkey                                                 Number of donkeys
+40 respresm                                            Male present residents
+41  resabsm                                             Male absent residents
+42  pamales                                 Male present and absent residents
+43 visitmal                                                     Male visitors
+44  totmale                                                       Total males
+45  emigmal                                                    Male emigrants
+46 respresf                                          Female present residents
+47  resabsf                                           Female absent residents
+48    pafem                               Female present and absent residents
+49   visfem                                                   Female visitors
+50   totfem                                                     Total females
+51  emigfem                                                  Female emigrants
+52  respres                                                 Present residents
+53   resabs                                                  Absent residents
+54  presabs                                      Present and absent residents
+55 visitors                                                          Visitors
+56  emigtot                                                         Emigrants
+57  lsquint                                       Standard of living quintile
+58   pernum                                                     Person number
+59    wtper                                                     Person weight
+60 resident                               Residence status: de facto, de jure
+61   pernum                                  Person number (within household)
+62      sex                                                               Sex
+63   relate                                              Relationship to head
+64   status                                                Residential status
+65  birthmo                                                    Month of birth
+66  birthyr                                                     Year of birth
+67      age                                                               Age
+68  bircert                                             Has birth certificate
+69      bpl                                                  Country of birth
+70  bplprov                                                 Province of birth
+71  bplcomm                                                  Commune of birth
+72  cntry05                                         Country of residence 2005
+73   prov05                                        Province of residence 2005
+74   comm05                                         Commune of residence 2005
+75   abroad                                                  Residence abroad
+76   resdur                                         Time since return (years)
+77   whyret                                                 Reason for return
+78    disab                                                          Handicap
+79 religion                                                          Religion
+80   nation                                                       Nationality
+81   school                                                 School attendance
+82  edlevel                                              Level of instruction
+83 litflang                                      Literacy in foreign language
+84   litnat                                     Literacy in national language
+85     lang                                                   Spoken language
+86  empstat                                               Occupational status
+87  classwk                                 Situation in principal occupation
+88    marst                                                    Marital status
+89  chbornm                                                  Male live births
+90  chbornf                                                Female live births
+91  chsurvm                                           Surviving male children
+92  chsurvf                                         Surviving female children
+93  bthlyrm                                        Male births last 12 months
+94  bthlyrf                                      Female births last 12 months
+95 mortfath                                                Survival of father
+96 mortmoth                                                Survival of mother

@@ -1,0 +1,88 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      dwnum                                                   Dwelling number
+6       pern                                    Number of persons in household
+7       fbig Dwelling created by splitting apart a large dwelling or household
+8    fbig_nh          Number of persons in large household before it was split
+9        gov                                                       Governorate
+10     urban                                                       Urban/rural
+11   pubhous                                               Public housing type
+12     males                               Number of household members (males)
+13   females                             Number of household members (females)
+14   members                               Number of household members (total)
+15    dwtype                                                     Dwelling type
+16  ownershp                                                  Ownership status
+17    watsrc                                                   Source of water
+18    watacc                                                   Access to water
+19  lighting                                                          Lighting
+20    sewage                                                            Sewage
+21    sewage                                                            Sewage
+22    sewage                                                            Sewage
+23     rooms                                                   Number of rooms
+24      rent                                   Monthly rent in Egyptian pounds
+25   kitchen                                                           Kitchen
+26  bathroom                                                 Separate bathroom
+27  bathtoil                                              Bathroom with toilet
+28   septoil                                                   Separate toilet
+29   propane                                     Fuel and energy used: propane
+30       gas                                 Fuel and energy used: natural gas
+31  kerosene                                    Fuel and energy used: kerosene
+32  electric                                 Fuel and energy used: electricity
+33   othfuel                                       Fuel and energy used: other
+34      auto                                      Number of private cars owned
+35   motocyc                                       Number of motorcycles owned
+36      bike                                          Number of bicycles owned
+37  othtrans                     Number of other means of transportation owned
+38   notrans                                        No means of transportation
+39     radio                                                  Number of radios
+40        tv                                             Number of televisions
+41     video                                           Number of video players
+42    satell                                        Number of satellite dishes
+43    fridge                                           Number of refrigerators
+44   freezer                                           Number of deep freezers
+45 washernon                          Number of non-automatic washing machines
+46    washer                              Number of automatic washing machines
+47  dishwash                                             Number of dishwashers
+48     stove                                                  Number of stoves
+49   watheat                                           Number of water heaters
+50    vacuum                                         Number of vacuum cleaners
+51    aircon                                        Number of air conditioners
+52        pc                                               Number of computers
+53       fan                                                    Number of fans
+54  internet                                    Number of internet connections
+55     phone                                        Number of land-line phones
+56      cell                                         Number of cellular phones
+57    noappl                                           No household appliances
+58    pernum                                                     Person number
+59     wtper                                                     Person weight
+60    pernum                                  Person number (within household)
+61    relate                                    Relationship to household head
+62       age                                                               Age
+63       sex                                                               Sex
+64     relig                                                          Religion
+65   nationg                                                       Nationality
+66    nation                                             Nationality in detail
+67     marst                                                    Marital status
+68     wives                                                   Number of wives
+69   edlevel                                     Educational level (main code)
+70    school                                                 School enrollment
+71  dropstag                                           School drop out (stage)
+72  dropgrad                                           School drop out (grade)
+73   empstat                                                 Employment status
+74     estab                                                     Place of work
+75   empsect                                                            Sector
+76       occ                                       Primary occupation, 3-digit
+77       ind                                                 Industry, 3-digit
+78     disab                                                 Disability status
+79    bplgov                                              Governorate of birth
+80   bpldist                                                 District of birth
+81    bplurb                                       Place of birth: urban/rural
+82    durres                  Duration of stay at place of residence, in years
+83   prevgov                                 Previous governorate of residence
+84  prevdist                                    Previous district of residence
+85   prevurb                          Previous place of residence: urban-rural
+86   reasmig                             Reason of changing place of residence
+87    resurb       Urban/ rural status of residence for guests and/or visitors

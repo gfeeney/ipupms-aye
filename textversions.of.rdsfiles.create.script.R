@@ -6,23 +6,24 @@ samples <- dir("samples")
 for (i in 1:length(samples)) {
   cat(paste(formatC(i, width=2, flag="0"), ": ", samples[i], " ...\n", sep=""))
   filepath <- paste("samples/", samples[i], "/metadata/", sep="")
+  
   # codebook
   y <- readRDS(paste(filepath, "codebook.rds", sep=""))
   sink(paste(filepath, "codebook.txt", sep=""))
-  y
+  print(y[, 1:3])
   sink()
+  
   # record.layout
   y <- readRDS(paste(filepath, "record.layout.rds", sep=""))
   sink(paste(filepath, "record.layout.txt", sep=""))
-  y
+  print(y)
   sink()
   
   # vnames.vdescriptions
   y <- readRDS(paste(filepath, "vnames.vdescriptions.rds", sep=""))
   sink(paste(filepath, "vnames.vdescriptions.txt", sep=""))
-  y
+  print(y)
   sink()
-
 }
 
 i <- 1

@@ -1,0 +1,3335 @@
+        vname code                          short
+1       cntry   32                      Argentina
+2       cntry   51                        Armenia
+3       cntry   40                        Austria
+4       cntry   50                     Bangladesh
+5       cntry  112                        Belarus
+6       cntry   68                        Bolivia
+7       cntry   76                         Brazil
+8       cntry  854                   Burkina Faso
+9       cntry  116                       Cambodia
+10      cntry  120                       Cameroon
+11      cntry  124                         Canada
+12      cntry  152                          Chile
+13      cntry  156                          China
+14      cntry  170                       Colombia
+15      cntry  188                     Costa Rica
+16      cntry  192                           Cuba
+17      cntry  214             Dominican Republic
+18      cntry  218                        Ecuador
+19      cntry  818                          Egypt
+20      cntry  222                    El Salvador
+21      cntry  242                           Fiji
+22      cntry  250                         France
+23      cntry  276                        Germany
+24      cntry  288                          Ghana
+25      cntry  300                         Greece
+26      cntry  324                         Guinea
+27      cntry  332                          Haiti
+28      cntry  348                        Hungary
+29      cntry  356                          India
+30      cntry  360                      Indonesia
+31      cntry  364                           Iran
+32      cntry  368                           Iraq
+33      cntry  372                        Ireland
+34      cntry  376                         Israel
+35      cntry  380                          Italy
+36      cntry  388                        Jamaica
+37      cntry  400                         Jordan
+38      cntry  404                          Kenya
+39      cntry  417                Kyrgyz Republic
+40      cntry  430                        Liberia
+41      cntry  454                         Malawi
+42      cntry  458                       Malaysia
+43      cntry  466                           Mali
+44      cntry  484                         Mexico
+45      cntry  496                       Mongolia
+46      cntry  504                        Morocco
+47      cntry  524                          Nepal
+48      cntry  528                    Netherlands
+49      cntry  558                      Nicaragua
+50      cntry  566                        Nigeria
+51      cntry  586                       Pakistan
+52      cntry  275                      Palestine
+53      cntry  591                         Panama
+54      cntry  604                           Peru
+55      cntry  608                    Philippines
+56      cntry  620                       Portugal
+57      cntry  630                    Puerto Rico
+58      cntry  642                        Romania
+59      cntry  646                         Rwanda
+60      cntry  662                    Saint Lucia
+61      cntry  686                        Senegal
+62      cntry  694                   Sierra Leone
+63      cntry  705                       Slovenia
+64      cntry  710                   South Africa
+65      cntry  728                    South Sudan
+66      cntry  724                          Spain
+67      cntry  729                          Sudan
+68      cntry  756                    Switzerland
+69      cntry  834                       Tanzania
+70      cntry  764                       Thailand
+71      cntry  792                         Turkey
+72      cntry  800                         Uganda
+73      cntry  804                        Ukraine
+74      cntry  826                 United Kingdom
+75      cntry  840                  United States
+76      cntry  858                        Uruguay
+77      cntry  862                      Venezuela
+78      cntry  704                        Vietnam
+79      cntry  894                         Zambia
+80       year 1960                           1960
+81       year 1962                           1962
+82       year 1963                           1963
+83       year 1964                           1964
+84       year 1966                           1966
+85       year 1968                           1968
+86       year 1969                           1969
+87       year 1970                           1970
+88       year 1971                           1971
+89       year 1972                           1972
+90       year 1973                           1973
+91       year 1974                           1974
+92       year 1975                           1975
+93       year 1976                           1976
+94       year 1977                           1977
+95       year 1979                           1979
+96       year 1980                           1980
+97       year 1981                           1981
+98       year 1982                           1982
+99       year 1983                           1983
+100      year 1984                           1984
+101      year 1985                           1985
+102      year 1986                           1986
+103      year 1987                           1987
+104      year 1989                           1989
+105      year 1990                           1990
+106      year 1991                           1991
+107      year 1992                           1992
+108      year 1993                           1993
+109      year 1994                           1994
+110      year 1995                           1995
+111      year 1996                           1996
+112      year 1997                           1997
+113      year 1998                           1998
+114      year 1999                           1999
+115      year 2000                           2000
+116      year 2001                           2001
+117      year 2002                           2002
+118      year 2003                           2003
+119      year 2004                           2004
+120      year 2005                           2005
+121      year 2006                           2006
+122      year 2007                           2007
+123      year 2008                           2008
+124      year 2009                           2009
+125      year 2010                           2010
+126      year 2011                           2011
+127    sample  321                 Argentina 1970
+128    sample  322                 Argentina 1980
+129    sample  323                 Argentina 1991
+130    sample  324                 Argentina 2001
+131    sample  325                 Argentina 2010
+132    sample  511                   Armenia 2001
+133    sample  401                   Austria 1971
+134    sample  402                   Austria 1981
+135    sample  403                   Austria 1991
+136    sample  404                   Austria 2001
+137    sample  501                Bangladesh 1991
+138    sample  502                Bangladesh 2001
+139    sample  503                Bangladesh 2011
+140    sample  681                   Bolivia 1976
+141    sample  682                   Bolivia 1992
+142    sample  683                   Bolivia 2001
+143    sample  761                    Brazil 1960
+144    sample  762                    Brazil 1970
+145    sample  763                    Brazil 1980
+146    sample  764                    Brazil 1991
+147    sample  765                    Brazil 2000
+148    sample  766                    Brazil 2010
+149    sample 1121                   Belarus 1999
+150    sample 8541              Burkina Faso 1985
+151    sample 8542              Burkina Faso 1996
+152    sample 8543              Burkina Faso 2006
+153    sample 1161                  Cambodia 1998
+154    sample 1162                  Cambodia 2008
+155    sample 1201                  Cameroon 1976
+156    sample 1202                  Cameroon 1987
+157    sample 1203                  Cameroon 2005
+158    sample 1241                    Canada 1971
+159    sample 1242                    Canada 1981
+160    sample 1243                    Canada 1991
+161    sample 1244                    Canada 2001
+162    sample 1521                     Chile 1960
+163    sample 1522                     Chile 1970
+164    sample 1523                     Chile 1982
+165    sample 1524                     Chile 1992
+166    sample 1525                     Chile 2002
+167    sample 1561                     China 1982
+168    sample 1562                     China 1990
+169    sample 1701                  Colombia 1964
+170    sample 1702                  Colombia 1973
+171    sample 1703                  Colombia 1985
+172    sample 1704                  Colombia 1993
+173    sample 1705                  Colombia 2005
+174    sample 1881                Costa Rica 1963
+175    sample 1882                Costa Rica 1973
+176    sample 1883                Costa Rica 1984
+177    sample 1884                Costa Rica 2000
+178    sample 1921                      Cuba 2002
+179    sample 2141        Dominican Republic 1960
+180    sample 2142        Dominican Republic 1970
+181    sample 2143        Dominican Republic 1981
+182    sample 2144        Dominican Republic 2002
+183    sample 2145        Dominican Republic 2010
+184    sample 2181                   Ecuador 1962
+185    sample 2182                   Ecuador 1974
+186    sample 2183                   Ecuador 1982
+187    sample 2184                   Ecuador 1990
+188    sample 2185                   Ecuador 2001
+189    sample 2186                   Ecuador 2010
+190    sample 8181                     Egypt 1996
+191    sample 8182                     Egypt 2006
+192    sample 2221               El Salvador 1992
+193    sample 2222               El Salvador 2007
+194    sample 2421                      Fiji 1966
+195    sample 2422                      Fiji 1976
+196    sample 2423                      Fiji 1986
+197    sample 2424                      Fiji 1996
+198    sample 2425                      Fiji 2007
+199    sample 2501                    France 1962
+200    sample 2502                    France 1968
+201    sample 2503                    France 1975
+202    sample 2504                    France 1982
+203    sample 2505                    France 1990
+204    sample 2506                    France 1999
+205    sample 2507                    France 2006
+206    sample 2761            Germany 1970 (West)
+207    sample 2762            Germany 1971 (East)
+208    sample 2763            Germany 1981 (East)
+209    sample 2764            Germany 1987 (West)
+210    sample 2881                     Ghana 2000
+211    sample 2882                     Ghana 2010
+212    sample 3001                    Greece 1971
+213    sample 3002                    Greece 1981
+214    sample 3003                    Greece 1991
+215    sample 3004                    Greece 2001
+216    sample 3241                    Guinea 1983
+217    sample 3242                    Guinea 1996
+218    sample 3321                     Haiti 1971
+219    sample 3322                     Haiti 1982
+220    sample 3323                     Haiti 2003
+221    sample 3481                   Hungary 1970
+222    sample 3482                   Hungary 1980
+223    sample 3483                   Hungary 1990
+224    sample 3484                   Hungary 2001
+225    sample 3561                     India 1983
+226    sample 3562                     India 1987
+227    sample 3563                     India 1993
+228    sample 3564                     India 1999
+229    sample 3565                     India 2004
+230    sample 3601                 Indonesia 1971
+231    sample 3602                 Indonesia 1976
+232    sample 3603                 Indonesia 1980
+233    sample 3604                 Indonesia 1985
+234    sample 3605                 Indonesia 1990
+235    sample 3606                 Indonesia 1995
+236    sample 3607                 Indonesia 2000
+237    sample 3608                 Indonesia 2005
+238    sample 3609                 Indonesia 2010
+239    sample 3641                      Iran 2006
+240    sample 3681                      Iraq 1997
+241    sample 3721                   Ireland 1971
+242    sample 3722                   Ireland 1979
+243    sample 3723                   Ireland 1981
+244    sample 3724                   Ireland 1986
+245    sample 3725                   Ireland 1991
+246    sample 3726                   Ireland 1996
+247    sample 3727                   Ireland 2002
+248    sample 3728                   Ireland 2006
+249    sample 3729                   Ireland 2011
+250    sample 3761                    Israel 1972
+251    sample 3762                    Israel 1983
+252    sample 3763                    Israel 1995
+253    sample 3801                     Italy 2001
+254    sample 3881                   Jamaica 1982
+255    sample 3882                   Jamaica 1991
+256    sample 3883                   Jamaica 2001
+257    sample 4001                    Jordan 2004
+258    sample 4041                     Kenya 1969
+259    sample 4042                     Kenya 1979
+260    sample 4043                     Kenya 1989
+261    sample 4044                     Kenya 1999
+262    sample 4045                     Kenya 2009
+263    sample 4171           Kyrgyz Republic 1999
+264    sample 4172           Kyrgyz Republic 2009
+265    sample 4301                   Liberia 1974
+266    sample 4302                   Liberia 2008
+267    sample 4541                    Malawi 1987
+268    sample 4542                    Malawi 1998
+269    sample 4543                    Malawi 2008
+270    sample 4581                  Malaysia 1970
+271    sample 4582                  Malaysia 1980
+272    sample 4583                  Malaysia 1991
+273    sample 4584                  Malaysia 2000
+274    sample 4661                      Mali 1987
+275    sample 4662                      Mali 1998
+276    sample 4663                      Mali 2009
+277    sample 4841                    Mexico 1960
+278    sample 4842                    Mexico 1970
+279    sample 4843                    Mexico 1990
+280    sample 4844                    Mexico 1995
+281    sample 4845                    Mexico 2000
+282    sample 4846                    Mexico 2005
+283    sample 4847                    Mexico 2010
+284    sample 4961                  Mongolia 1989
+285    sample 4962                  Mongolia 2000
+286    sample 5041                   Morocco 1982
+287    sample 5042                   Morocco 1994
+288    sample 5043                   Morocco 2004
+289    sample 5241                     Nepal 2001
+290    sample 5281               Netherlands 1960
+291    sample 5282               Netherlands 1971
+292    sample 5283               Netherlands 2001
+293    sample 5581                 Nicaragua 1971
+294    sample 5582                 Nicaragua 1995
+295    sample 5583                 Nicaragua 2005
+296    sample 5661                   Nigeria 2006
+297    sample 5662                   Nigeria 2007
+298    sample 5663                   Nigeria 2008
+299    sample 5664                   Nigeria 2009
+300    sample 5665                   Nigeria 2010
+301    sample 5861                  Pakistan 1973
+302    sample 5862                  Pakistan 1981
+303    sample 5863                  Pakistan 1998
+304    sample 2751                 Palestine 1997
+305    sample 2752                 Palestine 2007
+306    sample 5911                    Panama 1960
+307    sample 5912                    Panama 1970
+308    sample 5913                    Panama 1980
+309    sample 5914                    Panama 1990
+310    sample 5915                    Panama 2000
+311    sample 5916                    Panama 2010
+312    sample 6041                      Peru 1993
+313    sample 6042                      Peru 2007
+314    sample 6081               Philippines 1990
+315    sample 6082               Philippines 1995
+316    sample 6083               Philippines 2000
+317    sample 6201                  Portugal 1981
+318    sample 6202                  Portugal 1991
+319    sample 6203                  Portugal 2001
+320    sample 6301               Puerto Rico 1970
+321    sample 6302               Puerto Rico 1980
+322    sample 6303               Puerto Rico 1990
+323    sample 6304               Puerto Rico 2000
+324    sample 6305               Puerto Rico 2005
+325    sample 6421                   Romania 1977
+326    sample 6422                   Romania 1992
+327    sample 6423                   Romania 2002
+328    sample 6461                    Rwanda 1991
+329    sample 6462                    Rwanda 2002
+330    sample 6621               Saint Lucia 1980
+331    sample 6622               Saint Lucia 1991
+332    sample 6861                   Senegal 1988
+333    sample 6862                   Senegal 2002
+334    sample 6941              Sierra Leone 2004
+335    sample 7051                  Slovenia 2002
+336    sample 7101              South Africa 1996
+337    sample 7102              South Africa 2001
+338    sample 7103              South Africa 2007
+339    sample 7241                     Spain 1981
+340    sample 7242                     Spain 1991
+341    sample 7243                     Spain 2001
+342    sample 7281               South Sudan 2008
+343    sample 7291                     Sudan 2008
+344    sample 7561               Switzerland 1970
+345    sample 7562               Switzerland 1980
+346    sample 7563               Switzerland 1990
+347    sample 7564               Switzerland 2000
+348    sample 8341                  Tanzania 1988
+349    sample 8342                  Tanzania 2002
+350    sample 7641                  Thailand 1970
+351    sample 7642                  Thailand 1980
+352    sample 7643                  Thailand 1990
+353    sample 7644                  Thailand 2000
+354    sample 7921                    Turkey 1985
+355    sample 7922                    Turkey 1990
+356    sample 7923                    Turkey 2000
+357    sample 8001                    Uganda 1991
+358    sample 8002                    Uganda 2002
+359    sample 8041                   Ukraine 2001
+360    sample 8261            United Kingdom 1991
+361    sample 8262            United Kingdom 2001
+362    sample 8401             United States 1960
+363    sample 8402             United States 1970
+364    sample 8403             United States 1980
+365    sample 8404             United States 1990
+366    sample 8405             United States 2000
+367    sample 8406             United States 2005
+368    sample 8407             United States 2010
+369    sample 8581                   Uruguay 1963
+370    sample 8582                   Uruguay 1975
+371    sample 8583                   Uruguay 1985
+372    sample 8584                   Uruguay 1996
+373    sample 8585                   Uruguay 2006
+374    sample 8586                   Uruguay 2011
+375    sample 8621                 Venezuela 1971
+376    sample 8622                 Venezuela 1981
+377    sample 8623                 Venezuela 1990
+378    sample 8624                 Venezuela 2001
+379    sample 7041                   Vietnam 1989
+380    sample 7042                   Vietnam 1999
+381    sample 7043                   Vietnam 2009
+382    sample 8941                    Zambia 1990
+383    sample 8942                    Zambia 2000
+384    sample 8943                    Zambia 2010
+385      pern    1                              1
+386      pern    2                              2
+387      pern    3                              3
+388      pern    4                              4
+389      pern    5                              5
+390      pern    6                              6
+391      pern    7                              7
+392      pern    8                              8
+393      pern    9                              9
+394      pern   10                             10
+395      pern   11                             11
+396      pern   12                             12
+397      pern   13                             13
+398      pern   14                             14
+399      pern   15                             15
+400      pern   16                             16
+401      pern   17                             17
+402      pern   18                             18
+403      pern   19                             19
+404      pern   20                             20
+405      pern   21                             21
+406      pern   22                             22
+407      pern   23                             23
+408      pern   24                             24
+409      pern   25                             25
+410      pern   26                             26
+411      pern   27                             27
+412      pern   28                             28
+413      pern   29                             29
+414      pern   30                             30
+415      pern   31                             31
+416      pern   32                             32
+417      pern   33                             33
+418      pern   34                             34
+419      pern   35                             35
+420      pern   36                             36
+421      pern   37                             37
+422      pern   38                             38
+423      pern   39                             39
+424      pern   40                             40
+425      pern   41                             41
+426      pern   42                             42
+427      pern   43                             43
+428      pern   44                             44
+429      pern   45                             45
+430      pern   46                             46
+431      pern   47                             47
+432      pern   48                             48
+433      pern   49                             49
+434      pern   50                             50
+435      fbig    0                     No problem
+436      fbig    1 Yes: households within a large
+437      fbig    2 Yes: persons within a large ho
+438      prov    1                        Nairobi
+439      prov    2                        Central
+440      prov    3                          Coast
+441      prov    4                        Eastern
+442      prov    5                   Northeastern
+443      prov    6                         Nyanza
+444      prov    7                    Rift Valley
+445      prov    8                        Western
+446      dist  101                   Nairobi West
+447      dist  102                   Nairobi East
+448      dist  103                  Nairobi North
+449      dist  104                      Westlands
+450      dist  201                Nyandarua North
+451      dist  202 Nyandarua South               
+452      dist  203                    Nyeri North
+453      dist  204                    Nyeri South
+454      dist  205                      Kirinyaga
+455      dist  206                  Muranga North
+456      dist  207                  Muranga South
+457      dist  208               Kiambu (Kiambaa)
+458      dist  209                         Kikuyu
+459      dist  210                    Kiambu West
+460      dist  211                           Lari
+461      dist  212                     Githunguri
+462      dist  213                     Thika East
+463      dist  214                     Thika West
+464      dist  215                          Ruiru
+465      dist  216                        Gatanga
+466      dist  217                        Gatundu
+467      dist  301                        Mombasa
+468      dist  302                      Kilindini
+469      dist  303                          Kwale
+470      dist  304                        Kinango
+471      dist  305                      Msambweni
+472      dist  306                         Kilifi
+473      dist  307                       Kaloleni
+474      dist  308                        Malindi
+475      dist  309                     Tana River
+476      dist  310                     Tana Delta
+477      dist  311                           Lamu
+478      dist  312                          Taita
+479      dist  313                         Taveta
+480      dist  401                       Marsabit
+481      dist  402                         Chalbi
+482      dist  403                       Laisamis
+483      dist  404                         Moyale
+484      dist  405                         Isiolo
+485      dist  406                    Garba Tulla
+486      dist  407                 Imenti Central
+487      dist  408                   Imenti North
+488      dist  409                   Imenti south
+489      dist  410                     Meru south
+490      dist  411                          Maara
+491      dist  412                         Igembe
+492      dist  413                        Tigania
+493      dist  414                        Tharaka
+494      dist  415                           Embu
+495      dist  416                         Mbeere
+496      dist  417                    Kitui North
+497      dist  418           Kitui South (Mutomo)
+498      dist  419                         Mwingi
+499      dist  420                          Kyuso
+500      dist  421                       Machakos
+501      dist  422                          Mwala
+502      dist  423                          Yatta
+503      dist  424                       Kangundo
+504      dist  425                        Makueni
+505      dist  426                         Mbooni
+506      dist  427                        Kibwezi
+507      dist  428                          Nzaui
+508      dist  501                        Garissa
+509      dist  502                        Lagdera
+510      dist  503                           Fafi
+511      dist  504                          Ijara
+512      dist  505                    Wajir South
+513      dist  506                    Wajir North
+514      dist  507                     Wajir East
+515      dist  508                     Wajir West
+516      dist  509                Mandera Central
+517      dist  510                   Mandera East
+518      dist  511                   Mandera West
+519      dist  601                          Siaya
+520      dist  602                          Bondo
+521      dist  603                        Rarieda
+522      dist  604                    Kisumu East
+523      dist  605                    Kisumu West
+524      dist  606                         Nyando
+525      dist  607                       Homa Bay
+526      dist  608                           Suba
+527      dist  609                      Rachuonyo
+528      dist  610                         Migori
+529      dist  611                          Rongo
+530      dist  612                     Kuria West
+531      dist  613                     Kuria East
+532      dist  614                  Kisii Central
+533      dist  615                    Kisii South
+534      dist  616                         Masaba
+535      dist  617                          Gucha
+536      dist  618                    Gucha South
+537      dist  619                        Nyamira
+538      dist  620                          Manga
+539      dist  621                         Borabu
+540      dist  701                Turkana Central
+541      dist  702                  Turkana North
+542      dist  703                  Turkana South
+543      dist  704                     West Pokot
+544      dist  705                    Pokot North
+545      dist  706                  Pokot Central
+546      dist  707                Samburu Central
+547      dist  708                   Samburu East
+548      dist  709                  Samburu North
+549      dist  710               Trans Nzoia West
+550      dist  711               Trans Nzoia East
+551      dist  712                         Kwanza
+552      dist  713                        Baringo
+553      dist  714                  Baringo North
+554      dist  715                     East Pokot
+555      dist  716                       Koibatek
+556      dist  717                   Eldoret West
+557      dist  718                   Eldoret East
+558      dist  719                         Wareng
+559      dist  720                       Marakwet
+560      dist  721                          Keiyo
+561      dist  722                    Nandi North
+562      dist  723                  Nandi Central
+563      dist  724                     Nandi East
+564      dist  725                    Nandi South
+565      dist  726                       Tinderet
+566      dist  727                 Laikipia North
+567      dist  728                  Laikipia East
+568      dist  729                  Laikipia West
+569      dist  730                         Nakuru
+570      dist  731                   Nakuru North
+571      dist  732                       Naivasha
+572      dist  733                           Molo
+573      dist  734                    Narok North
+574      dist  735                    Narok Wouth
+575      dist  736                     Trans Mara
+576      dist  737                Kajiado Central
+577      dist  738                      Loitoktok
+578      dist  739                        Kericho
+579      dist  740                      Kipkelion
+580      dist  741                          Buret
+581      dist  742                          Sotik
+582      dist  743                          Bomet
+583      dist  744                  Kajiado North
+584      dist  801               Kakamega Central
+585      dist  802                 Kakamega South
+586      dist  803                 Kakamega North
+587      dist  804                  Kakamega East
+588      dist  805                         Lugari
+589      dist  806                         Vihiga
+590      dist  807                        Emuhaya
+591      dist  808                         Hamisi
+592      dist  809                         Mumias
+593      dist  810                         Butere
+594      dist  811                  Bungoma South
+595      dist  812                  Bungoma North
+596      dist  813                   Bungoma East
+597      dist  814                   Bungoma West
+598      dist  815                      Mt. Elgon
+599      dist  816                          Busia
+600      dist  817                     Teso North
+601      dist  818                          Samia
+602      dist  819                        Bunyala
+603      dist  820                     Teso South
+604     urban    1                          Rural
+605     urban    2                          Urban
+606     urban    3                     Peri-urban
+607  areastat    1                         Formal
+608  areastat    2                       Informal
+609   constit    1                       Makadara
+610   constit    2                      Kamukunji
+611   constit    3                        Starehe
+612   constit    4                       Lang'ata
+613   constit    5                      Dagoretti
+614   constit    6                      Westlands
+615   constit    7                       Kasarani
+616   constit    8                       Embakasi
+617   constit    9                      Changamwe
+618   constit   10                        Kisauni
+619   constit   11                         Likoni
+620   constit   12                          Mvita
+621   constit   13                      Msambweni
+622   constit   14                         Matuga
+623   constit   15                        Kinango
+624   constit   16                         Bahari
+625   constit   17                       Kaloleni
+626   constit   18                          Ganze
+627   constit   19                        Malindi
+628   constit   20                       Magarini
+629   constit   21                         Garsen
+630   constit   22                         Galole
+631   constit   23                           Bura
+632   constit   24                      Lamu East
+633   constit   25                      Lamu West
+634   constit   26                         Taveta
+635   constit   27                       Wundanyi
+636   constit   28                        Mwatate
+637   constit   29                            Voi
+638   constit   30                          Dujis
+639   constit   31                        Lagdera
+640   constit   32                           Fafi
+641   constit   33                          Ijara
+642   constit   34                    Wajir North
+643   constit   35                     Wajir West
+644   constit   36                     Wajir East
+645   constit   37                    Wajir South
+646   constit   38                   Mandera West
+647   constit   39                Mandera Central
+648   constit   40                   Mandera East
+649   constit   41                         Moyale
+650   constit   42                     North Horr
+651   constit   43                           Saku
+652   constit   44                       Laisamis
+653   constit   45                   Isiolo North
+654   constit   46                   Isiolo South
+655   constit   47                         Igembe
+656   constit   48                       Ntonyiri
+657   constit   49                   Tigania West
+658   constit   50                   Tigania East
+659   constit   51                   North Imenti
+660   constit   52                 Central Imenti
+661   constit   53                   South Imenti
+662   constit   54                          Nithi
+663   constit   55                        Tharaka
+664   constit   56                       Manyatta
+665   constit   57                      Runyenjes
+666   constit   58                        Gachoka
+667   constit   59                        Siakago
+668   constit   60                   Mwingi North
+669   constit   61                   Mwingi South
+670   constit   62                     Kitui West
+671   constit   63                  Kitui Central
+672   constit   64                         Mutito
+673   constit   65                    Kitui South
+674   constit   66                        Masinga
+675   constit   67                          Yatta
+676   constit   68                       Kangundo
+677   constit   69                       Kathiani
+678   constit   70                  Machakos Town
+679   constit   71                          Mwala
+680   constit   72                         Mbooni
+681   constit   73                         Kilome
+682   constit   74                          Kaiti
+683   constit   75                        Makueni
+684   constit   76                        Kibwezi
+685   constit   77                       Kinangop
+686   constit   78                       Kipipiri
+687   constit   79                       Ol kalou
+688   constit   80                       Ndaragwa
+689   constit   81                           Tetu
+690   constit   82                          Kieni
+691   constit   83                        Mathira
+692   constit   84                         Othaya
+693   constit   85                    Mukurwe-ini
+694   constit   86                     Nyeri Town
+695   constit   87                           Mwea
+696   constit   88                        Gichugu
+697   constit   89                           Ndia
+698   constit   90                 Kerugoya/kutus
+699   constit   91                        Kangema
+700   constit   92                       Mathioya
+701   constit   93                         Kiharu
+702   constit   94                         Kigumo
+703   constit   95                        Maragwa
+704   constit   96                        Kandara
+705   constit   97                        Gatanga
+706   constit   98                  Gatundu South
+707   constit   99                  Gatundu North
+708   constit  100                           Juja
+709   constit  101                     Githunguri
+710   constit  102                        Kiambaa
+711   constit  103                         Kabete
+712   constit  104                         Limuru
+713   constit  105                           Lari
+714   constit  106                  Turkana North
+715   constit  107                Turkana Central
+716   constit  108                  Turkana South
+717   constit  109                      Kacheliba
+718   constit  110                     Kapenguria
+719   constit  111                          Sigor
+720   constit  112                   Samburu West
+721   constit  113                   Samburu East
+722   constit  114                         Kwanza
+723   constit  115                         Saboti
+724   constit  116                    Cheranganyi
+725   constit  117                  Eldoret North
+726   constit  118                   Eldoret East
+727   constit  119                  Eldoret South
+728   constit  120                  Marakwet East
+729   constit  121                  Marakwet West
+730   constit  122                    Keiyo North
+731   constit  123                    Keiyo South
+732   constit  124                          Mosop
+733   constit  125                          Aldai
+734   constit  126                         Emgwen
+735   constit  127                       Tinderet
+736   constit  128                   Baringo East
+737   constit  129                  Baringo North
+738   constit  130                Baringo Central
+739   constit  131                        Mogotio
+740   constit  132                  Eldama Ravine
+741   constit  133                  Laikipia West
+742   constit  134                  Laikipia East
+743   constit  135                       Naivasha
+744   constit  136                    Nakuru Town
+745   constit  137                        Kuresoi
+746   constit  138                           Molo
+747   constit  139                         Rongai
+748   constit  140                        Subukia
+749   constit  141                       Kilgoris
+750   constit  142                    Narok North
+751   constit  143                    Narok South
+752   constit  144                  Kajiado North
+753   constit  145                Kajiado Central
+754   constit  146                  Kajiado Aouth
+755   constit  147                          Bomet
+756   constit  148                     Chepalungu
+757   constit  149                          Sotik
+758   constit  150                         Konoin
+759   constit  151                          Buret
+760   constit  152                         Belgut
+761   constit  153                        Ainamoi
+762   constit  154                      Kipkelion
+763   constit  155                         Malava
+764   constit  156                         Lugari
+765   constit  157                         Mumias
+766   constit  158                        Matungu
+767   constit  159                        Lurambi
+768   constit  160                       Shinyalu
+769   constit  161                      Ikolomani
+770   constit  162                         Butere
+771   constit  163                       Khwisero
+772   constit  164                        Emuhaya
+773   constit  165                        Sabatia
+774   constit  166                         Vihiga
+775   constit  167                         Hamisi
+776   constit  168                      Mt. Elgon
+777   constit  169                       Kimilili
+778   constit  170                         Webuye
+779   constit  171                        Sirisia
+780   constit  172                       Kandunyi
+781   constit  173                         Bumula
+782   constit  174                        Amagoro
+783   constit  175                        Nambale
+784   constit  176                         Butula
+785   constit  177                        Funyula
+786   constit  178                      Budalangi
+787   constit  179                         Ugenya
+788   constit  180                          Alego
+789   constit  181                            Gem
+790   constit  182                          Bondo
+791   constit  183                        Rarieda
+792   constit  184               Kisumu Town East
+793   constit  185               Kisumu Town West
+794   constit  186                   Kisumu Rural
+795   constit  187                         Nyando
+796   constit  188                       Muhoroni
+797   constit  189                       Nyakachi
+798   constit  190                Kasipul Kabondo
+799   constit  191                    Karachuonyo
+800   constit  192                         Rangwe
+801   constit  193                         Ndhiwa
+802   constit  194                          Rongo
+803   constit  195                         Migori
+804   constit  196                          Uriri
+805   constit  197                        Nyatike
+806   constit  198                          Mbita
+807   constit  199                          Gwasi
+808   constit  200                          Kuria
+809   constit  201                       Bonchari
+810   constit  202                South Mugirango
+811   constit  203                      Bomachoge
+812   constit  204                         Bobasi
+813   constit  205               Nyaribari Masaba
+814   constit  206               Nyaribari Chache
+815   constit  207                  Kitutu Chache
+816   constit  208                  Kitutu Masaba
+817   constit  209                 West Mugirango
+818   constit  210            N. Mugirango Borabu
+819    hhtype    1                   Conventional
+820    hhtype    2                 Unconventional
+821    hhtype    3                   Refugee camp
+822    county  101                        Nairobi
+823    county  201                      Nyandarua
+824    county  202                          Nyeri
+825    county  203                      Kirinyaga
+826    county  204                       Murang'a
+827    county  205                         Kiambu
+828    county  301                        Mombasa
+829    county  302                          Kwale
+830    county  303                         Kilifi
+831    county  304                      Tanariver
+832    county  305                           Lamu
+833    county  306                    Taitataveta
+834    county  401                       Marsabit
+835    county  402                         Isiolo
+836    county  403                           Meru
+837    county  404                        Tharaka
+838    county  405                           Embu
+839    county  406                          Kitui
+840    county  407                       Machakos
+841    county  408                        Makueni
+842    county  501                        Garissa
+843    county  502                          Wajir
+844    county  503                        Mandera
+845    county  601                          Siaya
+846    county  602                         Kisumu
+847    county  604                        Homabay
+848    county  603                         Migori
+849    county  605                          Kisii
+850    county  606                        Nyamira
+851    county  701                        Turkana
+852    county  702                      Westpokot
+853    county  703                        Samburu
+854    county  704                     Transnzoia
+855    county  705                        Baringo
+856    county  706                     Uasingishu
+857    county  707                Elgeyo-marakwet
+858    county  708                          Nandi
+859    county  709                       Laikipia
+860    county  710                         Nakuru
+861    county  711                          Narok
+862    county  712                        Kajiado
+863    county  713                        Kericho
+864    county  714                          Bomet
+865    county  801                       Kakamega
+866    county  802                         Vihiga
+867    county  803                        Bungoma
+868    county  804                          Busia
+869   bthyrhh    0                              0
+870   bthyrhh    1                              1
+871   bthyrhh    2                              2
+872   bthyrhh    3                              3
+873   bthyrhh    4                              4
+874   bthyrhh    5                              5
+875   bthyrhh    6                              6
+876   bthyrhh    7                              7
+877   bthyrhh    8                              8
+878   bthyrhh    9                              9
+879   bthyrhh   10                             10
+880   bthyrhh   99                            NIU
+881   dthyrhh    0 No deaths in the last 12 month
+882   dthyrhh    1                              1
+883   dthyrhh    2                              2
+884   dthyrhh    3                              3
+885   dthyrhh    4                              4
+886   dthyrhh    5                             5+
+887   dthyrhh   99                            NIU
+888  excattle    0                              0
+889  excattle    1                              1
+890  excattle    2                              2
+891  excattle    3                              3
+892  excattle    4                              4
+893  excattle    5                              5
+894  excattle    6                              6
+895  excattle    7                              7
+896  excattle    8                              8
+897  excattle    9                              9
+898  excattle   10                             10
+899  excattle   11                             11
+900  excattle   12                             12
+901  excattle   13                             13
+902  excattle   14                             14
+903  excattle   15                             15
+904  excattle   16                             16
+905  excattle   17                             17
+906  excattle   18                             18
+907  excattle   19                             19
+908  excattle   20                             20
+909  excattle   21                             21
+910  excattle   22                             22
+911  excattle   23                             23
+912  excattle   24                             24
+913  excattle   25                             25
+914  excattle   26                             26
+915  excattle   27                             27
+916  excattle   28                             28
+917  excattle   29                             29
+918  excattle   30                             30
+919  excattle   31                             31
+920  excattle   32                             32
+921  excattle   33                             33
+922  excattle   34                             34
+923  excattle   35                             35
+924  excattle   36                             36
+925  excattle   37                             37
+926  excattle   38                             38
+927  excattle   39                             39
+928  excattle   40                             40
+929  excattle   41                             41
+930  excattle   42                             42
+931  excattle   43                             43
+932  excattle   44                             44
+933  excattle   45                             45
+934  excattle   46                             46
+935  excattle   47                             47
+936  excattle   48                             48
+937  excattle   49                             49
+938  excattle   50                            50+
+939  idcattle    0                              0
+940  idcattle    1                              1
+941  idcattle    2                              2
+942  idcattle    3                              3
+943  idcattle    4                              4
+944  idcattle    5                              5
+945  idcattle    6                              6
+946  idcattle    7                              7
+947  idcattle    8                              8
+948  idcattle    9                              9
+949  idcattle   10                             10
+950  idcattle   11                             11
+951  idcattle   12                             12
+952  idcattle   13                             13
+953  idcattle   14                             14
+954  idcattle   15                             15
+955  idcattle   16                             16
+956  idcattle   17                             17
+957  idcattle   18                             18
+958  idcattle   19                             19
+959  idcattle   20                             20
+960  idcattle   21                             21
+961  idcattle   22                             22
+962  idcattle   23                             23
+963  idcattle   24                             24
+964  idcattle   25                             25
+965  idcattle   26                             26
+966  idcattle   27                             27
+967  idcattle   28                             28
+968  idcattle   29                             29
+969  idcattle   30                             30
+970  idcattle   31                             31
+971  idcattle   32                             32
+972  idcattle   33                             33
+973  idcattle   34                             34
+974  idcattle   35                             35
+975  idcattle   36                             36
+976  idcattle   37                             37
+977  idcattle   38                             38
+978  idcattle   39                             39
+979  idcattle   40                             40
+980  idcattle   41                             41
+981  idcattle   42                             42
+982  idcattle   43                             43
+983  idcattle   44                             44
+984  idcattle   45                             45
+985  idcattle   46                             46
+986  idcattle   47                             47
+987  idcattle   48                             48
+988  idcattle   49                             49
+989  idcattle   50                             50
+990  idcattle   51                             51
+991  idcattle   52                             52
+992  idcattle   53                             53
+993  idcattle   54                             54
+994  idcattle   55                             55
+995  idcattle   56                             56
+996  idcattle   57                             57
+997  idcattle   58                             58
+998  idcattle   59                             59
+999  idcattle   60                             60
+1000 idcattle   61                             61
+1001 idcattle   62                             62
+1002 idcattle   63                             63
+1003 idcattle   64                             64
+1004 idcattle   65                             65
+1005 idcattle   66                             66
+1006 idcattle   67                             67
+1007 idcattle   68                             68
+1008 idcattle   69                             69
+1009 idcattle   70                             70
+1010 idcattle   71                             71
+1011 idcattle   72                             72
+1012 idcattle   73                             73
+1013 idcattle   74                             74
+1014 idcattle   75                             75
+1015 idcattle   76                             76
+1016 idcattle   77                             77
+1017 idcattle   78                             78
+1018 idcattle   79                             79
+1019 idcattle   80                             80
+1020 idcattle   81                             81
+1021 idcattle   82                             82
+1022 idcattle   83                             83
+1023 idcattle   84                             84
+1024 idcattle   85                             85
+1025 idcattle   86                             86
+1026 idcattle   87                             87
+1027 idcattle   88                             88
+1028 idcattle   89                             89
+1029 idcattle   90                             90
+1030 idcattle   91                             91
+1031 idcattle   92                             92
+1032 idcattle   93                             93
+1033 idcattle   94                             94
+1034 idcattle   95                             95
+1035 idcattle   96                             96
+1036 idcattle   97                             97
+1037 idcattle   98                             98
+1038 idcattle   99                             99
+1039 idcattle  100                            100
+1040 idcattle  101                            101
+1041 idcattle  102                            102
+1042 idcattle  103                            103
+1043 idcattle  104                            104
+1044 idcattle  105                            105
+1045 idcattle  106                            106
+1046 idcattle  107                            107
+1047 idcattle  108                            108
+1048 idcattle  109                            109
+1049 idcattle  110                            110
+1050 idcattle  111                            111
+1051 idcattle  112                            112
+1052 idcattle  113                            113
+1053 idcattle  114                            114
+1054 idcattle  115                            115
+1055 idcattle  116                            116
+1056 idcattle  117                            117
+1057 idcattle  118                            118
+1058 idcattle  119                            119
+1059 idcattle  120                            120
+1060 idcattle  121                            121
+1061 idcattle  122                            122
+1062 idcattle  123                            123
+1063 idcattle  124                            124
+1064 idcattle  125                            125
+1065 idcattle  126                            126
+1066 idcattle  127                            127
+1067 idcattle  128                            128
+1068 idcattle  129                            129
+1069 idcattle  130                            130
+1070 idcattle  131                            131
+1071 idcattle  133                            133
+1072 idcattle  135                            135
+1073 idcattle  136                            136
+1074 idcattle  137                            137
+1075 idcattle  138                            138
+1076 idcattle  139                            139
+1077 idcattle  140                            140
+1078 idcattle  141                            141
+1079 idcattle  142                            142
+1080 idcattle  143                            143
+1081 idcattle  144                            144
+1082 idcattle  145                            145
+1083 idcattle  146                            146
+1084 idcattle  147                            147
+1085 idcattle  148                            148
+1086 idcattle  149                            149
+1087 idcattle  150                            150
+1088 idcattle  151                            151
+1089 idcattle  152                            152
+1090 idcattle  153                            153
+1091 idcattle  155                            155
+1092 idcattle  156                            156
+1093 idcattle  157                            157
+1094 idcattle  158                            158
+1095 idcattle  159                            159
+1096 idcattle  160                            160
+1097 idcattle  161                            161
+1098 idcattle  162                            162
+1099 idcattle  163                            163
+1100 idcattle  164                            164
+1101 idcattle  165                            165
+1102 idcattle  168                            168
+1103 idcattle  169                            169
+1104 idcattle  170                            170
+1105 idcattle  171                            171
+1106 idcattle  172                            172
+1107 idcattle  173                            173
+1108 idcattle  174                            174
+1109 idcattle  175                            175
+1110 idcattle  177                            177
+1111 idcattle  178                            178
+1112 idcattle  179                            179
+1113 idcattle  180                            180
+1114 idcattle  181                            181
+1115 idcattle  182                            182
+1116 idcattle  185                            185
+1117 idcattle  186                            186
+1118 idcattle  187                            187
+1119 idcattle  188                            188
+1120 idcattle  189                            189
+1121 idcattle  190                            190
+1122 idcattle  192                            192
+1123 idcattle  194                            194
+1124 idcattle  195                            195
+1125 idcattle  196                            196
+1126 idcattle  197                            197
+1127 idcattle  198                            198
+1128 idcattle  199                            199
+1129 idcattle  200                            200
+1130 idcattle  201                            201
+1131 idcattle  202                            202
+1132 idcattle  204                            204
+1133 idcattle  205                            205
+1134 idcattle  206                            206
+1135 idcattle  207                            207
+1136 idcattle  208                            208
+1137 idcattle  209                            209
+1138 idcattle  210                            210
+1139 idcattle  211                            211
+1140 idcattle  212                            212
+1141 idcattle  213                            213
+1142 idcattle  214                            214
+1143 idcattle  215                            215
+1144 idcattle  216                            216
+1145 idcattle  217                            217
+1146 idcattle  218                            218
+1147 idcattle  219                            219
+1148 idcattle  220                            220
+1149 idcattle  222                            222
+1150 idcattle  223                            223
+1151 idcattle  227                            227
+1152 idcattle  228                            228
+1153 idcattle  230                            230
+1154 idcattle  231                            231
+1155 idcattle  233                            233
+1156 idcattle  236                            236
+1157 idcattle  240                            240
+1158 idcattle  242                            242
+1159 idcattle  246                            246
+1160 idcattle  250                            250
+1161 idcattle  252                            252
+1162 idcattle  257                            257
+1163 idcattle  258                            258
+1164 idcattle  260                            260
+1165 idcattle  262                            262
+1166 idcattle  264                            264
+1167 idcattle  269                            269
+1168 idcattle  270                            270
+1169 idcattle  272                            272
+1170 idcattle  278                            278
+1171 idcattle  280                            280
+1172 idcattle  283                            283
+1173 idcattle  284                            284
+1174 idcattle  286                            286
+1175 idcattle  290                            290
+1176 idcattle  294                            294
+1177 idcattle  296                            296
+1178 idcattle  300                            300
+1179 idcattle  301                            301
+1180 idcattle  303                            303
+1181 idcattle  310                            310
+1182 idcattle  311                            311
+1183 idcattle  312                            312
+1184 idcattle  315                            315
+1185 idcattle  316                            316
+1186 idcattle  320                            320
+1187 idcattle  321                            321
+1188 idcattle  322                            322
+1189 idcattle  324                            324
+1190 idcattle  326                            326
+1191 idcattle  328                            328
+1192 idcattle  330                            330
+1193 idcattle  334                            334
+1194 idcattle  340                            340
+1195 idcattle  341                            341
+1196 idcattle  344                            344
+1197 idcattle  345                            345
+1198 idcattle  350                            350
+1199 idcattle  351                            351
+1200 idcattle  355                            355
+1201 idcattle  360                            360
+1202 idcattle  361                            361
+1203 idcattle  362                            362
+1204 idcattle  370                            370
+1205 idcattle  375                            375
+1206 idcattle  390                            390
+1207 idcattle  400                           400+
+1208    sheep    0                              0
+1209    sheep    1                              1
+1210    sheep    2                              2
+1211    sheep    3                              3
+1212    sheep    4                              4
+1213    sheep    5                              5
+1214    sheep    6                              6
+1215    sheep    7                              7
+1216    sheep    8                              8
+1217    sheep    9                              9
+1218    sheep   10                             10
+1219    sheep   11                             11
+1220    sheep   12                             12
+1221    sheep   13                             13
+1222    sheep   14                             14
+1223    sheep   15                             15
+1224    sheep   16                             16
+1225    sheep   17                             17
+1226    sheep   18                             18
+1227    sheep   19                             19
+1228    sheep   20                             20
+1229    sheep   21                             21
+1230    sheep   22                             22
+1231    sheep   23                             23
+1232    sheep   24                             24
+1233    sheep   25                             25
+1234    sheep   26                             26
+1235    sheep   27                             27
+1236    sheep   28                             28
+1237    sheep   29                             29
+1238    sheep   30                             30
+1239    sheep   31                             31
+1240    sheep   32                             32
+1241    sheep   33                             33
+1242    sheep   34                             34
+1243    sheep   35                             35
+1244    sheep   36                             36
+1245    sheep   37                             37
+1246    sheep   38                             38
+1247    sheep   39                             39
+1248    sheep   40                             40
+1249    sheep   41                             41
+1250    sheep   42                             42
+1251    sheep   43                             43
+1252    sheep   44                             44
+1253    sheep   45                             45
+1254    sheep   46                             46
+1255    sheep   47                             47
+1256    sheep   48                             48
+1257    sheep   49                             49
+1258    sheep   50                             50
+1259    sheep   51                             51
+1260    sheep   52                             52
+1261    sheep   53                             53
+1262    sheep   54                             54
+1263    sheep   55                             55
+1264    sheep   56                             56
+1265    sheep   57                             57
+1266    sheep   58                             58
+1267    sheep   59                             59
+1268    sheep   60                             60
+1269    sheep   61                             61
+1270    sheep   62                             62
+1271    sheep   63                             63
+1272    sheep   64                             64
+1273    sheep   65                             65
+1274    sheep   66                             66
+1275    sheep   67                             67
+1276    sheep   68                             68
+1277    sheep   69                             69
+1278    sheep   70                             70
+1279    sheep   71                             71
+1280    sheep   72                             72
+1281    sheep   73                             73
+1282    sheep   74                             74
+1283    sheep   75                             75
+1284    sheep   76                             76
+1285    sheep   77                             77
+1286    sheep   78                             78
+1287    sheep   79                             79
+1288    sheep   80                             80
+1289    sheep   81                             81
+1290    sheep   82                             82
+1291    sheep   83                             83
+1292    sheep   84                             84
+1293    sheep   85                             85
+1294    sheep   86                             86
+1295    sheep   87                             87
+1296    sheep   88                             88
+1297    sheep   89                             89
+1298    sheep   90                             90
+1299    sheep   91                             91
+1300    sheep   92                             92
+1301    sheep   93                             93
+1302    sheep   94                             94
+1303    sheep   95                             95
+1304    sheep   96                             96
+1305    sheep   97                             97
+1306    sheep   98                             98
+1307    sheep   99                             99
+1308    sheep  100                            100
+1309    sheep  101                            101
+1310    sheep  102                            102
+1311    sheep  103                            103
+1312    sheep  104                            104
+1313    sheep  105                            105
+1314    sheep  106                            106
+1315    sheep  107                            107
+1316    sheep  108                            108
+1317    sheep  109                            109
+1318    sheep  110                            110
+1319    sheep  111                            111
+1320    sheep  112                            112
+1321    sheep  113                            113
+1322    sheep  114                            114
+1323    sheep  115                            115
+1324    sheep  116                            116
+1325    sheep  117                            117
+1326    sheep  118                            118
+1327    sheep  119                            119
+1328    sheep  120                            120
+1329    sheep  121                            121
+1330    sheep  122                            122
+1331    sheep  123                            123
+1332    sheep  124                            124
+1333    sheep  125                            125
+1334    sheep  126                            126
+1335    sheep  127                            127
+1336    sheep  128                            128
+1337    sheep  129                            129
+1338    sheep  130                            130
+1339    sheep  131                            131
+1340    sheep  132                            132
+1341    sheep  133                            133
+1342    sheep  134                            134
+1343    sheep  135                            135
+1344    sheep  136                            136
+1345    sheep  137                            137
+1346    sheep  138                            138
+1347    sheep  139                            139
+1348    sheep  140                            140
+1349    sheep  141                            141
+1350    sheep  142                            142
+1351    sheep  143                            143
+1352    sheep  144                            144
+1353    sheep  145                            145
+1354    sheep  146                            146
+1355    sheep  147                            147
+1356    sheep  148                            148
+1357    sheep  149                            149
+1358    sheep  150                            150
+1359    sheep  151                            151
+1360    sheep  152                            152
+1361    sheep  153                            153
+1362    sheep  154                            154
+1363    sheep  155                            155
+1364    sheep  156                            156
+1365    sheep  157                            157
+1366    sheep  158                            158
+1367    sheep  160                            160
+1368    sheep  161                            161
+1369    sheep  162                            162
+1370    sheep  163                            163
+1371    sheep  164                            164
+1372    sheep  165                            165
+1373    sheep  166                            166
+1374    sheep  167                            167
+1375    sheep  168                            168
+1376    sheep  169                            169
+1377    sheep  170                            170
+1378    sheep  171                            171
+1379    sheep  172                            172
+1380    sheep  173                            173
+1381    sheep  174                            174
+1382    sheep  175                            175
+1383    sheep  176                            176
+1384    sheep  177                            177
+1385    sheep  178                            178
+1386    sheep  179                            179
+1387    sheep  180                            180
+1388    sheep  181                            181
+1389    sheep  182                            182
+1390    sheep  183                            183
+1391    sheep  184                            184
+1392    sheep  185                            185
+1393    sheep  186                            186
+1394    sheep  187                            187
+1395    sheep  188                            188
+1396    sheep  189                            189
+1397    sheep  190                            190
+1398    sheep  191                            191
+1399    sheep  195                            195
+1400    sheep  197                            197
+1401    sheep  198                            198
+1402    sheep  200                            200
+1403    sheep  201                            201
+1404    sheep  203                            203
+1405    sheep  204                            204
+1406    sheep  205                            205
+1407    sheep  207                            207
+1408    sheep  208                            208
+1409    sheep  209                            209
+1410    sheep  210                            210
+1411    sheep  211                            211
+1412    sheep  212                            212
+1413    sheep  213                            213
+1414    sheep  214                            214
+1415    sheep  215                            215
+1416    sheep  216                            216
+1417    sheep  217                            217
+1418    sheep  218                            218
+1419    sheep  219                            219
+1420    sheep  220                            220
+1421    sheep  221                            221
+1422    sheep  222                            222
+1423    sheep  223                            223
+1424    sheep  224                            224
+1425    sheep  226                            226
+1426    sheep  228                            228
+1427    sheep  230                            230
+1428    sheep  231                            231
+1429    sheep  235                            235
+1430    sheep  236                            236
+1431    sheep  237                            237
+1432    sheep  238                            238
+1433    sheep  239                            239
+1434    sheep  240                            240
+1435    sheep  241                            241
+1436    sheep  242                            242
+1437    sheep  243                            243
+1438    sheep  245                            245
+1439    sheep  246                            246
+1440    sheep  248                            248
+1441    sheep  249                            249
+1442    sheep  250                            250
+1443    sheep  251                            251
+1444    sheep  253                            253
+1445    sheep  256                            256
+1446    sheep  259                            259
+1447    sheep  260                            260
+1448    sheep  263                            263
+1449    sheep  265                            265
+1450    sheep  266                            266
+1451    sheep  270                            270
+1452    sheep  272                            272
+1453    sheep  273                            273
+1454    sheep  274                            274
+1455    sheep  275                            275
+1456    sheep  276                            276
+1457    sheep  280                            280
+1458    sheep  281                            281
+1459    sheep  283                            283
+1460    sheep  286                            286
+1461    sheep  289                            289
+1462    sheep  290                            290
+1463    sheep  292                            292
+1464    sheep  294                            294
+1465    sheep  298                            298
+1466    sheep  299                            299
+1467    sheep  300                            300
+1468    sheep  302                            302
+1469    sheep  303                            303
+1470    sheep  310                            310
+1471    sheep  311                            311
+1472    sheep  313                            313
+1473    sheep  314                            314
+1474    sheep  315                            315
+1475    sheep  320                            320
+1476    sheep  321                            321
+1477    sheep  323                            323
+1478    sheep  326                            326
+1479    sheep  327                            327
+1480    sheep  328                            328
+1481    sheep  329                            329
+1482    sheep  330                            330
+1483    sheep  335                            335
+1484    sheep  339                            339
+1485    sheep  340                            340
+1486    sheep  349                            349
+1487    sheep  350                            350
+1488    sheep  360                            360
+1489    sheep  362                            362
+1490    sheep  370                            370
+1491    sheep  371                            371
+1492    sheep  380                            380
+1493    sheep  385                            385
+1494    sheep  387                            387
+1495    sheep  390                            390
+1496    sheep  392                            392
+1497    sheep  396                            396
+1498    sheep  399                            399
+1499    sheep  400                           400+
+1500    goats    0                              0
+1501    goats    1                              1
+1502    goats    2                              2
+1503    goats    3                              3
+1504    goats    4                              4
+1505    goats    5                              5
+1506    goats    6                              6
+1507    goats    7                              7
+1508    goats    8                              8
+1509    goats    9                              9
+1510    goats   10                             10
+1511    goats   11                             11
+1512    goats   12                             12
+1513    goats   13                             13
+1514    goats   14                             14
+1515    goats   15                             15
+1516    goats   16                             16
+1517    goats   17                             17
+1518    goats   18                             18
+1519    goats   19                             19
+1520    goats   20                             20
+1521    goats   21                             21
+1522    goats   22                             22
+1523    goats   23                             23
+1524    goats   24                             24
+1525    goats   25                             25
+1526    goats   26                             26
+1527    goats   27                             27
+1528    goats   28                             28
+1529    goats   29                             29
+1530    goats   30                             30
+1531    goats   31                             31
+1532    goats   32                             32
+1533    goats   33                             33
+1534    goats   34                             34
+1535    goats   35                             35
+1536    goats   36                             36
+1537    goats   37                             37
+1538    goats   38                             38
+1539    goats   39                             39
+1540    goats   40                             40
+1541    goats   41                             41
+1542    goats   42                             42
+1543    goats   43                             43
+1544    goats   44                             44
+1545    goats   45                             45
+1546    goats   46                             46
+1547    goats   47                             47
+1548    goats   48                             48
+1549    goats   49                             49
+1550    goats   50                             50
+1551    goats   51                             51
+1552    goats   52                             52
+1553    goats   53                             53
+1554    goats   54                             54
+1555    goats   55                             55
+1556    goats   56                             56
+1557    goats   57                             57
+1558    goats   58                             58
+1559    goats   59                             59
+1560    goats   60                             60
+1561    goats   61                             61
+1562    goats   62                             62
+1563    goats   63                             63
+1564    goats   64                             64
+1565    goats   65                             65
+1566    goats   66                             66
+1567    goats   67                             67
+1568    goats   68                             68
+1569    goats   69                             69
+1570    goats   70                             70
+1571    goats   71                             71
+1572    goats   72                             72
+1573    goats   73                             73
+1574    goats   74                             74
+1575    goats   75                             75
+1576    goats   76                             76
+1577    goats   77                             77
+1578    goats   78                             78
+1579    goats   79                             79
+1580    goats   80                             80
+1581    goats   81                             81
+1582    goats   82                             82
+1583    goats   83                             83
+1584    goats   84                             84
+1585    goats   85                             85
+1586    goats   86                             86
+1587    goats   87                             87
+1588    goats   88                             88
+1589    goats   89                             89
+1590    goats   90                             90
+1591    goats   91                             91
+1592    goats   92                             92
+1593    goats   93                             93
+1594    goats   94                             94
+1595    goats   95                             95
+1596    goats   96                             96
+1597    goats   97                             97
+1598    goats   98                             98
+1599    goats   99                             99
+1600    goats  100                            100
+1601    goats  101                            101
+1602    goats  102                            102
+1603    goats  103                            103
+1604    goats  104                            104
+1605    goats  105                            105
+1606    goats  106                            106
+1607    goats  107                            107
+1608    goats  108                            108
+1609    goats  109                            109
+1610    goats  110                            110
+1611    goats  111                            111
+1612    goats  112                            112
+1613    goats  113                            113
+1614    goats  114                            114
+1615    goats  115                            115
+1616    goats  116                            116
+1617    goats  117                            117
+1618    goats  118                            118
+1619    goats  119                            119
+1620    goats  120                            120
+1621    goats  121                            121
+1622    goats  122                            122
+1623    goats  123                            123
+1624    goats  124                            124
+1625    goats  125                            125
+1626    goats  126                            126
+1627    goats  127                            127
+1628    goats  128                            128
+1629    goats  129                            129
+1630    goats  130                            130
+1631    goats  131                            131
+1632    goats  132                            132
+1633    goats  133                            133
+1634    goats  134                            134
+1635    goats  135                            135
+1636    goats  136                            136
+1637    goats  137                            137
+1638    goats  138                            138
+1639    goats  139                            139
+1640    goats  140                            140
+1641    goats  141                            141
+1642    goats  142                            142
+1643    goats  143                            143
+1644    goats  144                            144
+1645    goats  145                            145
+1646    goats  146                            146
+1647    goats  147                            147
+1648    goats  148                            148
+1649    goats  149                            149
+1650    goats  150                            150
+1651    goats  151                            151
+1652    goats  152                            152
+1653    goats  153                            153
+1654    goats  154                            154
+1655    goats  155                            155
+1656    goats  156                            156
+1657    goats  157                            157
+1658    goats  158                            158
+1659    goats  159                            159
+1660    goats  160                            160
+1661    goats  161                            161
+1662    goats  162                            162
+1663    goats  163                            163
+1664    goats  164                            164
+1665    goats  165                            165
+1666    goats  166                            166
+1667    goats  167                            167
+1668    goats  168                            168
+1669    goats  169                            169
+1670    goats  170                            170
+1671    goats  171                            171
+1672    goats  172                            172
+1673    goats  173                            173
+1674    goats  174                            174
+1675    goats  175                            175
+1676    goats  176                            176
+1677    goats  177                            177
+1678    goats  178                            178
+1679    goats  179                            179
+1680    goats  180                            180
+1681    goats  181                            181
+1682    goats  182                            182
+1683    goats  183                            183
+1684    goats  184                            184
+1685    goats  185                            185
+1686    goats  186                            186
+1687    goats  187                            187
+1688    goats  188                            188
+1689    goats  189                            189
+1690    goats  190                            190
+1691    goats  191                            191
+1692    goats  192                            192
+1693    goats  193                            193
+1694    goats  194                            194
+1695    goats  195                            195
+1696    goats  196                            196
+1697    goats  197                            197
+1698    goats  198                            198
+1699    goats  199                            199
+1700    goats  200                            200
+1701    goats  201                            201
+1702    goats  202                            202
+1703    goats  203                            203
+1704    goats  204                            204
+1705    goats  205                            205
+1706    goats  206                            206
+1707    goats  207                            207
+1708    goats  208                            208
+1709    goats  209                            209
+1710    goats  210                            210
+1711    goats  211                            211
+1712    goats  212                            212
+1713    goats  213                            213
+1714    goats  214                            214
+1715    goats  215                            215
+1716    goats  216                            216
+1717    goats  217                            217
+1718    goats  218                            218
+1719    goats  219                            219
+1720    goats  220                            220
+1721    goats  221                            221
+1722    goats  222                            222
+1723    goats  225                            225
+1724    goats  226                            226
+1725    goats  228                            228
+1726    goats  230                            230
+1727    goats  231                            231
+1728    goats  232                            232
+1729    goats  233                            233
+1730    goats  234                            234
+1731    goats  235                            235
+1732    goats  236                            236
+1733    goats  237                            237
+1734    goats  238                            238
+1735    goats  240                            240
+1736    goats  241                            241
+1737    goats  242                            242
+1738    goats  243                            243
+1739    goats  245                            245
+1740    goats  246                            246
+1741    goats  247                            247
+1742    goats  248                            248
+1743    goats  250                            250
+1744    goats  251                            251
+1745    goats  252                            252
+1746    goats  253                            253
+1747    goats  254                            254
+1748    goats  255                            255
+1749    goats  256                            256
+1750    goats  257                            257
+1751    goats  258                            258
+1752    goats  260                            260
+1753    goats  261                            261
+1754    goats  262                            262
+1755    goats  264                            264
+1756    goats  267                            267
+1757    goats  268                            268
+1758    goats  270                            270
+1759    goats  271                            271
+1760    goats  272                            272
+1761    goats  273                            273
+1762    goats  274                            274
+1763    goats  275                            275
+1764    goats  276                            276
+1765    goats  280                            280
+1766    goats  281                            281
+1767    goats  282                            282
+1768    goats  283                            283
+1769    goats  285                            285
+1770    goats  288                            288
+1771    goats  289                            289
+1772    goats  290                            290
+1773    goats  291                            291
+1774    goats  293                            293
+1775    goats  294                            294
+1776    goats  296                            296
+1777    goats  297                            297
+1778    goats  299                            299
+1779    goats  300                            300
+1780    goats  301                            301
+1781    goats  302                            302
+1782    goats  303                            303
+1783    goats  304                            304
+1784    goats  305                            305
+1785    goats  306                            306
+1786    goats  307                            307
+1787    goats  308                            308
+1788    goats  309                            309
+1789    goats  310                            310
+1790    goats  311                            311
+1791    goats  312                            312
+1792    goats  313                            313
+1793    goats  314                            314
+1794    goats  315                            315
+1795    goats  316                            316
+1796    goats  317                            317
+1797    goats  319                            319
+1798    goats  320                            320
+1799    goats  321                            321
+1800    goats  322                            322
+1801    goats  323                            323
+1802    goats  324                            324
+1803    goats  325                            325
+1804    goats  326                            326
+1805    goats  327                            327
+1806    goats  329                            329
+1807    goats  330                            330
+1808    goats  331                            331
+1809    goats  332                            332
+1810    goats  334                            334
+1811    goats  335                            335
+1812    goats  336                            336
+1813    goats  340                            340
+1814    goats  341                            341
+1815    goats  342                            342
+1816    goats  344                            344
+1817    goats  346                            346
+1818    goats  347                            347
+1819    goats  348                            348
+1820    goats  349                            349
+1821    goats  350                            350
+1822    goats  352                            352
+1823    goats  355                            355
+1824    goats  356                            356
+1825    goats  358                            358
+1826    goats  360                            360
+1827    goats  362                            362
+1828    goats  365                            365
+1829    goats  370                            370
+1830    goats  371                            371
+1831    goats  379                            379
+1832    goats  380                            380
+1833    goats  386                            386
+1834    goats  388                            388
+1835    goats  389                            389
+1836    goats  390                            390
+1837    goats  391                            391
+1838    goats  392                            392
+1839    goats  397                            397
+1840    goats  398                            398
+1841    goats  399                            399
+1842    goats  400                            400
+1843    goats  401                            401
+1844    goats  402                            402
+1845    goats  405                            405
+1846    goats  409                            409
+1847    goats  410                            410
+1848    goats  411                            411
+1849    goats  412                            412
+1850    goats  415                            415
+1851    goats  416                            416
+1852    goats  418                            418
+1853    goats  420                            420
+1854    goats  421                            421
+1855    goats  422                            422
+1856    goats  423                            423
+1857    goats  426                            426
+1858    goats  429                            429
+1859    goats  430                            430
+1860    goats  432                            432
+1861    goats  436                            436
+1862    goats  438                            438
+1863    goats  440                            440
+1864    goats  442                            442
+1865    goats  444                            444
+1866    goats  445                            445
+1867    goats  448                            448
+1868    goats  450                            450
+1869    goats  455                            455
+1870    goats  456                            456
+1871    goats  460                            460
+1872    goats  463                            463
+1873    goats  466                            466
+1874    goats  467                            467
+1875    goats  470                            470
+1876    goats  478                            478
+1877    goats  480                            480
+1878    goats  482                            482
+1879    goats  486                            486
+1880    goats  489                            489
+1881    goats  490                            490
+1882    goats  492                            492
+1883    goats  496                            496
+1884    goats  500                           500+
+1885   camels    0                              0
+1886   camels    1                              1
+1887   camels    2                              2
+1888   camels    3                              3
+1889   camels    4                              4
+1890   camels    5                              5
+1891   camels    6                              6
+1892   camels    7                              7
+1893   camels    8                              8
+1894   camels    9                              9
+1895   camels   10                             10
+1896   camels   11                             11
+1897   camels   12                             12
+1898   camels   13                             13
+1899   camels   14                             14
+1900   camels   15                             15
+1901   camels   16                             16
+1902   camels   17                             17
+1903   camels   18                             18
+1904   camels   19                             19
+1905   camels   20                             20
+1906   camels   21                             21
+1907   camels   22                             22
+1908   camels   23                             23
+1909   camels   24                             24
+1910   camels   25                             25
+1911   camels   26                             26
+1912   camels   27                             27
+1913   camels   28                             28
+1914   camels   29                             29
+1915   camels   30                             30
+1916   camels   31                             31
+1917   camels   32                             32
+1918   camels   33                             33
+1919   camels   34                             34
+1920   camels   35                             35
+1921   camels   36                             36
+1922   camels   37                             37
+1923   camels   38                             38
+1924   camels   39                             39
+1925   camels   40                             40
+1926   camels   41                             41
+1927   camels   42                             42
+1928   camels   43                             43
+1929   camels   44                             44
+1930   camels   45                             45
+1931   camels   46                             46
+1932   camels   47                             47
+1933   camels   48                             48
+1934   camels   49                             49
+1935   camels   50                             50
+1936   camels   51                             51
+1937   camels   52                             52
+1938   camels   53                             53
+1939   camels   54                             54
+1940   camels   55                             55
+1941   camels   56                             56
+1942   camels   57                             57
+1943   camels   58                             58
+1944   camels   59                             59
+1945   camels   60                             60
+1946   camels   61                             61
+1947   camels   62                             62
+1948   camels   63                             63
+1949   camels   64                             64
+1950   camels   65                             65
+1951   camels   66                             66
+1952   camels   67                             67
+1953   camels   68                             68
+1954   camels   69                             69
+1955   camels   70                             70
+1956   camels   71                             71
+1957   camels   72                             72
+1958   camels   73                             73
+1959   camels   74                             74
+1960   camels   75                             75
+1961   camels   76                             76
+1962   camels   77                             77
+1963   camels   78                             78
+1964   camels   79                             79
+1965   camels   80                             80
+1966   camels   81                             81
+1967   camels   82                             82
+1968   camels   83                             83
+1969   camels   84                             84
+1970   camels   85                             85
+1971   camels   86                             86
+1972   camels   87                             87
+1973   camels   88                             88
+1974   camels   89                             89
+1975   camels   90                             90
+1976   camels   91                             91
+1977   camels   92                             92
+1978   camels   93                             93
+1979   camels   94                             94
+1980   camels   95                             95
+1981   camels   96                             96
+1982   camels   97                             97
+1983   camels   98                             98
+1984   camels   99                             99
+1985   camels  100                           100+
+1986  donkeys    0                              0
+1987  donkeys    1                              1
+1988  donkeys    2                              2
+1989  donkeys    3                              3
+1990  donkeys    4                              4
+1991  donkeys    5                              5
+1992  donkeys    6                              6
+1993  donkeys    7                              7
+1994  donkeys    8                              8
+1995  donkeys    9                              9
+1996  donkeys   10                             10
+1997  donkeys   11                             11
+1998  donkeys   12                             12
+1999  donkeys   13                             13
+2000  donkeys   14                             14
+2001  donkeys   15                             15
+2002  donkeys   16                             16
+2003  donkeys   17                             17
+2004  donkeys   18                             18
+2005  donkeys   19                             19
+2006  donkeys   20                             20
+2007  donkeys   21                             21
+2008  donkeys   22                             22
+2009  donkeys   23                             23
+2010  donkeys   24                             24
+2011  donkeys   25                             25
+2012  donkeys   26                             26
+2013  donkeys   27                             27
+2014  donkeys   28                             28
+2015  donkeys   29                             29
+2016  donkeys   30                             30
+2017  donkeys   31                             31
+2018  donkeys   32                             32
+2019  donkeys   33                             33
+2020  donkeys   34                             34
+2021  donkeys   35                             35
+2022  donkeys   36                             36
+2023  donkeys   37                             37
+2024  donkeys   38                             38
+2025  donkeys   39                             39
+2026  donkeys   40                             40
+2027  donkeys   41                             41
+2028  donkeys   42                             42
+2029  donkeys   43                             43
+2030  donkeys   45                             45
+2031  donkeys   46                             46
+2032  donkeys   47                             47
+2033  donkeys   48                             48
+2034  donkeys   49                             49
+2035  donkeys   50                            50+
+2036     pigs    0                              0
+2037     pigs    1                              1
+2038     pigs    2                              2
+2039     pigs    3                              3
+2040     pigs    4                              4
+2041     pigs    5                              5
+2042     pigs    6                              6
+2043     pigs    7                              7
+2044     pigs    8                              8
+2045     pigs    9                              9
+2046     pigs   10                             10
+2047     pigs   11                             11
+2048     pigs   12                             12
+2049     pigs   13                             13
+2050     pigs   14                             14
+2051     pigs   15                             15
+2052     pigs   16                             16
+2053     pigs   17                             17
+2054     pigs   18                             18
+2055     pigs   19                             19
+2056     pigs   20                             20
+2057     pigs   21                             21
+2058     pigs   22                             22
+2059     pigs   23                             23
+2060     pigs   24                             24
+2061     pigs   25                             25
+2062     pigs   26                             26
+2063     pigs   27                             27
+2064     pigs   28                             28
+2065     pigs   29                             29
+2066     pigs   30                            30+
+2067 idchickn    0                              0
+2068 idchickn    1                              1
+2069 idchickn    2                              2
+2070 idchickn    3                              3
+2071 idchickn    4                              4
+2072 idchickn    5                              5
+2073 idchickn    6                              6
+2074 idchickn    7                              7
+2075 idchickn    8                              8
+2076 idchickn    9                              9
+2077 idchickn   10                             10
+2078 idchickn   11                             11
+2079 idchickn   12                             12
+2080 idchickn   13                             13
+2081 idchickn   14                             14
+2082 idchickn   15                             15
+2083 idchickn   16                             16
+2084 idchickn   17                             17
+2085 idchickn   18                             18
+2086 idchickn   19                             19
+2087 idchickn   20                             20
+2088 idchickn   21                             21
+2089 idchickn   22                             22
+2090 idchickn   23                             23
+2091 idchickn   24                             24
+2092 idchickn   25                             25
+2093 idchickn   26                             26
+2094 idchickn   27                             27
+2095 idchickn   28                             28
+2096 idchickn   29                             29
+2097 idchickn   30                             30
+2098 idchickn   31                             31
+2099 idchickn   32                             32
+2100 idchickn   33                             33
+2101 idchickn   34                             34
+2102 idchickn   35                             35
+2103 idchickn   36                             36
+2104 idchickn   37                             37
+2105 idchickn   38                             38
+2106 idchickn   39                             39
+2107 idchickn   40                             40
+2108 idchickn   41                             41
+2109 idchickn   42                             42
+2110 idchickn   43                             43
+2111 idchickn   44                             44
+2112 idchickn   45                             45
+2113 idchickn   46                             46
+2114 idchickn   47                             47
+2115 idchickn   48                             48
+2116 idchickn   49                             49
+2117 idchickn   50                             50
+2118 idchickn   51                             51
+2119 idchickn   52                             52
+2120 idchickn   53                             53
+2121 idchickn   54                             54
+2122 idchickn   55                             55
+2123 idchickn   56                             56
+2124 idchickn   57                             57
+2125 idchickn   58                             58
+2126 idchickn   59                             59
+2127 idchickn   60                             60
+2128 idchickn   61                             61
+2129 idchickn   62                             62
+2130 idchickn   63                             63
+2131 idchickn   64                             64
+2132 idchickn   65                             65
+2133 idchickn   66                             66
+2134 idchickn   67                             67
+2135 idchickn   68                             68
+2136 idchickn   69                             69
+2137 idchickn   70                             70
+2138 idchickn   71                             71
+2139 idchickn   72                             72
+2140 idchickn   73                             73
+2141 idchickn   74                             74
+2142 idchickn   75                             75
+2143 idchickn   76                             76
+2144 idchickn   78                             78
+2145 idchickn   79                             79
+2146 idchickn   80                             80
+2147 idchickn   81                             81
+2148 idchickn   82                             82
+2149 idchickn   83                             83
+2150 idchickn   84                             84
+2151 idchickn   85                             85
+2152 idchickn   86                             86
+2153 idchickn   87                             87
+2154 idchickn   88                             88
+2155 idchickn   89                             89
+2156 idchickn   90                             90
+2157 idchickn   91                             91
+2158 idchickn   92                             92
+2159 idchickn   93                             93
+2160 idchickn   94                             94
+2161 idchickn   95                             95
+2162 idchickn   96                             96
+2163 idchickn   97                             97
+2164 idchickn   99                             99
+2165 idchickn  100                           100+
+2166  comchkn    0                              0
+2167  comchkn    1                              1
+2168  comchkn    2                              2
+2169  comchkn    3                              3
+2170  comchkn    4                              4
+2171  comchkn    5                              5
+2172  comchkn    6                              6
+2173  comchkn    7                              7
+2174  comchkn    8                              8
+2175  comchkn    9                              9
+2176  comchkn   10                             10
+2177  comchkn   11                             11
+2178  comchkn   12                             12
+2179  comchkn   13                             13
+2180  comchkn   14                             14
+2181  comchkn   15                             15
+2182  comchkn   16                             16
+2183  comchkn   17                             17
+2184  comchkn   18                             18
+2185  comchkn   19                             19
+2186  comchkn   20                             20
+2187  comchkn   21                             21
+2188  comchkn   22                             22
+2189  comchkn   23                             23
+2190  comchkn   24                             24
+2191  comchkn   25                             25
+2192  comchkn   26                             26
+2193  comchkn   27                             27
+2194  comchkn   28                             28
+2195  comchkn   29                             29
+2196  comchkn   30                             30
+2197  comchkn   31                             31
+2198  comchkn   32                             32
+2199  comchkn   33                             33
+2200  comchkn   34                             34
+2201  comchkn   35                             35
+2202  comchkn   36                             36
+2203  comchkn   37                             37
+2204  comchkn   38                             38
+2205  comchkn   39                             39
+2206  comchkn   40                             40
+2207  comchkn   41                             41
+2208  comchkn   42                             42
+2209  comchkn   43                             43
+2210  comchkn   44                             44
+2211  comchkn   45                             45
+2212  comchkn   46                             46
+2213  comchkn   47                             47
+2214  comchkn   48                             48
+2215  comchkn   49                             49
+2216  comchkn   50                             50
+2217  comchkn   51                             51
+2218  comchkn   52                             52
+2219  comchkn   53                             53
+2220  comchkn   54                             54
+2221  comchkn   55                             55
+2222  comchkn   56                             56
+2223  comchkn   57                             57
+2224  comchkn   58                             58
+2225  comchkn   59                             59
+2226  comchkn   60                             60
+2227  comchkn   61                             61
+2228  comchkn   62                             62
+2229  comchkn   65                             65
+2230  comchkn   66                             66
+2231  comchkn   67                             67
+2232  comchkn   68                             68
+2233  comchkn   70                             70
+2234  comchkn   71                             71
+2235  comchkn   72                             72
+2236  comchkn   73                             73
+2237  comchkn   74                             74
+2238  comchkn   75                             75
+2239  comchkn   76                             76
+2240  comchkn   78                             78
+2241  comchkn   80                             80
+2242  comchkn   81                             81
+2243  comchkn   82                             82
+2244  comchkn   84                             84
+2245  comchkn   85                             85
+2246  comchkn   86                             86
+2247  comchkn   90                             90
+2248  comchkn   92                             92
+2249  comchkn   93                             93
+2250  comchkn   94                             94
+2251  comchkn   95                             95
+2252  comchkn   96                             96
+2253  comchkn   97                             97
+2254  comchkn   98                             98
+2255  comchkn   99                             99
+2256  comchkn  100                            100
+2257  comchkn  101                            101
+2258  comchkn  102                            102
+2259  comchkn  103                            103
+2260  comchkn  104                            104
+2261  comchkn  105                            105
+2262  comchkn  106                            106
+2263  comchkn  107                            107
+2264  comchkn  108                            108
+2265  comchkn  109                            109
+2266  comchkn  110                            110
+2267  comchkn  111                            111
+2268  comchkn  115                            115
+2269  comchkn  120                            120
+2270  comchkn  121                            121
+2271  comchkn  124                            124
+2272  comchkn  125                            125
+2273  comchkn  126                            126
+2274  comchkn  128                            128
+2275  comchkn  129                            129
+2276  comchkn  130                            130
+2277  comchkn  132                            132
+2278  comchkn  137                            137
+2279  comchkn  140                            140
+2280  comchkn  142                            142
+2281  comchkn  143                            143
+2282  comchkn  146                            146
+2283  comchkn  150                            150
+2284  comchkn  155                            155
+2285  comchkn  156                            156
+2286  comchkn  160                            160
+2287  comchkn  166                            166
+2288  comchkn  170                            170
+2289  comchkn  175                            175
+2290  comchkn  178                            178
+2291  comchkn  179                            179
+2292  comchkn  180                            180
+2293  comchkn  185                            185
+2294  comchkn  188                            188
+2295  comchkn  189                            189
+2296  comchkn  190                            190
+2297  comchkn  194                            194
+2298  comchkn  197                            197
+2299  comchkn  198                            198
+2300  comchkn  199                            199
+2301  comchkn  200                            200
+2302  comchkn  204                            204
+2303  comchkn  205                            205
+2304  comchkn  210                            210
+2305  comchkn  216                            216
+2306  comchkn  220                            220
+2307  comchkn  221                            221
+2308  comchkn  224                            224
+2309  comchkn  229                            229
+2310  comchkn  230                            230
+2311  comchkn  240                            240
+2312  comchkn  245                            245
+2313  comchkn  249                            249
+2314  comchkn  250                            250
+2315  comchkn  253                            253
+2316  comchkn  256                            256
+2317  comchkn  260                            260
+2318  comchkn  265                            265
+2319  comchkn  269                            269
+2320  comchkn  270                            270
+2321  comchkn  275                            275
+2322  comchkn  280                            280
+2323  comchkn  284                            284
+2324  comchkn  285                            285
+2325  comchkn  286                            286
+2326  comchkn  290                            290
+2327  comchkn  294                            294
+2328  comchkn  299                            299
+2329  comchkn  300                            300
+2330  comchkn  304                            304
+2331  comchkn  310                            310
+2332  comchkn  320                            320
+2333  comchkn  330                            330
+2334  comchkn  340                            340
+2335  comchkn  350                            350
+2336  comchkn  360                            360
+2337  comchkn  367                            367
+2338  comchkn  370                            370
+2339  comchkn  380                            380
+2340  comchkn  390                            390
+2341  comchkn  399                            399
+2342  comchkn  400                            400
+2343  comchkn  404                            404
+2344  comchkn  410                            410
+2345  comchkn  420                            420
+2346  comchkn  450                            450
+2347  comchkn  455                            455
+2348  comchkn  476                            476
+2349  comchkn  480                            480
+2350  comchkn  490                            490
+2351  comchkn  500                            500
+2352  comchkn  504                            504
+2353  comchkn  511                            511
+2354  comchkn  550                            550
+2355  comchkn  600                           600+
+2356 beehives    0                              0
+2357 beehives    1                              1
+2358 beehives    2                              2
+2359 beehives    3                              3
+2360 beehives    4                              4
+2361 beehives    5                              5
+2362 beehives    6                              6
+2363 beehives    7                              7
+2364 beehives    8                              8
+2365 beehives    9                              9
+2366 beehives   10                             10
+2367 beehives   11                             11
+2368 beehives   12                             12
+2369 beehives   13                             13
+2370 beehives   14                             14
+2371 beehives   15                             15
+2372 beehives   16                             16
+2373 beehives   17                             17
+2374 beehives   18                             18
+2375 beehives   19                             19
+2376 beehives   20                             20
+2377 beehives   21                             21
+2378 beehives   22                             22
+2379 beehives   23                             23
+2380 beehives   24                             24
+2381 beehives   25                             25
+2382 beehives   26                             26
+2383 beehives   27                             27
+2384 beehives   28                             28
+2385 beehives   29                             29
+2386 beehives   30                             30
+2387 beehives   31                             31
+2388 beehives   32                             32
+2389 beehives   33                             33
+2390 beehives   34                             34
+2391 beehives   35                             35
+2392 beehives   36                             36
+2393 beehives   37                             37
+2394 beehives   38                             38
+2395 beehives   39                             39
+2396 beehives   40                             40
+2397 beehives   41                             41
+2398 beehives   42                             42
+2399 beehives   43                             43
+2400 beehives   44                             44
+2401 beehives   45                             45
+2402 beehives   46                             46
+2403 beehives   47                             47
+2404 beehives   48                             48
+2405 beehives   49                             49
+2406 beehives   50                             50
+2407 beehives   52                             52
+2408 beehives   54                             54
+2409 beehives   55                             55
+2410 beehives   56                             56
+2411 beehives   57                             57
+2412 beehives   58                             58
+2413 beehives   60                             60
+2414 beehives   62                             62
+2415 beehives   63                             63
+2416 beehives   65                             65
+2417 beehives   67                             67
+2418 beehives   68                             68
+2419 beehives   70                             70
+2420 beehives   72                             72
+2421 beehives   74                             74
+2422 beehives   76                             76
+2423 beehives   77                             77
+2424 beehives   79                             79
+2425 beehives   80                             80
+2426 beehives   85                             85
+2427 beehives   86                             86
+2428 beehives   90                             90
+2429 beehives   95                             95
+2430 beehives   97                             97
+2431 beehives  100                           100+
+2432  othanim    0                              0
+2433  othanim    1                              1
+2434  othanim    2                              2
+2435  othanim    3                              3
+2436  othanim    4                              4
+2437  othanim    5                              5
+2438  othanim    6                              6
+2439  othanim    7                              7
+2440  othanim    8                              8
+2441  othanim    9                              9
+2442  othanim   10                             10
+2443  othanim   11                             11
+2444  othanim   12                             12
+2445  othanim   13                             13
+2446  othanim   14                             14
+2447  othanim   15                             15
+2448  othanim   16                             16
+2449  othanim   17                             17
+2450  othanim   18                             18
+2451  othanim   19                             19
+2452  othanim   20                            20+
+2453  dwunits    1                              1
+2454  dwunits    2                              2
+2455  dwunits    3                              3
+2456  dwunits    4                              4
+2457  dwunits    5                              5
+2458  dwunits    6                              6
+2459  dwunits    7                              7
+2460  dwunits    8                              8
+2461  dwunits    9                              9
+2462  dwunits   10                             10
+2463  dwunits   11                             11
+2464  dwunits   12                             12
+2465  dwunits   13                             13
+2466  dwunits   14                             14
+2467  dwunits   15                             15
+2468  dwunits   16                             16
+2469  dwunits   17                             17
+2470  dwunits   18                             18
+2471  dwunits   19                             19
+2472  dwunits   20                            20+
+2473  dwunits   99                            NIU
+2474    rooms    1                              1
+2475    rooms    2                              2
+2476    rooms    3                              3
+2477    rooms    4                              4
+2478    rooms    5                              5
+2479    rooms    6                              6
+2480    rooms    7                              7
+2481    rooms    8                              8
+2482    rooms    9                              9
+2483    rooms   10                             10
+2484    rooms   11                             11
+2485    rooms   12                             12
+2486    rooms   13                             13
+2487    rooms   14                             14
+2488    rooms   15                             15
+2489    rooms   16                             16
+2490    rooms   17                             17
+2491    rooms   18                             18
+2492    rooms   19                             19
+2493    rooms   20                            20+
+2494    rooms   99                            NIU
+2495   tenure    1                      Purchased
+2496   tenure    2                    Constructed
+2497   tenure    3                      Inherited
+2498   tenure    4     Provided by the government
+2499   tenure    5 Provided by the local authorit
+2500   tenure    6                     Parastatal
+2501   tenure    7  Provided by a private company
+2502   tenure    8                     Individual
+2503   tenure    9 Provided by a faith-based orga
+2504   tenure   10           Other form of tenure
+2505   tenure   99                            NIU
+2506     roof    1         Corrugated iron sheets
+2507     roof    2                          Tiles
+2508     roof    3                       Concrete
+2509     roof    4                Asbestos sheets
+2510     roof    5                          Grass
+2511     roof    6                         Makuti
+2512     roof    7                            Tin
+2513     roof    8                       Mud/dung
+2514     roof    9                          Other
+2515     roof   98                        Unknown
+2516     roof   99                            NIU
+2517    walls    1                          Stone
+2518    walls    2                    Brick/block
+2519    walls    3                       Mud/wood
+2520    walls    4                     Mud/cement
+2521    walls    5                      Wood only
+2522    walls    6         Corrugated iron sheets
+2523    walls    7                    Grass/reeds
+2524    walls    8                            Tin
+2525    walls    9                          Other
+2526    walls   98                        Unknown
+2527    walls   99                            NIU
+2528    floor    1                         Cement
+2529    floor    2                          Tiles
+2530    floor    3                           Wood
+2531    floor    4                          Earth
+2532    floor    5                          Other
+2533    floor    8                        Unknown
+2534    floor    9                            NIU
+2535   watsrc    1                           Pond
+2536   watsrc    2                            Dam
+2537   watsrc    3                           Lake
+2538   watsrc    4                   Stream/river
+2539   watsrc    5               Protected spring
+2540   watsrc    6             Unprotected spring
+2541   watsrc    7                 Protected well
+2542   watsrc    8               Unprotected well
+2543   watsrc    9                       Borehole
+2544   watsrc   10            Piped into dwelling
+2545   watsrc   11                          Piped
+2546   watsrc   12                          Jabia
+2547   watsrc   13                 Rain/harvested
+2548   watsrc   14                   Water vendor
+2549   watsrc   15                          Other
+2550   watsrc   99                            NIU
+2551    sewer    1                     Main sewer
+2552    sewer    2                    Septic tank
+2553    sewer    3                       Cesspool
+2554    sewer    4                VIP pit latrine
+2555    sewer    5            Pit latrine covered
+2556    sewer    6          Pit latrine uncovered
+2557    sewer    7                 Bucket latrine
+2558    sewer    8                           Bush
+2559    sewer    9                          Other
+2560    sewer   99                            NIU
+2561   fuelck    1                    Electricity
+2562   fuelck    2                       Paraffin
+2563   fuelck    3                            LPG
+2564   fuelck    4                         Biogas
+2565   fuelck    5                       Firewood
+2566   fuelck    6                       Charcoal
+2567   fuelck    7                          Solar
+2568   fuelck    8                          Other
+2569   fuelck    9                            NIU
+2570    light    1                    Electricity
+2571    light    2                  Pressure lamp
+2572    light    3                        Lantern
+2573    light    4                       Tin lamp
+2574    light    5                       Gas lamp
+2575    light    6                      Fuel wood
+2576    light    7                          Solar
+2577    light    8                          Other
+2578    light    9                            NIU
+2579    radio    1                            Yes
+2580    radio    2                             No
+2581    radio    9                            NIU
+2582       tv    1                            Yes
+2583       tv    2                             No
+2584       tv    9                            NIU
+2585 cellphon    1                            Yes
+2586 cellphon    2                             No
+2587 cellphon    9                            NIU
+2588    phone    1                            Yes
+2589    phone    2                             No
+2590    phone    9                            NIU
+2591  computr    1                            Yes
+2592  computr    2                             No
+2593  computr    9                            NIU
+2594     bike    1                            Yes
+2595     bike    2                             No
+2596     bike    9                            NIU
+2597 motorcyc    1                            Yes
+2598 motorcyc    2                             No
+2599 motorcyc    9                            NIU
+2600     auto    1                            Yes
+2601     auto    2                             No
+2602     auto    9                            NIU
+2603    truck    1                            Yes
+2604    truck    2                             No
+2605    truck    9                            NIU
+2606   fridge    1                            Yes
+2607   fridge    2                             No
+2608   fridge    9                            NIU
+2609     boat    1                            Yes
+2610     boat    2                             No
+2611     boat    9                            NIU
+2612     cart    1                            Yes
+2613     cart    2                             No
+2614     cart    9                            NIU
+2615    canoe    1                            Yes
+2616    canoe    2                             No
+2617    canoe    9                            NIU
+2618   tuktuk    1                            Yes
+2619   tuktuk    2                             No
+2620   tuktuk    9                            NIU
+2621 emig15yr    0                              0
+2622 emig15yr    1                              1
+2623 emig15yr    2                              2
+2624 emig15yr    3                              3
+2625 emig15yr    4                              4
+2626 emig15yr    5                              5
+2627 emig15yr    6                              6
+2628 emig15yr    7                              7
+2629 emig15yr    8                              8
+2630 emig15yr    9                              9
+2631 emig15yr   10                            10+
+2632 emig15yr   99                            NIU
+2633   pernum    0               Household record
+2634   pernum    1                              1
+2635   pernum    2                              2
+2636   pernum    3                              3
+2637   pernum    4                              4
+2638   pernum    5                              5
+2639   pernum    6                              6
+2640   pernum    7                              7
+2641   pernum    8                              8
+2642   pernum    9                              9
+2643   pernum   10                             10
+2644   pernum   11                             11
+2645   pernum   12                             12
+2646   pernum   13                             13
+2647   pernum   14                             14
+2648   pernum   15                             15
+2649   pernum   16                             16
+2650   pernum   17                             17
+2651   pernum   18                             18
+2652   pernum   19                             19
+2653   pernum   20                             20
+2654   pernum   21                             21
+2655   pernum   22                             22
+2656   pernum   23                             23
+2657   pernum   24                             24
+2658   pernum   25                             25
+2659   pernum   26                             26
+2660   pernum   27                             27
+2661   pernum   28                             28
+2662   pernum   29                             29
+2663   pernum   30                             30
+2664   pernum   31                             31
+2665   pernum   32                             32
+2666   pernum   33                             33
+2667   pernum   34                             34
+2668   pernum   35                             35
+2669   pernum   36                             36
+2670   pernum   37                             37
+2671   pernum   38                             38
+2672   pernum   39                             39
+2673   pernum   40                             40
+2674   pernum   41                             41
+2675   pernum   42                             42
+2676   pernum   43                             43
+2677   pernum   44                             44
+2678   pernum   45                             45
+2679   pernum   46                             46
+2680   pernum   47                             47
+2681   pernum   48                             48
+2682   pernum   49                             49
+2683   pernum   50                             50
+2684   relate    1                           Head
+2685   relate    2                         Spouse
+2686   relate    3                   Son/daughter
+2687   relate    4                     Grandchild
+2688   relate    5                 Brother/sister
+2689   relate    6                  Father/mother
+2690   relate    7                   Nephew/niece
+2691   relate    8                         In-law
+2692   relate    9                    Grandparent
+2693   relate   10                 Other relative
+2694   relate   11                      Unrelated
+2695   relate   99                            NIU
+2696      sex    1                           Male
+2697      sex    2                         Female
+2698      age    0               Less than 1 year
+2699      age    1                              1
+2700      age    2                              2
+2701      age    3                              3
+2702      age    4                              4
+2703      age    5                              5
+2704      age    6                              6
+2705      age    7                              7
+2706      age    8                              8
+2707      age    9                              9
+2708      age   10                             10
+2709      age   11                             11
+2710      age   12                             12
+2711      age   13                             13
+2712      age   14                             14
+2713      age   15                             15
+2714      age   16                             16
+2715      age   17                             17
+2716      age   18                             18
+2717      age   19                             19
+2718      age   20                             20
+2719      age   21                             21
+2720      age   22                             22
+2721      age   23                             23
+2722      age   24                             24
+2723      age   25                             25
+2724      age   26                             26
+2725      age   27                             27
+2726      age   28                             28
+2727      age   29                             29
+2728      age   30                             30
+2729      age   31                             31
+2730      age   32                             32
+2731      age   33                             33
+2732      age   34                             34
+2733      age   35                             35
+2734      age   36                             36
+2735      age   37                             37
+2736      age   38                             38
+2737      age   39                             39
+2738      age   40                             40
+2739      age   41                             41
+2740      age   42                             42
+2741      age   43                             43
+2742      age   44                             44
+2743      age   45                             45
+2744      age   46                             46
+2745      age   47                             47
+2746      age   48                             48
+2747      age   49                             49
+2748      age   50                             50
+2749      age   51                             51
+2750      age   52                             52
+2751      age   53                             53
+2752      age   54                             54
+2753      age   55                             55
+2754      age   56                             56
+2755      age   57                             57
+2756      age   58                             58
+2757      age   59                             59
+2758      age   60                             60
+2759      age   61                             61
+2760      age   62                             62
+2761      age   63                             63
+2762      age   64                             64
+2763      age   65                             65
+2764      age   66                             66
+2765      age   67                             67
+2766      age   68                             68
+2767      age   69                             69
+2768      age   70                             70
+2769      age   71                             71
+2770      age   72                             72
+2771      age   73                             73
+2772      age   74                             74
+2773      age   75                             75
+2774      age   76                             76
+2775      age   77                             77
+2776      age   78                             78
+2777      age   79                             79
+2778      age   80                             80
+2779      age   81                             81
+2780      age   82                             82
+2781      age   83                             83
+2782      age   84                             84
+2783      age   85                             85
+2784      age   86                             86
+2785      age   87                             87
+2786      age   88                             88
+2787      age   89                             89
+2788      age   90                             90
+2789      age   91                             91
+2790      age   92                             92
+2791      age   93                             93
+2792      age   94                             94
+2793      age   95          95 years old and over
+2794   momloc    0                              0
+2795   momloc    1                              1
+2796   momloc    2                              2
+2797   momloc    3                              3
+2798   momloc    4                              4
+2799   momloc    5                              5
+2800   momloc    6                              6
+2801   momloc    7                              7
+2802   momloc    8                              8
+2803   momloc    9                              9
+2804   momloc   10                             10
+2805   momloc   11                             11
+2806   momloc   12                             12
+2807   momloc   13                             13
+2808   momloc   14                             14
+2809   momloc   15                             15
+2810   momloc   16                             16
+2811   momloc   17                             17
+2812   momloc   18                             18
+2813   momloc   19                             19
+2814   momloc   20                             20
+2815   momloc   21                             21
+2816   momloc   22                             22
+2817   momloc   23                             23
+2818   momloc   24                             24
+2819   momloc   25                             25
+2820   momloc   26                             26
+2821   momloc   27                             27
+2822   momloc   28                             28
+2823   momloc   29                             29
+2824   momloc   30                             30
+2825   momloc   31                             31
+2826   momloc   33                             33
+2827   momloc   34                             34
+2828   momloc   35                             35
+2829   momloc   38                             38
+2830   momloc   47                             47
+2831   momloc   49                             49
+2832   momloc   99                            NIU
+2833 memberhh    1                            Yes
+2834 memberhh    2                             No
+2835 memberhh    9                            NIU
+2836    marst    1                  Never married
+2837    marst    2             Married monogamous
+2838    marst    3             Married polygamous
+2839    marst    4                        Widowed
+2840    marst    5                       Divorced
+2841    marst    6                      Separated
+2842  prevres   31                          Congo
+2843  prevres   33 Democratic Republic of the Con
+2844  prevres   36                          Egypt
+2845  prevres   39                       Ethiopia
+2846  prevres   56                        Nigeria
+2847  prevres   57                         Rwanda
+2848  prevres   62                        Somalia
+2849  prevres   63                   South Africa
+2850  prevres   64                          Sudan
+2851  prevres   68                         Uganda
+2852  prevres   69    United Republic of Tanzania
+2853  prevres   71                       Zimbabwe
+2854  prevres   90          Other African country
+2855  prevres  101                   Nairobi West
+2856  prevres  102                   Nairobi East
+2857  prevres  103                  Nairobi North
+2858  prevres  104                      Westlands
+2859  prevres  201                Nyandarua North
+2860  prevres  202                Nyandarua South
+2861  prevres  203                    Nyeri North
+2862  prevres  204                    Nyeri South
+2863  prevres  205                      Kirinyaga
+2864  prevres  206                 Murang'a North
+2865  prevres  207                 Murang'a South
+2866  prevres  208                         Kiambu
+2867  prevres  209                         Kikuyu
+2868  prevres  210                         Limuru
+2869  prevres  211                           Lari
+2870  prevres  212                     Githunguri
+2871  prevres  213                     Thika East
+2872  prevres  214                     Thika West
+2873  prevres  215                          Ruiru
+2874  prevres  216                        Gatanga
+2875  prevres  217                        Gatundu
+2876  prevres  301                        Mombasa
+2877  prevres  302                      Kilindini
+2878  prevres  303                          Kwale
+2879  prevres  304                        Kinango
+2880  prevres  305                      Msambweni
+2881  prevres  306                         Kilifi
+2882  prevres  307                       Kaloleni
+2883  prevres  308                        Malindi
+2884  prevres  309                     Tana river
+2885  prevres  310                     Tana delta
+2886  prevres  311                           Lamu
+2887  prevres  312                          Taita
+2888  prevres  313                         Taveta
+2889  prevres  401                       Marsabit
+2890  prevres  402                         Chalbi
+2891  prevres  403                       Laisamis
+2892  prevres  404                         Moyale
+2893  prevres  405                         Isiolo
+2894  prevres  406                    Garba Tulla
+2895  prevres  407                 Imenti Central
+2896  prevres  408                   Imenti North
+2897  prevres  409                   Imenti South
+2898  prevres  410                     Meru South
+2899  prevres  411                          Maara
+2900  prevres  412                         Igembe
+2901  prevres  413                        Tigania
+2902  prevres  414                        Tharaka
+2903  prevres  415                           Embu
+2904  prevres  416                         Mbeere
+2905  prevres  417                    Kitui North
+2906  prevres  418                    Kitui South
+2907  prevres  419                         Mwingi
+2908  prevres  420                          Kyuso
+2909  prevres  421                       Machakos
+2910  prevres  422                          Mwala
+2911  prevres  423                          Yatta
+2912  prevres  424                       Kangundo
+2913  prevres  425                        Makueni
+2914  prevres  426                         Mbooni
+2915  prevres  427                        Kibwezi
+2916  prevres  428                          Nzaui
+2917  prevres  501                         Garisa
+2918  prevres  502                        Lagdera
+2919  prevres  503                           Fafi
+2920  prevres  504                          Ijara
+2921  prevres  505                    Wajir South
+2922  prevres  506                    Wajir North
+2923  prevres  507                     Wajir East
+2924  prevres  508                     Wajir West
+2925  prevres  509                Mandera Central
+2926  prevres  510                   Mandera East
+2927  prevres  511                   Mandera West
+2928  prevres  601                          Siaya
+2929  prevres  602                          Bondo
+2930  prevres  603                        Rarieda
+2931  prevres  604                    Kisumu East
+2932  prevres  605                    Kisumu West
+2933  prevres  606                         Nyando
+2934  prevres  607                       Homa Bay
+2935  prevres  608                           Suba
+2936  prevres  609                      Rachuonyo
+2937  prevres  610                         Migori
+2938  prevres  611                          Rongo
+2939  prevres  612                     Kuria West
+2940  prevres  613                     Kuria East
+2941  prevres  614                  Kisii Central
+2942  prevres  615                    Kisii South
+2943  prevres  616                         Masaba
+2944  prevres  617                          Gucha
+2945  prevres  618                    Gucha South
+2946  prevres  619                        Nyamira
+2947  prevres  620                          Manga
+2948  prevres  621                         Borabu
+2949  prevres  701                Turkana Central
+2950  prevres  702                  Turkana North
+2951  prevres  703                  Turkana South
+2952  prevres  704                     West Pokot
+2953  prevres  705                    Pokot North
+2954  prevres  706                  Pokot Central
+2955  prevres  707                Samburu Central
+2956  prevres  708                   Samburu East
+2957  prevres  709                  Samburu North
+2958  prevres  710               Trans Nzoia West
+2959  prevres  711               Trans Nzoia East
+2960  prevres  712                         Kwanza
+2961  prevres  713                        Baringo
+2962  prevres  714                  Baringo North
+2963  prevres  715                     East Pokot
+2964  prevres  716                       Koibatek
+2965  prevres  717                   Eldoret West
+2966  prevres  718                   Eldoret East
+2967  prevres  719                         Wareng
+2968  prevres  720                       Marakwet
+2969  prevres  721                          Keiyo
+2970  prevres  722                    Nandi North
+2971  prevres  723                  Nandi Central
+2972  prevres  724                     Nandi East
+2973  prevres  725                    Nandi South
+2974  prevres  726                       Tinderet
+2975  prevres  727                 Laikipia North
+2976  prevres  728                  Laikipia East
+2977  prevres  729                  Laikipia West
+2978  prevres  730                         Nakuru
+2979  prevres  731                   Nakuru North
+2980  prevres  732                       Naivasha
+2981  prevres  733                           Molo
+2982  prevres  734                    Narok North
+2983  prevres  735                    Narok South
+2984  prevres  736                     Trans Mara
+2985  prevres  737                Kajiado Central
+2986  prevres  738                      Loitoktok
+2987  prevres  739                        Kericho
+2988  prevres  740                      Kipkelion
+2989  prevres  741                          Buret
+2990  prevres  742                          Sotik
+2991  prevres  743                          Bomet
+2992  prevres  744                  Kajiado North
+2993  prevres  801               Kakamega Central
+2994  prevres  802                 Kakamega South
+2995  prevres  803                 Kakamega North
+2996  prevres  804                  Kakamega East
+2997  prevres  805                         Lugari
+2998  prevres  806                         Vihiga
+2999  prevres  807                        Emuhaya
+3000  prevres  808                         Hamisi
+3001  prevres  809                         Mumias
+3002  prevres  810                         Butere
+3003  prevres  811                  Bungoma South
+3004  prevres  812                  Bungoma North
+3005  prevres  813                   Bungoma East
+3006  prevres  814                   Bungoma West
+3007  prevres  815                       Mt Elgon
+3008  prevres  816                          Busia
+3009  prevres  817                     Teso North
+3010  prevres  818                          Samia
+3011  prevres  819                        Bunyala
+3012  prevres  820                     Teso South
+3013  prevres  858                          China
+3014  prevres  860                          India
+3015  prevres  891           United Arab Emirates
+3016  prevres  911                        Germany
+3017  prevres  916                          Italy
+3018  prevres  948 United Kingdom of Great Britai
+3019  prevres  954                         Canada
+3020  prevres  970       United States of America
+3021  prevres  995      Other non-African country
+3022  prevres  999                            NIU
+3023 resdurmo    1                        January
+3024 resdurmo    2                       February
+3025 resdurmo    3                          March
+3026 resdurmo    4                          April
+3027 resdurmo    5                            May
+3028 resdurmo    6                           June
+3029 resdurmo    7                           July
+3030 resdurmo    8                         August
+3031 resdurmo    9                      September
+3032 resdurmo   10                        October
+3033 resdurmo   11                       November
+3034 resdurmo   12                       December
+3035 resduryr 1913                           1913
+3036 resduryr 1914                           1914
+3037 resduryr 1915                           1915
+3038 resduryr 1916                           1916
+3039 resduryr 1917                           1917
+3040 resduryr 1918                           1918
+3041 resduryr 1919                           1919
+3042 resduryr 1920                           1920
+3043 resduryr 1921                           1921
+3044 resduryr 1922                           1922
+3045 resduryr 1923                           1923
+3046 resduryr 1924                           1924
+3047 resduryr 1925                           1925
+3048 resduryr 1926                           1926
+3049 resduryr 1927                           1927
+3050 resduryr 1928                           1928
+3051 resduryr 1929                           1929
+3052 resduryr 1930                           1930
+3053 resduryr 1931                           1931
+3054 resduryr 1932                           1932
+3055 resduryr 1933                           1933
+3056 resduryr 1934                           1934
+3057 resduryr 1935                           1935
+3058 resduryr 1936                           1936
+3059 resduryr 1937                           1937
+3060 resduryr 1938                           1938
+3061 resduryr 1939                           1939
+3062 resduryr 1940                           1940
+3063 resduryr 1941                           1941
+3064 resduryr 1942                           1942
+3065 resduryr 1943                           1943
+3066 resduryr 1944                           1944
+3067 resduryr 1945                           1945
+3068 resduryr 1946                           1946
+3069 resduryr 1947                           1947
+3070 resduryr 1948                           1948
+3071 resduryr 1949                           1949
+3072 resduryr 1950                           1950
+3073 resduryr 1951                           1951
+3074 resduryr 1952                           1952
+3075 resduryr 1953                           1953
+3076 resduryr 1954                           1954
+3077 resduryr 1955                           1955
+3078 resduryr 1956                           1956
+3079 resduryr 1957                           1957
+3080 resduryr 1958                           1958
+3081 resduryr 1959                           1959
+3082 resduryr 1960                           1960
+3083 resduryr 1961                           1961
+3084 resduryr 1962                           1962
+3085 resduryr 1963                           1963
+3086 resduryr 1964                           1964
+3087 resduryr 1965                           1965
+3088 resduryr 1966                           1966
+3089 resduryr 1967                           1967
+3090 resduryr 1968                           1968
+3091 resduryr 1969                           1969
+3092 resduryr 1970                           1970
+3093 resduryr 1971                           1971
+3094 resduryr 1972                           1972
+3095 resduryr 1973                           1973
+3096 resduryr 1974                           1974
+3097 resduryr 1975                           1975
+3098 resduryr 1976                           1976
+3099 resduryr 1977                           1977
+3100 resduryr 1978                           1978
+3101 resduryr 1979                           1979
+3102 resduryr 1980                           1980
+3103 resduryr 1981                           1981
+3104 resduryr 1982                           1982
+3105 resduryr 1983                           1983
+3106 resduryr 1984                           1984
+3107 resduryr 1985                           1985
+3108 resduryr 1986                           1986
+3109 resduryr 1987                           1987
+3110 resduryr 1988                           1988
+3111 resduryr 1989                           1989
+3112 resduryr 1990                           1990
+3113 resduryr 1991                           1991
+3114 resduryr 1992                           1992
+3115 resduryr 1993                           1993
+3116 resduryr 1994                           1994
+3117 resduryr 1995                           1995
+3118 resduryr 1996                           1996
+3119 resduryr 1997                           1997
+3120 resduryr 1998                           1998
+3121 resduryr 1999                           1999
+3122 resduryr 2000                           2000
+3123 resduryr 2001                           2001
+3124 resduryr 2002                           2002
+3125 resduryr 2003                           2003
+3126 resduryr 2004                           2004
+3127 resduryr 2005                           2005
+3128 resduryr 2006                           2006
+3129 resduryr 2007                           2007
+3130 resduryr 2008                           2008
+3131 resduryr 2009                           2009
+3132 mortfath    1                            Yes
+3133 mortfath    2                             No
+3134 mortfath    8                        Unknown
+3135 mortmoth    1                            Yes
+3136 mortmoth    2                             No
+3137 mortmoth    8                        Unknown
+3138  chbornm    0                              0
+3139  chbornm    1                              1
+3140  chbornm    2                              2
+3141  chbornm    3                              3
+3142  chbornm    4                              4
+3143  chbornm    5                              5
+3144  chbornm    6                              6
+3145  chbornm    7                              7
+3146  chbornm    8                              8
+3147  chbornm    9                              9
+3148  chbornm   10                             10
+3149  chbornm   11                             11
+3150  chbornm   12                             12
+3151  chbornm   13                             13
+3152  chbornm   14                             14
+3153  chbornm   15                            15+
+3154  chbornm   99                            NIU
+3155  chbornf    0                              0
+3156  chbornf    1                              1
+3157  chbornf    2                              2
+3158  chbornf    3                              3
+3159  chbornf    4                              4
+3160  chbornf    5                              5
+3161  chbornf    6                              6
+3162  chbornf    7                              7
+3163  chbornf    8                              8
+3164  chbornf    9                              9
+3165  chbornf   10                             10
+3166  chbornf   11                             11
+3167  chbornf   12                             12
+3168  chbornf   13                             13
+3169  chbornf   14                             14
+3170  chbornf   15                            15+
+3171  chbornf   99                            NIU
+3172  homechm    0                              0
+3173  homechm    1                              1
+3174  homechm    2                              2
+3175  homechm    3                              3
+3176  homechm    4                              4
+3177  homechm    5                              5
+3178  homechm    6                              6
+3179  homechm    7                              7
+3180  homechm    8                              8
+3181  homechm    9                              9
+3182  homechm   10                            10+
+3183  homechm   99                            NIU
+3184  homechf    0                              0
+3185  homechf    1                              1
+3186  homechf    2                              2
+3187  homechf    3                              3
+3188  homechf    4                              4
+3189  homechf    5                              5
+3190  homechf    6                              6
+3191  homechf    7                              7
+3192  homechf    8                              8
+3193  homechf    9                              9
+3194  homechf   10                            10+
+3195  homechf   99                            NIU
+3196  chawaym    0                              0
+3197  chawaym    1                              1
+3198  chawaym    2                              2
+3199  chawaym    3                              3
+3200  chawaym    4                              4
+3201  chawaym    5                              5
+3202  chawaym    6                              6
+3203  chawaym    7                              7
+3204  chawaym    8                              8
+3205  chawaym    9                              9
+3206  chawaym   10                             10
+3207  chawaym   11                            11+
+3208  chawaym   99                            NIU
+3209  chawayf    0                              0
+3210  chawayf    1                              1
+3211  chawayf    2                              2
+3212  chawayf    3                              3
+3213  chawayf    4                              4
+3214  chawayf    5                              5
+3215  chawayf    6                              6
+3216  chawayf    7                              7
+3217  chawayf    8                              8
+3218  chawayf    9                              9
+3219  chawayf   10                             10
+3220  chawayf   11                            11+
+3221  chawayf   99                            NIU
+3222  chdeadm    0                              0
+3223  chdeadm    1                              1
+3224  chdeadm    2                              2
+3225  chdeadm    3                              3
+3226  chdeadm    4                              4
+3227  chdeadm    5                              5
+3228  chdeadm    6                              6
+3229  chdeadm    7                              7
+3230  chdeadm    8                              8
+3231  chdeadm    9                              9
+3232  chdeadm   10                             10
+3233  chdeadm   11                            11+
+3234  chdeadm   99                            NIU
+3235  chdeadf    0                              0
+3236  chdeadf    1                              1
+3237  chdeadf    2                              2
+3238  chdeadf    3                              3
+3239  chdeadf    4                              4
+3240  chdeadf    5                              5
+3241  chdeadf    6                              6
+3242  chdeadf    7                              7
+3243  chdeadf    8                              8
+3244  chdeadf    9                              9
+3245  chdeadf   10                             10
+3246  chdeadf   11                            11+
+3247  chdeadf   99                            NIU
+3248   lbchmo    1                        January
+3249   lbchmo    2                       February
+3250   lbchmo    3                          March
+3251   lbchmo    4                          April
+3252   lbchmo    5                            May
+3253   lbchmo    6                           June
+3254   lbchmo    7                           July
+3255   lbchmo    8                         August
+3256   lbchmo    9                      September
+3257   lbchmo   10                        October
+3258   lbchmo   11                       November
+3259   lbchmo   12                       December
+3260   lbchmo   98                        Unknown
+3261   lbchmo   99                            NIU
+3262   lbchyr 1934                1934 or earlier
+3263   lbchyr 1935                           1935
+3264   lbchyr 1936                           1936
+3265   lbchyr 1937                           1937
+3266   lbchyr 1938                           1938
+3267   lbchyr 1939                           1939
+3268   lbchyr 1940                           1940
+3269   lbchyr 1941                           1941
+3270   lbchyr 1942                           1942
+3271   lbchyr 1943                           1943
+3272   lbchyr 1944                           1944
+3273   lbchyr 1945                           1945
+3274   lbchyr 1946                           1946
+3275   lbchyr 1947                           1947
+3276   lbchyr 1948                           1948
+3277   lbchyr 1949                           1949
+3278   lbchyr 1950                           1950
+3279   lbchyr 1951                           1951
+3280   lbchyr 1952                           1952
+3281   lbchyr 1953                           1953
+3282   lbchyr 1954                           1954
+3283   lbchyr 1955                           1955
+3284   lbchyr 1956                           1956
+3285   lbchyr 1957                           1957
+3286   lbchyr 1958                           1958
+3287   lbchyr 1959                           1959
+3288   lbchyr 1960                           1960
+3289   lbchyr 1961                           1961
+3290   lbchyr 1962                           1962
+3291   lbchyr 1963                           1963
+3292   lbchyr 1964                           1964
+3293   lbchyr 1965                           1965
+3294   lbchyr 1966                           1966
+3295   lbchyr 1967                           1967
+3296   lbchyr 1968                           1968
+3297   lbchyr 1969                           1969
+3298   lbchyr 1970                           1970
+3299   lbchyr 1971                           1971
+3300   lbchyr 1972                           1972
+3301   lbchyr 1973                           1973
+3302   lbchyr 1974                           1974
+3303   lbchyr 1975                           1975
+3304   lbchyr 1976                           1976
+3305   lbchyr 1977                           1977
+3306   lbchyr 1978                           1978
+3307   lbchyr 1979                           1979
+3308   lbchyr 1980                           1980
+3309   lbchyr 1981                           1981
+3310   lbchyr 1982                           1982
+3311   lbchyr 1983                           1983
+3312   lbchyr 1984                           1984
+3313   lbchyr 1985                           1985
+3314   lbchyr 1986                           1986
+3315   lbchyr 1987                           1987
+3316   lbchyr 1988                           1988
+3317   lbchyr 1989                           1989
+3318   lbchyr 1990                           1990
+3319   lbchyr 1991                           1991
+3320   lbchyr 1992                           1992
+3321   lbchyr 1993                           1993
+3322   lbchyr 1994                           1994
+3323   lbchyr 1995                           1995
+3324   lbchyr 1996                           1996
+3325   lbchyr 1997                           1997
+3326   lbchyr 1998                           1998
+3327   lbchyr 1999                           1999
+3328   lbchyr 2000                           2000
+3329   lbchyr 2001                           2001
+3330   lbchyr 2002                           2002
+3331   lbchyr 2003                           2003
+3332   lbchyr 2004                           2004
+3333   lbchyr 2005                           2005
+ [ reached getOption("max.print") -- omitted 281 rows ]

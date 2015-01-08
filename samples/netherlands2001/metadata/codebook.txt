@@ -1,0 +1,479 @@
+      vname code                          short
+1     cntry   32                      Argentina
+2     cntry   51                        Armenia
+3     cntry   40                        Austria
+4     cntry   50                     Bangladesh
+5     cntry  112                        Belarus
+6     cntry   68                        Bolivia
+7     cntry   76                         Brazil
+8     cntry  854                   Burkina Faso
+9     cntry  116                       Cambodia
+10    cntry  120                       Cameroon
+11    cntry  124                         Canada
+12    cntry  152                          Chile
+13    cntry  156                          China
+14    cntry  170                       Colombia
+15    cntry  188                     Costa Rica
+16    cntry  192                           Cuba
+17    cntry  214             Dominican Republic
+18    cntry  218                        Ecuador
+19    cntry  818                          Egypt
+20    cntry  222                    El Salvador
+21    cntry  242                           Fiji
+22    cntry  250                         France
+23    cntry  276                        Germany
+24    cntry  288                          Ghana
+25    cntry  300                         Greece
+26    cntry  324                         Guinea
+27    cntry  332                          Haiti
+28    cntry  348                        Hungary
+29    cntry  356                          India
+30    cntry  360                      Indonesia
+31    cntry  364                           Iran
+32    cntry  368                           Iraq
+33    cntry  372                        Ireland
+34    cntry  376                         Israel
+35    cntry  380                          Italy
+36    cntry  388                        Jamaica
+37    cntry  400                         Jordan
+38    cntry  404                          Kenya
+39    cntry  417                Kyrgyz Republic
+40    cntry  430                        Liberia
+41    cntry  454                         Malawi
+42    cntry  458                       Malaysia
+43    cntry  466                           Mali
+44    cntry  484                         Mexico
+45    cntry  496                       Mongolia
+46    cntry  504                        Morocco
+47    cntry  524                          Nepal
+48    cntry  528                    Netherlands
+49    cntry  558                      Nicaragua
+50    cntry  566                        Nigeria
+51    cntry  586                       Pakistan
+52    cntry  275                      Palestine
+53    cntry  591                         Panama
+54    cntry  604                           Peru
+55    cntry  608                    Philippines
+56    cntry  620                       Portugal
+57    cntry  630                    Puerto Rico
+58    cntry  642                        Romania
+59    cntry  646                         Rwanda
+60    cntry  662                    Saint Lucia
+61    cntry  686                        Senegal
+62    cntry  694                   Sierra Leone
+63    cntry  705                       Slovenia
+64    cntry  710                   South Africa
+65    cntry  728                    South Sudan
+66    cntry  724                          Spain
+67    cntry  729                          Sudan
+68    cntry  756                    Switzerland
+69    cntry  834                       Tanzania
+70    cntry  764                       Thailand
+71    cntry  792                         Turkey
+72    cntry  800                         Uganda
+73    cntry  804                        Ukraine
+74    cntry  826                 United Kingdom
+75    cntry  840                  United States
+76    cntry  858                        Uruguay
+77    cntry  862                      Venezuela
+78    cntry  704                        Vietnam
+79    cntry  894                         Zambia
+80     year 1960                           1960
+81     year 1962                           1962
+82     year 1963                           1963
+83     year 1964                           1964
+84     year 1966                           1966
+85     year 1968                           1968
+86     year 1969                           1969
+87     year 1970                           1970
+88     year 1971                           1971
+89     year 1972                           1972
+90     year 1973                           1973
+91     year 1974                           1974
+92     year 1975                           1975
+93     year 1976                           1976
+94     year 1977                           1977
+95     year 1979                           1979
+96     year 1980                           1980
+97     year 1981                           1981
+98     year 1982                           1982
+99     year 1983                           1983
+100    year 1984                           1984
+101    year 1985                           1985
+102    year 1986                           1986
+103    year 1987                           1987
+104    year 1989                           1989
+105    year 1990                           1990
+106    year 1991                           1991
+107    year 1992                           1992
+108    year 1993                           1993
+109    year 1994                           1994
+110    year 1995                           1995
+111    year 1996                           1996
+112    year 1997                           1997
+113    year 1998                           1998
+114    year 1999                           1999
+115    year 2000                           2000
+116    year 2001                           2001
+117    year 2002                           2002
+118    year 2003                           2003
+119    year 2004                           2004
+120    year 2005                           2005
+121    year 2006                           2006
+122    year 2007                           2007
+123    year 2008                           2008
+124    year 2009                           2009
+125    year 2010                           2010
+126    year 2011                           2011
+127  sample  321                 Argentina 1970
+128  sample  322                 Argentina 1980
+129  sample  323                 Argentina 1991
+130  sample  324                 Argentina 2001
+131  sample  325                 Argentina 2010
+132  sample  511                   Armenia 2001
+133  sample  401                   Austria 1971
+134  sample  402                   Austria 1981
+135  sample  403                   Austria 1991
+136  sample  404                   Austria 2001
+137  sample  501                Bangladesh 1991
+138  sample  502                Bangladesh 2001
+139  sample  503                Bangladesh 2011
+140  sample  681                   Bolivia 1976
+141  sample  682                   Bolivia 1992
+142  sample  683                   Bolivia 2001
+143  sample  761                    Brazil 1960
+144  sample  762                    Brazil 1970
+145  sample  763                    Brazil 1980
+146  sample  764                    Brazil 1991
+147  sample  765                    Brazil 2000
+148  sample  766                    Brazil 2010
+149  sample 1121                   Belarus 1999
+150  sample 8541              Burkina Faso 1985
+151  sample 8542              Burkina Faso 1996
+152  sample 8543              Burkina Faso 2006
+153  sample 1161                  Cambodia 1998
+154  sample 1162                  Cambodia 2008
+155  sample 1201                  Cameroon 1976
+156  sample 1202                  Cameroon 1987
+157  sample 1203                  Cameroon 2005
+158  sample 1241                    Canada 1971
+159  sample 1242                    Canada 1981
+160  sample 1243                    Canada 1991
+161  sample 1244                    Canada 2001
+162  sample 1521                     Chile 1960
+163  sample 1522                     Chile 1970
+164  sample 1523                     Chile 1982
+165  sample 1524                     Chile 1992
+166  sample 1525                     Chile 2002
+167  sample 1561                     China 1982
+168  sample 1562                     China 1990
+169  sample 1701                  Colombia 1964
+170  sample 1702                  Colombia 1973
+171  sample 1703                  Colombia 1985
+172  sample 1704                  Colombia 1993
+173  sample 1705                  Colombia 2005
+174  sample 1881                Costa Rica 1963
+175  sample 1882                Costa Rica 1973
+176  sample 1883                Costa Rica 1984
+177  sample 1884                Costa Rica 2000
+178  sample 1921                      Cuba 2002
+179  sample 2141        Dominican Republic 1960
+180  sample 2142        Dominican Republic 1970
+181  sample 2143        Dominican Republic 1981
+182  sample 2144        Dominican Republic 2002
+183  sample 2145        Dominican Republic 2010
+184  sample 2181                   Ecuador 1962
+185  sample 2182                   Ecuador 1974
+186  sample 2183                   Ecuador 1982
+187  sample 2184                   Ecuador 1990
+188  sample 2185                   Ecuador 2001
+189  sample 2186                   Ecuador 2010
+190  sample 8181                     Egypt 1996
+191  sample 8182                     Egypt 2006
+192  sample 2221               El Salvador 1992
+193  sample 2222               El Salvador 2007
+194  sample 2421                      Fiji 1966
+195  sample 2422                      Fiji 1976
+196  sample 2423                      Fiji 1986
+197  sample 2424                      Fiji 1996
+198  sample 2425                      Fiji 2007
+199  sample 2501                    France 1962
+200  sample 2502                    France 1968
+201  sample 2503                    France 1975
+202  sample 2504                    France 1982
+203  sample 2505                    France 1990
+204  sample 2506                    France 1999
+205  sample 2507                    France 2006
+206  sample 2761            Germany 1970 (West)
+207  sample 2762            Germany 1971 (East)
+208  sample 2763            Germany 1981 (East)
+209  sample 2764            Germany 1987 (West)
+210  sample 2881                     Ghana 2000
+211  sample 2882                     Ghana 2010
+212  sample 3001                    Greece 1971
+213  sample 3002                    Greece 1981
+214  sample 3003                    Greece 1991
+215  sample 3004                    Greece 2001
+216  sample 3241                    Guinea 1983
+217  sample 3242                    Guinea 1996
+218  sample 3321                     Haiti 1971
+219  sample 3322                     Haiti 1982
+220  sample 3323                     Haiti 2003
+221  sample 3481                   Hungary 1970
+222  sample 3482                   Hungary 1980
+223  sample 3483                   Hungary 1990
+224  sample 3484                   Hungary 2001
+225  sample 3561                     India 1983
+226  sample 3562                     India 1987
+227  sample 3563                     India 1993
+228  sample 3564                     India 1999
+229  sample 3565                     India 2004
+230  sample 3601                 Indonesia 1971
+231  sample 3602                 Indonesia 1976
+232  sample 3603                 Indonesia 1980
+233  sample 3604                 Indonesia 1985
+234  sample 3605                 Indonesia 1990
+235  sample 3606                 Indonesia 1995
+236  sample 3607                 Indonesia 2000
+237  sample 3608                 Indonesia 2005
+238  sample 3609                 Indonesia 2010
+239  sample 3641                      Iran 2006
+240  sample 3681                      Iraq 1997
+241  sample 3721                   Ireland 1971
+242  sample 3722                   Ireland 1979
+243  sample 3723                   Ireland 1981
+244  sample 3724                   Ireland 1986
+245  sample 3725                   Ireland 1991
+246  sample 3726                   Ireland 1996
+247  sample 3727                   Ireland 2002
+248  sample 3728                   Ireland 2006
+249  sample 3729                   Ireland 2011
+250  sample 3761                    Israel 1972
+251  sample 3762                    Israel 1983
+252  sample 3763                    Israel 1995
+253  sample 3801                     Italy 2001
+254  sample 3881                   Jamaica 1982
+255  sample 3882                   Jamaica 1991
+256  sample 3883                   Jamaica 2001
+257  sample 4001                    Jordan 2004
+258  sample 4041                     Kenya 1969
+259  sample 4042                     Kenya 1979
+260  sample 4043                     Kenya 1989
+261  sample 4044                     Kenya 1999
+262  sample 4045                     Kenya 2009
+263  sample 4171           Kyrgyz Republic 1999
+264  sample 4172           Kyrgyz Republic 2009
+265  sample 4301                   Liberia 1974
+266  sample 4302                   Liberia 2008
+267  sample 4541                    Malawi 1987
+268  sample 4542                    Malawi 1998
+269  sample 4543                    Malawi 2008
+270  sample 4581                  Malaysia 1970
+271  sample 4582                  Malaysia 1980
+272  sample 4583                  Malaysia 1991
+273  sample 4584                  Malaysia 2000
+274  sample 4661                      Mali 1987
+275  sample 4662                      Mali 1998
+276  sample 4663                      Mali 2009
+277  sample 4841                    Mexico 1960
+278  sample 4842                    Mexico 1970
+279  sample 4843                    Mexico 1990
+280  sample 4844                    Mexico 1995
+281  sample 4845                    Mexico 2000
+282  sample 4846                    Mexico 2005
+283  sample 4847                    Mexico 2010
+284  sample 4961                  Mongolia 1989
+285  sample 4962                  Mongolia 2000
+286  sample 5041                   Morocco 1982
+287  sample 5042                   Morocco 1994
+288  sample 5043                   Morocco 2004
+289  sample 5241                     Nepal 2001
+290  sample 5281               Netherlands 1960
+291  sample 5282               Netherlands 1971
+292  sample 5283               Netherlands 2001
+293  sample 5581                 Nicaragua 1971
+294  sample 5582                 Nicaragua 1995
+295  sample 5583                 Nicaragua 2005
+296  sample 5661                   Nigeria 2006
+297  sample 5662                   Nigeria 2007
+298  sample 5663                   Nigeria 2008
+299  sample 5664                   Nigeria 2009
+300  sample 5665                   Nigeria 2010
+301  sample 5861                  Pakistan 1973
+302  sample 5862                  Pakistan 1981
+303  sample 5863                  Pakistan 1998
+304  sample 2751                 Palestine 1997
+305  sample 2752                 Palestine 2007
+306  sample 5911                    Panama 1960
+307  sample 5912                    Panama 1970
+308  sample 5913                    Panama 1980
+309  sample 5914                    Panama 1990
+310  sample 5915                    Panama 2000
+311  sample 5916                    Panama 2010
+312  sample 6041                      Peru 1993
+313  sample 6042                      Peru 2007
+314  sample 6081               Philippines 1990
+315  sample 6082               Philippines 1995
+316  sample 6083               Philippines 2000
+317  sample 6201                  Portugal 1981
+318  sample 6202                  Portugal 1991
+319  sample 6203                  Portugal 2001
+320  sample 6301               Puerto Rico 1970
+321  sample 6302               Puerto Rico 1980
+322  sample 6303               Puerto Rico 1990
+323  sample 6304               Puerto Rico 2000
+324  sample 6305               Puerto Rico 2005
+325  sample 6421                   Romania 1977
+326  sample 6422                   Romania 1992
+327  sample 6423                   Romania 2002
+328  sample 6461                    Rwanda 1991
+329  sample 6462                    Rwanda 2002
+330  sample 6621               Saint Lucia 1980
+331  sample 6622               Saint Lucia 1991
+332  sample 6861                   Senegal 1988
+333  sample 6862                   Senegal 2002
+334  sample 6941              Sierra Leone 2004
+335  sample 7051                  Slovenia 2002
+336  sample 7101              South Africa 1996
+337  sample 7102              South Africa 2001
+338  sample 7103              South Africa 2007
+339  sample 7241                     Spain 1981
+340  sample 7242                     Spain 1991
+341  sample 7243                     Spain 2001
+342  sample 7281               South Sudan 2008
+343  sample 7291                     Sudan 2008
+344  sample 7561               Switzerland 1970
+345  sample 7562               Switzerland 1980
+346  sample 7563               Switzerland 1990
+347  sample 7564               Switzerland 2000
+348  sample 8341                  Tanzania 1988
+349  sample 8342                  Tanzania 2002
+350  sample 7641                  Thailand 1970
+351  sample 7642                  Thailand 1980
+352  sample 7643                  Thailand 1990
+353  sample 7644                  Thailand 2000
+354  sample 7921                    Turkey 1985
+355  sample 7922                    Turkey 1990
+356  sample 7923                    Turkey 2000
+357  sample 8001                    Uganda 1991
+358  sample 8002                    Uganda 2002
+359  sample 8041                   Ukraine 2001
+360  sample 8261            United Kingdom 1991
+361  sample 8262            United Kingdom 2001
+362  sample 8401             United States 1960
+363  sample 8402             United States 1970
+364  sample 8403             United States 1980
+365  sample 8404             United States 1990
+366  sample 8405             United States 2000
+367  sample 8406             United States 2005
+368  sample 8407             United States 2010
+369  sample 8581                   Uruguay 1963
+370  sample 8582                   Uruguay 1975
+371  sample 8583                   Uruguay 1985
+372  sample 8584                   Uruguay 1996
+373  sample 8585                   Uruguay 2006
+374  sample 8586                   Uruguay 2011
+375  sample 8621                 Venezuela 1971
+376  sample 8622                 Venezuela 1981
+377  sample 8623                 Venezuela 1990
+378  sample 8624                 Venezuela 2001
+379  sample 7041                   Vietnam 1989
+380  sample 7042                   Vietnam 1999
+381  sample 7043                   Vietnam 2009
+382  sample 8941                    Zambia 1990
+383  sample 8942                    Zambia 2000
+384  sample 8943                    Zambia 2010
+385  pernum    0               Household record
+386  pernum    1                              1
+387     sex    1                           Male
+388     sex    2                         Female
+389     age    1                    0 - 4 years
+390     age    2                    5 - 9 years
+391     age    3                  10 - 14 years
+392     age    4                  15 - 19 years
+393     age    5                  20 - 24 years
+394     age    6                  25 - 29 years
+395     age    7                  30 - 34 years
+396     age    8                  35 - 39 years
+397     age    9                  40 - 44 years
+398     age   10                  45 - 49 years
+399     age   11                  50 - 54 years
+400     age   12                  55 - 59 years
+401     age   13                  60 - 64 years
+402     age   14                  65 - 69 years
+403     age   15                  70 - 74 years
+404     age   16                  75 - 79 years
+405     age   17              80 years and over
+406     age   99                        Unknown
+407  relate    1                          Child
+408  relate    2       Married without children
+409  relate    3          Married with children
+410  relate    4    Cohabitant without children
+411  relate    5       Cohabitant with children
+412  relate    6                    Lone parent
+413  relate    7                   Living alone
+414  relate    8     Other in private household
+415  relate    9                        Unknown
+416  hhsize    1                       1 person
+417  hhsize    2                      2 persons
+418  hhsize    3                      3 persons
+419  hhsize    4                      4 persons
+420  hhsize    5                      5 persons
+421  hhsize    6              6 persons or more
+422 resprev    1             Same NUTS 3 region
+423 resprev    2 Other NUTS 3 region, or outsid
+424 resprev    3  Residents younger than 1 year
+425    citz    1                The Netherlands
+426    citz    2                 Rest of Europe
+427    citz    3              Rest of the World
+428    citz    9                        Unknown
+429     bpl    1                The Netherlands
+430     bpl    2                 Rest of Europe
+431     bpl    3              Rest of the World
+432    educ    0                    Pre-primary
+433    educ    1                        Primary
+434    educ    2                Lower secondary
+435    educ    3                Upper secondary
+436    educ    4                 Post secondary
+437    educ    5                       Tertiary
+438    educ    6            No education at all
+439    educ    9                        Unknown
+440 classwk    1                 Other employee
+441 classwk    2 Attendant at educational insti
+442 classwk    3 Self employed, employer and ot
+443 classwk    4                     Unemployed
+444 classwk    5 Attendant at educational insti
+445 classwk    6                        Retired
+446 classwk    7       Engaged in family duties
+447 classwk    8    Other economically inactive
+448 classwk    9                        Unknown
+449     occ    1 Legislators, senior officials 
+450     occ    2                  Professionals
+451     occ    3 Technicians and assistant prof
+452     occ    4                         Clerks
+453     occ    5 Service workers and shop and m
+454     occ    6 Skilled agricultural and fishe
+455     occ    7 Craft and related trades worke
+456     occ    8 Plant and machine operators an
+457     occ    9         Elementary occupations
+458     occ   98                        Unknown
+459     occ   99                            NIU
+460     ind   11 Agriculture, hunting, forestry
+461     ind   22 Mining and quarrying, manufact
+462     ind   24                   Construction
+463     ind   31 Wholesale and retail trade, re
+464     ind   32         Hotels and restaurants
+465     ind   33 Transport, storage and communi
+466     ind   34       Financial intermediation
+467     ind   35 Real estate, renting and busin
+468     ind   36 Public administration and defe
+469     ind   37                      Education
+470     ind   38         Health and social work
+471     ind   39 Other community, social and pe
+472     ind   98                        Unknown
+473     ind   99                            NIU
+474   marst    1                         Single
+475   marst    2                        Married
+476   marst    3                        Widowed
+477   marst    4                       Divorced
+478   marst    9                        Unknown

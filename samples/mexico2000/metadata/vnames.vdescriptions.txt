@@ -1,0 +1,133 @@
+           vname                                                        vdescription
+1          cntry                                                             Country
+2           year                                                                Year
+3         sample                                             IPUMS sample identifier
+4         serial                                             Household serial number
+5      mx10dwnum                                                     Dwelling number
+6       mx10pern                                      Number of persons in household
+7      mx10state                                                      Federal entity
+8      mx10munic                                                   Municipality/town
+9     mx10hhtype                                           Type of private household
+10     mx10walls                                                               Walls
+11      mx10roof                                                                Roof
+12     mx10floor                                                               Floor
+13   mx10kitchen                                                             Kitchen
+14  mx10bedrooms                                                  Number of bedrooms
+15     mx10rooms                                               Total number of rooms
+16  mx10electric                                                         Electricity
+17  mx10pipedwtr                                                         Piped water
+18   mx10freqwtr                                           Frequency of water supply
+19    mx10toilet                                                              Toilet
+20  mx10extoilet                                            Shared use of the toilet
+21  mx10tytoilet                                                      Type of toilet
+22    mx10sewage                                            Means of sewage disposal
+23  mx10fuelcook                                                    Fuel for cooking
+24     mx10waste                                                      Trash disposal
+25  mx10ownershp                                                             Tenancy
+26  mx10acquisit                                             Acquisition of dwelling
+27  mx10gasstove                                                           Gas stove
+28   mx10woodstv                                   Wood or coal stove with a chimney
+29  mx10watrtank                                          Raised water tank [tinaco]
+30   mx10watheat                                                        Water heater
+31   mx10cistern                          Cistern or underground water tank [aljibe]
+32    mx10shower                                                              Shower
+33  mx10elemeter                                                      Electric meter
+34     mx10radio                                                               Radio
+35        mx10tv                                                          Television
+36  mx10refridge                                                        Refrigerator
+37    mx10washer                                                     Washing machine
+38      mx10auto                                                        Car or truck
+39   mx10computr                                                            Computer
+40     mx10phone                                                      Landline phone
+41      mx10cell                                                          Cell phone
+42  mx10internet                                                            Internet
+43   mx10persons                                   Number of people in the household
+44   mx10famtype                                            Typology of census homes
+45   mx10intmigs                                Household has international migrants
+46  mx10migrants                                    Number of international migrants
+47   mx10onemeal                     Had a meal only once a day in the last 3 months
+48    mx10nomeal                  Didn't eat for one entire day in the last 3 months
+49    mx10nofood                               Ever had no food in the last 3 months
+50   mx10inchome                         Monthly income from work at home (in pesos)
+51      mx10hhwt                                                    Household weight
+52       mx10pmu                                               Primary sampling unit
+53    mx10sizepl                                                   Size of the place
+54  mx10municens                     Long form questionnaire applied to municipality
+55   mx10muniihd                 Municipality with lowest Index of Human Development
+56        pernum                                                       Person number
+57         wtper                                                       Person weight
+58    mx10pernum                                    Person number (within household)
+59  mx10personno                                                       Person number
+60       mx10sex                                                                 Sex
+61       mx10age                                                                 Age
+62    mx10relate                                      Relationship to household head
+63   mx10relate2                                        Other relationship, detailed
+64     mx10momhh                                       Mother lives in the household
+65     mx10pophh                                       Father lives in the household
+66  mx10bplstate                                                      State of birth
+67  mx10bplcntry                                                    Country of birth
+68  mx10hlthserv                                              Use of health services
+69   mx10health1                   First institution of medical services entitlement
+70   mx10health2                  Second institution of medical services entitlement
+71     mx10relig                                                            Religion
+72   mx10diswalk                       Disability walking, moving, going up and down
+73    mx10dissee                          Disability seeing, even when using glasses
+74    mx10disspk                    Disability speaking, communicating or conversing
+75   mx10dishear                   Disability hearing, even when using a hearing aid
+76   mx10discare                              Disability dressing, bathing or eating
+77    mx10dislrn               Disability paying attention or learning simple things
+78   mx10disment                                                   Mental limitation
+79     mx10disab                                                   Disability status
+80  mx10cdiswalk         Reason for disability in walking, moving, going up and down
+81   mx10cdissee                                     Reason for disability in seeing
+82   mx10cdisspk      Reason for disability in speaking, communicating or conversing
+83  mx10cdishear                                    Reason for disability in hearing
+84  mx10cdiscare                Reason for disability in dressing, bathing or eating
+85   mx10cdislrn Reason for disability in paying attention or learning simple things
+86  mx10cdisment                                        Reason for mental impairment
+87  mx10spkindig                                       Speaks an indigenous language
+88   mx10spkspan                                                      Speaks Spanish
+89  mx10compindg                               Understanding of indigenous languages
+90   mx10indlang                                          Indigenous language spoken
+91    mx10ethnic                                 Self-described indigenous ethnicity
+92    mx10school                                                   School attendance
+93     mx10grade                                   Last grade completed within level
+94   mx10edlevel                                          Educational level attended
+95  mx10edattain                                   Highest grade and level completed
+96    mx10prereq                                           Educational prerequisites
+97   mx10studies                                    Name of degree/course of studies
+98  mx10yrschool                                        Years of schooling completed
+99       mx10lit                                                            Literacy
+100 mx10migctry5                                        Country of residence in 2005
+101 mx10migstat5                                          State of residence in 2005
+102 mx10migmuni5                                   Municipality of residence in 2005
+103    mx10marst                                                      Marital status
+104    mx10sploc                                       Partner identification number
+105 mx10spousehh                                      Partner lives in the household
+106  mx10empstat                                                   Employment status
+107      mx10occ                                                 Occupation or trade
+108  mx10classwk                                                    Position at work
+109 mx10hlthbens                                       Receives health care benefits
+110    mx10bonus                                Receives 13th month obligatory bonus
+111   mx10vacpay                                               Receives vacation pay
+112 mx10profshar                           Receives profit sharing or vacation bonus
+113   mx10retire                                         Receives retirement savings
+114  mx10hrswork                                              Hours worked last week
+115   mx10income                              Monthly income from working (in pesos)
+116      mx10ind                                                            Industry
+117 mx10statewrk                                            State or country of work
+118  mx10muniwrk                                                Municipality of work
+119 mx10incprogs                                 Has income from government programs
+120 mx10incretir                                    Has retirement or pension income
+121 mx10incremit                  Has income from people who live in another country
+122 mx10inccntry                  Has income from people who live within the country
+123   mx10chborn                                        Number of live-born children
+124   mx10chdead                                         Number of deceased children
+125   mx10chsurv                                        Number of surviving children
+126 mx10lstbmnth                              Month of birth of last live-born child
+127 mx10lstbyear                                Yearof birth of last live-born child
+128 mx10lstbsurv                                          Last live-born child alive
+129 mx10dthmnths                                 Age of last child at death (months)
+130 mx10dthyears                                  Age of last child at death (years)
+131    mx10perwt                                                       Person weight
+132     mx10pmup                                               Primary sampling unit

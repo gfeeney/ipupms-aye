@@ -1,0 +1,93 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      dwnum                                                   Dwelling number
+6      hhnum                                Household number (within dwelling)
+7        hhn                                  Number of households in dwelling
+8      pernd                                     Number of persons in dwelling
+9       pern                                    Number of persons in household
+10      fbig Dwelling created by splitting apart a large dwelling or household
+11      dept                                                        Department
+12      prov                                                          Province
+13     urban                                                       Urban-rural
+14    numhho                                                  Total households
+15  typdwell                                                  Type of dwelling
+16     occup                                         Dwelling occupancy status
+17      wall                    Predominant construction material of the walls
+18     floor                   Predominant construction material of the floors
+19    watsrc                                   Source of water in the dwelling
+20  watdaily                                               Daily water service
+21    wathrs                                  Daily water service: hours a day
+22   watdays                              Non-daily water service: days a week
+23   wathrs2                              Non-daily water service: hours a day
+24    sewage           Dwelling's bathrooms or toilets are connected to system
+25  lighting                               Electricity from the public network
+26     rooms                             How many rooms does the dwelling have
+27  ownershp                                                Dwelling ownership
+28     radio                                                             Radio
+29        tv                                                  Color television
+30    stereo                                                   Audio equipment
+31    washer                                                   Washing machine
+32    fridge                                           Refrigerator or freezer
+33   computr                                                          Computer
+34    noappl                                     Has any electrical appliances
+35     phone                                                    Landline phone
+36      cell                                                        Cell phone
+37  internet                                               Internet connection
+38   cabletv                                                CableTV connection
+39    noserv                      Has phone, television or internet connection
+40  fuelcook                             Most common energy source for cooking
+41   chimney                                             Kitchen has a chimney
+42  migrants                               Number of people in another country
+43    disvis                                                 Visual disability
+44   dishear                                               Auditory disability
+45    disspk                                               Speaking disability
+46   dislimb            Disability related to arms and hands, or legs and feet
+47  disother                          Other disability (any other limitations)
+48   disnone                                                Has any disability
+49    pernum                                                     Person number
+50     wtper                                                     Person weight
+51    pernum                                  Person number (within household)
+52    relate                                 Relationship to head of household
+53       sex                                                               Sex
+54       age                                                      Age in years
+55  agemonth                                                     Age in months
+56  birthreg          Has birth certificate on file with civil registry office
+57  resident                                Lives permanently in this district
+58   resctry                                              Country of residence
+59   resprov                                             Province of residence
+60   here5yr                        Was living in this district five years ago
+61   ctry5yr                                  Country of residence 5 years ago
+62   dept5yr                               Department of residence 5 years ago
+63   prov5yr                                 Province of residence 5 years ago
+64   bplhere                                             Born in this district
+65   bplctry                                                  Country of birth
+66   bplprov                                                 Province of birth
+67  insursis                                      Member of SIS insurance plan
+68  insuress                                                 Member of ESSALUD
+69  insuroth                                          Membership in other plan
+70  insurnon                                                 Has any insurance
+71     mtong                                            First language learned
+72       lit                                                          Literacy
+73   edlevel                                Highest educational level achieved
+74   edgrade                                           Education, grade passed
+75    edyear                                            Education, year passed
+76  edattain                                         Education level completed
+77 schoolatt          Currently attending a high school, school, or university
+78    worked                        Worked at least one hour last week for pay
+79  reasonwk                                                Activity last week
+80  lastnowk                                 Activity last week if not working
+81       ind                                      Economic activity (4 digits)
+82      ind2                                      Economic activity (2 digits)
+83  classwkr                             Main employment occupational category
+84   empsize                   Number of people working in place of employment
+85  religion                                                          Religion
+86     marst                                           Civil or marital status
+87    chborn                                       Live-born children in total
+88    chsurv                                             Children still living
+89  lstbthmo                                Month in which last child was born
+90  lstbthyr                                 Year in which last child was born
+91  agebirth                                 Age at which first child was born
+92    idcard                                                  National id card

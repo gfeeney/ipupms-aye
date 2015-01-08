@@ -1,0 +1,2177 @@
+        vname  code                          short
+1       cntry    32                      Argentina
+2       cntry    51                        Armenia
+3       cntry    40                        Austria
+4       cntry    50                     Bangladesh
+5       cntry   112                        Belarus
+6       cntry    68                        Bolivia
+7       cntry    76                         Brazil
+8       cntry   854                   Burkina Faso
+9       cntry   116                       Cambodia
+10      cntry   120                       Cameroon
+11      cntry   124                         Canada
+12      cntry   152                          Chile
+13      cntry   156                          China
+14      cntry   170                       Colombia
+15      cntry   188                     Costa Rica
+16      cntry   192                           Cuba
+17      cntry   214             Dominican Republic
+18      cntry   218                        Ecuador
+19      cntry   818                          Egypt
+20      cntry   222                    El Salvador
+21      cntry   242                           Fiji
+22      cntry   250                         France
+23      cntry   276                        Germany
+24      cntry   288                          Ghana
+25      cntry   300                         Greece
+26      cntry   324                         Guinea
+27      cntry   332                          Haiti
+28      cntry   348                        Hungary
+29      cntry   356                          India
+30      cntry   360                      Indonesia
+31      cntry   364                           Iran
+32      cntry   368                           Iraq
+33      cntry   372                        Ireland
+34      cntry   376                         Israel
+35      cntry   380                          Italy
+36      cntry   388                        Jamaica
+37      cntry   400                         Jordan
+38      cntry   404                          Kenya
+39      cntry   417                Kyrgyz Republic
+40      cntry   430                        Liberia
+41      cntry   454                         Malawi
+42      cntry   458                       Malaysia
+43      cntry   466                           Mali
+44      cntry   484                         Mexico
+45      cntry   496                       Mongolia
+46      cntry   504                        Morocco
+47      cntry   524                          Nepal
+48      cntry   528                    Netherlands
+49      cntry   558                      Nicaragua
+50      cntry   566                        Nigeria
+51      cntry   586                       Pakistan
+52      cntry   275                      Palestine
+53      cntry   591                         Panama
+54      cntry   604                           Peru
+55      cntry   608                    Philippines
+56      cntry   620                       Portugal
+57      cntry   630                    Puerto Rico
+58      cntry   642                        Romania
+59      cntry   646                         Rwanda
+60      cntry   662                    Saint Lucia
+61      cntry   686                        Senegal
+62      cntry   694                   Sierra Leone
+63      cntry   705                       Slovenia
+64      cntry   710                   South Africa
+65      cntry   728                    South Sudan
+66      cntry   724                          Spain
+67      cntry   729                          Sudan
+68      cntry   756                    Switzerland
+69      cntry   834                       Tanzania
+70      cntry   764                       Thailand
+71      cntry   792                         Turkey
+72      cntry   800                         Uganda
+73      cntry   804                        Ukraine
+74      cntry   826                 United Kingdom
+75      cntry   840                  United States
+76      cntry   858                        Uruguay
+77      cntry   862                      Venezuela
+78      cntry   704                        Vietnam
+79      cntry   894                         Zambia
+80       year  1960                           1960
+81       year  1962                           1962
+82       year  1963                           1963
+83       year  1964                           1964
+84       year  1966                           1966
+85       year  1968                           1968
+86       year  1969                           1969
+87       year  1970                           1970
+88       year  1971                           1971
+89       year  1972                           1972
+90       year  1973                           1973
+91       year  1974                           1974
+92       year  1975                           1975
+93       year  1976                           1976
+94       year  1977                           1977
+95       year  1979                           1979
+96       year  1980                           1980
+97       year  1981                           1981
+98       year  1982                           1982
+99       year  1983                           1983
+100      year  1984                           1984
+101      year  1985                           1985
+102      year  1986                           1986
+103      year  1987                           1987
+104      year  1989                           1989
+105      year  1990                           1990
+106      year  1991                           1991
+107      year  1992                           1992
+108      year  1993                           1993
+109      year  1994                           1994
+110      year  1995                           1995
+111      year  1996                           1996
+112      year  1997                           1997
+113      year  1998                           1998
+114      year  1999                           1999
+115      year  2000                           2000
+116      year  2001                           2001
+117      year  2002                           2002
+118      year  2003                           2003
+119      year  2004                           2004
+120      year  2005                           2005
+121      year  2006                           2006
+122      year  2007                           2007
+123      year  2008                           2008
+124      year  2009                           2009
+125      year  2010                           2010
+126      year  2011                           2011
+127    sample   321                 Argentina 1970
+128    sample   322                 Argentina 1980
+129    sample   323                 Argentina 1991
+130    sample   324                 Argentina 2001
+131    sample   325                 Argentina 2010
+132    sample   511                   Armenia 2001
+133    sample   401                   Austria 1971
+134    sample   402                   Austria 1981
+135    sample   403                   Austria 1991
+136    sample   404                   Austria 2001
+137    sample   501                Bangladesh 1991
+138    sample   502                Bangladesh 2001
+139    sample   503                Bangladesh 2011
+140    sample   681                   Bolivia 1976
+141    sample   682                   Bolivia 1992
+142    sample   683                   Bolivia 2001
+143    sample   761                    Brazil 1960
+144    sample   762                    Brazil 1970
+145    sample   763                    Brazil 1980
+146    sample   764                    Brazil 1991
+147    sample   765                    Brazil 2000
+148    sample   766                    Brazil 2010
+149    sample  1121                   Belarus 1999
+150    sample  8541              Burkina Faso 1985
+151    sample  8542              Burkina Faso 1996
+152    sample  8543              Burkina Faso 2006
+153    sample  1161                  Cambodia 1998
+154    sample  1162                  Cambodia 2008
+155    sample  1201                  Cameroon 1976
+156    sample  1202                  Cameroon 1987
+157    sample  1203                  Cameroon 2005
+158    sample  1241                    Canada 1971
+159    sample  1242                    Canada 1981
+160    sample  1243                    Canada 1991
+161    sample  1244                    Canada 2001
+162    sample  1521                     Chile 1960
+163    sample  1522                     Chile 1970
+164    sample  1523                     Chile 1982
+165    sample  1524                     Chile 1992
+166    sample  1525                     Chile 2002
+167    sample  1561                     China 1982
+168    sample  1562                     China 1990
+169    sample  1701                  Colombia 1964
+170    sample  1702                  Colombia 1973
+171    sample  1703                  Colombia 1985
+172    sample  1704                  Colombia 1993
+173    sample  1705                  Colombia 2005
+174    sample  1881                Costa Rica 1963
+175    sample  1882                Costa Rica 1973
+176    sample  1883                Costa Rica 1984
+177    sample  1884                Costa Rica 2000
+178    sample  1921                      Cuba 2002
+179    sample  2141        Dominican Republic 1960
+180    sample  2142        Dominican Republic 1970
+181    sample  2143        Dominican Republic 1981
+182    sample  2144        Dominican Republic 2002
+183    sample  2145        Dominican Republic 2010
+184    sample  2181                   Ecuador 1962
+185    sample  2182                   Ecuador 1974
+186    sample  2183                   Ecuador 1982
+187    sample  2184                   Ecuador 1990
+188    sample  2185                   Ecuador 2001
+189    sample  2186                   Ecuador 2010
+190    sample  8181                     Egypt 1996
+191    sample  8182                     Egypt 2006
+192    sample  2221               El Salvador 1992
+193    sample  2222               El Salvador 2007
+194    sample  2421                      Fiji 1966
+195    sample  2422                      Fiji 1976
+196    sample  2423                      Fiji 1986
+197    sample  2424                      Fiji 1996
+198    sample  2425                      Fiji 2007
+199    sample  2501                    France 1962
+200    sample  2502                    France 1968
+201    sample  2503                    France 1975
+202    sample  2504                    France 1982
+203    sample  2505                    France 1990
+204    sample  2506                    France 1999
+205    sample  2507                    France 2006
+206    sample  2761            Germany 1970 (West)
+207    sample  2762            Germany 1971 (East)
+208    sample  2763            Germany 1981 (East)
+209    sample  2764            Germany 1987 (West)
+210    sample  2881                     Ghana 2000
+211    sample  2882                     Ghana 2010
+212    sample  3001                    Greece 1971
+213    sample  3002                    Greece 1981
+214    sample  3003                    Greece 1991
+215    sample  3004                    Greece 2001
+216    sample  3241                    Guinea 1983
+217    sample  3242                    Guinea 1996
+218    sample  3321                     Haiti 1971
+219    sample  3322                     Haiti 1982
+220    sample  3323                     Haiti 2003
+221    sample  3481                   Hungary 1970
+222    sample  3482                   Hungary 1980
+223    sample  3483                   Hungary 1990
+224    sample  3484                   Hungary 2001
+225    sample  3561                     India 1983
+226    sample  3562                     India 1987
+227    sample  3563                     India 1993
+228    sample  3564                     India 1999
+229    sample  3565                     India 2004
+230    sample  3601                 Indonesia 1971
+231    sample  3602                 Indonesia 1976
+232    sample  3603                 Indonesia 1980
+233    sample  3604                 Indonesia 1985
+234    sample  3605                 Indonesia 1990
+235    sample  3606                 Indonesia 1995
+236    sample  3607                 Indonesia 2000
+237    sample  3608                 Indonesia 2005
+238    sample  3609                 Indonesia 2010
+239    sample  3641                      Iran 2006
+240    sample  3681                      Iraq 1997
+241    sample  3721                   Ireland 1971
+242    sample  3722                   Ireland 1979
+243    sample  3723                   Ireland 1981
+244    sample  3724                   Ireland 1986
+245    sample  3725                   Ireland 1991
+246    sample  3726                   Ireland 1996
+247    sample  3727                   Ireland 2002
+248    sample  3728                   Ireland 2006
+249    sample  3729                   Ireland 2011
+250    sample  3761                    Israel 1972
+251    sample  3762                    Israel 1983
+252    sample  3763                    Israel 1995
+253    sample  3801                     Italy 2001
+254    sample  3881                   Jamaica 1982
+255    sample  3882                   Jamaica 1991
+256    sample  3883                   Jamaica 2001
+257    sample  4001                    Jordan 2004
+258    sample  4041                     Kenya 1969
+259    sample  4042                     Kenya 1979
+260    sample  4043                     Kenya 1989
+261    sample  4044                     Kenya 1999
+262    sample  4045                     Kenya 2009
+263    sample  4171           Kyrgyz Republic 1999
+264    sample  4172           Kyrgyz Republic 2009
+265    sample  4301                   Liberia 1974
+266    sample  4302                   Liberia 2008
+267    sample  4541                    Malawi 1987
+268    sample  4542                    Malawi 1998
+269    sample  4543                    Malawi 2008
+270    sample  4581                  Malaysia 1970
+271    sample  4582                  Malaysia 1980
+272    sample  4583                  Malaysia 1991
+273    sample  4584                  Malaysia 2000
+274    sample  4661                      Mali 1987
+275    sample  4662                      Mali 1998
+276    sample  4663                      Mali 2009
+277    sample  4841                    Mexico 1960
+278    sample  4842                    Mexico 1970
+279    sample  4843                    Mexico 1990
+280    sample  4844                    Mexico 1995
+281    sample  4845                    Mexico 2000
+282    sample  4846                    Mexico 2005
+283    sample  4847                    Mexico 2010
+284    sample  4961                  Mongolia 1989
+285    sample  4962                  Mongolia 2000
+286    sample  5041                   Morocco 1982
+287    sample  5042                   Morocco 1994
+288    sample  5043                   Morocco 2004
+289    sample  5241                     Nepal 2001
+290    sample  5281               Netherlands 1960
+291    sample  5282               Netherlands 1971
+292    sample  5283               Netherlands 2001
+293    sample  5581                 Nicaragua 1971
+294    sample  5582                 Nicaragua 1995
+295    sample  5583                 Nicaragua 2005
+296    sample  5661                   Nigeria 2006
+297    sample  5662                   Nigeria 2007
+298    sample  5663                   Nigeria 2008
+299    sample  5664                   Nigeria 2009
+300    sample  5665                   Nigeria 2010
+301    sample  5861                  Pakistan 1973
+302    sample  5862                  Pakistan 1981
+303    sample  5863                  Pakistan 1998
+304    sample  2751                 Palestine 1997
+305    sample  2752                 Palestine 2007
+306    sample  5911                    Panama 1960
+307    sample  5912                    Panama 1970
+308    sample  5913                    Panama 1980
+309    sample  5914                    Panama 1990
+310    sample  5915                    Panama 2000
+311    sample  5916                    Panama 2010
+312    sample  6041                      Peru 1993
+313    sample  6042                      Peru 2007
+314    sample  6081               Philippines 1990
+315    sample  6082               Philippines 1995
+316    sample  6083               Philippines 2000
+317    sample  6201                  Portugal 1981
+318    sample  6202                  Portugal 1991
+319    sample  6203                  Portugal 2001
+320    sample  6301               Puerto Rico 1970
+321    sample  6302               Puerto Rico 1980
+322    sample  6303               Puerto Rico 1990
+323    sample  6304               Puerto Rico 2000
+324    sample  6305               Puerto Rico 2005
+325    sample  6421                   Romania 1977
+326    sample  6422                   Romania 1992
+327    sample  6423                   Romania 2002
+328    sample  6461                    Rwanda 1991
+329    sample  6462                    Rwanda 2002
+330    sample  6621               Saint Lucia 1980
+331    sample  6622               Saint Lucia 1991
+332    sample  6861                   Senegal 1988
+333    sample  6862                   Senegal 2002
+334    sample  6941              Sierra Leone 2004
+335    sample  7051                  Slovenia 2002
+336    sample  7101              South Africa 1996
+337    sample  7102              South Africa 2001
+338    sample  7103              South Africa 2007
+339    sample  7241                     Spain 1981
+340    sample  7242                     Spain 1991
+341    sample  7243                     Spain 2001
+342    sample  7281               South Sudan 2008
+343    sample  7291                     Sudan 2008
+344    sample  7561               Switzerland 1970
+345    sample  7562               Switzerland 1980
+346    sample  7563               Switzerland 1990
+347    sample  7564               Switzerland 2000
+348    sample  8341                  Tanzania 1988
+349    sample  8342                  Tanzania 2002
+350    sample  7641                  Thailand 1970
+351    sample  7642                  Thailand 1980
+352    sample  7643                  Thailand 1990
+353    sample  7644                  Thailand 2000
+354    sample  7921                    Turkey 1985
+355    sample  7922                    Turkey 1990
+356    sample  7923                    Turkey 2000
+357    sample  8001                    Uganda 1991
+358    sample  8002                    Uganda 2002
+359    sample  8041                   Ukraine 2001
+360    sample  8261            United Kingdom 1991
+361    sample  8262            United Kingdom 2001
+362    sample  8401             United States 1960
+363    sample  8402             United States 1970
+364    sample  8403             United States 1980
+365    sample  8404             United States 1990
+366    sample  8405             United States 2000
+367    sample  8406             United States 2005
+368    sample  8407             United States 2010
+369    sample  8581                   Uruguay 1963
+370    sample  8582                   Uruguay 1975
+371    sample  8583                   Uruguay 1985
+372    sample  8584                   Uruguay 1996
+373    sample  8585                   Uruguay 2006
+374    sample  8586                   Uruguay 2011
+375    sample  8621                 Venezuela 1971
+376    sample  8622                 Venezuela 1981
+377    sample  8623                 Venezuela 1990
+378    sample  8624                 Venezuela 2001
+379    sample  7041                   Vietnam 1989
+380    sample  7042                   Vietnam 1999
+381    sample  7043                   Vietnam 2009
+382    sample  8941                    Zambia 1990
+383    sample  8942                    Zambia 2000
+384    sample  8943                    Zambia 2010
+385      fbig     0                     No problem
+386      fbig     1 Yes: households within a large
+387      fbig     2 Yes: persons within a large ho
+388       div     1                        Central
+389       div     2                        Eastern
+390       div     3                       Northern
+391       div     5                        Western
+392      prov     1                             Ba
+393      prov     3             Bua and Cakaudrove
+394      prov     6 Kadavu, Lau, Lomaiviti, and Ro
+395      prov     7                        Macuata
+396      prov     8               Nadroga - Navosa
+397      prov     9                      Naitasiri
+398      prov    11                             Ra
+399      prov    12                           Rewa
+400      prov    13               Serua and Namosi
+401      prov    14                        Tailevu
+402    typedw     1            One family detached
+403    typedw     2            One family attached
+404    typedw     3           2 or more apartments
+405    typedw     4              2 household share
+406    typedw     5               Attached to shop
+407    typedw     6                  Lodging house
+408    typedw     7                          Hotel
+409    typedw     8                          Other
+410     walls     1     Concrete, brick, or cement
+411     walls     2                           Wood
+412     walls     3         Tin or corrugated iron
+413     walls     4     Traditional bure materials
+414     walls     5 Makeshift or improvised materi
+415     walls     6                Other materials
+416  wallcond     1                           Good
+417  wallcond     2                        Average
+418  wallcond     3                           Poor
+419     rooms     0                        0 rooms
+420     rooms     1                              1
+421     rooms     2                              2
+422     rooms     3                              3
+423     rooms     4                              4
+424     rooms     5                              5
+425     rooms     6                              6
+426     rooms     7                              7
+427     rooms     8                              8
+428     rooms     9                              9
+429     rooms    10                             10
+430     rooms    11                             11
+431     rooms    12                            12+
+432    watsup     1                        Metered
+433    watsup     2                 Communal stand
+434    watsup     3                       Rooftank
+435    watsup     4                           Well
+436    watsup     5                 River or creek
+437    watsup     6 FSC or EGM (Fiji Sugar Corpora
+438    watdry     1                          Never
+439    watdry     2                      Sometimes
+440    watdry     3                          Often
+441  electric     1     Fiji electricity authority
+442  electric     2         Fiji sugar corporation
+443  electric     3             Vatukoula goldmine
+444  electric     4        Public works department
+445  electric     5                 Village diesel
+446  electric     6                  Village hydro
+447  electric     7                     Home solar
+448  electric     8                      Own plant
+449  electric     9                           None
+450  lighting     1                    Electricity
+451  lighting     2                  Pressure lamp
+452  lighting     3                      Wick lamp
+453  lighting     4                          Other
+454  fuelcook     1                    Electricity
+455  fuelcook     2           LPG (Fiji gas, etc.)
+456  fuelcook     3                       Kerosene
+457  fuelcook     4                     Wood stove
+458  fuelcook     5                Wood, open fire
+459  fuelcook     6                         Biogas
+460  fuelcook     7                          Other
+461    toilet     1               Flush, exclusive
+462    toilet     2                  Flush, shared
+463    toilet     3           Waterseal, exclusive
+464    toilet     4               Waterseal, share
+465    toilet     5             Latrine, exclusive
+466    toilet     6                Latrine, shared
+467    toilet     7                           None
+468    toilet     8                          Other
+469    tenure     1                            Own
+470    tenure     2                   Rent private
+471    tenure     3                    Rent public
+472    tenure     4              Occupy government
+473    tenure     5                Occupy employer
+474    tenure     6                      Caretaker
+475    tenure     7                          Other
+476   landown     1                       Freehold
+477   landown     2              Leased from state
+478   landown     3              Leased  from NLTB
+479   landown     4 Occupy without legal arrangeme
+480   landown     5 Occupy native land with formal
+481   landown     6 Occupy through a traditional v
+482   landown     7                          Other
+483    hhshop     0                             No
+484    hhshop     1                            Yes
+485    hhsubs     0                             No
+486    hhsubs     1                            Yes
+487    hhprod     0                             No
+488    hhprod     1                            Yes
+489    hhgood     0                             No
+490    hhgood     1                            Yes
+491    hhtech     0                             No
+492    hhtech     1                            Yes
+493    hhprof     0                             No
+494    hhprof     1                            Yes
+495    hhflat     0                             No
+496    hhflat     1                            Yes
+497    hhcomm     0                             No
+498    hhcomm     1                            Yes
+499    hhnone     0                             No
+500    hhnone     1                            Yes
+501     hhoth     0                             No
+502     hhoth     1                            Yes
+503  wastgovt     0                             No
+504  wastgovt     1                            Yes
+505  wastbury     0                             No
+506  wastbury     1                            Yes
+507   wastriv     0                             No
+508   wastriv     1                            Yes
+509   wastsea     0                             No
+510   wastsea     1                            Yes
+511  wastbkyd     0                             No
+512  wastbkyd     1                            Yes
+513   wastoth     0                             No
+514   wastoth     1                            Yes
+515     autos     0                           None
+516     autos     1                              1
+517     autos     2                              2
+518     autos     3                              3
+519     autos     4                             4+
+520     truck     0                           None
+521     truck     1                              1
+522     truck     2                              2
+523     truck     3                             3+
+524     motor     0                           None
+525     motor     1                              1
+526     motor     2                              2
+527     motor     3                             3+
+528   generat     0                           None
+529   generat     1                              1
+530   generat     2                              2
+531   generat     3                             3+
+532    cutter     0                           None
+533    cutter     1                              1
+534    cutter     2                             2+
+535     solar     0                           None
+536     solar     1                              1
+537     solar     2                             2+
+538   watpump     0                           None
+539   watpump     1                              1
+540   watpump     2                             2+
+541    refrig     0                           None
+542    refrig     1                              1
+543    refrig     2                              2
+544    refrig     3                              3
+545    washer     0                           None
+546    washer     1                              1
+547    washer     2                             2+
+548     dryer     0                           None
+549     dryer     1                              1
+550     dryer     2                             2+
+551     stove     0                           None
+552     stove     1                              1
+553     stove     2                              2
+554     stove     3                              3
+555  watheatr     0                           None
+556  watheatr     1                              1
+557  watheatr     2                             2+
+558    aircon     0                           None
+559    aircon     1                              1
+560    aircon     2                              2
+561    aircon     3                              3
+562    aircon     4                             4+
+563     radio     0                           None
+564     radio     1                              1
+565     radio     2                              2
+566     radio     3                              3
+567     radio     4                             4+
+568        tv     0                           None
+569        tv     1                              1
+570        tv     2                              2
+571        tv     3                              3
+572        tv     4                             4+
+573     video     0                           None
+574     video     1                              1
+575     video     2                              2
+576     video     3                              3
+577     video     4                             4+
+578   skyplus     0                           None
+579   skyplus     1                      1 or more
+580    skypac     0                           None
+581    skypac     1                              1
+582    skypac     2                             2+
+583     phone     0                           None
+584     phone     1                              1
+585     phone     2                             2+
+586      cell     0                           None
+587      cell     1                              1
+588      cell     2                              2
+589      cell     3                              3
+590      cell     4                              4
+591      cell     5                              5
+592      cell     6                              6
+593      cell     7                              7
+594      cell     8                              8
+595      cell     9                              9
+596  computer     0                           None
+597  computer     1                              1
+598  computer     2                              2
+599  computer     3                             3+
+600  internet     0                           None
+601  internet     1                              1
+602  internet     2                              2
+603  savbulbs     0                           None
+604  savbulbs     1                              1
+605  savbulbs     2                              2
+606  savbulbs     3                              3
+607  savbulbs     4                              4
+608  savbulbs     5                              5
+609  savbulbs     6                              6
+610  savbulbs     7                              7
+611  savbulbs     8                              8
+612  savbulbs     9                              9
+613      cows     0                           None
+614      cows     1                              1
+615      cows     2                              2
+616      cows     3                              3
+617      cows     4                              4
+618      cows     5                              5
+619      cows     6                              6
+620      cows     7                              7
+621      cows     8                              8
+622      cows     9                              9
+623      cows    10                            10+
+624      pigs     0                           None
+625      pigs     1                              1
+626      pigs     2                              2
+627      pigs     3                              3
+628      pigs     4                              4
+629      pigs     5                              5
+630      pigs     6                              6
+631      pigs     7                              7
+632      pigs     8                              8
+633      pigs     9                              9
+634      pigs    10                             10
+635      pigs    11                             11
+636      pigs    12                             12
+637      pigs    13                             13
+638      pigs    14                             14
+639      pigs    15                            15+
+640     goats     0                           None
+641     goats     1                              1
+642     goats     2                              2
+643     goats     3                              3
+644     goats     4                              4
+645     goats     5                              5
+646     goats     6                              6
+647     goats     7                              7
+648     goats     8                              8
+649     goats     9                              9
+650     goats    10                             10
+651     goats    11                             11
+652     goats    12                            12+
+653    horses     0                           None
+654    horses     1                              1
+655    horses     2                              2
+656    horses     3                              3
+657    horses     4                              4
+658    horses     5                              5
+659    horses     6                              6
+660    horses     7                             7+
+661   poultry     0                           None
+662   poultry     1                              1
+663   poultry     2                              2
+664   poultry     3                              3
+665   poultry     4                              4
+666   poultry     5                              5
+667   poultry     6                              6
+668   poultry     7                              7
+669   poultry     8                              8
+670   poultry     9                              9
+671   poultry    10                             10
+672   poultry    11                             11
+673   poultry    12                             12
+674   poultry    13                             13
+675   poultry    14                             14
+676   poultry    15                             15
+677   poultry    16                             16
+678   poultry    17                             17
+679   poultry    18                             18
+680   poultry    19                             19
+681   poultry    20                            20+
+682      dogs     0                           None
+683      dogs     1                              1
+684      dogs     2                              2
+685      dogs     3                              3
+686      dogs     4                              4
+687      dogs     5                              5
+688      dogs     6                              6
+689      dogs     7                              7
+690      dogs     8                              8
+691      dogs     9                              9
+692      dogs    10                            10+
+693      cats     0                           None
+694      cats     1                              1
+695      cats     2                              2
+696      cats     3                              3
+697      cats     4                              4
+698      cats     5                              5
+699      cats     6                             6+
+700   famtype     1 Married couple family, head ma
+701   famtype     3        Other family, head male
+702   famtype     5 Non-family household, head mal
+703    hhtype     1                 Nuclear family
+704    hhtype     2                Extended family
+705    remitt     1                            Yes
+706    remitt     2                             No
+707   rm1amnt     0     Did not receive remittance
+708   rm1amnt    20                             20
+709   rm1amnt    30                             30
+710   rm1amnt    40                             40
+711   rm1amnt    50                             50
+712   rm1amnt    60                             60
+713   rm1amnt    70                             70
+714   rm1amnt    80                             80
+715   rm1amnt    98                             98
+716   rm1amnt   100                            100
+717   rm1amnt   110                            110
+718   rm1amnt   120                            120
+719   rm1amnt   130                            130
+720   rm1amnt   140                            140
+721   rm1amnt   145                            145
+722   rm1amnt   150                            150
+723   rm1amnt   160                            160
+724   rm1amnt   170                            170
+725   rm1amnt   175                            175
+726   rm1amnt   180                            180
+727   rm1amnt   200                            200
+728   rm1amnt   210                            210
+729   rm1amnt   225                            225
+730   rm1amnt   228                            228
+731   rm1amnt   230                            230
+732   rm1amnt   240                            240
+733   rm1amnt   250                            250
+734   rm1amnt   260                            260
+735   rm1amnt   270                            270
+736   rm1amnt   275                            275
+737   rm1amnt   280                            280
+738   rm1amnt   289                            289
+739   rm1amnt   300                            300
+740   rm1amnt   340                            340
+741   rm1amnt   350                            350
+742   rm1amnt   360                            360
+743   rm1amnt   390                            390
+744   rm1amnt   400                            400
+745   rm1amnt   420                            420
+746   rm1amnt   450                            450
+747   rm1amnt   470                            470
+748   rm1amnt   500                            500
+749   rm1amnt   520                            520
+750   rm1amnt   550                            550
+751   rm1amnt   560                            560
+752   rm1amnt   600                            600
+753   rm1amnt   680                            680
+754   rm1amnt   700                            700
+755   rm1amnt   800                            800
+756   rm1amnt   840                            840
+757   rm1amnt   900                            900
+758   rm1amnt   960                            960
+759   rm1amnt   967                            967
+760   rm1amnt  1000                           1000
+761   rm1amnt  1040                           1040
+762   rm1amnt  1100                           1100
+763   rm1amnt  1200                           1200
+764   rm1amnt  1300                           1300
+765   rm1amnt  1356                           1356
+766   rm1amnt  1398                           1398
+767   rm1amnt  1400                           1400
+768   rm1amnt  1440                           1440
+769   rm1amnt  1500                           1500
+770   rm1amnt  1560                           1560
+771   rm1amnt  1600                           1600
+772   rm1amnt  1800                           1800
+773   rm1amnt  1900                           1900
+774   rm1amnt  2000                           2000
+775   rm1amnt  2100                           2100
+776   rm1amnt  2300                           2300
+777   rm1amnt  2400                           2400
+778   rm1amnt  2500                           2500
+779   rm1amnt  2600                           2600
+780   rm1amnt  2880                           2880
+781   rm1amnt  3000                           3000
+782   rm1amnt  3100                           3100
+783   rm1amnt  3320                           3320
+784   rm1amnt  3500                           3500
+785   rm1amnt  3600                           3600
+786   rm1amnt  3900                           3900
+787   rm1amnt  4000                           4000
+788   rm1amnt  4200                           4200
+789   rm1amnt  4300                           4300
+790   rm1amnt  4400                           4400
+791   rm1amnt  4500                           4500
+792   rm1amnt  4800                           4800
+793   rm1amnt  5000                           5000
+794   rm1amnt  5200                           5200
+795   rm1amnt  5310                           5310
+796   rm1amnt  5400                           5400
+797   rm1amnt  5770                           5770
+798   rm1amnt  5800                           5800
+799   rm1amnt  6000                           6000
+800   rm1amnt  6240                           6240
+801   rm1amnt  6247                           6247
+802   rm1amnt  6400                           6400
+803   rm1amnt  6900                           6900
+804   rm1amnt  7000                           7000
+805   rm1amnt  7200                           7200
+806   rm1amnt  7260                           7260
+807   rm1amnt  7440                           7440
+808   rm1amnt  7600                           7600
+809   rm1amnt  7800                           7800
+810   rm1amnt  8000                           8000
+811   rm1amnt  8400                           8400
+812   rm1amnt  9000                           9000
+813   rm1amnt  9600                           9600
+814   rm1amnt 10000                          10000
+815   rm1amnt 10200                          10200
+816   rm1amnt 10800                          10800
+817   rm1amnt 10900                          10900
+818   rm1amnt 11400                          11400
+819   rm1amnt 11600                          11600
+820   rm1amnt 12000                         12000+
+821  rm1cntry    22                      Australia
+822  rm1cntry    23                    New Zealand
+823  rm1cntry    36       Pacific Island Countries
+824  rm1cntry    42                Asian Countries
+825  rm1cntry    45                           Iraq
+826  rm1cntry    48    Other Middle East countries
+827  rm1cntry    50                        Germany
+828  rm1cntry    52                             UK
+829  rm1cntry    54                         Canada
+830  rm1cntry    55                            USA
+831  rm1cntry    90                Other countries
+832  rm1cntry    99     Did not receive remittance
+833    rm1rel     1                        Husband
+834    rm1rel     2                           Wife
+835    rm1rel     3               Son  or daughter
+836    rm1rel     5 Son in law  or daughter in law
+837    rm1rel     7 Parents  or father in law  or 
+838    rm1rel     8 Brother in law  or sister in l
+839    rm1rel     9                Other relatives
+840    rm1rel    10                    Not related
+841    rm1rel    99     Did not receive remittance
+842    rm1occ     1                   Army officer
+843    rm1occ     2        Caretaker  or caregiver
+844    rm1occ     4                Domestic worker
+845    rm1occ     6                          Nurse
+846    rm1occ    11                 Security guard
+847    rm1occ    12                        Teacher
+848    rm1occ    15 Work attachments  or secondmen
+849    rm1occ    16                          Other
+850    rm1occ    99     Did not receive remittance
+851   rm1mode     1                  Bank transfer
+852   rm1mode     2        Money transfer agencies
+853   rm1mode     3                  Post  or mail
+854   rm1mode     4 Carried by relatives  or frien
+855   rm1mode     5                     Other mode
+856   rm1mode    99     Did not receive remittance
+857   rm2amnt     1                             No
+858   rm2amnt     2                            Yes
+859  anydisab     1                            Yes
+860  anydisab     2                             No
+861   disper1     0 No disabled person in househol
+862   disper1     1                              1
+863   disper1     2                              2
+864   disper1     3                              3
+865   disper1     4                              4
+866   disper1     5                              5
+867   disper1     6                              6
+868   disper1     7                              7
+869   disper1     8                              8
+870   disper1     9                              9
+871   disper1    10                             10
+872   disper1    11                             11
+873   disper1    12                             12
+874   disper1    13                             13
+875   disper1    14                             14
+876  distype1     1                         Seeing
+877  distype1     2                        Hearing
+878  distype1     3                       Speaking
+879  distype1     4                       Learning
+880  distype1     5                      Behaviour
+881  distype1     6                       Mobility
+882  distype1     7                  Personal care
+883  distype1     8  Seeing or personal care (1,7)
+884  distype1     9      Hearing or speaking (2,3)
+885  distype1    10   Speaking or behaviour (3, 5)
+886  distype1    11   Learning or behaviour (4, 5)
+887  distype1    12 Mobility or personal care (6,7
+888  distype1    13                          Other
+889  distype1    99 No disabled person in househol
+890   disper2     1                              1
+891   disper2     2                              2
+892   disper2     3                              3
+893   disper2     4                              4
+894   disper2     5                              5
+895   disper2     6                              6
+896   disper2     7                              7
+897   disper2     8                              8
+898   disper2     9                              9
+899   disper2    10                             10
+900   disper2    11                             11
+901   disper2    99 No disabled person or only one
+902  distype2     1                         Seeing
+903  distype2     2                          Other
+904  distype2     9 No disabled person or only one
+905    pernum     0               Household record
+906    pernum     1                              1
+907    pernum     2                              2
+908    pernum     3                              3
+909    pernum     4                              4
+910    pernum     5                              5
+911    pernum     6                              6
+912    pernum     7                              7
+913    pernum     8                              8
+914    pernum     9                              9
+915    pernum    10                             10
+916    pernum    11                             11
+917    pernum    12                             12
+918    pernum    13                             13
+919    pernum    14                             14
+920    pernum    15                             15
+921    pernum    16                             16
+922    pernum    17                             17
+923    pernum    18                             18
+924    pernum    19                             19
+925    pernum    20                             20
+926    pernum    21                             21
+927    pernum    22                             22
+928    pernum    23                             23
+929    pernum    24                             24
+930    pernum    25                             25
+931    pernum    26                             26
+932    relate     1                           Head
+933    relate     2                         Spouse
+934    relate     3               Son  or daughter
+935    relate     4       Adopted son  or daughter
+936    relate     5 Son in law  or daughter in law
+937    relate     6                     Grandchild
+938    relate     7      Parents or parents-in-law
+939    relate     8         Sibling/sibling-in-law
+940    relate     9                Other relatives
+941    relate    10                    Not related
+942       sex     1                           Male
+943       sex     2                         Female
+944   birthmo     1                        January
+945   birthmo     2                       February
+946   birthmo     3                          March
+947   birthmo     4                          April
+948   birthmo     5                            May
+949   birthmo     6                           June
+950   birthmo     7                           July
+951   birthmo     8                         August
+952   birthmo     9                      September
+953   birthmo    10                        October
+954   birthmo    11                       November
+955   birthmo    12                       December
+956   birthyr  1920                1920 or earlier
+957   birthyr  1921                           1921
+958   birthyr  1922                           1922
+959   birthyr  1923                           1923
+960   birthyr  1924                           1924
+961   birthyr  1925                           1925
+962   birthyr  1926                           1926
+963   birthyr  1927                           1927
+964   birthyr  1928                           1928
+965   birthyr  1929                           1929
+966   birthyr  1930                           1930
+967   birthyr  1931                           1931
+968   birthyr  1932                           1932
+969   birthyr  1933                           1933
+970   birthyr  1934                           1934
+971   birthyr  1935                           1935
+972   birthyr  1936                           1936
+973   birthyr  1937                           1937
+974   birthyr  1938                           1938
+975   birthyr  1939                           1939
+976   birthyr  1940                           1940
+977   birthyr  1941                           1941
+978   birthyr  1942                           1942
+979   birthyr  1943                           1943
+980   birthyr  1944                           1944
+981   birthyr  1945                           1945
+982   birthyr  1946                           1946
+983   birthyr  1947                           1947
+984   birthyr  1948                           1948
+985   birthyr  1949                           1949
+986   birthyr  1950                           1950
+987   birthyr  1951                           1951
+988   birthyr  1952                           1952
+989   birthyr  1953                           1953
+990   birthyr  1954                           1954
+991   birthyr  1955                           1955
+992   birthyr  1956                           1956
+993   birthyr  1957                           1957
+994   birthyr  1958                           1958
+995   birthyr  1959                           1959
+996   birthyr  1960                           1960
+997   birthyr  1961                           1961
+998   birthyr  1962                           1962
+999   birthyr  1963                           1963
+1000  birthyr  1964                           1964
+1001  birthyr  1965                           1965
+1002  birthyr  1966                           1966
+1003  birthyr  1967                           1967
+1004  birthyr  1968                           1968
+1005  birthyr  1969                           1969
+1006  birthyr  1970                           1970
+1007  birthyr  1971                           1971
+1008  birthyr  1972                           1972
+1009  birthyr  1973                           1973
+1010  birthyr  1974                           1974
+1011  birthyr  1975                           1975
+1012  birthyr  1976                           1976
+1013  birthyr  1977                           1977
+1014  birthyr  1978                           1978
+1015  birthyr  1979                           1979
+1016  birthyr  1980                           1980
+1017  birthyr  1981                           1981
+1018  birthyr  1982                           1982
+1019  birthyr  1983                           1983
+1020  birthyr  1984                           1984
+1021  birthyr  1985                           1985
+1022  birthyr  1986                           1986
+1023  birthyr  1987                           1987
+1024  birthyr  1988                           1988
+1025  birthyr  1989                           1989
+1026  birthyr  1990                           1990
+1027  birthyr  1991                           1991
+1028  birthyr  1992                           1992
+1029  birthyr  1993                           1993
+1030  birthyr  1994                           1994
+1031  birthyr  1995                           1995
+1032  birthyr  1996                           1996
+1033  birthyr  1997                           1997
+1034  birthyr  1998                           1998
+1035  birthyr  1999                           1999
+1036  birthyr  2000                           2000
+1037  birthyr  2001                           2001
+1038  birthyr  2002                           2002
+1039  birthyr  2003                           2003
+1040  birthyr  2004                           2004
+1041  birthyr  2005                           2005
+1042  birthyr  2006                           2006
+1043  birthyr  2007                           2007
+1044      age     0         Less than one year old
+1045      age     1                              1
+1046      age     2                              2
+1047      age     3                              3
+1048      age     4                              4
+1049      age     5                              5
+1050      age     6                              6
+1051      age     7                              7
+1052      age     8                              8
+1053      age     9                              9
+1054      age    10                             10
+1055      age    11                             11
+1056      age    12                             12
+1057      age    13                             13
+1058      age    14                             14
+1059      age    15                             15
+1060      age    16                             16
+1061      age    17                             17
+1062      age    18                             18
+1063      age    19                             19
+1064      age    20                             20
+1065      age    21                             21
+1066      age    22                             22
+1067      age    23                             23
+1068      age    24                             24
+1069      age    25                             25
+1070      age    26                             26
+1071      age    27                             27
+1072      age    28                             28
+1073      age    29                             29
+1074      age    30                             30
+1075      age    31                             31
+1076      age    32                             32
+1077      age    33                             33
+1078      age    34                             34
+1079      age    35                             35
+1080      age    36                             36
+1081      age    37                             37
+1082      age    38                             38
+1083      age    39                             39
+1084      age    40                             40
+1085      age    41                             41
+1086      age    42                             42
+1087      age    43                             43
+1088      age    44                             44
+1089      age    45                             45
+1090      age    46                             46
+1091      age    47                             47
+1092      age    48                             48
+1093      age    49                             49
+1094      age    50                             50
+1095      age    51                             51
+1096      age    52                             52
+1097      age    53                             53
+1098      age    54                             54
+1099      age    55                             55
+1100      age    56                             56
+1101      age    57                             57
+1102      age    58                             58
+1103      age    59                             59
+1104      age    60                             60
+1105      age    61                             61
+1106      age    62                             62
+1107      age    63                             63
+1108      age    64                             64
+1109      age    65                             65
+1110      age    66                             66
+1111      age    67                             67
+1112      age    68                             68
+1113      age    69                             69
+1114      age    70                             70
+1115      age    71                             71
+1116      age    72                             72
+1117      age    73                             73
+1118      age    74                             74
+1119      age    75                             75
+1120      age    76                             76
+1121      age    77                             77
+1122      age    78                             78
+1123      age    79                             79
+1124      age    80                             80
+1125      age    81                             81
+1126      age    82                             82
+1127      age    83                             83
+1128      age    84                             84
+1129      age    85                             85
+1130      age    86                             86
+1131      age    87                             87
+1132      age    88                            88+
+1133   ethnic     1                         Fijian
+1134   ethnic     2                         Indian
+1135   ethnic     3       Chinese  or Part Chinese
+1136   ethnic     4                       European
+1137   ethnic     5                  Part European
+1138   ethnic     6                        Rotuman
+1139   ethnic     7                        Banaban
+1140   ethnic     8                     I-Kiribati
+1141   ethnic     9                     Ni-Vanuatu
+1142   ethnic    10              Papua New Guinean
+1143   ethnic    11                         Samoan
+1144   ethnic    12                        Solomon
+1145   ethnic    13                         Tongan
+1146   ethnic    14                       Tuvaluan
+1147   ethnic    15         Other Pacific Islander
+1148   ethnic    16                    Other Asian
+1149   ethnic    17                     All Others
+1150    marst     1                         Single
+1151    marst     2 Legally married (not separated
+1152    marst     3  Separated but legally married
+1153    marst     4    De-facto (consensual union)
+1154    marst     5                       Divorced
+1155    marst     6                        Widowed
+1156 fathlive     1                          Alive
+1157 fathlive     2                           Dead
+1158 mothlive     1                          Alive
+1159 mothlive     2                           Dead
+1160   momloc     1                              1
+1161   momloc     2                              2
+1162   momloc     3                              3
+1163   momloc     4                              4
+1164   momloc     5                              5
+1165   momloc     6                              6
+1166   momloc     7                              7
+1167   momloc     8                              8
+1168   momloc     9                              9
+1169   momloc    10                             10
+1170   momloc    11                             11
+1171   momloc    12                             12
+1172   momloc    13                             13
+1173   momloc    14                             14
+1174   momloc    15                             15
+1175   momloc    16                             16
+1176   momloc    17                             17
+1177   momloc    18                             18
+1178   momloc    19                             19
+1179   momloc    20                             20
+1180   momloc    22                             22
+1181   momloc    23                             23
+1182   momloc    26                             26
+1183   momloc    99                            NIU
+1184 religion     1                      Methodist
+1185 religion     2                       Catholic
+1186 religion     3          Seventh Day Adventist
+1187 religion     4                Assembly of God
+1188 religion     5 All Nations Christian Fellowsh
+1189 religion     6                       Anglican
+1190 religion     7 Apostles Gospel Outreach Fello
+1191 religion     8                        Baptist
+1192 religion     9      Christian Outreach Centre
+1193 religion    10             CMF  or Every Home
+1194 religion    11                         Gospel
+1195 religion    12               Jehovahs Witness
+1196 religion    13              Latter Day Saints
+1197 religion    14                   Presbyterian
+1198 religion    15                 Salvation Army
+1199 religion    16                Other Christian
+1200 religion    17                      Ary Samaj
+1201 religion    18                   Kabir Panthi
+1202 religion    19                        Sanatan
+1203 religion    20                 Satya Sai Baba
+1204 religion    21                    Other Hindu
+1205 religion    22                           Sikh
+1206 religion    23                        Ahmadya
+1207 religion    24                          Sunni
+1208 religion    25                   Other Moslem
+1209 religion    26                          Bahai
+1210 religion    27                      Confucian
+1211 religion    28                          Other
+1212 religion    29     No Religion  or Not Stated
+1213  bplprov     1                             Ba
+1214  bplprov     2                            Bua
+1215  bplprov     3                     Cakaudrove
+1216  bplprov     4                         Kadavu
+1217  bplprov     5                            Lau
+1218  bplprov     6                      Lomaiviti
+1219  bplprov     7                        Macuata
+1220  bplprov     8               Nadroga orNavosa
+1221  bplprov     9                      Naitasiri
+1222  bplprov    10                         Namosi
+1223  bplprov    11                             Ra
+1224  bplprov    12                           Rewa
+1225  bplprov    13                          Serua
+1226  bplprov    14                        Tailevu
+1227  bplprov    15                         Rotuma
+1228  bplprov    22                      Australia
+1229  bplprov    23                    New Zealand
+1230  bplprov    26                       Kiribati
+1231  bplprov    32                Solomon Islands
+1232  bplprov    33                          Tonga
+1233  bplprov    34                         Tuvalu
+1234  bplprov    36 Other Pacific Island Countries
+1235  bplprov    37                          China
+1236  bplprov    38                          India
+1237  bplprov    39                          Japan
+1238  bplprov    41                    South Korea
+1239  bplprov    42          Other Asian Countries
+1240  bplprov    52                             UK
+1241  bplprov    55                            USA
+1242  bplprov    90                Other Countries
+1243   bpltik   101                             Ba
+1244   bpltik   102                        Magodro
+1245   bpltik   103                           Nadi
+1246   bpltik   104                         Naviti
+1247   bpltik   105                         Nawaka
+1248   bpltik   106                          Tavua
+1249   bpltik   107                           Vuda
+1250   bpltik   108                         Yasawa
+1251   bpltik   201                            Bua
+1252   bpltik   202                           Vuya
+1253   bpltik   203                        Wainunu
+1254   bpltik   301                     Cakaudrove
+1255   bpltik   302                     Nasavusavu
+1256   bpltik   303                           Rabi
+1257   bpltik   304                         Saqani
+1258   bpltik   305                        Tunuloa
+1259   bpltik   306                       Vaturova
+1260   bpltik   307                        Wailevu
+1261   bpltik   308                      Wainikeli
+1262   bpltik   401                     Nabukelevu
+1263   bpltik   402                         Naceva
+1264   bpltik   403                     Nakasaleka
+1265   bpltik   404                         Tavuki
+1266   bpltik   501                          Cicia
+1267   bpltik   502                         Kabara
+1268   bpltik   503                         Lakeba
+1269   bpltik   504                       Lomaloma
+1270   bpltik   505                         Matuku
+1271   bpltik   506                          Moala
+1272   bpltik   507                           Moce
+1273   bpltik   508                        Mualevu
+1274   bpltik   509                          Nayau
+1275   bpltik   510                         Oneata
+1276   bpltik   511                            Ono
+1277   bpltik   512                         Totoya
+1278   bpltik   513                         Vulaga
+1279   bpltik   514                  Other islands
+1280   bpltik   601                         Batiki
+1281   bpltik   602                            Gau
+1282   bpltik   603                           Koro
+1283   bpltik   604                         Nairai
+1284   bpltik   605                         Ovalau
+1285   bpltik   606        Lomaiviti other islands
+1286   bpltik   701                        Cikobia
+1287   bpltik   702                       Dogotuki
+1288   bpltik   703                         Labasa
+1289   bpltik   704                        Macuata
+1290   bpltik   705                           Sasa
+1291   bpltik   801                         Baravi
+1292   bpltik   802                           Cuvu
+1293   bpltik   803                         Malolo
+1294   bpltik   804                       Malomalo
+1295   bpltik   805                     Nasigatoka
+1296   bpltik   806                         Navosa
+1297   bpltik   807                      Ruwailevu
+1298   bpltik   808                       Vatulele
+1299   bpltik   901                      Lomaivuna
+1300   bpltik   902                     Matailobau
+1301   bpltik   903                      Naitasiri
+1302   bpltik   904                        Waimaro
+1303   bpltik   905                      Wainimala
+1304   bpltik  1001                         Namosi
+1305   bpltik  1002                     Veivatuloa
+1306   bpltik  1003               Wainikoro-i-luva
+1307   bpltik  1101                     Nakorotubu
+1308   bpltik  1102                         Nalawa
+1309   bpltik  1103                       Rakiraki
+1310   bpltik  1104                         Saivou
+1311   bpltik  1201                           Beqa
+1312   bpltik  1202                           Noco
+1313   bpltik  1203                           Rewa
+1314   bpltik  1204                           Suva
+1315   bpltik  1301                           Nuku
+1316   bpltik  1302                          Serua
+1317   bpltik  1401                            Bau
+1318   bpltik  1402                         Nakelo
+1319   bpltik  1403                       Sawakasa
+1320   bpltik  1404                         Verata
+1321   bpltik  1405                      Wainibuka
+1322   bpltik  1501                        Itumuta
+1323   bpltik  1502                         Itutiu
+1324   bpltik  1503                           Juju
+1325   bpltik  1504                        Malhaha
+1326   bpltik  1505                         Noatau
+1327   bpltik  1506                         Oinafa
+1328   bpltik  1507                         Pepjei
+1329   bpltik  9000                Foreign country
+1330   bplloc     0                     Rural Area
+1331   bplloc     1                           Suva
+1332   bplloc     2                           Lami
+1333   bplloc     3                        Nausori
+1334   bplloc     4                        Lautoka
+1335   bplloc     5                           Nadi
+1336   bplloc     6                             Ba
+1337   bplloc     7                       Sigatoka
+1338   bplloc     8                         Labasa
+1339   bplloc     9                       Savusavu
+1340   bplloc    10                         Levuka
+1341   bplloc    11                          Tavua
+1342   bplloc    12                       Rakiraki
+1343   bplloc    13                      Vatukoula
+1344   bplloc    14                          Navua
+1345   bplloc    15                        Korovou
+1346   bplloc    16                          Deuba
+1347   bplloc    17                      Nabouwalu
+1348   bplloc    18                        Seaqaqa
+1349   bplloc    19                         Nasinu
+1350   bplloc    99                            NIU
+1351  resprov     1                             Ba
+1352  resprov     2                            Bua
+1353  resprov     3                     Cakaudrove
+1354  resprov     4                         Kadavu
+1355  resprov     5                            Lau
+1356  resprov     6                      Lomaiviti
+1357  resprov     7                        Macuata
+1358  resprov     8              Nadroga or Navosa
+1359  resprov     9                      Naitasiri
+1360  resprov    10                         Namosi
+1361  resprov    11                             Ra
+1362  resprov    12                           Rewa
+1363  resprov    13                          Serua
+1364  resprov    14                        Tailevu
+1365  resprov    15                         Rotuma
+1366  resprov    22                      Australia
+1367  resprov    23                    New Zealand
+1368  resprov    26                       Kiribati
+1369  resprov    27               Marshall Islands
+1370  resprov    28                          Nauru
+1371  resprov    29                  New Caledonia
+1372  resprov    30               Papua New Guinea
+1373  resprov    31                          Samoa
+1374  resprov    32                Solomon Islands
+1375  resprov    33                          Tonga
+1376  resprov    34                         Tuvalu
+1377  resprov    35                        Vanuatu
+1378  resprov    36 Other Pacific Island Countries
+1379  resprov    37                          China
+1380  resprov    38                          India
+1381  resprov    39                          Japan
+1382  resprov    41                    South Korea
+1383  resprov    47                         Kuwait
+1384  resprov    48    Other Middle East countries
+1385  resprov    50                        Germany
+1386  resprov    55                            USA
+1387  resprov    58                        Liberia
+1388  resprov    59                          Sudan
+1389  resprov    61                Other Countries
+1390   restik   101                             Ba
+1391   restik   102                        Magodro
+1392   restik   103                           Nadi
+1393   restik   104                         Naviti
+1394   restik   105                         Nawaka
+1395   restik   106                          Tavua
+1396   restik   107                           Vuda
+1397   restik   108                         Yasawa
+1398   restik   201                            Bua
+1399   restik   202                           Vuya
+1400   restik   203                        Wainunu
+1401   restik   301                     Cakaudrove
+1402   restik   302                     Nasavusavu
+1403   restik   303                           Rabi
+1404   restik   304                         Saqani
+1405   restik   305                        Tunuloa
+1406   restik   306                       Vaturova
+1407   restik   307                        Wailevu
+1408   restik   308                      Wainikeli
+1409   restik   401                     Nabukelevu
+1410   restik   402                         Naceva
+1411   restik   403                     Nakasaleka
+1412   restik   404                         Tavuki
+1413   restik   501                          Cicia
+1414   restik   502                         Kabara
+1415   restik   503                         Lakeba
+1416   restik   504                       Lomaloma
+1417   restik   505                         Matuku
+1418   restik   506                          Moala
+1419   restik   507                           Moce
+1420   restik   508                        Mualevu
+1421   restik   509                          Nayau
+1422   restik   510                         Oneata
+1423   restik   511                            Ono
+1424   restik   512                         Totoya
+1425   restik   513                         Vulaga
+1426   restik   514                  Other islands
+1427   restik   601                         Batiki
+1428   restik   602                            Gau
+1429   restik   603                           Koro
+1430   restik   604                         Nairai
+1431   restik   605                         Ovalau
+1432   restik   606        Lomaiviti other islands
+1433   restik   701                        Cikobia
+1434   restik   702                       Dogotuki
+1435   restik   703                         Labasa
+1436   restik   704                        Macuata
+1437   restik   705                           Sasa
+1438   restik   801                         Baravi
+1439   restik   802                           Cuvu
+1440   restik   803                         Malolo
+1441   restik   804                       Malomalo
+1442   restik   805                     Nasigatoka
+1443   restik   806                         Navosa
+1444   restik   807                      Ruwailevu
+1445   restik   808                       Vatulele
+1446   restik   901                      Lomaivuna
+1447   restik   902                     Matailobau
+1448   restik   903                      Naitasiri
+1449   restik   904                        Waimaro
+1450   restik   905                      Wainimala
+1451   restik  1001                         Namosi
+1452   restik  1002                     Veivatuloa
+1453   restik  1003               Wainikoro-i-luva
+1454   restik  1101                     Nakorotubu
+1455   restik  1102                         Nalawa
+1456   restik  1103                       Rakiraki
+1457   restik  1104                         Saivou
+1458   restik  1201                           Beqa
+1459   restik  1202                           Noco
+1460   restik  1203                           Rewa
+1461   restik  1204                           Suva
+1462   restik  1301                           Nuku
+1463   restik  1302                          Serua
+1464   restik  1401                            Bau
+1465   restik  1402                         Nakelo
+1466   restik  1403                       Sawakasa
+1467   restik  1404                         Verata
+1468   restik  1405                      Wainibuka
+1469   restik  1502                         Itutiu
+1470   restik  1503                           Juju
+1471   restik  1505                         Noatau
+1472   restik  1507                         Pepjei
+1473   restik  1599  Other tikina, Rotuma district
+1474   restik  9000                Foreign country
+1475   resloc     0                     Rural area
+1476   resloc     1                           Suva
+1477   resloc     2                           Lami
+1478   resloc     3                        Nausori
+1479   resloc     4                        Lautoka
+1480   resloc     5                           Nadi
+1481   resloc     6                             Ba
+1482   resloc     7                       Sigatoka
+1483   resloc     8                         Labasa
+1484   resloc     9                       Savusavu
+1485   resloc    10                         Levuka
+1486   resloc    11                          Tavua
+1487   resloc    12                       Rakiraki
+1488   resloc    13                      Vatukoula
+1489   resloc    14                          Navua
+1490   resloc    15                        Korovou
+1491   resloc    16                          Deuba
+1492   resloc    17                      Nabouwalu
+1493   resloc    18                        Seaqaqa
+1494   resloc    19                         Nasinu
+1495   resloc    99                            NIU
+1496  prov5yr     1                             Ba
+1497  prov5yr     2                            Bua
+1498  prov5yr     3                     Cakaudrove
+1499  prov5yr     4                         Kadavu
+1500  prov5yr     5                            Lau
+1501  prov5yr     6                      Lomaiviti
+1502  prov5yr     7                        Macuata
+1503  prov5yr     8               Nadroga orNavosa
+1504  prov5yr     9                      Naitasiri
+1505  prov5yr    10                         Namosi
+1506  prov5yr    11                             Ra
+1507  prov5yr    12                           Rewa
+1508  prov5yr    13                          Serua
+1509  prov5yr    14                        Tailevu
+1510  prov5yr    15                         Rotuma
+1511  prov5yr    22                      Australia
+1512  prov5yr    23                    New Zealand
+1513  prov5yr    24                    Cook Island
+1514  prov5yr    25               French Polynesia
+1515  prov5yr    26                       Kiribati
+1516  prov5yr    27               Marshall Islands
+1517  prov5yr    28                          Nauru
+1518  prov5yr    29                  New Caledonia
+1519  prov5yr    30               Papua New Guinea
+1520  prov5yr    31                          Samoa
+1521  prov5yr    32                Solomon Islands
+1522  prov5yr    33                          Tonga
+1523  prov5yr    34                         Tuvalu
+1524  prov5yr    35                        Vanuatu
+1525  prov5yr    36 Other Pacific Island Countries
+1526  prov5yr    37                          China
+1527  prov5yr    38                          India
+1528  prov5yr    39                          Japan
+1529  prov5yr    40                       Malaysia
+1530  prov5yr    41                    South Korea
+1531  prov5yr    42          Other Asian Countries
+1532  prov5yr    44                          Egypt
+1533  prov5yr    45                           Iraq
+1534  prov5yr    46                         Israel
+1535  prov5yr    47                         Kuwait
+1536  prov5yr    48    Other Middle East countries
+1537  prov5yr    49                         France
+1538  prov5yr    50                        Germany
+1539  prov5yr    51                          Italy
+1540  prov5yr    52                             UK
+1541  prov5yr    53       Other European Countries
+1542  prov5yr    54                         Canada
+1543  prov5yr    55                            USA
+1544  prov5yr    56 Other North American Countries
+1545  prov5yr    57                  South America
+1546  prov5yr    58                        Liberia
+1547  prov5yr    60        Other African Countries
+1548  prov5yr    61                Other Countries
+1549  prov5yr    98                        Unknown
+1550  prov5yr    99                            NIU
+1551   tik5yr   101                             Ba
+1552   tik5yr   102                        Magodro
+1553   tik5yr   103                           Nadi
+1554   tik5yr   104                         Naviti
+1555   tik5yr   105                         Nawaka
+1556   tik5yr   106                          Tavua
+1557   tik5yr   107                           Vuda
+1558   tik5yr   108                         Yasawa
+1559   tik5yr   201                            Bua
+1560   tik5yr   202                           Vuya
+1561   tik5yr   203                        Wainunu
+1562   tik5yr   301                     Cakaudrove
+1563   tik5yr   302                     Nasavusavu
+1564   tik5yr   303                           Rabi
+1565   tik5yr   304                         Saqani
+1566   tik5yr   305                        Tunuloa
+1567   tik5yr   306                       Vaturova
+1568   tik5yr   307                        Wailevu
+1569   tik5yr   308                      Wainikeli
+1570   tik5yr   401                     Nabukelevu
+1571   tik5yr   402                         Naceva
+1572   tik5yr   403                     Nakasaleka
+1573   tik5yr   404                         Tavuki
+1574   tik5yr   501                          Cicia
+1575   tik5yr   502                         Kabara
+1576   tik5yr   503                         Lakeba
+1577   tik5yr   504                       Lomaloma
+1578   tik5yr   505                         Matuku
+1579   tik5yr   506                          Moala
+1580   tik5yr   507                           Moce
+1581   tik5yr   508                        Mualevu
+1582   tik5yr   509                          Nayau
+1583   tik5yr   511                            Ono
+1584   tik5yr   512                         Totoya
+1585   tik5yr   513                         Vulaga
+1586   tik5yr   599     Other Tikina, Lau district
+1587   tik5yr   602                            Gau
+1588   tik5yr   603                           Koro
+1589   tik5yr   604                         Nairai
+1590   tik5yr   605                         Ovalau
+1591   tik5yr   699 Other Tikina, Lomaiviti distri
+1592   tik5yr   701                        Cikobia
+1593   tik5yr   702                       Dogotuki
+1594   tik5yr   703                         Labasa
+1595   tik5yr   704                        Macuata
+1596   tik5yr   705                           Sasa
+1597   tik5yr   801                         Baravi
+1598   tik5yr   802                           Cuvu
+1599   tik5yr   803                         Malolo
+1600   tik5yr   804                       Malomalo
+1601   tik5yr   805                     Nasigatoka
+1602   tik5yr   806                         Navosa
+1603   tik5yr   807                      Ruwailevu
+1604   tik5yr   808                       Vatulele
+1605   tik5yr   901                      Lomaivuna
+1606   tik5yr   902                     Matailobau
+1607   tik5yr   903                      Naitasiri
+1608   tik5yr   904                        Waimaro
+1609   tik5yr   905                      Wainimala
+1610   tik5yr  1001                         Namosi
+1611   tik5yr  1002                     Veivatuloa
+1612   tik5yr  1003               Wainikoro-i-luva
+1613   tik5yr  1101                     Nakorotubu
+1614   tik5yr  1102                         Nalawa
+1615   tik5yr  1103                       Rakiraki
+1616   tik5yr  1104                         Saivou
+1617   tik5yr  1201                           Beqa
+1618   tik5yr  1202                           Noco
+1619   tik5yr  1203                           Rewa
+1620   tik5yr  1204                           Suva
+1621   tik5yr  1301                           Nuku
+1622   tik5yr  1302                          Serua
+1623   tik5yr  1401                            Bau
+1624   tik5yr  1402                         Nakelo
+1625   tik5yr  1403                       Sawakasa
+1626   tik5yr  1404                         Verata
+1627   tik5yr  1405                      Wainibuka
+1628   tik5yr  1502                         Itutiu
+1629   tik5yr  1505                         Noatau
+1630   tik5yr  1599  Other tikina, Rotuma district
+1631   tik5yr  9000                Foreign country
+1632   tik5yr  9998                        Unknown
+1633   tik5yr  9999                            NIU
+1634   loc5yr     0                     Rural Area
+1635   loc5yr     1                           Suva
+1636   loc5yr     2                           Lami
+1637   loc5yr     3                        Nausori
+1638   loc5yr     4                        Lautoka
+1639   loc5yr     5                           Nadi
+1640   loc5yr     6                             Ba
+1641   loc5yr     7                       Sigatoka
+1642   loc5yr     8                         Labasa
+1643   loc5yr     9                       Savusavu
+1644   loc5yr    10                         Levuka
+1645   loc5yr    11                          Tavua
+1646   loc5yr    12                       Rakiraki
+1647   loc5yr    13                      Vatukoula
+1648   loc5yr    14                          Navua
+1649   loc5yr    15                        Korovou
+1650   loc5yr    16                          Deuba
+1651   loc5yr    17                      Nabouwalu
+1652   loc5yr    18                        Seaqaqa
+1653   loc5yr    19                         Nasinu
+1654   loc5yr    99                            NIU
+1655  origtik   101                             Ba
+1656  origtik   102                        Magodro
+1657  origtik   103                           Nadi
+1658  origtik   104                         Naviti
+1659  origtik   105                         Nawaka
+1660  origtik   106                          Tavua
+1661  origtik   107                           Vuda
+1662  origtik   108                         Yasawa
+1663  origtik   201                            Bua
+1664  origtik   202                           Vuya
+1665  origtik   203                        Wainunu
+1666  origtik   301                     Cakaudrove
+1667  origtik   302                     Nasavusavu
+1668  origtik   303                           Rabi
+1669  origtik   304                         Saqani
+1670  origtik   305                        Tunuloa
+1671  origtik   306                       Vaturova
+1672  origtik   307                        Wailevu
+1673  origtik   308                      Wainikeli
+1674  origtik   401                     Nabukelevu
+1675  origtik   402                         Naceva
+1676  origtik   403                     Nakasaleka
+1677  origtik   404                         Tavuki
+1678  origtik   501                          Cicia
+1679  origtik   502                         Kabara
+1680  origtik   503                         Lakeba
+1681  origtik   504                       Lomaloma
+1682  origtik   505                         Matuku
+1683  origtik   506                          Moala
+1684  origtik   507                           Moce
+1685  origtik   508                        Mualevu
+1686  origtik   509                          Nayau
+1687  origtik   511                            Ono
+1688  origtik   512                         Totoya
+1689  origtik   513                         Vulaga
+1690  origtik   599     Other Tikina, Lau district
+1691  origtik   601                         Batiki
+1692  origtik   602                            Gau
+1693  origtik   603                           Koro
+1694  origtik   604                         Nairai
+1695  origtik   605                         Ovalau
+1696  origtik   606        Lomaiviti other islands
+1697  origtik   701                        Cikobia
+1698  origtik   702                       Dogotuki
+1699  origtik   703                         Labasa
+1700  origtik   704                        Macuata
+1701  origtik   705                           Sasa
+1702  origtik   801                         Baravi
+1703  origtik   802                           Cuvu
+1704  origtik   803                         Malolo
+1705  origtik   804                       Malomalo
+1706  origtik   805                     Nasigatoka
+1707  origtik   806                         Navosa
+1708  origtik   807                      Ruwailevu
+1709  origtik   808                       Vatulele
+1710  origtik   901                      Lomaivuna
+1711  origtik   902                     Matailobau
+1712  origtik   903                      Naitasiri
+1713  origtik   904                        Waimaro
+1714  origtik   905                      Wainimala
+1715  origtik  1001                         Namosi
+1716  origtik  1002                     Veivatuloa
+1717  origtik  1003               Wainikoro-i-luva
+1718  origtik  1101                     Nakorotubu
+1719  origtik  1102                         Nalawa
+1720  origtik  1103                       Rakiraki
+1721  origtik  1104                         Saivou
+1722  origtik  1201                           Beqa
+1723  origtik  1202                           Noco
+1724  origtik  1203                           Rewa
+1725  origtik  1204                           Suva
+1726  origtik  1301                           Nuku
+1727  origtik  1302                          Serua
+1728  origtik  1401                            Bau
+1729  origtik  1402                         Nakelo
+1730  origtik  1403                       Sawakasa
+1731  origtik  1404                         Verata
+1732  origtik  1405                      Wainibuka
+1733  origtik  1501                        Itumuta
+1734  origtik  1502                         Itutiu
+1735  origtik  1503                           Juju
+1736  origtik  1504                        Malhaha
+1737  origtik  1505                         Noatau
+1738  origtik  1506                         Oinafa
+1739  origtik  1507                         Pepjei
+1740  origtik  9999                            NIU
+1741  resstat     1                   Fiji citizen
+1742  resstat     2                  Permit holder
+1743   school     1                      Full time
+1744   school     2                      Part time
+1745   school     3                    Left school
+1746   school     4                 Never attended
+1747 edattend     0                   Kindergarten
+1748 edattend     1              Primary - Class 1
+1749 edattend     2              Primary - Class 2
+1750 edattend     3              Primary - Class 3
+1751 edattend     4              Primary - Class 4
+1752 edattend     5              Primary - Class 5
+1753 edattend     6              Primary - Class 6
+1754 edattend     9             Secondary - Form 1
+1755 edattend    10             Secondary - Form 2
+1756 edattend    11             Secondary - Form 3
+1757 edattend    12             Secondary - Form 4
+1758 edattend    13             Secondary - Form 5
+1759 edattend    14             Secondary - Form 6
+1760 edattend    15 Post-Secondary (Form 7 or Foun
+1761 edattend    17           Certificate - Year 1
+1762 edattend    18          Certificate - Year 2+
+1763 edattend    20               Diploma - Year 1
+1764 edattend    21               Diploma - Year 2
+1765 edattend    22              Diploma - Year 3+
+1766 edattend    24                Degree - Year 1
+1767 edattend    25                Degree - Year 2
+1768 edattend    26                Degree - Year 3
+1769 edattend    27               Degree - Year 4+
+1770 edattend    28 Post Grad Certificate or Diplo
+1771 edattend    35                 Masters or PhD
+1772 edattend    40                          Other
+1773 edattend    99                            NIU
+1774 edattain     0                   Kindergarten
+1775 edattain     1              Primary - Class 1
+1776 edattain     2              Primary - Class 2
+1777 edattain     3              Primary - Class 3
+1778 edattain     4              Primary - Class 4
+1779 edattain     5              Primary - Class 5
+1780 edattain     6              Primary - Class 6
+1781 edattain     9             Secondary - Form 1
+1782 edattain    10             Secondary - Form 2
+1783 edattain    11             Secondary - Form 3
+1784 edattain    12             Secondary - Form 4
+1785 edattain    13             Secondary - Form 5
+1786 edattain    14             Secondary - Form 6
+1787 edattain    15 Post-Secondary (Form 7 or Foun
+1788 edattain    17           Certificate - Year 1
+1789 edattain    18          Certificate - Year 2+
+1790 edattain    19               Diploma - Year 1
+1791 edattain    20              Diploma - Year 2+
+1792 edattain    24                         Degree
+1793 edattain    28 Post Grad Certificate or Diplo
+1794 edattain    35                Masters and PhD
+1795 edattain    40                          Other
+1796 edattain    99                            NIU
+1797   edinst     1 University of the South Pacifi
+1798   edinst     3 Fiji Institute of Technology (
+1799   edinst     4        Fiji School of Medicine
+1800   edinst     5   Fiji School of Nursing (FSN)
+1801   edinst     6        FCAE (Advanced College)
+1802   edinst     7 Fiji College of Agriculture (F
+1803   edinst     8 LTC  or NTC (Teachers College)
+1804   edinst     9                         APTECH
+1805   edinst    10                Corpus Christie
+1806   edinst    11          Davuilevu Theological
+1807   edinst    12                 Fulton College
+1808   edinst    15                          NZPTC
+1809   edinst    20                  TPAF  or FNTC
+1810   edinst    21       Other Local Institutions
+1811   edinst    22                      Australia
+1812   edinst    23                    New Zealand
+1813   edinst    38                          India
+1814   edinst    42          Other Asian Countries
+1815   edinst    52                             UK
+1816   edinst    55                            USA
+1817   edinst    90                  Other foreign
+1818   edinst    99                            NIU
+1819   travel     1                    Private car
+1820   travel     2                      Share car
+1821   travel     3                    Company car
+1822   travel     4                   Private boat
+1823   travel     5                           Taxi
+1824   travel     6                            Bus
+1825   travel     7                        Minibus
+1826   travel     8           Motor cycle  or bike
+1827   travel     9                        On foot
+1828   travel    10                          Other
+1829 wklastwk     1                            Yes
+1830 wklastwk     2                             No
+1831 wklastwk     9                            NIU
+1832 worktype     1                 Work for money
+1833 worktype     2                  Work for sale
+1834 worktype     3           Work for consumption
+1835 worktype     4           Money and sale (1,2)
+1836 worktype     5 Money, sale and consumption (1
+1837 worktype     6    Money and consumption (1,3)
+1838 worktype     7     Sale and consumption (2,3)
+1839 worktype     8                        Unknown
+1840 worktype     9                            NIU
+1841     occ1     0                   Armed forces
+1842     occ1     1 Legislators, senior officials 
+1843     occ1     2                  Professionals
+1844     occ1     3 Technicians and associate prof
+1845     occ1     4                         Clerks
+1846     occ1     5                Service workers
+1847     occ1     6 Skilled agricultrue and fisher
+1848     occ1     7                  Craft workers
+1849     occ1     8    Plant and machine operators
+1850     occ1     9             Elementary workers
+1851     occ1    99                            NIU
+1852     occ3    11                   Armed forces
+1853     occ3   112    Senior government officials
+1854     occ3   121 Directors, chief executive off
+1855     occ3   122          Managers, supervisors
+1856     occ3   133               Product managers
+1857     occ3   144            Department managers
+1858     occ3   222  Doctors, health professionals
+1859     occ3   223          Nursing and midwifery
+1860     occ3   231         Teaching professionals
+1861     occ3   232      Secondary school teachers
+1862     occ3   233        Primary school teachers
+1863     occ3   241 Accountants, business professi
+1864     occ3   242            Legal professionals
+1865     occ3   243             Library archivists
+1866     occ3   245            Writers, other arts
+1867     occ3   246         Religion professionals
+1868     occ3   299 Professionals, not elsewhere c
+1869     occ3   311 Physical engineering technicia
+1870     occ3   312           Computer technicians
+1871     occ3   313            Optical technicians
+1872     occ3   314     Ship, aircraft technicians
+1873     occ3   315              Safety inspectors
+1874     occ3   321       Life science technicians
+1875     occ3   322 Health assocciate professional
+1876     occ3   323          Nursing professionals
+1877     occ3   331 Sales assisstant professionals
+1878     occ3   332                Business agents
+1879     occ3   333 Admin assisstant professionals
+1880     occ3   334            Customs, tax agents
+1881     occ3   336 Social assistance professional
+1882     occ3   337  Arts assistance professionals
+1883     occ3   338 Religion assistance profession
+1884     occ3   411       Secrectary stenographers
+1885     occ3   412  Accounting, statistics clerks
+1886     occ3   413                  Record clerks
+1887     occ3   414           Library, mail clerks
+1888     occ3   419                   Other clerks
+1889     occ3   421              Cashiers, tellers
+1890     occ3   422      Client information clerks
+1891     occ3   511        Travel relation workers
+1892     occ3   512    Cooks,waiters,hotel-keepers
+1893     occ3   513          Personal care workers
+1894     occ3   514       Personal service workers
+1895     occ3   515 Police personnel, fire officer
+1896     occ3   521           Shop sales personnel
+1897     occ3   522          Marketing salesperson
+1898     occ3   611                   Crop farmers
+1899     occ3   612                 Animal farmers
+1900     occ3   615      Loggers, forestry workers
+1901     occ3   616                      Fishermen
+1902     occ3   621            Subsistence workers
+1903     occ3   711          Miners quarry workers
+1904     occ3   712       Building related workers
+1905     occ3   713             Building finishers
+1906     occ3   721                  Metal workers
+1907     occ3   723              Mechanics fitters
+1908     occ3   724 Electricals and electronics fi
+1909     occ3   732              Glass and potters
+1910     occ3   733             Handicraft workers
+1911     occ3   734                       Printers
+1912     occ3   741               Butchers, bakers
+1913     occ3   742                 Cabinet makers
+1914     occ3   743                Garment workers
+1915     occ3   799 Craft workers, not elsewhere c
+1916     occ3   813         Wood plant opererators
+1917     occ3   815          Power plant operators
+1918     occ3   821      Metal machinery operators
+1919     occ3   826    Leather machinery operators
+1920     occ3   827       Food machinery operators
+1921     occ3   831                   Loco drivers
+1922     occ3   832        Machine, vehical driver
+1923     occ3   833            Mobile plant driver
+1924     occ3   834             Ships deck workers
+1925     occ3   899 Plant and machine operators, n
+1926     occ3   911                 Street vendors
+1927     occ3   913               Domestic workers
+1928     occ3   914            Building caretakers
+1929     occ3   915        Porters related workers
+1930     occ3   921 Agriculture and fishery labour
+1931     occ3   931 Construction and mining labour
+1932     occ3   932        Manufacturing labourers
+1933     occ3   933               Freight handlers
+1934     occ3   949 Elementary workers, not elsewh
+1935     occ3   990 Other occupations, response su
+1936     occ3   999                            NIU
+1937     ind2     1                    Agriculture
+1938     ind2     2           Forestry and logging
+1939     ind2     5 Fishing excluding subsistence 
+1940     ind2    13               Metal ore mining
+1941     ind2    14                   Other mining
+1942     ind2    15 Manufacturing of food beverage
+1943     ind2    17 Textiles wearing apparel and l
+1944     ind2    19 Manufacture of wood and wood p
+1945     ind2    21 Manufacture of paper and paper
+1946     ind2    24 Manufacture of checmicals and 
+1947     ind2    26 Manufacture of cement, cement 
+1948     ind2    27         Basic metal industries
+1949     ind2    28 Manufacture of machinery excep
+1950     ind2    34 Other manufacturing industries
+1951     ind2    40                    Electricity
+1952     ind2    41         Water works and supply
+1953     ind2    45                   Construction
+1954     ind2    50                Wholesale trade
+1955     ind2    52                   Retail trade
+1956     ind2    55         Restaurants and hotels
+1957     ind2    60                      Transport
+1958     ind2    61         Communication services
+1959     ind2    65         Financial institutions
+1960     ind2    66                      Insurance
+1961     ind2    67 Real estate and business servi
+1962     ind2    71 Public administration and rela
+1963     ind2    74  Sanitary and similar services
+1964     ind2    80             Education services
+1965     ind2    85 Recreational and cultural serv
+1966     ind2    90 Personal and household service
+1967     ind2    99 International and other extra-
+1968     ind2   998                        Unknown
+1969     ind2   999                            NIU
+1970  workloc     1                         Formal
+1971  workloc     2                       Informal
+1972  workloc     9                            NIU
+1973 classwkr     1                       Employee
+1974 classwkr     2                       Employer
+1975 classwkr     3                  Self-employed
+1976 classwkr     4           Unpaid family worker
+1977 classwkr     9                            NIU
+1978  payfreq     1                          Daily
+1979  payfreq     2                         Weekly
+1980  payfreq     3                    Fortnightly
+1981  payfreq     4                        Monthly
+1982  payfreq     5            By sale or job done
+1983  payfreq     6       Volunteer with allowance
+1984  payfreq     7                          Other
+1985  payfreq     9                            NIU
+1986 lookwork     1                            Yes
+1987 lookwork     2                             No
+1988 lookwork     8                        Unknown
+1989 lookwork     9                            NIU
+1990 availabl     1                            Yes
+1991 availabl     2                             No
+1992 availabl     8                        Unknown
+1993 availabl     9                            NIU
+1994 homemale     0                              0
+1995 homemale     1                              1
+1996 homemale     2                              2
+1997 homemale     3                              3
+1998 homemale     4                              4
+1999 homemale     5                             5+
+2000 homemale    99                            NIU
+2001  homefem     0                              0
+2002  homefem     1                              1
+2003  homefem     2                              2
+2004  homefem     3                              3
+2005  homefem     4                              4
+2006  homefem     5                             5+
+2007  homefem    99                            NIU
+2008  homechd     0                              0
+2009  homechd     1                              1
+2010  homechd     2                              2
+2011  homechd     3                              3
+2012  homechd     4                              4
+2013  homechd     5                              5
+2014  homechd     6                              6
+2015  homechd     7                              7
+2016  homechd     8                             8+
+2017  homechd    99                            NIU
+2018 awaymale     0                              0
+2019 awaymale     1                              1
+2020 awaymale     2                              2
+2021 awaymale     3                              3
+2022 awaymale     4                              4
+2023 awaymale     5                              5
+2024 awaymale     6                             6+
+2025 awaymale    99                            NIU
+2026  awayfem     0                              0
+2027  awayfem     1                              1
+2028  awayfem     2                              2
+2029  awayfem     3                              3
+2030  awayfem     4                              4
+2031  awayfem     5                              5
+2032  awayfem     6                             6+
+2033  awayfem    99                            NIU
+2034  awaychd     0                              0
+2035  awaychd     1                              1
+2036  awaychd     2                              2
+2037  awaychd     3                              3
+2038  awaychd     4                              4
+2039  awaychd     5                              5
+2040  awaychd     6                              6
+2041  awaychd     7                              7
+2042  awaychd     8                              8
+2043  awaychd     9                              9
+2044  awaychd    10                            10+
+2045  awaychd    99                            NIU
+2046  chdeadm     0                              0
+2047  chdeadm     1                              1
+2048  chdeadm     2                              2
+2049  chdeadm     3                             3+
+2050  chdeadm    99                            NIU
+2051  chdeadf     0                              0
+2052  chdeadf     1                              1
+2053  chdeadf     2                              2
+2054  chdeadf     3                             3+
+2055  chdeadf    99                            NIU
+2056   chdead     0                              0
+2057   chdead     1                              1
+2058   chdead     2                              2
+2059   chdead     3                              3
+2060   chdead     4                             4+
+2061   chdead    99                            NIU
+2062  chbornm     0                              0
+2063  chbornm     1                              1
+2064  chbornm     2                              2
+2065  chbornm     3                              3
+2066  chbornm     4                              4
+2067  chbornm     5                              5
+2068  chbornm     6                              6
+2069  chbornm     7                             7+
+2070  chbornm    99                            NIU
+2071  chbornf     0                              0
+2072  chbornf     1                              1
+2073  chbornf     2                              2
+2074  chbornf     3                              3
+2075  chbornf     4                              4
+2076  chbornf     5                              5
+2077  chbornf     6                              6
+2078  chbornf     7                             7+
+2079  chbornf    99                            NIU
+2080  lastbmo     1                        January
+2081  lastbmo     2                       February
+2082  lastbmo     3                          March
+2083  lastbmo     4                          April
+2084  lastbmo     5                            May
+2085  lastbmo     6                           June
+2086  lastbmo     7                           July
+2087  lastbmo     8                         August
+2088  lastbmo     9                      September
+2089  lastbmo    10                        October
+2090  lastbmo    11                       November
+2091  lastbmo    12                       December
+2092  lastbmo    99                            NIU
+2093 lastbsex     1                           Male
+2094 lastbsex     2                         Female
+2095 lastbsex     9                            NIU
+2096  chsurvm     0                     0 children
+2097  chsurvm     1                     1 children
+2098  chsurvm     2                     2 children
+2099  chsurvm     3                     3 children
+2100  chsurvm     4                     4 children
+2101  chsurvm     5                     5 children
+2102  chsurvm     6                     6 children
+2103  chsurvm     7                    7+ children
+2104  chsurvm    99                            NIU
+2105  chsurvf     0                     0 children
+2106  chsurvf     1                     1 children
+2107  chsurvf     2                     2 children
+2108  chsurvf     3                     3 children
+2109  chsurvf     4                     4 children
+2110  chsurvf     5                     5 children
+2111  chsurvf     6                     6 children
+2112  chsurvf     7                    7+ children
+2113  chsurvf    99                            NIU
+2114   subfam     0      No subfamily in household
+2115   subfam     1                    Subfamily 1
+2116   subfam     2                    Subfamily 2
+2117   subfam     3                    Subfamily 3
+2118   subfam     4                    Subfamily 4
+2119   subfam     5            Subfamily 5 or more
+2120   subrel     1                           Head
+2121   subrel     2                         Spouse
+2122   subrel     3                          Child
+2123   subrel     0      No subfamily in household
+2124   migbpl     1 Birthplace same as current pro
+2125   migbpl     2 Birthplace different from curr
+2126   migbpl     9                        Unknown
+2127   mig5yr     1 Residence 5 years ago same as 
+2128   mig5yr     2 Residence 5 years ago  differe
+2129   mig5yr     8                        Unknown
+2130   mig5yr     9                            NIU
+2131  migorig     1 Place of origin same as curren
+2132  migorig     2 Place of origin different from
+2133  migorig     8                        Unknown
+2134  migorig     9                            NIU
+2135   migbpe     1 Lived in current province at b
+2136   migbpe     2 Lived in same province at birt
+2137   migbpe     3 Lived in current province at b
+2138   migbpe     4 Lived in current province in 2
+2139   migbpe     5 Different provinces at each of
+2140   migbpe     8                        Unknown
+2141   migbpe     9                            NIU
+2142  mother0    16                             16
+2143  mother0    17                             17
+2144  mother0    18                             18
+2145  mother0    19                             19
+2146  mother0    20                             20
+2147  mother0    21                             21
+2148  mother0    22                             22
+2149  mother0    23                             23
+2150  mother0    24                             24
+2151  mother0    25                             25
+2152  mother0    26                             26
+2153  mother0    27                             27
+2154  mother0    28                             28
+2155  mother0    29                             29
+2156  mother0    30                             30
+2157  mother0    31                             31
+2158  mother0    32                             32
+2159  mother0    33                             33
+2160  mother0    34                             34
+2161  mother0    35                             35
+2162  mother0    36                             36
+2163  mother0    37                             37
+2164  mother0    38                             38
+2165  mother0    39                             39
+2166  mother0    40                             40
+2167  mother0    41                             41
+2168  mother0    42                             42
+2169  mother0    43                             43
+2170  mother0    44                             44
+2171  mother0    45                             45
+2172  mother0    46                             46
+2173  mother0    47                             47
+2174  mother0    49                             49
+2175  mother0    98                        Unknown
+2176  mother0    99                            NIU

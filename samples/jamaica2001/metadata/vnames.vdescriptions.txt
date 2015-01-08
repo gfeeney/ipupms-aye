@@ -1,0 +1,138 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      dwnum                                                   Dwelling number
+6      hhnum                                Household number (within dwelling)
+7        hhn                                  Number of households in dwelling
+8      pernd                                     Number of persons in dwelling
+9       pern                                    Number of persons in household
+10      fbig Dwelling created by splitting apart a large dwelling or household
+11    parish                                                            Parish
+12      inst                                                Group housing unit
+13    sector                                                            Sector
+14   typhous                                              Type of housing unit
+15      wall                                             Material of the walls
+16      roof                                              Material of the roof
+17  ownershp                                         Ownership of the dwelling
+18   ownland                                             Ownership of the land
+19     rooms                                                   Number of rooms
+20  bedrooms                                 Number of rooms used for sleeping
+21   kitchen                                            Kitchen or kitchenette
+22      sink                   Sink connected to a water supply and waste pipe
+23  bathroom                                                          Bathroom
+24    shower                                              Fixed bath or shower
+25   garbage                                        Method of garbage disposal
+26    toilet                                         Type of toilet facilities
+27  toiletex                                                        Toilet use
+28  lighting                                                Source of lighting
+29  fuelcook                                        Fuel used most for cooking
+30    watsup                                   Source of domestic water supply
+31        pc                                                 Personal computer
+32  internet                                               Internet connection
+33     phone                                                         Telephone
+34    murder                                                  Victim of murder
+35  shooting                                                Victim of shooting
+36      rape                                           Victim of rape or abuse
+37   robbery                                                 Victim of robbery
+38     wound                                                Victim of wounding
+39   larceny                                                 Victim of larceny
+40     crime                                          Crime reported to police
+41  noreprea                                          Reason for not reporting
+42    anymig                   Anyone gone to live abroad during the year 2000
+43  migrants                            Number of persons lived abroad in 2000
+44   mig1sex                          Sex of the first person who lived abroad
+45   mig2sex                         Sex of the second person who lived abroad
+46   mig3sex                          Sex of the third person who lived abroad
+47   mig4sex                         Sex of the fourth person who lived abroad
+48   mig1age                          Age of the first person who lived abroad
+49  anydeath                             Death in the household past 12 months
+50    deaths                                        Number of persons who died
+51   dth1sex                                  Sex of the first person who died
+52  business                                         Business in the household
+53     form1                                                      Type of form
+54      hhwt                                                  Household weight
+55    pernum                                                     Person number
+56     wtper                                                     Person weight
+57    pernum                                  Person number (within household)
+58       sex                                                               Sex
+59   birthyr                                                     Year of birth
+60   birthmo                                                    Month of birth
+61       age                                                               Age
+62    relate                         Relationship to the head of the household
+63      race                                                    Race/ethnicity
+64     relig                                                          Religion
+65     marst                                                    Marital status
+66    spouse                                      Currently living with spouse
+67   partner                          Currently living with common law partner
+68   illness                                             Long standing illness
+69   illtype                                                      Main illness
+70     disab                                                        Disability
+71     limit                                    Limitation of daily activities
+72   distype                                                Type of disability
+73    school                                                 School attendance
+74   reassch                                  Reasons for not attending school
+75    bplpar                                        Parish or country of birth
+76   yrimmig                                          Year migrated to Jamaica
+77     yrpar                        Year moved to live in  parish of residence
+78   prevpar                                          Parish of last residence
+79   away5yr                  Residence outside of Jamaica for 5 years or more
+80  prevctry                                         Country of last residence
+81  yrreturn                                          Year returned to Jamaica
+82   reasret                                   Reason for returning to Jamaica
+83      exam                                               Highest exam passed
+84  yrschool                                                Years of schooling
+85   intrain                          Currently in training for job/occupation
+86     occt2                                    Occupation of training 2-digit
+87  methtrai                                                 Place of training
+88  lengtrai                                                Length of training
+89  qualtrai                            Qualification post-training completion
+90  pasttrai                                                     Past training
+91    occpt2                               Occupation of past training 2-digit
+92    occpt1                                       Occupation of past training
+93  methptra                                            Place of past training
+94  qualptra                         Qualification received from past training
+95  worktrai                                 Working in occupation of training
+96   work1hr                             Worked for at least an hour last week
+97   farming                              Farming, buying or selling last week
+98    oddjob                                        Odd job/hustling last week
+99  activity                                                Activity last week
+100  hrswork                                  Number of hours worked last week
+101  classwk                                         Type of economic activity
+102     occ2                                                Occupation 2-digit
+103     occ1                                               Occupation, 1 digit
+104     ind3                                                  Industry 3-digit
+105     ind2                                                  Industry-2 digit
+106     ind1                                                 Industry, 1 digit
+107  workloc                                         Location of place of work
+108  workpar                                                    Parish of work
+109  empsize             Number of persons at workplace (including respondent)
+110  incwork                            Gross income from all employment ($JA)
+111 yrlastwk                                                  Last year worked
+112 molastwk                                                 Last month worked
+113  activyr                                           Activity last 12 months
+114 wkmonths                                           Number of months worked
+115   layoff                                 Ever laid off in the past 5 years
+116 layoffi1                                   Industry laid off from, 1-digit
+117   typpen                                       Type of benefits or pension
+118 everborn                                        Ever had liveborn children
+119   chborn                                Total number of children ever born
+120  chbornm                                 Number of male children ever born
+121  chbornf                               Number of female children even born
+122   chsurv                                 Total number of chidren surviving
+123  chsurvm                           Total number of male children surviving
+124  chsurvf                               Number of female children surviving
+125  age1stb                                           Age at first live birth
+126  agelstb                                            Age at last live birth
+127   births                                        Live births past 12 months
+128  birthsn                              Number of live births past 12 months
+129   parity                                             Parity past 12 months
+130  bth1sex                     Sex of first child born in the past 12 months
+131  bth1reg                                   Birth of first child registered
+132  bth2reg                                   Birth of secondchild registered
+133  chdeath                       Death of a child born in the past 12 months
+134  dth1sex                                   Sex of the first child who died
+135 deth1age                       Age (in months) of the first child who died
+136 deth1reg                                   Death of first child registered
+137    perwt                                                     Person weight

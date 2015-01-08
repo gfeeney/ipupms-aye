@@ -1,0 +1,110 @@
+        vname                                                                     vdescription
+1       cntry                                                                          Country
+2        year                                                                             Year
+3      sample                                                          IPUMS sample identifier
+4      serial                                                          Household serial number
+5     persons                                        Number of person records in the household
+6        wthh                                                                 Household weight
+7     subsamp                                                                 Subsample number
+8          gq                                                            Group quarters status
+9     rectype                                                                      Record type
+10      dwnum                                                                  Dwelling number
+11       pern                                                   Number of persons in household
+12       fbig                Dwelling created by splitting apart a large dwelling or household
+13     region                                                     Region of place of residence
+14     hhmumr                                      Household number in the region (anonymized)
+15    buildyr                           Aggregated period of house or building completion date
+16   elevator                                                                  Has an elevator
+17     shower                                         Bathtub or shower (overseas departments)
+18   buildapp                                          Type of building (overseas departments)
+19   dwellcat                                                                Dwelling category
+20     popcat                                                    Condensed population category
+21    heating                                Method of heating dwelling (overseas departments)
+22   centheat                                      Dwelling central heat (metropolitan France)
+23   solrheat                                        Solar water heater (overseas departments)
+24     aircon                     Has at least one air-conditioned room (overseas departments)
+25   fuelheat                                       Dwelling’s main fuel (metropolitan France)
+26   motobike Number of motorized two-wheeled vehicles in the household (overseas territories)
+27      water                      Potable water source inside dwelling (overseas departments)
+28     sewage                                 Method of sewage disposal (overseas departments)
+29   electric                                   Electricity in dwelling (overseas departments)
+30    parking                                                           Reserved parking space
+31        hlm                       Dwelling belongs to HLM (rent-controlled apartment) agency
+32    numfams                                              Number of families in the household
+33      rooms                                                                  Number of rooms
+34    persons                                   Number of persons in the dwelling (aggregated)
+35    bathing                                        Sanitary facilities (metropolitan France)
+36   bathing2                                       Sanitary facilities (overseas departments)
+37     famstr                                                       Household family structure
+38     dwarea                                                                    Dwelling size
+39   typconst                                                    Type of building/construction
+40   dwelltyp                                                                 Type of dwelling
+41    hhtyped                                                          Detailed household type
+42     hhtype                                      Aggregated household type (in 9 categories)
+43      urban                                                               Urban-rural status
+44      autos                                                  Number of cars in the household
+45     toilet                                    Toilet inside dwelling (overseas departments)
+46     pernum                                                                    Person number
+47      wtper                                                                    Person weight
+48     pernum                                                 Person number (within household)
+49     yrmove                                              Year moved into dwelling (detailed)
+50    yrmove2                                            Year moved into dwelling (aggregated)
+51     agecal                         Age: difference between year of census and year of birth
+52       age2                                             Age in completed years (categorized)
+53        age                                                           Age in completed years
+54       age5                                                 Five-year age in completed years
+55    birthyr                                                                    Year of birth
+56      yrsfr                                              Aggregated length of time in France
+57   yrsdwell                                        Length of time in the dwelling (detailed)
+58   yrsdwll2                                      Length of time in the dwelling (aggregated)
+59    fammemb                                                              Belongs to a family
+60   periodfr                                                      Period of arrival in France
+61     couple                                                                      Conjugality
+62     socio8                                            Socio-professional category (1-digit)
+63    socio24                                            Socio-professional category (2-digit)
+64    socio42                                     Socio-professional category in 42 categories
+65    socio42                                     Socio-professional category in 42 categories
+66    diploma                                                         Highest diploma achieved
+67   classwkr                                                                Employment status
+68     school                                                             Enrollment in school
+69   studyloc                                                                   Place of study
+70   studyurb                                                       Urban-rural place of study
+71    workloc                                                                    Place of work
+72    workurb                                                        Urban-rural place of work
+73      immig                                                               Immigration status
+74        bpl                                                                   Place of birth
+75     nation                                                                      Nationality
+76    fampers                                                  Number of persons in the family
+77    prevres                                                  Previous residence (five years)
+78    prevres                                                  Previous residence (five years)
+79    prevurb                                            Urban indicator of previous residence
+80     famrel                                                              Family relationship
+81    frelate                                          Relationship to family reference person
+82     relate                                       Relationship to household reference person
+83      marst                                                             Legal marital status
+84      cohab                                                           Method of cohabitation
+85   lifestyl                                                                        Lifestyle
+86     ind700                             Economic activity in 700 categories (2003), original
+87    ind700n         Economic activity in 700 categories (2003 classification) numeric recode
+88      ind17                         Economic activity in 17 categories (2003 classification)
+89    bplterr                                        Birth in overseas department or territory
+90   nation49                                             Current nationality in 49 categories
+91  nationcnd                                                    Condensed current nationality
+92     nat49c                        Nationality at birth of French citizens, in 49 categories
+93     nat12c                         Nationality at birth of French citizens in 12 categories
+94    nationc                               Nationality at birth of French citizens, condensed
+95     ind114                                                      Economic activity (4-digit)
+96      ind36                                                      Economic activity (2-digit)
+97    primfam                                                                    Family member
+98  bplterrit                              Originally from an overseas department or territory
+99   bplfor12                                                Country of birth in 12 categories
+100   prof486                                                    Detailed profession (4-digit)
+101  prof486n                                                    Detailed profession (2-digit)
+102  seekwork                                                  Length of time looking for work
+103       sex                                                                              Sex
+104   wagearn                                                              Professional status
+105   ownship                                                                  Dwelling status
+106   activty                                                                 Type of activity
+107  fulltime                                                          Work time/working hours
+108     trans                                                          Means of transportation
+109  famtypec                                                            Condensed family type

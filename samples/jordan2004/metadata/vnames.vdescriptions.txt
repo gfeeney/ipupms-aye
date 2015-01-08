@@ -1,0 +1,118 @@
+       vname                                                                     vdescription
+1      cntry                                                                          Country
+2       year                                                                             Year
+3     sample                                                          IPUMS sample identifier
+4     serial                                                          Household serial number
+5      dwnum                                                                  Dwelling number
+6       pern                                                   Number of persons in household
+7     govern                                                                      Governorate
+8      urban                                                                      Urban_Rural
+9        gq1                                                                      Sample type
+10   disabhh                                       Household member suffers from any handicap
+11    disabn                                                    Number of handicapped persons
+12     radio                                                              Radio/tape recorder
+13    radion                                                   Number of radio/tape recorders
+14        tv                                                                       Television
+15       tvn                                                            Number of televisions
+16     satel                                                                   Satellite dish
+17    sateln                                                       Number of satellite dishes
+18    refrig                                                                     Refrigerator
+19   refrign                                                          Number of refrigerators
+20    washer                                                                  Washing machine
+21   washern                                                       Number of washing machines
+22     solar                                                                     Solar heater
+23    solarn                                                          Number of solar heaters
+24     gasck                                                                       Gas cooker
+25    gasckn                                                            Number of gas cookers
+26   microwv                                                                   Microwave oven
+27  microwvn                                                        Number of microwave ovens
+28       car                                                               Private car/pickup
+29      carn                                                   Number of private cars/pickups
+30     phone                                                                        Telephone
+31    cellph                                                                 Mobile telephone
+32   cellphn                                                      Number of mobile telephones
+33      comp                                                                         Computer
+34     compn                                                              Number of computers
+35  internet                                                                  Internet access
+36       gq2                                                                Type of household
+37    pernom                                                                  Number of males
+38    pernof                                                                Number of females
+39     perno                                                Total number of household members
+40   jormjor                                                    Jordanian males inside Jordan
+41   jorfjor                                                  Jordanian females inside Jordan
+42   jortjor                                                   Total Jordanians inside Jordan
+43  njormjor                                                Non-Jordanian males inside Jordan
+44  njorfjor                                              Non-Jordanian females inside Jordan
+45  njortjor                                               Total non-Jordanians inside Jordan
+46   jormout                                                   Jordanian males outside Jordan
+47   jorfout                                                 Jordanian females outside Jordan
+48   jortout                                        Total number of Jordanians outside Jordan
+49      deaf                                             Deaf or dumb member in the household
+50      phys                                   Physically handicapped member in the household
+51  cerpalsy                                     Members with cerebral palsy in the household
+52    mental                                     Mentally handicapped member in the household
+53    visual                                     Visually handicapped member in the household
+54   multdis                                     Multiply handicapped member in the household
+55    othdis                                        Other handicapped member in the household
+56    hhtype                                                             Type of housing unit
+57   occtype                                                                Type of occupancy
+58    tenure                                                                   Type of tenure
+59      rent                                                     Monthly rent of housing unit
+60    occdur                                   Duration of occupancy of housing unit in years
+61      heat                                                                  Type of heating
+62    watsrc                                                    Main source of drinking water
+63    litsrc                                                               Source of lighting
+64   hsgsize                                               Housing unit area in square meters
+65     sewer                                                            Type of sewage system
+66    toilet                                       Availability of toilet in the housing unit
+67   kitchen                          Availability of independent kitchen in the housing unit
+68      room                                        Total number of rooms in the housing unit
+69    roombd                                     Total number of bedrooms in the housing unit
+70      hhno                                         Number of households in the housing unit
+71     perhu                                            Number of persons in the housing unit
+72   firsthh                                               First housing unit in the building
+73    bldty1                                                                 Type of building
+74     conyr                                        Year of laying foundation of the building
+75    bldty2                                                                Type of occupancy
+76      wall                               Dominant material of outside walls of the building
+77   stories                                                                 Number of floors
+78    elevat                                                         Availability of elevator
+79     hhunb                                          Number of housing units in the building
+80      hhnb                                             Number of households in the building
+81     pernb                                                Number of persons in the building
+82    pernum                                                                    Person number
+83     wtper                                                                    Person weight
+84    pernum                                                 Person number (within household)
+85   pernumo                                                          Serial number of person
+86    relate                                                Relationship to head of household
+87       sex                                                                              Sex
+88    birmon                                                                   Month of birth
+89     biryr                                                                    Year of birth
+90       age                                                           Age in completed years
+91    medins                                                                Medically insured
+92    insciv                                               Type of health insurance, civilian
+93    insmil                                               Type of health insurance, military
+94   insuniv                                  Type of health insurance, official universities
+95   inspriv                                                Type of health insurance, private
+96    instot                                                  Type of health insurance, total
+97    nation                                                                      Nationality
+98    natnum                                                     Has discrete national number
+99    resabr                                  Reason for residence in either Jordan or abroad
+100   resdur Duration of residence in current place (Jordanians) and in Jordan (non-Jordanian
+101   school                                                          Has ever been to school
+102   edlev1                                                        Education level attending
+103    grade                                                                  Grade attending
+104     educ                                            Level and grade of current enrollment
+105   edlev2                                                               Educational status
+106    marst                                                                   Marital status
+107     work                             Worked during the week that ended in October 1, 2004
+108    wkabs                                                Had a job but did not practice it
+109   wkhour                                         Total number of hours worked in all jobs
+110   wksect                                  Type of establishment in which the person works
+111      ind                             Major current economic activity of the establishment
+112  claswk1                                                                Employment status
+113  wkready                                             Prepared to start the job if offered
+114   wkseek                                                       Actively searched for work
+115  claswk2                                                                  Class of worker
+116  empstat                                                               Economic situation
+117    disab                                                                 Kind of handicap

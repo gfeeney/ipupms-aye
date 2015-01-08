@@ -1,0 +1,549 @@
+          vname                                                                     vdescription
+1         cntry                                                                          Country
+2          year                                                                             Year
+3        sample                                                          IPUMS sample identifier
+4        serial                                                          Household serial number
+5         dwnum                                                                  Dwelling number
+6          pern                                                   Number of persons in household
+7        serial                                                          Household serial number
+8       numprec                                               Number of person records following
+9       subsamp                                                                 Subsample number
+10      hhwtreg                                                       Household weight (integer)
+11     stateicp                                                               State (ICPSR code)
+12     statefip                                                                State (FIPS code)
+13         puma                                                        Public use microdata area
+14        metro                                                              Metropolitan status
+15      metarea                                                                Metropolitan area
+16         city                                                                             City
+17      citypop                                                       City population (hundreds)
+18           gq                                                            Group quarters status
+19       gqtype                                                              Group quarters type
+20         farm                                                                      Farm status
+21     farmprod                                                     Sales of farm products (US$)
+22     ownershp                                                   Ownership of dwelling (tenure)
+23     mortgage                                                                  Mortgage status
+24     mortgag2                                                           Second mortgage status
+25     mortamt1                                             First mortgage monthly payment (US$)
+26      commuse                                                                   Commercial use
+27     acrehous                                                                    House acreage
+28      taxincl                                         Mortgage payment includes property taxes
+29      insincl                                     Mortgage payment includes property insurance
+30     propinsr                                             Annual property insurance cost (US$)
+31     proptx99                                                Annual property taxes (US$), 1990
+32      rentgrs                                                         Monthly gross rent (US$)
+33     rentmeal                                                           Meals included in rent
+34     condofee                                                    Monthly condominium fee (US$)
+35     moblhome                                                   Annual mobile home costs (US$)
+36     costelec                                                    Annual electricity cost (US$)
+37      costgas                                                            Annual gas cost (US$)
+38     costwatr                                                          Annual water cost (US$)
+39     costfuel                                              Annual home heating fuel cost (US$)
+40      vacancy                                                                   Vacancy status
+41      kitchen                                                    Kitchen or cooking facilities
+42     hotwater                                                         Hot and cold piped water
+43       shower                                                                Bathtub or shower
+44       toilet                                                                     Flush toilet
+45     unitsstr                                                               Units in structure
+46        phone                                                           Telephone availability
+47     mortamt2                                            Second mortgage monthly payment (US$)
+48     lingisol                                                             Linguistic isolation
+49     fuelheat                                                                Home heating fuel
+50     vehicles                                                               Vehicles available
+51        nfams                                                  Number of families in household
+52     ncouples                                           Number of married couples in household
+53     nmothers                                                   Number of mothers in household
+54     nfathers                                                   Number of fathers in household
+55     qacrehou                                                                Flag for acrehous
+56     qmoblhom                                                      Flag for moblhome, moblhom2
+57     qmortam1                                                                Flag for mortamt1
+58     qinsincl                                                                Flag for insrincl
+59     qmortam2                                                                Flag for mortamt2
+60     qbedroom                                                                Flag for bedrooms
+61     qcommuse                                                                 Flag for commuse
+62     qmortga2                                                                Flag for mortgag2
+63     qcostele                                                                Flag for costelec
+64     qmortgag                                                                Flag for mortgage
+65     qcostfue                                                                Flag for costfuel
+66     qcostgas                                                                 Flag for costgas
+67     qpropins                                                                Flag for propinsr
+68     qcostwat                                                                Flag for costwatr
+69     qprotx99                                                                Flag for proptx99
+70     qrentmea                                                                Flag for rentmeal
+71     qfuelhea                                                                Flag for fuelheat
+72     qplumbin                                                                Flag for plumbing
+73     qownersh                                                                Flag for ownershp
+74       qphone                                                                   Flag for phone
+75        qrent                                                            Flag for rent, rent30
+76       qrooms                                                                   Flag for rooms
+77      qshower                                                                  Flag for shower
+78     qunitsst                                                                Flag for unitsstr
+79     qvacancy                                                                 Flag for vacancy
+80      qvalueh                                                                  Flag for valueh
+81     qcondofe                                                                Flag for condofee
+82     qtaxincl                                                                 Flag for taxincl
+83     qfoodstm                                                   Flag for foodstmp and fdstpamt
+84     qmortg2a                                                                Flag for mortgag2
+85     pumasupr                                                  Super Public Use Microdata Area
+86     builtyr2                                                         Age of structure, decade
+87     qbuilty2                                                                Flag for builtyr2
+88       nfams2                                            Number of families in household (alt)
+89     ncouple2                                      Number ofmarried couples in household (alt)
+90     nmother2                                             Number of mothers in household (alt)
+91     nfather2                                             Number of fathers in household (alt)
+92       hhtype                                                                   Household type
+93     conspuma                                             Consistent Public Use Microdata Area
+94       repwt1                                                     Household replicate weight 1
+95       repwt2                                                     Household replicate weight 2
+96       repwt3                                                     Household replicate weight 3
+97       repwt4                                                     Household replicate weight 4
+98       repwt5                                                     Household replicate weight 5
+99       repwt6                                                     Household replicate weight 6
+100      repwt7                                                     Household replicate weight 7
+101      repwt8                                                     Household replicate weight 8
+102      repwt9                                                     Household replicate weight 9
+103     repwt10                                                    Household replicate weight 10
+104     repwt11                                                    Household replicate weight 11
+105     repwt12                                                    Household replicate weight 12
+106     repwt13                                                    Household replicate weight 13
+107     repwt14                                                    Household replicate weight 14
+108     repwt15                                                    Household replicate weight 15
+109     repwt16                                                    Household replicate weight 16
+110     repwt17                                                    Household replicate weight 17
+111     repwt18                                                    Household replicate weight 18
+112     repwt19                                                    Household replicate weight 19
+113     repwt20                                                    Household replicate weight 20
+114     repwt21                                                    Household replicate weight 21
+115     repwt22                                                    Household replicate weight 22
+116     repwt23                                                    Household replicate weight 23
+117     repwt24                                                    Household replicate weight 24
+118     repwt25                                                    Household replicate weight 25
+119     repwt26                                                    Household replicate weight 26
+120     repwt27                                                    Household replicate weight 27
+121     repwt28                                                    Household replicate weight 28
+122     repwt29                                                    Household replicate weight 29
+123     repwt30                                                    Household replicate weight 30
+124     repwt31                                                    Household replicate weight 31
+125     repwt32                                                    Household replicate weight 32
+126     repwt33                                                    Household replicate weight 33
+127     repwt34                                                    Household replicate weight 34
+128     repwt35                                                    Household replicate weight 35
+129     repwt36                                                    Household replicate weight 36
+130     repwt37                                                    Household replicate weight 37
+131     repwt38                                                    Household replicate weight 38
+132     repwt39                                                    Household replicate weight 39
+133     repwt40                                                    Household replicate weight 40
+134     repwt41                                                    Household replicate weight 41
+135     repwt42                                                    Household replicate weight 42
+136     repwt43                                                    Household replicate weight 43
+137     repwt44                                                    Household replicate weight 44
+138     repwt45                                                    Household replicate weight 45
+139     repwt46                                                    Household replicate weight 46
+140     repwt47                                                    Household replicate weight 47
+141     repwt48                                                    Household replicate weight 48
+142     repwt49                                                    Household replicate weight 49
+143     repwt50                                                    Household replicate weight 50
+144     repwt51                                                    Household replicate weight 51
+145     repwt52                                                    Household replicate weight 52
+146     repwt53                                                    Household replicate weight 53
+147     repwt54                                                    Household replicate weight 54
+148     repwt55                                                    Household replicate weight 55
+149     repwt56                                                    Household replicate weight 56
+150     repwt57                                                    Household replicate weight 57
+151     repwt58                                                    Household replicate weight 58
+152     repwt59                                                    Household replicate weight 59
+153     repwt60                                                    Household replicate weight 60
+154     repwt61                                                    Household replicate weight 61
+155     repwt62                                                    Household replicate weight 62
+156     repwt63                                                    Household replicate weight 63
+157     repwt64                                                    Household replicate weight 64
+158     repwt65                                                    Household replicate weight 65
+159     repwt66                                                    Household replicate weight 66
+160     repwt67                                                    Household replicate weight 67
+161     repwt68                                                    Household replicate weight 68
+162     repwt69                                                    Household replicate weight 69
+163     repwt70                                                    Household replicate weight 70
+164     repwt71                                                    Household replicate weight 71
+165     repwt72                                                    Household replicate weight 72
+166     repwt73                                                    Household replicate weight 73
+167     repwt74                                                    Household replicate weight 74
+168     repwt75                                                    Household replicate weight 75
+169     repwt76                                                    Household replicate weight 76
+170     repwt77                                                    Household replicate weight 77
+171     repwt78                                                    Household replicate weight 78
+172     repwt79                                                    Household replicate weight 79
+173     repwt80                                                    Household replicate weight 80
+174       repwt                                                      Household replicate weights
+175    qvehicle                                                    Data quality flag for vehicle
+176     owncost                                               Selected monthly owner costs (US$)
+177     nsubfam                                               Number of subfamilies in household
+178    hhincome                                                     Total household income (US$)
+179     headloc                                                       Location of household head
+180      fridge                                                                     Refrigerator
+181     qfridge                                                     Data quality flag for fridge
+182        sink                                                                 Sink with faucet
+183       qsink                                                       Data quality flag for sink
+184       stove                                                                   Stove or range
+185      qstove                                                      Data quality flag for stove
+186      valueh                                                                House value (US$)
+187     multgen                                                      Multigenerational household
+188    bedrooms                                                               Number of bedrooms
+189       rooms                                                                  Number of rooms
+190    homeland                 American Indian, Alaska Native, or Native Hawaiian homeland area
+191      adjust                                                      Adjustment factor, ACS/PRCS
+192       cpi99                                          CPI-U adjustment factor to 1999 dollars
+193    respmode                                                                    Response mode
+194       appal                                                               Appalachian region
+195     validco                                                               County (precursor)
+196      county                                                                           County
+197   cbnsubfam       Number of subfamilies in household (original Census Bureau classification)
+198        hhwt                                                                 Household weight
+199 pumares2mig                                       Public Use Microdata Area matching MIGPUMA
+200      strata                                         Household strata for variance estimation
+201     cluster                                        Household cluster for variance estimation
+202        rent                                                      Monthly contract rent (US$)
+203    qfarmpro                                                          Flag for Farmprod, Farm
+204      pernum                                                                    Person number
+205       wtper                                                                    Person weight
+206     pernum2                                                     Person number in sample unit
+207     slwtreg                                                                           Sample
+208    perwtreg                                                          Person weight (integer)
+209      momloc                                               Mother's location in the household
+210     stepmom                                                     Probable step/adopted mother
+211      poploc                                               Father's location in the household
+212     steppop                                                     Probable step/adopted father
+213     poprule                                                          Rule for linking father
+214       sploc                                                   Spouse's location in household
+215      sprule                                                          Rule for linking spouse
+216     famsize                                        Number of own family members in household
+217     famsize                                        Number of own family members in household
+218      nchild                                          Number of own children in the household
+219      nchlt5                                  Number of own children under age 5 in household
+220     famunit                                                           Family unit membership
+221       eldch                                             Age of eldest own child in household
+222       yngch                                           Age of youngest own child in household
+223       nsibs                                              Number of own siblings in household
+224      relate                                                   Relationship to household head
+225         age                                                                              Age
+226         sex                                                                              Sex
+227         sex                                                                              Sex
+228        race                                                                             Race
+229       marst                                                                   Marital status
+230      marrno                                                                    Times married
+231    marrinyr                                                     Married within the past year
+232         bpl                                                                       Birthplace
+233         bpl                                                                       Birthplace
+234    ancestr1                                                         Ancestry, first response
+235    ancestr2                                                        Ancestry, second response
+236     citizen                                                               Citizenship status
+237      hispan                                                                  Hispanic origin
+238     yrsusa2                                          Years in the United States, intervalled
+239    language                                                                  Language spoken
+240    speakeng                                                                   Speaks English
+241      school                                                                School attendance
+242      school                                                                School attendance
+243    schltype                                                         Public or private school
+244     empstat                                                                Employment status
+245    labforce                                                               Labor force status
+246     occ1950                                                           Occupation, 1950 basis
+247    occscore                                                        Occupational income score
+248         sei                                                       Duncan socioeconomic index
+249     ind1950                                                             Industry, 1950 basis
+250    classwkr                                                                  Class of worker
+251    wkswork2                                              Weeks worked last year, intervalled
+252    uhrswork                                                      Usual hours worked per week
+253     yrsusa1                                                       Years in the United States
+254    workedyr                                                                 Worked last year
+255      absent                                                       Absent from work last week
+256     looking                                                       Looking for work last week
+257    availble                                                     Available for work last week
+258     incwage                                                     Wage and salary income (US$)
+259     poverty                                                                   Poverty status
+260       incss                                                     Social Security income (US$)
+261    incwelfr                                         Welfare (public assistance) income (US$)
+262    incinvst                                      Interest, dividend, and rental income (US$)
+263    incother                                                               Other income (US$)
+264    migrate1                                                         Migration status, 1 year
+265    migplac1                                         State or country of residence 1 year ago
+266     migmet1                                        Metropolitan area of residence 1 year ago
+267     migmet1                                        Metropolitan area of residence 1 year ago
+268    migtype1                                                   Metropolitan status 1 year ago
+269     movedin                                               When occupant moved into residence
+270      pwtype                                               Place of work: metropolitan status
+271      pwtype                                               Place of work: metropolitan status
+272    pwstate2                                                             Place of work: state
+273     diffmob                                                    Independent living difficulty
+274     diffmob                                                    Independent living difficulty
+275     diffmob                                                    Independent living difficulty
+276    diffcare                                                             Self-care difficulty
+277    vet80x90                                                     Veteran, served 1980 to 1990
+278    vet80x90                                                     Veteran, served 1980 to 1990
+279    vet75x80                                                     Veteran, served 1975 to 1980
+280    vetvietn                                               Veteran, served during Vietnam era
+281    vet55x64                                                     Veteran, served 1955 to 1964
+282    vetkorea                                       Veteran, served during Korean conflict era
+283     vetwwii                                                  Veteran, served during WWII era
+284    vetother                                                          Veteran of other period
+285    tranwork                                                  Means of transportation to work
+286     carpool                                                                       Carpooling
+287      riders                                                                Vehicle occupancy
+288     departs                                             Time of departure for work last week
+289      pwcity                                                              Place of work: city
+290        qage                                                                     Flag for age
+291    qdeparts                                                                 Flag for departs
+292        qbpl                                                           Flag for bpl, nativity
+293    qcarpool                                                                 Flag for carpool
+294    qmarinyr                                                                   Flag for maryr
+295    qclasswk                                                                Flag for classwkr
+296    qlanguag                                                      Flag for language, speakeng
+297    qyrnatur                                                                   Flag for natur
+298    qempstat                                                       Flag for empstat, labforce
+299       qeduc                                                Flag for educrec, higrade, educ99
+300     qincbus                                                 Flag for incbus, inctot, incearn
+301    qincinvs                                                        Flag for incinvst, inctot
+302      qincss                                                           Flag for incss, inctot
+303    qincwage                                                Flag for incwage, inctot, incearn
+304    qincwelf                                                        Flag for incwelfr, inctot
+305        qind                                                            Flag for ind, ind1950
+306     qdifmob                                                                 Flag for diffmob
+307     qmarrno                                                                  Flag for marrno
+308    qpwstat2                                                                Flag for pwstate2
+309      qmarst                                                                   Flag for marst
+310    qincreti                                                        Flag for incretir, inctot
+311    qmigplc1                                                                Flag for migplac1
+312    qmigrat1                                                                Flag for migrate1
+313    qmovedin                                                                 Flag for movedin
+314        qocc                           Flag for occ, occ1950, sei, occscore, occsoc, labforce
+315       qrace Flag for race, racamind, racasian, racblk, racpais, racwht, racoth, racnum, race
+316     qrelate                                                                  Flag for relate
+317     qriders                                                                  Flag for riders
+318     qschool                                                        Flag for school, schltype
+319        qsex                                                                     Flag for sex
+320    qspeaken                                                                Flag for speakeng
+321    qtrantim                                                                Flag for trantime
+322    qtranwor                                                                Flag for tranwork
+323    quhrswor                                                                Flag for uhrswork
+324     qvetper Flag for vetper, vetstat, vet55x64, vet75x80, vet80x90, vet90x95, vet95x00, vetk
+325    qvetstat Flag for vetstat, vet55x64, vet75x80, vet80x90, vet90x95, vetkorea, vetother, ve
+326    qvetstat Flag for vetstat, vet55x64, vet75x80, vet80x90, vet90x95, vetkorea, vetother, ve
+327    qwkswork                                                      Flag for wkswork1, wkswork2
+328    qworkedy                                                                Flag for workedyr
+329      qyrimm                                               Flag for yrimmig, yrsusa1, yrsusa2
+330     gchouse                                            Own grandchildren living in household
+331    racamind                                           Race: American Indian or Alaska Native
+332    racasian                                                                      Race: Asian
+333      racblk                                                  Race: black or African American
+334      racnum                                                      Number of major race groups
+335    racother                                                            Race: some other race
+336      racwht                                                                      Race: white
+337      racwht                                                                      Race: white
+338    indnaics                                                   Industry, NAICS classification
+339      occsoc                                                   Occupation, SOC classification
+340    wrklstwk                                                                 Worked last week
+341    wrkrecal                                                          Informed of work recall
+342     incsupp                                              Supplementary Security income (US$)
+343     incsupp                                              Supplementary Security income (US$)
+344    diffphys                                                            Ambulatory difficulty
+345    gcmonths                                             Months responsible for grandchildren
+346    gcrespon                                                    Responsible for grandchildren
+347    qdifsens                                                                Flag for diffsens
+348    qincsupp                                                                 Flag for incsupp
+349    qdifphys                                                                Flag for diffphys
+350    qdifphys                                                                Flag for diffphys
+351     qdifrem                                                                 Flag for diffrem
+352    qgchouse                                                                 Flag for gchouse
+353    qgcmonth                                                                Flag for gcmonths
+354    qgcrespo                                                                Flag for gcrespon
+355    qgradeat                                                                Flag for gradeatt
+356     pov2000                                                    Poverty status, 2000 criteria
+357    incbus00                                             Business and farm income, 2000 (US$)
+358    oldpov20                                               Poverty status, original 2000 PUMS
+359    oldpov20                                               Poverty status, original 2000 PUMS
+360    pwpuma00                                                              Place of work: PUMA
+361    incretir                                                          Retirement income (US$)
+362     pwpumas                                                               Super-PUMA of work
+363    vet01ltr                                                    Veteran, served 2001 or later
+364    vet90x01                                                             Veteran, served 1990
+365    vet47x50                                                             Veteran, served 1947
+366    vet47x50                                                             Veteran, served 1947
+367    stepmom2                                               Probable step/adopted mother (alt)
+368    momrule2                                                    Rule for linking mother (alt)
+369     poploc2                                         Father's location in the household (alt)
+370    steppop2                                               Probable step/adopted father (alt)
+371    steppop2                                               Probable step/adopted father (alt)
+372     sprule2                                                    Rule for linking spouse (alt)
+373    famsize2                                  Number of own family members in household (alt)
+374     nchild2                                    Number of own children in the household (alt)
+375     nchlt52                            Number of own children under age 5 in household (alt)
+376    famunit2                                                     Family unit membership (alt)
+377      eldch2                                       Age of eldest own child in household (alt)
+378      yngch2                                     Age of youngest own child in household (alt)
+379      nsibs2                                        Number of own siblings in household (alt)
+380     ind1990                                                             Industry, 1990 basis
+381     ind1990                                                             Industry, 1990 basis
+382     qhispan                                                                  Flag for Hispan
+383    racesing                                                 Race: Single race identification
+384     probwht                                               Probability of white race response
+385     proboth                                        Probability of 'other race' race response
+386     probblk                                               Probability of black race response
+387     probapi                              Probability of Asian/Pacific Islander race response
+388      probai                                     Probability of American Indian race response
+389     occ1990                                                           Occupation, 1990 basis
+390    migpuma1                                                     PUMA of residence 1 year ago
+391     arrives                                                Time of arrival at work last week
+392    migpums1                                               Super-PUMA of residence 1 year ago
+393    migpums1                                               Super-PUMA of residence 1 year ago
+394    migcity1                                                     City of residence 1 year ago
+395       tribe                                                                            Tribe
+396    racgen00                                           Internal version of race from the PUMS
+397       hwsei                                           Socioeconomic Index, Hauser and Warren
+398      presgl                                              Occupational prestige score, Siegel
+399       prent                                     Occupational prestige score, Nakao and Treas
+400       prent                                     Occupational prestige score, Nakao and Treas
+401    erscor50                                          Occupational earnings score, 1950 basis
+402    erscor90                                          Occupational earnings score, 1990 basis
+403    edscor50                                         Occupational education score, 1950 basis
+404    edscor90                                         Occupational education score, 1990 basis
+405    npboss50                            Nam-Powers-Boyd occupational status score, 1950 basis
+406    npboss90                            Nam-Powers-Boyd occupational status score, 1990 basis
+407     repwtp1                                                        Person replicate weight 1
+408     repwtp2                                                        Person replicate weight 2
+409     repwtp3                                                        Person replicate weight 3
+410     repwtp4                                                        Person replicate weight 4
+411     repwtp5                                                        Person replicate weight 5
+412     repwtp6                                                        Person replicate weight 6
+413     repwtp7                                                        Person replicate weight 7
+414     repwtp9                                                        Person replicate weight 9
+415    repwtp10                                                       Person replicate weight 10
+416    repwtp11                                                       Person replicate weight 11
+417    repwtp12                                                       Person replicate weight 12
+418    repwtp13                                                       Person replicate weight 13
+419    repwtp14                                                       Person replicate weight 14
+420    repwtp15                                                       Person replicate weight 15
+421    repwtp16                                                       Person replicate weight 16
+422    repwtp17                                                       Person replicate weight 17
+423    repwtp18                                                       Person replicate weight 18
+424    repwtp19                                                       Person replicate weight 19
+425    repwtp20                                                       Person replicate weight 20
+426    repwtp21                                                       Person replicate weight 21
+427    repwtp22                                                       Person replicate weight 22
+428    repwtp23                                                       Person replicate weight 23
+429    repwtp24                                                       Person replicate weight 24
+430    repwtp25                                                       Person replicate weight 25
+431    repwtp27                                                       Person replicate weight 27
+432    repwtp28                                                       Person replicate weight 28
+433    repwtp29                                                       Person replicate weight 29
+434    repwtp30                                                       Person replicate weight 30
+435    repwtp31                                                       Person replicate weight 31
+436    repwtp32                                                       Person replicate weight 32
+437    repwtp33                                                       Person replicate weight 33
+438    repwtp34                                                       Person replicate weight 34
+439    repwtp35                                                       Person replicate weight 35
+440    repwtp36                                                       Person replicate weight 36
+441    repwtp37                                                       Person replicate weight 37
+442    repwtp38                                                       Person replicate weight 38
+443    repwtp39                                                       Person replicate weight 39
+444    repwtp40                                                       Person replicate weight 40
+445    repwtp41                                                       Person replicate weight 41
+446    repwtp42                                                       Person replicate weight 42
+447    repwtp43                                                       Person replicate weight 43
+448    repwtp44                                                       Person replicate weight 44
+449    repwtp45                                                       Person replicate weight 45
+450    repwtp46                                                       Person replicate weight 46
+451    repwtp47                                                       Person replicate weight 47
+452    repwtp48                                                       Person replicate weight 48
+453    repwtp49                                                       Person replicate weight 49
+454    repwtp50                                                       Person replicate weight 50
+455    repwtp51                                                       Person replicate weight 51
+456    repwtp53                                                       Person replicate weight 53
+457    repwtp54                                                       Person replicate weight 54
+458    repwtp55                                                       Person replicate weight 55
+459    repwtp56                                                       Person replicate weight 56
+460    repwtp57                                                       Person replicate weight 57
+461    repwtp58                                                       Person replicate weight 58
+462    repwtp59                                                       Person replicate weight 59
+463    repwtp60                                                       Person replicate weight 60
+464    repwtp61                                                       Person replicate weight 61
+465    repwtp62                                                       Person replicate weight 62
+466    repwtp63                                                       Person replicate weight 63
+467    repwtp64                                                       Person replicate weight 64
+468    repwtp65                                                       Person replicate weight 65
+469    repwtp66                                                       Person replicate weight 66
+470    repwtp67                                                       Person replicate weight 67
+471    repwtp68                                                       Person replicate weight 68
+472    repwtp69                                                       Person replicate weight 69
+473    repwtp70                                                       Person replicate weight 70
+474    repwtp71                                                       Person replicate weight 71
+475    repwtp72                                                       Person replicate weight 72
+476    repwtp73                                                       Person replicate weight 73
+477    repwtp74                                                       Person replicate weight 74
+478    repwtp75                                                       Person replicate weight 75
+479    repwtp77                                                       Person replicate weight 77
+480    repwtp78                                                       Person replicate weight 78
+481    repwtp79                                                       Person replicate weight 79
+482    repwtp80                                                       Person replicate weight 80
+483      repwtp                                                         Person replicate weights
+484      subfam                                                             Subfamily membership
+485      sftype                                                                   Subfamily type
+486    sfrelate                                                    Relationship within subfamily
+487     subfam2                                                       Subfamily membership (alt)
+488     sftype2                                                             Subfamily type (alt)
+489   sfrelate2                                              Relationship within subfamily (alt)
+490     ftotinc                                                        Total family income (US$)
+491    ftotinc2                                                  Total family income (alt, US$))
+492     diffeye                                                                Vision difficulty
+493    diffhear                                                               Hearing difficulty
+494     divinyr                                                        Divorced in the past year
+495     hcovany                                                    Any health insurance coverage
+496     hinsemp                                          Health insurance through employer/union
+497     hinsemp                                          Health insurance through employer/union
+498     hinspur                                              Health insurance purchased directly
+499     hinstri                                                 Health insurance through Tricare
+500     hcovpub                                                 Public health insurance coverage
+501    hinscaid                                                Health insurance through Medicaid
+502    hinscare                                                Health insurance through Medicare
+503      hinsva                                                      Health insurance through VA
+504     hinsihs                                  Health insurance through Indian Health Services
+505    vetdisab                                           VA service-connected disability rating
+506     widinyr                                                         Widowed in the past year
+507      yrmarr                                                                     Year married
+508     qdifeye                                                    Data quality flag for diffeye
+509    qdifhear                                                   Data quality flag for diffhear
+510    qdivinyr                                                    Data quality flag for divinyr
+511    qhcovany                                                    Data quality flag for hcovany
+512    qhcovpri                                                   Data quality flag for hcovpriv
+513    qhinsemp                                                    Data quality flag for hinsemp
+514    qhinsemp                                                    Data quality flag for hinsemp
+515    qhinspur                                                    Data quality flag for hinspur
+516    qhinstri                                                    Data quality flag for hinstri
+517    qhinscai                                                   Data quality flag for hinscaid
+518    qhinscar                                                   Data quality flag for hinscare
+519     qhinsva                                                     Data quality flag for hinsva
+520    qhinsihs                                                    Data quality flag for hinsihs
+521    qvetdisb                                                   Data quality flag for vetdisab
+522    qwidinyr                                                    Data quality flag for widinyr
+523     qyrmarr                                                   Data quality flag for yrlstmar
+524     yrnatur                                                                 Year naturalized
+525    gradeatt                                                            Grade level attending
+526        educ                                                           Educational attainment
+527      inctot                                                      Total personal income (US$)
+528     incearn                                               Total personal earned income (US$)
+529    trantime                                          Travel time to work last week (minutes)
+530     yrimmig                                                              Year of immigration
+531     vetstat                                                                   Veteran status
+532         ind                                                                         Industry
+533    degfield                                                                  Field of degree
+534   degfield2                                                         Field of degree (second)
+535   qdegfield                                     Data quality flag for degfield and degfield2
+536   qwrklstwk                                                   Data quality flag for wrklstwk
+537    cbsubfam                         Subfamily number (original Census Bureau classification)
+538    cbsftype                           Subfamily type (original Census Bureau classification)
+539  cbsfrelate                   Subfamily relationship (original Census Bureau classification)
+540       perwt                                                                    Person weight
+541     birthyr                                                                    Year of birth
+542   cbpoverty                              Poverty status (original Census Bureau calculation)
+543         occ                                                                       Occupation
+544    qdifcare                                                                Flag for diffcare
+545  hiufpgbase                                                Federal poverty guidelines (base)
+546   hiufpginc                                           Federal poverty guidelines (increment)
+547     hiurule                                         Health insurance unit (hiu) pointer rule
+548       hiuid                                       Health insurance unit (hiu) identification

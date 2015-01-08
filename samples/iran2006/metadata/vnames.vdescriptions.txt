@@ -1,0 +1,105 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5    rectype                                                       Record type
+6      dwnum                                                   Dwelling number
+7       pern                                    Number of persons in household
+8       fbig Dwelling created by splitting apart a large dwelling or household
+9    fbig_nh          Number of persons in large household before it was split
+10      prov                                                          Province
+11       urb                                              Urban - rural status
+12    hhtype                                                    Household type
+13  motobike                                            Motorcycle (and moped)
+14      auto                              Light automobile (car, pick-up, etc)
+15        pc                                                          Computer
+16  internet                       Household member uses internet in residence
+17  fuelcook                                                  Fuel for cooking
+18  fuelheat                                                  Fuel for heating
+19  fuelwatr                                                Fuel for hot water
+20  watdrink                                         Water supply for drinking
+21   watcook                                          Water supply for cooking
+22  watother                                       Water supply for other uses
+23    dwtype                                              Type of housing unit
+24     rooms                                  Number of rooms in the household
+25  ownershp                                Type of tenure of the housing unit
+26  electric                                                       Electricity
+27     phone                                                  Fixed phone line
+28  phoneuse                                              Fixed phone line use
+29   pipewtr                                                       Piped water
+30  pipewtru                                                   Piped water use
+31   pipegas                                                         Piped gas
+32  pipegasu                                                     Piped gas use
+33  centheat                                            Central heating system
+34   centair                                   Central air conditioning system
+35   kitchen                                                           Kitchen
+36  kitchenu                                                       Kitchen use
+37      bath                                                          Bathroom
+38   bathuse                                                      Bathroom use
+39    toilet                                                      Water closet
+40   numhhs2                      Multiple households residing in housing unit
+41    numhhs                        Number of households residing in this unit
+42   roomshh                               Number of rooms in the housing unit
+43      area                         Housing unit's floor area (square meters)
+44     const                                            Construction materials
+45   yrbuilt           Year the construction of the housing unit was completed
+46  wastetoi        Place of sewagedisposal for the housing unit: water closet
+47  wastekit            Place of sewage disposal for the housing unit: kitchen
+48  wasteoth              Place of sewage disposal for the housing unit: other
+49   persons                            Number of individuals in the household
+50  workerhh                         Number of working people in the household
+51   unemphh                             Number of unemployed in the household
+52     lithh                                    Number of literate individuals
+53   illithh                                  Number of illiterate individuals
+54   mstudhh                                           Number of male students
+55   fstudhh                                         Number of female students
+56    pernum                                                     Person number
+57     wtper                                                     Person weight
+58    pernum                                  Person number (within household)
+59     perno                                                     Person number
+60    relate                             Relationship to the head of household
+61    mother                      Person's mother is a member of the household
+62    momloc                                Mother's position in the household
+63   resstat                                                Residential status
+64   birthmo                                                    Month of birth
+65   birthyr                         Year of birth, Hijri (Gregorian) calendar
+66       age                                                               Age
+67       bpl                                                    Place of birth
+68     relig                                                          Religion
+69     citiz                                                       Citizenship
+70     moved              Changed city/village of residence since October 1996
+71    durres                        Duration of residence in this city/village
+72   migreas                                              Reason for migration
+73   prevres                                       Previous place of residence
+74  prevprov                                    Province of previous residence
+75    school                                          Current school attendace
+76       lit                                                          Literacy
+77     edlev                                                    Educationlevel
+78  edattain                                           Grade, course or degree
+79    field3                                          Field of study, 3 digits
+80   empstat                                                       Work status
+81      occ4                                                        Occupation
+82      occ3                                               Occupation, 3-digit
+83      ind4                                                          Industry
+84      ind3                                                 Industry, 3-digit
+85   classwk                                              Status in employment
+86   workloc                                           Place of work/education
+87     marst                                                    Marital status
+88   marrnum                               Number of changes in marital status
+89  everborn                                 Ever given birth to live children
+90   chbornm                                         Number of  live-born boys
+91   chbornf                                        Number of  live-born girls
+92   chsurvm                                    Number of boys currently alive
+93   chsurvf                                   Number of girls currently alive
+94    brthyr             Has given birth to live children in the past 365 days
+95   brthyrm                     Number of live-born boys in the past 365 days
+96   brthyrf                    Number of live-born girls in the past 365 days
+97  brthsurm                               Boys born last year currently alive
+98  brthsurf                              Girls born last year currently alive
+99    disab1                                         Disability status (first)
+100   disab2                                        Disability status (second)
+101   disab3                                         Disability status (third)
+102 disabnum                                            Number of disabilities
+103     bpl2                                               Place of birth code
+104   citiz2                                       Country of citizenship code

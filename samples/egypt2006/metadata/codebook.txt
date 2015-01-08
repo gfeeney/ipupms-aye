@@ -1,0 +1,2371 @@
+         vname code                          short
+1        cntry   32                      Argentina
+2        cntry   51                        Armenia
+3        cntry   40                        Austria
+4        cntry   50                     Bangladesh
+5        cntry  112                        Belarus
+6        cntry   68                        Bolivia
+7        cntry   76                         Brazil
+8        cntry  854                   Burkina Faso
+9        cntry  116                       Cambodia
+10       cntry  120                       Cameroon
+11       cntry  124                         Canada
+12       cntry  152                          Chile
+13       cntry  156                          China
+14       cntry  170                       Colombia
+15       cntry  188                     Costa Rica
+16       cntry  192                           Cuba
+17       cntry  214             Dominican Republic
+18       cntry  218                        Ecuador
+19       cntry  818                          Egypt
+20       cntry  222                    El Salvador
+21       cntry  242                           Fiji
+22       cntry  250                         France
+23       cntry  276                        Germany
+24       cntry  288                          Ghana
+25       cntry  300                         Greece
+26       cntry  324                         Guinea
+27       cntry  332                          Haiti
+28       cntry  348                        Hungary
+29       cntry  356                          India
+30       cntry  360                      Indonesia
+31       cntry  364                           Iran
+32       cntry  368                           Iraq
+33       cntry  372                        Ireland
+34       cntry  376                         Israel
+35       cntry  380                          Italy
+36       cntry  388                        Jamaica
+37       cntry  400                         Jordan
+38       cntry  404                          Kenya
+39       cntry  417                Kyrgyz Republic
+40       cntry  430                        Liberia
+41       cntry  454                         Malawi
+42       cntry  458                       Malaysia
+43       cntry  466                           Mali
+44       cntry  484                         Mexico
+45       cntry  496                       Mongolia
+46       cntry  504                        Morocco
+47       cntry  524                          Nepal
+48       cntry  528                    Netherlands
+49       cntry  558                      Nicaragua
+50       cntry  566                        Nigeria
+51       cntry  586                       Pakistan
+52       cntry  275                      Palestine
+53       cntry  591                         Panama
+54       cntry  604                           Peru
+55       cntry  608                    Philippines
+56       cntry  620                       Portugal
+57       cntry  630                    Puerto Rico
+58       cntry  642                        Romania
+59       cntry  646                         Rwanda
+60       cntry  662                    Saint Lucia
+61       cntry  686                        Senegal
+62       cntry  694                   Sierra Leone
+63       cntry  705                       Slovenia
+64       cntry  710                   South Africa
+65       cntry  728                    South Sudan
+66       cntry  724                          Spain
+67       cntry  729                          Sudan
+68       cntry  756                    Switzerland
+69       cntry  834                       Tanzania
+70       cntry  764                       Thailand
+71       cntry  792                         Turkey
+72       cntry  800                         Uganda
+73       cntry  804                        Ukraine
+74       cntry  826                 United Kingdom
+75       cntry  840                  United States
+76       cntry  858                        Uruguay
+77       cntry  862                      Venezuela
+78       cntry  704                        Vietnam
+79       cntry  894                         Zambia
+80        year 1960                           1960
+81        year 1962                           1962
+82        year 1963                           1963
+83        year 1964                           1964
+84        year 1966                           1966
+85        year 1968                           1968
+86        year 1969                           1969
+87        year 1970                           1970
+88        year 1971                           1971
+89        year 1972                           1972
+90        year 1973                           1973
+91        year 1974                           1974
+92        year 1975                           1975
+93        year 1976                           1976
+94        year 1977                           1977
+95        year 1979                           1979
+96        year 1980                           1980
+97        year 1981                           1981
+98        year 1982                           1982
+99        year 1983                           1983
+100       year 1984                           1984
+101       year 1985                           1985
+102       year 1986                           1986
+103       year 1987                           1987
+104       year 1989                           1989
+105       year 1990                           1990
+106       year 1991                           1991
+107       year 1992                           1992
+108       year 1993                           1993
+109       year 1994                           1994
+110       year 1995                           1995
+111       year 1996                           1996
+112       year 1997                           1997
+113       year 1998                           1998
+114       year 1999                           1999
+115       year 2000                           2000
+116       year 2001                           2001
+117       year 2002                           2002
+118       year 2003                           2003
+119       year 2004                           2004
+120       year 2005                           2005
+121       year 2006                           2006
+122       year 2007                           2007
+123       year 2008                           2008
+124       year 2009                           2009
+125       year 2010                           2010
+126       year 2011                           2011
+127     sample  321                 Argentina 1970
+128     sample  322                 Argentina 1980
+129     sample  323                 Argentina 1991
+130     sample  324                 Argentina 2001
+131     sample  325                 Argentina 2010
+132     sample  511                   Armenia 2001
+133     sample  401                   Austria 1971
+134     sample  402                   Austria 1981
+135     sample  403                   Austria 1991
+136     sample  404                   Austria 2001
+137     sample  501                Bangladesh 1991
+138     sample  502                Bangladesh 2001
+139     sample  503                Bangladesh 2011
+140     sample  681                   Bolivia 1976
+141     sample  682                   Bolivia 1992
+142     sample  683                   Bolivia 2001
+143     sample  761                    Brazil 1960
+144     sample  762                    Brazil 1970
+145     sample  763                    Brazil 1980
+146     sample  764                    Brazil 1991
+147     sample  765                    Brazil 2000
+148     sample  766                    Brazil 2010
+149     sample 1121                   Belarus 1999
+150     sample 8541              Burkina Faso 1985
+151     sample 8542              Burkina Faso 1996
+152     sample 8543              Burkina Faso 2006
+153     sample 1161                  Cambodia 1998
+154     sample 1162                  Cambodia 2008
+155     sample 1201                  Cameroon 1976
+156     sample 1202                  Cameroon 1987
+157     sample 1203                  Cameroon 2005
+158     sample 1241                    Canada 1971
+159     sample 1242                    Canada 1981
+160     sample 1243                    Canada 1991
+161     sample 1244                    Canada 2001
+162     sample 1521                     Chile 1960
+163     sample 1522                     Chile 1970
+164     sample 1523                     Chile 1982
+165     sample 1524                     Chile 1992
+166     sample 1525                     Chile 2002
+167     sample 1561                     China 1982
+168     sample 1562                     China 1990
+169     sample 1701                  Colombia 1964
+170     sample 1702                  Colombia 1973
+171     sample 1703                  Colombia 1985
+172     sample 1704                  Colombia 1993
+173     sample 1705                  Colombia 2005
+174     sample 1881                Costa Rica 1963
+175     sample 1882                Costa Rica 1973
+176     sample 1883                Costa Rica 1984
+177     sample 1884                Costa Rica 2000
+178     sample 1921                      Cuba 2002
+179     sample 2141        Dominican Republic 1960
+180     sample 2142        Dominican Republic 1970
+181     sample 2143        Dominican Republic 1981
+182     sample 2144        Dominican Republic 2002
+183     sample 2145        Dominican Republic 2010
+184     sample 2181                   Ecuador 1962
+185     sample 2182                   Ecuador 1974
+186     sample 2183                   Ecuador 1982
+187     sample 2184                   Ecuador 1990
+188     sample 2185                   Ecuador 2001
+189     sample 2186                   Ecuador 2010
+190     sample 8181                     Egypt 1996
+191     sample 8182                     Egypt 2006
+192     sample 2221               El Salvador 1992
+193     sample 2222               El Salvador 2007
+194     sample 2421                      Fiji 1966
+195     sample 2422                      Fiji 1976
+196     sample 2423                      Fiji 1986
+197     sample 2424                      Fiji 1996
+198     sample 2425                      Fiji 2007
+199     sample 2501                    France 1962
+200     sample 2502                    France 1968
+201     sample 2503                    France 1975
+202     sample 2504                    France 1982
+203     sample 2505                    France 1990
+204     sample 2506                    France 1999
+205     sample 2507                    France 2006
+206     sample 2761            Germany 1970 (West)
+207     sample 2762            Germany 1971 (East)
+208     sample 2763            Germany 1981 (East)
+209     sample 2764            Germany 1987 (West)
+210     sample 2881                     Ghana 2000
+211     sample 2882                     Ghana 2010
+212     sample 3001                    Greece 1971
+213     sample 3002                    Greece 1981
+214     sample 3003                    Greece 1991
+215     sample 3004                    Greece 2001
+216     sample 3241                    Guinea 1983
+217     sample 3242                    Guinea 1996
+218     sample 3321                     Haiti 1971
+219     sample 3322                     Haiti 1982
+220     sample 3323                     Haiti 2003
+221     sample 3481                   Hungary 1970
+222     sample 3482                   Hungary 1980
+223     sample 3483                   Hungary 1990
+224     sample 3484                   Hungary 2001
+225     sample 3561                     India 1983
+226     sample 3562                     India 1987
+227     sample 3563                     India 1993
+228     sample 3564                     India 1999
+229     sample 3565                     India 2004
+230     sample 3601                 Indonesia 1971
+231     sample 3602                 Indonesia 1976
+232     sample 3603                 Indonesia 1980
+233     sample 3604                 Indonesia 1985
+234     sample 3605                 Indonesia 1990
+235     sample 3606                 Indonesia 1995
+236     sample 3607                 Indonesia 2000
+237     sample 3608                 Indonesia 2005
+238     sample 3609                 Indonesia 2010
+239     sample 3641                      Iran 2006
+240     sample 3681                      Iraq 1997
+241     sample 3721                   Ireland 1971
+242     sample 3722                   Ireland 1979
+243     sample 3723                   Ireland 1981
+244     sample 3724                   Ireland 1986
+245     sample 3725                   Ireland 1991
+246     sample 3726                   Ireland 1996
+247     sample 3727                   Ireland 2002
+248     sample 3728                   Ireland 2006
+249     sample 3729                   Ireland 2011
+250     sample 3761                    Israel 1972
+251     sample 3762                    Israel 1983
+252     sample 3763                    Israel 1995
+253     sample 3801                     Italy 2001
+254     sample 3881                   Jamaica 1982
+255     sample 3882                   Jamaica 1991
+256     sample 3883                   Jamaica 2001
+257     sample 4001                    Jordan 2004
+258     sample 4041                     Kenya 1969
+259     sample 4042                     Kenya 1979
+260     sample 4043                     Kenya 1989
+261     sample 4044                     Kenya 1999
+262     sample 4045                     Kenya 2009
+263     sample 4171           Kyrgyz Republic 1999
+264     sample 4172           Kyrgyz Republic 2009
+265     sample 4301                   Liberia 1974
+266     sample 4302                   Liberia 2008
+267     sample 4541                    Malawi 1987
+268     sample 4542                    Malawi 1998
+269     sample 4543                    Malawi 2008
+270     sample 4581                  Malaysia 1970
+271     sample 4582                  Malaysia 1980
+272     sample 4583                  Malaysia 1991
+273     sample 4584                  Malaysia 2000
+274     sample 4661                      Mali 1987
+275     sample 4662                      Mali 1998
+276     sample 4663                      Mali 2009
+277     sample 4841                    Mexico 1960
+278     sample 4842                    Mexico 1970
+279     sample 4843                    Mexico 1990
+280     sample 4844                    Mexico 1995
+281     sample 4845                    Mexico 2000
+282     sample 4846                    Mexico 2005
+283     sample 4847                    Mexico 2010
+284     sample 4961                  Mongolia 1989
+285     sample 4962                  Mongolia 2000
+286     sample 5041                   Morocco 1982
+287     sample 5042                   Morocco 1994
+288     sample 5043                   Morocco 2004
+289     sample 5241                     Nepal 2001
+290     sample 5281               Netherlands 1960
+291     sample 5282               Netherlands 1971
+292     sample 5283               Netherlands 2001
+293     sample 5581                 Nicaragua 1971
+294     sample 5582                 Nicaragua 1995
+295     sample 5583                 Nicaragua 2005
+296     sample 5661                   Nigeria 2006
+297     sample 5662                   Nigeria 2007
+298     sample 5663                   Nigeria 2008
+299     sample 5664                   Nigeria 2009
+300     sample 5665                   Nigeria 2010
+301     sample 5861                  Pakistan 1973
+302     sample 5862                  Pakistan 1981
+303     sample 5863                  Pakistan 1998
+304     sample 2751                 Palestine 1997
+305     sample 2752                 Palestine 2007
+306     sample 5911                    Panama 1960
+307     sample 5912                    Panama 1970
+308     sample 5913                    Panama 1980
+309     sample 5914                    Panama 1990
+310     sample 5915                    Panama 2000
+311     sample 5916                    Panama 2010
+312     sample 6041                      Peru 1993
+313     sample 6042                      Peru 2007
+314     sample 6081               Philippines 1990
+315     sample 6082               Philippines 1995
+316     sample 6083               Philippines 2000
+317     sample 6201                  Portugal 1981
+318     sample 6202                  Portugal 1991
+319     sample 6203                  Portugal 2001
+320     sample 6301               Puerto Rico 1970
+321     sample 6302               Puerto Rico 1980
+322     sample 6303               Puerto Rico 1990
+323     sample 6304               Puerto Rico 2000
+324     sample 6305               Puerto Rico 2005
+325     sample 6421                   Romania 1977
+326     sample 6422                   Romania 1992
+327     sample 6423                   Romania 2002
+328     sample 6461                    Rwanda 1991
+329     sample 6462                    Rwanda 2002
+330     sample 6621               Saint Lucia 1980
+331     sample 6622               Saint Lucia 1991
+332     sample 6861                   Senegal 1988
+333     sample 6862                   Senegal 2002
+334     sample 6941              Sierra Leone 2004
+335     sample 7051                  Slovenia 2002
+336     sample 7101              South Africa 1996
+337     sample 7102              South Africa 2001
+338     sample 7103              South Africa 2007
+339     sample 7241                     Spain 1981
+340     sample 7242                     Spain 1991
+341     sample 7243                     Spain 2001
+342     sample 7281               South Sudan 2008
+343     sample 7291                     Sudan 2008
+344     sample 7561               Switzerland 1970
+345     sample 7562               Switzerland 1980
+346     sample 7563               Switzerland 1990
+347     sample 7564               Switzerland 2000
+348     sample 8341                  Tanzania 1988
+349     sample 8342                  Tanzania 2002
+350     sample 7641                  Thailand 1970
+351     sample 7642                  Thailand 1980
+352     sample 7643                  Thailand 1990
+353     sample 7644                  Thailand 2000
+354     sample 7921                    Turkey 1985
+355     sample 7922                    Turkey 1990
+356     sample 7923                    Turkey 2000
+357     sample 8001                    Uganda 1991
+358     sample 8002                    Uganda 2002
+359     sample 8041                   Ukraine 2001
+360     sample 8261            United Kingdom 1991
+361     sample 8262            United Kingdom 2001
+362     sample 8401             United States 1960
+363     sample 8402             United States 1970
+364     sample 8403             United States 1980
+365     sample 8404             United States 1990
+366     sample 8405             United States 2000
+367     sample 8406             United States 2005
+368     sample 8407             United States 2010
+369     sample 8581                   Uruguay 1963
+370     sample 8582                   Uruguay 1975
+371     sample 8583                   Uruguay 1985
+372     sample 8584                   Uruguay 1996
+373     sample 8585                   Uruguay 2006
+374     sample 8586                   Uruguay 2011
+375     sample 8621                 Venezuela 1971
+376     sample 8622                 Venezuela 1981
+377     sample 8623                 Venezuela 1990
+378     sample 8624                 Venezuela 2001
+379     sample 7041                   Vietnam 1989
+380     sample 7042                   Vietnam 1999
+381     sample 7043                   Vietnam 2009
+382     sample 8941                    Zambia 1990
+383     sample 8942                    Zambia 2000
+384     sample 8943                    Zambia 2010
+385       pern    1                              1
+386       pern    2                              2
+387       pern    3                              3
+388       pern    4                              4
+389       pern    5                              5
+390       pern    6                              6
+391       pern    7                              7
+392       pern    8                              8
+393       pern    9                              9
+394       pern   10                             10
+395       pern   11                             11
+396       pern   12                             12
+397       pern   13                             13
+398       pern   14                             14
+399       pern   15                             15
+400       pern   16                             16
+401       pern   17                             17
+402       pern   18                             18
+403       pern   19                             19
+404       pern   20                             20
+405       pern   21                             21
+406       pern   22                             22
+407       pern   23                             23
+408       pern   24                             24
+409       pern   25                             25
+410       pern   26                             26
+411       pern   27                             27
+412       pern   28                             28
+413       pern   29                             29
+414       pern   30                             30
+415       fbig    0                     No problem
+416       fbig    1 Yes: households within a large
+417       fbig    2 Yes: persons within a large ho
+418    fbig_nh    0                      Not split
+419    fbig_nh   31                             31
+420    fbig_nh   32                             32
+421    fbig_nh   33                             33
+422    fbig_nh   34                             34
+423    fbig_nh   35                             35
+424    fbig_nh   37                             37
+425    fbig_nh   39                             39
+426    fbig_nh   40                             40
+427    fbig_nh   41                             41
+428    fbig_nh   44                             44
+429    fbig_nh   45                             45
+430    fbig_nh   47                             47
+431    fbig_nh   49                             49
+432    fbig_nh   50                             50
+433    fbig_nh   54                             54
+434    fbig_nh   60                             60
+435    fbig_nh   61                             61
+436    fbig_nh   62                             62
+437    fbig_nh   64                             64
+438    fbig_nh   66                             66
+439    fbig_nh   69                             69
+440    fbig_nh   72                             72
+441    fbig_nh   74                             74
+442    fbig_nh   77                             77
+443    fbig_nh   78                             78
+444    fbig_nh   79                             79
+445    fbig_nh   80                             80
+446    fbig_nh   82                             82
+447    fbig_nh   86                             86
+448    fbig_nh   87                             87
+449    fbig_nh   88                             88
+450    fbig_nh   89                             89
+451    fbig_nh   90                             90
+452    fbig_nh   91                             91
+453    fbig_nh   98                             98
+454    fbig_nh   99                             99
+455    fbig_nh  100                            100
+456        gov    1                          Cairo
+457        gov    2                     Alexandria
+458        gov    3                      Port Said
+459        gov    4                           Suez
+460        gov    5                         Helwan
+461        gov    6            6th of October City
+462        gov   11                       Damietta
+463        gov   12                       Dakahlia
+464        gov   13                        Sharkia
+465        gov   14                       Kalyobia
+466        gov   15                 Kafr El Sheikh
+467        gov   16                        Gharbia
+468        gov   17                       Menoufia
+469        gov   18                         Behera
+470        gov   19                       Ismailia
+471        gov   21                           Giza
+472        gov   22                      Beni Suef
+473        gov   23                         Fayoum
+474        gov   24                          Menia
+475        gov   25                         Asyout
+476        gov   26                          Suhag
+477        gov   27                           Qena
+478        gov   28                          Aswan
+479        gov   29                          Luxor
+480        gov   31                        Red Sea
+481        gov   32                     New Valley
+482        gov   33                         Matroh
+483        gov   34                    North Sinai
+484        gov   35                    South Sinai
+485      urban    1                          Urban
+486      urban    2                          Rural
+487    pubhous    1                       Hospital
+488    pubhous    2   Hotel (with touristic grade)
+489    pubhous    3            Lodge / inn / motel
+490    pubhous    4                    Guest house
+491    pubhous    5                         Prison
+492    pubhous    6 Dormitory / university housing
+493    pubhous    7 Eldery house / senior citizens
+494    pubhous    8                      Orphanage
+495    pubhous    9                          Other
+496    pubhous   99                            NIU
+497      males    0                              0
+498      males    1                              1
+499      males    2                              2
+500      males    3                              3
+501      males    4                              4
+502      males    5                              5
+503      males    6                              6
+504      males    7                              7
+505      males    8                              8
+506      males    9                              9
+507      males   10                             10
+508      males   11                             11
+509      males   12                             12
+510      males   13                             13
+511      males   14                             14
+512      males   15                            15+
+513      males   98                        Unknown
+514      males   99                            NIU
+515    females    0                              0
+516    females    1                              1
+517    females    2                              2
+518    females    3                              3
+519    females    4                              4
+520    females    5                              5
+521    females    6                              6
+522    females    7                              7
+523    females    8                              8
+524    females    9                              9
+525    females   10                             10
+526    females   11                             11
+527    females   12                             12
+528    females   13                            13+
+529    females   98                        Unknown
+530    females   99                            NIU
+531    members    1                              1
+532    members    2                              2
+533    members    3                              3
+534    members    4                              4
+535    members    5                              5
+536    members    6                              6
+537    members    7                              7
+538    members    8                              8
+539    members    9                              9
+540    members   10                             10
+541    members   11                             11
+542    members   12                             12
+543    members   13                             13
+544    members   14                             14
+545    members   15                             15
+546    members   16                             16
+547    members   17                             17
+548    members   18                             18
+549    members   19                             19
+550    members   20                            20+
+551    members   98                        Unknown
+552    members   99                            NIU
+553     dwtype    1                      Apartment
+554     dwtype    2        More than one apartment
+555     dwtype    3           Villa or whole house
+556     dwtype    4              Whole rural house
+557     dwtype    5 One or more rooms in residenti
+558     dwtype    6             Free standing room
+559     dwtype    7                    Hut or tent
+560     dwtype    8                       Cemetery
+561     dwtype    9                          Other
+562     dwtype   99                            NIU
+563   ownershp    1                 Rent (old law)
+564   ownershp    2                 Rent (new law)
+565   ownershp    3                 Furnished rent
+566   ownershp    4        Owned, totally paid for
+567   ownershp    5     Owned, paying installments
+568   ownershp    6                           Gift
+569   ownershp    7                 Fringe benefit
+570   ownershp    8                         Others
+571   ownershp    9                            NIU
+572     watsrc    1                 Public network
+573     watsrc    2                           Pump
+574     watsrc    3                          Wells
+575     watsrc    4                          Other
+576     watsrc    9                            NIU
+577     watacc    1 Tap inside the residential uni
+578     watacc    2        Tap inside the building
+579     watacc    3  No connection to the facility
+580     watacc    9                            NIU
+581   lighting    1    Electricty (public network)
+582   lighting    2                       Kerosene
+583   lighting    3                       Gasoline
+584   lighting    4                          Other
+585   lighting    9                            NIU
+586     sewage    1    Connected to public network
+587     sewage    2                Private network
+588     sewage    3                        Cesspit
+589     sewage    4                  Not connected
+590     sewage    9                            NIU
+591     sewage    1    Connected to public network
+592     sewage    2                Private network
+593     sewage    3                        Cesspit
+594     sewage    4                  Not connected
+595     sewage    9                            NIU
+596     sewage    1    Connected to public network
+597     sewage    2                Private network
+598     sewage    3                        Cesspit
+599     sewage    4                  Not connected
+600     sewage    9                            NIU
+601      rooms    1                              1
+602      rooms    2                              2
+603      rooms    3                              3
+604      rooms    4                              4
+605      rooms    5                              5
+606      rooms    6                              6
+607      rooms    7                              7
+608      rooms    8                              8
+609      rooms    9                              9
+610      rooms   10                             10
+611      rooms   11                             11
+612      rooms   12                             12
+613      rooms   13                             13
+614      rooms   14                             14
+615      rooms   15                            15+
+616      rooms   99                            NIU
+617       rent    0                        No rent
+618       rent 9999                            NIU
+619    kitchen    1                        Private
+620    kitchen    2                         Shared
+621    kitchen    3                  Not available
+622    kitchen    9                            NIU
+623   bathroom    1                        Private
+624   bathroom    2                         Shared
+625   bathroom    3                  Not available
+626   bathroom    9                            NIU
+627   bathtoil    1                        Private
+628   bathtoil    2                         Shared
+629   bathtoil    3                  Not available
+630   bathtoil    9                            NIU
+631    septoil    1                        Private
+632    septoil    2                         Shared
+633    septoil    3                  Not available
+634    septoil    9                            NIU
+635    propane    1                            Yes
+636    propane    2                             No
+637    propane    8                        Unknown
+638    propane    9                            NIU
+639        gas    1                            Yes
+640        gas    2                             No
+641        gas    9                            NIU
+642   kerosene    1                            Yes
+643   kerosene    2                             No
+644   kerosene    8                        Unknown
+645   kerosene    9                            NIU
+646   electric    1                            Yes
+647   electric    2                             No
+648   electric    8                        Unknown
+649   electric    9                            NIU
+650    othfuel    1                            Yes
+651    othfuel    2                             No
+652    othfuel    9                            NIU
+653       auto    0                              0
+654       auto    1                              1
+655       auto    2                              2
+656       auto    3                              3
+657       auto    4                              4
+658       auto    5                             5+
+659       auto   98                        Unknown
+660       auto   99                            NIU
+661    motocyc    0                              0
+662    motocyc    1                              1
+663    motocyc    2                              2
+664    motocyc    3                              3
+665    motocyc    4                              4
+666    motocyc    5                             5+
+667    motocyc   98                        Unknown
+668    motocyc   99                            NIU
+669       bike    0                              0
+670       bike    1                              1
+671       bike    2                              2
+672       bike    3                              3
+673       bike    4                              4
+674       bike    5                             5+
+675       bike   98                        Unknown
+676       bike   99                            NIU
+677   othtrans    0                              0
+678   othtrans    1                              1
+679   othtrans    2                              2
+680   othtrans    3                              3
+681   othtrans    4                              4
+682   othtrans    5                             5+
+683   othtrans   98                        Unknown
+684   othtrans   99                            NIU
+685    notrans    1 Yes, has no means of transport
+686    notrans    2 No, has means of transportatio
+687    notrans    8                        Unknown
+688    notrans    9                            NIU
+689      radio    0                              0
+690      radio    1                              1
+691      radio    2                              2
+692      radio    3                              3
+693      radio    4                              4
+694      radio    5                              5
+695      radio    6                              6
+696      radio    7                              7
+697      radio    8                              8
+698      radio    9                              9
+699      radio   98                        Unknown
+700      radio   99                            NIU
+701         tv    0                              0
+702         tv    1                              1
+703         tv    2                              2
+704         tv    3                              3
+705         tv    4                              4
+706         tv    5                              5
+707         tv    6                              6
+708         tv    7                              7
+709         tv    8                              8
+710         tv    9                              9
+711         tv   98                        Unknown
+712         tv   99                            NIU
+713      video    0                              0
+714      video    1                              1
+715      video    2                              2
+716      video    3                              3
+717      video    4                              4
+718      video    5                             5+
+719      video   98                        Unknown
+720      video   99                            NIU
+721     satell    0                              0
+722     satell    1                              1
+723     satell    2                              2
+724     satell    3                              3
+725     satell    4                              4
+726     satell    5                              5
+727     satell    6                             6+
+728     satell   98                        Unknown
+729     satell   99                            NIU
+730     fridge    0                              0
+731     fridge    1                              1
+732     fridge    2                              2
+733     fridge    3                              3
+734     fridge    4                              4
+735     fridge    5                              5
+736     fridge    6                              6
+737     fridge    7                              7
+738     fridge    8                              8
+739     fridge    9                              9
+740     fridge   98                        Unknown
+741     fridge   99                            NIU
+742    freezer    0                              0
+743    freezer    1                              1
+744    freezer    2                              2
+745    freezer    3                              3
+746    freezer    4                              4
+747    freezer    5                             5+
+748    freezer   98                        Unknown
+749    freezer   99                            NIU
+750  washernon    0                              0
+751  washernon    1                              1
+752  washernon    2                              2
+753  washernon    3                              3
+754  washernon    4                              4
+755  washernon    5                              5
+756  washernon    6                              6
+757  washernon    7                              7
+758  washernon    8                              8
+759  washernon    9                              9
+760  washernon   98                        Unknown
+761  washernon   99                            NIU
+762     washer    0                              0
+763     washer    1                              1
+764     washer    2                              2
+765     washer    3                              3
+766     washer    4                              4
+767     washer    5                             5+
+768     washer   98                        Unknown
+769     washer   99                            NIU
+770   dishwash    0                              0
+771   dishwash    1                              1
+772   dishwash    2                              2
+773   dishwash    3                              3
+774   dishwash    4                              4
+775   dishwash    5                             5+
+776   dishwash   98                        Unknown
+777   dishwash   99                            NIU
+778      stove    0                              0
+779      stove    1                              1
+780      stove    2                              2
+781      stove    3                              3
+782      stove    4                              4
+783      stove    5                              5
+784      stove    6                              6
+785      stove    7                              7
+786      stove    8                              8
+787      stove    9                              9
+788      stove   98                        Unknown
+789      stove   99                            NIU
+790    watheat    0                              0
+791    watheat    1                              1
+792    watheat    2                              2
+793    watheat    3                              3
+794    watheat    4                              4
+795    watheat    5                              5
+796    watheat    6                             6+
+797    watheat   98                        Unknown
+798    watheat   99                            NIU
+799     vacuum    0                              0
+800     vacuum    1                              1
+801     vacuum    2                              2
+802     vacuum    3                              3
+803     vacuum    4                              4
+804     vacuum    5                             5+
+805     vacuum   98                        Unknown
+806     vacuum   99                            NIU
+807     aircon    0                              0
+808     aircon    1                              1
+809     aircon    2                              2
+810     aircon    3                              3
+811     aircon    4                              4
+812     aircon    5                             5+
+813     aircon   98                        Unknown
+814     aircon   99                            NIU
+815         pc    0                              0
+816         pc    1                              1
+817         pc    2                              2
+818         pc    3                              3
+819         pc    4                              4
+820         pc    5                             5+
+821         pc   98                        Unknown
+822         pc   99                            NIU
+823        fan    0                              0
+824        fan    1                              1
+825        fan    2                              2
+826        fan    3                              3
+827        fan    4                              4
+828        fan    5                              5
+829        fan    6                              6
+830        fan    7                              7
+831        fan    8                              8
+832        fan    9                              9
+833        fan   98                        Unknown
+834        fan   99                            NIU
+835   internet    0                              0
+836   internet    1                              1
+837   internet    2                              2
+838   internet    3                              3
+839   internet    4                              4
+840   internet    5                             5+
+841   internet   99                            NIU
+842      phone    0                              0
+843      phone    1                              1
+844      phone    2                              2
+845      phone    3                              3
+846      phone    4                              4
+847      phone    5                              5
+848      phone    6                              6
+849      phone    7                              7
+850      phone    8                              8
+851      phone    9                              9
+852      phone   98                        Unknown
+853      phone   99                            NIU
+854       cell    0                              0
+855       cell    1                              1
+856       cell    2                              2
+857       cell    3                              3
+858       cell    4                              4
+859       cell    5                              5
+860       cell    6                              6
+861       cell    7                              7
+862       cell    8                              8
+863       cell    9                              9
+864       cell   98                        Unknown
+865       cell   99                            NIU
+866     noappl    1 Yes, has no household applianc
+867     noappl    2   No, has household appliances
+868     noappl    9                            NIU
+869     pernum    0               Household record
+870     pernum    1                              1
+871     pernum    2                              2
+872     pernum    3                              3
+873     pernum    4                              4
+874     pernum    5                              5
+875     pernum    6                              6
+876     pernum    7                              7
+877     pernum    8                              8
+878     pernum    9                              9
+879     pernum   10                             10
+880     pernum   11                             11
+881     pernum   12                             12
+882     pernum   13                             13
+883     pernum   14                             14
+884     pernum   15                             15
+885     pernum   16                             16
+886     pernum   17                             17
+887     pernum   18                             18
+888     pernum   19                             19
+889     pernum   20                             20
+890     pernum   21                             21
+891     pernum   22                             22
+892     pernum   23                             23
+893     pernum   24                             24
+894     pernum   25                             25
+895     pernum   26                             26
+896     pernum   27                             27
+897     pernum   28                             28
+898     pernum   29                             29
+899     pernum   30                             30
+900     relate    1              Head of household
+901     relate    2                 Husband / wife
+902     relate    3                 Son / daughter
+903     relate    4   Son-in-law / daughter-in-law
+904     relate    5       Grandson / granddaughter
+905     relate    6                Mother / father
+906     relate    7               Brother / sister
+907     relate    8                Other relatives
+908     relate    9                       Servants
+909     relate   10                    No relation
+910     relate   11                       Visitors
+911        age    0                              0
+912        age    1                              1
+913        age    2                              2
+914        age    3                              3
+915        age    4                              4
+916        age    5                              5
+917        age    6                              6
+918        age    7                              7
+919        age    8                              8
+920        age    9                              9
+921        age   10                             10
+922        age   11                             11
+923        age   12                             12
+924        age   13                             13
+925        age   14                             14
+926        age   15                             15
+927        age   16                             16
+928        age   17                             17
+929        age   18                             18
+930        age   19                             19
+931        age   20                             20
+932        age   21                             21
+933        age   22                             22
+934        age   23                             23
+935        age   24                             24
+936        age   25                             25
+937        age   26                             26
+938        age   27                             27
+939        age   28                             28
+940        age   29                             29
+941        age   30                             30
+942        age   31                             31
+943        age   32                             32
+944        age   33                             33
+945        age   34                             34
+946        age   35                             35
+947        age   36                             36
+948        age   37                             37
+949        age   38                             38
+950        age   39                             39
+951        age   40                             40
+952        age   41                             41
+953        age   42                             42
+954        age   43                             43
+955        age   44                             44
+956        age   45                             45
+957        age   46                             46
+958        age   47                             47
+959        age   48                             48
+960        age   49                             49
+961        age   50                             50
+962        age   51                             51
+963        age   52                             52
+964        age   53                             53
+965        age   54                             54
+966        age   55                             55
+967        age   56                             56
+968        age   57                             57
+969        age   58                             58
+970        age   59                             59
+971        age   60                             60
+972        age   61                             61
+973        age   62                             62
+974        age   63                             63
+975        age   64                             64
+976        age   65                             65
+977        age   66                             66
+978        age   67                             67
+979        age   68                             68
+980        age   69                             69
+981        age   70                             70
+982        age   71                             71
+983        age   72                             72
+984        age   73                             73
+985        age   74                             74
+986        age   75                             75
+987        age   76                             76
+988        age   77                             77
+989        age   78                             78
+990        age   79                             79
+991        age   80                             80
+992        age   81                             81
+993        age   82                             82
+994        age   83                             83
+995        age   84                             84
+996        age   85                             85
+997        age   86                             86
+998        age   87                             87
+999        age   88                             88
+1000       age   89                             89
+1001       age   90                             90
+1002       age   91                             91
+1003       age   92                             92
+1004       age   93                             93
+1005       age   94                             94
+1006       age   95                             95
+1007       age   96                             96
+1008       age   97                             97
+1009       age   98                             98
+1010       age   99                   99 and older
+1011       sex    1                           Male
+1012       sex    2                         Female
+1013     relig    1                         Muslim
+1014     relig    2                      Christian
+1015     relig    3                         Jewish
+1016     relig    4                          Other
+1017   nationg    1                       Egyptian
+1018   nationg    2                      Foreigner
+1019    nation    1                       Ethiopia
+1020    nation    2                        Eritrea
+1021    nation    5                          Libya
+1022    nation    6                        Tunisia
+1023    nation    7                        Algeria
+1024    nation    9                        Senegal
+1025    nation   12                        Morocco
+1026    nation   13                          Niger
+1027    nation   23                          Sudan
+1028    nation   24                        Somalia
+1029    nation   27                          Egypt
+1030    nation   52                        Nigeria
+1031    nation   53                    The Comoros
+1032    nation   99      Other countries in Africa
+1033    nation  103                    Philippines
+1034    nation  104                      Indonesia
+1035    nation  105                         Jordan
+1036    nation  106                          Syria
+1037    nation  107                        Lebanon
+1038    nation  108                          Yemen
+1039    nation  109                   Saudi Arabia
+1040    nation  110                          India
+1041    nation  111                          Japan
+1042    nation  112                       Pakistan
+1043    nation  113                     Bangladesh
+1044    nation  116                Thailand (Siam)
+1045    nation  118                         Turkey
+1046    nation  119                          China
+1047    nation  120                           Iraq
+1048    nation  123              Republic of Korea
+1049    nation  125        United Arab of Emirates
+1050    nation  126                        Bahrain
+1051    nation  127                      Palestine
+1052    nation  128                          Qatar
+1053    nation  129                         Kuwait
+1054    nation  131                           Oman
+1055    nation  136                       Malaysia
+1056    nation  199        Other countries in Asia
+1057    nation  201             Russian Federation
+1058    nation  205                        Ukraine
+1059    nation  210                     Belorussia
+1060    nation  211 Other former Soviet Republics,
+1061    nation  212 Other former Soviet Republics,
+1062    nation  223              Republic of Czech
+1063    nation  227                         Greece
+1064    nation  229                         Poland
+1065    nation  231                        Romania
+1066    nation  232                          Spain
+1067    nation  233    Federal Republic of Germany
+1068    nation  236                          Italy
+1069    nation  238                        Belgium
+1070    nation  240                        Denmark
+1071    nation  242                         Sweden
+1072    nation  243                    Switzerland
+1073    nation  244                         France
+1074    nation  245                        Finland
+1075    nation  248                 United Kingdom
+1076    nation  251                         Norway
+1077    nation  252                        Austria
+1078    nation  253                    Netherlands
+1079    nation  299      Other countries in Europe
+1080    nation  301       United States of America
+1081    nation  302                         Canada
+1082    nation  601                      Australia
+1083    nation  900 Other countries in America and
+1084    nation  999                        Unknown
+1085     marst    1                  Never married
+1086     marst    2 Contractually married (signed 
+1087     marst    3                        Married
+1088     marst    4                       Divorced
+1089     marst    5                        Widowed
+1090     marst    9                            NIU
+1091     wives    1                              1
+1092     wives    2                              2
+1093     wives    3                              3
+1094     wives    4                              4
+1095     wives    8                        Unknown
+1096     wives    9                            NIU
+1097   edlevel    1                     Illiterate
+1098   edlevel    2 Read and write without a certi
+1099   edlevel    3 Illiteracy eradication program
+1100   edlevel    4                        Primary
+1101   edlevel    5                    Preparatory
+1102   edlevel    6                   Intermediate
+1103   edlevel    7             Above intermediate
+1104   edlevel    8                     University
+1105   edlevel    9                 Higher diploma
+1106   edlevel   10                        Masters
+1107   edlevel   11                      Doctorate
+1108   edlevel   98                        Unknown
+1109   edlevel   99                            NIU
+1110    school    1             Currently enrolled
+1111    school    2                 Never enrolled
+1112    school    3 Enrolled and dropped out from 
+1113    school    8                        Unknown
+1114    school    9                            NIU
+1115  dropstag    1                              1
+1116  dropstag    2                              2
+1117  dropstag    9                            NIU
+1118  dropgrad    1                              1
+1119  dropgrad    2                              2
+1120  dropgrad    3                              3
+1121  dropgrad    4                              4
+1122  dropgrad    5                              5
+1123  dropgrad    6                              6
+1124  dropgrad    9                            NIU
+1125   empstat    1                       Employer
+1126   empstat    2                  Self employed
+1127   empstat    3                   Waged worker
+1128   empstat    4  Works for family without wage
+1129   empstat    5  Works for others without wage
+1130   empstat    6 Unemployed with previous work 
+1131   empstat    7         Unemployed, new worker
+1132   empstat    8              Full-time student
+1133   empstat    9            Full-time housewife
+1134   empstat   10                        Retired
+1135   empstat   11 Senior citizen who doesn't wor
+1136   empstat   12                       Disabled
+1137   empstat   13              Unwilling to work
+1138   empstat   14                          Other
+1139   empstat   99                            NIU
+1140     estab    1        Inside an establishment
+1141     estab    2 Outside the establishment, not
+1142     estab    3 Outside an establishment, in o
+1143     estab    9                            NIU
+1144   empsect    1                     Government
+1145   empsect    2                  Public sector
+1146   empsect    3    Private (investment sector)
+1147   empsect    4              Private (regular)
+1148   empsect    5                  Joint venture
+1149   empsect    6                    Cooperative
+1150   empsect    7 Non-governmental organizations
+1151   empsect    8                          Other
+1152   empsect    9                            NIU
+1153       occ  111                    Legislators
+1154       occ  112    Senior government officials
+1155       occ  113 Traditional chiefs and heads o
+1156       occ  114 Senior officials of special-in
+1157       occ  121 Directors and chief executives
+1158       occ  122 Production and operations depa
+1159       occ  123      Other department managers
+1160       occ  131               General managers
+1161       occ  211 Physicists, chemists and relat
+1162       occ  212 Mathematicians, statisticians 
+1163       occ  213        Computing professionals
+1164       occ  214 Architects, engineers and rela
+1165       occ  221     Life science professionals
+1166       occ  222 Health professionals (except n
+1167       occ  223 Nursing and midwifery professi
+1168       occ  231 College, university and higher
+1169       occ  232 Secondary education teaching p
+1170       occ  233 Primary and pre-primary educat
+1171       occ  234 Special education teaching pro
+1172       occ  235   Other teaching professionals
+1173       occ  241         Business professionals
+1174       occ  242            Legal professionals
+1175       occ  243 Archivists, librarians and rel
+1176       occ  244 Social science and related pro
+1177       occ  245 Writers and creative or perfor
+1178       occ  246        Religious professionals
+1179       occ  311 Physical and engineering scien
+1180       occ  312 Computer associate professiona
+1181       occ  313 Optical and electronic equipme
+1182       occ  314 Ship and aircraft controllers 
+1183       occ  315  Safety and quality inspectors
+1184       occ  321 Life science technicians and r
+1185       occ  322 Modern health associate profes
+1186       occ  323 Nursing and midwifery associat
+1187       occ  331 Primary education teaching ass
+1188       occ  332 Pre-primary education teaching
+1189       occ  334 Other teaching associate profe
+1190       occ  341 Finance and sales associate pr
+1191       occ  342 Business services agents and t
+1192       occ  343 Administrative associate profe
+1193       occ  344 Customs, tax and related gover
+1194       occ  345 Police inspectors and detectiv
+1195       occ  346 Social work associate professi
+1196       occ  347 Artistic, entertainment and sp
+1197       occ  348 Religious associate profession
+1198       occ  411 Secretaries and keyboard-opera
+1199       occ  412               Numerical clerks
+1200       occ  413 Material-recording and transpo
+1201       occ  414 Library, mail and related cler
+1202       occ  419            Other office clerks
+1203       occ  421 Cashiers, tellers and related 
+1204       occ  422      Client information clerks
+1205       occ  511 Travel attendants and related 
+1206       occ  512 Housekeeping and restaurant se
+1207       occ  513 Personal care and related work
+1208       occ  514 Other personal services worker
+1209       occ  515 Astrologers, fortune-tellers a
+1210       occ  516    Protective services workers
+1211       occ  522 Shop salespersons and demonstr
+1212       occ  523  Stall and market salespersons
+1213       occ  611 Market gardeners and crop grow
+1214       occ  612 Market-oriented animal produce
+1215       occ  613 Market-oriented crop and anima
+1216       occ  614   Forestry and related workers
+1217       occ  615 Fishery workers, hunters and t
+1218       occ  621 Subsistence agricultural and f
+1219       occ  711 Miners, shotfirers, stone cutt
+1220       occ  712 Building frame and related tra
+1221       occ  713 Building finishers and related
+1222       occ  714 Painters, building structure c
+1223       occ  721 Metal moulders, welders, sheet
+1224       occ  722 Blacksmiths, tool-makers and r
+1225       occ  723 Machinery mechanics and fitter
+1226       occ  724 Electrical and electronic equi
+1227       occ  731 Precision workers in metal and
+1228       occ  732 Potters, glass-makers and rela
+1229       occ  733 Handicraft workers in wood, te
+1230       occ  734 Printing and related trades wo
+1231       occ  741 Food processing and related tr
+1232       occ  742 Wood treaters, cabinet-makers 
+1233       occ  743 Textile, garment and related t
+1234       occ  744 Pelt, leather and shoemaking t
+1235       occ  811 Mining- and mineral-processing
+1236       occ  812 Metal-processing-plant operato
+1237       occ  813 Glass, ceramics and related pl
+1238       occ  814 Wood-processing- and papermaki
+1239       occ  815 Chemical-processing-plant oper
+1240       occ  816 Power-production and related p
+1241       occ  817 Automated-assembly-line and in
+1242       occ  821 Metal- and mineral-products ma
+1243       occ  822 Chemical-products machine oper
+1244       occ  823 Rubber- and plastic-products m
+1245       occ  824 Wood-products machine operator
+1246       occ  825 Printing-, binding- and paper-
+1247       occ  826 Textile-, fur- and leather-pro
+1248       occ  827 Food and related products mach
+1249       occ  828                     Assemblers
+1250       occ  829 Other machine operators and as
+1251       occ  831 Locomotive-engine drivers and 
+1252       occ  832          Motor-vehicle drivers
+1253       occ  833 Agricultural and other mobile-
+1254       occ  834 Ships' deck crews and related 
+1255       occ  911 Street vendors and related wor
+1256       occ  912 Shoe cleaning and other street
+1257       occ  913 Domestic and related helpers, 
+1258       occ  914 Building caretakers, window an
+1259       occ  915 Messengers, porters, doorkeepe
+1260       occ  916 Garbage collectors and related
+1261       occ  921 Agricultural, fishery and rela
+1262       occ  931 Mining and construction labour
+1263       occ  932        Manufacturing labourers
+1264       occ  933 Transport labourers and freigh
+1265       occ  990 Other occupation, response sup
+1266       occ  998                        Unknown
+1267       occ  999                            NIU
+1268       ind   11 Growing of non-perennial crops
+1269       ind   12     Growing of perennial crops
+1270       ind   13              Plant propagation
+1271       ind   14              Animal production
+1272       ind   15                  Mixed farming
+1273       ind   16 Support activities to agricult
+1274       ind   21 Silviculture and other forestr
+1275       ind   22                        Logging
+1276       ind   31                        Fishing
+1277       ind   32                    Aquaculture
+1278       ind   51            Mining of hard coal
+1279       ind   61  Extraction of crude petroleum
+1280       ind   62      Extraction of natural gas
+1281       ind   71            Mining of iron ores
+1282       ind   72 Mining of non-ferrous metal or
+1283       ind   81 Quarrying of stone, sand and c
+1284       ind   89    Mining and quarrying n.e.c.
+1285       ind   91 Support activities for petrole
+1286       ind   99 Support activities for other m
+1287       ind  101 Processing and preserving of m
+1288       ind  102 Processing and preserving of f
+1289       ind  103 Processing and preserving of f
+1290       ind  104 Manufacture of vegetable and a
+1291       ind  105  Manufacture of dairy products
+1292       ind  106 Manufacture of grain mill prod
+1293       ind  107 Manufacture of other food prod
+1294       ind  108 Manufacture of prepared animal
+1295       ind  110       Manufacture of beverages
+1296       ind  120 Manufacture of tobacco product
+1297       ind  131 Spinning, weaving and finishin
+1298       ind  132  Manufacture of other textiles
+1299       ind  141 Manufacture of wearing apparel
+1300       ind  143 Manufacture of knitted and cro
+1301       ind  151 Tanning and dressing of leathe
+1302       ind  152        Manufacture of footwear
+1303       ind  161 Sawmilling and planing of wood
+1304       ind  162 Manufacture of products of woo
+1305       ind  170 Manufacture of paper and paper
+1306       ind  181 Printing and service activitie
+1307       ind  182 Reproduction of recorded media
+1308       ind  191 Manufacture of coke oven produ
+1309       ind  192 Manufacture of refined petrole
+1310       ind  201 Manufacture of basic chemicals
+1311       ind  202 Manufacture of other chemical 
+1312       ind  203 Manufacture of man-made fibres
+1313       ind  210 Manufacture of pharmaceuticals
+1314       ind  221 Manufacture of rubber products
+1315       ind  222 Manufacture of plastics produc
+1316       ind  231 Manufacture of glass and glass
+1317       ind  239 Manufacture of non-metallic mi
+1318       ind  241 Manufacture of basic iron and 
+1319       ind  242 Manufacture of basic precious 
+1320       ind  243              Casting of metals
+1321       ind  251 Manufacture of structural meta
+1322       ind  252 Manufacture of weapons and amm
+1323       ind  259 Manufacture of other fabricate
+1324       ind  261 Manufacture of electronic comp
+1325       ind  262 Manufacture of computers and p
+1326       ind  263 Manufacture of communication e
+1327       ind  264 Manufacture of consumer electr
+1328       ind  265 Manufacture of measuring, test
+1329       ind  266 Manufacture of irradiation, el
+1330       ind  267 Manufacture of optical instrum
+1331       ind  271 Manufacture of electric motors
+1332       ind  272 Manufacture of batteries and a
+1333       ind  273 Manufacture of wiring and wiri
+1334       ind  274 Manufacture of electric lighti
+1335       ind  275 Manufacture of domestic applia
+1336       ind  279 Manufacture of other electrica
+1337       ind  281 Manufacture of general-purpose
+1338       ind  282 Manufacture of special-purpose
+1339       ind  291  Manufacture of motor vehicles
+1340       ind  301    Building of ships and boats
+1341       ind  302 Manufacture of railway locomot
+1342       ind  303 Manufacture of air and spacecr
+1343       ind  309 Manufacture of transport equip
+1344       ind  310       Manufacture of furniture
+1345       ind  321 Manufacture of jewellery, bijo
+1346       ind  324  Manufacture of games and toys
+1347       ind  325 Manufacture of medical and den
+1348       ind  329     Other manufacturing n.e.c.
+1349       ind  331 Repair of fabricated metal pro
+1350       ind  332 Installation of industrial mac
+1351       ind  351 Electric power generation, tra
+1352       ind  352 Manufacture of gas; distributi
+1353       ind  360 Water collection, treatment an
+1354       ind  370                       Sewerage
+1355       ind  381               Waste collection
+1356       ind  382   Waste treatment and disposal
+1357       ind  383             Materials recovery
+1358       ind  410      Construction of buildings
+1359       ind  421 Construction of roads and rail
+1360       ind  422 Construction of utility projec
+1361       ind  429 Construction of other civil en
+1362       ind  431 Demolition and site preparatio
+1363       ind  432 Electrical, plumbing and other
+1364       ind  433 Building completion and finish
+1365       ind  439 Other specialized construction
+1366       ind  451         Sale of motor vehicles
+1367       ind  452 Maintenance and repair of moto
+1368       ind  453 Sale of motor vehicle parts an
+1369       ind  454 Sale, maintenance and repair o
+1370       ind  461 Wholesale on a fee or contract
+1371       ind  462 Wholesale of agricultural raw 
+1372       ind  463 Wholesale of food, beverages a
+1373       ind  464   Wholesale of household goods
+1374       ind  465 Wholesale of machinery, equipm
+1375       ind  466    Other specialized wholesale
+1376       ind  469 Non-specialized wholesale trad
+1377       ind  471 Retail sale in non-specialized
+1378       ind  472 Retail sale of food, beverages
+1379       ind  473 Retail sale of automotive fuel
+1380       ind  474 Retail sale of information and
+1381       ind  475 Retail sale of other household
+1382       ind  476 Retail sale of cultural and re
+1383       ind  477 Retail sale of other goods in 
+1384       ind  478 Retail sale via stalls and mar
+1385       ind  479 Retail trade not in stores, st
+1386       ind  491         Transport via railways
+1387       ind  492           Other land transport
+1388       ind  493         Transport via pipeline
+1389       ind  501 Sea and coastal water transpor
+1390       ind  502         Inland water transport
+1391       ind  511        Passenger air transport
+1392       ind  521        Warehousing and storage
+1393       ind  522 Support activities for transpo
+1394       ind  531              Postal activities
+1395       ind  532             Courier activities
+1396       ind  551 Short term accommodation activ
+1397       ind  559            Other accommodation
+1398       ind  561 Restaurants and mobile food se
+1399       ind  562 Event catering and other food 
+1400       ind  563    Beverage serving activities
+1401       ind  581 Publishing of books, periodica
+1402       ind  591 Motion picture, video and tele
+1403       ind  592 Sound recording and music publ
+1404       ind  601             Radio broadcasting
+1405       ind  602 Television programming and bro
+1406       ind  611 Wired telecommunications activ
+1407       ind  612 Wireless telecommunications ac
+1408       ind  619 Other telecommunications activ
+1409       ind  620 Computer programming, consulta
+1410       ind  631 Data processing, hosting and r
+1411       ind  632 Other information service acti
+1412       ind  641        Monetary intermediation
+1413       ind  642 Activities of holding companie
+1414       ind  649 Other financial service activi
+1415       ind  651                      Insurance
+1416       ind  653                Pension funding
+1417       ind  661 Activities auxiliary to financ
+1418       ind  662 Activities auxiliary to insura
+1419       ind  663     Fund management activities
+1420       ind  681 Real estate activities with ow
+1421       ind  682 Real estate activities on a fe
+1422       ind  691               Legal activities
+1423       ind  692 Accounting, bookkeeping and au
+1424       ind  701     Activities of head offices
+1425       ind  702 Management consultancy activit
+1426       ind  711 Architectural and engineering 
+1427       ind  712 Technical testing and analysis
+1428       ind  721 Research and experimental deve
+1429       ind  722 Research and experimental deve
+1430       ind  731                    Advertising
+1431       ind  741  Specialized design activities
+1432       ind  742        Photographic activities
+1433       ind  749 Other professional, scientific
+1434       ind  750          Veterinary activities
+1435       ind  771 Renting and leasing of motor v
+1436       ind  772 Renting and leasing of persona
+1437       ind  773 Renting and leasing of other m
+1438       ind  781 Activities of employment place
+1439       ind  791 Travel agency and tour operato
+1440       ind  792 Other reservation service acti
+1441       ind  801    Private security activities
+1442       ind  802 Security systems service activ
+1443       ind  811 Combined facilities support ac
+1444       ind  812            Cleaning activities
+1445       ind  813 Landscape care and maintenance
+1446       ind  821 Office administrative and supp
+1447       ind  823 Organization of conventions an
+1448       ind  829 Business support service activ
+1449       ind  841 Administration of the State an
+1450       ind  842 Provision of services to the c
+1451       ind  843 Compulsory social security act
+1452       ind  851 Pre-primary and primary educat
+1453       ind  852            Secondary education
+1454       ind  853               Higher education
+1455       ind  854                Other education
+1456       ind  855 Educational support activities
+1457       ind  861            Hospital activities
+1458       ind  862 Medical and dental practice ac
+1459       ind  869  Other human health activities
+1460       ind  873 Residential care activities fo
+1461       ind  879 Other residential care activit
+1462       ind  881 Social work activities without
+1463       ind  889 Other social work activities w
+1464       ind  900 Creative, arts and entertainme
+1465       ind  910 Libraries, archives, museums a
+1466       ind  931              Sports activities
+1467       ind  932 Other amusement and recreation
+1468       ind  941 Activities of business, employ
+1469       ind  942     Activities of trade unions
+1470       ind  949 Activities of other membership
+1471       ind  951 Repair of computers and commun
+1472       ind  952 Repair of personal and househo
+1473       ind  960 Other personal service activit
+1474       ind  970 Activities of households as em
+1475       ind  981 Undifferentiated goods-produci
+1476       ind  990 Activities of extraterritorial
+1477       ind  995 Other occupation, response sup
+1478       ind  998                        Unknown
+1479       ind  999                            NIU
+1480     disab    1                         Normal
+1481     disab    2                       Disabled
+1482    bplgov    1                          Cairo
+1483    bplgov    2                     Alexandria
+1484    bplgov    3                      Port Said
+1485    bplgov    4                           Suez
+1486    bplgov   11                       Damietta
+1487    bplgov   12                       Dakahlia
+1488    bplgov   13                        Sharkia
+1489    bplgov   14                       Kalyobia
+1490    bplgov   15                 Kafr El Sheikh
+1491    bplgov   16                        Gharbia
+1492    bplgov   17                       Menoufia
+1493    bplgov   18                         Behera
+1494    bplgov   19                       Ismailia
+1495    bplgov   21                           Giza
+1496    bplgov   22                      Beni Suef
+1497    bplgov   23                         Fayoum
+1498    bplgov   24                          Menia
+1499    bplgov   25                         Asyout
+1500    bplgov   26                          Suhag
+1501    bplgov   27                           Qena
+1502    bplgov   28                          Aswan
+1503    bplgov   29                          Luxor
+1504    bplgov   31                        Red Sea
+1505    bplgov   32                     New Valley
+1506    bplgov   33                         Matroh
+1507    bplgov   34                    North Sinai
+1508    bplgov   35                    South Sinai
+1509    bplgov   80                         Abroad
+1510    bplgov   98                        Unknown
+1511    bplgov   99                            NIU
+1512   bpldist  101                 Qism al-Tibbin
+1513   bpldist  102                    Qism Hilwan
+1514   bpldist  103                    Qism 15 May
+1515   bpldist  104                 Qism al-Ma'adi
+1516   bpldist  105                     Qism Turah
+1517   bpldist  106            Qism Misr al-Qadima
+1518   bpldist  107       Qism Sayyida Zaynab, al-
+1519   bpldist  108                Qism al-Khalifa
+1520   bpldist  109                    Qism 'Abdin
+1521   bpldist  110                  Qism al-Muski
+1522   bpldist  111               Qism Qasr al-Nil
+1523   bpldist  112                     Qism Bulaq
+1524   bpldist  113              Qism al-Azbakiyya
+1525   bpldist  114         Qism al-Darb al-Ahmar-
+1526   bpldist  115              Qism al-Gamaliyya
+1527   bpldist  116          Qism Bab al-Sha'riyya
+1528   bpldist  117                  Qism al-Zahir
+1529   bpldist  118             Qism al-Sharabiyya
+1530   bpldist  119                    Qism Shubra
+1531   bpldist  120             Qism Rawd al-Farag
+1532   bpldist  121                  Qism al-Sahil
+1533   bpldist  122                  Qism al-Wayli
+1534   bpldist  123          Qism Hada'iq al-Qubba
+1535   bpldist  124                 Qism al-Zaytun
+1536   bpldist  125              Qism al-Matariyya
+1537   bpldist  126         Qism awal Madinat Nasr
+1538   bpldist  127        Qism thani Madinat Nasr
+1539   bpldist  128            Qism Misr al-Gadida
+1540   bpldist  129                  Qism al-Nuzha
+1541   bpldist  130                Qism 'Ayn Shams
+1542   bpldist  131       Qism al-Zawiyya al-Hamra
+1543   bpldist  132                  Qism al-Salam
+1544   bpldist  133                Qism al-Zamalik
+1545   bpldist  134           Qism Minsha'at Nasir
+1546   bpldist  135                Qism al-Basatin
+1547   bpldist  136                   Qism al-Marg
+1548   bpldist  137  Qism awal al-Qahira al-Gadida
+1549   bpldist  138 Qism thani al-Qahira al-Gadida
+1550   bpldist  139 Qism thalith al-Qahira al-Gadi
+1551   bpldist  140               Qism al-Shourouq
+1552   bpldist  141              Qism Madinet Badr
+1553   bpldist  199 Unidentified district in Cairo
+1554   bpldist  201                Qism al-Muntaza
+1555   bpldist  202              Qism awal al-Raml
+1556   bpldist  203                Qism Sidi Gabir
+1557   bpldist  204                Qism Bab sharqi
+1558   bpldist  205              Qism Muharram bey
+1559   bpldist  206               Qism al-'Attarin
+1560   bpldist  207              Qism al-Manshiyya
+1561   bpldist  208                    Qism Karmuz
+1562   bpldist  209                 Qism al-Labban
+1563   bpldist  210                 Qism al-Gumruk
+1564   bpldist  211             Qism Mina al-Basal
+1565   bpldist  212                Qism al-Dikhila
+1566   bpldist  213               Qism al-'Amriyya
+1567   bpldist  214             Qism Burg al-'Arab
+1568   bpldist  215 Mina' al-Iskandariyya (Alexand
+1569   bpldist  216   Qism Burg al-'Arab al-gadida
+1570   bpldist  217             Qism thani al-Raml
+1571   bpldist  218             Sahel Shamali-part
+1572   bpldist  299 Unidentified district in Alexa
+1573   bpldist  301                  Qism al-Sharq
+1574   bpldist  302                  Qism al-'Arab
+1575   bpldist  303                 Qism al-Munakh
+1576   bpldist  304           Qism awal Port Fu'ad
+1577   bpldist  305                 Qism al-Dawahi
+1578   bpldist  306             Qism awal al-Ganub
+1579   bpldist  307                 Qism al-Zohour
+1580   bpldist  308          Qism thani Port Fu'ad
+1581   bpldist  310 Qism Manasra, gharb Port Sa'id
+1582   bpldist  311           Qism  thani al-Ganub
+1583   bpldist  312         Port Sa'id port police
+1584   bpldist  399 Unidentified district in Port 
+1585   bpldist  401                 Qism al-Suways
+1586   bpldist  402                Qism al-Arba'in
+1587   bpldist  403                    Qism 'Ataqa
+1588   bpldist  404                    Qism Faysal
+1589   bpldist  405                Qism al-Ganayin
+1590   bpldist  406             Suways port police
+1591   bpldist  499  Unidentified district in Suez
+1592   bpldist 1101               Qism awal Dumyat
+1593   bpldist 1102                  Markaz Dumyat
+1594   bpldist 1103                Markaz Fariskur
+1595   bpldist 1104               Markaz Kafr Sa'd
+1596   bpldist 1105  Qism madinet Dumyat al-Gadida
+1597   bpldist 1106              Qism Ra's al-Barr
+1598   bpldist 1107                Markaz al-Zarqa
+1599   bpldist 1109              Qism thani Dumyat
+1600   bpldist 1199 Unidentified district in Damie
+1601   bpldist 1201           Qism awal al-Mansura
+1602   bpldist 1202          qism thani al-Mansura
+1603   bpldist 1203              Markaz al-Mansura
+1604   bpldist 1204                     Markaz Aga
+1605   bpldist 1205         Markaz al-Sinballawayn
+1606   bpldist 1206            Markaz al-Matariyya
+1607   bpldist 1207              Markaz al-Manzala
+1608   bpldist 1208                  Markaz Bilqas
+1609   bpldist 1209                Markaz Dikirnis
+1610   bpldist 1210                 Markaz Shirbin
+1611   bpldist 1211                  Markaz Talkha
+1612   bpldist 1212                 Qism Mit Ghamr
+1613   bpldist 1213               Markaz Mit Ghamr
+1614   bpldist 1214          Markaz Minyat al-Nasr
+1615   bpldist 1215            Markaz al-Gamaliyya
+1616   bpldist 1216           Markaz Tami al-Amdid
+1617   bpldist 1217              Markaz Mit Salsil
+1618   bpldist 1218              Markaz Bani Ebeid
+1619   bpldist 1219           Markaz Mahalet Demna
+1620   bpldist 1220                    Qism Gamasa
+1621   bpldist 1221                 Markaz Nabrowa
+1622   bpldist 1299 Unidentified district in Dakah
+1623   bpldist 1301           Qism awal al-Zaqaziq
+1624   bpldist 1302          Qism thani al-Zaqaziq
+1625   bpldist 1303              Markaz al-Zaqaziq
+1626   bpldist 1304              Markaz Abu Hammad
+1627   bpldist 1305               Markaz Abu Kabir
+1628   bpldist 1306           Markaz al-Husayniyya
+1629   bpldist 1307    Qism al-Salihiyya al-Gadida
+1630   bpldist 1308                 Markaz Bilbays
+1631   bpldist 1309 Qism awal Madinet 10th of Rama
+1632   bpldist 1310              Markaz Dyarb Nigm
+1633   bpldist 1311                     Qism Faqus
+1634   bpldist 1312                     Qism Faqus
+1635   bpldist 1313               Markaz Kafr Saqr
+1636   bpldist 1314           Markaz Minya al-Qamh
+1637   bpldist 1315                   Markaz Hihya
+1638   bpldist 1316          Markaz Mashtul al-Suq
+1639   bpldist 1317          Markaz al-Ibrahimiyya
+1640   bpldist 1318            Markaz Qanayat, al-
+1641   bpldist 1319              Markaz Awlad Saqr
+1642   bpldist 1320                Markaz al-Qurin
+1643   bpldist 1321 Qism thani Madinet 10th of Ram
+1644   bpldist 1399 Unidentified district in Shark
+1645   bpldist 1401                     Qism Banha
+1646   bpldist 1402                   Markaz Banha
+1647   bpldist 1403               Markaz al-Khanka
+1648   bpldist 1404 Markaz al-Qanatir al-Khayriyya
+1649   bpldist 1405       Markaz Shibin al-Qanatir
+1650   bpldist 1406     Qism awal Shubra al-Khayma
+1651   bpldist 1407    Qism thani Shubra al-Khayma
+1652   bpldist 1408                    Markaz Tukh
+1653   bpldist 1409                    Qism Qalyub
+1654   bpldist 1410                    Qism Qalyub
+1655   bpldist 1411              Markaz Kafr Shukr
+1656   bpldist 1412                Qism al-Khosous
+1657   bpldist 1413                  Qism al-Obour
+1658   bpldist 1414                      Qism Qaha
+1659   bpldist 1499 Unidentified district in Kalyo
+1660   bpldist 1501            Qism Kafr al-Shaykh
+1661   bpldist 1502          Markaz Kafr al-Shaykh
+1662   bpldist 1503             Markaz al-Burullus
+1663   bpldist 1504                  Markaz Biyala
+1664   bpldist 1505                     Qism Disuq
+1665   bpldist 1506                   Markaz Disuq
+1666   bpldist 1507              Markaz Sidi Salim
+1667   bpldist 1508                   Markaz Fuwwa
+1668   bpldist 1509                  Markaz Qallin
+1669   bpldist 1510                 Markaz Mitubas
+1670   bpldist 1511                Markaz al-Hamul
+1671   bpldist 1512                Markaz al-Riyad
+1672   bpldist 1599 Unidentified district in Kafr 
+1673   bpldist 1601                Qism awal Tanta
+1674   bpldist 1602               Qism thani Tanta
+1675   bpldist 1603                   Markaz Tanta
+1676   bpldist 1604                Markaz al-Santa
+1677   bpldist 1605  Qism awal al-Mahalla al-Kubra
+1678   bpldist 1606 Qism thani al-Mahalla al-Kubra
+1679   bpldist 1607     Markaz al-Mahalla al-Kubra
+1680   bpldist 1608                  Markaz Basyun
+1681   bpldist 1609                   Markaz Zifta
+1682   bpldist 1610                Markaz Samannud
+1683   bpldist 1611                   Markaz Qutur
+1684   bpldist 1612          Markaz Kafr al-Zayyat
+1685   bpldist 1699 Unidentified district in Gharb
+1686   bpldist 1701             Qism Shibin al-Kum
+1687   bpldist 1702           Markaz Shibin al-Kum
+1688   bpldist 1703                  Markaz Ashmun
+1689   bpldist 1704                Markaz al-Bagur
+1690   bpldist 1705             Markaz al-Shuhada'
+1691   bpldist 1706          Markaz Birkat al-Sab'
+1692   bpldist 1707                    Markaz Tala
+1693   bpldist 1708                 Markaz Quwisna
+1694   bpldist 1709                   Markaz Minuf
+1695   bpldist 1710           Qism Sirs al-Layyana
+1696   bpldist 1711     Markaz wa Madinat al-Sadat
+1697   bpldist 1712             Qism Madinat Minuf
+1698   bpldist 1799 Unidentified district in Menou
+1699   bpldist 1801                  Qism Damanhur
+1700   bpldist 1802                Markaz Damanhur
+1701   bpldist 1803          Markaz Abu al-Matamir
+1702   bpldist 1804              Markaz Abu Hummus
+1703   bpldist 1805             Markaz al-Dilingat
+1704   bpldist 1806           Markaz al-Mahmudiyya
+1705   bpldist 1807          Markaz Ityay al-Barud
+1706   bpldist 1808               Markaz Hush 'Isa
+1707   bpldist 1809                  Markaz Rashid
+1708   bpldist 1810              Markaz Shubrakhit
+1709   bpldist 1811            Qism Kafr al-Dawwar
+1710   bpldist 1812          Markaz Kafr al-Dawwar
+1711   bpldist 1813              Markaz Kum Hamada
+1712   bpldist 1814          Markaz Wadi al-Natrun
+1713   bpldist 1815           Markaz al-Rahmaniyya
+1714   bpldist 1816                    Markaz Idku
+1715   bpldist 1817          Qism Gharb al Nubaria
+1716   bpldist 1818                    Markaz Badr
+1717   bpldist 1899 Unidentified district in Beher
+1718   bpldist 1901       Qism awal al-Isma'iliyya
+1719   bpldist 1902      Qism thani al-Isma'iliyya
+1720   bpldist 1903    Qism thalith al-Isma'iliyya
+1721   bpldist 1904          Markaz al-Isma'iliyya
+1722   bpldist 1905        Markaz al-Tall al-Kabir
+1723   bpldist 1906              Markaz al-Qantara
+1724   bpldist 1907                   Markaz Fayid
+1725   bpldist 1908          Qism al-Qantara Sharq
+1726   bpldist 1999 Unidentified district in Ismai
+1727   bpldist 2101                    Qism Imbaba
+1728   bpldist 2102                 Qism al-'Aguza
+1729   bpldist 2103                  Qism al-Duqqi
+1730   bpldist 2104                   Qism al-Giza
+1731   bpldist 2105           Qism Bulaq al-Dakrur
+1732   bpldist 2106                  Qism al-Ahram
+1733   bpldist 2107       Qism awal 6th of October
+1734   bpldist 2108             Qism al-Hawamdiyah
+1735   bpldist 2109                Markaz al-Gizah
+1736   bpldist 2110           Markaz al-Badrashayn
+1737   bpldist 2111                  Markaz al-Saf
+1738   bpldist 2112              Markaz al-'Ayyatt
+1739   bpldist 2113                 Markaz Imbabah
+1740   bpldist 2114    Qism al-Wahat al-Bahariyyah
+1741   bpldist 2115                  Markaz Attfih
+1742   bpldist 2116                   Markaz Awsim
+1743   bpldist 2117                 Qism al-Warraq
+1744   bpldist 2118             Qism al-'Umraniyya
+1745   bpldist 2119           Qism al-Sheikh Zayid
+1746   bpldist 2120                 Markaz Kerdasa
+1747   bpldist 2121      Qism thani 6th of October
+1748   bpldist 2199  Unidentified district in Giza
+1749   bpldist 2201               Qism Bani Suwayf
+1750   bpldist 2202             Markaz Bani Suwayf
+1751   bpldist 2203    Qism Bani Suwayf  al gadida
+1752   bpldist 2204                Markaz al-Fashn
+1753   bpldist 2205                Markaz al-Wasta
+1754   bpldist 2206                 Markaz Ihnasya
+1755   bpldist 2207                    Markaz Biba
+1756   bpldist 2208                 Markaz Sumusta
+1757   bpldist 2209                   Markaz Nasir
+1758   bpldist 2299 Unidentified district in Beni 
+1759   bpldist 2301                 Qism al-Fayyum
+1760   bpldist 2302               Markaz al-Fayyum
+1761   bpldist 2303                Markaz Ibshaway
+1762   bpldist 2304                    Markaz Itsa
+1763   bpldist 2305                 Markaz Sinuris
+1764   bpldist 2306                 Markaz Tamiyya
+1765   bpldist 2307       Markaz Youssef El seddik
+1766   bpldist 2308   Fayyum, al- al gadida (qism)
+1767   bpldist 2399 Unidentified district in Fayou
+1768   bpldist 2401                  Qism al-Minya
+1769   bpldist 2402                  Qism al-Minya
+1770   bpldist 2403    Qism al-Minya al- al gadida
+1771   bpldist 2404              Markaz Abu Qurqas
+1772   bpldist 2405                Markaz al-'Idwa
+1773   bpldist 2406              Markaz Bani Mazar
+1774   bpldist 2407              Markaz Dayr Mawas
+1775   bpldist 2408                Markaz Samallut
+1776   bpldist 2409                   Markaz Matay
+1777   bpldist 2410                Markaz Maghagha
+1778   bpldist 2411                   Qism Mallawi
+1779   bpldist 2412                 Markaz Mallawi
+1780   bpldist 2499 Unidentified district in Menia
+1781   bpldist 2501                Qism awal Asyut
+1782   bpldist 2502               Qism thani Asyut
+1783   bpldist 2503                   Markaz Asyut
+1784   bpldist 2504                   Markaz Abnub
+1785   bpldist 2505                 Markaz Abu Tig
+1786   bpldist 2506               Markaz al-Badari
+1787   bpldist 2507             Markaz Sahil Salim
+1788   bpldist 2508             Markaz al-Ghanayim
+1789   bpldist 2509              Markaz al-Qusiyya
+1790   bpldist 2510                  Markaz Dayrut
+1791   bpldist 2511                   Markaz Sidfa
+1792   bpldist 2512                Markaz Manfalut
+1793   bpldist 2513                 Markaz al-Fath
+1794   bpldist 2514           Qism Asyut al gadida
+1795   bpldist 2599 Unidentified district in Asyou
+1796   bpldist 2601                Qism awal Suhag
+1797   bpldist 2602               Qism thani Suhag
+1798   bpldist 2603                   Markaz Suhag
+1799   bpldist 2604                  Markaz Akhmim
+1800   bpldist 2605              Markaz al-Balyana
+1801   bpldist 2606              Markaz al-Maragha
+1802   bpldist 2607             Markaz al-Minsha'a
+1803   bpldist 2608 Markaz Dar al-Salam (Awlad Tuq
+1804   bpldist 2609                     Qism Girga
+1805   bpldist 2610                   Markaz Girga
+1806   bpldist 2611    Markaz Guhayna al-gharbiyya
+1807   bpldist 2612                 Markaz Saqulta
+1808   bpldist 2613                    Markaz Tima
+1809   bpldist 2614                   Markaz Tahta
+1810   bpldist 2615                     Qism Tahta
+1811   bpldist 2616                   Qism Kawthar
+1812   bpldist 2617                 Markaz Osayrat
+1813   bpldist 2699 Unidentified district in Suhag
+1814   bpldist 2701                      Qism Qina
+1815   bpldist 2702                    Markaz Qina
+1816   bpldist 2703               Markaz Abu Tisht
+1817   bpldist 2704                  Markaz Armant
+1818   bpldist 2705                    Markaz Isna
+1819   bpldist 2706                  Markaz Dishna
+1820   bpldist 2707                     Markaz Qus
+1821   bpldist 2708            Markaz Nag' Hammadi
+1822   bpldist 2709                  Markaz Naqada
+1823   bpldist 2710                 Markaz Farshut
+1824   bpldist 2711                    Markaz Qift
+1825   bpldist 2712                 Markaz al-Waqf
+1826   bpldist 2799  Unidentified district in Qena
+1827   bpldist 2801                     Qism Aswan
+1828   bpldist 2802                   Markaz Aswan
+1829   bpldist 2803                    Markaz Idfu
+1830   bpldist 2804                Markaz Kum Umbu
+1831   bpldist 2805                    Markaz Nasr
+1832   bpldist 2806                   Markaz Daraw
+1833   bpldist 2807              Markaz Abu Simbel
+1834   bpldist 2808         Aswan al gadida (qism)
+1835   bpldist 2899 Unidentified district in Aswan
+1836   bpldist 2901                  Qism al-Uqsur
+1837   bpldist 2902                Markaz al-Uqsur
+1838   bpldist 2903            Markaz Shortet Tiba
+1839   bpldist 2999 Unidentified district in Luxor
+1840   bpldist 3101          Qism awal al-Ghardaqa
+1841   bpldist 3102                 Qism al-Qusayr
+1842   bpldist 3103                    Qism Safaga
+1843   bpldist 3104               Qism Marsa 'Alam
+1844   bpldist 3105               Qism Ra's Gharib
+1845   bpldist 3106              Qism al-Shallatin
+1846   bpldist 3107                   Qism Halayib
+1847   bpldist 3108         Qism thani al-Ghardaqa
+1848   bpldist 3199 Unidentified district in Red S
+1849   bpldist 3201           Qism Wahat al-kharga
+1850   bpldist 3202         Markaz Wahat al-dakhla
+1851   bpldist 3203              Markaz al-Farafra
+1852   bpldist 3204                  Markaz Barees
+1853   bpldist 3299 Unidentified district in New V
+1854   bpldist 3301              Qism Marsa Matruh
+1855   bpldist 3302                 Qism al-Hammam
+1856   bpldist 3303                 qism al-Sallum
+1857   bpldist 3304                  Qism al-Dab'a
+1858   bpldist 3305              Qism Sidi Barrani
+1859   bpldist 3306                      Qism Siwa
+1860   bpldist 3399 Unidentified district in Matro
+1861   bpldist 3401            Qism awal al-'Arish
+1862   bpldist 3402           Qism thani al-'Arish
+1863   bpldist 3403          Qism thalithal-'Arish
+1864   bpldist 3404           Qism rabi' al-'Arish
+1865   bpldist 3405              Qism Bi'r al-'Abd
+1866   bpldist 3406                 Qism al-Hasana
+1867   bpldist 3407                     Qism Nakhl
+1868   bpldist 3408          Qism al-Shaykh Zuwayd
+1869   bpldist 3409                     Qism Rafah
+1870   bpldist 3410                   Qism Rummana
+1871   bpldist 3411                 Qism al-Qasima
+1872   bpldist 3499 Unidentified district in North
+1873   bpldist 3501                    Qism al-Tur
+1874   bpldist 3502                 Qism Ra's Sudr
+1875   bpldist 3503                Qism Abu Rudays
+1876   bpldist 3504              Qism Sant Caterin
+1877   bpldist 3505           Qism Sharm al-Shaykh
+1878   bpldist 3506                     Qism Dahab
+1879   bpldist 3507                  Qism Nuwayba'
+1880   bpldist 3599 Unidentified district in South
+1881   bpldist 8000                         Abroad
+1882   bpldist 9998                        Unknown
+1883   bpldist 9999                            NIU
+1884    bplurb    1                          Urban
+1885    bplurb    2                          Rural
+1886    bplurb    8                        Unknown
+1887    bplurb    9                            NIU
+1888    durres    0                              0
+1889    durres    1                              1
+1890    durres    2                              2
+1891    durres    3                              3
+1892    durres    4                              4
+1893    durres    5                              5
+1894    durres    6                              6
+1895    durres    7                              7
+1896    durres    8                              8
+1897    durres    9                              9
+1898    durres   10                             10
+1899    durres   11                             11
+1900    durres   12                             12
+1901    durres   13                             13
+1902    durres   14                             14
+1903    durres   15                             15
+1904    durres   16                             16
+1905    durres   17                             17
+1906    durres   18                             18
+1907    durres   19                             19
+1908    durres   20                             20
+1909    durres   21                             21
+1910    durres   22                             22
+1911    durres   23                             23
+1912    durres   24                             24
+1913    durres   25                             25
+1914    durres   26                             26
+1915    durres   27                             27
+1916    durres   28                             28
+1917    durres   29                             29
+1918    durres   30                             30
+1919    durres   31                             31
+1920    durres   32                             32
+1921    durres   33                             33
+1922    durres   34                             34
+1923    durres   35                             35
+1924    durres   36                             36
+1925    durres   37                             37
+1926    durres   38                             38
+1927    durres   39                             39
+1928    durres   40                             40
+1929    durres   41                             41
+1930    durres   42                             42
+1931    durres   43                             43
+1932    durres   44                             44
+1933    durres   45                             45
+1934    durres   46                             46
+1935    durres   47                             47
+1936    durres   48                             48
+1937    durres   49                             49
+1938    durres   50                             50
+1939    durres   51                             51
+1940    durres   52                             52
+1941    durres   53                             53
+1942    durres   54                             54
+1943    durres   55                             55
+1944    durres   56                             56
+1945    durres   57                             57
+1946    durres   58                             58
+1947    durres   59                             59
+1948    durres   60                             60
+1949    durres   61                             61
+1950    durres   62                             62
+1951    durres   63                             63
+1952    durres   64                             64
+1953    durres   65                             65
+1954    durres   66                             66
+1955    durres   67                             67
+1956    durres   68                             68
+1957    durres   69                             69
+1958    durres   70                             70
+1959    durres   71                             71
+1960    durres   72                             72
+1961    durres   73                             73
+1962    durres   74                             74
+1963    durres   75                             75
+1964    durres   76                             76
+1965    durres   77                             77
+1966    durres   78                             78
+1967    durres   79                             79
+1968    durres   80                             80
+1969    durres   81                             81
+1970    durres   82                             82
+1971    durres   83                             83
+1972    durres   84                             84
+1973    durres   85                             85
+1974    durres   86                             86
+1975    durres   87                             87
+1976    durres   88                             88
+1977    durres   89                             89
+1978    durres   90                             90
+1979    durres   91                             91
+1980    durres   92                             92
+1981    durres   93                             93
+1982    durres   94                             94
+1983    durres   95                             95
+1984    durres   96                             96
+1985    durres   97                             97
+1986    durres   98                             98
+1987    durres   99                            99+
+1988    durres  998                        Unknown
+1989    durres  999                            NIU
+1990   prevgov    1                          Cairo
+1991   prevgov    2                     Alexandria
+1992   prevgov    3                      Port Said
+1993   prevgov    4                           Suez
+1994   prevgov   11                       Damietta
+1995   prevgov   12                       Dakahlia
+1996   prevgov   13                        Sharkia
+1997   prevgov   14                       Kalyobia
+1998   prevgov   15                 Kafr El Sheikh
+1999   prevgov   16                        Gharbia
+2000   prevgov   17                       Menoufia
+2001   prevgov   18                         Behera
+2002   prevgov   19                       Ismailia
+2003   prevgov   21                           Giza
+2004   prevgov   22                      Beni Suef
+2005   prevgov   23                         Fayoum
+2006   prevgov   24                          Menia
+2007   prevgov   25                         Asyout
+2008   prevgov   26                          Suhag
+2009   prevgov   27                           Qena
+2010   prevgov   28                          Aswan
+2011   prevgov   29                          Luxor
+2012   prevgov   31                        Red Sea
+2013   prevgov   32                     New Valley
+2014   prevgov   33                         Matroh
+2015   prevgov   34                    North Sinai
+2016   prevgov   35                    South Sinai
+2017   prevgov   80                         Abroad
+2018   prevgov   99                            NIU
+2019  prevdist  101                 Qism al-Tibbin
+2020  prevdist  102                    Qism Hilwan
+2021  prevdist  103                    Qism 15 May
+2022  prevdist  104                 Qism al-Ma'adi
+2023  prevdist  105                     Qism Turah
+2024  prevdist  106            Qism Misr al-Qadima
+2025  prevdist  107       Qism Sayyida Zaynab, al-
+2026  prevdist  108                Qism al-Khalifa
+2027  prevdist  109                    Qism 'Abdin
+2028  prevdist  110                  Qism al-Muski
+2029  prevdist  111               Qism Qasr al-Nil
+2030  prevdist  112                     Qism Bulaq
+2031  prevdist  113              Qism al-Azbakiyya
+2032  prevdist  114         Qism al-Darb al-Ahmar-
+2033  prevdist  115              Qism al-Gamaliyya
+2034  prevdist  116          Qism Bab al-Sha'riyya
+2035  prevdist  117                  Qism al-Zahir
+2036  prevdist  118             Qism al-Sharabiyya
+2037  prevdist  119                    Qism Shubra
+2038  prevdist  120             Qism Rawd al-Farag
+2039  prevdist  121                  Qism al-Sahil
+2040  prevdist  122                  Qism al-Wayli
+2041  prevdist  123          Qism Hada'iq al-Qubba
+2042  prevdist  124                 Qism al-Zaytun
+2043  prevdist  125              Qism al-Matariyya
+2044  prevdist  126         Qism awal Madinat Nasr
+2045  prevdist  127        Qism thani Madinat Nasr
+2046  prevdist  128            Qism Misr al-Gadida
+2047  prevdist  129                  Qism al-Nuzha
+2048  prevdist  130                Qism 'Ayn Shams
+2049  prevdist  131       Qism al-Zawiyya al-Hamra
+2050  prevdist  132                  Qism al-Salam
+2051  prevdist  133                Qism al-Zamalik
+2052  prevdist  134           Qism Minsha'at Nasir
+2053  prevdist  135                Qism al-Basatin
+2054  prevdist  136                   Qism al-Marg
+2055  prevdist  137  Qism awal al-Qahira al-Gadida
+2056  prevdist  138 Qism thani al-Qahira al-Gadida
+2057  prevdist  139 Qism thalith al-Qahira al-Gadi
+2058  prevdist  140               Qism al-Shourouq
+2059  prevdist  141              Qism Madinet Badr
+2060  prevdist  199 Unidentified district in Cairo
+2061  prevdist  201                Qism al-Muntaza
+2062  prevdist  202              Qism awal al-Raml
+2063  prevdist  203                Qism Sidi Gabir
+2064  prevdist  204                Qism Bab sharqi
+2065  prevdist  205              Qism Muharram bey
+2066  prevdist  206               Qism al-'Attarin
+2067  prevdist  207              Qism al-Manshiyya
+2068  prevdist  208                    Qism Karmuz
+2069  prevdist  209                 Qism al-Labban
+2070  prevdist  210                 Qism al-Gumruk
+2071  prevdist  211             Qism Mina al-Basal
+2072  prevdist  212                Qism al-Dikhila
+2073  prevdist  213               Qism al-'Amriyya
+2074  prevdist  214             Qism Burg al-'Arab
+2075  prevdist  215 Mina' al-Iskandariyya (Alexand
+2076  prevdist  217             Qism thani al-Raml
+2077  prevdist  299 Unidentified district in Alexa
+2078  prevdist  301                  Qism al-Sharq
+2079  prevdist  302                  Qism al-'Arab
+2080  prevdist  303                 Qism al-Munakh
+2081  prevdist  304           Qism awal Port Fu'ad
+2082  prevdist  305                 Qism al-Dawahi
+2083  prevdist  307                 Qism al-Zohour
+2084  prevdist  308          Qism thani Port Fu'ad
+2085  prevdist  310 Qism Manasra, gharb Port Sa'id
+2086  prevdist  312         Port Sa'id port police
+2087  prevdist  399 Unidentified district in Port 
+2088  prevdist  401                 Qism al-Suways
+2089  prevdist  402                Qism al-Arba'in
+2090  prevdist  404                    Qism Faysal
+2091  prevdist  405                Qism al-Ganayin
+2092  prevdist  499  Unidentified district in Suez
+2093  prevdist 1101               Qism awal Dumyat
+2094  prevdist 1102                  Markaz Dumyat
+2095  prevdist 1103                Markaz Fariskur
+2096  prevdist 1104               Markaz Kafr Sa'd
+2097  prevdist 1106              Qism Ra's al-Barr
+2098  prevdist 1107                Markaz al-Zarqa
+2099  prevdist 1109              Qism thani Dumyat
+2100  prevdist 1199 Unidentified district in Damie
+2101  prevdist 1201           Qism awal al-Mansura
+2102  prevdist 1202          qism thani al-Mansura
+2103  prevdist 1203              Markaz al-Mansura
+2104  prevdist 1204                     Markaz Aga
+2105  prevdist 1205         Markaz al-Sinballawayn
+2106  prevdist 1206            Markaz al-Matariyya
+2107  prevdist 1207              Markaz al-Manzala
+2108  prevdist 1208                  Markaz Bilqas
+2109  prevdist 1209                Markaz Dikirnis
+2110  prevdist 1210                 Markaz Shirbin
+2111  prevdist 1211                  Markaz Talkha
+2112  prevdist 1212                 Qism Mit Ghamr
+2113  prevdist 1213               Markaz Mit Ghamr
+2114  prevdist 1214          Markaz Minyat al-Nasr
+2115  prevdist 1215            Markaz al-Gamaliyya
+2116  prevdist 1216           Markaz Tami al-Amdid
+2117  prevdist 1217              Markaz Mit Salsil
+2118  prevdist 1218              Markaz Bani Ebeid
+2119  prevdist 1221                 Markaz Nabrowa
+2120  prevdist 1299 Unidentified district in Dakah
+2121  prevdist 1301           Qism awal al-Zaqaziq
+2122  prevdist 1302          Qism thani al-Zaqaziq
+2123  prevdist 1303              Markaz al-Zaqaziq
+2124  prevdist 1304              Markaz Abu Hammad
+2125  prevdist 1305               Markaz Abu Kabir
+2126  prevdist 1306           Markaz al-Husayniyya
+2127  prevdist 1307    Qism al-Salihiyya al-Gadida
+2128  prevdist 1308                 Markaz Bilbays
+2129  prevdist 1310              Markaz Dyarb Nigm
+2130  prevdist 1311                     Qism Faqus
+2131  prevdist 1312                     Qism Faqus
+2132  prevdist 1313               Markaz Kafr Saqr
+2133  prevdist 1314           Markaz Minya al-Qamh
+2134  prevdist 1315                   Markaz Hihya
+2135  prevdist 1316          Markaz Mashtul al-Suq
+2136  prevdist 1317          Markaz al-Ibrahimiyya
+2137  prevdist 1318            Markaz Qanayat, al-
+2138  prevdist 1319              Markaz Awlad Saqr
+2139  prevdist 1320                Markaz al-Qurin
+2140  prevdist 1399 Unidentified district in Shark
+2141  prevdist 1401                     Qism Banha
+2142  prevdist 1402                   Markaz Banha
+2143  prevdist 1403               Markaz al-Khanka
+2144  prevdist 1404 Markaz al-Qanatir al-Khayriyya
+2145  prevdist 1405       Markaz Shibin al-Qanatir
+2146  prevdist 1406     Qism awal Shubra al-Khayma
+2147  prevdist 1407    Qism thani Shubra al-Khayma
+2148  prevdist 1408                    Markaz Tukh
+2149  prevdist 1409                    Qism Qalyub
+2150  prevdist 1410                    Qism Qalyub
+2151  prevdist 1411              Markaz Kafr Shukr
+2152  prevdist 1412                Qism al-Khosous
+2153  prevdist 1414                      Qism Qaha
+2154  prevdist 1499 Unidentified district in Kalyo
+2155  prevdist 1501            Qism Kafr al-Shaykh
+2156  prevdist 1502          Markaz Kafr al-Shaykh
+2157  prevdist 1503             Markaz al-Burullus
+2158  prevdist 1504                  Markaz Biyala
+2159  prevdist 1505                     Qism Disuq
+2160  prevdist 1506                   Markaz Disuq
+2161  prevdist 1507              Markaz Sidi Salim
+2162  prevdist 1508                   Markaz Fuwwa
+2163  prevdist 1509                  Markaz Qallin
+2164  prevdist 1510                 Markaz Mitubas
+2165  prevdist 1511                Markaz al-Hamul
+2166  prevdist 1512                Markaz al-Riyad
+2167  prevdist 1599 Unidentified district in Kafr 
+2168  prevdist 1601                Qism awal Tanta
+2169  prevdist 1602               Qism thani Tanta
+2170  prevdist 1603                   Markaz Tanta
+2171  prevdist 1604                Markaz al-Santa
+2172  prevdist 1605  Qism awal al-Mahalla al-Kubra
+2173  prevdist 1606 Qism thani al-Mahalla al-Kubra
+2174  prevdist 1607     Markaz al-Mahalla al-Kubra
+2175  prevdist 1608                  Markaz Basyun
+2176  prevdist 1609                   Markaz Zifta
+2177  prevdist 1610                Markaz Samannud
+2178  prevdist 1611                   Markaz Qutur
+2179  prevdist 1612          Markaz Kafr al-Zayyat
+2180  prevdist 1699 Unidentified district in Gharb
+2181  prevdist 1701             Qism Shibin al-Kum
+2182  prevdist 1702           Markaz Shibin al-Kum
+2183  prevdist 1703                  Markaz Ashmun
+2184  prevdist 1704                Markaz al-Bagur
+2185  prevdist 1705             Markaz al-Shuhada'
+2186  prevdist 1706          Markaz Birkat al-Sab'
+2187  prevdist 1707                    Markaz Tala
+2188  prevdist 1708                 Markaz Quwisna
+2189  prevdist 1709                   Markaz Minuf
+2190  prevdist 1710           Qism Sirs al-Layyana
+2191  prevdist 1711     Markaz wa Madinat al-Sadat
+2192  prevdist 1712             Qism Madinat Minuf
+2193  prevdist 1799 Unidentified district in Menou
+2194  prevdist 1801                  Qism Damanhur
+2195  prevdist 1802                Markaz Damanhur
+2196  prevdist 1803          Markaz Abu al-Matamir
+2197  prevdist 1804              Markaz Abu Hummus
+2198  prevdist 1805             Markaz al-Dilingat
+2199  prevdist 1806           Markaz al-Mahmudiyya
+2200  prevdist 1807          Markaz Ityay al-Barud
+2201  prevdist 1808               Markaz Hush 'Isa
+2202  prevdist 1809                  Markaz Rashid
+2203  prevdist 1810              Markaz Shubrakhit
+2204  prevdist 1811            Qism Kafr al-Dawwar
+2205  prevdist 1812          Markaz Kafr al-Dawwar
+2206  prevdist 1813              Markaz Kum Hamada
+2207  prevdist 1814          Markaz Wadi al-Natrun
+2208  prevdist 1815           Markaz al-Rahmaniyya
+2209  prevdist 1816                    Markaz Idku
+2210  prevdist 1818                    Markaz Badr
+2211  prevdist 1899 Unidentified district in Beher
+2212  prevdist 1901       Qism awal al-Isma'iliyya
+2213  prevdist 1902      Qism thani al-Isma'iliyya
+2214  prevdist 1903    Qism thalith al-Isma'iliyya
+2215  prevdist 1904          Markaz al-Isma'iliyya
+2216  prevdist 1905        Markaz al-Tall al-Kabir
+2217  prevdist 1906              Markaz al-Qantara
+2218  prevdist 1907                   Markaz Fayid
+2219  prevdist 1908          Qism al-Qantara Sharq
+2220  prevdist 1999 Unidentified district in Ismai
+2221  prevdist 2101                    Qism Imbaba
+2222  prevdist 2102                 Qism al-'Aguza
+2223  prevdist 2103                  Qism al-Duqqi
+2224  prevdist 2104                   Qism al-Giza
+2225  prevdist 2105           Qism Bulaq al-Dakrur
+2226  prevdist 2106                  Qism al-Ahram
+2227  prevdist 2107       Qism awal 6th of October
+2228  prevdist 2108             Qism al-Hawamdiyah
+2229  prevdist 2109                Markaz al-Gizah
+2230  prevdist 2110           Markaz al-Badrashayn
+2231  prevdist 2111                  Markaz al-Saf
+2232  prevdist 2112              Markaz al-'Ayyatt
+2233  prevdist 2113                 Markaz Imbabah
+2234  prevdist 2114    Qism al-Wahat al-Bahariyyah
+2235  prevdist 2115                  Markaz Attfih
+2236  prevdist 2116                   Markaz Awsim
+2237  prevdist 2117                 Qism al-Warraq
+2238  prevdist 2118             Qism al-'Umraniyya
+2239  prevdist 2120                 Markaz Kerdasa
+2240  prevdist 2121      Qism thani 6th of October
+2241  prevdist 2199  Unidentified district in Giza
+2242  prevdist 2201               Qism Bani Suwayf
+2243  prevdist 2202             Markaz Bani Suwayf
+2244  prevdist 2203    Qism Bani Suwayf  al gadida
+2245  prevdist 2204                Markaz al-Fashn
+2246  prevdist 2205                Markaz al-Wasta
+2247  prevdist 2206                 Markaz Ihnasya
+2248  prevdist 2207                    Markaz Biba
+2249  prevdist 2208                 Markaz Sumusta
+2250  prevdist 2209                   Markaz Nasir
+2251  prevdist 2299 Unidentified district in Beni 
+2252  prevdist 2301                 Qism al-Fayyum
+2253  prevdist 2302               Markaz al-Fayyum
+2254  prevdist 2303                Markaz Ibshaway
+2255  prevdist 2304                    Markaz Itsa
+2256  prevdist 2305                 Markaz Sinuris
+2257  prevdist 2306                 Markaz Tamiyya
+2258  prevdist 2307       Markaz Youssef El seddik
+2259  prevdist 2399 Unidentified district in Fayou
+2260  prevdist 2401                  Qism al-Minya
+2261  prevdist 2402                  Qism al-Minya
+2262  prevdist 2404              Markaz Abu Qurqas
+2263  prevdist 2405                Markaz al-'Idwa
+2264  prevdist 2406              Markaz Bani Mazar
+2265  prevdist 2407              Markaz Dayr Mawas
+2266  prevdist 2408                Markaz Samallut
+2267  prevdist 2409                   Markaz Matay
+2268  prevdist 2410                Markaz Maghagha
+2269  prevdist 2411                   Qism Mallawi
+2270  prevdist 2412                 Markaz Mallawi
+2271  prevdist 2499 Unidentified district in Menia
+2272  prevdist 2501                Qism awal Asyut
+2273  prevdist 2502               Qism thani Asyut
+2274  prevdist 2503                   Markaz Asyut
+2275  prevdist 2504                   Markaz Abnub
+2276  prevdist 2505                 Markaz Abu Tig
+2277  prevdist 2506               Markaz al-Badari
+2278  prevdist 2507             Markaz Sahil Salim
+2279  prevdist 2508             Markaz al-Ghanayim
+2280  prevdist 2509              Markaz al-Qusiyya
+2281  prevdist 2510                  Markaz Dayrut
+2282  prevdist 2511                   Markaz Sidfa
+2283  prevdist 2512                Markaz Manfalut
+2284  prevdist 2513                 Markaz al-Fath
+2285  prevdist 2599 Unidentified district in Asyou
+2286  prevdist 2601                Qism awal Suhag
+2287  prevdist 2602               Qism thani Suhag
+2288  prevdist 2603                   Markaz Suhag
+2289  prevdist 2604                  Markaz Akhmim
+2290  prevdist 2605              Markaz al-Balyana
+2291  prevdist 2606              Markaz al-Maragha
+2292  prevdist 2607             Markaz al-Minsha'a
+2293  prevdist 2608 Markaz Dar al-Salam (Awlad Tuq
+2294  prevdist 2609                     Qism Girga
+2295  prevdist 2610                   Markaz Girga
+2296  prevdist 2611    Markaz Guhayna al-gharbiyya
+2297  prevdist 2612                 Markaz Saqulta
+2298  prevdist 2613                    Markaz Tima
+2299  prevdist 2614                   Markaz Tahta
+2300  prevdist 2615                     Qism Tahta
+2301  prevdist 2617                 Markaz Osayrat
+2302  prevdist 2699 Unidentified district in Suhag
+2303  prevdist 2701                      Qism Qina
+2304  prevdist 2702                    Markaz Qina
+2305  prevdist 2703               Markaz Abu Tisht
+2306  prevdist 2704                  Markaz Armant
+2307  prevdist 2705                    Markaz Isna
+2308  prevdist 2706                  Markaz Dishna
+2309  prevdist 2707                     Markaz Qus
+2310  prevdist 2708            Markaz Nag' Hammadi
+2311  prevdist 2709                  Markaz Naqada
+2312  prevdist 2710                 Markaz Farshut
+2313  prevdist 2711                    Markaz Qift
+2314  prevdist 2712                 Markaz al-Waqf
+2315  prevdist 2799  Unidentified district in Qena
+2316  prevdist 2801                     Qism Aswan
+2317  prevdist 2802                   Markaz Aswan
+2318  prevdist 2803                    Markaz Idfu
+2319  prevdist 2804                Markaz Kum Umbu
+2320  prevdist 2805                    Markaz Nasr
+2321  prevdist 2806                   Markaz Daraw
+2322  prevdist 2807              Markaz Abu Simbel
+2323  prevdist 2899 Unidentified district in Aswan
+2324  prevdist 2901                  Qism al-Uqsur
+2325  prevdist 2902                Markaz al-Uqsur
+2326  prevdist 2999 Unidentified district in Luxor
+2327  prevdist 3101          Qism awal al-Ghardaqa
+2328  prevdist 3102                 Qism al-Qusayr
+2329  prevdist 3103                    Qism Safaga
+2330  prevdist 3105               Qism Ra's Gharib
+2331  prevdist 3108         Qism thani al-Ghardaqa
+2332  prevdist 3199 Unidentified district in Red S
+2333  prevdist 3201           Qism Wahat al-kharga
+2334  prevdist 3202         Markaz Wahat al-dakhla
+2335  prevdist 3299 Unidentified district in New V
+2336  prevdist 3301              Qism Marsa Matruh
+2337  prevdist 3302                 Qism al-Hammam
+2338  prevdist 3303                 qism al-Sallum
+2339  prevdist 3304                  Qism al-Dab'a
+2340  prevdist 3399 Unidentified district in Matro
+2341  prevdist 3401            Qism awal al-'Arish
+2342  prevdist 3405              Qism Bi'r al-'Abd
+2343  prevdist 3407                     Qism Nakhl
+2344  prevdist 3408          Qism al-Shaykh Zuwayd
+2345  prevdist 3409                     Qism Rafah
+2346  prevdist 3410                   Qism Rummana
+2347  prevdist 3499 Unidentified district in North
+2348  prevdist 3501                    Qism al-Tur
+2349  prevdist 3502                 Qism Ra's Sudr
+2350  prevdist 3505           Qism Sharm al-Shaykh
+2351  prevdist 3599 Unidentified district in South
+2352  prevdist 8000                         Abroad
+2353  prevdist 9998                        Unknown
+2354  prevdist 9999                            NIU
+2355   prevurb    1                          Urban
+2356   prevurb    2                          Rural
+2357   prevurb    8                        Unknown
+2358   prevurb    9                            NIU
+2359   reasmig    1                           Work
+2360   reasmig    2                          Study
+2361   reasmig    3                       Marriage
+2362   reasmig    4            Divorce / widowhood
+2363   reasmig    5           Accompanying someone
+2364   reasmig    6                          Other
+2365   reasmig    8                        Unknown
+2366   reasmig    9                            NIU
+2367    resurb    1                          Urban
+2368    resurb    2                          Rural
+2369    resurb    8                        Unknown
+2370    resurb    9                            NIU

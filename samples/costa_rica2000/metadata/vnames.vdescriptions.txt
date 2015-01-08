@@ -1,0 +1,98 @@
+      vname                                                                     vdescription
+1     cntry                                                                          Country
+2      year                                                                             Year
+3    sample                                                          IPUMS sample identifier
+4    serial                                                          Household serial number
+5   persons                                        Number of person records in the household
+6      wthh                                                                 Household weight
+7        gq                                                            Group quarters status
+8     unrel                                                      Number of unrelated persons
+9   regionw                                                  Continent and region of country
+10  geolev1        1st subnational geographic level, world [consistent boundaries over time]
+11 geo1a_cr                  Province, Costa Rica [Level 1; consistent boundaries over time]
+12 geo2b_cr Canton (20,000 and over), Costa Rica [Level 2; inconsistent boundaries, harmoniz
+13    dwnum                                                                  Dwelling number
+14    hhnum                                               Household number (within dwelling)
+15      hhn                                                 Number of households in dwelling
+16    pernd                                                    Number of persons in dwelling
+17     pern                                                   Number of persons in household
+18     fbig                            Household created by splitting apart a large dwelling
+19     prov                                                                         Province
+20   region                                                                           Region
+21     zone                                                                             Zone
+22  indters                                                 Dwelling in indigenous territory
+23   dwtype                                                                    Dwelling type
+24    occup                                                          Occupancy and ownership
+25 rentmort                                                         Monthly rent or mortgage
+26     wall                                                                    Wall material
+27     roof                                                                    Roof material
+28  ceiling                                                                 Interior ceiling
+29    floor                                                                   Floor material
+30    wallc                                                                   Wall condition
+31    roofc                                                                   Roof condition
+32   floorc                                                                  Floor condition
+33    bedrm                                                                         Bedrooms
+34       rm                                                                            Rooms
+35   watsup                                                                     Water supply
+36   watsrc                                                                  Source of water
+37    sewer                                                                           Sewage
+38   toilet                                                                    Use of toilet
+39    elect                                                      Source of electric lighting
+40 fuelcook                                                                     Cooking fuel
+41       tv                                                                 Color television
+42    phone                                                                        Telephone
+43   refrig                                                                     Refrigerator
+44    micro                                                                   Microwave oven
+45   shower                                                                 Hot water shower
+46  watheat                                                                Water heater tank
+47   washer                                                                  Washing machine
+48  computr                                                                         Computer
+49      car                                                                              Car
+50  dwcond1                                                        Condition of the dwelling
+51  dwcond2                                                      Description of the dwelling
+52   appown                                            Ownership of appliances (one or more)
+53    crowd                                         Crowding in the dwelling(sleeping rooms)
+54   hhtype                                                                   Household type
+55  nbishel                                                            Shelter UBN component
+56   nbihyg                                                            Hygiene UBN component
+57  nbiknow                                                          Knowledge UBN component
+58  nbicons                                                        Consumption UBN component
+59   nbibas                                                    Unsatisfied basic needs (UBN)
+60   pernum                                                                    Person number
+61    wtper                                                                    Person weight
+62   pernum                                                 Person number (within household)
+63   relate                                                   Relationship to household head
+64      sex                                                                              Sex
+65      age                                                                              Age
+66     bplp                                                        Birthplace in this canton
+67     bplc                                                       Canton or country of birth
+68    arryr                                                    Year of arrival in Costa Rica
+69   nation                                                                      Citizenship
+70    citiz                                                           Country of citizenship
+71   ethnic                                                                             Race
+72    indig                                                                 Indigenous group
+73  indigsp                                                       Speaks indigenous language
+74     lang                                                         Language taught to speak
+75   socsec                                                                  Social security
+76    disab                                                                       Disability
+77  res5plc                                                    Residence 5 years ago, status
+78 res5cant                                       Canton or country of residence 5 years ago
+79   school                                                                School attendance
+80    grade                                           Educational attainment, year and level
+81 edattain                                                    Educational attainment, level
+82      lit                                                                         Literacy
+83    marst                                                                   Marital status
+84  empstat                                                                Employment status
+85   sector                                                             Institutional sector
+86     ind2                                                               Industry, 2 digits
+87     ind3                                                               Industry, 3 digits
+88     occ1                                                              Occupation, 1 digit
+89     occ2                                                             Occupation, 2 digits
+90     occ3                                                             Occupation, 3 digits
+91     occ4                                                             Occupation, 4 digits
+92  classwk                                                                  Class of worker
+93   chborn                                                               Children ever born
+94   chsurv                                                               Children surviving
+95  hhtypep                                                              Household structure
+96    ind2r                                                      Industry, 2 digits, recoded
+97 yrschool                                                               Years of schooling

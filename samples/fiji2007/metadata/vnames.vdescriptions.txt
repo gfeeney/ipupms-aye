@@ -1,0 +1,143 @@
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      dwnum                                                   Dwelling number
+6       fbig Dwelling created by splitting apart a large dwelling or household
+7        div                                                          Division
+8       prov                                                          Province
+9     typedw                                           Type of living quarters
+10     walls                                             Construction of walls
+11  wallcond                                                Condition of walls
+12     rooms                                                   Number of rooms
+13    watsup                                                 Main water supply
+14    watdry                                               Water ever dries up
+15  electric                                           Main electricity supply
+16  lighting                                                          Lighting
+17  fuelcook                                                      Cooking fuel
+18    toilet                                                 Toilet facilities
+19    tenure                                         Tenure of living quarters
+20   landown                                                    Tenure of land
+21    hhshop                    Land or dwelling used to run a shop or canteen
+22    hhsubs         Land or dwelling used as farm for household (subsistence)
+23    hhprod           Land or dwelling used as farm for commercial production
+24    hhgood                    Land or dwelling used to make objects for sale
+25    hhtech                  Land or dwelling used to offer technical service
+26    hhprof               Land or dwelling used to offer professional service
+27    hhflat                      Land or dwelling used to offer flat for rent
+28    hhcomm                  Land or dwelling used to offer organised service
+29    hhnone                                        Land or dwelling use: None
+30     hhoth                                       Land or dwelling use: Other
+31  wastgovt                                Waste disposal: by local authority
+32  wastbury                                            Waste disposal: buried
+33   wastriv                                 Waste disposal: disposed in river
+34   wastsea                                   Waste disposal: disposed in sea
+35  wastbkyd                              Waste disposal: disposed in backyard
+36   wastoth                                              Other waste disposal
+37     autos                        Number of  cars or vans owned by household
+38     truck          Number of  carrier trucks or tractors owned by household
+39     motor                     Number of  outboard motors owned by household
+40   generat                          Number of  generators owned by household
+41    cutter        Number of  brush cutters or lawn mowers owned by household
+42     solar                   Number of home solar systems owned by household
+43   watpump                          Number of water pumps owned by household
+44    refrig                        Number of refrigerators owned by household
+45    washer                     Number of washing machines owned by household
+46     dryer                       Number of clothes dryers owned by household
+47     stove               Number of gas or electric stoves owned by household
+48  watheatr                    Number of hot water systems owned by household
+49    aircon                     Number of air conditioners owned by household
+50     radio                    Number of radios or stereos owned by household
+51        tv                          Number of televisions owned by household
+52     video                 Number of video or DVD players owned by household
+53   skyplus                             Number of Sky Plus owned by household
+54    skypac                   Number of Sky Pacific or PBS owned by household
+55     phone                               Number of phones owned by household
+56      cell                        Number of mobile phones owned by household
+57  computer                 Number of computers or laptops owned by household
+58  internet                                 Internet connections in household
+59  savbulbs              Number of energy saver lightbulbs owned by household
+60      cows                                 Number of cows owned by household
+61      pigs                                 Number of pigs owned by household
+62     goats                                Number of goats owned by household
+63    horses                               Number of horses owned by household
+64   poultry                              Number of poultry owned by household
+65      dogs                                 Number of dogs owned by household
+66      cats                                 Number of cats owned by household
+67   famtype                                                       Family type
+68    hhtype                                                    Household type
+69    remitt                                       Any remittance to household
+70   rm1amnt Amount (in Fiji dollars) remittance received within last 12 month
+71  rm1cntry                       Country of residence of remittance sender 1
+72    rm1rel                               Relationship of remittance sender 1
+73    rm1occ                                 Occupation of remittance sender 1
+74   rm1mode                      Mode of remittance transfer used by sender 1
+75   rm2amnt                              Is there a second remittance sender?
+76  anydisab                                   Any disability in the household
+77   disper1                            Person number of first disabled person
+78  distype1                       Type of disability of first disabled person
+79   disper2                           Person number of second disabled person
+80  distype2                      Type of disability of second disabled person
+81    pernum                                                     Person number
+82     wtper                                                     Person weight
+83    pernum                                  Person number (within household)
+84    relate                                    Relationship to household head
+85       sex                                                               Sex
+86   birthmo                                                    Month of birth
+87   birthyr                                                     Year of birth
+88       age                                                               Age
+89    ethnic                                                         Ethnicity
+90     marst                                                    Marital status
+91  fathlive                                     Biological father still alive
+92  mothlive                                     Biological mother still alive
+93    momloc                                            Mother's person number
+94  religion                                                          Religion
+95   bplprov                                      Province or country of birth
+96    bpltik                                                   Tikina of birth
+97    bplloc                                                 Locality of birth
+98   resprov                            Province or country of usual residence
+99    restik                                         Tikina of usual residence
+100   resloc                                       Locality of usual residence
+101  prov5yr                          Province or country of residence in 2002
+102   tik5yr                                       Tikina of residence in 2002
+103   loc5yr                                     Locality of residence in 2002
+104  origtik                                                  Tikina of origin
+105  resstat                                                  Residency status
+106   school                                                 School attendance
+107 edattend                                       Educational level attending
+108 edattain                                        Educational level attained
+109   edinst                                           Educational institution
+110   travel                                  Mode of transportation last week
+111 wklastwk                                     Person did any work last week
+112 worktype                                       Type of work done last week
+113     occ1                                               Occupation, 1 digit
+114     occ3                                              Occupation, 3 digits
+115     ind2                                                Industry, 2 digits
+116  workloc                                             Location of workplace
+117 classwkr                                                 Employment status
+118  payfreq                                                    Payment method
+119 lookwork                                        Looking for work last week
+120 availabl                               Person available for work last week
+121 homemale                Male children ever born who are living with mother
+122  homefem              Female children ever born who are living with mother
+123  homechd               Total children ever born who are living with mother
+124 awaymale                  Male children ever born who are living elsewhere
+125  awayfem                Female children ever born who are living elsewhere
+126  awaychd                 Total children ever born who are living elsewhere
+127  chdeadm                                                Male children dead
+128  chdeadf                                              Female children dead
+129   chdead                                               Total children dead
+130  chbornm                                     Total male children ever born
+131  chbornf                                  Total females children ever born
+132  lastbmo                                               Month of last birth
+133 lastbsex                                            Sex of last born child
+134  chsurvm                                           Male children surviving
+135  chsurvf                                         Female children surviving
+136   subfam                                                  Subfamily number
+137   subrel                                            Subfamily relationship
+138   migbpl                                        Born in different province
+139   mig5yr                           Lived in different province 5 years ago
+140  migorig                                         Origin different province
+141   migbpe                  Migration between birth, 2002 and current census
+142  mother0                                     Age of mother of child aged 0

@@ -1,0 +1,98 @@
+      vname                                                      vdescription
+1     cntry                                                           Country
+2      year                                                              Year
+3    sample                                           IPUMS sample identifier
+4    serial                                           Household serial number
+5     dwnum                                                   Dwelling number
+6     hhnum                                Household number (within dwelling)
+7       hhn                                  Number of households in dwelling
+8     pernd                                     Number of persons in dwelling
+9      pern                                    Number of persons in household
+10     fbig Dwelling created by splitting apart a large dwelling or household
+11   region                                                            Region
+12   urban2                                                  Urban-rural area
+13   dwtype                                                     Dwelling type
+14  occupan                                                         Occupancy
+15    owner                                  Ownership/tenure of the dwelling
+16     wall                                                    Exterior walls
+17     roof                                                              Roof
+18    floor                                                             Floor
+19    elect                                       Source of electric lighting
+20   watsrc                                                   Source of water
+21   watpip                                                       Piped water
+22   toilet                                 Availability of toilet facilities
+23 nshowers                                                  Number ofshowers
+24    rooms              Total rooms (including kitchen, not including baths)
+25     hhno                                              Number of households
+26    rmbed                                                Number of bedrooms
+27 rmlivdin                           Number of exclusive living-dining rooms
+28   rmlive                                  Number of exclusive living rooms
+29   rmdine                                  Number of exclusive dining rooms
+30  rmkitch                                      Number of exclusive kitchens
+31   rmwork                                Number of rooms used for paid work
+32  rmstudy                                                 Number of studies
+33  rmother                                                 Total other rooms
+34 fuelcook                                     Type of fuel used for cooking
+35  rmsleep                     Number of rooms used exclusively for sleeping
+36   shower                                            Availability of shower
+37     tvbw                                        Black and white television
+38    tvcol                                                  Color television
+39      vcr                                           Videorecorder or player
+40  tvcable                          Cable television or satellite connection
+41   stereo                       Stereo system or high-fidelity sound system
+42   washer                                                   Washing machine
+43    dryer                                               Dryer or centrifuge
+44   refrig                                                      Refrigerator
+45    freez                                                           Freezer
+46    micro                                                    Microwave oven
+47    dishw                                                        Dishwasher
+48   hotwat                                                  Hot water heater
+49   cellph                                                Cellular telephone
+50    phone                                              Fixed-line telephone
+51  computr                                                          Computer
+52 internet                                               Internet connection
+53     bike                                                           Bicycle
+54   motocy                                   Motorcycle, motorscooter, moped
+55      van                                                               Van
+56     auto                                         Automobile, station wagon
+57    truck                                            Light truck, van, jeep
+58     boat                                         Motorboat, sailboat, boat
+59   hhtype                                                    Household type
+60   hhstat                            Household status (complete/incomplete)
+61   hhnumo                                            Household order number
+62   pernum                                                     Person number
+63    wtper                                                     Person weight
+64   pernum                                  Person number (within household)
+65   relate                                 Relationship to head of household
+66      sex                                                               Sex
+67      age                                                               Age
+68    blind                                                         Blindness
+69     deaf                                                          Deafness
+70     mute                                                          Muteness
+71    paral                                            Loss of limb/paralysis
+72   mental                                                 Mental deficiency
+73    indig                                     Member of an indigenous group
+74  bplhere                                         Born in this municipality
+75      bpl                                  Municipality or country of birth
+76 yrarrive                                    Year of arrival in the country
+77  reshere                              Usually resides in this municipality
+78 res5here                              Resided in this municipality in 1997
+79     res5                      Municipality or country of residence in 1997
+80      lit                                            Able to read and write
+81  edlevel                       Highest level of formal schooling completed
+82    grade                     Years completed at highest level of schooling
+83 edattain                                            Educational attainment
+84    marst                                                    Marital status
+85    relig                                                          Religion
+86  empstat                                       Employment status last week
+87  classwk                                                   Class of worker
+88 workhere                        Working or attending school in this comuna
+89   chborn                                                Children ever born
+90   chsurv                                          Children currently alive
+91 lstmonth                           Month of birth of last child born alive
+92  lstyear                            Year of birth of last child born alive
+93 yrschool                                                Years of schooling
+94    disab                                                        Disability
+95      occ                                                        Occupation
+96      ind                                                          Industry
+97  disabno                                                Without disability
