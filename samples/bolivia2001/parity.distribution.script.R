@@ -62,9 +62,9 @@ mtext(ylab1, 2, 2.5) # Label left axis
 axis(3, at=xatv)     # Draw top x scale (no label)
 axis(4, at=yatv, labels=round(yatv * sum(y2), 0))  # Draw right y scale
 mtext(ylab2, side=4, 2.5)                          # Label right axis
-points(x, y1, pch=16, cex=1.25)  # Plot ceb distribution points
-lines(x, y1)                     # Draw lines
-year <- substr(samplename, nchar(samplename)-3, nchar(samplename))
+points(x, y1, pch=16, cex=1.25)                    # Plot ceb distribution points
+lines(x, y1)                                       # Draw lines
+year <- substr(samplename, nchar(samplename)-3, nchar(samplename))  # Country Year label
 country <- substr(samplename, 1, nchar(samplename) - 4)
 substr(country, 1, 1) <- toupper(substr(country, 1, 1))
 text(0.25, 0.005, paste(country, year), adj=0, cex=1.5)
@@ -73,4 +73,9 @@ dev.off()
 # Plot points
 points(x, y1, pch=16, cex=1.25)
 lines(x, y1)
+
+# But to do this efficiently for all countries for which CEB is available we
+# need to make the tables for all countries. For this we need to know what countries
+# have CEB, and for which ones we need to calculate it. This is a good bit of work.
+# First step is to cfreate an index of variables available in all samples.
 
