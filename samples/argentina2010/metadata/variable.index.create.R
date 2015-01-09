@@ -12,10 +12,16 @@ for (i in 1:length(samples)) {
   z <- z[c(2, 1, 3)]
   x <- rbind(x, z)
 }
+colnames(x)[3] <- "sample"
 y <- x[order(x[, 2]), ]
+saveRDS(y, "metadata/variableindex.rds")
+
+x <- readRDS("metadata/variableindex.rds")
+rs <- "chborn" == x[, "vname"]
+x[rs, ]
+
 
 # To many renames of variable.descriptions to vnames.vdescriptions, script it
-
 # samples <- dir("samples")
 # for (i in 1:length(samples)) {
 #   cat(paste(formatC(i, width=2, flag="0"), ": ", samples[i], " ...\n"))

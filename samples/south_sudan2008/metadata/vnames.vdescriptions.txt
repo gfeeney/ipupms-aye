@@ -118,94 +118,95 @@
 117   pernum                                  Person number (within household)
 118   relate                                                      Relationship
 119      sex                                                               Sex
-120   nation                                                       Nationality
-121 reggroup                                                    Regional group
-122 orregion                                                  Region of origin
-123 bplstate                                                    State of birth
-124   ustate                                          State of usual residence
-125   durres                                             Duration of residence
-126 migstate                                     Previous residence 1 year ago
-127 mothlive                                                 Mother's survival
-128 fathlive                                                 Father's survival
-129   limleg                                             Limited use of leg(s)
-130  lossleg                                                    Loss of leg(s)
-131   limarm                                             Limited use of arm(s)
-132  lossarm                                                    Loss of arm(s)
-133 diffhear                                             Difficulty in hearing
-134     deaf                                                              Deaf
-135  diffsee                                                 Difficulty seeing
-136    blind                                                             Blind
-137  diffspk                                            Difficulty in speaking
-138     mute                                                              Mute
-139 diffment                                                 Mental difficulty
-140    disab                                                   Have disability
-141      lit                                                          Literacy
-142   school                                                 School attendence
-143   attend                                            School level attending
-144 edattain                                              Education attainment
-145  empstat                                                   Activity status
-146   reason                                    Reason for economic inactivity
-147      occ                                                        Occupation
-148      ind                                                          Industry
-149  classwk                                                   Class of worker
-150    marst                                                    Marital status
-151  agemarr                                             Age at first marriage
-152  chbornm                                                   Males ever born
-153  chbornf                                                 Females ever born
-154  homemal                                             Male children at home
-155  homefem                                           Female children at home
-156  awaymal                                    Male children living elsewhere
-157  awayfem                                  Female children living elsewhere
-158  deadmal                                            Male children deceased
-159  deadfem                                          Female children deceased
-160   births                                         Any births last 12 months
-161  birthsm                                         Males born last 12 months
-162  birthsf                                       Females born last 12 months
-163  livbthm                               Males born last 12 months surviving
-164     qage                                                         Flag: Age
-165  qnation                                                 Flag: Nationality
-166  qreggrp                                              Flag: Regional group
-167   qorreg                                            Flag: Region of origin
-168  qustate                                    Flag: State of usual residence
-169  qdurres                                       Flag: Duration of residence
-170 qmigstat                                 Flag: State of previous residence
-171 qmothliv                                           Flag: Mother's survival
-172 qfathliv                                           Flag: Father's survival
-173 qlossleg                                              Flag: Loss of leg(s)
-174 qlossarm                                              Flag: Loss of arm(s)
-175    qdeaf                                                        Flag: Deaf
-176   qblind                                                       Flag: Blind
-177    qmute                                                        Flag: Mute
-178  qschool                                           Flag: School attendence
-179  qattend                            Flag: School level currently attending
-180 qedattan                                        Flag: Education attainment
-181 qempstat                                             Flag: Activity status
-182  qreason                              Flag: Reason for economic inactivity
-183     qocc                                                  Flag: Occupation
-184     qind                                             Flag: Economic sector
-185 qclasswk                                           Flag: Employment status
-186   qmarst                                              Flag: Marital status
-187 qagemarr                                       Flag: Age at first marriage
-188 qchbornf                                           Flag: Females ever born
-189 qhomemal                                       Flag: Male children at home
-190 qhomefem                                     Flag: Female children at home
-191 qawaymal                              Flag: Male children living elsewhere
-192 qawayfem                            Flag: Female children living elsewhere
-193 qdeadmal                                      Flag: Male children deceased
-194 qdeadfem                                    Flag: Female children deceased
-195  qbirths                                   Flag: Any births last 12 months
-196 qbirthsm                                   Flag: Males born last 12 months
-197 qbirthsf                                 Flag: Females born last 12 months
-198 qlivbthm                           Flag: Males born last 12 months (alive)
-199 qlivbthf                         Flag: Females born last 12 months (alive)
-200    perwt                                                     Person weight
-201   chhome                                      Children living in household
-202   chaway                                         Children living elsewhere
-203   chdead                                            Children who have died
-204   chborn                                                Children ever born
-205   chsurv                                                Children surviving
-206  chsurvm                                           Male children surviving
-207  chsurvf                                         Female children surviving
-208 bthlstyr                                           Children born last year
-209 srvlstyr                                 Children born last year surviving
-210  parlive                                          Parents mortality status
+120      age                                                               Age
+121   nation                                                       Nationality
+122 reggroup                                                    Regional group
+123 orregion                                                  Region of origin
+124 bplstate                                                    State of birth
+125   ustate                                          State of usual residence
+126   durres                                             Duration of residence
+127 migstate                                     Previous residence 1 year ago
+128 mothlive                                                 Mother's survival
+129 fathlive                                                 Father's survival
+130   limleg                                             Limited use of leg(s)
+131  lossleg                                                    Loss of leg(s)
+132   limarm                                             Limited use of arm(s)
+133  lossarm                                                    Loss of arm(s)
+134 diffhear                                             Difficulty in hearing
+135     deaf                                                              Deaf
+136  diffsee                                                 Difficulty seeing
+137    blind                                                             Blind
+138  diffspk                                            Difficulty in speaking
+139     mute                                                              Mute
+140 diffment                                                 Mental difficulty
+141    disab                                                   Have disability
+142      lit                                                          Literacy
+143   school                                                 School attendence
+144   attend                                            School level attending
+145 edattain                                              Education attainment
+146  empstat                                                   Activity status
+147   reason                                    Reason for economic inactivity
+148      occ                                                        Occupation
+149      ind                                                          Industry
+150  classwk                                                   Class of worker
+151    marst                                                    Marital status
+152  agemarr                                             Age at first marriage
+153  chbornm                                                   Males ever born
+154  chbornf                                                 Females ever born
+155  homemal                                             Male children at home
+156  homefem                                           Female children at home
+157  awaymal                                    Male children living elsewhere
+158  awayfem                                  Female children living elsewhere
+159  deadmal                                            Male children deceased
+160  deadfem                                          Female children deceased
+161   births                                         Any births last 12 months
+162  birthsm                                         Males born last 12 months
+163  birthsf                                       Females born last 12 months
+164  livbthm                               Males born last 12 months surviving
+165     qage                                                         Flag: Age
+166  qnation                                                 Flag: Nationality
+167  qreggrp                                              Flag: Regional group
+168   qorreg                                            Flag: Region of origin
+169  qustate                                    Flag: State of usual residence
+170  qdurres                                       Flag: Duration of residence
+171 qmigstat                                 Flag: State of previous residence
+172 qmothliv                                           Flag: Mother's survival
+173 qfathliv                                           Flag: Father's survival
+174 qlossleg                                              Flag: Loss of leg(s)
+175 qlossarm                                              Flag: Loss of arm(s)
+176    qdeaf                                                        Flag: Deaf
+177   qblind                                                       Flag: Blind
+178    qmute                                                        Flag: Mute
+179  qschool                                           Flag: School attendence
+180  qattend                            Flag: School level currently attending
+181 qedattan                                        Flag: Education attainment
+182 qempstat                                             Flag: Activity status
+183  qreason                              Flag: Reason for economic inactivity
+184     qocc                                                  Flag: Occupation
+185     qind                                             Flag: Economic sector
+186 qclasswk                                           Flag: Employment status
+187   qmarst                                              Flag: Marital status
+188 qagemarr                                       Flag: Age at first marriage
+189 qchbornf                                           Flag: Females ever born
+190 qhomemal                                       Flag: Male children at home
+191 qhomefem                                     Flag: Female children at home
+192 qawaymal                              Flag: Male children living elsewhere
+193 qawayfem                            Flag: Female children living elsewhere
+194 qdeadmal                                      Flag: Male children deceased
+195 qdeadfem                                    Flag: Female children deceased
+196  qbirths                                   Flag: Any births last 12 months
+197 qbirthsm                                   Flag: Males born last 12 months
+198 qbirthsf                                 Flag: Females born last 12 months
+199 qlivbthm                           Flag: Males born last 12 months (alive)
+200 qlivbthf                         Flag: Females born last 12 months (alive)
+201    perwt                                                     Person weight
+202   chhome                                      Children living in household
+203   chaway                                         Children living elsewhere
+204   chdead                                            Children who have died
+205   chborn                                                Children ever born
+206   chsurv                                                Children surviving
+207  chsurvm                                           Male children surviving
+208  chsurvf                                         Female children surviving
+209 bthlstyr                                           Children born last year
+210 srvlstyr                                 Children born last year surviving
+211  parlive                                          Parents mortality status

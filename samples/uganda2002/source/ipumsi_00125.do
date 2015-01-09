@@ -87,105 +87,114 @@ quietly infix                      ///
   byte    ug02a_qinfosrc  110-110  ///
   byte    ug02a_qliveli   111-111  ///
   byte    ug02a_qsoap     112-112  ///
-  byte    ug02a_qblanket  113-113  ///
-  byte    ug02a_qshoes    114-114  ///
-  byte    ug02a_qclothtw  115-115  ///
-  byte    ug02a_qdeath    116-116  ///
-  byte    ug02a_hut       117-117  ///
-  byte    ug02a_poptype   118-119  ///
-  byte    ug02a_qpoptype  120-120  ///
-  byte    ug02a_deadn     121-121  ///
-  int     pernum          122-124  ///
-  float   wtper           125-132  ///
-  byte    resident        133-133  ///
-  byte    ug02a_pernum    134-135  ///
-  byte    ug02a_pernum    136-137  ///
-  byte    ug02a_relate    138-138  ///
-  byte    ug02a_birthmo   139-140  ///
-  int     ug02a_birthyr   141-144  ///
-  byte    ug02a_age       145-146  ///
-  byte    ug02a_ethnic    147-148  ///
-  byte    ug02a_mothlive  149-149  ///
-  byte    ug02a_fathlive  150-150  ///
-  int     ug02a_bpl       151-153  ///
-  int     ug02a_prevres   154-156  ///
-  byte    ug02a_resdur    157-158  ///
-  byte    ug02a_disab1    159-160  ///
-  byte    ug02a_disab2    161-162  ///
-  byte    ug02a_discau1   163-163  ///
-  byte    ug02a_discau2   164-164  ///
-  byte    ug02a_rehab1    165-166  ///
-  byte    ug02a_school    167-167  ///
-  byte    ug02a_edattain  168-169  ///
-  byte    ug02a_ind       170-171  ///
-  byte    ug02a_occ1      172-173  ///
-  int     ug02a_occ       174-176  ///
-  byte    ug02a_lit       177-177  ///
-  byte    ug02a_marst     178-178  ///
-  byte    ug02a_chbornm   179-180  ///
-  byte    ug02a_chbornf   181-182  ///
-  byte    ug02a_chhhm     183-184  ///
-  byte    ug02a_chhhf     185-186  ///
-  byte    ug02a_chawaym   187-188  ///
-  byte    ug02a_chawayf   189-190  ///
-  byte    ug02a_chdeadm   191-192  ///
-  byte    ug02a_chdeadf   193-194  ///
-  byte    ug02a_lstchmo   195-196  ///
-  int     ug02a_lstchyr   197-200  ///
-  byte    ug02a_lstchsex  201-201  ///
-  byte    ug02a_lstchliv  202-202  ///
-  byte    ug02a_lstdage   203-204  ///
-  byte    ug02a_defacto   205-205  ///
-  byte    ug02a_qperid    206-206  ///
-  byte    ug02a_qrelate   207-207  ///
-  byte    ug02a_qsex      208-208  ///
-  byte    ug02a_qbirthda  209-209  ///
-  byte    ug02a_qbirthc   210-210  ///
-  byte    ug02a_qbirthyr  211-211  ///
-  byte    ug02a_qage      212-212  ///
-  byte    ug02a_qrelig    213-213  ///
-  byte    ug02a_qethnic   214-214  ///
-  byte    ug02a_qmothliv  215-215  ///
-  byte    ug02a_qfathliv  216-216  ///
-  byte    ug02a_qbpl      217-217  ///
-  byte    ug02a_qprevres  218-218  ///
-  byte    ug02a_qresdur   219-219  ///
-  byte    ug02a_qresdur   220-220  ///
-  byte    ug02a_qdisab1   221-221  ///
-  byte    ug02a_qdisab2   222-222  ///
-  byte    ug02a_qdiscau1  223-223  ///
-  byte    ug02a_qdiscau2  224-224  ///
-  byte    ug02a_qrehab1   225-225  ///
-  byte    ug02a_qrehab2   226-226  ///
-  byte    ug02a_qschool   227-227  ///
-  byte    ug02a_qedattan  228-228  ///
-  byte    ug02a_qempstat  229-229  ///
-  byte    ug02a_qind      230-230  ///
-  byte    ug02a_qocc      231-231  ///
-  byte    ug02a_qlit      232-232  ///
-  byte    ug02a_qmarst    233-233  ///
-  byte    ug02a_qchbornm  234-234  ///
-  byte    ug02a_qchbornf  235-235  ///
-  byte    ug02a_qchhhm    236-236  ///
-  byte    ug02a_qchawaym  237-237  ///
-  byte    ug02a_qchawayf  238-238  ///
-  byte    ug02a_qchdeadm  239-239  ///
-  byte    ug02a_qchdeadf  240-240  ///
-  byte    ug02a_qlstchmo  241-241  ///
-  byte    ug02a_qlstc     242-242  ///
-  byte    ug02a_qlstchyr  243-243  ///
-  byte    ug02a_qlstchse  244-244  ///
-  byte    ug02a_qlstage   245-245  ///
-  byte    ug02a_chborn    246-247  ///
-  byte    ug02a_chhh      248-249  ///
-  byte    ug02a_chaway    250-251  ///
-  byte    ug02a_chdead    252-253  ///
-  byte    ug02a_mothlivu  254-254  ///
-  byte    ug02a_fathlivu  255-255  ///
-  byte    ug02a_qmothlv   256-256  ///
-  byte    ug02a_qfathlv   257-257  ///
-  byte    ug02a_bplsame   258-258  ///
-  using `"ipumsi_00118.dat"'
+  byte    ug02a_qsugar    113-113  ///
+  byte    ug02a_qblanket  114-114  ///
+  byte    ug02a_qshoes    115-115  ///
+  byte    ug02a_qclothtw  116-116  ///
+  byte    ug02a_qdeath    117-117  ///
+  byte    ug02a_hut       118-118  ///
+  byte    ug02a_poptype   119-120  ///
+  byte    ug02a_qpoptype  121-121  ///
+  byte    ug02a_deadn     122-122  ///
+  int     pernum          123-125  ///
+  float   wtper           126-133  ///
+  byte    resident        134-134  ///
+  byte    ug02a_pernum    135-136  ///
+  byte    ug02a_pernum    137-138  ///
+  byte    ug02a_pern      139-140  ///
+  byte    ug02a_relate    141-141  ///
+  byte    ug02a_sex       142-142  ///
+  byte    ug02a_birthmo   143-144  ///
+  int     ug02a_birthyr   145-148  ///
+  byte    ug02a_age       149-150  ///
+  byte    ug02a_relig     151-152  ///
+  byte    ug02a_ethnic    153-154  ///
+  byte    ug02a_mothlive  155-155  ///
+  byte    ug02a_fathlive  156-156  ///
+  int     ug02a_bpl       157-159  ///
+  int     ug02a_prevres   160-162  ///
+  byte    ug02a_resdur    163-164  ///
+  byte    ug02a_disab1    165-166  ///
+  byte    ug02a_disab2    167-168  ///
+  byte    ug02a_discau1   169-169  ///
+  byte    ug02a_discau2   170-170  ///
+  byte    ug02a_rehab1    171-172  ///
+  byte    ug02a_rehab2    173-174  ///
+  byte    ug02a_school    175-175  ///
+  byte    ug02a_edattain  176-177  ///
+  byte    ug02a_empstat   178-179  ///
+  byte    ug02a_ind       180-181  ///
+  byte    ug02a_occ1      182-183  ///
+  int     ug02a_occ       184-186  ///
+  byte    ug02a_lit       187-187  ///
+  byte    ug02a_marst     188-188  ///
+  byte    ug02a_chbornm   189-190  ///
+  byte    ug02a_chbornf   191-192  ///
+  byte    ug02a_chhhm     193-194  ///
+  byte    ug02a_chhhf     195-196  ///
+  byte    ug02a_chawaym   197-198  ///
+  byte    ug02a_chawayf   199-200  ///
+  byte    ug02a_chdeadm   201-202  ///
+  byte    ug02a_chdeadf   203-204  ///
+  byte    ug02a_lstchmo   205-206  ///
+  int     ug02a_lstchyr   207-210  ///
+  byte    ug02a_lstchsex  211-211  ///
+  byte    ug02a_lstchliv  212-212  ///
+  byte    ug02a_lstdage   213-214  ///
+  byte    ug02a_defacto   215-215  ///
+  byte    ug02a_qperid    216-216  ///
+  byte    ug02a_qrelate   217-217  ///
+  byte    ug02a_qsex      218-218  ///
+  byte    ug02a_qbirthda  219-219  ///
+  byte    ug02a_qbirthmo  220-220  ///
+  byte    ug02a_qbirthc   221-221  ///
+  byte    ug02a_qbirthyr  222-222  ///
+  byte    ug02a_qage      223-223  ///
+  byte    ug02a_qrelig    224-224  ///
+  byte    ug02a_qethnic   225-225  ///
+  byte    ug02a_qmothliv  226-226  ///
+  byte    ug02a_qfathliv  227-227  ///
+  byte    ug02a_qbpl      228-228  ///
+  byte    ug02a_qprevres  229-229  ///
+  byte    ug02a_qresdur   230-230  ///
+  byte    ug02a_qresdur   231-231  ///
+  byte    ug02a_qdisab1   232-232  ///
+  byte    ug02a_qdisab2   233-233  ///
+  byte    ug02a_qdiscau1  234-234  ///
+  byte    ug02a_qdiscau2  235-235  ///
+  byte    ug02a_qrehab1   236-236  ///
+  byte    ug02a_qrehab2   237-237  ///
+  byte    ug02a_qschool   238-238  ///
+  byte    ug02a_qedattan  239-239  ///
+  byte    ug02a_qempstat  240-240  ///
+  byte    ug02a_qind      241-241  ///
+  byte    ug02a_qocc      242-242  ///
+  byte    ug02a_qlit      243-243  ///
+  byte    ug02a_qmarst    244-244  ///
+  byte    ug02a_qchbornm  245-245  ///
+  byte    ug02a_qchbornf  246-246  ///
+  byte    ug02a_qchhhm    247-247  ///
+  byte    ug02a_qchhhf    248-248  ///
+  byte    ug02a_qchawaym  249-249  ///
+  byte    ug02a_qchawayf  250-250  ///
+  byte    ug02a_qchdeadm  251-251  ///
+  byte    ug02a_qchdeadf  252-252  ///
+  byte    ug02a_qlstchmo  253-253  ///
+  byte    ug02a_qlstc     254-254  ///
+  byte    ug02a_qlstchyr  255-255  ///
+  byte    ug02a_qlstchse  256-256  ///
+  byte    ug02a_qlstchli  257-257  ///
+  byte    ug02a_qlstage   258-258  ///
+  byte    ug02a_chborn    259-260  ///
+  byte    ug02a_chhh      261-262  ///
+  byte    ug02a_chaway    263-264  ///
+  byte    ug02a_chdead    265-266  ///
+  byte    ug02a_mothlivu  267-267  ///
+  byte    ug02a_fathlivu  268-268  ///
+  byte    ug02a_qmothlv   269-269  ///
+  byte    ug02a_qfathlv   270-270  ///
+  byte    ug02a_bplsame   271-271  ///
+  using `"ipumsi_00125.dat"'
 
 replace wtper          = wtper          / 100
 
@@ -274,6 +283,7 @@ label var ug02a_qemail   `"Flag for own an electronic mail address"'
 label var ug02a_qinfosrc `"Flag for source of information"'
 label var ug02a_qliveli  `"Flag for source of livelihood"'
 label var ug02a_qsoap    `"Flag for use soap"'
+label var ug02a_qsugar   `"Flag for consumed sugar"'
 label var ug02a_qblanket `"Flag for have a blanket for each child under age 18"'
 label var ug02a_qshoes   `"Flag for have a pair of shoes"'
 label var ug02a_qclothtw `"Flag for have two sets of clothing"'
@@ -287,10 +297,13 @@ label var wtper          `"Person weight"'
 label var resident       `"Residence status: de facto, de jure"'
 label var ug02a_pernum   `"Person number (within household)"'
 label var ug02a_pernum   `"Person number (within household)"'
+label var ug02a_pern     `"Number of persons in household"'
 label var ug02a_relate   `"Relationship to the head"'
+label var ug02a_sex      `"Sex"'
 label var ug02a_birthmo  `"Month of birth"'
 label var ug02a_birthyr  `"Year of birth"'
 label var ug02a_age      `"Age"'
+label var ug02a_relig    `"Religion"'
 label var ug02a_ethnic   `"Ethnicity/nationality"'
 label var ug02a_mothlive `"Mother survival"'
 label var ug02a_fathlive `"Father survival"'
@@ -302,8 +315,10 @@ label var ug02a_disab2   `"Second disability"'
 label var ug02a_discau1  `"Cause of Disability 1"'
 label var ug02a_discau2  `"Cause of Disability 2"'
 label var ug02a_rehab1   `"Rehabilitation of disability 1"'
+label var ug02a_rehab2   `"Rehabilitation of disability 2"'
 label var ug02a_school   `"School"'
 label var ug02a_edattain `"Education Attainment"'
+label var ug02a_empstat  `"Employment status in the last seven days"'
 label var ug02a_ind      `"Industry"'
 label var ug02a_occ1     `"Occupation, 1 digit"'
 label var ug02a_occ      `"Occupation, 3 digits"'
@@ -327,6 +342,7 @@ label var ug02a_qperid   `"Flag for person number"'
 label var ug02a_qrelate  `"Flag for relationship to the head"'
 label var ug02a_qsex     `"Flag for sex"'
 label var ug02a_qbirthda `"Flag for day of birth"'
+label var ug02a_qbirthmo `"Flag for month of birth"'
 label var ug02a_qbirthc  `"Flag for birth century"'
 label var ug02a_qbirthyr `"Flag for year of birth"'
 label var ug02a_qage     `"Flag for age"'
@@ -354,6 +370,7 @@ label var ug02a_qmarst   `"Flag for marital status"'
 label var ug02a_qchbornm `"Flag for male children ever born"'
 label var ug02a_qchbornf `"Flag for female children ever born"'
 label var ug02a_qchhhm   `"Flag for male children living in household"'
+label var ug02a_qchhhf   `"Flag for female children living in household"'
 label var ug02a_qchawaym `"Flag for male children living outside the household"'
 label var ug02a_qchawayf `"Flag for female children living outside the household"'
 label var ug02a_qchdeadm `"Flag for male children dead"'
@@ -362,6 +379,7 @@ label var ug02a_qlstchmo `"Flag for last child birth month"'
 label var ug02a_qlstc    `"Flag for last child birth century"'
 label var ug02a_qlstchyr `"Flag for last child birth year"'
 label var ug02a_qlstchse `"Flag for sex of last child"'
+label var ug02a_qlstchli `"Flag for last child still alive"'
 label var ug02a_qlstage  `"Flag for last child's age of death, in months"'
 label var ug02a_chborn   `"Children ever born"'
 label var ug02a_chhh     `"Children in household"'
@@ -1458,6 +1476,11 @@ label define ug02a_qsoap_lbl 1 `"Logical imputation"', add
 label define ug02a_qsoap_lbl 2 `"Hot deck imputation"', add
 label values ug02a_qsoap ug02a_qsoap_lbl
 
+label define ug02a_qsugar_lbl 0 `"No imputation"'
+label define ug02a_qsugar_lbl 1 `"Logical imputation"', add
+label define ug02a_qsugar_lbl 2 `"Hot deck imputation"', add
+label values ug02a_qsugar ug02a_qsugar_lbl
+
 label define ug02a_qblanket_lbl 0 `"No imputation"'
 label define ug02a_qblanket_lbl 1 `"Logical imputation"', add
 label define ug02a_qblanket_lbl 2 `"Hot deck imputation"', add
@@ -1582,6 +1605,38 @@ label define ug02a_pernum_lbl 29 `"29"', add
 label define ug02a_pernum_lbl 30 `"30"', add
 label values ug02a_pernum ug02a_pernum_lbl
 
+label define ug02a_pern_lbl 01 `"1"'
+label define ug02a_pern_lbl 02 `"2"', add
+label define ug02a_pern_lbl 03 `"3"', add
+label define ug02a_pern_lbl 04 `"4"', add
+label define ug02a_pern_lbl 05 `"5"', add
+label define ug02a_pern_lbl 06 `"6"', add
+label define ug02a_pern_lbl 07 `"7"', add
+label define ug02a_pern_lbl 08 `"8"', add
+label define ug02a_pern_lbl 09 `"9"', add
+label define ug02a_pern_lbl 10 `"10"', add
+label define ug02a_pern_lbl 11 `"11"', add
+label define ug02a_pern_lbl 12 `"12"', add
+label define ug02a_pern_lbl 13 `"13"', add
+label define ug02a_pern_lbl 14 `"14"', add
+label define ug02a_pern_lbl 15 `"15"', add
+label define ug02a_pern_lbl 16 `"16"', add
+label define ug02a_pern_lbl 17 `"17"', add
+label define ug02a_pern_lbl 18 `"18"', add
+label define ug02a_pern_lbl 19 `"19"', add
+label define ug02a_pern_lbl 20 `"20"', add
+label define ug02a_pern_lbl 21 `"21"', add
+label define ug02a_pern_lbl 22 `"22"', add
+label define ug02a_pern_lbl 23 `"23"', add
+label define ug02a_pern_lbl 24 `"24"', add
+label define ug02a_pern_lbl 25 `"25"', add
+label define ug02a_pern_lbl 26 `"26"', add
+label define ug02a_pern_lbl 27 `"27"', add
+label define ug02a_pern_lbl 28 `"28"', add
+label define ug02a_pern_lbl 29 `"29"', add
+label define ug02a_pern_lbl 30 `"30"', add
+label values ug02a_pern ug02a_pern_lbl
+
 label define ug02a_relate_lbl 1 `"Head"'
 label define ug02a_relate_lbl 2 `"Spouse"', add
 label define ug02a_relate_lbl 3 `"Child"', add
@@ -1592,6 +1647,10 @@ label define ug02a_relate_lbl 7 `"Other relative"', add
 label define ug02a_relate_lbl 8 `"Non-relative"', add
 label define ug02a_relate_lbl 9 `"Unknown"', add
 label values ug02a_relate ug02a_relate_lbl
+
+label define ug02a_sex_lbl 1 `"Male"'
+label define ug02a_sex_lbl 2 `"Female"', add
+label values ug02a_sex ug02a_sex_lbl
 
 label define ug02a_birthmo_lbl 01 `"January"'
 label define ug02a_birthmo_lbl 02 `"February"', add
@@ -1804,6 +1863,19 @@ label define ug02a_age_lbl 93 `"93"', add
 label define ug02a_age_lbl 94 `"94"', add
 label define ug02a_age_lbl 95 `"95 +"', add
 label values ug02a_age ug02a_age_lbl
+
+label define ug02a_relig_lbl 01 `"Christians: Catholic"'
+label define ug02a_relig_lbl 02 `"Christians: Anglican/Protestant"', add
+label define ug02a_relig_lbl 03 `"Christians: Seventh-day Adventist"', add
+label define ug02a_relig_lbl 04 `"Christians: Orthodox"', add
+label define ug02a_relig_lbl 05 `"Christians: Pentecostal"', add
+label define ug02a_relig_lbl 06 `"Christians: other christian"', add
+label define ug02a_relig_lbl 07 `"Moslem"', add
+label define ug02a_relig_lbl 08 `"Others: Bahai"', add
+label define ug02a_relig_lbl 09 `"Others: non-christian"', add
+label define ug02a_relig_lbl 10 `"Traditional"', add
+label define ug02a_relig_lbl 11 `"No religion/none"', add
+label values ug02a_relig ug02a_relig_lbl
 
 label define ug02a_ethnic_lbl 11 `"Acholi"'
 label define ug02a_ethnic_lbl 12 `"Alur"', add
@@ -2207,6 +2279,18 @@ label define ug02a_rehab1_lbl 10 `"Others"', add
 label define ug02a_rehab1_lbl 99 `"NIU (not in universe)"', add
 label values ug02a_rehab1 ug02a_rehab1_lbl
 
+label define ug02a_rehab2_lbl 01 `"None"'
+label define ug02a_rehab2_lbl 02 `"Surgical operation"', add
+label define ug02a_rehab2_lbl 03 `"Medication"', add
+label define ug02a_rehab2_lbl 04 `"Assistive devices"', add
+label define ug02a_rehab2_lbl 05 `"Training: specially education (mentally retarded)"', add
+label define ug02a_rehab2_lbl 07 `"Training: skills training (vocational)"', add
+label define ug02a_rehab2_lbl 08 `"Training: sign language training"', add
+label define ug02a_rehab2_lbl 09 `"Counselling"', add
+label define ug02a_rehab2_lbl 10 `"Others"', add
+label define ug02a_rehab2_lbl 99 `"NIU (not in universe)"', add
+label values ug02a_rehab2 ug02a_rehab2_lbl
+
 label define ug02a_school_lbl 1 `"Attended in 2002"'
 label define ug02a_school_lbl 2 `"Left school in 2002"', add
 label define ug02a_school_lbl 3 `"Left school before 2002"', add
@@ -2242,6 +2326,19 @@ label define ug02a_edattain_lbl 53 `"University: incomplete post graduate traini
 label define ug02a_edattain_lbl 54 `"University: completed post graduate training"', add
 label define ug02a_edattain_lbl 99 `"NIU (not in universe)"', add
 label values ug02a_edattain ug02a_edattain_lbl
+
+label define ug02a_empstat_lbl 01 `"In labor force: paid employee"'
+label define ug02a_empstat_lbl 02 `"In labor force: self-employed"', add
+label define ug02a_empstat_lbl 03 `"In labor force: unpaid family worker"', add
+label define ug02a_empstat_lbl 04 `"Looking for work"', add
+label define ug02a_empstat_lbl 05 `"Not working and not looking for work"', add
+label define ug02a_empstat_lbl 06 `"Household work"', add
+label define ug02a_empstat_lbl 07 `"Full-time student"', add
+label define ug02a_empstat_lbl 08 `"Retired/pensioner"', add
+label define ug02a_empstat_lbl 09 `"Too old/too young"', add
+label define ug02a_empstat_lbl 10 `"Others"', add
+label define ug02a_empstat_lbl 99 `"NIU (not in universe)"', add
+label values ug02a_empstat ug02a_empstat_lbl
 
 label define ug02a_ind_lbl 10 `"Crop farming"'
 label define ug02a_ind_lbl 11 `"Livestock"', add
@@ -2752,6 +2849,11 @@ label define ug02a_qbirthda_lbl 1 `"Logical imputation"', add
 label define ug02a_qbirthda_lbl 2 `"Hot deck imputation"', add
 label values ug02a_qbirthda ug02a_qbirthda_lbl
 
+label define ug02a_qbirthmo_lbl 0 `"No imputation"'
+label define ug02a_qbirthmo_lbl 1 `"Logical imputation"', add
+label define ug02a_qbirthmo_lbl 2 `"Hot deck imputation"', add
+label values ug02a_qbirthmo ug02a_qbirthmo_lbl
+
 label define ug02a_qbirthc_lbl 0 `"No imputation"'
 label define ug02a_qbirthc_lbl 1 `"Logical imputation"', add
 label define ug02a_qbirthc_lbl 2 `"Hot deck imputation"', add
@@ -2887,6 +2989,11 @@ label define ug02a_qchhhm_lbl 1 `"Logical imputation"', add
 label define ug02a_qchhhm_lbl 2 `"Hot deck imputation"', add
 label values ug02a_qchhhm ug02a_qchhhm_lbl
 
+label define ug02a_qchhhf_lbl 0 `"No imputation"'
+label define ug02a_qchhhf_lbl 1 `"Logical imputation"', add
+label define ug02a_qchhhf_lbl 2 `"Hot deck imputation"', add
+label values ug02a_qchhhf ug02a_qchhhf_lbl
+
 label define ug02a_qchawaym_lbl 0 `"No imputation"'
 label define ug02a_qchawaym_lbl 1 `"Logical imputation"', add
 label define ug02a_qchawaym_lbl 2 `"Hot deck imputation"', add
@@ -2926,6 +3033,11 @@ label define ug02a_qlstchse_lbl 0 `"No imputation"'
 label define ug02a_qlstchse_lbl 1 `"Logical imputation"', add
 label define ug02a_qlstchse_lbl 2 `"Hot deck imputation"', add
 label values ug02a_qlstchse ug02a_qlstchse_lbl
+
+label define ug02a_qlstchli_lbl 0 `"No imputation"'
+label define ug02a_qlstchli_lbl 1 `"Logical imputation"', add
+label define ug02a_qlstchli_lbl 2 `"Hot deck imputation"', add
+label values ug02a_qlstchli ug02a_qlstchli_lbl
 
 label define ug02a_qlstage_lbl 0 `"No imputation"'
 label define ug02a_qlstage_lbl 1 `"Logical imputation"', add
@@ -3004,7 +3116,7 @@ label define ug02a_chdead_lbl 09 `"9"', add
 label define ug02a_chdead_lbl 10 `"10"', add
 label define ug02a_chdead_lbl 11 `"11"', add
 label define ug02a_chdead_lbl 12 `"12+"', add
-label define ug02a_chdead_lbl 99 `"NIU"', add
+label define ug02a_chdead_lbl 99 `"NIU (not in universe)"', add
 label values ug02a_chdead ug02a_chdead_lbl
 
 label define ug02a_mothlivu_lbl 1 `"Yes"'
