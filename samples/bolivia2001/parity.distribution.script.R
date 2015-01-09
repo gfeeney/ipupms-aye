@@ -9,7 +9,6 @@ source("../../processing/Rfunctions3/agegroup.R")
 source("../../processing/Rfunctions3/draw.horizontalreferencelines.R")
 source("../../processing/Rfunctions3/draw.verticalreferencelines.R")
 x <- readRDS("metadata/vnames.vdescriptions.rds")
-x[86, ]
 getvariable("chborn")
 ceb <- chborn
 rm(chborn)
