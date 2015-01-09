@@ -124,98 +124,99 @@ quietly infix                      ///
   byte    ss08a_pernum    177-178  ///
   byte    ss08a_relate    179-180  ///
   byte    ss08a_sex       181-181  ///
-  byte    ss08a_nation    182-182  ///
-  byte    ss08a_reggroup  183-183  ///
-  byte    ss08a_orregion  184-185  ///
-  byte    ss08a_bplstate  186-187  ///
-  byte    ss08a_ustate    188-189  ///
-  byte    ss08a_durres    190-191  ///
-  byte    ss08a_migstate  192-193  ///
-  byte    ss08a_mothlive  194-194  ///
-  byte    ss08a_fathlive  195-195  ///
-  byte    ss08a_limleg    196-196  ///
-  byte    ss08a_lossleg   197-197  ///
-  byte    ss08a_limarm    198-198  ///
-  byte    ss08a_lossarm   199-199  ///
-  byte    ss08a_diffhear  200-200  ///
-  byte    ss08a_deaf      201-201  ///
-  byte    ss08a_diffsee   202-202  ///
-  byte    ss08a_blind     203-203  ///
-  byte    ss08a_diffspk   204-204  ///
-  byte    ss08a_mute      205-205  ///
-  byte    ss08a_diffment  206-206  ///
-  byte    ss08a_disab     207-207  ///
-  byte    ss08a_lit       208-208  ///
-  byte    ss08a_school    209-209  ///
-  byte    ss08a_attend    210-211  ///
-  byte    ss08a_edattain  212-213  ///
-  byte    ss08a_empstat   214-214  ///
-  byte    ss08a_reason    215-215  ///
-  byte    ss08a_occ       216-217  ///
-  int     ss08a_ind       218-220  ///
-  byte    ss08a_classwk   221-221  ///
-  byte    ss08a_marst     222-222  ///
-  byte    ss08a_agemarr   223-224  ///
-  byte    ss08a_chbornm   225-226  ///
-  byte    ss08a_chbornf   227-228  ///
-  byte    ss08a_homemal   229-230  ///
-  byte    ss08a_homefem   231-232  ///
-  byte    ss08a_awaymal   233-234  ///
-  byte    ss08a_awayfem   235-236  ///
-  byte    ss08a_deadmal   237-238  ///
-  byte    ss08a_deadfem   239-240  ///
-  byte    ss08a_births    241-241  ///
-  byte    ss08a_birthsm   242-242  ///
-  byte    ss08a_birthsf   243-243  ///
-  byte    ss08a_livbthm   244-244  ///
-  byte    ss08a_qage      245-245  ///
-  byte    ss08a_qnation   246-246  ///
-  byte    ss08a_qreggrp   247-247  ///
-  byte    ss08a_qorreg    248-248  ///
-  byte    ss08a_qustate   249-249  ///
-  byte    ss08a_qdurres   250-250  ///
-  byte    ss08a_qmigstat  251-251  ///
-  byte    ss08a_qmothliv  252-252  ///
-  byte    ss08a_qfathliv  253-253  ///
-  byte    ss08a_qlossleg  254-254  ///
-  byte    ss08a_qlossarm  255-255  ///
-  byte    ss08a_qdeaf     256-256  ///
-  byte    ss08a_qblind    257-257  ///
-  byte    ss08a_qmute     258-258  ///
-  byte    ss08a_qschool   259-259  ///
-  byte    ss08a_qattend   260-260  ///
-  byte    ss08a_qedattan  261-261  ///
-  byte    ss08a_qempstat  262-262  ///
-  byte    ss08a_qreason   263-263  ///
-  byte    ss08a_qocc      264-264  ///
-  byte    ss08a_qind      265-265  ///
-  byte    ss08a_qclasswk  266-266  ///
-  byte    ss08a_qmarst    267-267  ///
-  byte    ss08a_qagemarr  268-268  ///
-  byte    ss08a_qchbornf  269-269  ///
-  byte    ss08a_qhomemal  270-270  ///
-  byte    ss08a_qhomefem  271-271  ///
-  byte    ss08a_qawaymal  272-272  ///
-  byte    ss08a_qawayfem  273-273  ///
-  byte    ss08a_qdeadmal  274-274  ///
-  byte    ss08a_qdeadfem  275-275  ///
-  byte    ss08a_qbirths   276-276  ///
-  byte    ss08a_qbirthsm  277-277  ///
-  byte    ss08a_qbirthsf  278-278  ///
-  byte    ss08a_qlivbthm  279-279  ///
-  byte    ss08a_qlivbthf  280-280  ///
-  float   ss08a_perwt     281-286  ///
-  byte    ss08a_chhome    287-288  ///
-  byte    ss08a_chaway    289-290  ///
-  byte    ss08a_chdead    291-292  ///
-  byte    ss08a_chborn    293-294  ///
-  byte    ss08a_chsurv    295-296  ///
-  byte    ss08a_chsurvm   297-298  ///
-  byte    ss08a_chsurvf   299-300  ///
-  byte    ss08a_bthlstyr  301-301  ///
-  byte    ss08a_srvlstyr  302-302  ///
-  byte    ss08a_parlive   303-303  ///
-  using `"ipumsi_00111.dat"'
+  byte    ss08a_age       182-183  ///
+  byte    ss08a_nation    184-184  ///
+  byte    ss08a_reggroup  185-185  ///
+  byte    ss08a_orregion  186-187  ///
+  byte    ss08a_bplstate  188-189  ///
+  byte    ss08a_ustate    190-191  ///
+  byte    ss08a_durres    192-193  ///
+  byte    ss08a_migstate  194-195  ///
+  byte    ss08a_mothlive  196-196  ///
+  byte    ss08a_fathlive  197-197  ///
+  byte    ss08a_limleg    198-198  ///
+  byte    ss08a_lossleg   199-199  ///
+  byte    ss08a_limarm    200-200  ///
+  byte    ss08a_lossarm   201-201  ///
+  byte    ss08a_diffhear  202-202  ///
+  byte    ss08a_deaf      203-203  ///
+  byte    ss08a_diffsee   204-204  ///
+  byte    ss08a_blind     205-205  ///
+  byte    ss08a_diffspk   206-206  ///
+  byte    ss08a_mute      207-207  ///
+  byte    ss08a_diffment  208-208  ///
+  byte    ss08a_disab     209-209  ///
+  byte    ss08a_lit       210-210  ///
+  byte    ss08a_school    211-211  ///
+  byte    ss08a_attend    212-213  ///
+  byte    ss08a_edattain  214-215  ///
+  byte    ss08a_empstat   216-216  ///
+  byte    ss08a_reason    217-217  ///
+  byte    ss08a_occ       218-219  ///
+  int     ss08a_ind       220-222  ///
+  byte    ss08a_classwk   223-223  ///
+  byte    ss08a_marst     224-224  ///
+  byte    ss08a_agemarr   225-226  ///
+  byte    ss08a_chbornm   227-228  ///
+  byte    ss08a_chbornf   229-230  ///
+  byte    ss08a_homemal   231-232  ///
+  byte    ss08a_homefem   233-234  ///
+  byte    ss08a_awaymal   235-236  ///
+  byte    ss08a_awayfem   237-238  ///
+  byte    ss08a_deadmal   239-240  ///
+  byte    ss08a_deadfem   241-242  ///
+  byte    ss08a_births    243-243  ///
+  byte    ss08a_birthsm   244-244  ///
+  byte    ss08a_birthsf   245-245  ///
+  byte    ss08a_livbthm   246-246  ///
+  byte    ss08a_qage      247-247  ///
+  byte    ss08a_qnation   248-248  ///
+  byte    ss08a_qreggrp   249-249  ///
+  byte    ss08a_qorreg    250-250  ///
+  byte    ss08a_qustate   251-251  ///
+  byte    ss08a_qdurres   252-252  ///
+  byte    ss08a_qmigstat  253-253  ///
+  byte    ss08a_qmothliv  254-254  ///
+  byte    ss08a_qfathliv  255-255  ///
+  byte    ss08a_qlossleg  256-256  ///
+  byte    ss08a_qlossarm  257-257  ///
+  byte    ss08a_qdeaf     258-258  ///
+  byte    ss08a_qblind    259-259  ///
+  byte    ss08a_qmute     260-260  ///
+  byte    ss08a_qschool   261-261  ///
+  byte    ss08a_qattend   262-262  ///
+  byte    ss08a_qedattan  263-263  ///
+  byte    ss08a_qempstat  264-264  ///
+  byte    ss08a_qreason   265-265  ///
+  byte    ss08a_qocc      266-266  ///
+  byte    ss08a_qind      267-267  ///
+  byte    ss08a_qclasswk  268-268  ///
+  byte    ss08a_qmarst    269-269  ///
+  byte    ss08a_qagemarr  270-270  ///
+  byte    ss08a_qchbornf  271-271  ///
+  byte    ss08a_qhomemal  272-272  ///
+  byte    ss08a_qhomefem  273-273  ///
+  byte    ss08a_qawaymal  274-274  ///
+  byte    ss08a_qawayfem  275-275  ///
+  byte    ss08a_qdeadmal  276-276  ///
+  byte    ss08a_qdeadfem  277-277  ///
+  byte    ss08a_qbirths   278-278  ///
+  byte    ss08a_qbirthsm  279-279  ///
+  byte    ss08a_qbirthsf  280-280  ///
+  byte    ss08a_qlivbthm  281-281  ///
+  byte    ss08a_qlivbthf  282-282  ///
+  float   ss08a_perwt     283-288  ///
+  byte    ss08a_chhome    289-290  ///
+  byte    ss08a_chaway    291-292  ///
+  byte    ss08a_chdead    293-294  ///
+  byte    ss08a_chborn    295-296  ///
+  byte    ss08a_chsurv    297-298  ///
+  byte    ss08a_chsurvm   299-300  ///
+  byte    ss08a_chsurvf   301-302  ///
+  byte    ss08a_bthlstyr  303-303  ///
+  byte    ss08a_srvlstyr  304-304  ///
+  byte    ss08a_parlive   305-305  ///
+  using `"ipumsi_00124.dat"'
 
 replace ss08a_hhwt     = ss08a_hhwt     / 10000
 replace wtper          = wtper          / 100
@@ -345,6 +346,7 @@ label var wtper          `"Person weight"'
 label var ss08a_pernum   `"Person number (within household)"'
 label var ss08a_relate   `"Relationship"'
 label var ss08a_sex      `"Sex"'
+label var ss08a_age      `"Age"'
 label var ss08a_nation   `"Nationality"'
 label var ss08a_reggroup `"Regional group"'
 label var ss08a_orregion `"Region of origin"'
@@ -1722,6 +1724,104 @@ label values ss08a_relate ss08a_relate_lbl
 label define ss08a_sex_lbl 1 `"Male"'
 label define ss08a_sex_lbl 2 `"Female"', add
 label values ss08a_sex ss08a_sex_lbl
+
+label define ss08a_age_lbl 00 `"0"'
+label define ss08a_age_lbl 01 `"1"', add
+label define ss08a_age_lbl 02 `"2"', add
+label define ss08a_age_lbl 03 `"3"', add
+label define ss08a_age_lbl 04 `"4"', add
+label define ss08a_age_lbl 05 `"5"', add
+label define ss08a_age_lbl 06 `"6"', add
+label define ss08a_age_lbl 07 `"7"', add
+label define ss08a_age_lbl 08 `"8"', add
+label define ss08a_age_lbl 09 `"9"', add
+label define ss08a_age_lbl 10 `"10"', add
+label define ss08a_age_lbl 11 `"11"', add
+label define ss08a_age_lbl 12 `"12"', add
+label define ss08a_age_lbl 13 `"13"', add
+label define ss08a_age_lbl 14 `"14"', add
+label define ss08a_age_lbl 15 `"15"', add
+label define ss08a_age_lbl 16 `"16"', add
+label define ss08a_age_lbl 17 `"17"', add
+label define ss08a_age_lbl 18 `"18"', add
+label define ss08a_age_lbl 19 `"19"', add
+label define ss08a_age_lbl 20 `"20"', add
+label define ss08a_age_lbl 21 `"21"', add
+label define ss08a_age_lbl 22 `"22"', add
+label define ss08a_age_lbl 23 `"23"', add
+label define ss08a_age_lbl 24 `"24"', add
+label define ss08a_age_lbl 25 `"25"', add
+label define ss08a_age_lbl 26 `"26"', add
+label define ss08a_age_lbl 27 `"27"', add
+label define ss08a_age_lbl 28 `"28"', add
+label define ss08a_age_lbl 29 `"29"', add
+label define ss08a_age_lbl 30 `"30"', add
+label define ss08a_age_lbl 31 `"31"', add
+label define ss08a_age_lbl 32 `"32"', add
+label define ss08a_age_lbl 33 `"33"', add
+label define ss08a_age_lbl 34 `"34"', add
+label define ss08a_age_lbl 35 `"35"', add
+label define ss08a_age_lbl 36 `"36"', add
+label define ss08a_age_lbl 37 `"37"', add
+label define ss08a_age_lbl 38 `"38"', add
+label define ss08a_age_lbl 39 `"39"', add
+label define ss08a_age_lbl 40 `"40"', add
+label define ss08a_age_lbl 41 `"41"', add
+label define ss08a_age_lbl 42 `"42"', add
+label define ss08a_age_lbl 43 `"43"', add
+label define ss08a_age_lbl 44 `"44"', add
+label define ss08a_age_lbl 45 `"45"', add
+label define ss08a_age_lbl 46 `"46"', add
+label define ss08a_age_lbl 47 `"47"', add
+label define ss08a_age_lbl 48 `"48"', add
+label define ss08a_age_lbl 49 `"49"', add
+label define ss08a_age_lbl 50 `"50"', add
+label define ss08a_age_lbl 51 `"51"', add
+label define ss08a_age_lbl 52 `"52"', add
+label define ss08a_age_lbl 53 `"53"', add
+label define ss08a_age_lbl 54 `"54"', add
+label define ss08a_age_lbl 55 `"55"', add
+label define ss08a_age_lbl 56 `"56"', add
+label define ss08a_age_lbl 57 `"57"', add
+label define ss08a_age_lbl 58 `"58"', add
+label define ss08a_age_lbl 59 `"59"', add
+label define ss08a_age_lbl 60 `"60"', add
+label define ss08a_age_lbl 61 `"61"', add
+label define ss08a_age_lbl 62 `"62"', add
+label define ss08a_age_lbl 63 `"63"', add
+label define ss08a_age_lbl 64 `"64"', add
+label define ss08a_age_lbl 65 `"65"', add
+label define ss08a_age_lbl 66 `"66"', add
+label define ss08a_age_lbl 67 `"67"', add
+label define ss08a_age_lbl 68 `"68"', add
+label define ss08a_age_lbl 69 `"69"', add
+label define ss08a_age_lbl 70 `"70"', add
+label define ss08a_age_lbl 71 `"71"', add
+label define ss08a_age_lbl 72 `"72"', add
+label define ss08a_age_lbl 73 `"73"', add
+label define ss08a_age_lbl 74 `"74"', add
+label define ss08a_age_lbl 75 `"75"', add
+label define ss08a_age_lbl 76 `"76"', add
+label define ss08a_age_lbl 77 `"77"', add
+label define ss08a_age_lbl 78 `"78"', add
+label define ss08a_age_lbl 79 `"79"', add
+label define ss08a_age_lbl 80 `"80"', add
+label define ss08a_age_lbl 81 `"81"', add
+label define ss08a_age_lbl 82 `"82"', add
+label define ss08a_age_lbl 83 `"83"', add
+label define ss08a_age_lbl 84 `"84"', add
+label define ss08a_age_lbl 85 `"85"', add
+label define ss08a_age_lbl 86 `"86"', add
+label define ss08a_age_lbl 87 `"87"', add
+label define ss08a_age_lbl 88 `"88"', add
+label define ss08a_age_lbl 89 `"89"', add
+label define ss08a_age_lbl 90 `"90"', add
+label define ss08a_age_lbl 91 `"91"', add
+label define ss08a_age_lbl 92 `"92"', add
+label define ss08a_age_lbl 93 `"93"', add
+label define ss08a_age_lbl 94 `"94"', add
+label define ss08a_age_lbl 95 `"95+"', add
+label values ss08a_age ss08a_age_lbl
 
 label define ss08a_nation_lbl 1 `"Sudanese"'
 label define ss08a_nation_lbl 2 `"Ugandan"', add
