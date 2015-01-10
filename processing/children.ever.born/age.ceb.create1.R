@@ -3,14 +3,20 @@
 # countries where we need to derive it from more detailed variables)
 
 rm(list=ls())
-basepath <- getwd()
+#basepath <- getwd()
 setwd(basepath)
 
 # Source functions
 source("../Rfunctions2/getvariable.R")
 source("../Rfunctions2/getcodebook.R")
 
-# Get list of samples with ceb ("chborn")
+# Get list of age.ceb tables
+samples <- dir("../../samples/")
+x <- NULL  # Will be age.ceb table samples
+
+
+
+samples with ceb ("chborn")
 x <- readRDS("../../metadata/variableindex.rds")
 rs <- "chborn" == x[, "vname"]
 y <- x[rs, ]

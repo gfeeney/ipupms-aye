@@ -3116,7 +3116,7 @@ label define ug02a_chdead_lbl 09 `"9"', add
 label define ug02a_chdead_lbl 10 `"10"', add
 label define ug02a_chdead_lbl 11 `"11"', add
 label define ug02a_chdead_lbl 12 `"12+"', add
-label define ug02a_chdead_lbl 99 `"NIU (not in universe)"', add
+label define ug02a_chdead_lbl 99 `"Unknown"', add
 label values ug02a_chdead ug02a_chdead_lbl
 
 label define ug02a_mothlivu_lbl 1 `"Yes"'
