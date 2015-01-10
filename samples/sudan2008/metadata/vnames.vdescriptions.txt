@@ -1,206 +1,206 @@
-           vname                                                      vdescription
-1          cntry                                                           Country
-2           year                                                              Year
-3         sample                                           IPUMS sample identifier
-4         serial                                           Household serial number
-5      sd08dwnum                                                   Dwelling number
-6       sd08pern                                    Number of persons in household
-7       sd08fbig Dwelling created by splitting apart a large dwelling or household
-8     sd08region                                                            Region
-9      sd08state                                                             State
-10    sd08county                                                            County
-11     sd08urban                                                 Urban/rural/nomad
-12    sd08hhtype                                                 Type of household
-13    sd08dwtype                                                  Type of dwelling
-14    sd08bedrms                                          Number of sleeping rooms
-15   sd08ownrshp                                                     Tenure status
-16    sd08watsrc                                          Source of drinking water
-17  sd08lighting                                                Source of lighting
-18  sd08fuelcook                                                      Cooking fuel
-19    sd08toilet                                                 Toilet facilities
-20   sd08vehicle                                                     Motor vehicle
-21   sd08motocyc                                                        Motorcycle
-22   sd08bicycle                                                           Bicycle
-23      sd08boat                                                        Canoe/boat
-24  sd08animtran                                                  Animal transport
-25   sd08tractor                                                           Tractor
-26   sd08notrans                                                      No transport
-27        sd08tv                                                        Television
-28     sd08radio                                                             Radio
-29    sd08mobile                                                      Mobile phone
-30     sd08phone                                                       Fixed phone
-31  sd08computer                                                          Computer
-32  sd08refridge                                                      Refrigerator
-33    sd08satell                                                    Satellite dish
-34       sd08fan                                                               Fan
-35    sd08aircon                                                     Air cooler/AC
-36    sd08noamen                                            No household amenities
-37  sd08livehood                                              Source of livelihood
-38    sd08cultiv                                        Any cultivation/plantation
-39  sd08areacult                                    Area of cultivation/plantation
-40    sd08cereal                                                           Cereals
-41       sd08veg                                             Vegetables and melons
-42     sd08fruit                                                   Fruits and nuts
-43   sd08oilseed                                                     Oilseed crops
-44      sd08root                                              Root and tuber crops
-45     sd08spice                                          Beverage and spice crops
-46     sd08legum                                                  Leguminous crops
-47     sd08sugar                                                       Sugar crops
-48    sd08cotton                                                            Cotton
-49    sd08coffee                                                            Coffee
-50       sd08tea                                                               Tea
-51   sd08othcrop                                                        Other crop
-52   sd08landown                                             Tenure status of land
-53   sd08fishery                                                           Fishery
-54    sd08cattle                                                            Cattle
-55    sd08camels                                                            Camels
-56     sd08sheep                                                             Sheep
-57     sd08goats                                                             Goats
-58    sd08horses                                                            Horses
-59   sd08donkeys                                                           Donkeys
-60      sd08pigs                                                              Pigs
-61   sd08poultry                                                           Poultry
-62    sd08deaths                                          Deaths in last 12 months
-63   sd08qhhtype                                           Flag: type of household
-64   sd08qdwtype                                            Flag: type of dwelling
-65    sd08qrooms                                             Flag: number of rooms
-66  sd08qownrshp                                                      Flag: tenure
-67   sd08qwatsrc                                    Flag: source of drinking water
-68  sd08qlightng                                          Flag: source of lighting
-69   sd08qfuelck                                                Flag: cooking fuel
-70   sd08qtoilet                                           Flag: toilet facilities
-71  sd08qvehicle                                               Flag: motor vehicle
-72  sd08qmotocyc                                                  Flag: motorcycle
-73  sd08qbicycle                                                     Flag: bicycle
-74     sd08qboat                                                  Flag: canoe/boat
-75  sd08qanitran                                            Flag: animal transport
-76  sd08qtractor                                                     Flag: tractor
-77  sd08qnotrans                                                Flag: no transport
-78       sd08qtv                                                  Flag: television
-79    sd08qradio                                                       Flag: radio
-80   sd08qmobile                                                Flag: mobile phone
-81    sd08qphone                                                 Flag: fixed phone
-82  sd08qcomputr                                                    Flag: computer
-83  sd08qrefridg                                                Flag: refrigerator
-84   sd08qsatell                                              Flag: satellite dish
-85      sd08qfan                                                         Flag: fan
-86   sd08qaircon                                               Flag: air cooler/ac
-87   sd08qnoamen                                      Flag: no household amenities
-88  sd08qlivehod                                        Flag: source of livelihood
-89   sd08qcultiv                                  Flag: any cultivation/plantation
-90  sd08qareacul                              Flag: area of cultivation/plantation
-91   sd08qcereal                                                     Flag: cereals
-92      sd08qveg                                                  Flag: vegetables
-93    sd08qfruit                                             Flag: fruits and nuts
-94  sd08qoilseed                                                    Flag: oil seed
-95     sd08qroot                                        Flag: root and tuber crops
-96    sd08qspice                                              Flag: beverage/spice
-97    sd08qlegum                                            Flag: leguminous crops
-98    sd08qsugar                                                       Flag: sugar
-99   sd08qcotton                                                      Flag: cotton
-100  sd08qcoffee                                                      Flag: coffee
-101     sd08qtea                                                         Flag: tea
-102 sd08qothcrop                                                  Flag: other crop
-103 sd08qlandown                                       Flag: tenure status of land
-104 sd08qfishery                                                     Flag: fishery
-105  sd08qcattle                                                      Flag: cattle
-106  sd08qcamels                                                      Flag: camels
-107   sd08qsheep                                                       Flag: sheep
-108   sd08qgoats                                                       Flag: goats
-109  sd08qhorses                                                      Flag: horses
-110    sd08qpigs                                                        Flag: pigs
-111 sd08qpoultry                                                     Flag: poultry
-112  sd08qdeaths                                    Flag: deaths in last 12 months
-113     sd08hhwt                                                    Housing weight
-114  sd08ndeaths                                           Number of death records
-115       pernum                                                     Person number
-116        wtper                                                     Person weight
-117   sd08pernum                                  Person number (within household)
-118   sd08relate                                                      Relationship
-119      sd08sex                                                               Sex
-120      sd08age                                                               Age
-121   sd08nation                                                       Nationality
-122 sd08reggroup                                                    Regional group
-123 sd08orregion                                                  Region of origin
-124 sd08bplstate                                                    State of birth
-125   sd08ustate                                          State of usual residence
-126   sd08durres                                             Duration of residence
-127 sd08migstate                                     Previous residence 1 year ago
-128 sd08fathlive                                                 Father's survival
-129   sd08limleg                                             Limited use of leg(s)
-130   sd08limarm                                             Limited use of arm(s)
-131  sd08lossarm                                                    Loss of arm(s)
-132 sd08diffhear                                             Difficulty in hearing
-133     sd08deaf                                                              Deaf
-134  sd08diffsee                                                 Difficulty seeing
-135    sd08blind                                                             Blind
-136  sd08diffspk                                            Difficulty in speaking
-137     sd08mute                                                              Mute
-138 sd08diffment                                                 Mental difficulty
-139    sd08disab                                                   Have disability
-140   sd08school                                                 School attendence
-141   sd08attend                                            School level attending
-142 sd08edattain                                              Education attainment
-143  sd08empstat                                                   Activity status
-144   sd08reason                                    Reason for economic inactivity
-145      sd08occ                                                        Occupation
-146    sd08marst                                                    Marital status
-147  sd08chbornf                                                 Females ever born
-148  sd08homemal                                             Male children at home
-149  sd08homefem                                           Female children at home
-150  sd08awaymal                                    Male children living elsewhere
-151  sd08awayfem                                  Female children living elsewhere
-152  sd08deadmal                                            Male children deceased
-153  sd08deadfem                                          Female children deceased
-154   sd08births                                         Any births last 12 months
-155  sd08birthsm                                         Males born last 12 months
-156  sd08birthsf                                       Females born last 12 months
-157  sd08livbthm                               Males born last 12 months surviving
-158  sd08livbthf                             Females born last 12 months surviving
-159     sd08qage                                                         Flag: Age
-160  sd08qreggrp                                              Flag: Regional group
-161   sd08qorreg                                            Flag: Region of origin
-162 sd08qbplstat                                              Flag: State of birth
-163  sd08qustate                                    Flag: State of usual residence
-164  sd08qdurres                                       Flag: Duration of residence
-165 sd08qmigstat                                 Flag: State of previous residence
-166 sd08qmothliv                                           Flag: Mother's survival
-167 sd08qfathliv                                           Flag: Father's survival
-168 sd08qlossleg                                              Flag: Loss of leg(s)
-169 sd08qlossarm                                              Flag: Loss of arm(s)
-170    sd08qdeaf                                                        Flag: Deaf
-171   sd08qblind                                                       Flag: Blind
-172    sd08qmute                                                        Flag: Mute
-173     sd08qlit                                                    Flag: Literacy
-174  sd08qattend                            Flag: School level currently attending
-175 sd08qedattan                                        Flag: Education attainment
-176 sd08qempstat                                             Flag: Activity status
-177  sd08qreason                              Flag: Reason for economic inactivity
-178     sd08qocc                                                  Flag: Occupation
-179     sd08qind                                             Flag: Economic sector
-180 sd08qclasswk                                           Flag: Employment status
-181   sd08qmarst                                              Flag: Marital status
-182 sd08qagemarr                                       Flag: Age at first marriage
-183 sd08qchbornm                                             Flag: Males ever born
-184 sd08qchbornf                                           Flag: Females ever born
-185 sd08qhomemal                                       Flag: Male children at home
-186 sd08qawaymal                              Flag: Male children living elsewhere
-187 sd08qawayfem                            Flag: Female children living elsewhere
-188 sd08qdeadmal                                      Flag: Male children deceased
-189 sd08qdeadfem                                    Flag: Female children deceased
-190  sd08qbirths                                   Flag: Any births last 12 months
-191 sd08qbirthsm                                   Flag: Males born last 12 months
-192 sd08qbirthsf                                 Flag: Females born last 12 months
-193 sd08qlivbthm                           Flag: Males born last 12 months (alive)
-194 sd08qlivbthf                         Flag: Females born last 12 months (alive)
-195    sd08perwt                                                     Person weight
-196   sd08chhome                                      Children living in household
-197   sd08chaway                                         Children living elsewhere
-198   sd08chdead                                            Children who have died
-199   sd08chborn                                                Children ever born
-200   sd08chsurv                                                Children surviving
-201  sd08chsurvm                                           Male children surviving
-202  sd08chsurvf                                         Female children surviving
-203 sd08bthlstyr                                           Children born last year
-204 sd08srvlstyr                                 Children born last year surviving
-205  sd08parlive                                          Parents mortality status
+       vname                                                      vdescription
+1      cntry                                                           Country
+2       year                                                              Year
+3     sample                                           IPUMS sample identifier
+4     serial                                           Household serial number
+5      dwnum                                                   Dwelling number
+6       pern                                    Number of persons in household
+7       fbig Dwelling created by splitting apart a large dwelling or household
+8     region                                                            Region
+9      state                                                             State
+10    county                                                            County
+11     urban                                                 Urban/rural/nomad
+12    hhtype                                                 Type of household
+13    dwtype                                                  Type of dwelling
+14    bedrms                                          Number of sleeping rooms
+15   ownrshp                                                     Tenure status
+16    watsrc                                          Source of drinking water
+17  lighting                                                Source of lighting
+18  fuelcook                                                      Cooking fuel
+19    toilet                                                 Toilet facilities
+20   vehicle                                                     Motor vehicle
+21   motocyc                                                        Motorcycle
+22   bicycle                                                           Bicycle
+23      boat                                                        Canoe/boat
+24  animtran                                                  Animal transport
+25   tractor                                                           Tractor
+26   notrans                                                      No transport
+27        tv                                                        Television
+28     radio                                                             Radio
+29    mobile                                                      Mobile phone
+30     phone                                                       Fixed phone
+31  computer                                                          Computer
+32  refridge                                                      Refrigerator
+33    satell                                                    Satellite dish
+34       fan                                                               Fan
+35    aircon                                                     Air cooler/AC
+36    noamen                                            No household amenities
+37  livehood                                              Source of livelihood
+38    cultiv                                        Any cultivation/plantation
+39  areacult                                    Area of cultivation/plantation
+40    cereal                                                           Cereals
+41       veg                                             Vegetables and melons
+42     fruit                                                   Fruits and nuts
+43   oilseed                                                     Oilseed crops
+44      root                                              Root and tuber crops
+45     spice                                          Beverage and spice crops
+46     legum                                                  Leguminous crops
+47     sugar                                                       Sugar crops
+48    cotton                                                            Cotton
+49    coffee                                                            Coffee
+50       tea                                                               Tea
+51   othcrop                                                        Other crop
+52   landown                                             Tenure status of land
+53   fishery                                                           Fishery
+54    cattle                                                            Cattle
+55    camels                                                            Camels
+56     sheep                                                             Sheep
+57     goats                                                             Goats
+58    horses                                                            Horses
+59   donkeys                                                           Donkeys
+60      pigs                                                              Pigs
+61   poultry                                                           Poultry
+62    deaths                                          Deaths in last 12 months
+63   qhhtype                                           Flag: type of household
+64   qdwtype                                            Flag: type of dwelling
+65    qrooms                                             Flag: number of rooms
+66  qownrshp                                                      Flag: tenure
+67   qwatsrc                                    Flag: source of drinking water
+68  qlightng                                          Flag: source of lighting
+69   qfuelck                                                Flag: cooking fuel
+70   qtoilet                                           Flag: toilet facilities
+71  qvehicle                                               Flag: motor vehicle
+72  qmotocyc                                                  Flag: motorcycle
+73  qbicycle                                                     Flag: bicycle
+74     qboat                                                  Flag: canoe/boat
+75  qanitran                                            Flag: animal transport
+76  qtractor                                                     Flag: tractor
+77  qnotrans                                                Flag: no transport
+78       qtv                                                  Flag: television
+79    qradio                                                       Flag: radio
+80   qmobile                                                Flag: mobile phone
+81    qphone                                                 Flag: fixed phone
+82  qcomputr                                                    Flag: computer
+83  qrefridg                                                Flag: refrigerator
+84   qsatell                                              Flag: satellite dish
+85      qfan                                                         Flag: fan
+86   qaircon                                               Flag: air cooler/ac
+87   qnoamen                                      Flag: no household amenities
+88  qlivehod                                        Flag: source of livelihood
+89   qcultiv                                  Flag: any cultivation/plantation
+90  qareacul                              Flag: area of cultivation/plantation
+91   qcereal                                                     Flag: cereals
+92      qveg                                                  Flag: vegetables
+93    qfruit                                             Flag: fruits and nuts
+94  qoilseed                                                    Flag: oil seed
+95     qroot                                        Flag: root and tuber crops
+96    qspice                                              Flag: beverage/spice
+97    qlegum                                            Flag: leguminous crops
+98    qsugar                                                       Flag: sugar
+99   qcotton                                                      Flag: cotton
+100  qcoffee                                                      Flag: coffee
+101     qtea                                                         Flag: tea
+102 qothcrop                                                  Flag: other crop
+103 qlandown                                       Flag: tenure status of land
+104 qfishery                                                     Flag: fishery
+105  qcattle                                                      Flag: cattle
+106  qcamels                                                      Flag: camels
+107   qsheep                                                       Flag: sheep
+108   qgoats                                                       Flag: goats
+109  qhorses                                                      Flag: horses
+110    qpigs                                                        Flag: pigs
+111 qpoultry                                                     Flag: poultry
+112  qdeaths                                    Flag: deaths in last 12 months
+113     hhwt                                                    Housing weight
+114  ndeaths                                           Number of death records
+115   pernum                                                     Person number
+116    wtper                                                     Person weight
+117   pernum                                  Person number (within household)
+118   relate                                                      Relationship
+119      sex                                                               Sex
+120      age                                                               Age
+121   nation                                                       Nationality
+122 reggroup                                                    Regional group
+123 orregion                                                  Region of origin
+124 bplstate                                                    State of birth
+125   ustate                                          State of usual residence
+126   durres                                             Duration of residence
+127 migstate                                     Previous residence 1 year ago
+128 fathlive                                                 Father's survival
+129   limleg                                             Limited use of leg(s)
+130   limarm                                             Limited use of arm(s)
+131  lossarm                                                    Loss of arm(s)
+132 diffhear                                             Difficulty in hearing
+133     deaf                                                              Deaf
+134  diffsee                                                 Difficulty seeing
+135    blind                                                             Blind
+136  diffspk                                            Difficulty in speaking
+137     mute                                                              Mute
+138 diffment                                                 Mental difficulty
+139    disab                                                   Have disability
+140   school                                                 School attendence
+141   attend                                            School level attending
+142 edattain                                              Education attainment
+143  empstat                                                   Activity status
+144   reason                                    Reason for economic inactivity
+145      occ                                                        Occupation
+146    marst                                                    Marital status
+147  chbornf                                                 Females ever born
+148  homemal                                             Male children at home
+149  homefem                                           Female children at home
+150  awaymal                                    Male children living elsewhere
+151  awayfem                                  Female children living elsewhere
+152  deadmal                                            Male children deceased
+153  deadfem                                          Female children deceased
+154   births                                         Any births last 12 months
+155  birthsm                                         Males born last 12 months
+156  birthsf                                       Females born last 12 months
+157  livbthm                               Males born last 12 months surviving
+158  livbthf                             Females born last 12 months surviving
+159     qage                                                         Flag: Age
+160  qreggrp                                              Flag: Regional group
+161   qorreg                                            Flag: Region of origin
+162 qbplstat                                              Flag: State of birth
+163  qustate                                    Flag: State of usual residence
+164  qdurres                                       Flag: Duration of residence
+165 qmigstat                                 Flag: State of previous residence
+166 qmothliv                                           Flag: Mother's survival
+167 qfathliv                                           Flag: Father's survival
+168 qlossleg                                              Flag: Loss of leg(s)
+169 qlossarm                                              Flag: Loss of arm(s)
+170    qdeaf                                                        Flag: Deaf
+171   qblind                                                       Flag: Blind
+172    qmute                                                        Flag: Mute
+173     qlit                                                    Flag: Literacy
+174  qattend                            Flag: School level currently attending
+175 qedattan                                        Flag: Education attainment
+176 qempstat                                             Flag: Activity status
+177  qreason                              Flag: Reason for economic inactivity
+178     qocc                                                  Flag: Occupation
+179     qind                                             Flag: Economic sector
+180 qclasswk                                           Flag: Employment status
+181   qmarst                                              Flag: Marital status
+182 qagemarr                                       Flag: Age at first marriage
+183 qchbornm                                             Flag: Males ever born
+184 qchbornf                                           Flag: Females ever born
+185 qhomemal                                       Flag: Male children at home
+186 qawaymal                              Flag: Male children living elsewhere
+187 qawayfem                            Flag: Female children living elsewhere
+188 qdeadmal                                      Flag: Male children deceased
+189 qdeadfem                                    Flag: Female children deceased
+190  qbirths                                   Flag: Any births last 12 months
+191 qbirthsm                                   Flag: Males born last 12 months
+192 qbirthsf                                 Flag: Females born last 12 months
+193 qlivbthm                           Flag: Males born last 12 months (alive)
+194 qlivbthf                         Flag: Females born last 12 months (alive)
+195    perwt                                                     Person weight
+196   chhome                                      Children living in household
+197   chaway                                         Children living elsewhere
+198   chdead                                            Children who have died
+199   chborn                                                Children ever born
+200   chsurv                                                Children surviving
+201  chsurvm                                           Male children surviving
+202  chsurvf                                         Female children surviving
+203 bthlstyr                                           Children born last year
+204 srvlstyr                                 Children born last year surviving
+205  parlive                                          Parents mortality status

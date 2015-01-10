@@ -2,7 +2,7 @@
 # Vectorize data file
 echo "Begin vectorizing: " `date`
 gunzip -c source/ipumsi_00109.dat.gz > data.dat
-sha1sum data.dat > source/ipumsi_00109.dat.gz.sha1
+sha1sum data.dat > source/ipumsi_00.sha1
 mkdir data
 cut -c1-3 data.dat | gzip -c - > data/cntry.gz
 cut -c4-7 data.dat | gzip -c - > data/year.gz

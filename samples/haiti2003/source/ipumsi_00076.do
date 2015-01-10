@@ -1691,7 +1691,7 @@ label define ht03a_mentalill_lbl 8 `"Unknown"', add
 label define ht03a_mentalill_lbl 9 `"NIU (not in universe)"', add
 label values ht03a_mentalill ht03a_mentalill_lbl
 
-label define ht03a_othdisab_lbl 0 `"Other disabilities, excluding those in "other disabilities""'
+label define ht03a_othdisab_lbl 0 `"Other disabilities, excluding those in <other disabilities>"'
 label define ht03a_othdisab_lbl 1 `"Other"', add
 label define ht03a_othdisab_lbl 8 `"Unknown"', add
 label define ht03a_othdisab_lbl 9 `"NIU (not in universe)"', add
@@ -1922,7 +1922,7 @@ label values ht03a_tylitcent ht03a_tylitcent_lbl
 label define ht03a_marst_lbl 1 `"Single"'
 label define ht03a_marst_lbl 2 `"Married"', add
 label define ht03a_marst_lbl 3 `"Placed"', add
-label define ht03a_marst_lbl 4 `"In "visiting" union (viv avek)"', add
+label define ht03a_marst_lbl 4 `"In <visiting> union (viv avek)"', add
 label define ht03a_marst_lbl 5 `"Divorced"', add
 label define ht03a_marst_lbl 6 `"Widowed"', add
 label define ht03a_marst_lbl 7 `"Separated from marriage"', add

@@ -1089,12 +1089,12 @@ label define pt01a_momloc_lbl 12 `"12"', add
 label define pt01a_momloc_lbl 14 `"14"', add
 label values pt01a_momloc pt01a_momloc_lbl
 
-label define pt01a_famtype_lbl 11 `"Couple "de jure" without children"'
-label define pt01a_famtype_lbl 12 `"Couple "de jure" with single children, with at least one younger than 25 years old"', add
-label define pt01a_famtype_lbl 13 `"Couple "de jure" with single children, where the youngest is at least 25 years old"', add
-label define pt01a_famtype_lbl 21 `"Couple "de facto" without children"', add
-label define pt01a_famtype_lbl 22 `"Couple "de facto" with single children, with at least one younger than 25 years old"', add
-label define pt01a_famtype_lbl 23 `"Couple "de facto" with single children, where the youngest is at least 25 years old"', add
+label define pt01a_famtype_lbl 11 `"Couple <de jure> without children"'
+label define pt01a_famtype_lbl 12 `"Couple <de jure> with single children, with at least one younger than 25 years old"', add
+label define pt01a_famtype_lbl 13 `"Couple <de jure> with single children, where the youngest is at least 25 years old"', add
+label define pt01a_famtype_lbl 21 `"Couple <de facto> without children"', add
+label define pt01a_famtype_lbl 22 `"Couple <de facto> with single children, with at least one younger than 25 years old"', add
+label define pt01a_famtype_lbl 23 `"Couple <de facto> with single children, where the youngest is at least 25 years old"', add
 label define pt01a_famtype_lbl 31 `"Father, with at least one not married child younger than 25 years old"', add
 label define pt01a_famtype_lbl 32 `"Father, with not married children, where the youngest is at least 25 years old"', add
 label define pt01a_famtype_lbl 41 `"Mother, with at least one not married child younger than 25 years old"', add

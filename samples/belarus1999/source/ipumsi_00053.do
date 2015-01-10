@@ -6249,7 +6249,7 @@ label values by99a_startnow by99a_startnow_lbl
 label define by99a_unemp_lbl 1 `"Yes"'
 label define by99a_unemp_lbl 2 `"No"', add
 label define by99a_unemp_lbl 8 `"Not specified"', add
-label define by99a_unemp_lbl 9 `"NA"', add
+label define by99a_unemp_lbl 9 `"Unknown"', add
 label values by99a_unemp by99a_unemp_lbl
 
 label define by99a_whynot_lbl 1 `"Has got a job and will start working in the nearest 2 weeks"'
