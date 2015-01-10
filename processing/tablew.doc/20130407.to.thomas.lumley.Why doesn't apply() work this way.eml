@@ -1,0 +1,99 @@
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Received: by 10.223.160.139 with HTTP; Sun, 7 Apr 2013 01:40:09 -0700 (PDT)
+Subject: Why doesn't apply() work this way?
+From: "Griffith Feeney" <feeney@gfeeney.com>
+Date: Sun, 07 Apr 2013 04:40:09 -0400
+To: "Thomas Lumley" <t.lumley@auckland.ac.nz>
+Message-ID: <CAK2XK1JN7FhBdNbyeq8AvK5ZZN+EsExP50ZbGZHELwFUtuLjbg@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=20cf3054a53593cf6504d9c144b7
+Delivered-To: griffithfeeney@gmail.com
+X-Converted-By: Emailchemy 12.0 Personal Edition; licensedTo="Griffith Feeney"
+
+--20cf3054a53593cf6504d9c144b7
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello Thomas,
+
+I've been wondering why apply() doesn't work this way.
+
+apply2dim <- function(x, dname, FUN, ...) {
+  ndnx <- names(dimnames(x))
+  y <- apply(x, setdiff(ndnx, dname), FUN=FUN, ...)
+  names(dimnames(y))[1] <- dname
+  aperm(y,ndnx)
+}
+
+Otherwise put, apply() takes as its second argument the dimensions to which
+FUN is *not* applied and permutes the dimensions of the array so that the
+dimension to which FUN is applied comes first. Why not specify instead the
+dimension to which FUN *is* applied and leave the order of the dimensions
+unchanged?
+
+Even for 2-dimensional arrays and FUN producing a scalar result, this makes
+the syntax easier for me to follow (because I came from APL?). For higher
+dimensional arrays and FUN producing a vector result, it seems to me much
+simpler.
+
+Looked for an author of apply() to address this question to, but couldn't
+identify anyone. I repeat myself, but your rowsum() suggestion of last year
+continues to be invaluable to me. Thanks again!
+
+Griff
+
+
+-- 
+Griffith Feeney Ph.D.
+Demography - Statistics - IT
+Scarsdale, New York
+Land +1 914 725 2218
+Skype gfeeney
+Email feeney@gfeeney.com <feeney@demographer.com>
+Web   gfeeney.com - demographer.com
+
+--20cf3054a53593cf6504d9c144b7
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div><font><font face=3D"courier new,monospace">Hello Thomas,</font></font>=
+</div><div><font><font face=3D"courier new,monospace"><br></font></font></d=
+iv><div><font face=3D"courier new, monospace">I&#39;ve been wondering why a=
+pply() doesn&#39;t work this way.</font></div>
+<div><font face=3D"courier new, monospace"><br></font></div><div><font face=
+=3D"courier new, monospace"><div>apply2dim &lt;- function(x, dname, FUN, ..=
+.) {</div><div>=A0 ndnx &lt;- names(dimnames(x))</div><div>=A0 y &lt;- appl=
+y(x, setdiff(ndnx, dname), FUN=3DFUN, ...)</div>
+<div>=A0 names(dimnames(y))[1] &lt;- dname</div><div>=A0 aperm(y,ndnx)</div=
+><div>}</div><div><br></div><div>Otherwise put, apply() takes as its second=
+ argument the dimensions to which FUN is *not* applied and permutes the dim=
+ensions of the array so that the dimension to which FUN is applied comes fi=
+rst. Why not specify instead the dimension to which FUN *is* applied and le=
+ave the order of the dimensions unchanged?</div>
+<div><br></div><div>Even for 2-dimensional arrays and FUN producing a scala=
+r result, this makes the syntax easier for me to follow (because I came fro=
+m APL?). For higher dimensional arrays and FUN producing a vector result, i=
+t seems to me much simpler.</div>
+<div><br></div><div>Looked for an author of apply() to address this questio=
+n to, but couldn&#39;t identify anyone. I repeat myself, but your rowsum() =
+suggestion of last year continues to be invaluable to me. Thanks again!</di=
+v>
+<div><br></div><div>Griff</div></font></div><font><font face=3D"courier new=
+,monospace"><div><br></div></font></font><div><br></div>-- <br><div><font f=
+ace=3D"courier new, monospace">Griffith Feeney Ph.D.</font></div><div><font=
+ face=3D"courier new, monospace">Demography - Statistics - IT</font></div>
+<div><font face=3D"courier new, monospace">Scarsdale, New York</font></div>=
+<div><font face=3D"courier new, monospace">Land +1 914 725 2218</font></div=
+><div><font face=3D"courier new, monospace">Skype gfeeney</font></div><div>=
+<font face=3D"courier new, monospace">Email=A0<a href=3D"mailto:feeney@demo=
+grapher.com" target=3D"_blank">feeney@gfeeney.com</a></font></div>
+<div><font face=3D"courier new, monospace">Web =A0=A0</font><a href=3D"http=
+://gfeeney.com/" style=3D"font-family:&#39;courier new&#39;,monospace" targ=
+et=3D"_blank">gfeeney.com</a><span style=3D"font-family:&#39;courier new&#3=
+9;,monospace">=A0-=A0</span><a href=3D"http://demographer.com/" style=3D"fo=
+nt-family:&#39;courier new&#39;,monospace" target=3D"_blank">demographer.co=
+m</a></div>
+
+
+--20cf3054a53593cf6504d9c144b7--
+

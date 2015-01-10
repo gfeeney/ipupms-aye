@@ -4,8 +4,9 @@
 # Set working directory to directory for sample (this is automatic if R is
 # started by double-clicking the script in the sample directory)
 
-rm(list=ls())
 # Reset wd: setwd("C:/Users/gfeeney/Desktop/ipums.aye/processing/Rfunctions1")
+
+rm(list=ls())
 
 # Source functions
 source("codebook.create.R")
@@ -15,7 +16,7 @@ source("record.layout.create.R")
 source("status.R")
 source("vectorization.script.create.R")
 source("vnames.vdescriptions.create.R")
-code.year.name <- readRDS("../../metadata/code.name.year.rds")
+code.name.year <- readRDS("../../metadata/code.name.year.rds")
 
 # Setup for loop through all samples
 setwd("../../samples/")
@@ -41,8 +42,6 @@ samplenames <- dir()
 # colombia2005
 #   Problem: label define co05a_pape05_lbl 2 `"""', add
 #  Solution: Replace middle " by [missing name GF]
-
-
 # haiti2003
 #  Problem: label define ht03a_othdisab_lbl 0 `"Other disabilities, excluding those in "other disabilities""'
 #  Problem: label define ht03a_marst_lbl 4 `"In "visiting" union (viv avek)"', add
@@ -54,7 +53,9 @@ samplenames <- dir()
 #  Problem: label define ug02a_chdead_lbl 99 `"NA"', add
 # Solution: Replay 'NA' by "Unknown"
 
-# Loop through all samples i <- 1
+samplenames <- setdiff(samplenames, c("south_sudan2008", "uganda2002"))
+
+# Loop through all samples i <- 1  # i <- 66
 for (i in 1:length(samplenames)) {
   samplename <- samplenames[i]
   cat(paste(formatC(i, width=2, flag="0"), ": ", samplename, " ...\n", sep=""))
@@ -62,7 +63,7 @@ for (i in 1:length(samplenames)) {
   status(verbose=FALSE)
 
   # Get vnameprefix
-  x <- code.year.name
+  x <- code.name.year
   cnysamples <- tolower(paste(x[, "name"], x[, "year"], sep=""))
   cnysamples <- sub(" ", "_", cnysamples)
   rs <- (1:length(cnysamples))[samplename == cnysamples]

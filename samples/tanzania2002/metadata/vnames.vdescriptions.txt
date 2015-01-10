@@ -1,72 +1,72 @@
-            vname                                                      vdescription
-1           cntry                                                           Country
-2            year                                                              Year
-3          sample                                           IPUMS sample identifier
-4          serial                                           Household serial number
-5     tz02a_dwnum                                                   Dwelling number
-6      tz02a_pern                                    Number of persons in household
-7      tz02a_fbig Dwelling created by splitting apart a large dwelling or household
-8    tz02a_region                                                            Region
-9      tz02a_dist                                                          District
-10    tz02a_urban                                                             Urban
-11     tz02a_roof                                                      Type of roof
-12    tz02a_walls                                                     Type of walls
-13    tz02a_floor                                                     Type of floor
-14    tz02a_rooms                                 Number of rooms used for sleeping
-15 tz02a_fuelcook                                                Energy for cooking
-16 tz02a_lighting                                                  Energy for light
-17   tz02a_watsrc                                          Source of drinking water
-18   tz02a_toilet                                                    Type of toilet
-19    tz02a_radio                                                             Radio
-20    tz02a_phone                                                             Phone
-21  tz02a_bicycle                                                           Bicycle
-22 tz02a_whbarrow                                                       Wheelbarrow
-23     tz02a_iron                                                              Iron
-24      tz02a_hoe                                                               Hoe
-25 tz02a_electric                                                       Electricity
-26 tz02a_deathser                                                Death in household
-27 tz02a_deathsex                                Gender of first death in household
-28 tz02a_deathage                                   Age of first death in household
-29     tz02a_hhwt                                                  Household weight
-30  tz02a_collect                                                        Collective
-31         pernum                                                     Person number
-32          wtper                                                     Person weight
-33   tz02a_pernum                                  Person number (within household)
-34   tz02a_relate                                 Relationship to head of household
-35      tz02a_sex                                                               Sex
-36      tz02a_age                                                               Age
-37    tz02a_disab                                                        Disability
-38    tz02a_citiz                                                       Citizenship
-39    tz02a_marst                                                    Marital status
-40   tz02a_falive                                                      Father alive
-41   tz02a_malive                                                      Mother alive
-42      tz02a_bpl                                        Region or country of birth
-43    tz02a_resid                          Region or country of permanent residence
-44  tz02a_areares                                            Residence type of area
-45  tz02a_resid01                            Region or country of residence in 2001
-46   tz02a_area01                                    Residence type of area in 2001
-47      tz02a_lit                                                          Literacy
-48   tz02a_school                                                 School attendance
-49 tz02a_edattain                                            Educational attainment
-50  tz02a_activyr                           Economic activity in the last 12 months
-51  tz02a_activwk                                       Economic activity last week
-52 tz02a_classwkr                                              Status in employment
-53      tz02a_occ                                              Occupation last week
-54      tz02a_ind                                                Industry last week
-55 tz02a_mchildhh               Male children ever born and living in the household
-56 tz02a_fchildhh             Female children ever born and living in the household
-57  tz02a_mchaway                      Male children ever born and living elsewhere
-58  tz02a_mchdead                                                Male children dead
-59  tz02a_fchdead                                              Female children dead
-60  tz02a_mbirths                          Male children born in the last 12 months
-61  tz02a_fbirths                        Female children born in the last 12 months
-62   tz02a_chborn                                          Total children ever born
-63   tz02a_chsurv                                          Total children surviving
-64 tz02a_bthlstyr                                                  Births last year
-65   tz02a_mchhhu                              Male children in household, unedited
-66   tz02a_fchhhu                            Female children in household, unedited
-67 tz02a_mchawayu                               Male children living away, unedited
-68 tz02a_fchawayu                             Female children living away, unedited
-69 tz02a_mchdeadu                                      Male children dead, unedited
-70 tz02a_fchdeadu                                    Female children dead, unedited
-71    tz02a_perwt                                                     Person weight
+      vname                                                      vdescription
+1     cntry                                                           Country
+2      year                                                              Year
+3    sample                                           IPUMS sample identifier
+4    serial                                           Household serial number
+5     dwnum                                                   Dwelling number
+6      pern                                    Number of persons in household
+7      fbig Dwelling created by splitting apart a large dwelling or household
+8    region                                                            Region
+9      dist                                                          District
+10    urban                                                             Urban
+11     roof                                                      Type of roof
+12    walls                                                     Type of walls
+13    floor                                                     Type of floor
+14    rooms                                 Number of rooms used for sleeping
+15 fuelcook                                                Energy for cooking
+16 lighting                                                  Energy for light
+17   watsrc                                          Source of drinking water
+18   toilet                                                    Type of toilet
+19    radio                                                             Radio
+20    phone                                                             Phone
+21  bicycle                                                           Bicycle
+22 whbarrow                                                       Wheelbarrow
+23     iron                                                              Iron
+24      hoe                                                               Hoe
+25 electric                                                       Electricity
+26 deathser                                                Death in household
+27 deathsex                                Gender of first death in household
+28 deathage                                   Age of first death in household
+29     hhwt                                                  Household weight
+30  collect                                                        Collective
+31   pernum                                                     Person number
+32    wtper                                                     Person weight
+33   pernum                                  Person number (within household)
+34   relate                                 Relationship to head of household
+35      sex                                                               Sex
+36      age                                                               Age
+37    disab                                                        Disability
+38    citiz                                                       Citizenship
+39    marst                                                    Marital status
+40   falive                                                      Father alive
+41   malive                                                      Mother alive
+42      bpl                                        Region or country of birth
+43    resid                          Region or country of permanent residence
+44  areares                                            Residence type of area
+45  resid01                            Region or country of residence in 2001
+46   area01                                    Residence type of area in 2001
+47      lit                                                          Literacy
+48   school                                                 School attendance
+49 edattain                                            Educational attainment
+50  activyr                           Economic activity in the last 12 months
+51  activwk                                       Economic activity last week
+52 classwkr                                              Status in employment
+53      occ                                              Occupation last week
+54      ind                                                Industry last week
+55 mchildhh               Male children ever born and living in the household
+56 fchildhh             Female children ever born and living in the household
+57  mchaway                      Male children ever born and living elsewhere
+58  mchdead                                                Male children dead
+59  fchdead                                              Female children dead
+60  mbirths                          Male children born in the last 12 months
+61  fbirths                        Female children born in the last 12 months
+62   chborn                                          Total children ever born
+63   chsurv                                          Total children surviving
+64 bthlstyr                                                  Births last year
+65   mchhhu                              Male children in household, unedited
+66   fchhhu                            Female children in household, unedited
+67 mchawayu                               Male children living away, unedited
+68 fchawayu                             Female children living away, unedited
+69 mchdeadu                                      Male children dead, unedited
+70 fchdeadu                                    Female children dead, unedited
+71    perwt                                                     Person weight
