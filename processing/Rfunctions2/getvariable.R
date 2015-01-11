@@ -1,8 +1,8 @@
-getvariable <- function(vname, verbose=FALSE) {
-  if (!exists(vname, mode="character")) {
-    if (verbose == TRUE) {
-      cat("getvariable: Getting \"", vname, "\" ...\n", sep="")
-    }
+getvariable <- function(vname) {
+  need2read <- !(exists(vname, mode="character") | 
+                 exists(vname, mode="logical")   |
+                 exists(vname, mode="numeric")   )
+  if (need2read) {
     x <- readLines(paste("data/", vname, ".gz", sep=""))
     assign(vname, x, pos = .GlobalEnv)
   }
