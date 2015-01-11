@@ -53,7 +53,8 @@ samplenames <- dir()
 #  Problem: label define ug02a_chdead_lbl 99 `"NA"', add
 # Solution: Replay 'NA' by "Unknown"
 
-samplenames <- setdiff(samplenames, c("south_sudan2008", "uganda2002")) ; i <- 65
+samplenames <- setdiff(samplenames, c("south_sudan2008", "uganda2002"))
+i <- 65
 
 # Loop through all samples i <- 1  # i <- 65
 for (i in 1:length(samplenames)) {
@@ -92,7 +93,6 @@ for (i in 1:length(samplenames)) {
   
   # Create codebook and save to .rds and .txt
   codebook <- codebook.create(stata.do)
-  codebook <- codebook.edit(codebook)
   saveRDS(codebook, file="metadata/codebook.rds")
   sink("metadata/codebook.txt")
   print(codebook)

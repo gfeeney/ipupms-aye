@@ -4,11 +4,12 @@ codebook.create <- function(x) {
   line.first <- lines[1]
   line.last  <- lines[length(lines)]
   y <- x[line.first:line.last]
-  z <- read.table(textConnection(y),  stringsAsFactors=FALSE)[, 3:5]
+  z <- read.table(textConnection(y), colClasses="character", stringsAsFactors=FALSE)[, 3:5]
   colnames(z) <- c("vname", "code", "value")
   rs <- z[, "vname"] != "cntry" & z[, "vname"] != "year" & z[, "vname"] != "sample"
-  codebook  <- z[rs, ]
-  colnames(codebook) <- c("vname", "code", "value")
+  codebook <- z[rs, ]
+  codebook <- cbind(codebook, codebook[, "value"]) 
+  colnames(codebook) <- c("vname", "code", "short", "value")
   rownames(codebook) <- 1:dim(codebook)[1]
   codebook
 }

@@ -12,14 +12,34 @@ source("../../processing/Rfunctions2/getcodebook.R")
 source("../../processing/tablew/tablew.core.R")
 source("../../processing/tablew/getweights.R")
 cd("tanzania2002")
+wname <- "weight"
+getweights(wname)
+ls()
 
-wname <- "wtper"
-vnames <- "urban"
-vnames <- c("age", "sex")
+tablew.core(c("age", "sex"))
+age.sex
 
-getvariable("urban")
-getweights("wtper")  # wtper <- as.numeric(getvariable("wtper"))/100
-unique(wtper)
+x <- age.sex[, 1]
+
+getvariable("age")
+table(age)
+tablew.core("age")
+age.frq
+
+agegroup5 <- function(x) {
+  n <- ceiling(length(x)/5)
+  y <- rep(0, times=n)
+  for (i in 1 + 5*0:(n - 2)) {
+    print(i)
+    y[i] <- sum(x[i + 0:4])
+  }
+  y
+}
+
+agegroup5(x)
+
+
+
 
 table(urban)
 tablew.core("urban")
