@@ -1,56 +1,50 @@
 # Complete.count.check.script.R - GF - 09-Jan-2015
 
-rm(list=ls())  # setwd("../../processing/complete.count.check.R") getwd()
-source("../Rfunctions2/getvariable.R")
-source("../Rfunctions2/getcodebook.R")
-source("../tablew/tablew.core.R")
-
-samplename <- "tanzania2002"
-setwd(paste("../../samples/", samplename, "/", sep=""))
-x <- readRDS("metadata/vnames.vdescriptions.rds")
-
-# Fix variable name problem, prefixes are there
-vnameprefix <- "tz02a_"
-vnames <- dir("data")
-cs <- vnameprefix == substr(vnames, 1, 6)
-vnames <- vnames[cs]
-vnamesnew <- substr(vnames, 7, nchar(vnames))
-setwd("data")
-for (i in 1:length(vnames)) {
-  file.rename(vnames[i], vnamesnew[i])
+rm(list=ls())
+basedir <- "C:/Users/gfeeney/Desktop/ipums.aye/"
+setwd(paste(basedir, "processing/complete.count.checks/", sep=""))
+cd <- function(samplename) {
+  setwd(paste(basedir, "samples/", samplename, "/", sep=""))
+  cat(paste("Working directory is ", getwd(), sep=""))
 }
-setwd("../")
-x[cs, "vnames"] <- vnamesnew
-saveRDS(x, "metadata/vnames.vdescriptions.rds")
-x <- readRDS("metadata/vnames.vdescriptions.rds")
-x <- x[, 1:2]
-x[cs, "vname"] <- vnamesnew 
+source("../../processing/Rfunctions2/getvariable.R")
+source("../../processing/Rfunctions2/getcodebook.R")
+source("../../processing/tablew/tablew.core.R")
+source("../../processing/tablew/getweights.R")
+cd("tanzania2002")
 
-getwd()
+wname <- "wtper"
+vnames <- "urban"
+vnames <- c("age", "sex")
 
+getvariable("urban")
+getweights("wtper")  # wtper <- as.numeric(getvariable("wtper"))/100
+unique(wtper)
 
-
-getvariable("tz02a_urban")
-ls()
-urban <- tz02a_urban
 table(urban)
-#       1       2 
-# 2250700 1482035 
-getcodebook("tz02a_urban")
-c(26500042, 7943561)
+tablew.core("urban")
+
+
 x <- matrix(0, nrow=2, ncol=2)
 colnames(x) <- c("Rural", "Urban")
 rownames(x) <- c("IPUMS-I", "Published")
-x[1, ] <- table(urban)
+x[1, ] <- tablew.core("urban")
 x[2, ] <- c(26500042, 7943561)
-
-x
-#              Rural   Urban
-# IPUMS-I    2250700 1482035
-# Published 26500042 7943561
+y <- cbind(x, apply(x, 1, FUN="sum"))
+colnames(y)[3] <- "Total"
+y[1, ]/y[2, ]
 
 
 
-getvariable("wtper")
-wtper[1:100]
-unique(wtper)
+rm(list=ls())
+getwd()
+wname <- "wtper"
+vnames <- "urban"
+getvariable("age")
+getvariable("sex")
+getvariable("urban")
+table(age)
+table(sex)
+table(urban)
+table(sex, urban)
+table(age, sex)
