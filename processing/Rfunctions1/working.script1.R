@@ -10,7 +10,6 @@ rm(list=ls())
 
 # Source functions
 source("codebook.create.R")
-source("codebook.edit.R")
 source("read.and.preprocess.stata.do.R")
 source("record.layout.create.R")
 source("status.R")
@@ -54,7 +53,7 @@ samplenames <- dir()
 # Solution: Replay 'NA' by "Unknown"
 
 samplenames <- setdiff(samplenames, c("south_sudan2008", "uganda2002"))
-i <- 65
+i <- 61
 
 # Loop through all samples i <- 1  # i <- 65
 for (i in 1:length(samplenames)) {

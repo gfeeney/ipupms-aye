@@ -1,197 +1,197 @@
-           vname                                                         vdescription
-1          cntry                                                              Country
-2           year                                                                 Year
-3         sample                                              IPUMS sample identifier
-4         serial                                              Household serial number
-5      za01dwnum                                                      Dwelling number
-6       za01pern                                       Number of persons in household
-7       za01fbig    Dwelling created by splitting apart a large dwelling or household
-8       za01dist                                                     District council
-9       za01prov                                                        Province code
-10    za01eatype                                           Enumeration area (EA) type
-11     za01urban                                     Urban-rural, 1996 classification
-12   za01density                                         Size and density of locality
-13   za01dwtype1                              Type of living quarters (comprehensive)
-14   za01dwtype2                                  Type of housing unit or institution
-15    za01dwmult                                               More than one dwelling
-16     za01rooms                                                      Number of rooms
-17   za01sharerm                                                     Sharing one room
-18     za01owner                                                        Tenure status
-19   za01watpipe                                                Access to piped water
-20    za01watsrc                                                      Source of water
-21    za01watacc                                                       Acess to water
-22    za01toilet                                              Type of toilet facility
-23    za01fuelck                                                     Fuel for cooking
-24    za01fuelht                                                     Fuel for heating
-25    za01fuellt                                                   Source of lighting
-26     za01radio                                                   Radio in household
-27        za01tv                                                           Television
-28  za01computer                                                             Computer
-29    za01refrig                                                         Refrigerator
-30     za01phone                                                            Telephone
-31      za01cell                                                           Cell phone
-32   za01phoneac                                                  Access to telephone
-33   za01phonety                                             Type of telephone access
-34   za01garbage                                                      Refuse disposal
-35     za01raceh                                 Majority race/ethnicity of household
-36      za01inch                                              Annual household income
-37      za01wthh                                                     Household weight
-38  za01qdwtype1                     Flag for type of living quarters (comprehensive)
-39  za01qdwtype2                         Flag for type of housing unit or institution
-40   za01qdwmult                                      Flag for more than one dwelling
-41    za01qrooms                                             Flag for number of rooms
-42  za01qsharerm                                            Flag for sharing one room
-43    za01qowner                                               Flag for tenure status
-44  za01qwatpipe                                       Flag for access to piped water
-45   za01qwatsrc                                             Flag for source of water
-46   za01qtoilet                                     Flag for type of toilet facility
-47   za01qfuelck                                            Flag for fuel for cooking
-48   za01qfuelht                                            Flag for fuel for heating
-49   za01qfuellt                                          Flag for source of lighting
-50    za01qradio                                          Flag for radio in household
-51       za01qtv                                                  Flag for television
-52  za01qcompute                                                    Flag for computer
-53   za01qrefrig                                                Flag for refrigerator
-54    za01qphone                                                   Flag for telephone
-55     za01qcell                                                  Flag for cell phone
-56  za01qphoneac                                         Flag for access to telephone
-57  za01qgarbage                                             Flag for refuse disposal
-58     za01mortn                            Number of mortality records in input data
-59        pernum                                                        Person number
-60         wtper                                                        Person weight
-61    za01pernum                                     Person number (within household)
-62  za01dwtype1p                              Type of living quarters (comprehensive)
-63   za01pernumo                                                        Person number
-64       za01bmo                                                       Month of birth
-65       za01byr                                                        Year of birth
-66       za01age                                                                  Age
-67       za01sex                                                                  Sex
-68    za01relate                                    Relationship to head of household
-69     za01marst                                                       Marital status
-70    za01sploco                                              Person number of spouse
-71      za01race                                                       Race/ethnicity
-72      za01lang                                                             Language
-73    za01relig1                                                             Religion
-74   za01religgr                                                   Religion (grouped)
-75   za01bornsaf                                                 Born in South Africa
-76   za01bplprov                                                    Province of birth
-77   za01bplctry                                                     Country of birth
-78  za01bplctry2                                           Country of birth (grouped)
-79     za01citiz                                                          Citizenship
-80   za01citizgr                                                Citizenship (grouped)
-81    za01uslres                                                    Usually live here
-82     za01moved                                  Living in same place five years ago
-83   za01yrmoved                                                           Year moved
-84   za01prvprov                                              Province five years ago
-85   za01dssight                                                   Disability - sight
-86    za01dshear                                                 Disability - hearing
-87    za01dscomm                                           Disability - communication
-88    za01dsphys                                                Disability - physical
-89   za01disment                                            Disability - intellectual
-90   za01disemot                                               Disability - emotional
-91     za01disab                                                   Type of disability
-92   za01mothliv                                                         Mother alive
-93   za01mothloc                                  Mother's person number in household
-94   za01fathliv                                                         Father alive
-95   za01fathloc                                  Father's person number in household
-96    za01school                                            Present school attendance
-97   za01schtype                                      Type of educational institution
-98   za01edattan                                                   Level of education
-99  za01edattan2                                         Level of education (grouped)
-100  za01edfield                                                   Field of education
-101  za01wrkweek                         Any work in the seven days before 10 October
-102 za01wrkreasn                                               Reason why not working
-103  za01wrkseek                                    Taking active steps to find a job
-104 za01wrkavail                                                         Availability
-105  za01empstat                              Employment status (official definition)
-106 za01empstat2                              Employment status (expanded definition)
-107 za01empstat3                                          Employment status (derived)
-108  za01classwk                                                      Class of worker
-109     za01ind1                                                    Industry, 1 digit
-110     za01ind3                                                    Industry, 3 digit
-111     za01occ1                                                  Occupation, 1 digit
-112     za01occ2                                                  Occupation, 2 digit
-113      za01occ                                                  Occupation, 3 digit
-114   za01hrswrk                     Hours worked during the 7 days before October 10
-115  za01wrkhere                  Place of work same as sub-place where usually lives
-116  za01wrkprov                                                     Province of work
-117   za01chborn                                                         Total births
-118  za01bornmal                                                          Male births
-119  za01bornfem                                                        Female births
-120   za01chsurv                                          Total children still living
-121  za01survmal                                           Male children still living
-122  za01survfem                                         Female children still living
-123    za01lstmo                                           Date of last birth - month
-124    za01lstyr                                            Date of last birth - year
-125  za01lsttime                                               Years since last birth
-126   za01lstage                                          Age of mother at last birth
-127   za01lstsex                                               Sex of last child born
-128  za01lstlive                                               Last child still alive
-129  za01travwrk                  Method of transportation to school or place of work
-130   za01income                                                      Income (annual)
-131 za01enumplac                    Place of enumeration and place of usual residence
-132 za01enumprov                                 Place of enumeration and birth place
-133   za01enum96                              Place of enumeration and 1996 residence
-134 za01bplcitiz                                       Place of birth and citizenship
-135   za01bplusl                          Place of birth and place of usual residence
-136 za01bplres96                        Place of birth and place of residence in 1996
-137 za01uslres96              Place of usual residence and place of residence in 1996
-138  za01bpl96en Place of birth, place of residence in 1996, and place of enumeration
-139    za01wtper                                                        Person weight
-140  za01qpernum                                               Flag for person number
-141  za01qbrthmo                                              Flag for month of birth
-142  za01qbrthyr                                               Flag for year of birth
-143     za01qage                                                         Flag for age
-144     za01qsex                                                         Flag for sex
-145  za01qrelate                           Flag for relationship to head of household
-146   za01qmarst                                              Flag for marital status
-147  za01qsploco                                     Flag for person number of spouse
-148    za01qrace                                              Flag for race/ethnicity
-149    za01qlang                                                    Flag for language
-150   za01qrelig                                                    Flag for religion
-151 za01qbornsaf                                        Flag for born in South Africa
-152 za01qbplprov                                           Flag for province of birth
-153 za01qbplctry                                            Flag for country of birth
-154   za01qcitiz                                                 Flag for citizenship
-155  za01quslres                                           Flag for usually live here
-156 za01quslprov                                 Flag for province of usual residence
-157 za01quslplac                                  Flag for usual residence main place
-158   za01qmoved                          Flag for living insame place five years ago
-159 za01qyrmoved                                                  Flag for year moved
-160 za01qprvprov                                     Flag for province five years ago
-161 za01qprvplac                           Flag for place of residence five years ago
-162 za01qdssight                                          Flag for disability - sight
-163  za01qdshear                                        Flag for disability - hearing
-164  za01qdscomm                                  Flag for disability - communication
-165  za01qdsphys                                       Flag for disability - physical
-166  za01qdsment                                   Flag for disability - intellectual
-167 za01qmothloc                         Flag for mother's person number in household
-168 za01qfathliv                                                Flag for father alive
-169 za01qfathloc                         Flag for father's person number in household
-170  za01qschool                                   Flag for present school attendance
-171 za01qschtype                             Flag for type of educational institution
-172 za01qedattan                                          Flag for level of education
-173 za01qedfield                                          Flag for field of education
-174 za01qwrkweek                Flag for any work in the seven days before 10 October
-175 za01qwrkreas                                      Flag for reason why not working
-176 za01qwrkseek                           Flag for taking active steps to find a job
-177 za01qwrkavai                                                Flag for availability
-178 za01qempstat                                           Flag for employment status
-179     za01qind                                                    Flag for industry
-180     za01qocc                                                  Flag for occupation
-181 za01qwrkhere         Flag for place of work same as sub-place where usually lives
-182 za01qwrkprov                                            Flag for province of work
-183 za01qwrkplac                                          Flag for main place of work
-184  za01qchborn                                                Flag for total births
-185 za01qbornmal                                                 Flag for male births
-186 za01qbornfem                                               Flag for female births
-187  za01qchsurv                                 Flag for total children still living
-188 za01qsurvmal                                  Flag for male children still living
-189 za01qsurvfem                                Flag for female children still living
-190  za01qlstday                                    Flag for date of last birth - day
-191   za01qlstmo                                  Flag for date of last birth - month
-192   za01qlstyr                                   Flag for date of last birth - year
-193  za01qlstsex                                      Flag for sex of last child born
-194  za01qlstliv                                      Flag for last child still alive
-195 za01qtravwrk                  Flag for method of transportation to school or work
-196  za01qincome                                             Flag for income (annual)
+       vname                                                         vdescription
+1      cntry                                                              Country
+2       year                                                                 Year
+3     sample                                              IPUMS sample identifier
+4     serial                                              Household serial number
+5      dwnum                                                      Dwelling number
+6       pern                                       Number of persons in household
+7       fbig    Dwelling created by splitting apart a large dwelling or household
+8       dist                                                     District council
+9       prov                                                        Province code
+10    eatype                                           Enumeration area (EA) type
+11     urban                                     Urban-rural, 1996 classification
+12   density                                         Size and density of locality
+13   dwtype1                              Type of living quarters (comprehensive)
+14   dwtype2                                  Type of housing unit or institution
+15    dwmult                                               More than one dwelling
+16     rooms                                                      Number of rooms
+17   sharerm                                                     Sharing one room
+18     owner                                                        Tenure status
+19   watpipe                                                Access to piped water
+20    watsrc                                                      Source of water
+21    watacc                                                       Acess to water
+22    toilet                                              Type of toilet facility
+23    fuelck                                                     Fuel for cooking
+24    fuelht                                                     Fuel for heating
+25    fuellt                                                   Source of lighting
+26     radio                                                   Radio in household
+27        tv                                                           Television
+28  computer                                                             Computer
+29    refrig                                                         Refrigerator
+30     phone                                                            Telephone
+31      cell                                                           Cell phone
+32   phoneac                                                  Access to telephone
+33   phonety                                             Type of telephone access
+34   garbage                                                      Refuse disposal
+35     raceh                                 Majority race/ethnicity of household
+36      inch                                              Annual household income
+37      wthh                                                     Household weight
+38  qdwtype1                     Flag for type of living quarters (comprehensive)
+39  qdwtype2                         Flag for type of housing unit or institution
+40   qdwmult                                      Flag for more than one dwelling
+41    qrooms                                             Flag for number of rooms
+42  qsharerm                                            Flag for sharing one room
+43    qowner                                               Flag for tenure status
+44  qwatpipe                                       Flag for access to piped water
+45   qwatsrc                                             Flag for source of water
+46   qtoilet                                     Flag for type of toilet facility
+47   qfuelck                                            Flag for fuel for cooking
+48   qfuelht                                            Flag for fuel for heating
+49   qfuellt                                          Flag for source of lighting
+50    qradio                                          Flag for radio in household
+51       qtv                                                  Flag for television
+52  qcompute                                                    Flag for computer
+53   qrefrig                                                Flag for refrigerator
+54    qphone                                                   Flag for telephone
+55     qcell                                                  Flag for cell phone
+56  qphoneac                                         Flag for access to telephone
+57  qgarbage                                             Flag for refuse disposal
+58     mortn                            Number of mortality records in input data
+59    pernum                                                        Person number
+60     wtper                                                        Person weight
+61    pernum                                     Person number (within household)
+62  dwtype1p                              Type of living quarters (comprehensive)
+63   pernumo                                                        Person number
+64       bmo                                                       Month of birth
+65       byr                                                        Year of birth
+66       age                                                                  Age
+67       sex                                                                  Sex
+68    relate                                    Relationship to head of household
+69     marst                                                       Marital status
+70    sploco                                              Person number of spouse
+71      race                                                       Race/ethnicity
+72      lang                                                             Language
+73    relig1                                                             Religion
+74   religgr                                                   Religion (grouped)
+75   bornsaf                                                 Born in South Africa
+76   bplprov                                                    Province of birth
+77   bplctry                                                     Country of birth
+78  bplctry2                                           Country of birth (grouped)
+79     citiz                                                          Citizenship
+80   citizgr                                                Citizenship (grouped)
+81    uslres                                                    Usually live here
+82     moved                                  Living in same place five years ago
+83   yrmoved                                                           Year moved
+84   prvprov                                              Province five years ago
+85   dssight                                                   Disability - sight
+86    dshear                                                 Disability - hearing
+87    dscomm                                           Disability - communication
+88    dsphys                                                Disability - physical
+89   disment                                            Disability - intellectual
+90   disemot                                               Disability - emotional
+91     disab                                                   Type of disability
+92   mothliv                                                         Mother alive
+93   mothloc                                  Mother's person number in household
+94   fathliv                                                         Father alive
+95   fathloc                                  Father's person number in household
+96    school                                            Present school attendance
+97   schtype                                      Type of educational institution
+98   edattan                                                   Level of education
+99  edattan2                                         Level of education (grouped)
+100  edfield                                                   Field of education
+101  wrkweek                         Any work in the seven days before 10 October
+102 wrkreasn                                               Reason why not working
+103  wrkseek                                    Taking active steps to find a job
+104 wrkavail                                                         Availability
+105  empstat                              Employment status (official definition)
+106 empstat2                              Employment status (expanded definition)
+107 empstat3                                          Employment status (derived)
+108  classwk                                                      Class of worker
+109     ind1                                                    Industry, 1 digit
+110     ind3                                                    Industry, 3 digit
+111     occ1                                                  Occupation, 1 digit
+112     occ2                                                  Occupation, 2 digit
+113      occ                                                  Occupation, 3 digit
+114   hrswrk                     Hours worked during the 7 days before October 10
+115  wrkhere                  Place of work same as sub-place where usually lives
+116  wrkprov                                                     Province of work
+117   chborn                                                         Total births
+118  bornmal                                                          Male births
+119  bornfem                                                        Female births
+120   chsurv                                          Total children still living
+121  survmal                                           Male children still living
+122  survfem                                         Female children still living
+123    lstmo                                           Date of last birth - month
+124    lstyr                                            Date of last birth - year
+125  lsttime                                               Years since last birth
+126   lstage                                          Age of mother at last birth
+127   lstsex                                               Sex of last child born
+128  lstlive                                               Last child still alive
+129  travwrk                  Method of transportation to school or place of work
+130   income                                                      Income (annual)
+131 enumplac                    Place of enumeration and place of usual residence
+132 enumprov                                 Place of enumeration and birth place
+133   enum96                              Place of enumeration and 1996 residence
+134 bplcitiz                                       Place of birth and citizenship
+135   bplusl                          Place of birth and place of usual residence
+136 bplres96                        Place of birth and place of residence in 1996
+137 uslres96              Place of usual residence and place of residence in 1996
+138  bpl96en Place of birth, place of residence in 1996, and place of enumeration
+139    wtper                                                        Person weight
+140  qpernum                                               Flag for person number
+141  qbrthmo                                              Flag for month of birth
+142  qbrthyr                                               Flag for year of birth
+143     qage                                                         Flag for age
+144     qsex                                                         Flag for sex
+145  qrelate                           Flag for relationship to head of household
+146   qmarst                                              Flag for marital status
+147  qsploco                                     Flag for person number of spouse
+148    qrace                                              Flag for race/ethnicity
+149    qlang                                                    Flag for language
+150   qrelig                                                    Flag for religion
+151 qbornsaf                                        Flag for born in South Africa
+152 qbplprov                                           Flag for province of birth
+153 qbplctry                                            Flag for country of birth
+154   qcitiz                                                 Flag for citizenship
+155  quslres                                           Flag for usually live here
+156 quslprov                                 Flag for province of usual residence
+157 quslplac                                  Flag for usual residence main place
+158   qmoved                          Flag for living insame place five years ago
+159 qyrmoved                                                  Flag for year moved
+160 qprvprov                                     Flag for province five years ago
+161 qprvplac                           Flag for place of residence five years ago
+162 qdssight                                          Flag for disability - sight
+163  qdshear                                        Flag for disability - hearing
+164  qdscomm                                  Flag for disability - communication
+165  qdsphys                                       Flag for disability - physical
+166  qdsment                                   Flag for disability - intellectual
+167 qmothloc                         Flag for mother's person number in household
+168 qfathliv                                                Flag for father alive
+169 qfathloc                         Flag for father's person number in household
+170  qschool                                   Flag for present school attendance
+171 qschtype                             Flag for type of educational institution
+172 qedattan                                          Flag for level of education
+173 qedfield                                          Flag for field of education
+174 qwrkweek                Flag for any work in the seven days before 10 October
+175 qwrkreas                                      Flag for reason why not working
+176 qwrkseek                           Flag for taking active steps to find a job
+177 qwrkavai                                                Flag for availability
+178 qempstat                                           Flag for employment status
+179     qind                                                    Flag for industry
+180     qocc                                                  Flag for occupation
+181 qwrkhere         Flag for place of work same as sub-place where usually lives
+182 qwrkprov                                            Flag for province of work
+183 qwrkplac                                          Flag for main place of work
+184  qchborn                                                Flag for total births
+185 qbornmal                                                 Flag for male births
+186 qbornfem                                               Flag for female births
+187  qchsurv                                 Flag for total children still living
+188 qsurvmal                                  Flag for male children still living
+189 qsurvfem                                Flag for female children still living
+190  qlstday                                    Flag for date of last birth - day
+191   qlstmo                                  Flag for date of last birth - month
+192   qlstyr                                   Flag for date of last birth - year
+193  qlstsex                                      Flag for sex of last child born
+194  qlstliv                                      Flag for last child still alive
+195 qtravwrk                  Flag for method of transportation to school or work
+196  qincome                                             Flag for income (annual)
