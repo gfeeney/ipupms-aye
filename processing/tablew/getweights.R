@@ -5,9 +5,6 @@ getweights <- function(wname, verbose=FALSE) {
   if (exists(wname, mode="numeric")) {
     x <- get(wname)
   } else {
-    if (verbose == TRUE) {
-      cat("getweights: Getting \"", wname, "\" ...\n", sep="")
-    }
     x <- readRDS(paste("data/", wname, ".rds", sep=""))
   }
   assign(wname, x, pos = .GlobalEnv)

@@ -4,7 +4,7 @@
 # Set working directory to directory for sample (this is automatic if R is
 # started by double-clicking the script in the sample directory)
 
-# Reset wd: setwd("C:/Users/gfeeney/Desktop/ipums.aye/processing/Rfunctions1")
+setwd("C:/Users/gfeeney/Desktop/ipums.aye/processing/Rfunctions1")
 
 rm(list=ls())
 
@@ -53,9 +53,9 @@ samplenames <- dir()
 #  Problem: label define ug02a_chdead_lbl 99 `"NA"', add
 # Solution: Replay 'NA' by "Unknown"
 
-samplenames <- setdiff(samplenames, c("south_sudan2008", "uganda2002"))
+samplenames <- setdiff(samplenames, c("south_sudan2008", "uganda2002")) ; i <- 65
 
-# Loop through all samples i <- 1  # i <- 66
+# Loop through all samples i <- 1  # i <- 65
 for (i in 1:length(samplenames)) {
   samplename <- samplenames[i]
   cat(paste(formatC(i, width=2, flag="0"), ": ", samplename, " ...\n", sep=""))
@@ -77,13 +77,14 @@ for (i in 1:length(samplenames)) {
   extract.number <- unique(z)
   
   # Read stata.do file, prepare 'metadata' subdirectory of sample directory
-  stata.do <- read.and.preprocess.stata.do(extract.number, vnameprefix)
+  filename <- paste("source/ipumsi_", extract.number, ".do", sep="")
+  stata.do <- read.and.preprocess.stata.do(filename, vnameprefix)
   if (!file.exists("metadata")) {
     dir.create("metadata")
   }
   
   # Create record.layout and save to .rds and .txt
-  record.layout <- record.layout.create(stata.do, vnnameprefix)
+  record.layout <- record.layout.create(stata.do)
   saveRDS(record.layout, file="metadata/record.layout.rds")
   sink("metadata/record.layout.txt")
   print(record.layout)

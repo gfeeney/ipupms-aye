@@ -1,4 +1,4 @@
-tablew.core <- function(vnames, wname="wtper", verbose=FALSE) {
+tablew.core <- function(vnames, wname="weight", verbose=FALSE) {
   # Input: Character vector of variables names, same of weightsname
   # Value: Tabualtion
   # Requires: variables and weights in workspace
@@ -47,5 +47,5 @@ tablew.core <- function(vnames, wname="wtper", verbose=FALSE) {
     tablename <- paste(tablename, ".frq", sep="")
   }
   assign(tablename, x, envir=globalenv())
-  cat(paste("tablew: \"", table.name, "\" created ...\n", sep=""))
+  cat(paste("tablew: \"", tablename, "\" created ...\n", sep=""))
 }
