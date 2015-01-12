@@ -1,4 +1,4 @@
-tablew.core <- function(vnames, wname="weight", verbose=FALSE) {
+tablew.core <- function(vnames, wname="weight") {
   # Input: Character vector of variables names, same of weightsname
   # Value: Tabualtion
   # Requires: variables and weights in workspace

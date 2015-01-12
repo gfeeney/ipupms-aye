@@ -18,16 +18,63 @@ getvariable("wtper")
 length(wtper)
 weights <- unique(wtper)
 length(weights)  # 88
-mean(as.numeric(weights))  # 1277.841
-weight <- as.numeric(wtper)/100
+mean(as.numeric(weights))
+weight <- as.numeric(wtper)/1000000
 saveRDS(weight, "data/weight.rds")
 weight <- readRDS("data/weight.rds")
+unique(weight)
+
 wname <- "weight"
 tablew.core("sex")
+sex.frq
+sum(sex.frq)  # 44,768,684
+# Cf. http://www.statssa.gov.za/census01/html/default.asp
+# 44,819,778
+44768684/44819778  # 0.99886 Sample includes collective dwellings.
+# Why the discrepancy? Shouldn't the numbers match morre closely? weights show
+# 7 digits. Experiment: Inflate weight by 44819778/44768684 and redo
+weight <- weight * 44819778/44768684
+unique(weight)
+
+tablew.core("sex")
+sex.frq
+sum(sex.frq)  # 44,819,778 Now we have an exact match
+
+# For this initial comparison, I'll use the weights that give a total that agrees
+# with the published total
+mean(weight)  # 12.03004
+
+# Prevalence of disability in South Africa (Census 2001), Report No. 03-02-44 (2001), 2005
+getcodebook("raceh")
+getvariable("disab")
+getvariable("sex")
+getvariable("raceh")
+tablew.core(c("disab", "raceh"))
+disab.raceh
+
+getvariable("dssight")
+getvariable("dshear")
+getvariable("dscomm")
+getvariable("dsphys")
+getvariable("disment")  # Inconsistent variable names
+getvariable("disemot")  # Inconsistent variable names
+disabled <- dssight == "1" | dshear == "1" | dscomm == "1" | dsphys == "1" | disment == "1" | disemot == "1"
+disabled <- as.character(as.numeric(disabled))
+tablew.core(c("raceh", "sex", "disabled"))
+x <- as.data.frame(raceh.sex.disabled[, , 1])
+library(XLConnect)
+wb <- loadWorkbook("../../processing/complete.count.checks/south_africa2001.disability.xls")
+#writeWorksheet(wb, x, sheet="south_africa2001", startRow=3, startCol=5, header=TRUE, rownames=0)
+saveWorkbook(wb)
+
+tablew.core(c("raceh", "sex"))
+raceh.sex
+x <- as.data.frame(raceh.sex)
+wb <- loadWorkbook("../../processing/complete.count.checks/south_africa2001.disability.xls")
+#writeWorksheet(wb, x, sheet="south_africa2001", startRow=20, startCol=5, header=TRUE, rownames=0)
+saveWorkbook(wb)
 
 
-tablew.core(c("age", "sex"))
-age.sex
 apply(age.sex, 2, FUN="agegroup5")
 
 table(urban)
@@ -43,17 +90,6 @@ y <- cbind(x, apply(x, 1, FUN="sum"))
 colnames(y)[3] <- "Total"
 y[1, ]/y[2, ]
 
+ls()
+getvariable("disabled")
 
-
-rm(list=ls())
-getwd()
-wname <- "wtper"
-vnames <- "urban"
-getvariable("age")
-getvariable("sex")
-getvariable("urban")
-table(age)
-table(sex)
-table(urban)
-table(sex, urban)
-table(age, sex)
