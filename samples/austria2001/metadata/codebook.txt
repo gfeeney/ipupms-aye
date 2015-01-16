@@ -1,13 +1,13 @@
         vname code                                                                                    short
-1        pern    1                                                                                        1
-2        pern    2                                                                                        2
-3        pern    3                                                                                        3
-4        pern    4                                                                                        4
-5        pern    5                                                                                        5
-6        pern    6                                                                                        6
-7        pern    7                                                                                        7
-8        pern    8                                                                                        8
-9        pern    9                                                                                        9
+1        pern   01                                                                                        1
+2        pern   02                                                                                        2
+3        pern   03                                                                                        3
+4        pern   04                                                                                        4
+5        pern   05                                                                                        5
+6        pern   06                                                                                        6
+7        pern   07                                                                                        7
+8        pern   08                                                                                        8
+9        pern   09                                                                                        9
 10       pern   10                                                                                       10
 11       pern   11                                                                                       11
 12       pern   12                                                                                       12
@@ -39,14 +39,14 @@
 38      d_num    3                                                                                        3
 39      d_num    4                                                                                        4
 40      d_num    5                                                                                        5
-41     region    1                                                       Mittelburgenland and Südburgenland
-42     region    2                                                                           Nordburgenland
-43     region    4                                                                  Mostviertel-Eisenwurzen
-44     region    5                                                                     Niederösterreich-Süd
-45     region    6                                                                             Sankt Pölten
-46     region    7                                                                              Waldviertel
-47     region    8                                                                              Weinviertel
-48     region    9                                                                   Wiener Umland-Nordteil
+41     region   01                                                       Mittelburgenland and Südburgenland
+42     region   02                                                                           Nordburgenland
+43     region   04                                                                  Mostviertel-Eisenwurzen
+44     region   05                                                                     Niederösterreich-Süd
+45     region   06                                                                             Sankt Pölten
+46     region   07                                                                              Waldviertel
+47     region   08                                                                              Weinviertel
+48     region   09                                                                   Wiener Umland-Nordteil
 49     region   10                                                                    Wiener Umland-Südteil
 50     region   11                                                                                     Wien
 51     region   12                                                                       Klagenfurt-Villach
@@ -91,39 +91,39 @@
 90      hhty4    5                                                                     One person household
 91      hhty4    6                                                        Non-family multi-person household
 92      hhty4    7                                           Institutional household/communal establishment
-93      hhty5    1                                                 Couple family, no child, no other person
-94      hhty5    2                                                   Couple family, no child, other persons
-95      hhty5    3                                                   Couple family with children, no others
-96      hhty5    4                                                 Couple family with children, with others
-97      hhty5    5                                                   Lone parent, male, children, no others
-98      hhty5    6                                                 Lone parent, male, children, with others
-99      hhty5    7                                                 Lone parent, female, children, no others
-100     hhty5    8                                               Lone parent, female, children, with others
-101     hhty5    9                                                         Households with 2+ family nuclei
+93      hhty5   01                                                 Couple family, no child, no other person
+94      hhty5   02                                                   Couple family, no child, other persons
+95      hhty5   03                                                   Couple family with children, no others
+96      hhty5   04                                                 Couple family with children, with others
+97      hhty5   05                                                   Lone parent, male, children, no others
+98      hhty5   06                                                 Lone parent, male, children, with others
+99      hhty5   07                                                 Lone parent, female, children, no others
+100     hhty5   08                                               Lone parent, female, children, with others
+101     hhty5   09                                                         Households with 2+ family nuclei
 102     hhty5   10                                                            Single person household, male
 103     hhty5   11                                                          Single person household, female
 104     hhty5   12                                                        Non-family multi-person household
 105     hhty5   13                                           Institutional household/communal establishment
-106     hhty6    1                                                          Married couple without children
-107     hhty6    2                                                             Married couple with children
-108     hhty6    3                                                       Cohabiting couple without children
-109     hhty6    4                                                          Cohabiting couple with children
-110     hhty6    5                                                                              Lone mother
-111     hhty6    6                                                                              Lone father
-112     hhty6    7                                                      Household with two or more families
-113     hhty6    8                                                            Single person household, male
-114     hhty6    9                                                          Single person household, female
+106     hhty6   01                                                          Married couple without children
+107     hhty6   02                                                             Married couple with children
+108     hhty6   03                                                       Cohabiting couple without children
+109     hhty6   04                                                          Cohabiting couple with children
+110     hhty6   05                                                                              Lone mother
+111     hhty6   06                                                                              Lone father
+112     hhty6   07                                                      Household with two or more families
+113     hhty6   08                                                            Single person household, male
+114     hhty6   09                                                          Single person household, female
 115     hhty6   10                                                       Non-family, multi-person household
 116     hhty6   11                                                                  Institutional household
-117     hhty7    1                                 Couple, no child, wife less that age 40, no other person
-118     hhty7    2                                     Couple, no child, wife less that age 40, with others
-119     hhty7    3                                             Family with children, youngest child under 6
-120     hhty7    4                                             Family with children, youngest child 6 to 14
-121     hhty7    5                                               Family with children, all children 15+ old
-122     hhty7    6                                                     Couple, no child, wife 40+ years old
-123     hhty7    7                                      Single person household, less that age 40 years old
-124     hhty7    8                                                   Single person household, 40+ years old
-125     hhty7    9                                                       Non-family, multi-person household
+117     hhty7   01                                 Couple, no child, wife less that age 40, no other person
+118     hhty7   02                                     Couple, no child, wife less that age 40, with others
+119     hhty7   03                                             Family with children, youngest child under 6
+120     hhty7   04                                             Family with children, youngest child 6 to 14
+121     hhty7   05                                               Family with children, all children 15+ old
+122     hhty7   06                                                     Couple, no child, wife 40+ years old
+123     hhty7   07                                      Single person household, less that age 40 years old
+124     hhty7   08                                                   Single person household, 40+ years old
+125     hhty7   09                                                       Non-family, multi-person household
 126     hhty7   10                                                                  Institutional household
 127   pernsup    0                                                                                        0
 128   pernsup    1                                                                                        1
@@ -150,15 +150,15 @@
 149    perndo    7                                                                                        7
 150    perndo    8                                                                                       8+
 151    perndo    9                                                                                      NIU
-152   roomdw1    1                                                                                        1
-153   roomdw1    2                                                                                        2
-154   roomdw1    3                                                                                        3
-155   roomdw1    4                                                                                        4
-156   roomdw1    5                                                                                        5
-157   roomdw1    6                                                                                        6
-158   roomdw1    7                                                                                        7
-159   roomdw1    8                                                                                        8
-160   roomdw1    9                                                                                        9
+152   roomdw1   01                                                                                        1
+153   roomdw1   02                                                                                        2
+154   roomdw1   03                                                                                        3
+155   roomdw1   04                                                                                        4
+156   roomdw1   05                                                                                        5
+157   roomdw1   06                                                                                        6
+158   roomdw1   07                                                                                        7
+159   roomdw1   08                                                                                        8
+160   roomdw1   09                                                                                        9
 161   roomdw1   10                                                                                      10+
 162   roomdw1   99                                                                                      NIU
 163    space1    1                                                                                 Under 35
@@ -199,15 +199,15 @@
 198    fuelht    7                                                                  Liquefied petroleum gas
 199    fuelht    8                                       Wood shavings, saw dust (building central heating)
 200    fuelht    9                                                                               Other fuel
-201     story    1                                                                 In the cellar (basement)
-202     story    2                                                                      On the ground level
-203     story    3                                 On an intermediate floor (raised ground floor, mezzaine)
-204     story    4                                                                       On the first floor
-205     story    5                                                                         On the 2nd floor
-206     story    6                                                                         On the 3rd floor
-207     story    7                                                                         On the 4th floor
-208     story    8                                                                  On the 5th to 9th floor
-209     story    9                                                              On the 10th floor or higher
+201     story   01                                                                 In the cellar (basement)
+202     story   02                                                                      On the ground level
+203     story   03                                 On an intermediate floor (raised ground floor, mezzaine)
+204     story   04                                                                       On the first floor
+205     story   05                                                                         On the 2nd floor
+206     story   06                                                                         On the 3rd floor
+207     story   07                                                                         On the 4th floor
+208     story   08                                                                  On the 5th to 9th floor
+209     story   09                                                              On the 10th floor or higher
 210     story   10                                                                     In a habitable attic
 211     story   99                                                                                      NIU
 212    owner1    1                                                                         Private owner(s)
@@ -231,16 +231,16 @@
 230      dwn1    6                                                                                 11 to 20
 231      dwn1    7                                                                                      21+
 232      dwn1    9                                                                                      NIU
-233    pernum    0                                                                                        0
-234    pernum    1                                                                                        1
-235    pernum    2                                                                                        2
-236    pernum    3                                                                                        3
-237    pernum    4                                                                                        4
-238    pernum    5                                                                                        5
-239    pernum    6                                                                                        6
-240    pernum    7                                                                                        7
-241    pernum    8                                                                                        8
-242    pernum    9                                                                                        9
+233    pernum   00                                                                                        0
+234    pernum   01                                                                                        1
+235    pernum   02                                                                                        2
+236    pernum   03                                                                                        3
+237    pernum   04                                                                                        4
+238    pernum   05                                                                                        5
+239    pernum   06                                                                                        6
+240    pernum   07                                                                                        7
+241    pernum   08                                                                                        8
+242    pernum   09                                                                                        9
 243    pernum   10                                                                                       10
 244    pernum   11                                                                                       11
 245    pernum   12                                                                                       12
@@ -371,16 +371,16 @@
 370     biryr 1999                                                                                     1999
 371     biryr 2000                                                                                     2000
 372     biryr 2001                                                                                     2001
-373       age    0                                                                         Less than 1 year
-374       age    1                                                                                        1
-375       age    2                                                                                        2
-376       age    3                                                                                        3
-377       age    4                                                                                        4
-378       age    5                                                                                        5
-379       age    6                                                                                        6
-380       age    7                                                                                        7
-381       age    8                                                                                        8
-382       age    9                                                                                        9
+373       age   00                                                                         Less than 1 year
+374       age   01                                                                                        1
+375       age   02                                                                                        2
+376       age   03                                                                                        3
+377       age   04                                                                                        4
+378       age   05                                                                                        5
+379       age   06                                                                                        6
+380       age   07                                                                                        7
+381       age   08                                                                                        8
+382       age   09                                                                                        9
 383       age   10                                                                                       10
 384       age   11                                                                                       11
 385       age   12                                                                                       12
@@ -481,13 +481,13 @@
 480     cohab    2                                                    Married, not same household as spouse
 481     cohab    3                                           In consensual union, same household as partner
 482     cohab    4                                                  Neither married nor in consensual union
-483     citiz    1                                                                                  Austria
-484     citiz    2                                                                                  Albania
-485     citiz    4                                                                                  Belgium
-486     citiz    5                                                                                 Bulgaria
-487     citiz    6                                                                                  Denmark
-488     citiz    7                                                                Germany, Federal Republic
-489     citiz    9                                                                                  Finland
+483     citiz   01                                                                                  Austria
+484     citiz   02                                                                                  Albania
+485     citiz   04                                                                                  Belgium
+486     citiz   05                                                                                 Bulgaria
+487     citiz   06                                                                                  Denmark
+488     citiz   07                                                                Germany, Federal Republic
+489     citiz   09                                                                                  Finland
 490     citiz   10                                                                                   France
 491     citiz   11                                                                                   Greece
 492     citiz   12                                                                           United Kingdom
@@ -543,15 +543,15 @@
 542     citiz   78                                                                         Stateless person
 543     citiz   80                                                                                Unsettled
 544     citiz   99                                     Unknown, and other countries not elsewhere classifed
-545      bplc    1                                                                                  Austria
-546      bplc    2                                                                                  Belgium
-547      bplc    3                                                                                  Denmark
-548      bplc    4                                                                                  Germany
-549      bplc    5                                                                                  Finland
-550      bplc    6                                                                                   France
-551      bplc    7                                                                                   Greece
-552      bplc    8                                                                                  Ireland
-553      bplc    9                                                                                    Italy
+545      bplc   01                                                                                  Austria
+546      bplc   02                                                                                  Belgium
+547      bplc   03                                                                                  Denmark
+548      bplc   04                                                                                  Germany
+549      bplc   05                                                                                  Finland
+550      bplc   06                                                                                   France
+551      bplc   07                                                                                   Greece
+552      bplc   08                                                                                  Ireland
+553      bplc   09                                                                                    Italy
 554      bplc   10                                                                               Luxembourg
 555      bplc   11                                                                              Netherlands
 556      bplc   12                                                                                 Portugal
@@ -627,10 +627,10 @@
 626      bplc   90                                                                                Australia
 627      bplc   92                                                                            Other Oceania
 628      bplc   99                                                                                  Unknown
-629    religd    1                                                                    Roman Catholic church
-630    religd    2                                                                    Greek Oriental church
-631    religd    7                                                                   Syrian Catholic church
-632    religd    9                                            Other Catholic church without further details
+629    religd   01                                                                    Roman Catholic church
+630    religd   02                                                                    Greek Oriental church
+631    religd   07                                                                   Syrian Catholic church
+632    religd   09                                            Other Catholic church without further details
 633    religd   10                                                  Orthodox church without further details
 634    religd   11                                                                    Greek Orthodox church
 635    religd   12                                                                Bulgarian Orthodox church
@@ -685,93 +685,93 @@
 684  edattan3    7                                                          ISCED 5A/6 - tertiary education
 685  edattan3    8                                                                                  Unknown
 686  edattan3    9                                                                                      NIU
-687    edfldd    1                                                       University, college, field unknown
-688    edfldd    2                                                                                 Theology
-689    edfldd    3                                                                                      Law
-690    edfldd    4                                               Social or economic sciences, field unknown
-691    edfldd    5                                                                         National economy
-692    edfldd    6                                                                                 Commerce
-693    edfldd    7                                                                  Business administration
-694    edfldd    8                                                           Economics and computer science
-695    edfldd    9                                                                                Sociology
-696    edfldd   10                                                       Other social and economic sciences
-697    edfldd   11                                                                                 Medicine
-698    edfldd   12                                                        Philosophy faculty, field unknown
-699    edfldd   13                                                                Humanities, field unknown
-700    edfldd   14                                          Philosophy, philosophy, pedagogy and psychology
-701    edfldd   15                                                                        Education science
-702    edfldd   16                                                                               Psychology
-703    edfldd   17                                                                        Political science
-704    edfldd   18                                                        Journalism, communication science
-705    edfldd   20                                                                Ethnology, ethnic studies
-706    edfldd   21                                                                                  History
-707    edfldd   22                                               History of art, music, and theatre studies
-708    edfldd   24                                                                         German philology
-709    edfldd   25                                                           English and American philology
-710    edfldd   26                                                                        Romance philology
-711    edfldd   27                                                                         Slavic philology
-712    edfldd   28                                                                      Classical philology
-713    edfldd   29                                                     Other philological-cultural programs
-714    edfldd   30                                                      Translator and interpreter programs
-715    edfldd   31                                              Natural sciences (technical), field unknown
-716    edfldd   33                                          Mathematics, geometry and actuarial mathematics
-717    edfldd   34                                                                                  Physics
-718    edfldd   35                                                                                Chemistry
-719    edfldd   36                                                                       Geology, geography
-720    edfldd   37                                                            Biology and nutrition science
-721    edfldd   38                                                   Astronomy, meteorology, and geophysics
-722    edfldd   39                                                                                 Pharmacy
-723    edfldd   40                                                     Sports science and physical training
-724    edfldd   41                                                               Engineering, field unknown
-725    edfldd   42                                                                        Civil engineering
-726    edfldd   43                                     Architecture, urban and regional planning, surveying
-727    edfldd   44                                                                   Mechanical engineering
-728    edfldd   45                                                      Electrical engineering, electronics
-729    edfldd   46                                                                             Mechatronics
-730    edfldd   47                                                             Computer science, telematics
-731    edfldd   48                                                               Other engineering programs
-732    edfldd   49                                                           Mining sciences, field unknown
-733    edfldd   50                                                         Mining engineering and surveying
-734    edfldd   51                                                                    Petroleum engineering
-735    edfldd   52                                                                               Metallurgy
-736    edfldd   53                                                                      Polymer engineering
-737    edfldd   55                                                        Other mining engineering programs
-738    edfldd   56                                                  Agriculture and forestry, field unknown
-739    edfldd   57                                                                              Agriculture
-740    edfldd   58                                                                       Landscape planning
-741    edfldd   59                                                             Forestry and wood production
-742    edfldd   60                                                                 Agricultural engineering
-743    edfldd   61                                                         Food chemistry and biotechnology
-744    edfldd   62                                                                      Veterinary medicine
-745    edfldd   63                                                 University arts and music, field unknown
-746    edfldd   64                                                               Fine arts and applied arts
-747    edfldd   65                                                                                    Music
-748    edfldd   66                                                                            Dramatic arts
-749    edfldd   68                                                             Polytechnic -- field unknown
-750    edfldd   69                                                    Polytechnic -- program in engineering
-751    edfldd   70                                                      Polytechnic -- program in economics
-752    edfldd   71                                                        Polytechnic -- program in tourism
-753    edfldd   72                                                          Polytechnic -- program in media
-754    edfldd   74                                                            Polytechnic -- other programs
-755    edfldd   76                                                                  College for social work
-756    edfldd   77                                               College for training of health professions
-757    edfldd   78                                                             College for teacher training
-758    edfldd   79                                                                         Military academy
-759    edfldd   80                                          Programs in music (teaching qualification test)
-760    edfldd   82                                                   Post-secondary course -- field unknown
-761    edfldd   83                                 Post-secondary course -- technical, vocational and trade
-762    edfldd   84                                Post-secondary course -- construction and wood technology
-763    edfldd   85                                            Post-secondary course -- chemical engineering
-764    edfldd   86 Post-secondary course -- electrical engineering, electronics, electronic data processing
-765    edfldd   87                                          Post-secondary course -- mechanical engineering
-766    edfldd   88                                           Post-secondary course -- materials engineering
-767    edfldd   90                                               Post-secondary course -- print and graphic
-768    edfldd   91                                              Post-secondary course -- textile technology
-769    edfldd   92                                            Post-secondary course -- fashion and clothing
-770    edfldd   93                                                         Post-secondary course -- tourism
-771    edfldd   95                                        Post-secondary course -- other technical programs
-772    edfldd   96                                         Post-secondary course -- business administration
-773    edfldd   99                                Post-secondary course -- teacher and educational training
+687    edfldd  001                                                       University, college, field unknown
+688    edfldd  002                                                                                 Theology
+689    edfldd  003                                                                                      Law
+690    edfldd  004                                               Social or economic sciences, field unknown
+691    edfldd  005                                                                         National economy
+692    edfldd  006                                                                                 Commerce
+693    edfldd  007                                                                  Business administration
+694    edfldd  008                                                           Economics and computer science
+695    edfldd  009                                                                                Sociology
+696    edfldd  010                                                       Other social and economic sciences
+697    edfldd  011                                                                                 Medicine
+698    edfldd  012                                                        Philosophy faculty, field unknown
+699    edfldd  013                                                                Humanities, field unknown
+700    edfldd  014                                          Philosophy, philosophy, pedagogy and psychology
+701    edfldd  015                                                                        Education science
+702    edfldd  016                                                                               Psychology
+703    edfldd  017                                                                        Political science
+704    edfldd  018                                                        Journalism, communication science
+705    edfldd  020                                                                Ethnology, ethnic studies
+706    edfldd  021                                                                                  History
+707    edfldd  022                                               History of art, music, and theatre studies
+708    edfldd  024                                                                         German philology
+709    edfldd  025                                                           English and American philology
+710    edfldd  026                                                                        Romance philology
+711    edfldd  027                                                                         Slavic philology
+712    edfldd  028                                                                      Classical philology
+713    edfldd  029                                                     Other philological-cultural programs
+714    edfldd  030                                                      Translator and interpreter programs
+715    edfldd  031                                              Natural sciences (technical), field unknown
+716    edfldd  033                                          Mathematics, geometry and actuarial mathematics
+717    edfldd  034                                                                                  Physics
+718    edfldd  035                                                                                Chemistry
+719    edfldd  036                                                                       Geology, geography
+720    edfldd  037                                                            Biology and nutrition science
+721    edfldd  038                                                   Astronomy, meteorology, and geophysics
+722    edfldd  039                                                                                 Pharmacy
+723    edfldd  040                                                     Sports science and physical training
+724    edfldd  041                                                               Engineering, field unknown
+725    edfldd  042                                                                        Civil engineering
+726    edfldd  043                                     Architecture, urban and regional planning, surveying
+727    edfldd  044                                                                   Mechanical engineering
+728    edfldd  045                                                      Electrical engineering, electronics
+729    edfldd  046                                                                             Mechatronics
+730    edfldd  047                                                             Computer science, telematics
+731    edfldd  048                                                               Other engineering programs
+732    edfldd  049                                                           Mining sciences, field unknown
+733    edfldd  050                                                         Mining engineering and surveying
+734    edfldd  051                                                                    Petroleum engineering
+735    edfldd  052                                                                               Metallurgy
+736    edfldd  053                                                                      Polymer engineering
+737    edfldd  055                                                        Other mining engineering programs
+738    edfldd  056                                                  Agriculture and forestry, field unknown
+739    edfldd  057                                                                              Agriculture
+740    edfldd  058                                                                       Landscape planning
+741    edfldd  059                                                             Forestry and wood production
+742    edfldd  060                                                                 Agricultural engineering
+743    edfldd  061                                                         Food chemistry and biotechnology
+744    edfldd  062                                                                      Veterinary medicine
+745    edfldd  063                                                 University arts and music, field unknown
+746    edfldd  064                                                               Fine arts and applied arts
+747    edfldd  065                                                                                    Music
+748    edfldd  066                                                                            Dramatic arts
+749    edfldd  068                                                             Polytechnic -- field unknown
+750    edfldd  069                                                    Polytechnic -- program in engineering
+751    edfldd  070                                                      Polytechnic -- program in economics
+752    edfldd  071                                                        Polytechnic -- program in tourism
+753    edfldd  072                                                          Polytechnic -- program in media
+754    edfldd  074                                                            Polytechnic -- other programs
+755    edfldd  076                                                                  College for social work
+756    edfldd  077                                               College for training of health professions
+757    edfldd  078                                                             College for teacher training
+758    edfldd  079                                                                         Military academy
+759    edfldd  080                                          Programs in music (teaching qualification test)
+760    edfldd  082                                                   Post-secondary course -- field unknown
+761    edfldd  083                                 Post-secondary course -- technical, vocational and trade
+762    edfldd  084                                Post-secondary course -- construction and wood technology
+763    edfldd  085                                            Post-secondary course -- chemical engineering
+764    edfldd  086 Post-secondary course -- electrical engineering, electronics, electronic data processing
+765    edfldd  087                                          Post-secondary course -- mechanical engineering
+766    edfldd  088                                           Post-secondary course -- materials engineering
+767    edfldd  090                                               Post-secondary course -- print and graphic
+768    edfldd  091                                              Post-secondary course -- textile technology
+769    edfldd  092                                            Post-secondary course -- fashion and clothing
+770    edfldd  093                                                         Post-secondary course -- tourism
+771    edfldd  095                                        Post-secondary course -- other technical programs
+772    edfldd  096                                         Post-secondary course -- business administration
+773    edfldd  099                                Post-secondary course -- teacher and educational training
 774    edfldd  100                 Post-secondary course -- primary school teacher and educational training
 775    edfldd  101                                    Higher technical and vocational school, field unknown
 776    edfldd  102                                                   Higher technical school, field unknown
@@ -847,27 +847,27 @@
 846    edfldd  999                                                                                      NIU
 847    school    1                                                                                      Yes
 848    school    2                                                                                       No
-849    schtyd    1                                                                           Primary school
-850    schtyd    2                                                                   Lower secondary school
-851    schtyd    3                                              Higher general secondary school, lower form
-852    schtyd    4                                                                     Special needs school
-853    schtyd    5                                                                      Pre-vocational year
-854    schtyd    6                                             Intermediate technical and vocational school
-855    schtyd    7                                              Higher general secondary school, upper form
-856    schtyd    8                                                   Higher technical and vocational school
-857    schtyd    9                              Post-secondary course in technical and vocational education
+849    schtyd   01                                                                           Primary school
+850    schtyd   02                                                                   Lower secondary school
+851    schtyd   03                                              Higher general secondary school, lower form
+852    schtyd   04                                                                     Special needs school
+853    schtyd   05                                                                      Pre-vocational year
+854    schtyd   06                                             Intermediate technical and vocational school
+855    schtyd   07                                              Higher general secondary school, upper form
+856    schtyd   08                                                   Higher technical and vocational school
+857    schtyd   09                              Post-secondary course in technical and vocational education
 858    schtyd   10                                                      University, post-secondary colleges
 859    schtyd   11                                                                          Other education
 860    schtyd   99                                                                                      NIU
-861     empst    1                                                                     Employed (full time)
-862     empst    2                                                                     Employed (part time)
-863     empst    3                                                                      Marginally employed
-864     empst    4                                              Compulsory military or non-military service
-865     empst    5                                                                               Unemployed
-866     empst    6                                                                       Retirement pension
-867     empst    7                                                             Widow's or widower's pension
-868     empst    8                                                   Other income recipient, status unknown
-869     empst    9                                                                                Homemaker
+861     empst   01                                                                     Employed (full time)
+862     empst   02                                                                     Employed (part time)
+863     empst   03                                                                      Marginally employed
+864     empst   04                                              Compulsory military or non-military service
+865     empst   05                                                                               Unemployed
+866     empst   06                                                                       Retirement pension
+867     empst   07                                                             Widow's or widower's pension
+868     empst   08                                                   Other income recipient, status unknown
+869     empst   09                                                                                Homemaker
 870     empst   10                                                              Pupil under 15 years of age
 871     empst   11                                                             Student of 15 years and over
 872     empst   12                                       Child not attending school (under 15 years of age)
@@ -903,116 +903,116 @@
 902     clwk3    2                                                                                 Employee
 903     clwk3    3                                                                  Not economically active
 904     clwk3    4                                              Looking for a job for the first time (2001)
-905    socec1    1                                           Self-employed and family worker in agriculture
-906    socec1    2                  Self-employed and family worker in technical and scientific occupations
-907    socec1    3                                         Self-employed in product and service occupations
-908    socec1    4                                                 Employee - non-manual, university degree
-909    socec1    5                                                  Employee - non-manual, higher education
-910    socec1    6                                            Employee - non-manual, intermediate education
-911    socec1    7                                              Employee - non-manual, vocational education
-912    socec1    8                                              Employee - non-manual, compulsory education
-913    socec1    9                                                                    Skilled manual worker
+905    socec1   01                                           Self-employed and family worker in agriculture
+906    socec1   02                  Self-employed and family worker in technical and scientific occupations
+907    socec1   03                                         Self-employed in product and service occupations
+908    socec1   04                                                 Employee - non-manual, university degree
+909    socec1   05                                                  Employee - non-manual, higher education
+910    socec1   06                                            Employee - non-manual, intermediate education
+911    socec1   07                                              Employee - non-manual, vocational education
+912    socec1   08                                              Employee - non-manual, compulsory education
+913    socec1   09                                                                    Skilled manual worker
 914    socec1   10                                                               Semi-skilled manual worker
 915    socec1   11                                                                  Unskilled manual worker
 916    socec1   12                                                     Looking for a job for the first time
 917    socec1   13                                                                  Not economically active
-918     occiu    1                                              Legislators and senior government officials
-919     occiu    2                                        Senior officials of political party organizations
-920     occiu    3       Senior officials of employers', workers' and other economic interest organizations
-921     occiu    4                Senior officials of humanitarian and other special interest organizations
-922     occiu    5                                                           Directors and chief executives
-923     occiu    6         Production and operations managers in agriculture, hunting, forestry and fishing
-924     occiu    7                                      Production and operations managers in manufacturing
-925     occiu    8                                       Production and operations managers in construction
-926     occiu    9                         Production and operations managers in wholesale and retail trade
-927     occiu   10                             Production and operations managers in restaurants and hotels
-928     occiu   11              Production and operations managers in transport, storage and communications
-929     occiu   12                      Production and operations managers in business services enterprises
-930     occiu   13       Production and operations managers in personal care, cleaning and related services
-931     occiu   14                              Production and operations managers not elsewhere classified
-932     occiu   15                                                      Finance and administration managers
-933     occiu   16                                              Personnel and industrial relations managers
-934     occiu   17                                                             Sales and marketing managers
-935     occiu   18                                                Advertising and public relations managers
-936     occiu   19                                                         Supply and distribution managers
-937     occiu   20                                                              Computing services managers
-938     occiu   21                                                        Research and development managers
-939     occiu   22                                       Other specialist managers not elsewhere classified
-940     occiu   23              Managers of small enterprises in agriculture, hunting, forestry and fishing
-941     occiu   24                                           Managers of small enterprises in manufacturing
-942     occiu   25                                            Managers of small enterprises in construction
-943     occiu   26                              Managers of small enterprises in wholesale and retail trade
-944     occiu   27                                  Managers of small enterprises of restaurants and hotels
-945     occiu   28                   Managers of small enterprises in transport, storage and communications
-946     occiu   29                           Managers of small enterprises in business services enterprises
-947     occiu   30            Managers of small enterprises in personal care, cleaning and related services
-948     occiu   31                                   Managers of small enterprises not elsewhere classified
-949     occiu   32                                                               Physicists and astronomers
-950     occiu   33                                                                           Meteorologists
-951     occiu   34                                                                                 Chemists
-952     occiu   35                                                             Geologists and geophysicists
-953     occiu   36                                                 Mathematicians and related professionals
-954     occiu   37                                                                            Statisticians
-955     occiu   38                                     Computer systems designers, analysts and programmers
-956     occiu   39                                         Computing professionals not elsewhere classified
-957     occiu   40                                          Architects, engineers and related professionals
-958     occiu   41                                                    Architects, town and traffic planners
-959     occiu   42                                                                          Civil engineers
-960     occiu   43                                                                     Electrical engineers
-961     occiu   44                                             Electronics and telecommunications engineers
-962     occiu   45                                                                     Mechanical engineers
-963     occiu   46                                                                       Chemical engineers
-964     occiu   47                                Mining engineers, metallurgists and related professionals
-965     occiu   48                                                              Cartographers and surveyors
-966     occiu   49                 Architects, engineers and related professionals not elsewhere classified
-967     occiu   50                              Biologists, botanists, zoologists and related professionals
-968     occiu   51                                  Pharmacologists, pathologists and related professionals
-969     occiu   52                                                    Agronomists and related professionals
-970     occiu   53                                                                          Medical doctors
-971     occiu   54                                                                                 Dentists
-972     occiu   55                                                                            Veterinarians
-973     occiu   56                                                                              Pharmacists
-974     occiu   58                                                      Nursing and midwifery professionals
-975     occiu   59                          College, university and higher education teaching professionals
-976     occiu   60                                               Secondary education teaching professionals
-977     occiu   61                                                 Primary education teaching professionals
-978     occiu   63                                                 Special education teaching professionals
-979     occiu   64                                                            Education methods specialists
-980     occiu   65                                                                        School inspectors
-981     occiu   66                                    Other teaching professionals not elsewhere classified
-982     occiu   67                                                                              Accountants
-983     occiu   68                                                      Personnel and careers professionals
-984     occiu   69                                          Business professionals not elsewhere classified
-985     occiu   70                                                                                  Lawyers
-986     occiu   71                                                                                   Judges
-987     occiu   72                                             Legal professionals not elsewhere classified
-988     occiu   73                                                                  Archivists and curators
-989     occiu   74                                         Librarians and related information professionals
-990     occiu   75                                                                               Economists
-991     occiu   76                                  Sociologists, anthropologists and related professionals
-992     occiu   77                                        Philosophers, historians and political scientists
-993     occiu   78                                               Philologists, translators and interpreters
-994     occiu   79                                                                            Psychologists
-995     occiu   80                                                                Social work professionals
-996     occiu   81                                               Writers and creative or performing artists
-997     occiu   82                                                   Authors, journalists and other writers
-998     occiu   83                                                  Sculptors, painters and related artists
-999     occiu   84                                                         Composers, musicians and singers
-1000    occiu   85                                                               Choreographers and dancers
-1001    occiu   86                                             Film, stage and related actors and directors
-1002    occiu   87                                                                  Religious professionals
-1003    occiu   88                                              Public service administrative professionals
-1004    occiu   89                                 Physical and engineering science associate professionals
-1005    occiu   90                                                Chemical and physical science technicians
-1006    occiu   91                                                            Civil engineering technicians
-1007    occiu   92                                                       Electrical engineering technicians
-1008    occiu   93                               Electronics and telecommunications engineering technicians
-1009    occiu   94                                                       Mechanical engineering technicians
-1010    occiu   95                                                         Chemical engineering technicians
-1011    occiu   96                                                     Mining and metallurgical technicians
-1012    occiu   97                                                                                Draftsmen
-1013    occiu   98                    Physical and engineering science technicians not elsewhere classified
-1014    occiu   99                                                                      Computer assistants
+918     occiu  001                                              Legislators and senior government officials
+919     occiu  002                                        Senior officials of political party organizations
+920     occiu  003       Senior officials of employers', workers' and other economic interest organizations
+921     occiu  004                Senior officials of humanitarian and other special interest organizations
+922     occiu  005                                                           Directors and chief executives
+923     occiu  006         Production and operations managers in agriculture, hunting, forestry and fishing
+924     occiu  007                                      Production and operations managers in manufacturing
+925     occiu  008                                       Production and operations managers in construction
+926     occiu  009                         Production and operations managers in wholesale and retail trade
+927     occiu  010                             Production and operations managers in restaurants and hotels
+928     occiu  011              Production and operations managers in transport, storage and communications
+929     occiu  012                      Production and operations managers in business services enterprises
+930     occiu  013       Production and operations managers in personal care, cleaning and related services
+931     occiu  014                              Production and operations managers not elsewhere classified
+932     occiu  015                                                      Finance and administration managers
+933     occiu  016                                              Personnel and industrial relations managers
+934     occiu  017                                                             Sales and marketing managers
+935     occiu  018                                                Advertising and public relations managers
+936     occiu  019                                                         Supply and distribution managers
+937     occiu  020                                                              Computing services managers
+938     occiu  021                                                        Research and development managers
+939     occiu  022                                       Other specialist managers not elsewhere classified
+940     occiu  023              Managers of small enterprises in agriculture, hunting, forestry and fishing
+941     occiu  024                                           Managers of small enterprises in manufacturing
+942     occiu  025                                            Managers of small enterprises in construction
+943     occiu  026                              Managers of small enterprises in wholesale and retail trade
+944     occiu  027                                  Managers of small enterprises of restaurants and hotels
+945     occiu  028                   Managers of small enterprises in transport, storage and communications
+946     occiu  029                           Managers of small enterprises in business services enterprises
+947     occiu  030            Managers of small enterprises in personal care, cleaning and related services
+948     occiu  031                                   Managers of small enterprises not elsewhere classified
+949     occiu  032                                                               Physicists and astronomers
+950     occiu  033                                                                           Meteorologists
+951     occiu  034                                                                                 Chemists
+952     occiu  035                                                             Geologists and geophysicists
+953     occiu  036                                                 Mathematicians and related professionals
+954     occiu  037                                                                            Statisticians
+955     occiu  038                                     Computer systems designers, analysts and programmers
+956     occiu  039                                         Computing professionals not elsewhere classified
+957     occiu  040                                          Architects, engineers and related professionals
+958     occiu  041                                                    Architects, town and traffic planners
+959     occiu  042                                                                          Civil engineers
+960     occiu  043                                                                     Electrical engineers
+961     occiu  044                                             Electronics and telecommunications engineers
+962     occiu  045                                                                     Mechanical engineers
+963     occiu  046                                                                       Chemical engineers
+964     occiu  047                                Mining engineers, metallurgists and related professionals
+965     occiu  048                                                              Cartographers and surveyors
+966     occiu  049                 Architects, engineers and related professionals not elsewhere classified
+967     occiu  050                              Biologists, botanists, zoologists and related professionals
+968     occiu  051                                  Pharmacologists, pathologists and related professionals
+969     occiu  052                                                    Agronomists and related professionals
+970     occiu  053                                                                          Medical doctors
+971     occiu  054                                                                                 Dentists
+972     occiu  055                                                                            Veterinarians
+973     occiu  056                                                                              Pharmacists
+974     occiu  058                                                      Nursing and midwifery professionals
+975     occiu  059                          College, university and higher education teaching professionals
+976     occiu  060                                               Secondary education teaching professionals
+977     occiu  061                                                 Primary education teaching professionals
+978     occiu  063                                                 Special education teaching professionals
+979     occiu  064                                                            Education methods specialists
+980     occiu  065                                                                        School inspectors
+981     occiu  066                                    Other teaching professionals not elsewhere classified
+982     occiu  067                                                                              Accountants
+983     occiu  068                                                      Personnel and careers professionals
+984     occiu  069                                          Business professionals not elsewhere classified
+985     occiu  070                                                                                  Lawyers
+986     occiu  071                                                                                   Judges
+987     occiu  072                                             Legal professionals not elsewhere classified
+988     occiu  073                                                                  Archivists and curators
+989     occiu  074                                         Librarians and related information professionals
+990     occiu  075                                                                               Economists
+991     occiu  076                                  Sociologists, anthropologists and related professionals
+992     occiu  077                                        Philosophers, historians and political scientists
+993     occiu  078                                               Philologists, translators and interpreters
+994     occiu  079                                                                            Psychologists
+995     occiu  080                                                                Social work professionals
+996     occiu  081                                               Writers and creative or performing artists
+997     occiu  082                                                   Authors, journalists and other writers
+998     occiu  083                                                  Sculptors, painters and related artists
+999     occiu  084                                                         Composers, musicians and singers
+1000    occiu  085                                                               Choreographers and dancers
+1001    occiu  086                                             Film, stage and related actors and directors
+1002    occiu  087                                                                  Religious professionals
+1003    occiu  088                                              Public service administrative professionals
+1004    occiu  089                                 Physical and engineering science associate professionals
+1005    occiu  090                                                Chemical and physical science technicians
+1006    occiu  091                                                            Civil engineering technicians
+1007    occiu  092                                                       Electrical engineering technicians
+1008    occiu  093                               Electronics and telecommunications engineering technicians
+1009    occiu  094                                                       Mechanical engineering technicians
+1010    occiu  095                                                         Chemical engineering technicians
+1011    occiu  096                                                     Mining and metallurgical technicians
+1012    occiu  097                                                                                Draftsmen
+1013    occiu  098                    Physical and engineering science technicians not elsewhere classified
+1014    occiu  099                                                                      Computer assistants
 1015    occiu  100                                                             Computer equipment operators
 1016    occiu  102                          Photographers and image and sound recording equipment operators
 1017    occiu  103                                  Broadcasting and telecommunications equipment operators
@@ -1246,101 +1246,101 @@
 1245    occiu  382                                                     Looking for a job for the first time
 1246    occiu  995                                                                      Response suppressed
 1247    occiu  999                                                                                      NIU
-1248   occimi    1                                              Legislators and senior government officials
-1249   occimi    2                                       Senior officials of special interest organizations
-1250   occimi    3                                                           Directors and chief executives
-1251   occimi    4                                                       Production and operations managers
-1252   occimi    5                                                                Other specialist managers
-1253   occimi    6                                                            Managers of small enterprises
-1254   occimi    7                                           Physicists, chemists and related professionals
-1255   occimi    8                                  Mathematicians, statisticians and related professionals
-1256   occimi    9                                                                  Computing professionals
-1257   occimi   10                                          Architects, engineers and related professionals
-1258   occimi   11                                                               Life science professionals
-1259   occimi   12                                                    Health professionals (except nursing)
-1260   occimi   13                                                      Nursing and midwifery professionals
-1261   occimi   14                                        College, university and higher education teachers
-1262   occimi   15                                                  Secondary education teaching profession
-1263   occimi   16                                  Primary and pre-primary education teacher professionals
-1264   occimi   17                                                  Special education teaching professional
-1265   occimi   18                                                             Other teaching professionals
-1266   occimi   19                                                                   Business professionals
-1267   occimi   20                                                                      Legal professionals
-1268   occimi   21                             Archivists, librarians and related information professionals
-1269   occimi   22                                                  Social science and related professional
-1270   occimi   23                                                Writers and creative or performing artist
-1271   occimi   24                                                                  Religious professionals
-1272   occimi   25                                              Public service administrative professionals
-1273   occimi   26                                           Physical and engineering science professionals
-1274   occimi   27                                                         Computer associate professionals
-1275   occimi   28                                               Optical and electronic equipment operators
-1276   occimi   29                                  Ship and aircraft controllers and related professionals
-1277   occimi   30                                                            Safety and quality inspectors
-1278   occimi   31                                         Life science technicians and related professions
-1279   occimi   32                                          Health associate professionals (except nursing)
-1280   occimi   33                                             Nursing and midwifery associate professional
-1281   occimi   35                                    Pre-primary education teaching associate professional
-1282   occimi   37                                                   Other teaching associate professionals
-1283   occimi   38                                                 Finance and sales associate professional
-1284   occimi   39                                                Business services agents and trade broker
-1285   occimi   40                                                   Administrative associate professionals
-1286   occimi   41                             Customs, tax and related public administration professionals
-1287   occimi   42                                                         Police inspectors and detectives
-1288   occimi   43                                                      Social work associate professionals
-1289   occimi   44                                 Artistic, entertainment and sports related professionals
-1290   occimi   45                                                        Religious associate professionals
-1291   occimi   46                                                  Secretaries a keyboard operating clerks
-1292   occimi   47                                                                         Numerical clerks
-1293   occimi   48                                                  Material recording and transport clerks
-1294   occimi   49                                                         Library, mail and related clerks
-1295   occimi   50                                                                      Other office clerks
-1296   occimi   51                                                     Cashiers, tellers and related clerks
-1297   occimi   52                                                                Client information clerks
-1298   occimi   53                                                    Travel attendants and related workers
-1299   occimi   54                                                Housekeeping and restaurant services work
-1300   occimi   55                                                        Personal care and related workers
-1301   occimi   56                                                          Other personal services workers
-1302   occimi   57                                                              Protective services workers
-1303   occimi   59                                    Shop, stall and market salespersons and demonstrators
-1304   occimi   60                                                        Market gardeners and crop growers
-1305   occimi   61                                                     Animal producers and related workers
-1306   occimi   62                                                     Crop and animal producers and owners
-1307   occimi   63                                                       Forestry and related professionals
-1308   occimi   64                                                    Fishery workers, hunters and trappers
-1309   occimi   65                                       Miners, blasters, stonecutters and stone sculptors
-1310   occimi   66                                                 Building frame and related trades worker
-1311   occimi   67                                                    Building finishers and related trades
-1312   occimi   68                                 Painters, building structure cleaners and related trades
-1313   occimi   69                                              Metal molders, welders, sheet-metal molders
-1314   occimi   70                                               Blacksmiths, toolmakers and related trades
-1315   occimi   71                                                          Machinery mechanics and fitters
-1316   occimi   72                                            Electrical and electronic equipment mechanics
-1317   occimi   73                                         Precision workers in metal and related materials
-1318   occimi   74                                                  Potters, glassmakers and related trades
-1319   occimi   75                       Handicraft workers in wood, textile, leather and related materials
-1320   occimi   76                                                Craft printing workers and related trades
-1321   occimi   77                                               Food processing workers and related trades
-1322   occimi   78                                          Wood treaters, cabinetmakers and related trades
-1323   occimi   79                                              Textile, garment and related trades workers
-1324   occimi   80                                               Pelt, leather and shoemaking trades worker
-1325   occimi   81                                            Mining and mineral processing plant operators
-1326   occimi   82                                                         Metal processing plant operators
-1327   occimi   84                                          Wood processing and papermaking plant operators
-1328   occimi   85                                                      Chemical processing plant operators
-1329   occimi   86                                             Power-production and related plant operators
-1330   occimi   87                                                               Industrial robot operators
-1331   occimi   88                                             Metal and mineral products machine operators
-1332   occimi   89                                                      Chemical products machine operators
-1333   occimi   90                                            Rubber and plastic products machine operators
-1334   occimi   91                                                          Wood products machine operators
-1335   occimi   92                                   Printing, binding and paper products machine operators
-1336   occimi   93                                       Textile, fur and leather product machine operators
-1337   occimi   94                                              Food and related products machine operators
-1338   occimi   95                                                                               Assemblers
-1339   occimi   96                                         Other machine operators not elsewhere classified
-1340   occimi   97                                            Locomotive engine drivers and related workers
-1341   occimi   98                                                                    Motor vehicle drivers
-1342   occimi   99                                            Agricultural and other mobile plant operators
+1248   occimi  001                                              Legislators and senior government officials
+1249   occimi  002                                       Senior officials of special interest organizations
+1250   occimi  003                                                           Directors and chief executives
+1251   occimi  004                                                       Production and operations managers
+1252   occimi  005                                                                Other specialist managers
+1253   occimi  006                                                            Managers of small enterprises
+1254   occimi  007                                           Physicists, chemists and related professionals
+1255   occimi  008                                  Mathematicians, statisticians and related professionals
+1256   occimi  009                                                                  Computing professionals
+1257   occimi  010                                          Architects, engineers and related professionals
+1258   occimi  011                                                               Life science professionals
+1259   occimi  012                                                    Health professionals (except nursing)
+1260   occimi  013                                                      Nursing and midwifery professionals
+1261   occimi  014                                        College, university and higher education teachers
+1262   occimi  015                                                  Secondary education teaching profession
+1263   occimi  016                                  Primary and pre-primary education teacher professionals
+1264   occimi  017                                                  Special education teaching professional
+1265   occimi  018                                                             Other teaching professionals
+1266   occimi  019                                                                   Business professionals
+1267   occimi  020                                                                      Legal professionals
+1268   occimi  021                             Archivists, librarians and related information professionals
+1269   occimi  022                                                  Social science and related professional
+1270   occimi  023                                                Writers and creative or performing artist
+1271   occimi  024                                                                  Religious professionals
+1272   occimi  025                                              Public service administrative professionals
+1273   occimi  026                                           Physical and engineering science professionals
+1274   occimi  027                                                         Computer associate professionals
+1275   occimi  028                                               Optical and electronic equipment operators
+1276   occimi  029                                  Ship and aircraft controllers and related professionals
+1277   occimi  030                                                            Safety and quality inspectors
+1278   occimi  031                                         Life science technicians and related professions
+1279   occimi  032                                          Health associate professionals (except nursing)
+1280   occimi  033                                             Nursing and midwifery associate professional
+1281   occimi  035                                    Pre-primary education teaching associate professional
+1282   occimi  037                                                   Other teaching associate professionals
+1283   occimi  038                                                 Finance and sales associate professional
+1284   occimi  039                                                Business services agents and trade broker
+1285   occimi  040                                                   Administrative associate professionals
+1286   occimi  041                             Customs, tax and related public administration professionals
+1287   occimi  042                                                         Police inspectors and detectives
+1288   occimi  043                                                      Social work associate professionals
+1289   occimi  044                                 Artistic, entertainment and sports related professionals
+1290   occimi  045                                                        Religious associate professionals
+1291   occimi  046                                                  Secretaries a keyboard operating clerks
+1292   occimi  047                                                                         Numerical clerks
+1293   occimi  048                                                  Material recording and transport clerks
+1294   occimi  049                                                         Library, mail and related clerks
+1295   occimi  050                                                                      Other office clerks
+1296   occimi  051                                                     Cashiers, tellers and related clerks
+1297   occimi  052                                                                Client information clerks
+1298   occimi  053                                                    Travel attendants and related workers
+1299   occimi  054                                                Housekeeping and restaurant services work
+1300   occimi  055                                                        Personal care and related workers
+1301   occimi  056                                                          Other personal services workers
+1302   occimi  057                                                              Protective services workers
+1303   occimi  059                                    Shop, stall and market salespersons and demonstrators
+1304   occimi  060                                                        Market gardeners and crop growers
+1305   occimi  061                                                     Animal producers and related workers
+1306   occimi  062                                                     Crop and animal producers and owners
+1307   occimi  063                                                       Forestry and related professionals
+1308   occimi  064                                                    Fishery workers, hunters and trappers
+1309   occimi  065                                       Miners, blasters, stonecutters and stone sculptors
+1310   occimi  066                                                 Building frame and related trades worker
+1311   occimi  067                                                    Building finishers and related trades
+1312   occimi  068                                 Painters, building structure cleaners and related trades
+1313   occimi  069                                              Metal molders, welders, sheet-metal molders
+1314   occimi  070                                               Blacksmiths, toolmakers and related trades
+1315   occimi  071                                                          Machinery mechanics and fitters
+1316   occimi  072                                            Electrical and electronic equipment mechanics
+1317   occimi  073                                         Precision workers in metal and related materials
+1318   occimi  074                                                  Potters, glassmakers and related trades
+1319   occimi  075                       Handicraft workers in wood, textile, leather and related materials
+1320   occimi  076                                                Craft printing workers and related trades
+1321   occimi  077                                               Food processing workers and related trades
+1322   occimi  078                                          Wood treaters, cabinetmakers and related trades
+1323   occimi  079                                              Textile, garment and related trades workers
+1324   occimi  080                                               Pelt, leather and shoemaking trades worker
+1325   occimi  081                                            Mining and mineral processing plant operators
+1326   occimi  082                                                         Metal processing plant operators
+1327   occimi  084                                          Wood processing and papermaking plant operators
+1328   occimi  085                                                      Chemical processing plant operators
+1329   occimi  086                                             Power-production and related plant operators
+1330   occimi  087                                                               Industrial robot operators
+1331   occimi  088                                             Metal and mineral products machine operators
+1332   occimi  089                                                      Chemical products machine operators
+1333   occimi  090                                            Rubber and plastic products machine operators
+1334   occimi  091                                                          Wood products machine operators
+1335   occimi  092                                   Printing, binding and paper products machine operators
+1336   occimi  093                                       Textile, fur and leather product machine operators
+1337   occimi  094                                              Food and related products machine operators
+1338   occimi  095                                                                               Assemblers
+1339   occimi  096                                         Other machine operators not elsewhere classified
+1340   occimi  097                                            Locomotive engine drivers and related workers
+1341   occimi  098                                                                    Motor vehicle drivers
+1342   occimi  099                                            Agricultural and other mobile plant operators
 1343   occimi  101                                                       Street vendors and related workers
 1344   occimi  102                                 Shoe cleaning and other services practiced on the street
 1345   occimi  103                                       Domestic and related helpers, cleaners, launderers
@@ -1355,15 +1355,15 @@
 1354   occimi  112                                                     Looking for a job for the first time
 1355   occimi  990                                                                      Response suppressed
 1356   occimi  999                                                                                      NIU
-1357   occism    1                                                         Legislators and senior officials
-1358   occism    2                                                                       Corporate managers
-1359   occism    3                                                            Managers of small enterprises
-1360   occism    4                           Physicist, mathematician and engineering science professionals
-1361   occism    5                                                    Life science and health professionals
-1362   occism    6                                                                   Teaching professionals
-1363   occism    7                                                                      Other professionals
-1364   occism    8                                 Physical and engineering science associate professionals
-1365   occism    9                                          Life science and health associate professionals
+1357   occism   01                                                         Legislators and senior officials
+1358   occism   02                                                                       Corporate managers
+1359   occism   03                                                            Managers of small enterprises
+1360   occism   04                           Physicist, mathematician and engineering science professionals
+1361   occism   05                                                    Life science and health professionals
+1362   occism   06                                                                   Teaching professionals
+1363   occism   07                                                                      Other professionals
+1364   occism   08                                 Physical and engineering science associate professionals
+1365   occism   09                                          Life science and health associate professionals
 1366   occism   10                                                         Teaching associate professionals
 1367   occism   11                                                            Other associate professionals
 1368   occism   12                                                                            Office clerks
@@ -1384,27 +1384,27 @@
 1383   occism   27                                                                             Armed forces
 1384   occism   28                                                     Looking for a job for the first time
 1385   occism   99                                                                                      NIU
-1386    occim    1                                                Legislators, senior officials and manager
-1387    occim    2                                                                            Professionals
-1388    occim    3                                                  Technicians and associate professionals
-1389    occim    4                                                          Office and commercial employees
-1390    occim    5                                           Service workers, shop and market sales workers
-1391    occim    6                                                 Skilled agricultural and fishery workers
-1392    occim    7                                                         Craft and related trades workers
-1393    occim    8                                                Plant and machine operators and assembler
-1394    occim    9                                                                   Elementary occupations
+1386    occim   01                                                Legislators, senior officials and manager
+1387    occim   02                                                                            Professionals
+1388    occim   03                                                  Technicians and associate professionals
+1389    occim   04                                                          Office and commercial employees
+1390    occim   05                                           Service workers, shop and market sales workers
+1391    occim   06                                                 Skilled agricultural and fishery workers
+1392    occim   07                                                         Craft and related trades workers
+1393    occim   08                                                Plant and machine operators and assembler
+1394    occim   09                                                                   Elementary occupations
 1395    occim   10                                                                             Armed forces
 1396    occim   11                                                     Looking for a job for the first time
 1397    occim   99                                                                                      NIU
-1398    occsm    1                                    Engineering science and natural science professionals
-1399    occsm    2                                                     Health professionals and technicians
-1400    occsm    3                                                                      Teachers, educators
-1401    occsm    4                                         Legal professionals, human and social scientists
-1402    occsm    5                                                  Religious professionals, social workers
-1403    occsm    6                                                   Artists, journalists and sportspersons
-1404    occsm    7                                         Managers in administration, industry and finance
-1405    occsm    8                                                              Office and financial clerks
-1406    occsm    9                                                                    Administrative clerks
+1398    occsm   01                                    Engineering science and natural science professionals
+1399    occsm   02                                                     Health professionals and technicians
+1400    occsm   03                                                                      Teachers, educators
+1401    occsm   04                                         Legal professionals, human and social scientists
+1402    occsm   05                                                  Religious professionals, social workers
+1403    occsm   06                                                   Artists, journalists and sportspersons
+1404    occsm   07                                         Managers in administration, industry and finance
+1405    occsm   08                                                              Office and financial clerks
+1406    occsm   09                                                                    Administrative clerks
 1407    occsm   10                                                Bookkeepers, cashiers and related workers
 1408    occsm   11                                                                   Other clerical workers
 1409    occsm   12                                       Computer equipment operators, data entry operators
@@ -1455,104 +1455,104 @@
 1454    occsm   57                        Laborers without further details, workers without further details
 1455    occsm   58                                                                          Retired persons
 1456    occsm   59                                                                  Other income recipients
-1457     occm    1                                         Professionals, technicians and related, managers
-1458     occm    2                                                                     Clerical occupations
-1459     occm    3                                                   Wholesale and retail trade occupations
-1460     occm    4                                                        Service occupations, armed forces
-1461     occm    5                                                 Transport occupations, machine operators
-1462     occm    6                                                    Agricultural and forestry occupations
-1463     occm    7                                                                   Basic industry workers
-1464     occm    8                                                  Construction and related trades workers
-1465     occm    9                                                            Product manufacturing workers
+1457     occm   01                                         Professionals, technicians and related, managers
+1458     occm   02                                                                     Clerical occupations
+1459     occm   03                                                   Wholesale and retail trade occupations
+1460     occm   04                                                        Service occupations, armed forces
+1461     occm   05                                                 Transport occupations, machine operators
+1462     occm   06                                                    Agricultural and forestry occupations
+1463     occm   07                                                                   Basic industry workers
+1464     occm   08                                                  Construction and related trades workers
+1465     occm   09                                                            Product manufacturing workers
 1466     occm   10                                                         Laborers without further details
 1467     occm   99                                                                                      NIU
-1468     indg    1                                                       Growing of crops, market gardening
-1469     indg    2                                                                       Farming of animals
-1470     indg    3                                                                            Mixed farming
-1471     indg    4                                      Agriculture and animal husbandry service activities
-1472     indg    6                                                                     Forestry and logging
-1473     indg    9                                                      Mining and agglomeration of lignite
-1474     indg   11                                            Extraction of crude petroleum and natural gas
-1475     indg   14                                                                      Mining of iron ores
-1476     indg   16                                                                       Quarrying of stone
-1477     indg   17                                                               Quarrying of sand and clay
-1478     indg   19                                                                       Production of salt
-1479     indg   20                                       Other mining and quarrying without further details
-1480     indg   21                                                        Production and processing of meat
-1481     indg   23                                        Processing and preserving of fruit and vegetables
-1482     indg   24                                        Manufacture of vegetable and animal oils and fats
-1483     indg   25                                                            Manufacture of dairy products
-1484     indg   26                                       Manufacture of grain mill and starch mill products
-1485     indg   27                                                     Manufacture of prepared animal feeds
-1486     indg   28                                                       Manufacture of other food products
-1487     indg   29                                                                 Manufacture of beverages
-1488     indg   30                                                          Manufacture of tobacco products
-1489     indg   31                                               Preparation and spinning of textile fibers
-1490     indg   32                                                                          Textile weaving
-1491     indg   33                                                                    Finishing of textiles
-1492     indg   34                                                  Manufacture of made-up textile articles
-1493     indg   35                                                            Manufacture of other textiles
-1494     indg   36                                             Manufacture of knitted and crocheted fabrics
-1495     indg   37                                            Manufacture of knitted and crocheted articles
-1496     indg   39                                                     Manufacture of other wearing apparel
-1497     indg   40                                                  Manufacture of fur and articles thereof
-1498     indg   41                                                          Tanning and dressing of leather
-1499     indg   42                                             Manufacture of luggage, saddlery and harness
-1500     indg   43                                                                  Manufacture of footwear
-1501     indg   44                                                           Sawmilling and planing of wood
-1502     indg   45                                               Manufacture of veneer sheets, boards, etc.
-1503     indg   46                                           Manufacture of builders' carpentry and joinery
-1504     indg   47                                                         Manufacture of wooden containers
-1505     indg   48                                                    Manufacture of other products of wood
-1506     indg   49                                                Manufacture of pulp, paper and paperboard
-1507     indg   50                                             Manufacture of paper and paperboard products
-1508     indg   51                                                                               Publishing
-1509     indg   52                                                  Printing and related service activities
-1510     indg   53                                                           Reproduction of recorded media
-1511     indg   54                                                        Manufacture of coke oven products
-1512     indg   55                                                Manufacture of refined petroleum products
-1513     indg   57                                                           Manufacture of basic chemicals
-1514     indg   58                                                                Manufacture of pesticides
-1515     indg   59                                           Manufacture of paints, varnishes, printing ink
-1516     indg   60                                                   Manufacture of pharmaceutical products
-1517     indg   61                                                    Manufacture of soap, detergents, etc.
-1518     indg   62                                                   Manufacture of other chemical products
-1519     indg   63                                                           Manufacture of man-made fibers
-1520     indg   64                                                           Manufacture of rubber products
-1521     indg   65                                                          Manufacture of plastic products
-1522     indg   66                                                  Manufacture of glass and glass products
-1523     indg   67                                                             Manufacture of ceramic goods
-1524     indg   69                                                Manufacture of bricks, etc. in baked clay
-1525     indg   70                                                  Manufacture of cement, lime and plaster
-1526     indg   71                            Manufacture of other articles of concrete, plaster and cement
-1527     indg   72                                                  Cutting, shaping and finishing of stone
-1528     indg   73                                        Manufacture of other nonmetallic mineral products
-1529     indg   74                                                      Manufacture of basic iron and steel
-1530     indg   75                                                                     Manufacture of tubes
-1531     indg   76                                                 Other first processing of iron and steel
-1532     indg   77                                   Manufacture of precious and non-ferrous metal products
-1533     indg   78                                                                        Casting of metals
-1534     indg   79                                                 Manufacture of structural metal products
-1535     indg   80                                                      Manufacture of tanks, etc. of metal
-1536     indg   81                                                          Manufacture of steam generators
-1537     indg   82                                                         Forging, pressing, etc. of metal
-1538     indg   83                                                          Treatment and coating of metals
-1539     indg   84                                       Manufacture of cutlery, tools and general hardware
-1540     indg   85                                           Manufacture of other fabricated metal products
-1541     indg   86                              Manufacture of machinery for production of mechanical power
-1542     indg   87                                           Manufacture of other general purpose machinery
-1543     indg   88                                        Manufacture of agriculture and forestry machinery
-1544     indg   89                                                             Manufacture of machine tools
-1545     indg   90                                           Manufacture of other special purpose machinery
-1546     indg   91                                                    Manufacture of weapons and ammunition
-1547     indg   92                               Manufacture of domestic appliances without further details
-1548     indg   93                                            Manufacture of office machinery and computers
-1549     indg   94                                                     Manufacture of electric motors, etc.
-1550     indg   95                               Manufacture of electric distribution and control equipment
-1551     indg   96                                                  Manufacture of insulated wire and cable
-1552     indg   97                                                Manufacture of accumulators and batteries
-1553     indg   98                                                        Manufacture of lighting equipment
-1554     indg   99                              Manufacture of electrical equipment without further details
+1468     indg  001                                                       Growing of crops, market gardening
+1469     indg  002                                                                       Farming of animals
+1470     indg  003                                                                            Mixed farming
+1471     indg  004                                      Agriculture and animal husbandry service activities
+1472     indg  006                                                                     Forestry and logging
+1473     indg  009                                                      Mining and agglomeration of lignite
+1474     indg  011                                            Extraction of crude petroleum and natural gas
+1475     indg  014                                                                      Mining of iron ores
+1476     indg  016                                                                       Quarrying of stone
+1477     indg  017                                                               Quarrying of sand and clay
+1478     indg  019                                                                       Production of salt
+1479     indg  020                                       Other mining and quarrying without further details
+1480     indg  021                                                        Production and processing of meat
+1481     indg  023                                        Processing and preserving of fruit and vegetables
+1482     indg  024                                        Manufacture of vegetable and animal oils and fats
+1483     indg  025                                                            Manufacture of dairy products
+1484     indg  026                                       Manufacture of grain mill and starch mill products
+1485     indg  027                                                     Manufacture of prepared animal feeds
+1486     indg  028                                                       Manufacture of other food products
+1487     indg  029                                                                 Manufacture of beverages
+1488     indg  030                                                          Manufacture of tobacco products
+1489     indg  031                                               Preparation and spinning of textile fibers
+1490     indg  032                                                                          Textile weaving
+1491     indg  033                                                                    Finishing of textiles
+1492     indg  034                                                  Manufacture of made-up textile articles
+1493     indg  035                                                            Manufacture of other textiles
+1494     indg  036                                             Manufacture of knitted and crocheted fabrics
+1495     indg  037                                            Manufacture of knitted and crocheted articles
+1496     indg  039                                                     Manufacture of other wearing apparel
+1497     indg  040                                                  Manufacture of fur and articles thereof
+1498     indg  041                                                          Tanning and dressing of leather
+1499     indg  042                                             Manufacture of luggage, saddlery and harness
+1500     indg  043                                                                  Manufacture of footwear
+1501     indg  044                                                           Sawmilling and planing of wood
+1502     indg  045                                               Manufacture of veneer sheets, boards, etc.
+1503     indg  046                                           Manufacture of builders' carpentry and joinery
+1504     indg  047                                                         Manufacture of wooden containers
+1505     indg  048                                                    Manufacture of other products of wood
+1506     indg  049                                                Manufacture of pulp, paper and paperboard
+1507     indg  050                                             Manufacture of paper and paperboard products
+1508     indg  051                                                                               Publishing
+1509     indg  052                                                  Printing and related service activities
+1510     indg  053                                                           Reproduction of recorded media
+1511     indg  054                                                        Manufacture of coke oven products
+1512     indg  055                                                Manufacture of refined petroleum products
+1513     indg  057                                                           Manufacture of basic chemicals
+1514     indg  058                                                                Manufacture of pesticides
+1515     indg  059                                           Manufacture of paints, varnishes, printing ink
+1516     indg  060                                                   Manufacture of pharmaceutical products
+1517     indg  061                                                    Manufacture of soap, detergents, etc.
+1518     indg  062                                                   Manufacture of other chemical products
+1519     indg  063                                                           Manufacture of man-made fibers
+1520     indg  064                                                           Manufacture of rubber products
+1521     indg  065                                                          Manufacture of plastic products
+1522     indg  066                                                  Manufacture of glass and glass products
+1523     indg  067                                                             Manufacture of ceramic goods
+1524     indg  069                                                Manufacture of bricks, etc. in baked clay
+1525     indg  070                                                  Manufacture of cement, lime and plaster
+1526     indg  071                            Manufacture of other articles of concrete, plaster and cement
+1527     indg  072                                                  Cutting, shaping and finishing of stone
+1528     indg  073                                        Manufacture of other nonmetallic mineral products
+1529     indg  074                                                      Manufacture of basic iron and steel
+1530     indg  075                                                                     Manufacture of tubes
+1531     indg  076                                                 Other first processing of iron and steel
+1532     indg  077                                   Manufacture of precious and non-ferrous metal products
+1533     indg  078                                                                        Casting of metals
+1534     indg  079                                                 Manufacture of structural metal products
+1535     indg  080                                                      Manufacture of tanks, etc. of metal
+1536     indg  081                                                          Manufacture of steam generators
+1537     indg  082                                                         Forging, pressing, etc. of metal
+1538     indg  083                                                          Treatment and coating of metals
+1539     indg  084                                       Manufacture of cutlery, tools and general hardware
+1540     indg  085                                           Manufacture of other fabricated metal products
+1541     indg  086                              Manufacture of machinery for production of mechanical power
+1542     indg  087                                           Manufacture of other general purpose machinery
+1543     indg  088                                        Manufacture of agriculture and forestry machinery
+1544     indg  089                                                             Manufacture of machine tools
+1545     indg  090                                           Manufacture of other special purpose machinery
+1546     indg  091                                                    Manufacture of weapons and ammunition
+1547     indg  092                               Manufacture of domestic appliances without further details
+1548     indg  093                                            Manufacture of office machinery and computers
+1549     indg  094                                                     Manufacture of electric motors, etc.
+1550     indg  095                               Manufacture of electric distribution and control equipment
+1551     indg  096                                                  Manufacture of insulated wire and cable
+1552     indg  097                                                Manufacture of accumulators and batteries
+1553     indg  098                                                        Manufacture of lighting equipment
+1554     indg  099                              Manufacture of electrical equipment without further details
 1555     indg  100                                               Manufacture of electronic valves and tubes
 1556     indg  101                                                   Manufacture of communication equipment
 1557     indg  102                                            Manufacture of television and radio equipment
@@ -1675,14 +1675,14 @@
 1674     indg  223                                                     Looking for a job for the first time
 1675     indg  990                                                                      Response suppressed
 1676     indg  999                                                                                      NIU
-1677     indm    1                                                                              Agriculture
-1678     indm    2                                                                     Forestry and logging
-1679     indm    4                                                               Mining of coal and lignite
-1680     indm    5                                            Extraction of crude petroleum and natural gas
-1681     indm    6                                                       Mining of uranium and thorium ores
-1682     indm    7                                                                     Mining of metal ores
-1683     indm    8                                       Other mining and quarrying without further details
-1684     indm    9                                               Manufacture of food products and beverages
+1677     indm   01                                                                              Agriculture
+1678     indm   02                                                                     Forestry and logging
+1679     indm   04                                                               Mining of coal and lignite
+1680     indm   05                                            Extraction of crude petroleum and natural gas
+1681     indm   06                                                       Mining of uranium and thorium ores
+1682     indm   07                                                                     Mining of metal ores
+1683     indm   08                                       Other mining and quarrying without further details
+1684     indm   09                                               Manufacture of food products and beverages
 1685     indm   10                                                          Manufacture of tobacco products
 1686     indm   11                                                                  Manufacture of textiles
 1687     indm   12                                                           Manufacture of wearing apparel
@@ -1737,14 +1737,14 @@
 1736     indm   61                                                     Looking for a job for the first time
 1737     indm   98                                                                      Response suppressed
 1738     indm   99                                                                                      NIU
-1739     inds    1                                                                 Agriculture and forestry
-1740     inds    3                                                                     Mining and quarrying
-1741     inds    4                                                                            Manufacturing
-1742     inds    5                                                        Electricity, gas and water supply
-1743     inds    6                                                                             Construction
-1744     inds    7                                       Trade, repair of motor vehicles and consumer goods
-1745     inds    8                                                                   Hotels and restaurants
-1746     inds    9                                                     Transport, storage and communication
+1739     inds   01                                                                 Agriculture and forestry
+1740     inds   03                                                                     Mining and quarrying
+1741     inds   04                                                                            Manufacturing
+1742     inds   05                                                        Electricity, gas and water supply
+1743     inds   06                                                                             Construction
+1744     inds   07                                       Trade, repair of motor vehicles and consumer goods
+1745     inds   08                                                                   Hotels and restaurants
+1746     inds   09                                                     Transport, storage and communication
 1747     inds   10                                                                 Financial intermediation
 1748     inds   11                                             Real estate, renting and business activities
 1749     inds   12                                       Public administration and defense, social security
@@ -1761,15 +1761,15 @@
 1760    indse    3                                                                       Service activities
 1761    indse    4                                                     Looking for a job for the first time
 1762    indse    9                                                                                      NIU
-1763    indbr    1                                                                  Agriculture and fishing
-1764    indbr    2                                                                     Forestry and hunting
-1765    indbr    3                                                        Electricity, gas and water supply
-1766    indbr    4                                                                           Mining of coal
-1767    indbr    5                                                                     Mining of metal ores
-1768    indbr    6                                            Extraction of crude petroleum and natural gas
-1769    indbr    7                                                                       Production of salt
-1770    indbr    8                                                                      Mining of magnesium
-1771    indbr    9                                                    Extraction of other minerals and peat
+1763    indbr   01                                                                  Agriculture and fishing
+1764    indbr   02                                                                     Forestry and hunting
+1765    indbr   03                                                        Electricity, gas and water supply
+1766    indbr   04                                                                           Mining of coal
+1767    indbr   05                                                                     Mining of metal ores
+1768    indbr   06                                            Extraction of crude petroleum and natural gas
+1769    indbr   07                                                                       Production of salt
+1770    indbr   08                                                                      Mining of magnesium
+1771    indbr   09                                                    Extraction of other minerals and peat
 1772    indbr   10                                                        Quarrying of stone, sand and clay
 1773    indbr   11                                                             Manufacture of food products
 1774    indbr   12                                            Manufacture of beverages and tobacco products
@@ -1840,26 +1840,26 @@
 1839    indbr   77                                                                Unknown industrial branch
 1840    indbr   78                                                                           Retired person
 1841    indbr   79                                                                   Other income recipient
-1842    inddi    1                                                                 Agriculture and forestry
-1843    inddi    2                                                        Electricity, gas and water supply
-1844    inddi    3                                                                     Mining and quarrying
-1845    inddi    4                                                                            Manufacturing
-1846    inddi    5                                                                             Construction
-1847    inddi    6                                                      Wholesale and retail trade, storage
-1848    inddi    7                                                                   Hotels and restaurants
-1849    inddi    8                                                                 Transport, communication
-1850    inddi    9                                 Financial intermediation, insurance, business activities
+1842    inddi   01                                                                 Agriculture and forestry
+1843    inddi   02                                                        Electricity, gas and water supply
+1844    inddi   03                                                                     Mining and quarrying
+1845    inddi   04                                                                            Manufacturing
+1846    inddi   05                                                                             Construction
+1847    inddi   06                                                      Wholesale and retail trade, storage
+1848    inddi   07                                                                   Hotels and restaurants
+1849    inddi   08                                                                 Transport, communication
+1850    inddi   09                                 Financial intermediation, insurance, business activities
 1851    inddi   10                                       Personal, social and public services, housekeeping
 1852    inddi   11                                                                Unknown industrial branch
 1853    inddi   12                                                                           Retired person
-1854    wkplr    1                                                       Mittelburgenland and Südburgenland
-1855    wkplr    2                                                                           Nordburgenland
-1856    wkplr    4                                                                  Mostviertel-Eisenwurzen
-1857    wkplr    5                                                                     Niederösterreich-Süd
-1858    wkplr    6                                                                             Sankt Pölten
-1859    wkplr    7                                                                              Waldviertel
-1860    wkplr    8                                                                              Weinviertel
-1861    wkplr    9                                                                   Wiener Umland-Nordteil
+1854    wkplr   01                                                       Mittelburgenland and Südburgenland
+1855    wkplr   02                                                                           Nordburgenland
+1856    wkplr   04                                                                  Mostviertel-Eisenwurzen
+1857    wkplr   05                                                                     Niederösterreich-Süd
+1858    wkplr   06                                                                             Sankt Pölten
+1859    wkplr   07                                                                              Waldviertel
+1860    wkplr   08                                                                              Weinviertel
+1861    wkplr   09                                                                   Wiener Umland-Nordteil
 1862    wkplr   10                                                                    Wiener Umland-Südteil
 1863    wkplr   11                                                                                     Wien
 1864    wkplr   12                                                                       Klagenfurt-Villach
@@ -1886,11 +1886,11 @@
 1885    wkplr   36                                                                          Foreign country
 1886    wkplr   98                                                                                  Unknown
 1887    wkplr   99                                                                                      NIU
-1888   wkplc1    1                                                                                  Austria
-1889   wkplc1    2                                                                                  Belgium
-1890   wkplc1    4                                                                                  Germany
-1891   wkplc1    6                                                                                   France
-1892   wkplc1    9                                                                                    Italy
+1888   wkplc1   01                                                                                  Austria
+1889   wkplc1   02                                                                                  Belgium
+1890   wkplc1   04                                                                                  Germany
+1891   wkplc1   06                                                                                   France
+1892   wkplc1   09                                                                                    Italy
 1893   wkplc1   11                                                                              Netherlands
 1894   wkplc1   14                                                                                    Spain
 1895   wkplc1   15                                                                           United Kingdom
@@ -1936,28 +1936,28 @@
 1935  commut5    7                                                                Not daily but weekly etc.
 1936  commut5    8                                            Daily commuters, changing commute destination
 1937  commut5    9                                                                                  Unknown
-1938  commut6    1                                                                           None (on foot)
-1939  commut6    2                                                                Motor vehicle, motor bike
-1940  commut6    3                                                                    Train, suburban train
-1941  commut6    4                                                                             Tram, subway
-1942  commut6    5                                                                         Bus, trolley bus
-1943  commut6    6                                                                                  Bicycle
-1944  commut6    7                                                                                    Other
-1945  commut6    8                                                Journey to work not daily but weekly etc.
-1946  commut6    9                                                           Changing commuting destination
+1938  commut6   01                                                                           None (on foot)
+1939  commut6   02                                                                Motor vehicle, motor bike
+1940  commut6   03                                                                    Train, suburban train
+1941  commut6   04                                                                             Tram, subway
+1942  commut6   05                                                                         Bus, trolley bus
+1943  commut6   06                                                                                  Bicycle
+1944  commut6   07                                                                                    Other
+1945  commut6   08                                                Journey to work not daily but weekly etc.
+1946  commut6   09                                                           Changing commuting destination
 1947  commut6   98                                                                                  Unknown
 1948  commut6   99                                                                                      NIU
 1949  relate2    1                                                                        Head of household
 1950  relate2    2                                                                             Other status
-1951   relate    1                                                                             Living alone
-1952   relate    2                                       Household representative of multi-person household
-1953   relate    3                                                       Spouse of household representative
-1954   relate    4                                                   Cohabitant of household representative
-1955   relate    5                                                        Child of household representative
-1956   relate    6                                             Partner of child of household representative
-1957   relate    7                       Grandchild (including his/her partner) of household representative
-1958   relate    8                                  Ancestor of household representative or his/her partner
-1959   relate    9                                               Other relative of household representative
+1951   relate   01                                                                             Living alone
+1952   relate   02                                       Household representative of multi-person household
+1953   relate   03                                                       Spouse of household representative
+1954   relate   04                                                   Cohabitant of household representative
+1955   relate   05                                                        Child of household representative
+1956   relate   06                                             Partner of child of household representative
+1957   relate   07                       Grandchild (including his/her partner) of household representative
+1958   relate   08                                  Ancestor of household representative or his/her partner
+1959   relate   09                                               Other relative of household representative
 1960   relate   10                                           Person not related to household representative
 1961   relate   11                                                         Person living in boarding school
 1962   relate   12                                                  Person living in dormitory for students
@@ -1972,15 +1972,15 @@
 1971   relate   23                                              Person living in private homes for refugees
 1972   relate   24                                                       Person living in other institution
 1973   relate   25                                Person in institution for homeless/socially disadvantaged
-1974  hhstat4    1                                                     Person in private household - spouse
-1975  hhstat4    2                                                 Person in private household - cohabitant
-1976  hhstat4    3                                                Person in private household - lone parent
-1977  hhstat4    4                                                      Person in private household - child
-1978  hhstat4    5                                                                             Living alone
-1979  hhstat4    6                                                        Other person in private household
-1980  hhstat4    7                                                 Person living in educational institution
-1981  hhstat4    8                                                 Person living in health care institution
-1982  hhstat4    9                               Person living in institution for retired or elderly people
+1974  hhstat4   01                                                     Person in private household - spouse
+1975  hhstat4   02                                                 Person in private household - cohabitant
+1976  hhstat4   03                                                Person in private household - lone parent
+1977  hhstat4   04                                                      Person in private household - child
+1978  hhstat4   05                                                                             Living alone
+1979  hhstat4   06                                                        Other person in private household
+1980  hhstat4   07                                                 Person living in educational institution
+1981  hhstat4   08                                                 Person living in health care institution
+1982  hhstat4   09                               Person living in institution for retired or elderly people
 1983  hhstat4   11                                                   Person living in religious institution
 1984  hhstat4   12                                                       Person living in other institution
 1985   famst1    1                                                                   Husband or lone parent
@@ -2123,16 +2123,16 @@
 2122   maryr1 2000                                                                                     2000
 2123   maryr1 2001                                                                                     2001
 2124   maryr1 9999                                                                                      NIU
-2125   mardur    0                                                                             Under 1 year
-2126   mardur    1                                                                                        1
-2127   mardur    2                                                                                        2
-2128   mardur    3                                                                                        3
-2129   mardur    4                                                                                        4
-2130   mardur    5                                                                                        5
-2131   mardur    6                                                                                        6
-2132   mardur    7                                                                                        7
-2133   mardur    8                                                                                        8
-2134   mardur    9                                                                                        9
+2125   mardur   00                                                                             Under 1 year
+2126   mardur   01                                                                                        1
+2127   mardur   02                                                                                        2
+2128   mardur   03                                                                                        3
+2129   mardur   04                                                                                        4
+2130   mardur   05                                                                                        5
+2131   mardur   06                                                                                        6
+2132   mardur   07                                                                                        7
+2133   mardur   08                                                                                        8
+2134   mardur   09                                                                                        9
 2135   mardur   10                                                                                       10
 2136   mardur   11                                                                                       11
 2137   mardur   12                                                                                       12
@@ -2210,15 +2210,15 @@
 2209   marage   49                                                                                       49
 2210   marage   50                                                                                      50+
 2211   marage   99                                                                                      NIU
-2212   hhty6p    1                                                          Married couple without children
-2213   hhty6p    2                                                             Married couple with children
-2214   hhty6p    3                                                       Cohabiting couple without children
-2215   hhty6p    4                                                          Cohabiting couple with children
-2216   hhty6p    5                                                                              Lone mother
-2217   hhty6p    6                                                                              Lone father
-2218   hhty6p    7                                                      Household with two or more families
-2219   hhty6p    8                                                            Single person household, male
-2220   hhty6p    9                                                          Single person household, female
+2212   hhty6p   01                                                          Married couple without children
+2213   hhty6p   02                                                             Married couple with children
+2214   hhty6p   03                                                       Cohabiting couple without children
+2215   hhty6p   04                                                          Cohabiting couple with children
+2216   hhty6p   05                                                                              Lone mother
+2217   hhty6p   06                                                                              Lone father
+2218   hhty6p   07                                                      Household with two or more families
+2219   hhty6p   08                                                            Single person household, male
+2220   hhty6p   09                                                          Single person household, female
 2221   hhty6p   10                                                       Non-family, multi-person household
 2222   hhty6p   11                                                                  Institutional household
                                                                                         value

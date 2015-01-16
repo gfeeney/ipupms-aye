@@ -5,15 +5,15 @@
 4       pern    4                                                                  4
 5       pern    5                                                                  5
 6       pern    6                                                                  6
-7     region    1                                                           Pomurska
-8     region    2                                                          Podravska
-9     region    3                                                            Koroska
-10    region    4                                                          Savinjska
-11    region    5                                                           Zasavska
-12    region    6                                                    Spodnjeposavska
-13    region    7                                              Jugovzhodna Slovenija
-14    region    8                                                  Osrednjeslovenska
-15    region    9                                                          Gorenjska
+7     region   01                                                           Pomurska
+8     region   02                                                          Podravska
+9     region   03                                                            Koroska
+10    region   04                                                          Savinjska
+11    region   05                                                           Zasavska
+12    region   06                                                    Spodnjeposavska
+13    region   07                                              Jugovzhodna Slovenija
+14    region   08                                                  Osrednjeslovenska
+15    region   09                                                          Gorenjska
 16    region   10                                                  Notranjsko-kraska
 17    region   11                                                            Goriska
 18    region   12                                                      Obalno-kraska
@@ -93,22 +93,22 @@
 92    numdwl    3                                            Three to five dwellings
 93    numdwl    4                                           Six to fifteen dwellings
 94    numdwl    5                                          Sixteen dwellings or more
-95    pernum    0                                                              HHrec
+95    pernum    0                                                              hhrec
 96    pernum    1                                                                  1
 97    pernum    2                                                                  2
 98    pernum    3                                                                  3
 99    pernum    4                                                                  4
 100   pernum    5                                                                  5
 101   pernum    6                                                                  6
-102  regionp    1                                                           Pomurska
-103  regionp    2                                                          Podravska
-104  regionp    3                                                            Koroska
-105  regionp    4                                                          Savinjska
-106  regionp    5                                                           Zasavska
-107  regionp    6                                                    Spodnjeposavska
-108  regionp    7                                              Jugovzhodna Slovenija
-109  regionp    8                                                  Osrednjeslovenska
-110  regionp    9                                                          Gorenjska
+102  regionp   01                                                           Pomurska
+103  regionp   02                                                          Podravska
+104  regionp   03                                                            Koroska
+105  regionp   04                                                          Savinjska
+106  regionp   05                                                           Zasavska
+107  regionp   06                                                    Spodnjeposavska
+108  regionp   07                                              Jugovzhodna Slovenija
+109  regionp   08                                                  Osrednjeslovenska
+110  regionp   09                                                          Gorenjska
 111  regionp   10                                                  Notranjsko-kraska
 112  regionp   11                                                            Goriska
 113  regionp   12                                                      Obalno-kraska
@@ -120,15 +120,15 @@
 119   bplind    1                    The same as usual residence as of 31 March 2002
 120   bplind    2                                          Another place in Slovenia
 121   bplind    3                                                             Abroad
-122      bpl    1                                                           Pomurska
-123      bpl    2                                                          Podravska
-124      bpl    3                                                            Koroska
-125      bpl    4                                                          Savinjska
-126      bpl    5                                                           Zasavska
-127      bpl    6                                                    Spodnjeposavska
-128      bpl    7                                              Jugovzhodna Slovenija
-129      bpl    8                                                  Osrednjeslovenska
-130      bpl    9                                                          Gorenjska
+122      bpl   01                                                           Pomurska
+123      bpl   02                                                          Podravska
+124      bpl   03                                                            Koroska
+125      bpl   04                                                          Savinjska
+126      bpl   05                                                           Zasavska
+127      bpl   06                                                    Spodnjeposavska
+128      bpl   07                                              Jugovzhodna Slovenija
+129      bpl   08                                                  Osrednjeslovenska
+130      bpl   09                                                          Gorenjska
 131      bpl   10                                                  Notranjsko-kraska
 132      bpl   11                                                            Goriska
 133      bpl   12                                                      Obalno-kraska
@@ -156,15 +156,15 @@
 155   resprt    3 Migration from another municipality of the same statistical region
 156   resprt    4                          Migration from another statistical region
 157   resprt    5                                              Migration from abroad
-158   resprr    1                                                           Pomurska
-159   resprr    2                                                          Podravska
-160   resprr    3                                                            Koroska
-161   resprr    4                                                          Savinjska
-162   resprr    5                                                           Zasavska
-163   resprr    6                                                    Spodnjeposavska
-164   resprr    7                                              Jugovzhodna Slovenija
-165   resprr    8                                                  Osrednjeslovenska
-166   resprr    9                                                          Gorenjska
+158   resprr   01                                                           Pomurska
+159   resprr   02                                                          Podravska
+160   resprr   03                                                            Koroska
+161   resprr   04                                                          Savinjska
+162   resprr   05                                                           Zasavska
+163   resprr   06                                                    Spodnjeposavska
+164   resprr   07                                              Jugovzhodna Slovenija
+165   resprr   08                                                  Osrednjeslovenska
+166   resprr   09                                                          Gorenjska
 167   resprr   10                                                  Notranjsko-kraska
 168   resprr   11                                                            Goriska
 169   resprr   12                                                      Obalno-kraska
@@ -214,8 +214,8 @@
 213      sex    1                                                               Male
 214      sex    2                                                             Female
 215      sex    9                                                            Unknown
-216      age    0                                                          0-4 years
-217      age    5                                                          5-9 years
+216      age   00                                                          0-4 years
+217      age   05                                                          5-9 years
 218      age   10                                                        10-14 years
 219      age   15                                                        15-19 years
 220      age   20                                                        20-24 years
@@ -287,15 +287,15 @@
 286  edattan    7                                     Higher post-graduate education
 287  edattan    8                                                            Unknown
 288  edattan    9                                                                NIU
-289    field    1                                                  General education
-290    field    2                                                   Teacher training
-291    field    3                                                Humanities and Arts
-292    field    4                                  Social sciences, Business and Law
-293    field    5                                 Science, Mathematics and Computing
-294    field    6                        Engineering, Manufacturing and Construction
-295    field    7                                         Agriculture and Veterinary
-296    field    8                                                 Health and Welfare
-297    field    9                                                           Services
+289    field   01                                                  General education
+290    field   02                                                   Teacher training
+291    field   03                                                Humanities and Arts
+292    field   04                                  Social sciences, Business and Law
+293    field   05                                 Science, Mathematics and Computing
+294    field   06                        Engineering, Manufacturing and Construction
+295    field   07                                         Agriculture and Veterinary
+296    field   08                                                 Health and Welfare
+297    field   09                                                           Services
 298    field   98                                                            Unknown
 299    field   99                                                                NIU
 300  empstat    1                                                           Employed
@@ -303,27 +303,27 @@
 302  empstat    3                                              Child, pupil, student
 303  empstat    4                                                          Pensioner
 304  empstat    5                                              Other inactive person
-305      occ    0                                                       Armed forces
-306      occ    1                         Legislators, senior officials and managers
-307      occ    2                                                      Professionals
-308      occ    3                            Technicians and associate professionals
-309      occ    4                                                             Clerks
-310      occ    5                  Service workers and shop and market sales workers
-311      occ    6                           Skilled agricultural and fishery workers
-312      occ    7                                   Craft and related trades workers
-313      occ    8                         Plant and machine operators and assemblers
-314      occ    9                                             Elementary occupations
+305      occ   00                                                       Armed forces
+306      occ   01                         Legislators, senior officials and managers
+307      occ   02                                                      Professionals
+308      occ   03                            Technicians and associate professionals
+309      occ   04                                                             Clerks
+310      occ   05                  Service workers and shop and market sales workers
+311      occ   06                           Skilled agricultural and fishery workers
+312      occ   07                                   Craft and related trades workers
+313      occ   08                         Plant and machine operators and assemblers
+314      occ   09                                             Elementary occupations
 315      occ   98                                                            Unknown
 316      occ   99                                                                NIU
-317      ind    1                         Agriculture, hunting, forestry and fishing
-318      ind    2                                               Mining and quarrying
-319      ind    3                                                      Manufacturing
-320      ind    4                                  Electricity, gas and water supply
-321      ind    5                                                       Construction
-322      ind    6                                  Wholesale, retail; certain repair
-323      ind    7                                             Hotels and restaurants
-324      ind    8                               Transport, storage and communication
-325      ind    9                                           Financial intermediation
+317      ind   01                         Agriculture, hunting, forestry and fishing
+318      ind   02                                               Mining and quarrying
+319      ind   03                                                      Manufacturing
+320      ind   04                                  Electricity, gas and water supply
+321      ind   05                                                       Construction
+322      ind   06                                  Wholesale, retail; certain repair
+323      ind   07                                             Hotels and restaurants
+324      ind   08                               Transport, storage and communication
+325      ind   09                                           Financial intermediation
 326      ind   10                       Real estate, renting and business activities
 327      ind   11         Public administration, defense; compulsory social security
 328      ind   12                                                          Education
@@ -456,7 +456,7 @@
 92                                             Three to five dwellings
 93                                            Six to fifteen dwellings
 94                                           Sixteen dwellings or more
-95                                                               HHrec
+95                                                               hhrec
 96                                                                   1
 97                                                                   2
 98                                                                   3

@@ -4,7 +4,8 @@
 # Set working directory to directory for sample (this is automatic if R is
 # started by double-clicking the script in the sample directory)
 
-setwd("C:/Users/gfeeney/Desktop/ipums.aye/processing/Rfunctions1")
+ipums.aye <- "C:/Users/gfeeney/Desktop/ipums.aye/"
+setwd(paste(ipums.aye, "processing/Rfunctions1", sep=""))
 
 rm(list=ls())
 
@@ -52,15 +53,15 @@ samplenames <- dir()
 #  Problem: label define ug02a_chdead_lbl 99 `"NA"', add
 # Solution: Replay 'NA' by "Unknown"
 
-samplenames <- setdiff(samplenames, c("south_sudan2008", "uganda2002"))
-i <- 61
+samplenames <- setdiff(samplenames, c("brazil2010", "france2006", "germany1987",
+                                      "mongolia2000", "panama2010"))
+i <- 4 ; samplenames[4]  # , "south_sudan2008", "uganda2002"
 
 # Loop through all samples i <- 1  # i <- 65
 for (i in 1:length(samplenames)) {
   samplename <- samplenames[i]
   cat(paste(formatC(i, width=2, flag="0"), ": ", samplename, " ...\n", sep=""))
   setwd(samplename)
-  status(verbose=FALSE)
 
   # Get vnameprefix
   x <- code.name.year

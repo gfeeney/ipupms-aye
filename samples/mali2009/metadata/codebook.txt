@@ -1,13 +1,13 @@
         vname code                                                                                     short
-1        pern    1                                                                                         1
-2        pern    2                                                                                         2
-3        pern    3                                                                                         3
-4        pern    4                                                                                         4
-5        pern    5                                                                                         5
-6        pern    6                                                                                         6
-7        pern    7                                                                                         7
-8        pern    8                                                                                         8
-9        pern    9                                                                                         9
+1        pern   01                                                                                         1
+2        pern   02                                                                                         2
+3        pern   03                                                                                         3
+4        pern   04                                                                                         4
+5        pern   05                                                                                         5
+6        pern   06                                                                                         6
+7        pern   07                                                                                         7
+8        pern   08                                                                                         8
+9        pern   09                                                                                         9
 10       pern   10                                                                                        10
 11       pern   11                                                                                        11
 12       pern   12                                                                                        12
@@ -162,14 +162,14 @@
 161    regtyp    1                                                                                     Fixed
 162    regtyp    2                                                                                    Mobile
 163    regtyp    9                                                                                   Unknown
-164    dwtype    1                                                                        Apartment building
-165    dwtype    2                                                                                     Villa
-166    dwtype    3                                                                   Simple individual house
-167    dwtype    4                                                         Concession with several dwellings
-168    dwtype    5                                                                                       Hut
-169    dwtype    6                                                                                      Tent
-170    dwtype    7                                                              Precarious dwelling or shack
-171    dwtype    8                                                                                     Other
+164    dwtype   01                                                                        Apartment building
+165    dwtype   02                                                                                     Villa
+166    dwtype   03                                                                   Simple individual house
+167    dwtype   04                                                         Concession with several dwellings
+168    dwtype   05                                                                                       Hut
+169    dwtype   06                                                                                      Tent
+170    dwtype   07                                                              Precarious dwelling or shack
+171    dwtype   08                                                                                     Other
 172    dwtype   99                                                                                   Unknown
 173     walls    1                                                                                      Hard
 174     walls    2                                                                                 Semi hard
@@ -190,59 +190,59 @@
 189     floor    3                                                                              Beaten earth
 190     floor    4                                                                                     Other
 191     floor    9                                                                                   Unknown
-192     light    1                                                         Electricity (Electricity of Mali)
-193     light    2                                           Rural electrification or multifunction platform
-194     light    3                                                                                 Generator
-195     light    4                                                                               Solar panel
-196     light    5                                                                                       Gas
-197     light    6                                                                            Petroleum lamp
-198     light    7                                                                                  Oil lamp
-199     light    8                                                                    Flashlight (batteries)
-200     light    9                                                                                     Other
+192     light   01                                                         Electricity (Electricity of Mali)
+193     light   02                                           Rural electrification or multifunction platform
+194     light   03                                                                                 Generator
+195     light   04                                                                               Solar panel
+196     light   05                                                                                       Gas
+197     light   06                                                                            Petroleum lamp
+198     light   07                                                                                  Oil lamp
+199     light   08                                                                    Flashlight (batteries)
+200     light   09                                                                                     Other
 201     light   99                                                                                   Unknown
-202    watsrc    1                                                                                       Tap
-203    watsrc    2                                                                                 Bore hole
-204    watsrc    3                                                                             Improved well
-205    watsrc    4                                                                          Traditional well
-206    watsrc    5                                                                                Public tap
-207    watsrc    6                                                                             Surface water
-208    watsrc    7                                                                                     Other
+202    watsrc   01                                                                                       Tap
+203    watsrc   02                                                                                 Bore hole
+204    watsrc   03                                                                             Improved well
+205    watsrc   04                                                                          Traditional well
+206    watsrc   05                                                                                Public tap
+207    watsrc   06                                                                             Surface water
+208    watsrc   07                                                                                     Other
 209    watsrc   99                                                                                   Unknown
-210    fuelck    1                                                                               Electricity
-211    fuelck    2                                                                                       Gas
-212    fuelck    3                                                                                 Petroleum
-213    fuelck    4                                                                                      Wood
-214    fuelck    5                                                                                  Charcoal
-215    fuelck    6                                                                               Animal dung
-216    fuelck    7                                                                                Solar oven
-217    fuelck    8                                                                                     Other
+210    fuelck   01                                                                               Electricity
+211    fuelck   02                                                                                       Gas
+212    fuelck   03                                                                                 Petroleum
+213    fuelck   04                                                                                      Wood
+214    fuelck   05                                                                                  Charcoal
+215    fuelck   06                                                                               Animal dung
+216    fuelck   07                                                                                Solar oven
+217    fuelck   08                                                                                     Other
 218    fuelck   99                                                                                   Unknown
-219    toilet    1                                                                 Indoor private with flush
-220    toilet    2                                                                Outdoor private with flush
-221    toilet    3                                                 Communal to several households with flush
-222    toilet    4                                                                           Private latrine
-223    toilet    5                                                                          Communal latrine
-224    toilet    6                                                                           Nature or field
-225    toilet    7                                                                                     Other
+219    toilet   01                                                                 Indoor private with flush
+220    toilet   02                                                                Outdoor private with flush
+221    toilet   03                                                 Communal to several households with flush
+222    toilet   04                                                                           Private latrine
+223    toilet   05                                                                          Communal latrine
+224    toilet   06                                                                           Nature or field
+225    toilet   07                                                                                     Other
 226    toilet   99                                                                                   Unknown
-227  ownershp    1                                                                 Owner with property title
-228  ownershp    2                                                              Owner without property title
-229  ownershp    3                                                                                  Co-owner
-230  ownershp    4                                                                                    Renter
-231  ownershp    5                                                                             Hire purchase
-232  ownershp    6                                                                           Lodged for free
-233  ownershp    7                                                                                     Other
+227  ownershp   01                                                                 Owner with property title
+228  ownershp   02                                                              Owner without property title
+229  ownershp   03                                                                                  Co-owner
+230  ownershp   04                                                                                    Renter
+231  ownershp   05                                                                             Hire purchase
+232  ownershp   06                                                                           Lodged for free
+233  ownershp   07                                                                                     Other
 234  ownershp   99                                                                                   Unknown
-235     rooms    0                                                                                         0
-236     rooms    1                                                                                         1
-237     rooms    2                                                                                         2
-238     rooms    3                                                                                         3
-239     rooms    4                                                                                         4
-240     rooms    5                                                                                         5
-241     rooms    6                                                                                         6
-242     rooms    7                                                                                         7
-243     rooms    8                                                                                         8
-244     rooms    9                                                                                         9
+235     rooms   00                                                                                         0
+236     rooms   01                                                                                         1
+237     rooms   02                                                                                         2
+238     rooms   03                                                                                         3
+239     rooms   04                                                                                         4
+240     rooms   05                                                                                         5
+241     rooms   06                                                                                         6
+242     rooms   07                                                                                         7
+243     rooms   08                                                                                         8
+244     rooms   09                                                                                         9
 245     rooms   10                                                                                        10
 246     rooms   11                                                                                        11
 247     rooms   12                                                                                        12
@@ -255,24 +255,24 @@
 254     stove    1                                                                                       Yes
 255     stove    2                                                                                        No
 256     stove    9                                                                                   Unknown
-257     trash    1                                                                        Private collection
-258     trash    2                                                                       Truck or collection
-259     trash    3                                                                        Communal trash can
-260     trash    4                                                                                       GIE
-261     trash    5                                                                                Trash pile
-262     trash    6                                                                                     Ditch
-263     trash    7                                                                                    Street
-264     trash    8                                                                           Nature or field
-265     trash    9                                                                                     Other
+257     trash   01                                                                        Private collection
+258     trash   02                                                                       Truck or collection
+259     trash   03                                                                        Communal trash can
+260     trash   04                                                                                       GIE
+261     trash   05                                                                                Trash pile
+262     trash   06                                                                                     Ditch
+263     trash   07                                                                                    Street
+264     trash   08                                                                           Nature or field
+265     trash   09                                                                                     Other
 266     trash   99                                                                                   Unknown
-267     sewer    1                                                                                 Courtyard
-268     sewer    2                                                                                    Street
-269     sewer    3                                                                                  Soak pit
-270     sewer    4                                                                       Truck or collection
-271     sewer    5                                                                               Septic tank
-272     sewer    6                                                                              Sewer system
-273     sewer    7                                                                           Nature or field
-274     sewer    8                                                                                     Other
+267     sewer   01                                                                                 Courtyard
+268     sewer   02                                                                                    Street
+269     sewer   03                                                                                  Soak pit
+270     sewer   04                                                                       Truck or collection
+271     sewer   05                                                                               Septic tank
+272     sewer   06                                                                              Sewer system
+273     sewer   07                                                                           Nature or field
+274     sewer   08                                                                                     Other
 275     sewer   99                                                                                   Unknown
 276  death12m    1                                                                                       Yes
 277  death12m    2                                                                                        No
@@ -303,16 +303,16 @@
 302     nmort    1                                                                                         1
 303     nmort    2                                                                                         2
 304     nmort    3                                                                                        3+
-305    pernum    0                                                                                     HHrec
-306    pernum    1                                                                                         1
-307    pernum    2                                                                                         2
-308    pernum    3                                                                                         3
-309    pernum    4                                                                                         4
-310    pernum    5                                                                                         5
-311    pernum    6                                                                                         6
-312    pernum    7                                                                                         7
-313    pernum    8                                                                                         8
-314    pernum    9                                                                                         9
+305    pernum   00                                                                                     hhrec
+306    pernum   01                                                                                         1
+307    pernum   02                                                                                         2
+308    pernum   03                                                                                         3
+309    pernum   04                                                                                         4
+310    pernum   05                                                                                         5
+311    pernum   06                                                                                         6
+312    pernum   07                                                                                         7
+313    pernum   08                                                                                         8
+314    pernum   09                                                                                         9
 315    pernum   10                                                                                        10
 316    pernum   11                                                                                        11
 317    pernum   12                                                                                        12
@@ -390,15 +390,15 @@
 389    pernum   84                                                                                        84
 390       sex    1                                                                                      Male
 391       sex    2                                                                                    Female
-392    relate    1                                                                         Head of household
-393    relate    2                                                               Spouse of head of household
-394    relate    3                                                      Son or daughter of head of household
-395    relate    4                                                    Brother or sister of head of household
-396    relate    5                                                     Father or mother of head of household
-397    relate    6                                                                                Grandchild
-398    relate    7                                                                           Nephew or niece
-399    relate    8                                                                             Uncle or aunt
-400    relate    9                                                                   Son- or daughter-in-law
+392    relate   01                                                                         Head of household
+393    relate   02                                                               Spouse of head of household
+394    relate   03                                                      Son or daughter of head of household
+395    relate   04                                                    Brother or sister of head of household
+396    relate   05                                                     Father or mother of head of household
+397    relate   06                                                                                Grandchild
+398    relate   07                                                                           Nephew or niece
+399    relate   08                                                                             Uncle or aunt
+400    relate   09                                                                   Son- or daughter-in-law
 401    relate   10                                                       Other relative of head of household
 402    relate   11                                                                                   Servant
 403    relate   12                                                                              Non-relative
@@ -414,15 +414,15 @@
 413   brthreg    2                                                                                        No
 414   brthreg    3                                                                  Respondent does not know
 415   brthreg    9                                                                                   Unknown
-416   birthmo    1                                                                                   January
-417   birthmo    2                                                                                  February
-418   birthmo    3                                                                                     March
-419   birthmo    4                                                                                     April
-420   birthmo    5                                                                                       May
-421   birthmo    6                                                                                      June
-422   birthmo    7                                                                                      July
-423   birthmo    8                                                                                    August
-424   birthmo    9                                                                                 September
+416   birthmo   01                                                                                   January
+417   birthmo   02                                                                                  February
+418   birthmo   03                                                                                     March
+419   birthmo   04                                                                                     April
+420   birthmo   05                                                                                       May
+421   birthmo   06                                                                                      June
+422   birthmo   07                                                                                      July
+423   birthmo   08                                                                                    August
+424   birthmo   09                                                                                 September
 425   birthmo   10                                                                                   October
 426   birthmo   11                                                                                  November
 427   birthmo   12                                                                                  December
@@ -529,16 +529,16 @@
 528   birthyr 2008                                                                                      2008
 529   birthyr 2009                                                                                      2009
 530   birthyr 9999                                                                                   Unknown
-531       age    0                                                                          Less than 1 year
-532       age    1                                                                                         1
-533       age    2                                                                                         2
-534       age    3                                                                                         3
-535       age    4                                                                                         4
-536       age    5                                                                                         5
-537       age    6                                                                                         6
-538       age    7                                                                                         7
-539       age    8                                                                                         8
-540       age    9                                                                                         9
+531       age   00                                                                          Less than 1 year
+532       age   01                                                                                         1
+533       age   02                                                                                         2
+534       age   03                                                                                         3
+535       age   04                                                                                         4
+536       age   05                                                                                         5
+537       age   06                                                                                         6
+538       age   07                                                                                         7
+539       age   08                                                                                         8
+540       age   09                                                                                         9
 541       age   10                                                                                        10
 542       age   11                                                                                        11
 543       age   12                                                                                        12
@@ -629,16 +629,16 @@
 628       age   97                                                                                        97
 629       age   98                                                                                       98+
 630       age   99                                                                                   Unknown
-631     agemo    0                                                                         Less than 1 month
-632     agemo    1                                                                                   1 month
-633     agemo    2                                                                                  2 months
-634     agemo    3                                                                                         3
-635     agemo    4                                                                                         4
-636     agemo    5                                                                                         5
-637     agemo    6                                                                                         6
-638     agemo    7                                                                                         7
-639     agemo    8                                                                                         8
-640     agemo    9                                                                                         9
+631     agemo   00                                                                         Less than 1 month
+632     agemo   01                                                                                   1 month
+633     agemo   02                                                                                  2 months
+634     agemo   03                                                                                         3
+635     agemo   04                                                                                         4
+636     agemo   05                                                                                         5
+637     agemo   06                                                                                         6
+638     agemo   07                                                                                         7
+639     agemo   08                                                                                         8
+640     agemo   09                                                                                         9
 641     agemo   10                                                                                        10
 642     agemo   11                                                                                        11
 643     agemo   97                                                          Less than 1 year, months unknown
@@ -707,15 +707,15 @@
 706   bplctry  523                                                                            American Samoa
 707   bplctry  599                                                                             Other Oceania
 708   bplctry  999                                                                                   Unknown
-709   bplregn    1                                                                                     Kayes
-710   bplregn    2                                                                                 Koulikoro
-711   bplregn    3                                                                                   Sikasso
-712   bplregn    4                                                                                     Ségou
-713   bplregn    5                                                                                     Mopti
-714   bplregn    6                                                                                Tombouctou
-715   bplregn    7                                                                                       Gao
-716   bplregn    8                                                                                     Kidal
-717   bplregn    9                                                                                    Bamako
+709   bplregn   01                                                                                     Kayes
+710   bplregn   02                                                                                 Koulikoro
+711   bplregn   03                                                                                   Sikasso
+712   bplregn   04                                                                                     Ségou
+713   bplregn   05                                                                                     Mopti
+714   bplregn   06                                                                                Tombouctou
+715   bplregn   07                                                                                       Gao
+716   bplregn   08                                                                                     Kidal
+717   bplregn   09                                                                                    Bamako
 718   bplregn   98                                                                                   Unknown
 719   bplregn   99                                                                                       NIU
 720       bpl   10                                                              Kayes region, unknown circle
@@ -900,15 +900,15 @@
 899  prevctry  599                                                                             Other Oceania
 900  prevctry  998                                                                                   Unknown
 901  prevctry  999                                                                                       NIU
-902  prevres2    1                                                                                     Kayes
-903  prevres2    2                                                                                 Koulikoro
-904  prevres2    3                                                                                   Sikasso
-905  prevres2    4                                                                                     Ségou
-906  prevres2    5                                                                                     Mopti
-907  prevres2    6                                                                                Tombouctou
-908  prevres2    7                                                                                       Gao
-909  prevres2    8                                                                                     Kidal
-910  prevres2    9                                                                                    Bamako
+902  prevres2   01                                                                                     Kayes
+903  prevres2   02                                                                                 Koulikoro
+904  prevres2   03                                                                                   Sikasso
+905  prevres2   04                                                                                     Ségou
+906  prevres2   05                                                                                     Mopti
+907  prevres2   06                                                                                Tombouctou
+908  prevres2   07                                                                                       Gao
+909  prevres2   08                                                                                     Kidal
+910  prevres2   09                                                                                    Bamako
 911  prevres2   98                                                                                   Unknown
 912  prevres2   99                                                                                       NIU
 913   prevres   10                                                              Kayes region, unknown circle
@@ -977,16 +977,16 @@
 976   prevres   96                                                     Commune IV  of the District of Bamako
 977   prevres   98                                                                                   Unknown
 978   prevres   99                                                                                       NIU
-979    durres    0                                                                                         0
-980    durres    1                                                                                         1
-981    durres    2                                                                                         2
-982    durres    3                                                                                         3
-983    durres    4                                                                                         4
-984    durres    5                                                                                         5
-985    durres    6                                                                                         6
-986    durres    7                                                                                         7
-987    durres    8                                                                                         8
-988    durres    9                                                                                         9
+979    durres   00                                                                                         0
+980    durres   01                                                                                         1
+981    durres   02                                                                                         2
+982    durres   03                                                                                         3
+983    durres   04                                                                                         4
+984    durres   05                                                                                         5
+985    durres   06                                                                                         6
+986    durres   07                                                                                         7
+987    durres   08                                                                                         8
+988    durres   09                                                                                         9
 989    durres   10                                                                                        10
 990    durres   11                                                                                        11
 991    durres   12                                                                                        12
@@ -1089,71 +1089,71 @@
 1088   school    2                                                                  Yes, attending currently
 1089   school    8                                                                                   Unknown
 1090   school    9                                                                                       NIU
-1091  edlevel    0                                                                                       NIU
-1092  edlevel    1                                                                                      None
-1093  edlevel    2                                                              Koranic school (not trained)
-1094  edlevel    3                                                                    Literate (not trained)
-1095  edlevel    4                                                                                 Preschool
-1096  edlevel    5                                                                    Fundamental, 1st cycle
-1097  edlevel    6                                                                    Fundamental, 2nd cycle
-1098  edlevel    7                                                                         Madras, 1st cycle
-1099  edlevel    8                                                                         Madras, 2nd cycle
-1100  edlevel    9                                                                                 Secondary
+1091  edlevel   00                                                                                       NIU
+1092  edlevel   01                                                                                      None
+1093  edlevel   02                                                              Koranic school (not trained)
+1094  edlevel   03                                                                    Literate (not trained)
+1095  edlevel   04                                                                                 Preschool
+1096  edlevel   05                                                                    Fundamental, 1st cycle
+1097  edlevel   06                                                                    Fundamental, 2nd cycle
+1098  edlevel   07                                                                         Madras, 1st cycle
+1099  edlevel   08                                                                         Madras, 2nd cycle
+1100  edlevel   09                                                                                 Secondary
 1101  edlevel   10                                                                Technical and professional
 1102  edlevel   11                                                                           Teaching school
 1103  edlevel   12                                                                                University
 1104  edlevel   13                                                                           Post-university
 1105  edlevel   99                                                                                   Unknown
-1106    class    0                                                                                       NIU
-1107    class    1                                                                                         1
-1108    class    2                                                                                         2
-1109    class    3                                                                                         3
-1110    class    4                                                                                         4
-1111    class    5                                                                                         5
-1112    class    6                                                                                         6
-1113    class    7                                                                                         7
-1114    class    8                                                                                         8
-1115    class    9                                                                                         9
+1106    class   00                                                                                       NIU
+1107    class   01                                                                                         1
+1108    class   02                                                                                         2
+1109    class   03                                                                                         3
+1110    class   04                                                                                         4
+1111    class   05                                                                                         5
+1112    class   06                                                                                         6
+1113    class   07                                                                                         7
+1114    class   08                                                                                         8
+1115    class   09                                                                                         9
 1116    class   10                                                                                        10
 1117    class   11                                                                                        11
 1118    class   12                                                                                        12
 1119    class   99                                                                                   Unknown
-1120 edattend    0                                                                                       NIU
-1121 edattend  100                                                                              No schooling
-1122 edattend  200                                                                   Koranic school, 0 years
-1123 edattend  300                                                                         Literate, 0 years
-1124 edattend  401                                                                         Preschool, 1 year
-1125 edattend  402                                                                        Preschool, 2 years
-1126 edattend  403                                                                        Preschool, 3 years
-1127 edattend  501                                                             Fundamental 1st cycle, 1 year
-1128 edattend  502                                                            Fundamental 1st cycle, 2 years
-1129 edattend  503                                                            Fundamental 1st cycle, 3 years
-1130 edattend  504                                                            Fundamental 1st cycle, 4 years
-1131 edattend  505                                                            Fundamental 1st cycle, 5 years
-1132 edattend  506                                                            Fundamental 1st cycle, 6 years
-1133 edattend  599                                                      Fundamental 1st cycle, unknown class
-1134 edattend  606                                                            Fundamental 2nd cycle, 6 years
-1135 edattend  607                                                            Fundamental 2nd cycle, 7 years
-1136 edattend  608                                                            Fundamental 2nd cycle, 8 years
-1137 edattend  609                                                            Fundamental 2nd cycle, 9 years
-1138 edattend  699                                                      Fundamental 2nd cycle, unknown class
-1139 edattend  701                                                                  Madras 1st cycle, 1 year
-1140 edattend  702                                                                 Madras 1st cycle, 2 years
-1141 edattend  703                                                                 Madras 1st cycle, 3 years
-1142 edattend  704                                                                 Madras 1st cycle, 4 years
-1143 edattend  705                                                                 Madras 1st cycle, 5 years
-1144 edattend  706                                                                 Madras 1st cycle, 6 years
-1145 edattend  799                                                            Madras 1st cycle, unknown year
-1146 edattend  806                                                                 Madras 2nd cycle, 6 years
-1147 edattend  807                                                                 Madras 2nd cycle, 7 years
-1148 edattend  808                                                                 Madras 2nd cycle, 8 years
-1149 edattend  809                                                                 Madras 2nd cycle, 9 years
-1150 edattend  899                                                            Madras 2nd cycle, unknown year
-1151 edattend  909                                                                        Secondary, 9 years
-1152 edattend  910                                                                       Secondary, 10 years
-1153 edattend  911                                                                       Secondary, 11 years
-1154 edattend  912                                                                       Secondary, 12 years
-1155 edattend  999                                                                   Secondary, unknown year
+1120 edattend 0000                                                                                       NIU
+1121 edattend 0100                                                                              No schooling
+1122 edattend 0200                                                                   Koranic school, 0 years
+1123 edattend 0300                                                                         Literate, 0 years
+1124 edattend 0401                                                                         Preschool, 1 year
+1125 edattend 0402                                                                        Preschool, 2 years
+1126 edattend 0403                                                                        Preschool, 3 years
+1127 edattend 0501                                                             Fundamental 1st cycle, 1 year
+1128 edattend 0502                                                            Fundamental 1st cycle, 2 years
+1129 edattend 0503                                                            Fundamental 1st cycle, 3 years
+1130 edattend 0504                                                            Fundamental 1st cycle, 4 years
+1131 edattend 0505                                                            Fundamental 1st cycle, 5 years
+1132 edattend 0506                                                            Fundamental 1st cycle, 6 years
+1133 edattend 0599                                                      Fundamental 1st cycle, unknown class
+1134 edattend 0606                                                            Fundamental 2nd cycle, 6 years
+1135 edattend 0607                                                            Fundamental 2nd cycle, 7 years
+1136 edattend 0608                                                            Fundamental 2nd cycle, 8 years
+1137 edattend 0609                                                            Fundamental 2nd cycle, 9 years
+1138 edattend 0699                                                      Fundamental 2nd cycle, unknown class
+1139 edattend 0701                                                                  Madras 1st cycle, 1 year
+1140 edattend 0702                                                                 Madras 1st cycle, 2 years
+1141 edattend 0703                                                                 Madras 1st cycle, 3 years
+1142 edattend 0704                                                                 Madras 1st cycle, 4 years
+1143 edattend 0705                                                                 Madras 1st cycle, 5 years
+1144 edattend 0706                                                                 Madras 1st cycle, 6 years
+1145 edattend 0799                                                            Madras 1st cycle, unknown year
+1146 edattend 0806                                                                 Madras 2nd cycle, 6 years
+1147 edattend 0807                                                                 Madras 2nd cycle, 7 years
+1148 edattend 0808                                                                 Madras 2nd cycle, 8 years
+1149 edattend 0809                                                                 Madras 2nd cycle, 9 years
+1150 edattend 0899                                                            Madras 2nd cycle, unknown year
+1151 edattend 0909                                                                        Secondary, 9 years
+1152 edattend 0910                                                                       Secondary, 10 years
+1153 edattend 0911                                                                       Secondary, 11 years
+1154 edattend 0912                                                                       Secondary, 12 years
+1155 edattend 0999                                                                   Secondary, unknown year
 1156 edattend 1001                                                        Technical and professional, 1 year
 1157 edattend 1002                                                       Technical and professional, 2 years
 1158 edattend 1003                                                       Technical and professional, 3 years
@@ -1195,30 +1195,30 @@
 1194 edattend 1309                                                          Post university, 9 or more years
 1195 edattend 1399                                                            Post university, unknown class
 1196 edattend 9999                                                                                   Unknown
-1197  diploma    0                                                                                       NIU
-1198  diploma    1                                                            Certificate of primary studies
-1199  diploma    2                                                               Fundamental studies diploma
-1200  diploma    3                                                      Certificate of professional aptitude
-1201  diploma    4                                           Preschool and special educator teacher training
-1202  diploma    5                                                                  Technician's certificate
-1203  diploma    6                        Superior technician's certificate or university technology diploma
-1204  diploma    7                                                                            Teach training
-1205  diploma    8                                                                       High school diploma
-1206  diploma    9                                                                   Two year college degree
+1197  diploma   00                                                                                       NIU
+1198  diploma   01                                                            Certificate of primary studies
+1199  diploma   02                                                               Fundamental studies diploma
+1200  diploma   03                                                      Certificate of professional aptitude
+1201  diploma   04                                           Preschool and special educator teacher training
+1202  diploma   05                                                                  Technician's certificate
+1203  diploma   06                        Superior technician's certificate or university technology diploma
+1204  diploma   07                                                                            Teach training
+1205  diploma   08                                                                       High school diploma
+1206  diploma   09                                                                   Two year college degree
 1207  diploma   10                                            Bachelor's degree (baccalaureate plus 3 years)
 1208  diploma   11                                              Master's degree (baccalaureate plus 4 years)
 1209  diploma   12                                   Post university diploma (Masters, DEA, DESS, PhD, etc.)
 1210  diploma   99                                                                                   Unknown
-1211  langnat    0                                                                                       NIU
-1212  langnat    1                                                                                   Bambara
-1213  langnat    2                                                                                   Malinké
-1214  langnat    3                                                                        Peul or Foulfoulbé
-1215  langnat    4                                                                          Sonraï or Djerma
-1216  langnat    5                                                                         Maraka or Soninké
-1217  langnat    6                                                                                  Kassonké
-1218  langnat    7                                                                                   Sénoufo
-1219  langnat    8                                                                                     Dogon
-1220  langnat    9                                                                                     Maure
+1211  langnat   00                                                                                       NIU
+1212  langnat   01                                                                                   Bambara
+1213  langnat   02                                                                                   Malinké
+1214  langnat   03                                                                        Peul or Foulfoulbé
+1215  langnat   04                                                                          Sonraï or Djerma
+1216  langnat   05                                                                         Maraka or Soninké
+1217  langnat   06                                                                                  Kassonké
+1218  langnat   07                                                                                   Sénoufo
+1219  langnat   08                                                                                     Dogon
+1220  langnat   09                                                                                     Maure
 1221  langnat   10                                                                                  Tamacheq
 1222  langnat   11                                                                                      Bobo
 1223  langnat   12                                                                                    Dafing
@@ -1231,16 +1231,16 @@
 1230  langnat   19                                                                   Other African languages
 1231  langnat   20                                                                   Other foreign languages
 1232  langnat   99                                                                                   Unknown
-1233  langflu    0                                                                                       NIU
-1234  langflu    1                                                                                   Bambara
-1235  langflu    2                                                                                   Malinké
-1236  langflu    3                                                                        Peul or Foulfoulbé
-1237  langflu    4                                                                          Sonraï or Djerma
-1238  langflu    5                                                                         Maraka or Soninké
-1239  langflu    6                                                                                  Kassonké
-1240  langflu    7                                                                                   Sénoufo
-1241  langflu    8                                                                                     Dogon
-1242  langflu    9                                                                                     Maure
+1233  langflu   00                                                                                       NIU
+1234  langflu   01                                                                                   Bambara
+1235  langflu   02                                                                                   Malinké
+1236  langflu   03                                                                        Peul or Foulfoulbé
+1237  langflu   04                                                                          Sonraï or Djerma
+1238  langflu   05                                                                         Maraka or Soninké
+1239  langflu   06                                                                                  Kassonké
+1240  langflu   07                                                                                   Sénoufo
+1241  langflu   08                                                                                     Dogon
+1242  langflu   09                                                                                     Maure
 1243  langflu   10                                                                                  Tamacheq
 1244  langflu   11                                                                                      Bobo
 1245  langflu   12                                                                                    Dafing
@@ -1253,141 +1253,141 @@
 1252  langflu   19                                                                   Other African languages
 1253  langflu   20                                                                   Other foreign languages
 1254  langflu   99                                                                                   Unknown
-1255  empstat    1                                                                                   At work
-1256  empstat    2                                                     Unemployed (having previously worked)
-1257  empstat    3                                                                     Looking for first job
-1258  empstat    4                                                                       Seasonal inactivity
-1259  empstat    5                                                                          Occupied at home
-1260  empstat    6                                                                                   Student
-1261  empstat    7                                                               Person of independent means
-1262  empstat    8                                                                        Retired or elderly
-1263  empstat    9                                                                            Has not worked
+1255  empstat   01                                                                                   At work
+1256  empstat   02                                                     Unemployed (having previously worked)
+1257  empstat   03                                                                     Looking for first job
+1258  empstat   04                                                                       Seasonal inactivity
+1259  empstat   05                                                                          Occupied at home
+1260  empstat   06                                                                                   Student
+1261  empstat   07                                                               Person of independent means
+1262  empstat   08                                                                        Retired or elderly
+1263  empstat   09                                                                            Has not worked
 1264  empstat   98                                                                                   Unknown
 1265  empstat   99                                                                                       NIU
-1266      occ  101                                                                           Farmer, peasant
-1267      occ  102                                                                               Greengrocer
-1268      occ  103                                                                         Gardener, florist
-1269      occ  104                                                                               Tree farmer
-1270      occ  105                                       Other agricultural workers not elsewhere classified
-1271      occ  106                                                                                   Breeder
-1272      occ  107                                                                                  Shepherd
-1273      occ  108                                                                            Poultry farmer
-1274      occ  109                                                                                 Beekeeper
-1275      occ  110                           Other workers in livestock and related not elsewhere classified
-1276      occ  111                                                                                    Hunter
-1277      occ  112                                                                                  Forestry
-1278      occ  113                                                                                Agronomist
-1279      occ  114                                                          Veterinarian or veterinary agent
-1280      occ  115                                                              Seasonal agricultural worker
-1281      occ  201                                                                                 Fisherman
-1282      occ  202                                                                  Fish farmer, aquaculture
-1283      occ  301                                                                            Sand extractor
-1284      occ  302                                                                           Gold prospector
-1285      occ  303                                                                               Well digger
-1286      occ  304                                                                                 Geologist
-1287      occ  305                                                             Other mine and quarry workers
-1288      occ  401                                                                   Carpenter, cabinetmaker
-1289      occ  402                                                        Basketmaker, weaver (mat, fan etc)
-1290      occ  403                                                                  Shoemaker, leatherworker
-1291      occ  404                                                                                 Carpenter
-1292      occ  405                                                                     Glazier, glass worker
-1293      occ  406                                                                                Brickmaker
-1294      occ  407                                                                                      Dyer
-1295      occ  408                                                                                    Potter
-1296      occ  409                                                                                   Jeweler
-1297      occ  410                                                                                    Weaver
-1298      occ  411                                                                                     Smith
-1299      occ  412                                                                                    Welder
-1300      occ  413                                                                                  Sculptor
-1301      occ  414 Other similar craftsman not elsewhere classified (factories, manufacturing industry, etc)
-1302      occ  415                                                                                     Baker
-1303      occ  416                                                                              Pastry maker
-1304      occ  417                                                                      Painter or decorator
-1305      occ  418                                                                                   Printer
-1306      occ  419                                                                                    Tailor
-1307      occ  420                                                                               Embroiderer
-1308      occ  421                                                                                Dressmaker
-1309      occ  422                                                                               Upholsterer
-1310      occ  424                                                                   Miller or mill operator
-1311      occ  425                                                                          Refrigerationist
-1312      occ  426                                                          Worker in manufacturing activity
-1313      occ  501                                                                               Electrician
-1314      occ  502                                                                              Energy agent
-1315      occ  503                                                                        Water distribution
-1316      occ  601                                                                                     Mason
-1317      occ  602                                                                                    Worker
-1318      occ  604                                                                Other construction workers
-1319      occ  605                                                                      Floor tiling, marble
-1320      occ  606                                                                      Building constructor
-1321      occ  607                                                                       Building contractor
-1322      occ  608                                                                                  Tâcheron
-1323      occ  610                                                                  Surveyor or cartographer
-1324      occ  611                                                                                   Plumber
-1325      occ  612                                                                         Building engineer
-1326      occ  613                                                                                 Architect
-1327      occ  701                                       Director and manager of business, economic operator
-1328      occ  702                                                                                    Trader
-1329      occ  703                                                                                Shopkeeper
-1330      occ  704                                                                              Merchandiser
-1331      occ  706                                         Seller of articles (general trade, various items)
-1332      occ  707                                                                        Seller of pharmacy
-1333      occ  708                                                                             Coffee seller
-1334      occ  709                                                                     Local pharmacy vendor
-1335      occ  710                                                                               Fish seller
-1336      occ  711                                                                          Vegetable seller
-1337      occ  712                                                                           Clothing celler
-1338      occ  713                                                                               Wood seller
-1339      occ  714                                                                    Street vendor (mobile)
-1340      occ  715                                                                               Food vendor
-1341      occ  716                                                                               Shoe vendor
-1342      occ  717                                                                          Livestock vender
-1343      occ  718                                                                               Milk vendor
-1344      occ  719                                                                           Charcoal vendor
-1345      occ  720                                                                              Fruit vendor
-1346      occ  721                                                                          Condiment vendor
-1347      occ  722                               Supply vendor (stationary, books and other office supplies)
-1348      occ  723                                                                             Ticket seller
-1349      occ  724                                                                             Cereal vendor
-1350      occ  725                                                    Seller of telephone cards, phone booth
-1351      occ  726                                                                               Soda vendor
-1352      occ  727                                                                             Cement vendor
-1353      occ  728                                                              Vendor of cosmetic produccts
-1354      occ  729                                                                                Egg seller
-1355      occ  730                                                                        Electronics vendor
-1356      occ  731                                                           Vendor of traditional medicines
-1357      occ  732                                                                              Bread seller
-1358      occ  733                                                                                   Butcher
-1359      occ  736                                                                      Sales representative
-1360      occ  737                                    Other sales staff and sellers not elsewhere classified
-1361      occ  738                                                                           Hardware seller
-1362      occ  739                                                               Moped and bicycle repairman
-1363      occ  741                                                 Repair for radio and television receivers
-1364      occ  742                                                                     Gas station attendant
-1365      occ  744                                                                            Shoe repairman
-1366      occ  746                                                             Vehicle and motorcycle seller
-1367      occ  748                                                                              Parts vender
-1368      occ  749                                                                                Pharmacist
-1369      occ  750                                                              Auto mechanics and auxiliary
-1370      occ  751                                                                 Vulcanising (tire repair)
-1371      occ  752                                                                               Storekeeper
-1372      occ  801                                                                               Hotel owner
-1373      occ  802                                                                          Restaurant owner
-1374      occ  803                                                                                 Gargotier
-1375      occ  805       Other service personnel occupations not elsewhere classified (hostess, steward etc)
-1376      occ  806                                                                                Tour guide
-1377      occ  901                                                                                   Carrier
-1378      occ  902                                                                                  Conveyor
-1379      occ  903                                                                      Light vehicle driver
-1380      occ  906                   Driver of animal- or person-powered vehicle (donkey cart, rickshaw etc)
-1381      occ  907                                                               Small boat driver (pirogue)
-1382      occ  908                                                                                   Taximan
-1383      occ  910                                        Other drivers of vehicles not elsewhere classified
-1384      occ  911                                                                   Moderator or journalist
-1385      occ  913                    Other telecommunication agents (cyber cafes, Orange, Malitel, Sotelma)
-1386      occ  915                   Other communication agents not elsewhere classified (marketing, griots)
-1387      occ  916                                                Transportation agent (air, land and river)
-1388      occ  917                                                                                   Laborer
-1389      occ  919                                                                Forwarding agent (freight)
+1266      occ 0101                                                                           Farmer, peasant
+1267      occ 0102                                                                               Greengrocer
+1268      occ 0103                                                                         Gardener, florist
+1269      occ 0104                                                                               Tree farmer
+1270      occ 0105                                       Other agricultural workers not elsewhere classified
+1271      occ 0106                                                                                   Breeder
+1272      occ 0107                                                                                  Shepherd
+1273      occ 0108                                                                            Poultry farmer
+1274      occ 0109                                                                                 Beekeeper
+1275      occ 0110                           Other workers in livestock and related not elsewhere classified
+1276      occ 0111                                                                                    Hunter
+1277      occ 0112                                                                                  Forestry
+1278      occ 0113                                                                                Agronomist
+1279      occ 0114                                                          Veterinarian or veterinary agent
+1280      occ 0115                                                              Seasonal agricultural worker
+1281      occ 0201                                                                                 Fisherman
+1282      occ 0202                                                                  Fish farmer, aquaculture
+1283      occ 0301                                                                            Sand extractor
+1284      occ 0302                                                                           Gold prospector
+1285      occ 0303                                                                               Well digger
+1286      occ 0304                                                                                 Geologist
+1287      occ 0305                                                             Other mine and quarry workers
+1288      occ 0401                                                                   Carpenter, cabinetmaker
+1289      occ 0402                                                        Basketmaker, weaver (mat, fan etc)
+1290      occ 0403                                                                  Shoemaker, leatherworker
+1291      occ 0404                                                                                 Carpenter
+1292      occ 0405                                                                     Glazier, glass worker
+1293      occ 0406                                                                                Brickmaker
+1294      occ 0407                                                                                      Dyer
+1295      occ 0408                                                                                    Potter
+1296      occ 0409                                                                                   Jeweler
+1297      occ 0410                                                                                    Weaver
+1298      occ 0411                                                                                     Smith
+1299      occ 0412                                                                                    Welder
+1300      occ 0413                                                                                  Sculptor
+1301      occ 0414 Other similar craftsman not elsewhere classified (factories, manufacturing industry, etc)
+1302      occ 0415                                                                                     Baker
+1303      occ 0416                                                                              Pastry maker
+1304      occ 0417                                                                      Painter or decorator
+1305      occ 0418                                                                                   Printer
+1306      occ 0419                                                                                    Tailor
+1307      occ 0420                                                                               Embroiderer
+1308      occ 0421                                                                                Dressmaker
+1309      occ 0422                                                                               Upholsterer
+1310      occ 0424                                                                   Miller or mill operator
+1311      occ 0425                                                                          Refrigerationist
+1312      occ 0426                                                          Worker in manufacturing activity
+1313      occ 0501                                                                               Electrician
+1314      occ 0502                                                                              Energy agent
+1315      occ 0503                                                                        Water distribution
+1316      occ 0601                                                                                     Mason
+1317      occ 0602                                                                                    Worker
+1318      occ 0604                                                                Other construction workers
+1319      occ 0605                                                                      Floor tiling, marble
+1320      occ 0606                                                                      Building constructor
+1321      occ 0607                                                                       Building contractor
+1322      occ 0608                                                                                  Tâcheron
+1323      occ 0610                                                                  Surveyor or cartographer
+1324      occ 0611                                                                                   Plumber
+1325      occ 0612                                                                         Building engineer
+1326      occ 0613                                                                                 Architect
+1327      occ 0701                                       Director and manager of business, economic operator
+1328      occ 0702                                                                                    Trader
+1329      occ 0703                                                                                Shopkeeper
+1330      occ 0704                                                                              Merchandiser
+1331      occ 0706                                         Seller of articles (general trade, various items)
+1332      occ 0707                                                                        Seller of pharmacy
+1333      occ 0708                                                                             Coffee seller
+1334      occ 0709                                                                     Local pharmacy vendor
+1335      occ 0710                                                                               Fish seller
+1336      occ 0711                                                                          Vegetable seller
+1337      occ 0712                                                                           Clothing celler
+1338      occ 0713                                                                               Wood seller
+1339      occ 0714                                                                    Street vendor (mobile)
+1340      occ 0715                                                                               Food vendor
+1341      occ 0716                                                                               Shoe vendor
+1342      occ 0717                                                                          Livestock vender
+1343      occ 0718                                                                               Milk vendor
+1344      occ 0719                                                                           Charcoal vendor
+1345      occ 0720                                                                              Fruit vendor
+1346      occ 0721                                                                          Condiment vendor
+1347      occ 0722                               Supply vendor (stationary, books and other office supplies)
+1348      occ 0723                                                                             Ticket seller
+1349      occ 0724                                                                             Cereal vendor
+1350      occ 0725                                                    Seller of telephone cards, phone booth
+1351      occ 0726                                                                               Soda vendor
+1352      occ 0727                                                                             Cement vendor
+1353      occ 0728                                                              Vendor of cosmetic produccts
+1354      occ 0729                                                                                Egg seller
+1355      occ 0730                                                                        Electronics vendor
+1356      occ 0731                                                           Vendor of traditional medicines
+1357      occ 0732                                                                              Bread seller
+1358      occ 0733                                                                                   Butcher
+1359      occ 0736                                                                      Sales representative
+1360      occ 0737                                    Other sales staff and sellers not elsewhere classified
+1361      occ 0738                                                                           Hardware seller
+1362      occ 0739                                                               Moped and bicycle repairman
+1363      occ 0741                                                 Repair for radio and television receivers
+1364      occ 0742                                                                     Gas station attendant
+1365      occ 0744                                                                            Shoe repairman
+1366      occ 0746                                                             Vehicle and motorcycle seller
+1367      occ 0748                                                                              Parts vender
+1368      occ 0749                                                                                Pharmacist
+1369      occ 0750                                                              Auto mechanics and auxiliary
+1370      occ 0751                                                                 Vulcanising (tire repair)
+1371      occ 0752                                                                               Storekeeper
+1372      occ 0801                                                                               Hotel owner
+1373      occ 0802                                                                          Restaurant owner
+1374      occ 0803                                                                                 Gargotier
+1375      occ 0805       Other service personnel occupations not elsewhere classified (hostess, steward etc)
+1376      occ 0806                                                                                Tour guide
+1377      occ 0901                                                                                   Carrier
+1378      occ 0902                                                                                  Conveyor
+1379      occ 0903                                                                      Light vehicle driver
+1380      occ 0906                   Driver of animal- or person-powered vehicle (donkey cart, rickshaw etc)
+1381      occ 0907                                                               Small boat driver (pirogue)
+1382      occ 0908                                                                                   Taximan
+1383      occ 0910                                        Other drivers of vehicles not elsewhere classified
+1384      occ 0911                                                                   Moderator or journalist
+1385      occ 0913                    Other telecommunication agents (cyber cafes, Orange, Malitel, Sotelma)
+1386      occ 0915                   Other communication agents not elsewhere classified (marketing, griots)
+1387      occ 0916                                                Transportation agent (air, land and river)
+1388      occ 0917                                                                                   Laborer
+1389      occ 0919                                                                Forwarding agent (freight)
 1390      occ 1001                                                                           Insurance agent
 1391      occ 1002                                                                    Financial intermediary
 1392      occ 1003                                                                              Bank officer
@@ -1471,28 +1471,28 @@
 1470      occ 9000                                                            Occupation response suppressed
 1471      occ 9998                                                                                   Unknown
 1472      occ 9999                                                                                       NIU
-1473  classwk    1                                                                        Independent worker
-1474  classwk    2                                                                          Employer or boss
-1475  classwk    3                                                            Salaried or permanent employee
-1476  classwk    4                                                            Salaried or temporary employee
-1477  classwk    5                                                                                Apprentice
-1478  classwk    6                                                                             Family helper
-1479  classwk    7                                                                                     Other
-1480  classwk    8                                                         Independent (agricultural sector)
-1481  classwk    9                                        Primary associated household (agricultural sector)
+1473  classwk   01                                                                        Independent worker
+1474  classwk   02                                                                          Employer or boss
+1475  classwk   03                                                            Salaried or permanent employee
+1476  classwk   04                                                            Salaried or temporary employee
+1477  classwk   05                                                                                Apprentice
+1478  classwk   06                                                                             Family helper
+1479  classwk   07                                                                                     Other
+1480  classwk   08                                                         Independent (agricultural sector)
+1481  classwk   09                                        Primary associated household (agricultural sector)
 1482  classwk   10                                      Secondary associated household (agricultural sector)
 1483  classwk   98                                                                                   Unknown
 1484  classwk   99                                                                                       NIU
-1485      ind    0                                                                                       NIU
-1486      ind    1                                      Agriculture, livestock raising, hunting and forestry
-1487      ind    2                                                        Fishing, fish farming, aquaculture
-1488      ind    3                                                                     Extractive industries
-1489      ind    4                                                                             Manufacturing
-1490      ind    5                                    Production and distribution of electricity, gas, water
-1491      ind    6                                                                              Construction
-1492      ind    7                                        Commerce, motor vehicle repair and household goods
-1493      ind    8                                                                    Hotels and restaurants
-1494      ind    9                         Transportation, auxiliary transport activiites and communications
+1485      ind   00                                                                                       NIU
+1486      ind   01                                      Agriculture, livestock raising, hunting and forestry
+1487      ind   02                                                        Fishing, fish farming, aquaculture
+1488      ind   03                                                                     Extractive industries
+1489      ind   04                                                                             Manufacturing
+1490      ind   05                                    Production and distribution of electricity, gas, water
+1491      ind   06                                                                              Construction
+1492      ind   07                                        Commerce, motor vehicle repair and household goods
+1493      ind   08                                                                    Hotels and restaurants
+1494      ind   09                         Transportation, auxiliary transport activiites and communications
 1495      ind   10                                                                      Financial activities
 1496      ind   11                                                Real estate, rending and business services
 1497      ind   12                                                                     Public administration
@@ -1502,15 +1502,15 @@
 1501      ind   16                                                                Private household services
 1502      ind   17                                                      Activities of offshore organizations
 1503      ind   99                                                                                   Unknown
-1504    agric    1                                                                     Farming of dry grains
-1505    agric    2                                                                              Rice farming
-1506    agric    3                                                                        Industrial farming
-1507    agric    4                                                                         Vegetable farming
-1508    agric    5                                                                        Fruit tree farming
-1509    agric    6                                                                         Livestock farming
-1510    agric    7                                                                                   Fishing
-1511    agric    8                                                                                  Forestry
-1512    agric    9                                                                                Harvesting
+1504    agric   01                                                                     Farming of dry grains
+1505    agric   02                                                                              Rice farming
+1506    agric   03                                                                        Industrial farming
+1507    agric   04                                                                         Vegetable farming
+1508    agric   05                                                                        Fruit tree farming
+1509    agric   06                                                                         Livestock farming
+1510    agric   07                                                                                   Fishing
+1511    agric   08                                                                                  Forestry
+1512    agric   09                                                                                Harvesting
 1513    agric   10                                                                                   Hunting
 1514    agric   11                                                             Other agricultural activities
 1515    agric   98                                                                                   Unknown
@@ -1530,61 +1530,61 @@
 1529      lit    4                                      Can read and write in French and a national language
 1530      lit    5                                                                       Can't read or write
 1531      lit    9                                                                                   Unknown
-1532  chbornm    0                                                                                         0
-1533  chbornm    1                                                                                         1
-1534  chbornm    2                                                                                         2
-1535  chbornm    3                                                                                         3
-1536  chbornm    4                                                                                         4
-1537  chbornm    5                                                                                         5
-1538  chbornm    6                                                                                         6
-1539  chbornm    7                                                                                         7
-1540  chbornm    8                                                                                         8
-1541  chbornm    9                                                                                         9
+1532  chbornm   00                                                                                         0
+1533  chbornm   01                                                                                         1
+1534  chbornm   02                                                                                         2
+1535  chbornm   03                                                                                         3
+1536  chbornm   04                                                                                         4
+1537  chbornm   05                                                                                         5
+1538  chbornm   06                                                                                         6
+1539  chbornm   07                                                                                         7
+1540  chbornm   08                                                                                         8
+1541  chbornm   09                                                                                         9
 1542  chbornm   10                                                                                        10
 1543  chbornm   11                                                                                        11
 1544  chbornm   12                                                                                       12+
 1545  chbornm   98                                                                                   Unknown
 1546  chbornm   99                                                                                       NIU
-1547  chbornf    0                                                                                         0
-1548  chbornf    1                                                                                         1
-1549  chbornf    2                                                                                         2
-1550  chbornf    3                                                                                         3
-1551  chbornf    4                                                                                         4
-1552  chbornf    5                                                                                         5
-1553  chbornf    6                                                                                         6
-1554  chbornf    7                                                                                         7
-1555  chbornf    8                                                                                         8
-1556  chbornf    9                                                                                         9
+1547  chbornf   00                                                                                         0
+1548  chbornf   01                                                                                         1
+1549  chbornf   02                                                                                         2
+1550  chbornf   03                                                                                         3
+1551  chbornf   04                                                                                         4
+1552  chbornf   05                                                                                         5
+1553  chbornf   06                                                                                         6
+1554  chbornf   07                                                                                         7
+1555  chbornf   08                                                                                         8
+1556  chbornf   09                                                                                         9
 1557  chbornf   10                                                                                        10
 1558  chbornf   11                                                                                        11
 1559  chbornf   12                                                                                       12+
 1560  chbornf   98                                                                                   Unknown
 1561  chbornf   99                                                                                       NIU
-1562  chsurvm    0                                                                                         0
-1563  chsurvm    1                                                                                         1
-1564  chsurvm    2                                                                                         2
-1565  chsurvm    3                                                                                         3
-1566  chsurvm    4                                                                                         4
-1567  chsurvm    5                                                                                         5
-1568  chsurvm    6                                                                                         6
-1569  chsurvm    7                                                                                         7
-1570  chsurvm    8                                                                                         8
-1571  chsurvm    9                                                                                         9
+1562  chsurvm   00                                                                                         0
+1563  chsurvm   01                                                                                         1
+1564  chsurvm   02                                                                                         2
+1565  chsurvm   03                                                                                         3
+1566  chsurvm   04                                                                                         4
+1567  chsurvm   05                                                                                         5
+1568  chsurvm   06                                                                                         6
+1569  chsurvm   07                                                                                         7
+1570  chsurvm   08                                                                                         8
+1571  chsurvm   09                                                                                         9
 1572  chsurvm   10                                                                                        10
 1573  chsurvm   11                                                                                        11
 1574  chsurvm   12                                                                                       12+
 1575  chsurvm   98                                                                                   Unknown
 1576  chsurvm   99                                                                                       NIU
-1577  chsurvf    0                                                                                         0
-1578  chsurvf    1                                                                                         1
-1579  chsurvf    2                                                                                         2
-1580  chsurvf    3                                                                                         3
-1581  chsurvf    4                                                                                         4
-1582  chsurvf    5                                                                                         5
-1583  chsurvf    6                                                                                         6
-1584  chsurvf    7                                                                                         7
-1585  chsurvf    8                                                                                         8
-1586  chsurvf    9                                                                                         9
+1577  chsurvf   00                                                                                         0
+1578  chsurvf   01                                                                                         1
+1579  chsurvf   02                                                                                         2
+1580  chsurvf   03                                                                                         3
+1581  chsurvf   04                                                                                         4
+1582  chsurvf   05                                                                                         5
+1583  chsurvf   06                                                                                         6
+1584  chsurvf   07                                                                                         7
+1585  chsurvf   08                                                                                         8
+1586  chsurvf   09                                                                                         9
 1587  chsurvf   10                                                                                        10
 1588  chsurvf   11                                                                                        11
 1589  chsurvf   12                                                                                       12+
@@ -1909,7 +1909,7 @@
 302                                                                                          1
 303                                                                                          2
 304                                                                                         3+
-305                                                                                      HHrec
+305                                                                                      hhrec
 306                                                                                          1
 307                                                                                          2
 308                                                                                          3

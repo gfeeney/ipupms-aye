@@ -1,17 +1,17 @@
      vname code                                                                                               short
-1   pernum    0                                                                                               HHrec
+1   pernum    0                                                                                               hhrec
 2   pernum    1                                                                                                   1
 3      sex    1                                                                                                Male
 4      sex    2                                                                                              Female
-5      age    1                                                                                         0 - 4 years
-6      age    2                                                                                         5 - 9 years
-7      age    3                                                                                       10 - 14 years
-8      age    4                                                                                       15 - 19 years
-9      age    5                                                                                       20 - 24 years
-10     age    6                                                                                       25 - 29 years
-11     age    7                                                                                       30 - 34 years
-12     age    8                                                                                       35 - 39 years
-13     age    9                                                                                       40 - 44 years
+5      age   01                                                                                         0 - 4 years
+6      age   02                                                                                         5 - 9 years
+7      age   03                                                                                       10 - 14 years
+8      age   04                                                                                       15 - 19 years
+9      age   05                                                                                       20 - 24 years
+10     age   06                                                                                       25 - 29 years
+11     age   07                                                                                       30 - 34 years
+12     age   08                                                                                       35 - 39 years
+13     age   09                                                                                       40 - 44 years
 14     age   10                                                                                       45 - 49 years
 15     age   11                                                                                       50 - 54 years
 16     age   12                                                                                       55 - 59 years
@@ -63,15 +63,15 @@
 62 classwk    7                                                                            Engaged in family duties
 63 classwk    8                                                                         Other economically inactive
 64 classwk    9                                                                                             Unknown
-65     occ    1                                                          Legislators, senior officials and managers
-66     occ    2                                                                                       Professionals
-67     occ    3                                                             Technicians and assistant professionals
-68     occ    4                                                                                              Clerks
-69     occ    5                                                   Service workers and shop and market sales workers
-70     occ    6                                                            Skilled agricultural and fishery workers
-71     occ    7                                                                    Craft and related trades workers
-72     occ    8                                                          Plant and machine operators and assemblers
-73     occ    9                                                                              Elementary occupations
+65     occ   01                                                          Legislators, senior officials and managers
+66     occ   02                                                                                       Professionals
+67     occ   03                                                             Technicians and assistant professionals
+68     occ   04                                                                                              Clerks
+69     occ   05                                                   Service workers and shop and market sales workers
+70     occ   06                                                            Skilled agricultural and fishery workers
+71     occ   07                                                                    Craft and related trades workers
+72     occ   08                                                          Plant and machine operators and assemblers
+73     occ   09                                                                              Elementary occupations
 74     occ   98                                                                                             Unknown
 75     occ   99                                                                                                 NIU
 76     ind   11                                                          Agriculture, hunting, forestry and fishing
@@ -94,7 +94,7 @@
 93   marst    4                                                                                            Divorced
 94   marst    9                                                                                             Unknown
                                                                                                  value
-1                                                                                                HHrec
+1                                                                                                hhrec
 2                                                                                                    1
 3                                                                                                 Male
 4                                                                                               Female

@@ -18,15 +18,15 @@
 17     marz  909                                                                      Syunik
 18     marz  910                                                                 Vayots Dzor
 19     marz  911                                                                      Tavush
-20    hamay    1                                                 Yerevan: Adjapnyak district
-21    hamay    2            Yerevan: Avan, Davidashen, Nork-Marash, and Nubarashen districts
-22    hamay    3                                                   Yerevan: Arabkir district
-23    hamay    5                                                   Yerevan: Erebuni district
-24    hamay    6                                                   Yerevan: Kentron district
-25    hamay    7                                          Yerevan: Malatia-Sebastia district
-26    hamay    8                                                  Yerevan: Nor Nork district
-27    hamay   11                                                 Yerevan: Shengavit district
-28    hamay   12                                            Yerevan: Kanaker-Zeytun district
+20    hamay  001                                                 Yerevan: Adjapnyak district
+21    hamay  002            Yerevan: Avan, Davidashen, Nork-Marash, and Nubarashen districts
+22    hamay  003                                                   Yerevan: Arabkir district
+23    hamay  005                                                   Yerevan: Erebuni district
+24    hamay  006                                                   Yerevan: Kentron district
+25    hamay  007                                          Yerevan: Malatia-Sebastia district
+26    hamay  008                                                  Yerevan: Nor Nork district
+27    hamay  011                                                 Yerevan: Shengavit district
+28    hamay  012                                            Yerevan: Kanaker-Zeytun district
 29    hamay  902                                                         Aragatsotn province
 30    hamay  903                                                             Ararat province
 31    hamay  904                                                            Armavir province
@@ -128,7 +128,7 @@
 127 spacelv    6                                                                75-89 sq. m.
 128 spacelv    7                                                               90-104 sq. m.
 129 spacelv    8                                                             105-2000 sq. m.
-130  pernum    0                                                                       HHrec
+130  pernum    0                                                                       hhrec
 131  pernum    1                                                                           1
 132  pernum    2                                                                           2
 133  pernum    3                                                                           3
@@ -172,28 +172,28 @@
 171  sploco    6                                                                           6
 172  sploco    7                                                                           7
 173  sploco    8                                                                           8
-174  relate    1                                                                        Head
-175  relate    2                                                                      Spouse
-176  relate    3                                                             Daughter or son
-177  relate    4                                                            Mother or father
-178  relate    5                                                           Sister or brother
-179  relate    6                                                               Parent-in-law
-180  relate    7                                               Daughter-in-law or son-in-law
-181  relate    8                                                                 Grandparent
-182  relate    9                                                                  Grandchild
+174  relate   01                                                                        Head
+175  relate   02                                                                      Spouse
+176  relate   03                                                             Daughter or son
+177  relate   04                                                            Mother or father
+178  relate   05                                                           Sister or brother
+179  relate   06                                                               Parent-in-law
+180  relate   07                                               Daughter-in-law or son-in-law
+181  relate   08                                                                 Grandparent
+182  relate   09                                                                  Grandchild
 183  relate   10                                                              Other relative
 184  relate   11                                                                Non-relative
 185     sex    1                                                                        Male
 186     sex    2                                                                      Female
-187  birmon    1                                                                           1
-188  birmon    2                                                                           2
-189  birmon    3                                                                           3
-190  birmon    4                                                                           4
-191  birmon    5                                                                           5
-192  birmon    6                                                                           6
-193  birmon    7                                                                           7
-194  birmon    8                                                                           8
-195  birmon    9                                                                           9
+187  birmon   01                                                                           1
+188  birmon   02                                                                           2
+189  birmon   03                                                                           3
+190  birmon   04                                                                           4
+191  birmon   05                                                                           5
+192  birmon   06                                                                           6
+193  birmon   07                                                                           7
+194  birmon   08                                                                           8
+195  birmon   09                                                                           9
 196  birmon   10                                                                          10
 197  birmon   11                                                                          11
 198  birmon   12                                                                          12
@@ -280,16 +280,16 @@
 279 biryear 1999                                                                        1999
 280 biryear 2000                                                                        2000
 281 biryear 2001                                                                        2001
-282     age    0                                                                Under 1 year
-283     age    1                                                                           1
-284     age    2                                                                           2
-285     age    3                                                                           3
-286     age    4                                                                           4
-287     age    5                                                                           5
-288     age    6                                                                           6
-289     age    7                                                                           7
-290     age    8                                                                           8
-291     age    9                                                                           9
+282     age   00                                                                Under 1 year
+283     age   01                                                                           1
+284     age   02                                                                           2
+285     age   03                                                                           3
+286     age   04                                                                           4
+287     age   05                                                                           5
+288     age   06                                                                           6
+289     age   07                                                                           7
+290     age   08                                                                           8
+291     age   09                                                                           9
 292     age   10                                                                          10
 293     age   11                                                                          11
 294     age   12                                                                          12
@@ -361,15 +361,15 @@
 360     age   78                                                                          78
 361     age   79                                                                          79
 362     age   80                                                                         80+
-363     bpl    1                                                                     Yerevan
-364     bpl    2                                                                  Aragatsotn
-365     bpl    3                                                                      Ararat
-366     bpl    4                                                                     Armavir
-367     bpl    5                                                                 Gegharkunik
-368     bpl    6                                                                        Lori
-369     bpl    7                                                                      Kotayk
-370     bpl    8                                                                      Shirak
-371     bpl    9                                                                      Syunik
+363     bpl   01                                                                     Yerevan
+364     bpl   02                                                                  Aragatsotn
+365     bpl   03                                                                      Ararat
+366     bpl   04                                                                     Armavir
+367     bpl   05                                                                 Gegharkunik
+368     bpl   06                                                                        Lori
+369     bpl   07                                                                      Kotayk
+370     bpl   08                                                                      Shirak
+371     bpl   09                                                                      Syunik
 372     bpl   10                                                                 Vayots Dzor
 373     bpl   11                                                                      Tavush
 374     bpl   12                                                            Nagorno-Karabagh
@@ -399,7 +399,7 @@
 398 forcmov    6                                                      No, not forced to move
 399 forcmov    8                                                                     Unknown
 400 forcmov    9                                                                         NIU
-401 prevres   31                                                                  Azerbaijan
+401 prevres  031                                                                  Azerbaijan
 402 prevres  100                                                                    Bulgaria
 403 prevres  112                                                                     Belarus
 404 prevres  250                                                                      France
@@ -524,27 +524,27 @@
 523   resyr 2001                                                                        2001
 524   resyr 9998                                                                     Unknown
 525   resyr 9999                                                                         NIU
-526 incsrc1    1                                               Job (except at own residence)
-527 incsrc1    2                                                   Job at your own residence
-528 incsrc1    3                                                       Income from ownership
-529 incsrc1    4                                                                 Scholarship
-530 incsrc1    5                                                                     Pension
-531 incsrc1    6                                             Allowance (except unemployment)
-532 incsrc1    7                                                      Unemployment allowance
-533 incsrc1    8                                                Under state security or care
-534 incsrc1    9                                    Other monetary assistance, state sources
+526 incsrc1   01                                               Job (except at own residence)
+527 incsrc1   02                                                   Job at your own residence
+528 incsrc1   03                                                       Income from ownership
+529 incsrc1   04                                                                 Scholarship
+530 incsrc1   05                                                                     Pension
+531 incsrc1   06                                             Allowance (except unemployment)
+532 incsrc1   07                                                      Unemployment allowance
+533 incsrc1   08                                                Under state security or care
+534 incsrc1   09                                    Other monetary assistance, state sources
 535 incsrc1   10                                Other monetary assistance, non-state sources
 536 incsrc1   11                                                                  Under care
 537 incsrc1   12                                                               Other sources
-538 incsrc2    1                                               Job (except at own residence)
-539 incsrc2    2                                                   Job at your own residence
-540 incsrc2    3                                                       Income from ownership
-541 incsrc2    4                                                                 Scholarship
-542 incsrc2    5                                                                     Pension
-543 incsrc2    6                                             Allowance (except unemployment)
-544 incsrc2    7                                                      Unemployment allowance
-545 incsrc2    8                                                   Under state security/care
-546 incsrc2    9                                    Other monetary assistance, state sources
+538 incsrc2   01                                               Job (except at own residence)
+539 incsrc2   02                                                   Job at your own residence
+540 incsrc2   03                                                       Income from ownership
+541 incsrc2   04                                                                 Scholarship
+542 incsrc2   05                                                                     Pension
+543 incsrc2   06                                             Allowance (except unemployment)
+544 incsrc2   07                                                      Unemployment allowance
+545 incsrc2   08                                                   Under state security/care
+546 incsrc2   09                                    Other monetary assistance, state sources
 547 incsrc2   10                                Other monetary assistance, non-state sources
 548 incsrc2   11                                                                  Under care
 549 incsrc2   98                                                                Undocumented
@@ -769,7 +769,7 @@
 127                                                                75-89 sq. m.
 128                                                               90-104 sq. m.
 129                                                             105-2000 sq. m.
-130                                                                       HHrec
+130                                                                       hhrec
 131                                                                           1
 132                                                                           2
 133                                                                           3

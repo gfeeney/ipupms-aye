@@ -1,13 +1,13 @@
        vname code                                                                            short
-1       pern    1                                                                                1
-2       pern    2                                                                                2
-3       pern    3                                                                                3
-4       pern    4                                                                                4
-5       pern    5                                                                                5
-6       pern    6                                                                                6
-7       pern    7                                                                                7
-8       pern    8                                                                                8
-9       pern    9                                                                                9
+1       pern   01                                                                                1
+2       pern   02                                                                                2
+3       pern   03                                                                                3
+4       pern   04                                                                                4
+5       pern   05                                                                                5
+6       pern   06                                                                                6
+7       pern   07                                                                                7
+8       pern   08                                                                                8
+9       pern   09                                                                                9
 10      pern   10                                                                               10
 11      pern   11                                                                               11
 12      pern   12                                                                               12
@@ -266,16 +266,16 @@
 265 resident    3                                                             Visitor/non-resident
 266 resident    4                                            De facto population (present persons)
 267 resident    9                                                                  Unknown/missing
-268   pernum    0                                                                            HHrec
-269   pernum    1                                                                                1
-270   pernum    2                                                                                2
-271   pernum    3                                                                                3
-272   pernum    4                                                                                4
-273   pernum    5                                                                                5
-274   pernum    6                                                                                6
-275   pernum    7                                                                                7
-276   pernum    8                                                                                8
-277   pernum    9                                                                                9
+268   pernum   00                                                                            hhrec
+269   pernum   01                                                                                1
+270   pernum   02                                                                                2
+271   pernum   03                                                                                3
+272   pernum   04                                                                                4
+273   pernum   05                                                                                5
+274   pernum   06                                                                                6
+275   pernum   07                                                                                7
+276   pernum   08                                                                                8
+277   pernum   09                                                                                9
 278   pernum   10                                                                               10
 279   pernum   11                                                                               11
 280   pernum   12                                                                               12
@@ -337,16 +337,16 @@
 336   absent    3                                                                            Guest
 337      sex    1                                                                             Male
 338      sex    2                                                                           Female
-339      age    0                                                                                0
-340      age    1                                                                                1
-341      age    2                                                                                2
-342      age    3                                                                                3
-343      age    4                                                                                4
-344      age    5                                                                                5
-345      age    6                                                                                6
-346      age    7                                                                                7
-347      age    8                                                                                8
-348      age    9                                                                                9
+339      age   00                                                                                0
+340      age   01                                                                                1
+341      age   02                                                                                2
+342      age   03                                                                                3
+343      age   04                                                                                4
+344      age   05                                                                                5
+345      age   06                                                                                6
+346      age   07                                                                                7
+347      age   08                                                                                8
+348      age   09                                                                                9
 349      age   10                                                                               10
 350      age   11                                                                               11
 351      age   12                                                                               12
@@ -459,16 +459,16 @@
 458      lit    1                                                                              Yes
 459      lit    2                                                                               No
 460      lit    9                                                                              NIU
-461    edlev    0                                                                   Never attended
-462    edlev    1                                                                Less than primary
-463    edlev    2                                                                          Primary
-464    edlev    3                                                                           Middle
-465    edlev    4                                                                           Matric
-466    edlev    5                                                                     Intermediate
-467    edlev    6                                                         B.A./B.Sc. or equivalent
-468    edlev    7                                                   M.A./M.Sc. equivalent or above
-469    edlev    8                                                             Diploma, certificate
-470    edlev    9                                                                            Other
+461    edlev   00                                                                   Never attended
+462    edlev   01                                                                Less than primary
+463    edlev   02                                                                          Primary
+464    edlev   03                                                                           Middle
+465    edlev   04                                                                           Matric
+466    edlev   05                                                                     Intermediate
+467    edlev   06                                                         B.A./B.Sc. or equivalent
+468    edlev   07                                                   M.A./M.Sc. equivalent or above
+469    edlev   08                                                             Diploma, certificate
+470    edlev   09                                                                            Other
 471    edlev   99                                                                              NIU
 472   idcard    1                                                                              Yes
 473   idcard    2                                                                               No
@@ -742,7 +742,7 @@
 265                                                             Visitor/non-resident
 266                                            De facto population (present persons)
 267                                                                  Unknown/missing
-268                                                                            HHrec
+268                                                                            hhrec
 269                                                                                1
 270                                                                                2
 271                                                                                3

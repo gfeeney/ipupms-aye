@@ -1,13 +1,13 @@
         vname code                                                                               short
-1        pern    1                                                                                   1
-2        pern    2                                                                                   2
-3        pern    3                                                                                   3
-4        pern    4                                                                                   4
-5        pern    5                                                                                   5
-6        pern    6                                                                                   6
-7        pern    7                                                                                   7
-8        pern    8                                                                                   8
-9        pern    9                                                                                   9
+1        pern   01                                                                                   1
+2        pern   02                                                                                   2
+3        pern   03                                                                                   3
+4        pern   04                                                                                   4
+5        pern   05                                                                                   5
+6        pern   06                                                                                   6
+7        pern   07                                                                                   7
+8        pern   08                                                                                   8
+9        pern   09                                                                                   9
 10       pern   10                                                                                  10
 11       pern   11                                                                                  11
 12       pern   12                                                                                  12
@@ -34,15 +34,15 @@
 33       fbig    2      Yes: persons within a large household were split apart into separate dwellings
 34      fmphd    0                                                                                  No
 35      fmphd    1                                    Yes (for one or more households in the dwelling)
-36     region    1                                                                              Ilocos
-37     region    2                                                                      Cagayan Valley
-38     region    3                                                                       Central Luzon
-39     region    4                                                                    Southern Tagalog
-40     region    5                                                                               Bicol
-41     region    6                                                                     Western Visayas
-42     region    7                                                                     Central Visayas
-43     region    8                                                                     Eastern Visayas
-44     region    9                                                                    Western Mindanao
+36     region   01                                                                              Ilocos
+37     region   02                                                                      Cagayan Valley
+38     region   03                                                                       Central Luzon
+39     region   04                                                                    Southern Tagalog
+40     region   05                                                                               Bicol
+41     region   06                                                                     Western Visayas
+42     region   07                                                                     Central Visayas
+43     region   08                                                                     Eastern Visayas
+44     region   09                                                                    Western Mindanao
 45     region   10                                                                   Northern Mindanao
 46     region   11                                                                   Southern Mindanao
 47     region   12                                                                    Central Mindanao
@@ -50,15 +50,15 @@
 49     region   14                                                    Cordillera Administrative Region
 50     region   15                                                Autonomous Region of Muslim Mindanao
 51     region   16                                                                              Caraga
-52       prov    1                                                                                Abra
-53       prov    2                                                                    Agusan Del Norte
-54       prov    3                                                                      Agusan Del Sur
-55       prov    4                                                                               Aklan
-56       prov    5                                                                               Albay
-57       prov    6                                                                             Antique
-58       prov    7                                                                             Basilan
-59       prov    8                                                                              Bataan
-60       prov    9                                                                             Batanes
+52       prov   01                                                                                Abra
+53       prov   02                                                                    Agusan Del Norte
+54       prov   03                                                                      Agusan Del Sur
+55       prov   04                                                                               Aklan
+56       prov   05                                                                               Albay
+57       prov   06                                                                             Antique
+58       prov   07                                                                             Basilan
+59       prov   08                                                                              Bataan
+60       prov   09                                                                             Batanes
 61       prov   10                                                                            Batangas
 62       prov   11                                                                             Benguet
 63       prov   12                                                                               Bohol
@@ -133,16 +133,16 @@
 132      prov   81                                                                              Apayao
 133      prov   82                                                                   Compostela Valley
 134      prov   98                                                                 Cotabato and Marawi
-135   provrec   10                                                                                Abra
-136   provrec   20                                            Agusan Del Norte (Excluding Butuan City)
-137   provrec   21                                                               Butuan City (Capital)
-138   provrec   30                                                                      Agusan Del Sur
-139   provrec   40                                                                               Aklan
-140   provrec   50                                                                               Albay
-141   provrec   60                                                                             Antique
-142   provrec   70                                                                             Basilan
-143   provrec   80                                                                              Bataan
-144   provrec   90                                                                             Batanes
+135   provrec  010                                                                                Abra
+136   provrec  020                                            Agusan Del Norte (Excluding Butuan City)
+137   provrec  021                                                               Butuan City (Capital)
+138   provrec  030                                                                      Agusan Del Sur
+139   provrec  040                                                                               Aklan
+140   provrec  050                                                                               Albay
+141   provrec  060                                                                             Antique
+142   provrec  070                                                                             Basilan
+143   provrec  080                                                                              Bataan
+144   provrec  090                                                                             Batanes
 145   provrec  100                                                                            Batangas
 146   provrec  110                                                     Benguet (Excluding Baguio City)
 147   provrec  111                                                                         Baguio City
@@ -251,15 +251,15 @@
 250   bldtype    5                                                       Institutional living quarters
 251   bldtype    6                                                                  Other housing unit
 252   bldtype    9                                                                             Unknown
-253     walls    1                                                                Concrete/brick/stone
-254     walls    2                                                                                Wood
-255     walls    3                                             Half concrete/brick/Stone/and half Wood
-256     walls    4                                                            Galvanized iron/aluminum
-257     walls    5                                                            Bamboo/sawali/cogon/nipa
-258     walls    6                                                                            Asbestos
-259     walls    7                                                                               Glass
-260     walls    8                                             Makeshift/salvaged/improvised materials
-261     walls    9                                                                              Others
+253     walls   01                                                                Concrete/brick/stone
+254     walls   02                                                                                Wood
+255     walls   03                                             Half concrete/brick/Stone/and half Wood
+256     walls   04                                                            Galvanized iron/aluminum
+257     walls   05                                                            Bamboo/sawali/cogon/nipa
+258     walls   06                                                                            Asbestos
+259     walls   07                                                                               Glass
+260     walls   08                                             Makeshift/salvaged/improvised materials
+261     walls   09                                                                              Others
 262     walls   10                                                                            No walls
 263     walls   99                                                                             Unknown
 264    bldrep    1                                                  Needs no repair/needs minor repair
@@ -269,28 +269,28 @@
 268    bldrep    5                                                                  Under construction
 269    bldrep    6                                                             Unfinished construction
 270    bldrep    9                                                                             Unknown
-271     yrblt    1                                                                                2000
-272     yrblt    2                                                                                1999
-273     yrblt    3                                                                                1998
-274     yrblt    4                                                                                1997
-275     yrblt    5                                                                                1996
-276     yrblt    6                                                                           1991-1995
-277     yrblt    7                                                                           1981-1990
-278     yrblt    8                                                                           1971-1980
-279     yrblt    9                                                                           1961-1970
+271     yrblt   01                                                                                2000
+272     yrblt   02                                                                                1999
+273     yrblt   03                                                                                1998
+274     yrblt   04                                                                                1997
+275     yrblt   05                                                                                1996
+276     yrblt   06                                                                           1991-1995
+277     yrblt   07                                                                           1981-1990
+278     yrblt   08                                                                           1971-1980
+279     yrblt   09                                                                           1961-1970
 280     yrblt   10                                                                     1960 or earlier
 281     yrblt   11                                                 Still under construction and vacant
 282     yrblt   98                                                             Respondent did not know
 283     yrblt   99                                                                             Unknown
-284     space    1                                                          Less than 10 square meters
-285     space    2                                                                     10  - 19 sq. m.
-286     space    3                                                                     20  - 29 sq. m.
-287     space    4                                                                     30  - 49 sq. m.
-288     space    5                                                                     50  - 69 sq. m.
-289     space    6                                                                     70  - 89 sq. m.
-290     space    7                                                                     90  - 119 sq.m.
-291     space    8                                                                     120 - 149 sq.m.
-292     space    9                                                                     150 - 199 sq.m.
+284     space   01                                                          Less than 10 square meters
+285     space   02                                                                     10  - 19 sq. m.
+286     space   03                                                                     20  - 29 sq. m.
+287     space   04                                                                     30  - 49 sq. m.
+288     space   05                                                                     50  - 69 sq. m.
+289     space   06                                                                     70  - 89 sq. m.
+290     space   07                                                                     90  - 119 sq.m.
+291     space   08                                                                     120 - 149 sq.m.
+292     space   09                                                                     150 - 199 sq.m.
 293     space   10                                                                 200 sq. m. and over
 294     space   99                                                                             Unknown
 295     fuell    1                                                                         Electricity
@@ -306,15 +306,15 @@
 305     fuelc    6                                                                               Other
 306     fuelc    7                                                                                None
 307     fuelc    9                                                                             Unknown
-308  watdrink    1                                             Own use, faucet, community water system
-309  watdrink    2                                              Shared, faucet, community water system
-310  watdrink    3                                                      Own use, tubed/piped deep well
-311  watdrink    4                                                       Shared, tubed/piped deep well
-312  watdrink    5                                                            Tubed/piped shallow well
-313  watdrink    6                                                                            Dug well
-314  watdrink    7                                                     Spring, lake, river, rain, etc.
-315  watdrink    8                                                                             Peddler
-316  watdrink    9                                                                       Bottled water
+308  watdrink   01                                             Own use, faucet, community water system
+309  watdrink   02                                              Shared, faucet, community water system
+310  watdrink   03                                                      Own use, tubed/piped deep well
+311  watdrink   04                                                       Shared, tubed/piped deep well
+312  watdrink   05                                                            Tubed/piped shallow well
+313  watdrink   06                                                                            Dug well
+314  watdrink   07                                                     Spring, lake, river, rain, etc.
+315  watdrink   08                                                                             Peddler
+316  watdrink   09                                                                       Bottled water
 317  watdrink   10                                                                              Others
 318  watdrink   99                                                                             Unknown
 319   watbath    1                                             Own use, faucet, community water system
@@ -367,7 +367,7 @@
 366    ownlot    2                                                                              Rented
 367    ownlot    3                                                     Rent-free with consent of owner
 368    ownlot    4                                                  Rent-free without consent of owner
-369    ownlot    8                                                                             MISSING
+369    ownlot    8                                                                               blank
 370    ownlot    9                                                                                 NIU
 371      rent    0                                                                                 NIU
 372      rent    1                                                                           Below 100
@@ -416,95 +416,95 @@
 415   landref    2         Without agricultural land acquired through CARP,agrarian reform beneficiary
 416   landoth    1                                                                     Owns other land
 417   landoth    2                                                             Does not own other land
-418      lang    1                                                                      Akeanon/Alanon
-419      lang    2                                                                         Bikol/Bicol
-420      lang    3                                                                             Cebuano
-421      lang    4                                                                  Hiligaynon, Ilongo
-422      lang    5                                                                              Ibanag
-423      lang    6                                                                              Ifugao
-424      lang    7                                                                             Ilocano
-425      lang    8                                                                   Kankanai/Kankaney
-426      lang    9                                                                         Kapampangan
-427      lang   10                                                                             Karay-a
-428      lang   11                                                                   Manobo/Ata-Manobo
-429      lang   12                                                                             Maranao
-430      lang   13                                                                Masbateno/Masbatenon
-431      lang   14                                                               Pangasinan/Panggalato
-432      lang   15                                                                Sama (Samal)/Abaknon
-433      lang   16                                                                          Surigaonon
-434      lang   17                                                                             Tagalog
-435      lang   18                                                                              Tausog
-436      lang   19                                                                               Waray
-437      lang   20                                                                 Zambageno-Chavacano
-438      lang   21                                                                            Abelling
-439      lang   22                                                                              Abiyan
-440      lang   23                                                                              Aburin
-441      lang   24                                                                           Aeta/Ayta
-442      lang   25                                                                               Aggay
-443      lang   26                                                                                Agta
-444      lang   27                                                                Agutaynon/Agutayanon
-445      lang   28                                                                             Alangan
-446      lang   29                                                                      Apayao/Yapayao
-447      lang   30                                                                              Applai
-448      lang   31                                                                        Atta/Ata/Ati
-449      lang   32                                                                             Ayangan
-450      lang   33                                                                 Badjao, Sama Dilaut
-451      lang   34                                                                       Bagobo/Guinga
-452      lang   35                                                                    Balangao/Baliwon
-453      lang   36                                                                           Bantoanon
-454      lang   37                                                                             Banwaon
-455      lang   38                                                                       Batak/Binatak
-456      lang   39                                                                            Batangan
-457      lang   40                                                                       Bilaan/B'laan
-458      lang   41                                                                    Binukid/Bukidnon
-459      lang   42                                                                     Bisaya/Binisaya
-460      lang   43                                                                            Boholano
-461      lang   44                                                                             Bolinao
-462      lang   45                                                                            Bugkalot
-463      lang   46                                                                     Bontok/Binontok
-464      lang   47                                                                               Buhid
-465      lang   48                                                                            Butuanon
-466      lang   49                                                                            Caviteno
-467      lang   50                                                                  Caviteno-Chavacano
-468      lang   52                                                                          Cotabateno
-469      lang   53                                                                Cotabateno-Chavacano
-470      lang   54                                                                     Cuyunon/Cuyunan
-471      lang   55                                                                      Dava-Chavacano
-472      lang   56                                                                            Davaweno
-473      lang   57                                                                           Dibabawon
-474      lang   58                                                             Dumagat/Dumagat(Umiray)
-475      lang   59                                                                             Gaddang
-476      lang   61                                                                          Hamtikanon
-477      lang   62                                                                             Hanunuo
-478      lang   63                                                                            Higaonon
-479      lang   64                                                                     Ibaloi/Inibaloi
-480      lang   65                                                                             Ibontoc
-481      lang   66                                                                  Ikalahan/Kalanguya
-482      lang   67                                                                      Ilanun/Llanuan
-483      lang   68                                                                             Ilongot
-484      lang   69                                                                              Iranon
-485      lang   70                                                                               Iraya
-486      lang   71                                                                       Isamal Kanlaw
-487      lang   73                                                                              Isinay
-488      lang   74                                                                               Isnag
-489      lang   75                                                                               Isneg
-490      lang   76                                                                              Itawis
-491      lang   77                                                                              Itawit
-492      lang   78                                                                               Itneg
-493      lang   79                                                                      Ivatan/Itbayat
-494      lang   80                                                                      Iwak/I'wa/Owak
-495      lang   83                                                                          Jama Mapun
-496      lang   86                                                                           Kagayanen
-497      lang   87                                                                             Kalagan
-498      lang   88                                                                          Kalamianen
-499      lang   89                                                                             Kalinga
-500      lang   90                                                                              Kamayo
-501      lang   91                                                                  Kamigin/Kinamiging
-502      lang   92                                                                               Kapul
-503      lang   94                                                                               Karao
-504      lang   97                                                                         Kasigurahin
-505      lang   98                                                                           Kinalinga
-506      lang   99                                                                           Kiniray-a
+418      lang  001                                                                      Akeanon/Alanon
+419      lang  002                                                                         Bikol/Bicol
+420      lang  003                                                                             Cebuano
+421      lang  004                                                                  Hiligaynon, Ilongo
+422      lang  005                                                                              Ibanag
+423      lang  006                                                                              Ifugao
+424      lang  007                                                                             Ilocano
+425      lang  008                                                                   Kankanai/Kankaney
+426      lang  009                                                                         Kapampangan
+427      lang  010                                                                             Karay-a
+428      lang  011                                                                   Manobo/Ata-Manobo
+429      lang  012                                                                             Maranao
+430      lang  013                                                                Masbateno/Masbatenon
+431      lang  014                                                               Pangasinan/Panggalato
+432      lang  015                                                                Sama (Samal)/Abaknon
+433      lang  016                                                                          Surigaonon
+434      lang  017                                                                             Tagalog
+435      lang  018                                                                              Tausog
+436      lang  019                                                                               Waray
+437      lang  020                                                                 Zambageno-Chavacano
+438      lang  021                                                                            Abelling
+439      lang  022                                                                              Abiyan
+440      lang  023                                                                              Aburin
+441      lang  024                                                                           Aeta/Ayta
+442      lang  025                                                                               Aggay
+443      lang  026                                                                                Agta
+444      lang  027                                                                Agutaynon/Agutayanon
+445      lang  028                                                                             Alangan
+446      lang  029                                                                      Apayao/Yapayao
+447      lang  030                                                                              Applai
+448      lang  031                                                                        Atta/Ata/Ati
+449      lang  032                                                                             Ayangan
+450      lang  033                                                                 Badjao, Sama Dilaut
+451      lang  034                                                                       Bagobo/Guinga
+452      lang  035                                                                    Balangao/Baliwon
+453      lang  036                                                                           Bantoanon
+454      lang  037                                                                             Banwaon
+455      lang  038                                                                       Batak/Binatak
+456      lang  039                                                                            Batangan
+457      lang  040                                                                       Bilaan/B'laan
+458      lang  041                                                                    Binukid/Bukidnon
+459      lang  042                                                                     Bisaya/Binisaya
+460      lang  043                                                                            Boholano
+461      lang  044                                                                             Bolinao
+462      lang  045                                                                            Bugkalot
+463      lang  046                                                                     Bontok/Binontok
+464      lang  047                                                                               Buhid
+465      lang  048                                                                            Butuanon
+466      lang  049                                                                            Caviteno
+467      lang  050                                                                  Caviteno-Chavacano
+468      lang  052                                                                          Cotabateno
+469      lang  053                                                                Cotabateno-Chavacano
+470      lang  054                                                                     Cuyunon/Cuyunan
+471      lang  055                                                                      Dava-Chavacano
+472      lang  056                                                                            Davaweno
+473      lang  057                                                                           Dibabawon
+474      lang  058                                                             Dumagat/Dumagat(Umiray)
+475      lang  059                                                                             Gaddang
+476      lang  061                                                                          Hamtikanon
+477      lang  062                                                                             Hanunuo
+478      lang  063                                                                            Higaonon
+479      lang  064                                                                     Ibaloi/Inibaloi
+480      lang  065                                                                             Ibontoc
+481      lang  066                                                                  Ikalahan/Kalanguya
+482      lang  067                                                                      Ilanun/Llanuan
+483      lang  068                                                                             Ilongot
+484      lang  069                                                                              Iranon
+485      lang  070                                                                               Iraya
+486      lang  071                                                                       Isamal Kanlaw
+487      lang  073                                                                              Isinay
+488      lang  074                                                                               Isnag
+489      lang  075                                                                               Isneg
+490      lang  076                                                                              Itawis
+491      lang  077                                                                              Itawit
+492      lang  078                                                                               Itneg
+493      lang  079                                                                      Ivatan/Itbayat
+494      lang  080                                                                      Iwak/I'wa/Owak
+495      lang  083                                                                          Jama Mapun
+496      lang  086                                                                           Kagayanen
+497      lang  087                                                                             Kalagan
+498      lang  088                                                                          Kalamianen
+499      lang  089                                                                             Kalinga
+500      lang  090                                                                              Kamayo
+501      lang  091                                                                  Kamigin/Kinamiging
+502      lang  092                                                                               Kapul
+503      lang  094                                                                               Karao
+504      lang  097                                                                         Kasigurahin
+505      lang  098                                                                           Kinalinga
+506      lang  099                                                                           Kiniray-a
 507      lang  100                                                                 Kolibugan/Kalibugan
 508      lang  102                                                                         Maguindanao
 509      lang  103                                                                             Malaueg
@@ -544,16 +544,16 @@
 543      lang  152                                                                            Capizeno
 544      lang  998                                                                 Response suppressed
 545      lang  999                                                                             Unknown
-546   provint    0                                                              Same city/municipality
-547   provint    1                                                                                Abra
-548   provint    2                                                                    Agusan Del Norte
-549   provint    3                                                                      Agusan Del Sur
-550   provint    4                                                                               Aklan
-551   provint    5                                                                               Albay
-552   provint    6                                                                             Antique
-553   provint    7                                                                             Basilan
-554   provint    8                                                                              Bataan
-555   provint    9                                                                             Batanes
+546   provint   00                                                              Same city/municipality
+547   provint   01                                                                                Abra
+548   provint   02                                                                    Agusan Del Norte
+549   provint   03                                                                      Agusan Del Sur
+550   provint   04                                                                               Aklan
+551   provint   05                                                                               Albay
+552   provint   06                                                                             Antique
+553   provint   07                                                                             Basilan
+554   provint   08                                                                              Bataan
+555   provint   09                                                                             Batanes
 556   provint   10                                                                            Batangas
 557   provint   11                                                                             Benguet
 558   provint   12                                                                               Bohol
@@ -630,18 +630,18 @@
 629   provint   98                                                                 Cotabato and Marawi
 630   provint   90                                                                     Foreign country
 631   provint   99                                                                 No response/unknown
-632  resintnd    7                                                                     Foreign country
-633  resintnd    8                                                              Same city/municipality
-634  resintnd    9                                                                             Unknown
-635      wthh    1                                                                                   1
-636      wthh    2                                                                                   2
-637      wthh    3                                                                                   3
-638      wthh    4                                                                                   4
-639      wthh    5                                                                                   5
-640      wthh    6                                                                                   6
-641      wthh    7                                                                                   7
-642      wthh    8                                                                                   8
-643      wthh    9                                                                                   9
+632  resintnd 0007                                                                     Foreign country
+633  resintnd 0008                                                              Same city/municipality
+634  resintnd 0009                                                                             Unknown
+635      wthh   01                                                                                   1
+636      wthh   02                                                                                   2
+637      wthh   03                                                                                   3
+638      wthh   04                                                                                   4
+639      wthh   05                                                                                   5
+640      wthh   06                                                                                   6
+641      wthh   07                                                                                   7
+642      wthh   08                                                                                   8
+643      wthh   09                                                                                   9
 644      wthh   10                                                                                  10
 645      wthh   11                                                                                  11
 646      wthh   12                                                                                  12
@@ -675,16 +675,16 @@
 674      wthh   46                                                                                  46
 675      wthh   67                                                                                  67
 676      wthh   70                                                                                  70
-677    pernum    0                                                                               HHrec
-678    pernum    1                                                                                   1
-679    pernum    2                                                                                   2
-680    pernum    3                                                                                   3
-681    pernum    4                                                                                   4
-682    pernum    5                                                                                   5
-683    pernum    6                                                                                   6
-684    pernum    7                                                                                   7
-685    pernum    8                                                                                   8
-686    pernum    9                                                                                   9
+677    pernum   00                                                                               hhrec
+678    pernum   01                                                                                   1
+679    pernum   02                                                                                   2
+680    pernum   03                                                                                   3
+681    pernum   04                                                                                   4
+682    pernum   05                                                                                   5
+683    pernum   06                                                                                   6
+684    pernum   07                                                                                   7
+685    pernum   08                                                                                   8
+686    pernum   09                                                                                   9
 687    pernum   10                                                                                  10
 688    pernum   11                                                                                  11
 689    pernum   12                                                                                  12
@@ -706,15 +706,15 @@
 705    pernum   28                                                                                  28
 706    pernum   29                                                                                  29
 707    pernum   30                                                                                  30
-708  linenumo    1                                                                                   1
-709  linenumo    2                                                                                   2
-710  linenumo    3                                                                                   3
-711  linenumo    4                                                                                   4
-712  linenumo    5                                                                                   5
-713  linenumo    6                                                                                   6
-714  linenumo    7                                                                                   7
-715  linenumo    8                                                                                   8
-716  linenumo    9                                                                                   9
+708  linenumo   01                                                                                   1
+709  linenumo   02                                                                                   2
+710  linenumo   03                                                                                   3
+711  linenumo   04                                                                                   4
+712  linenumo   05                                                                                   5
+713  linenumo   06                                                                                   6
+714  linenumo   07                                                                                   7
+715  linenumo   08                                                                                   8
+716  linenumo   09                                                                                   9
 717  linenumo   10                                                                                  10
 718  linenumo   11                                                                                  11
 719  linenumo   12                                                                                  12
@@ -736,15 +736,15 @@
 735  linenumo   28                                                                                  28
 736  linenumo   29                                                                                  29
 737  linenumo   30                                                                                 30+
-738    relate    1                                                                                Head
-739    relate    2                                                                              Spouse
-740    relate    3                                                                                 Son
-741    relate    4                                                                            Daughter
-742    relate    5                                                                             Stepson
-743    relate    6                                                                        Stepdaughter
-744    relate    7                                                                          Son-in-law
-745    relate    8                                                                     Daughter-in-law
-746    relate    9                                                                            Grandson
+738    relate   01                                                                                Head
+739    relate   02                                                                              Spouse
+740    relate   03                                                                                 Son
+741    relate   04                                                                            Daughter
+742    relate   05                                                                             Stepson
+743    relate   06                                                                        Stepdaughter
+744    relate   07                                                                          Son-in-law
+745    relate   08                                                                     Daughter-in-law
+746    relate   09                                                                            Grandson
 747    relate   10                                                                       Granddaughter
 748    relate   11                                                                              Father
 749    relate   12                                                                              Mother
@@ -762,106 +762,106 @@
 761    regist    2                                                                                  No
 762    regist    3                                                             Respondent did not know
 763    regist    9                                                                             Unknown
-764       age    0                                                                                   0
-765       age    1                                                                                   1
-766       age    2                                                                                   2
-767       age    3                                                                                   3
-768       age    4                                                                                   4
-769       age    5                                                                                   5
-770       age    6                                                                                   6
-771       age    7                                                                                   7
-772       age    8                                                                                   8
-773       age    9                                                                                   9
-774       age   10                                                                                  10
-775       age   11                                                                                  11
-776       age   12                                                                                  12
-777       age   13                                                                                  13
-778       age   14                                                                                  14
-779       age   15                                                                                  15
-780       age   16                                                                                  16
-781       age   17                                                                                  17
-782       age   18                                                                                  18
-783       age   19                                                                                  19
-784       age   20                                                                                  20
-785       age   21                                                                                  21
-786       age   22                                                                                  22
-787       age   23                                                                                  23
-788       age   24                                                                                  24
-789       age   25                                                                                  25
-790       age   26                                                                                  26
-791       age   27                                                                                  27
-792       age   28                                                                                  28
-793       age   29                                                                                  29
-794       age   30                                                                                  30
-795       age   31                                                                                  31
-796       age   32                                                                                  32
-797       age   33                                                                                  33
-798       age   34                                                                                  34
-799       age   35                                                                                  35
-800       age   36                                                                                  36
-801       age   37                                                                                  37
-802       age   38                                                                                  38
-803       age   39                                                                                  39
-804       age   40                                                                                  40
-805       age   41                                                                                  41
-806       age   42                                                                                  42
-807       age   43                                                                                  43
-808       age   44                                                                                  44
-809       age   45                                                                                  45
-810       age   46                                                                                  46
-811       age   47                                                                                  47
-812       age   48                                                                                  48
-813       age   49                                                                                  49
-814       age   50                                                                                  50
-815       age   51                                                                                  51
-816       age   52                                                                                  52
-817       age   53                                                                                  53
-818       age   54                                                                                  54
-819       age   55                                                                                  55
-820       age   56                                                                                  56
-821       age   57                                                                                  57
-822       age   58                                                                                  58
-823       age   59                                                                                  59
-824       age   60                                                                                  60
-825       age   61                                                                                  61
-826       age   62                                                                                  62
-827       age   63                                                                                  63
-828       age   64                                                                                  64
-829       age   65                                                                                  65
-830       age   66                                                                                  66
-831       age   67                                                                                  67
-832       age   68                                                                                  68
-833       age   69                                                                                  69
-834       age   70                                                                                  70
-835       age   71                                                                                  71
-836       age   72                                                                                  72
-837       age   73                                                                                  73
-838       age   74                                                                                  74
-839       age   75                                                                                  75
-840       age   76                                                                                  76
-841       age   77                                                                                  77
-842       age   78                                                                                  78
-843       age   79                                                                                  79
-844       age   80                                                                                  80
-845       age   81                                                                                  81
-846       age   82                                                                                  82
-847       age   83                                                                                  83
-848       age   84                                                                                  84
-849       age   85                                                                                  85
-850       age   86                                                                                  86
-851       age   87                                                                                  87
-852       age   88                                                                                  88
-853       age   89                                                                                  89
-854       age   90                                                                                  90
-855       age   91                                                                                  91
-856       age   92                                                                                  92
-857       age   93                                                                                  93
-858       age   94                                                                                  94
-859       age   95                                                                                  95
-860       age   96                                                                                  96
-861       age   97                                                                                  97
-862       age   98                                                                                  98
-863       age   99                                                                                  99
+764       age  000                                                                                   0
+765       age  001                                                                                   1
+766       age  002                                                                                   2
+767       age  003                                                                                   3
+768       age  004                                                                                   4
+769       age  005                                                                                   5
+770       age  006                                                                                   6
+771       age  007                                                                                   7
+772       age  008                                                                                   8
+773       age  009                                                                                   9
+774       age  010                                                                                  10
+775       age  011                                                                                  11
+776       age  012                                                                                  12
+777       age  013                                                                                  13
+778       age  014                                                                                  14
+779       age  015                                                                                  15
+780       age  016                                                                                  16
+781       age  017                                                                                  17
+782       age  018                                                                                  18
+783       age  019                                                                                  19
+784       age  020                                                                                  20
+785       age  021                                                                                  21
+786       age  022                                                                                  22
+787       age  023                                                                                  23
+788       age  024                                                                                  24
+789       age  025                                                                                  25
+790       age  026                                                                                  26
+791       age  027                                                                                  27
+792       age  028                                                                                  28
+793       age  029                                                                                  29
+794       age  030                                                                                  30
+795       age  031                                                                                  31
+796       age  032                                                                                  32
+797       age  033                                                                                  33
+798       age  034                                                                                  34
+799       age  035                                                                                  35
+800       age  036                                                                                  36
+801       age  037                                                                                  37
+802       age  038                                                                                  38
+803       age  039                                                                                  39
+804       age  040                                                                                  40
+805       age  041                                                                                  41
+806       age  042                                                                                  42
+807       age  043                                                                                  43
+808       age  044                                                                                  44
+809       age  045                                                                                  45
+810       age  046                                                                                  46
+811       age  047                                                                                  47
+812       age  048                                                                                  48
+813       age  049                                                                                  49
+814       age  050                                                                                  50
+815       age  051                                                                                  51
+816       age  052                                                                                  52
+817       age  053                                                                                  53
+818       age  054                                                                                  54
+819       age  055                                                                                  55
+820       age  056                                                                                  56
+821       age  057                                                                                  57
+822       age  058                                                                                  58
+823       age  059                                                                                  59
+824       age  060                                                                                  60
+825       age  061                                                                                  61
+826       age  062                                                                                  62
+827       age  063                                                                                  63
+828       age  064                                                                                  64
+829       age  065                                                                                  65
+830       age  066                                                                                  66
+831       age  067                                                                                  67
+832       age  068                                                                                  68
+833       age  069                                                                                  69
+834       age  070                                                                                  70
+835       age  071                                                                                  71
+836       age  072                                                                                  72
+837       age  073                                                                                  73
+838       age  074                                                                                  74
+839       age  075                                                                                  75
+840       age  076                                                                                  76
+841       age  077                                                                                  77
+842       age  078                                                                                  78
+843       age  079                                                                                  79
+844       age  080                                                                                  80
+845       age  081                                                                                  81
+846       age  082                                                                                  82
+847       age  083                                                                                  83
+848       age  084                                                                                  84
+849       age  085                                                                                  85
+850       age  086                                                                                  86
+851       age  087                                                                                  87
+852       age  088                                                                                  88
+853       age  089                                                                                  89
+854       age  090                                                                                  90
+855       age  091                                                                                  91
+856       age  092                                                                                  92
+857       age  093                                                                                  93
+858       age  094                                                                                  94
+859       age  095                                                                                  95
+860       age  096                                                                                  96
+861       age  097                                                                                  97
+862       age  098                                                                                  98
+863       age  099                                                                                  99
 864       age  100                                                                                100+
 865       sex    1                                                                                Male
 866       sex    2                                                                              Female
@@ -874,15 +874,15 @@
 873     marst    5                                                                  Common-law/live-in
 874     marst    6                                                             Respondent did not know
 875     marst    9                                                                             Unknown
-876     relig    1                                                                             Aglipay
-877     relig    2                                                                            Buddhist
-878     relig    3                                     Church of Jesus Christ of the Latter Day Saints
-879     relig    4                                                                   Iglesia ni Cristo
-880     relig    5                                                                               Islam
-881     relig    6                                                                   Jehovah's Witness
-882     relig    7                                                               Philippine Benevolent
-883     relig    8                                      Roman Catholic (includes Catholic Charismatic)
-884     relig    9                                                               Seventh Day Adventist
+876     relig   01                                                                             Aglipay
+877     relig   02                                                                            Buddhist
+878     relig   03                                     Church of Jesus Christ of the Latter Day Saints
+879     relig   04                                                                   Iglesia ni Cristo
+880     relig   05                                                                               Islam
+881     relig   06                                                                   Jehovah's Witness
+882     relig   07                                                               Philippine Benevolent
+883     relig   08                                      Roman Catholic (includes Catholic Charismatic)
+884     relig   09                                                               Seventh Day Adventist
 885     relig   11                                         Convention of the Philippine Baptist Church
 886     relig   12                                     Iglesia Evangelista Methodista en Las Filipinas
 887     relig   13                                                  Lutheran Church in the Philippines
@@ -958,95 +958,95 @@
 957     relig   93                                                                              Others
 958     relig   94                                                                                None
 959     relig   99                                                                             Unknown
-960  bplcntry    1                                    China, People's Republic of (including Hongkong)
-961  bplcntry    2                                                            United States of America
-962  bplcntry    3                                                     Indonesia (includes West Irian)
-963  bplcntry    4                                                                               India
-964  bplcntry    5                                                                               Japan
-965  bplcntry    6                                                           Iran, Islamic Republic of
-966  bplcntry    7                                                                           Australia
-967  bplcntry    8                                                                      United Kingdom
-968  bplcntry    9                                                                         Afghanistan
-969  bplcntry   10                                                                             Albania
-970  bplcntry   11                                                                             Algeria
-971  bplcntry   12                                                                              Angola
-972  bplcntry   13                                                                             Antigua
-973  bplcntry   14                                                                           Argentina
-974  bplcntry   15                                                                               Aruba
-975  bplcntry   16                                                                             Austria
-976  bplcntry   17                                                                             Bahrain
-977  bplcntry   18                                                                          Bangladesh
-978  bplcntry   19                                                                             Belgium
-979  bplcntry   20                                                                             Bolivia
-980  bplcntry   21                                                                              Brazil
-981  bplcntry   22                                                                   Brunei Darussalam
-982  bplcntry   23                                                                            Bulgaria
-983  bplcntry   24                                           Burma, Socialist Republic of the Union of
-984  bplcntry   25                                                                              Canada
-985  bplcntry   30                                                                                Cuba
-986  bplcntry   31                                                                      Czechoslovakia
-987  bplcntry   32                                                                             Denmark
-988  bplcntry   33                                                                  Dominican Republic
-989  bplcntry   34                                                                 Egypt Arab Republic
-990  bplcntry   35                                                                         El Salvador
-991  bplcntry   36                                                                             Finland
-992  bplcntry   37                                                                                Fiji
-993  bplcntry   38                                                                              France
-994  bplcntry   39                                                        Germany, Federal Republic of
-995  bplcntry   41                                                                              Greece
-996  bplcntry   42                                                                                Guam
-997  bplcntry   43                                                                           Guatemala
-998  bplcntry   47                                                                             Ireland
-999  bplcntry   49                                                                              Israel
-1000 bplcntry   50                                                                               Italy
-1001 bplcntry   52                                                                               Kenya
-1002 bplcntry   53                                                                  Korea, Republic of
-1003 bplcntry   54                                                                              Kuwait
-1004 bplcntry   56                                                                             Liberia
-1005 bplcntry   58                                           Malaya, Federation of (Comprise Malaysia)
-1006 bplcntry   61                                                                              Monaco
-1007 bplcntry   62                                                                             Morocco
-1008 bplcntry   63                                                                               Nepal
-1009 bplcntry   64                                                                         Netherlands
-1010 bplcntry   66                                                                             Nigeria
-1011 bplcntry   67                                                                              Norway
-1012 bplcntry   68                                                          Pakistan, Islamic Republic
-1013 bplcntry   69                                                                  Palau, Republic of
-1014 bplcntry   71                                                                    Papua New Guinea
-1015 bplcntry   72                                                                            Paraguay
-1016 bplcntry   73                                                                                Peru
-1017 bplcntry   74                                                                              Poland
-1018 bplcntry   75                                                                            Portugal
-1019 bplcntry   76                                                   Portuguese Timor and Dependencies
-1020 bplcntry   78                                                                             Romania
-1021 bplcntry   79                                                                              Russia
-1022 bplcntry   80                                                                        Saudi Arabia
-1023 bplcntry   81                                                                           Singapore
-1024 bplcntry   82                                                                               Spain
-1025 bplcntry   86                                                                         Switzerland
-1026 bplcntry   88                                                          Taiwan (Republic of China)
-1027 bplcntry   89                                                                            Thailand
-1028 bplcntry   90 Trust Territory of Pacific Islands (excludes Marshall Island and Palau Republic of)
-1029 bplcntry   91                                                                             Tunisia
-1030 bplcntry   92                                                                             Uruguay
-1031 bplcntry   94                                                                             Vietnam
-1032 bplcntry   97                                                                 Zimbabwe (Rhodesia)
-1033 bplcntry   98                                                                        Undocumented
-1034 bplcntry   99                                                                              Others
+960  bplcntry  001                                    China, People's Republic of (including Hongkong)
+961  bplcntry  002                                                            United States of America
+962  bplcntry  003                                                     Indonesia (includes West Irian)
+963  bplcntry  004                                                                               India
+964  bplcntry  005                                                                               Japan
+965  bplcntry  006                                                           Iran, Islamic Republic of
+966  bplcntry  007                                                                           Australia
+967  bplcntry  008                                                                      United Kingdom
+968  bplcntry  009                                                                         Afghanistan
+969  bplcntry  010                                                                             Albania
+970  bplcntry  011                                                                             Algeria
+971  bplcntry  012                                                                              Angola
+972  bplcntry  013                                                                             Antigua
+973  bplcntry  014                                                                           Argentina
+974  bplcntry  015                                                                               Aruba
+975  bplcntry  016                                                                             Austria
+976  bplcntry  017                                                                             Bahrain
+977  bplcntry  018                                                                          Bangladesh
+978  bplcntry  019                                                                             Belgium
+979  bplcntry  020                                                                             Bolivia
+980  bplcntry  021                                                                              Brazil
+981  bplcntry  022                                                                   Brunei Darussalam
+982  bplcntry  023                                                                            Bulgaria
+983  bplcntry  024                                           Burma, Socialist Republic of the Union of
+984  bplcntry  025                                                                              Canada
+985  bplcntry  030                                                                                Cuba
+986  bplcntry  031                                                                      Czechoslovakia
+987  bplcntry  032                                                                             Denmark
+988  bplcntry  033                                                                  Dominican Republic
+989  bplcntry  034                                                                 Egypt Arab Republic
+990  bplcntry  035                                                                         El Salvador
+991  bplcntry  036                                                                             Finland
+992  bplcntry  037                                                                                Fiji
+993  bplcntry  038                                                                              France
+994  bplcntry  039                                                        Germany, Federal Republic of
+995  bplcntry  041                                                                              Greece
+996  bplcntry  042                                                                                Guam
+997  bplcntry  043                                                                           Guatemala
+998  bplcntry  047                                                                             Ireland
+999  bplcntry  049                                                                              Israel
+1000 bplcntry  050                                                                               Italy
+1001 bplcntry  052                                                                               Kenya
+1002 bplcntry  053                                                                  Korea, Republic of
+1003 bplcntry  054                                                                              Kuwait
+1004 bplcntry  056                                                                             Liberia
+1005 bplcntry  058                                           Malaya, Federation of (Comprise Malaysia)
+1006 bplcntry  061                                                                              Monaco
+1007 bplcntry  062                                                                             Morocco
+1008 bplcntry  063                                                                               Nepal
+1009 bplcntry  064                                                                         Netherlands
+1010 bplcntry  066                                                                             Nigeria
+1011 bplcntry  067                                                                              Norway
+1012 bplcntry  068                                                          Pakistan, Islamic Republic
+1013 bplcntry  069                                                                  Palau, Republic of
+1014 bplcntry  071                                                                    Papua New Guinea
+1015 bplcntry  072                                                                            Paraguay
+1016 bplcntry  073                                                                                Peru
+1017 bplcntry  074                                                                              Poland
+1018 bplcntry  075                                                                            Portugal
+1019 bplcntry  076                                                   Portuguese Timor and Dependencies
+1020 bplcntry  078                                                                             Romania
+1021 bplcntry  079                                                                              Russia
+1022 bplcntry  080                                                                        Saudi Arabia
+1023 bplcntry  081                                                                           Singapore
+1024 bplcntry  082                                                                               Spain
+1025 bplcntry  086                                                                         Switzerland
+1026 bplcntry  088                                                          Taiwan (Republic of China)
+1027 bplcntry  089                                                                            Thailand
+1028 bplcntry  090 Trust Territory of Pacific Islands (excludes Marshall Island and Palau Republic of)
+1029 bplcntry  091                                                                             Tunisia
+1030 bplcntry  092                                                                             Uruguay
+1031 bplcntry  094                                                                             Vietnam
+1032 bplcntry  097                                                                 Zimbabwe (Rhodesia)
+1033 bplcntry  098                                                                        Undocumented
+1034 bplcntry  099                                                                              Others
 1035 bplcntry  100                                                                         Philippines
 1036 bplcntry  998                                                                 Response suppressed
 1037 bplcntry  999                                                                             Unknown
 1038    disab    1                                                                                 Yes
 1039    disab    2                                                                                  No
-1040 disabtyp    1                                                                     Total blindness
-1041 disabtyp    2                                                                   Partial blindness
-1042 disabtyp    3                                                                          Low vision
-1043 disabtyp    4                                                                      Total deafness
-1044 disabtyp    5                                                                    Partial deafness
-1045 disabtyp    6                                                                     Hard of Hearing
-1046 disabtyp    7                                                                         Oral defect
-1047 disabtyp    8                                                                    Loss of one hand
-1048 disabtyp    9                                                                  Loss of both hands
+1040 disabtyp   01                                                                     Total blindness
+1041 disabtyp   02                                                                   Partial blindness
+1042 disabtyp   03                                                                          Low vision
+1043 disabtyp   04                                                                      Total deafness
+1044 disabtyp   05                                                                    Partial deafness
+1045 disabtyp   06                                                                     Hard of Hearing
+1046 disabtyp   07                                                                         Oral defect
+1047 disabtyp   08                                                                    Loss of one hand
+1048 disabtyp   09                                                                  Loss of both hands
 1049 disabtyp   10                                                                     Loss of one leg
 1050 disabtyp   11                                                                   Loss of both legs
 1051 disabtyp   12                                                      Quadriplegic - regular or mild
@@ -1058,103 +1058,103 @@
 1057 disabtyp   18                                                                 Multiple impairment
 1058 disabtyp   19                                                                        Undocumented
 1059 disabtyp   99                                                                        Not disabled
-1060   ethnic    1                                                                      Akeanon/Alanon
-1061   ethnic    2                                                                         Bikol/Bicol
-1062   ethnic    3                                                                             Cebuano
-1063   ethnic    4                                                                  Hiligaynon, Ilongo
-1064   ethnic    5                                                                              Ibanag
-1065   ethnic    6                                                                              Ifugao
-1066   ethnic    7                                                                             Ilocano
-1067   ethnic    8                                                                   Kankanai/Kankaney
-1068   ethnic    9                                                                         Kapampangan
-1069   ethnic   10                                                                             Karay-a
-1070   ethnic   11                                                                   Manobo/Ata-Manobo
-1071   ethnic   12                                                                             Maranao
-1072   ethnic   13                                                                Masbateno/Masbatenon
-1073   ethnic   14                                                               Pangasinan/Panggalato
-1074   ethnic   15                                                                Sama (Samal)/Abaknon
-1075   ethnic   16                                                                          Surigaonon
-1076   ethnic   17                                                                             Tagalog
-1077   ethnic   18                                                                              Tausog
-1078   ethnic   19                                                                               Waray
-1079   ethnic   20                                                                 Zambageno-Chavacano
-1080   ethnic   21                                                                            Abelling
-1081   ethnic   22                                                                              Abiyan
-1082   ethnic   23                                                                              Aburin
-1083   ethnic   24                                                                           Aeta/Ayta
-1084   ethnic   25                                                                               Aggay
-1085   ethnic   26                                                                                Agta
-1086   ethnic   27                                                                Agutaynon/Agutayanon
-1087   ethnic   28                                                                             Alangan
-1088   ethnic   29                                                                      Apayao/Yapayao
-1089   ethnic   30                                                                              Applai
-1090   ethnic   31                                                                        Atta/Ata/Ati
-1091   ethnic   32                                                                             Ayangan
-1092   ethnic   33                                                                 Badjao, Sama Dilaut
-1093   ethnic   34                                                                       Bagobo/Guinga
-1094   ethnic   35                                                                    Balangao/Baliwon
-1095   ethnic   36                                                                           Bantoanon
-1096   ethnic   37                                                                             Banwaon
-1097   ethnic   38                                                                       Batak/Binatak
-1098   ethnic   39                                                                            Batangan
-1099   ethnic   40                                                                       Bilaan/B'laan
-1100   ethnic   41                                                                    Binukid/Bukidnon
-1101   ethnic   42                                                                     Bisaya/Binisaya
-1102   ethnic   43                                                                            Boholano
-1103   ethnic   44                                                                             Bolinao
-1104   ethnic   45                                                                            Bugkalot
-1105   ethnic   46                                                                     Bontok/Binontok
-1106   ethnic   47                                                                               Buhid
-1107   ethnic   48                                                                            Butuanon
-1108   ethnic   49                                                                            Caviteno
-1109   ethnic   50                                                                  Caviteno-Chavacano
-1110   ethnic   51                                                                             Cimaron
-1111   ethnic   52                                                                          Cotabateno
-1112   ethnic   53                                                                Cotabateno-Chavacano
-1113   ethnic   54                                                                     Cuyunon/Cuyunan
-1114   ethnic   55                                                                      Dava-Chavacano
-1115   ethnic   56                                                                            Davaweno
-1116   ethnic   57                                                                           Dibabawon
-1117   ethnic   58                                                             Dumagat/Dumagat(Umiray)
-1118   ethnic   59                                                                             Gaddang
-1119   ethnic   60                                                                            Gubatnon
-1120   ethnic   61                                                                          Hamtikanon
-1121   ethnic   62                                                                             Hanunuo
-1122   ethnic   63                                                                            Higaonon
-1123   ethnic   64                                                                     Ibaloi/Inibaloi
-1124   ethnic   65                                                                             Ibontoc
-1125   ethnic   66                                                                  Ikalahan/Kalanguya
-1126   ethnic   67                                                                      Ilanun/Llanuan
-1127   ethnic   68                                                                             Ilongot
-1128   ethnic   69                                                                              Iranon
-1129   ethnic   70                                                                               Iraya
-1130   ethnic   71                                                                       Isamal Kanlaw
-1131   ethnic   72                                                                              Isarog
-1132   ethnic   73                                                                              Isinay
-1133   ethnic   74                                                                               Isnag
-1134   ethnic   75                                                                               Isneg
-1135   ethnic   76                                                                              Itawis
-1136   ethnic   77                                                                              Itawit
-1137   ethnic   78                                                                               Itneg
-1138   ethnic   79                                                                      Ivatan/Itbayat
-1139   ethnic   80                                                                      Iwak/I'wa/Owak
-1140   ethnic   81                                                                            Iyapplai
-1141   ethnic   82                                                                             iyiwaks
-1142   ethnic   83                                                                          Jama Mapun
-1143   ethnic   84                                                                              Kaagan
-1144   ethnic   85                                                                             Kabihug
-1145   ethnic   86                                                                           Kagayanen
-1146   ethnic   87                                                                             Kalagan
-1147   ethnic   88                                                                          Kalamianen
-1148   ethnic   89                                                                             Kalinga
-1149   ethnic   90                                                                              Kamayo
-1150   ethnic   91                                                                  Kamigin/Kinamiging
-1151   ethnic   92                                                                               Kapul
-1152   ethnic   93                                                                              Karaga
-1153   ethnic   94                                                                               Karao
-1154   ethnic   97                                                                         Kasigurahin
-1155   ethnic   98                                                                           Kinalinga
-1156   ethnic   99                                                                           Kiniray-a
+1060   ethnic  001                                                                      Akeanon/Alanon
+1061   ethnic  002                                                                         Bikol/Bicol
+1062   ethnic  003                                                                             Cebuano
+1063   ethnic  004                                                                  Hiligaynon, Ilongo
+1064   ethnic  005                                                                              Ibanag
+1065   ethnic  006                                                                              Ifugao
+1066   ethnic  007                                                                             Ilocano
+1067   ethnic  008                                                                   Kankanai/Kankaney
+1068   ethnic  009                                                                         Kapampangan
+1069   ethnic  010                                                                             Karay-a
+1070   ethnic  011                                                                   Manobo/Ata-Manobo
+1071   ethnic  012                                                                             Maranao
+1072   ethnic  013                                                                Masbateno/Masbatenon
+1073   ethnic  014                                                               Pangasinan/Panggalato
+1074   ethnic  015                                                                Sama (Samal)/Abaknon
+1075   ethnic  016                                                                          Surigaonon
+1076   ethnic  017                                                                             Tagalog
+1077   ethnic  018                                                                              Tausog
+1078   ethnic  019                                                                               Waray
+1079   ethnic  020                                                                 Zambageno-Chavacano
+1080   ethnic  021                                                                            Abelling
+1081   ethnic  022                                                                              Abiyan
+1082   ethnic  023                                                                              Aburin
+1083   ethnic  024                                                                           Aeta/Ayta
+1084   ethnic  025                                                                               Aggay
+1085   ethnic  026                                                                                Agta
+1086   ethnic  027                                                                Agutaynon/Agutayanon
+1087   ethnic  028                                                                             Alangan
+1088   ethnic  029                                                                      Apayao/Yapayao
+1089   ethnic  030                                                                              Applai
+1090   ethnic  031                                                                        Atta/Ata/Ati
+1091   ethnic  032                                                                             Ayangan
+1092   ethnic  033                                                                 Badjao, Sama Dilaut
+1093   ethnic  034                                                                       Bagobo/Guinga
+1094   ethnic  035                                                                    Balangao/Baliwon
+1095   ethnic  036                                                                           Bantoanon
+1096   ethnic  037                                                                             Banwaon
+1097   ethnic  038                                                                       Batak/Binatak
+1098   ethnic  039                                                                            Batangan
+1099   ethnic  040                                                                       Bilaan/B'laan
+1100   ethnic  041                                                                    Binukid/Bukidnon
+1101   ethnic  042                                                                     Bisaya/Binisaya
+1102   ethnic  043                                                                            Boholano
+1103   ethnic  044                                                                             Bolinao
+1104   ethnic  045                                                                            Bugkalot
+1105   ethnic  046                                                                     Bontok/Binontok
+1106   ethnic  047                                                                               Buhid
+1107   ethnic  048                                                                            Butuanon
+1108   ethnic  049                                                                            Caviteno
+1109   ethnic  050                                                                  Caviteno-Chavacano
+1110   ethnic  051                                                                             Cimaron
+1111   ethnic  052                                                                          Cotabateno
+1112   ethnic  053                                                                Cotabateno-Chavacano
+1113   ethnic  054                                                                     Cuyunon/Cuyunan
+1114   ethnic  055                                                                      Dava-Chavacano
+1115   ethnic  056                                                                            Davaweno
+1116   ethnic  057                                                                           Dibabawon
+1117   ethnic  058                                                             Dumagat/Dumagat(Umiray)
+1118   ethnic  059                                                                             Gaddang
+1119   ethnic  060                                                                            Gubatnon
+1120   ethnic  061                                                                          Hamtikanon
+1121   ethnic  062                                                                             Hanunuo
+1122   ethnic  063                                                                            Higaonon
+1123   ethnic  064                                                                     Ibaloi/Inibaloi
+1124   ethnic  065                                                                             Ibontoc
+1125   ethnic  066                                                                  Ikalahan/Kalanguya
+1126   ethnic  067                                                                      Ilanun/Llanuan
+1127   ethnic  068                                                                             Ilongot
+1128   ethnic  069                                                                              Iranon
+1129   ethnic  070                                                                               Iraya
+1130   ethnic  071                                                                       Isamal Kanlaw
+1131   ethnic  072                                                                              Isarog
+1132   ethnic  073                                                                              Isinay
+1133   ethnic  074                                                                               Isnag
+1134   ethnic  075                                                                               Isneg
+1135   ethnic  076                                                                              Itawis
+1136   ethnic  077                                                                              Itawit
+1137   ethnic  078                                                                               Itneg
+1138   ethnic  079                                                                      Ivatan/Itbayat
+1139   ethnic  080                                                                      Iwak/I'wa/Owak
+1140   ethnic  081                                                                            Iyapplai
+1141   ethnic  082                                                                             iyiwaks
+1142   ethnic  083                                                                          Jama Mapun
+1143   ethnic  084                                                                              Kaagan
+1144   ethnic  085                                                                             Kabihug
+1145   ethnic  086                                                                           Kagayanen
+1146   ethnic  087                                                                             Kalagan
+1147   ethnic  088                                                                          Kalamianen
+1148   ethnic  089                                                                             Kalinga
+1149   ethnic  090                                                                              Kamayo
+1150   ethnic  091                                                                  Kamigin/Kinamiging
+1151   ethnic  092                                                                               Kapul
+1152   ethnic  093                                                                              Karaga
+1153   ethnic  094                                                                               Karao
+1154   ethnic  097                                                                         Kasigurahin
+1155   ethnic  098                                                                           Kinalinga
+1156   ethnic  099                                                                           Kiniray-a
 1157   ethnic  100                                                                 Kolibugan/Kalibugan
 1158   ethnic  101                                                                       Ligbuk/Lugbok
 1159   ethnic  102                                                                         Maguindanao
@@ -1220,8 +1220,8 @@
 1219  schtype    4                                                                              Others
 1220  schtype    8                                                                             Unknown
 1221  schtype    9                                                                                 NIU
-1222  edattan    0                                                                  No grade completed
-1223  edattan    1                                                                          Pre-school
+1222  edattan   00                                                                  No grade completed
+1223  edattan   01                                                                          Pre-school
 1224  edattan   11                                                                  Elementary grade 1
 1225  edattan   12                                                                  Elementary grade 2
 1226  edattan   13                                                                  Elementary grade 3
@@ -1264,16 +1264,16 @@
 1263  edattan   71                                                                   Post baccalaurete
 1264  edattan   98                                                                             Unknown
 1265  edattan   99                                                                                 NIU
-1266  prov5yr    0                                                              Same city/municipality
-1267  prov5yr    1                                                                                Abra
-1268  prov5yr    2                                                                    Agusan Del Norte
-1269  prov5yr    3                                                                      Agusan Del Sur
-1270  prov5yr    4                                                                               Aklan
-1271  prov5yr    5                                                                               Albay
-1272  prov5yr    6                                                                             Antique
-1273  prov5yr    7                                                                             Basilan
-1274  prov5yr    8                                                                              Bataan
-1275  prov5yr    9                                                                             Batanes
+1266  prov5yr   00                                                              Same city/municipality
+1267  prov5yr   01                                                                                Abra
+1268  prov5yr   02                                                                    Agusan Del Norte
+1269  prov5yr   03                                                                      Agusan Del Sur
+1270  prov5yr   04                                                                               Aklan
+1271  prov5yr   05                                                                               Albay
+1272  prov5yr   06                                                                             Antique
+1273  prov5yr   07                                                                             Basilan
+1274  prov5yr   08                                                                              Bataan
+1275  prov5yr   09                                                                             Batanes
 1276  prov5yr   10                                                                            Batangas
 1277  prov5yr   11                                                                             Benguet
 1278  prov5yr   12                                                                               Bohol
@@ -1350,16 +1350,16 @@
 1349  prov5yr   98                                                                 Cotabato and Marawi
 1350  prov5yr   90                                                                     Foreign country
 1351  prov5yr   99                                                                                 NIU
-1352 prov10yr    0                                                              Same city/municipality
-1353 prov10yr    1                                                                                Abra
-1354 prov10yr    2                                                                    Agusan Del Norte
-1355 prov10yr    3                                                                      Agusan Del Sur
-1356 prov10yr    4                                                                               Aklan
-1357 prov10yr    5                                                                               Albay
-1358 prov10yr    6                                                                             Antique
-1359 prov10yr    7                                                                             Basilan
-1360 prov10yr    8                                                                              Bataan
-1361 prov10yr    9                                                                             Batanes
+1352 prov10yr   00                                                              Same city/municipality
+1353 prov10yr   01                                                                                Abra
+1354 prov10yr   02                                                                    Agusan Del Norte
+1355 prov10yr   03                                                                      Agusan Del Sur
+1356 prov10yr   04                                                                               Aklan
+1357 prov10yr   05                                                                               Albay
+1358 prov10yr   06                                                                             Antique
+1359 prov10yr   07                                                                             Basilan
+1360 prov10yr   08                                                                              Bataan
+1361 prov10yr   09                                                                             Batanes
 1362 prov10yr   10                                                                            Batangas
 1363 prov10yr   11                                                                             Benguet
 1364 prov10yr   12                                                                               Bohol
@@ -1436,12 +1436,12 @@
 1435 prov10yr   98                                                                 Cotabato and Marawi
 1436 prov10yr   90                                                                     Foreign country
 1437 prov10yr   99                                                                                 NIU
-1438  mun10yr    7                                                                     Foreign country
-1439  mun10yr    8                                                              Same city/municipality
-1440  mun10yr    9                                                                             Unknown
+1438  mun10yr 0007                                                                     Foreign country
+1439  mun10yr 0008                                                              Same city/municipality
+1440  mun10yr 0009                                                                             Unknown
 1441  mun10yr 9998                                                                        Not reported
 1442  mun10yr 9999                                                                                 NIU
-1443     occ2    1                                                                        Armed forces
+1443     occ2   01                                                                        Armed forces
 1444     occ2   11                          Officials of government and special-interest organizations
 1445     occ2   12                                       Corporate executives and specialized managers
 1446     occ2   13                                               General managers/managing-proprietors
@@ -1477,8 +1477,8 @@
 1476     occ2   97                                                                       No occupation
 1477     occ2   98                                                                             Unknown
 1478     occ2   99                                                                                 NIU
-1479      occ   11                                                                            Officers
-1480      occ   12                                                                  Enlisted personnel
+1479      occ  011                                                                            Officers
+1480      occ  012                                                                  Enlisted personnel
 1481      occ  111                 Government administrators (including career executive service off.)
 1482      occ  112                                                               Legislative officials
 1483      occ  113                                            Traditional chiefs and heads of villages
@@ -1614,13 +1614,13 @@
 1613      occ  970                                                                       No occupation
 1614      occ  998                                                                             Unknown
 1615      occ  999                                                                                 NIU
-1616      ind    0                                                                                 NIU
-1617      ind    1                                                                    Growing of crops
-1618      ind    2                                                                  Farming of animals
-1619      ind    3  Agricultural and animal husbandry service activities, except veterinary activities
-1620      ind    4         Hunting, trapping and game propagation including related service activities
-1621      ind    5                                    Forestry, logging and related service activities
-1622      ind    6                                                                    Fishing: fishing
+1616      ind   00                                                                                 NIU
+1617      ind   01                                                                    Growing of crops
+1618      ind   02                                                                  Farming of animals
+1619      ind   03  Agricultural and animal husbandry service activities, except veterinary activities
+1620      ind   04         Hunting, trapping and game propagation including related service activities
+1621      ind   05                                    Forestry, logging and related service activities
+1622      ind   06                                                                    Fishing: fishing
 1623      ind   10                                                                 Metallic ore mining
 1624      ind   11                                                   Non-metallic mining and quarrying
 1625      ind   15                                                         Food products and beverages
@@ -1688,15 +1688,15 @@
 1687  classwk    7                             Worked without pay in own-family operated farm/business
 1688  classwk    8                                                                             Unknown
 1689  classwk    9                                                                                 NIU
-1690    wtper    1                                                                                   1
-1691    wtper    2                                                                                   2
-1692    wtper    3                                                                                   3
-1693    wtper    4                                                                                   4
-1694    wtper    5                                                                                   5
-1695    wtper    6                                                                                   6
-1696    wtper    7                                                                                   7
-1697    wtper    8                                                                                   8
-1698    wtper    9                                                                                   9
+1690    wtper   01                                                                                   1
+1691    wtper   02                                                                                   2
+1692    wtper   03                                                                                   3
+1693    wtper   04                                                                                   4
+1694    wtper   05                                                                                   5
+1695    wtper   06                                                                                   6
+1696    wtper   07                                                                                   7
+1697    wtper   08                                                                                   8
+1698    wtper   09                                                                                   9
 1699    wtper   10                                                                                  10
 1700    wtper   11                                                                                  11
 1701    wtper   12                                                                                  12
@@ -2127,7 +2127,7 @@
 366                                                                               Rented
 367                                                      Rent-free with consent of owner
 368                                                   Rent-free without consent of owner
-369                                                                              MISSING
+369                                                                                blank
 370                                                                                  NIU
 371                                                                                  NIU
 372                                                                            Below 100
@@ -2435,7 +2435,7 @@
 674                                                                                   46
 675                                                                                   67
 676                                                                                   70
-677                                                                                HHrec
+677                                                                                hhrec
 678                                                                                    1
 679                                                                                    2
 680                                                                                    3

@@ -6,12 +6,12 @@
 5         div     2                                                                          Eastern
 6         div     3                                                                         Northern
 7         div     5                                                                          Western
-8        prov     1                                                                               Ba
-9        prov     3                                                               Bua and Cakaudrove
-10       prov     6                                               Kadavu, Lau, Lomaiviti, and Rotuma
-11       prov     7                                                                          Macuata
-12       prov     8                                                                 Nadroga - Navosa
-13       prov     9                                                                        Naitasiri
+8        prov    01                                                                               Ba
+9        prov    03                                                               Bua and Cakaudrove
+10       prov    06                                               Kadavu, Lau, Lomaiviti, and Rotuma
+11       prov    07                                                                          Macuata
+12       prov    08                                                                 Nadroga - Navosa
+13       prov    09                                                                        Naitasiri
 14       prov    11                                                                               Ra
 15       prov    12                                                                             Rewa
 16       prov    13                                                                 Serua and Namosi
@@ -33,16 +33,16 @@
 32   wallcond     1                                                                             Good
 33   wallcond     2                                                                          Average
 34   wallcond     3                                                                             Poor
-35      rooms     0                                                                          0 rooms
-36      rooms     1                                                                                1
-37      rooms     2                                                                                2
-38      rooms     3                                                                                3
-39      rooms     4                                                                                4
-40      rooms     5                                                                                5
-41      rooms     6                                                                                6
-42      rooms     7                                                                                7
-43      rooms     8                                                                                8
-44      rooms     9                                                                                9
+35      rooms    00                                                                          0 rooms
+36      rooms    01                                                                                1
+37      rooms    02                                                                                2
+38      rooms    03                                                                                3
+39      rooms    04                                                                                4
+40      rooms    05                                                                                5
+41      rooms    06                                                                                6
+42      rooms    07                                                                                7
+43      rooms    08                                                                                8
+44      rooms    09                                                                                9
 45      rooms    10                                                                               10
 46      rooms    11                                                                               11
 47      rooms    12                                                                              12+
@@ -227,43 +227,43 @@
 226  savbulbs     7                                                                                7
 227  savbulbs     8                                                                                8
 228  savbulbs     9                                                                                9
-229      cows     0                                                                             None
-230      cows     1                                                                                1
-231      cows     2                                                                                2
-232      cows     3                                                                                3
-233      cows     4                                                                                4
-234      cows     5                                                                                5
-235      cows     6                                                                                6
-236      cows     7                                                                                7
-237      cows     8                                                                                8
-238      cows     9                                                                                9
+229      cows    00                                                                             None
+230      cows    01                                                                                1
+231      cows    02                                                                                2
+232      cows    03                                                                                3
+233      cows    04                                                                                4
+234      cows    05                                                                                5
+235      cows    06                                                                                6
+236      cows    07                                                                                7
+237      cows    08                                                                                8
+238      cows    09                                                                                9
 239      cows    10                                                                              10+
-240      pigs     0                                                                             None
-241      pigs     1                                                                                1
-242      pigs     2                                                                                2
-243      pigs     3                                                                                3
-244      pigs     4                                                                                4
-245      pigs     5                                                                                5
-246      pigs     6                                                                                6
-247      pigs     7                                                                                7
-248      pigs     8                                                                                8
-249      pigs     9                                                                                9
+240      pigs    00                                                                             None
+241      pigs    01                                                                                1
+242      pigs    02                                                                                2
+243      pigs    03                                                                                3
+244      pigs    04                                                                                4
+245      pigs    05                                                                                5
+246      pigs    06                                                                                6
+247      pigs    07                                                                                7
+248      pigs    08                                                                                8
+249      pigs    09                                                                                9
 250      pigs    10                                                                               10
 251      pigs    11                                                                               11
 252      pigs    12                                                                               12
 253      pigs    13                                                                               13
 254      pigs    14                                                                               14
 255      pigs    15                                                                              15+
-256     goats     0                                                                             None
-257     goats     1                                                                                1
-258     goats     2                                                                                2
-259     goats     3                                                                                3
-260     goats     4                                                                                4
-261     goats     5                                                                                5
-262     goats     6                                                                                6
-263     goats     7                                                                                7
-264     goats     8                                                                                8
-265     goats     9                                                                                9
+256     goats    00                                                                             None
+257     goats    01                                                                                1
+258     goats    02                                                                                2
+259     goats    03                                                                                3
+260     goats    04                                                                                4
+261     goats    05                                                                                5
+262     goats    06                                                                                6
+263     goats    07                                                                                7
+264     goats    08                                                                                8
+265     goats    09                                                                                9
 266     goats    10                                                                               10
 267     goats    11                                                                               11
 268     goats    12                                                                              12+
@@ -275,16 +275,16 @@
 274    horses     5                                                                                5
 275    horses     6                                                                                6
 276    horses     7                                                                               7+
-277   poultry     0                                                                             None
-278   poultry     1                                                                                1
-279   poultry     2                                                                                2
-280   poultry     3                                                                                3
-281   poultry     4                                                                                4
-282   poultry     5                                                                                5
-283   poultry     6                                                                                6
-284   poultry     7                                                                                7
-285   poultry     8                                                                                8
-286   poultry     9                                                                                9
+277   poultry    00                                                                             None
+278   poultry    01                                                                                1
+279   poultry    02                                                                                2
+280   poultry    03                                                                                3
+281   poultry    04                                                                                4
+282   poultry    05                                                                                5
+283   poultry    06                                                                                6
+284   poultry    07                                                                                7
+285   poultry    08                                                                                8
+286   poultry    09                                                                                9
 287   poultry    10                                                                               10
 288   poultry    11                                                                               11
 289   poultry    12                                                                               12
@@ -296,16 +296,16 @@
 295   poultry    18                                                                               18
 296   poultry    19                                                                               19
 297   poultry    20                                                                              20+
-298      dogs     0                                                                             None
-299      dogs     1                                                                                1
-300      dogs     2                                                                                2
-301      dogs     3                                                                                3
-302      dogs     4                                                                                4
-303      dogs     5                                                                                5
-304      dogs     6                                                                                6
-305      dogs     7                                                                                7
-306      dogs     8                                                                                8
-307      dogs     9                                                                                9
+298      dogs    00                                                                             None
+299      dogs    01                                                                                1
+300      dogs    02                                                                                2
+301      dogs    03                                                                                3
+302      dogs    04                                                                                4
+303      dogs    05                                                                                5
+304      dogs    06                                                                                6
+305      dogs    07                                                                                7
+306      dogs    08                                                                                8
+307      dogs    09                                                                                9
 308      dogs    10                                                                              10+
 309      cats     0                                                                             None
 310      cats     1                                                                                1
@@ -321,113 +321,113 @@
 320    hhtype     2                                                                  Extended family
 321    remitt     1                                                                              Yes
 322    remitt     2                                                                               No
-323   rm1amnt     0                                                       Did not receive remittance
-324   rm1amnt    20                                                                               20
-325   rm1amnt    30                                                                               30
-326   rm1amnt    40                                                                               40
-327   rm1amnt    50                                                                               50
-328   rm1amnt    60                                                                               60
-329   rm1amnt    70                                                                               70
-330   rm1amnt    80                                                                               80
-331   rm1amnt    98                                                                               98
-332   rm1amnt   100                                                                              100
-333   rm1amnt   110                                                                              110
-334   rm1amnt   120                                                                              120
-335   rm1amnt   130                                                                              130
-336   rm1amnt   140                                                                              140
-337   rm1amnt   145                                                                              145
-338   rm1amnt   150                                                                              150
-339   rm1amnt   160                                                                              160
-340   rm1amnt   170                                                                              170
-341   rm1amnt   175                                                                              175
-342   rm1amnt   180                                                                              180
-343   rm1amnt   200                                                                              200
-344   rm1amnt   210                                                                              210
-345   rm1amnt   225                                                                              225
-346   rm1amnt   228                                                                              228
-347   rm1amnt   230                                                                              230
-348   rm1amnt   240                                                                              240
-349   rm1amnt   250                                                                              250
-350   rm1amnt   260                                                                              260
-351   rm1amnt   270                                                                              270
-352   rm1amnt   275                                                                              275
-353   rm1amnt   280                                                                              280
-354   rm1amnt   289                                                                              289
-355   rm1amnt   300                                                                              300
-356   rm1amnt   340                                                                              340
-357   rm1amnt   350                                                                              350
-358   rm1amnt   360                                                                              360
-359   rm1amnt   390                                                                              390
-360   rm1amnt   400                                                                              400
-361   rm1amnt   420                                                                              420
-362   rm1amnt   450                                                                              450
-363   rm1amnt   470                                                                              470
-364   rm1amnt   500                                                                              500
-365   rm1amnt   520                                                                              520
-366   rm1amnt   550                                                                              550
-367   rm1amnt   560                                                                              560
-368   rm1amnt   600                                                                              600
-369   rm1amnt   680                                                                              680
-370   rm1amnt   700                                                                              700
-371   rm1amnt   800                                                                              800
-372   rm1amnt   840                                                                              840
-373   rm1amnt   900                                                                              900
-374   rm1amnt   960                                                                              960
-375   rm1amnt   967                                                                              967
-376   rm1amnt  1000                                                                             1000
-377   rm1amnt  1040                                                                             1040
-378   rm1amnt  1100                                                                             1100
-379   rm1amnt  1200                                                                             1200
-380   rm1amnt  1300                                                                             1300
-381   rm1amnt  1356                                                                             1356
-382   rm1amnt  1398                                                                             1398
-383   rm1amnt  1400                                                                             1400
-384   rm1amnt  1440                                                                             1440
-385   rm1amnt  1500                                                                             1500
-386   rm1amnt  1560                                                                             1560
-387   rm1amnt  1600                                                                             1600
-388   rm1amnt  1800                                                                             1800
-389   rm1amnt  1900                                                                             1900
-390   rm1amnt  2000                                                                             2000
-391   rm1amnt  2100                                                                             2100
-392   rm1amnt  2300                                                                             2300
-393   rm1amnt  2400                                                                             2400
-394   rm1amnt  2500                                                                             2500
-395   rm1amnt  2600                                                                             2600
-396   rm1amnt  2880                                                                             2880
-397   rm1amnt  3000                                                                             3000
-398   rm1amnt  3100                                                                             3100
-399   rm1amnt  3320                                                                             3320
-400   rm1amnt  3500                                                                             3500
-401   rm1amnt  3600                                                                             3600
-402   rm1amnt  3900                                                                             3900
-403   rm1amnt  4000                                                                             4000
-404   rm1amnt  4200                                                                             4200
-405   rm1amnt  4300                                                                             4300
-406   rm1amnt  4400                                                                             4400
-407   rm1amnt  4500                                                                             4500
-408   rm1amnt  4800                                                                             4800
-409   rm1amnt  5000                                                                             5000
-410   rm1amnt  5200                                                                             5200
-411   rm1amnt  5310                                                                             5310
-412   rm1amnt  5400                                                                             5400
-413   rm1amnt  5770                                                                             5770
-414   rm1amnt  5800                                                                             5800
-415   rm1amnt  6000                                                                             6000
-416   rm1amnt  6240                                                                             6240
-417   rm1amnt  6247                                                                             6247
-418   rm1amnt  6400                                                                             6400
-419   rm1amnt  6900                                                                             6900
-420   rm1amnt  7000                                                                             7000
-421   rm1amnt  7200                                                                             7200
-422   rm1amnt  7260                                                                             7260
-423   rm1amnt  7440                                                                             7440
-424   rm1amnt  7600                                                                             7600
-425   rm1amnt  7800                                                                             7800
-426   rm1amnt  8000                                                                             8000
-427   rm1amnt  8400                                                                             8400
-428   rm1amnt  9000                                                                             9000
-429   rm1amnt  9600                                                                             9600
+323   rm1amnt 00000                                                       Did not receive remittance
+324   rm1amnt 00020                                                                               20
+325   rm1amnt 00030                                                                               30
+326   rm1amnt 00040                                                                               40
+327   rm1amnt 00050                                                                               50
+328   rm1amnt 00060                                                                               60
+329   rm1amnt 00070                                                                               70
+330   rm1amnt 00080                                                                               80
+331   rm1amnt 00098                                                                               98
+332   rm1amnt 00100                                                                              100
+333   rm1amnt 00110                                                                              110
+334   rm1amnt 00120                                                                              120
+335   rm1amnt 00130                                                                              130
+336   rm1amnt 00140                                                                              140
+337   rm1amnt 00145                                                                              145
+338   rm1amnt 00150                                                                              150
+339   rm1amnt 00160                                                                              160
+340   rm1amnt 00170                                                                              170
+341   rm1amnt 00175                                                                              175
+342   rm1amnt 00180                                                                              180
+343   rm1amnt 00200                                                                              200
+344   rm1amnt 00210                                                                              210
+345   rm1amnt 00225                                                                              225
+346   rm1amnt 00228                                                                              228
+347   rm1amnt 00230                                                                              230
+348   rm1amnt 00240                                                                              240
+349   rm1amnt 00250                                                                              250
+350   rm1amnt 00260                                                                              260
+351   rm1amnt 00270                                                                              270
+352   rm1amnt 00275                                                                              275
+353   rm1amnt 00280                                                                              280
+354   rm1amnt 00289                                                                              289
+355   rm1amnt 00300                                                                              300
+356   rm1amnt 00340                                                                              340
+357   rm1amnt 00350                                                                              350
+358   rm1amnt 00360                                                                              360
+359   rm1amnt 00390                                                                              390
+360   rm1amnt 00400                                                                              400
+361   rm1amnt 00420                                                                              420
+362   rm1amnt 00450                                                                              450
+363   rm1amnt 00470                                                                              470
+364   rm1amnt 00500                                                                              500
+365   rm1amnt 00520                                                                              520
+366   rm1amnt 00550                                                                              550
+367   rm1amnt 00560                                                                              560
+368   rm1amnt 00600                                                                              600
+369   rm1amnt 00680                                                                              680
+370   rm1amnt 00700                                                                              700
+371   rm1amnt 00800                                                                              800
+372   rm1amnt 00840                                                                              840
+373   rm1amnt 00900                                                                              900
+374   rm1amnt 00960                                                                              960
+375   rm1amnt 00967                                                                              967
+376   rm1amnt 01000                                                                             1000
+377   rm1amnt 01040                                                                             1040
+378   rm1amnt 01100                                                                             1100
+379   rm1amnt 01200                                                                             1200
+380   rm1amnt 01300                                                                             1300
+381   rm1amnt 01356                                                                             1356
+382   rm1amnt 01398                                                                             1398
+383   rm1amnt 01400                                                                             1400
+384   rm1amnt 01440                                                                             1440
+385   rm1amnt 01500                                                                             1500
+386   rm1amnt 01560                                                                             1560
+387   rm1amnt 01600                                                                             1600
+388   rm1amnt 01800                                                                             1800
+389   rm1amnt 01900                                                                             1900
+390   rm1amnt 02000                                                                             2000
+391   rm1amnt 02100                                                                             2100
+392   rm1amnt 02300                                                                             2300
+393   rm1amnt 02400                                                                             2400
+394   rm1amnt 02500                                                                             2500
+395   rm1amnt 02600                                                                             2600
+396   rm1amnt 02880                                                                             2880
+397   rm1amnt 03000                                                                             3000
+398   rm1amnt 03100                                                                             3100
+399   rm1amnt 03320                                                                             3320
+400   rm1amnt 03500                                                                             3500
+401   rm1amnt 03600                                                                             3600
+402   rm1amnt 03900                                                                             3900
+403   rm1amnt 04000                                                                             4000
+404   rm1amnt 04200                                                                             4200
+405   rm1amnt 04300                                                                             4300
+406   rm1amnt 04400                                                                             4400
+407   rm1amnt 04500                                                                             4500
+408   rm1amnt 04800                                                                             4800
+409   rm1amnt 05000                                                                             5000
+410   rm1amnt 05200                                                                             5200
+411   rm1amnt 05310                                                                             5310
+412   rm1amnt 05400                                                                             5400
+413   rm1amnt 05770                                                                             5770
+414   rm1amnt 05800                                                                             5800
+415   rm1amnt 06000                                                                             6000
+416   rm1amnt 06240                                                                             6240
+417   rm1amnt 06247                                                                             6247
+418   rm1amnt 06400                                                                             6400
+419   rm1amnt 06900                                                                             6900
+420   rm1amnt 07000                                                                             7000
+421   rm1amnt 07200                                                                             7200
+422   rm1amnt 07260                                                                             7260
+423   rm1amnt 07440                                                                             7440
+424   rm1amnt 07600                                                                             7600
+425   rm1amnt 07800                                                                             7800
+426   rm1amnt 08000                                                                             8000
+427   rm1amnt 08400                                                                             8400
+428   rm1amnt 09000                                                                             9000
+429   rm1amnt 09600                                                                             9600
 430   rm1amnt 10000                                                                            10000
 431   rm1amnt 10200                                                                            10200
 432   rm1amnt 10800                                                                            10800
@@ -447,88 +447,88 @@
 446  rm1cntry    55                                                                              USA
 447  rm1cntry    90                                                                  Other countries
 448  rm1cntry    99                                                       Did not receive remittance
-449    rm1rel     1                                                                          Husband
-450    rm1rel     2                                                                             Wife
-451    rm1rel     3                                                                 Son  or daughter
-452    rm1rel     5                                                   Son in law  or daughter in law
-453    rm1rel     7                                      Parents  or father in law  or mother in law
-454    rm1rel     8                                                 Brother in law  or sister in law
-455    rm1rel     9                                                                  Other relatives
+449    rm1rel    01                                                                          Husband
+450    rm1rel    02                                                                             Wife
+451    rm1rel    03                                                                 Son  or daughter
+452    rm1rel    05                                                   Son in law  or daughter in law
+453    rm1rel    07                                      Parents  or father in law  or mother in law
+454    rm1rel    08                                                 Brother in law  or sister in law
+455    rm1rel    09                                                                  Other relatives
 456    rm1rel    10                                                                      Not related
 457    rm1rel    99                                                       Did not receive remittance
-458    rm1occ     1                                                                     Army officer
-459    rm1occ     2                                                          Caretaker  or caregiver
-460    rm1occ     4                                                                  Domestic worker
-461    rm1occ     6                                                                            Nurse
+458    rm1occ    01                                                                     Army officer
+459    rm1occ    02                                                          Caretaker  or caregiver
+460    rm1occ    04                                                                  Domestic worker
+461    rm1occ    06                                                                            Nurse
 462    rm1occ    11                                                                   Security guard
 463    rm1occ    12                                                                          Teacher
 464    rm1occ    15                                                  Work attachments  or secondment
 465    rm1occ    16                                                                            Other
 466    rm1occ    99                                                       Did not receive remittance
-467   rm1mode     1                                                                    Bank transfer
-468   rm1mode     2                                                          Money transfer agencies
-469   rm1mode     3                                                                    Post  or mail
-470   rm1mode     4                                                 Carried by relatives  or friends
-471   rm1mode     5                                                                       Other mode
+467   rm1mode    01                                                                    Bank transfer
+468   rm1mode    02                                                          Money transfer agencies
+469   rm1mode    03                                                                    Post  or mail
+470   rm1mode    04                                                 Carried by relatives  or friends
+471   rm1mode    05                                                                       Other mode
 472   rm1mode    99                                                       Did not receive remittance
 473   rm2amnt     1                                                                               No
 474   rm2amnt     2                                                                              Yes
 475  anydisab     1                                                                              Yes
 476  anydisab     2                                                                               No
-477   disper1     0                                                  No disabled person in household
-478   disper1     1                                                                                1
-479   disper1     2                                                                                2
-480   disper1     3                                                                                3
-481   disper1     4                                                                                4
-482   disper1     5                                                                                5
-483   disper1     6                                                                                6
-484   disper1     7                                                                                7
-485   disper1     8                                                                                8
-486   disper1     9                                                                                9
+477   disper1    00                                                  No disabled person in household
+478   disper1    01                                                                                1
+479   disper1    02                                                                                2
+480   disper1    03                                                                                3
+481   disper1    04                                                                                4
+482   disper1    05                                                                                5
+483   disper1    06                                                                                6
+484   disper1    07                                                                                7
+485   disper1    08                                                                                8
+486   disper1    09                                                                                9
 487   disper1    10                                                                               10
 488   disper1    11                                                                               11
 489   disper1    12                                                                               12
 490   disper1    13                                                                               13
 491   disper1    14                                                                               14
-492  distype1     1                                                                           Seeing
-493  distype1     2                                                                          Hearing
-494  distype1     3                                                                         Speaking
-495  distype1     4                                                                         Learning
-496  distype1     5                                                                        Behaviour
-497  distype1     6                                                                         Mobility
-498  distype1     7                                                                    Personal care
-499  distype1     8                                                    Seeing or personal care (1,7)
-500  distype1     9                                                        Hearing or speaking (2,3)
+492  distype1    01                                                                           Seeing
+493  distype1    02                                                                          Hearing
+494  distype1    03                                                                         Speaking
+495  distype1    04                                                                         Learning
+496  distype1    05                                                                        Behaviour
+497  distype1    06                                                                         Mobility
+498  distype1    07                                                                    Personal care
+499  distype1    08                                                    Seeing or personal care (1,7)
+500  distype1    09                                                        Hearing or speaking (2,3)
 501  distype1    10                                                     Speaking or behaviour (3, 5)
 502  distype1    11                                                     Learning or behaviour (4, 5)
 503  distype1    12                                                  Mobility or personal care (6,7)
 504  distype1    13                                                                            Other
 505  distype1    99                                                  No disabled person in household
-506   disper2     1                                                                                1
-507   disper2     2                                                                                2
-508   disper2     3                                                                                3
-509   disper2     4                                                                                4
-510   disper2     5                                                                                5
-511   disper2     6                                                                                6
-512   disper2     7                                                                                7
-513   disper2     8                                                                                8
-514   disper2     9                                                                                9
+506   disper2    01                                                                                1
+507   disper2    02                                                                                2
+508   disper2    03                                                                                3
+509   disper2    04                                                                                4
+510   disper2    05                                                                                5
+511   disper2    06                                                                                6
+512   disper2    07                                                                                7
+513   disper2    08                                                                                8
+514   disper2    09                                                                                9
 515   disper2    10                                                                               10
 516   disper2    11                                                                               11
 517   disper2    99                      No disabled person or only one disabled person in household
 518  distype2     1                                                                           Seeing
 519  distype2     2                                                                            Other
 520  distype2     9                      No disabled person or only one disabled person in household
-521    pernum     0                                                                            HHrec
-522    pernum     1                                                                                1
-523    pernum     2                                                                                2
-524    pernum     3                                                                                3
-525    pernum     4                                                                                4
-526    pernum     5                                                                                5
-527    pernum     6                                                                                6
-528    pernum     7                                                                                7
-529    pernum     8                                                                                8
-530    pernum     9                                                                                9
+521    pernum    00                                                                            hhrec
+522    pernum    01                                                                                1
+523    pernum    02                                                                                2
+524    pernum    03                                                                                3
+525    pernum    04                                                                                4
+526    pernum    05                                                                                5
+527    pernum    06                                                                                6
+528    pernum    07                                                                                7
+529    pernum    08                                                                                8
+530    pernum    09                                                                                9
 531    pernum    10                                                                               10
 532    pernum    11                                                                               11
 533    pernum    12                                                                               12
@@ -546,27 +546,27 @@
 545    pernum    24                                                                               24
 546    pernum    25                                                                               25
 547    pernum    26                                                                               26
-548    relate     1                                                                             Head
-549    relate     2                                                                           Spouse
-550    relate     3                                                                 Son  or daughter
-551    relate     4                                                         Adopted son  or daughter
-552    relate     5                                                   Son in law  or daughter in law
-553    relate     6                                                                       Grandchild
-554    relate     7                                                        Parents or parents-in-law
-555    relate     8                                                           Sibling/sibling-in-law
-556    relate     9                                                                  Other relatives
+548    relate    01                                                                             Head
+549    relate    02                                                                           Spouse
+550    relate    03                                                                 Son  or daughter
+551    relate    04                                                         Adopted son  or daughter
+552    relate    05                                                   Son in law  or daughter in law
+553    relate    06                                                                       Grandchild
+554    relate    07                                                        Parents or parents-in-law
+555    relate    08                                                           Sibling/sibling-in-law
+556    relate    09                                                                  Other relatives
 557    relate    10                                                                      Not related
 558       sex     1                                                                             Male
 559       sex     2                                                                           Female
-560   birthmo     1                                                                          January
-561   birthmo     2                                                                         February
-562   birthmo     3                                                                            March
-563   birthmo     4                                                                            April
-564   birthmo     5                                                                              May
-565   birthmo     6                                                                             June
-566   birthmo     7                                                                             July
-567   birthmo     8                                                                           August
-568   birthmo     9                                                                        September
+560   birthmo    01                                                                          January
+561   birthmo    02                                                                         February
+562   birthmo    03                                                                            March
+563   birthmo    04                                                                            April
+564   birthmo    05                                                                              May
+565   birthmo    06                                                                             June
+566   birthmo    07                                                                             July
+567   birthmo    08                                                                           August
+568   birthmo    09                                                                        September
 569   birthmo    10                                                                          October
 570   birthmo    11                                                                         November
 571   birthmo    12                                                                         December
@@ -658,16 +658,16 @@
 657   birthyr  2005                                                                             2005
 658   birthyr  2006                                                                             2006
 659   birthyr  2007                                                                             2007
-660       age     0                                                           Less than one year old
-661       age     1                                                                                1
-662       age     2                                                                                2
-663       age     3                                                                                3
-664       age     4                                                                                4
-665       age     5                                                                                5
-666       age     6                                                                                6
-667       age     7                                                                                7
-668       age     8                                                                                8
-669       age     9                                                                                9
+660       age    00                                                           Less than one year old
+661       age    01                                                                                1
+662       age    02                                                                                2
+663       age    03                                                                                3
+664       age    04                                                                                4
+665       age    05                                                                                5
+666       age    06                                                                                6
+667       age    07                                                                                7
+668       age    08                                                                                8
+669       age    09                                                                                9
 670       age    10                                                                               10
 671       age    11                                                                               11
 672       age    12                                                                               12
@@ -747,15 +747,15 @@
 746       age    86                                                                               86
 747       age    87                                                                               87
 748       age    88                                                                              88+
-749    ethnic     1                                                                           Fijian
-750    ethnic     2                                                                           Indian
-751    ethnic     3                                                         Chinese  or Part Chinese
-752    ethnic     4                                                                         European
-753    ethnic     5                                                                    Part European
-754    ethnic     6                                                                          Rotuman
-755    ethnic     7                                                                          Banaban
-756    ethnic     8                                                                       I-Kiribati
-757    ethnic     9                                                                       Ni-Vanuatu
+749    ethnic    01                                                                           Fijian
+750    ethnic    02                                                                           Indian
+751    ethnic    03                                                         Chinese  or Part Chinese
+752    ethnic    04                                                                         European
+753    ethnic    05                                                                    Part European
+754    ethnic    06                                                                          Rotuman
+755    ethnic    07                                                                          Banaban
+756    ethnic    08                                                                       I-Kiribati
+757    ethnic    09                                                                       Ni-Vanuatu
 758    ethnic    10                                                                Papua New Guinean
 759    ethnic    11                                                                           Samoan
 760    ethnic    12                                                                          Solomon
@@ -774,15 +774,15 @@
 773  fathlive     2                                                                             Dead
 774  mothlive     1                                                                            Alive
 775  mothlive     2                                                                             Dead
-776    momloc     1                                                                                1
-777    momloc     2                                                                                2
-778    momloc     3                                                                                3
-779    momloc     4                                                                                4
-780    momloc     5                                                                                5
-781    momloc     6                                                                                6
-782    momloc     7                                                                                7
-783    momloc     8                                                                                8
-784    momloc     9                                                                                9
+776    momloc    01                                                                                1
+777    momloc    02                                                                                2
+778    momloc    03                                                                                3
+779    momloc    04                                                                                4
+780    momloc    05                                                                                5
+781    momloc    06                                                                                6
+782    momloc    07                                                                                7
+783    momloc    08                                                                                8
+784    momloc    09                                                                                9
 785    momloc    10                                                                               10
 786    momloc    11                                                                               11
 787    momloc    12                                                                               12
@@ -798,15 +798,15 @@
 797    momloc    23                                                                               23
 798    momloc    26                                                                               26
 799    momloc    99                                                                              NIU
-800  religion     1                                                                        Methodist
-801  religion     2                                                                         Catholic
-802  religion     3                                                            Seventh Day Adventist
-803  religion     4                                                                  Assembly of God
-804  religion     5                                                 All Nations Christian Fellowship
-805  religion     6                                                                         Anglican
-806  religion     7                                              Apostles Gospel Outreach Fellowship
-807  religion     8                                                                          Baptist
-808  religion     9                                                        Christian Outreach Centre
+800  religion    01                                                                        Methodist
+801  religion    02                                                                         Catholic
+802  religion    03                                                            Seventh Day Adventist
+803  religion    04                                                                  Assembly of God
+804  religion    05                                                 All Nations Christian Fellowship
+805  religion    06                                                                         Anglican
+806  religion    07                                              Apostles Gospel Outreach Fellowship
+807  religion    08                                                                          Baptist
+808  religion    09                                                        Christian Outreach Centre
 809  religion    10                                                               CMF  or Every Home
 810  religion    11                                                                           Gospel
 811  religion    12                                                                 Jehovahs Witness
@@ -827,15 +827,15 @@
 826  religion    27                                                                        Confucian
 827  religion    28                                                                            Other
 828  religion    29                                                       No Religion  or Not Stated
-829   bplprov     1                                                                               Ba
-830   bplprov     2                                                                              Bua
-831   bplprov     3                                                                       Cakaudrove
-832   bplprov     4                                                                           Kadavu
-833   bplprov     5                                                                              Lau
-834   bplprov     6                                                                        Lomaiviti
-835   bplprov     7                                                                          Macuata
-836   bplprov     8                                                                 Nadroga orNavosa
-837   bplprov     9                                                                        Naitasiri
+829   bplprov    01                                                                               Ba
+830   bplprov    02                                                                              Bua
+831   bplprov    03                                                                       Cakaudrove
+832   bplprov    04                                                                           Kadavu
+833   bplprov    05                                                                              Lau
+834   bplprov    06                                                                        Lomaiviti
+835   bplprov    07                                                                          Macuata
+836   bplprov    08                                                                 Nadroga orNavosa
+837   bplprov    09                                                                        Naitasiri
 838   bplprov    10                                                                           Namosi
 839   bplprov    11                                                                               Ra
 840   bplprov    12                                                                             Rewa
@@ -857,67 +857,67 @@
 856   bplprov    52                                                                               UK
 857   bplprov    55                                                                              USA
 858   bplprov    90                                                                  Other Countries
-859    bpltik   101                                                                               Ba
-860    bpltik   102                                                                          Magodro
-861    bpltik   103                                                                             Nadi
-862    bpltik   104                                                                           Naviti
-863    bpltik   105                                                                           Nawaka
-864    bpltik   106                                                                            Tavua
-865    bpltik   107                                                                             Vuda
-866    bpltik   108                                                                           Yasawa
-867    bpltik   201                                                                              Bua
-868    bpltik   202                                                                             Vuya
-869    bpltik   203                                                                          Wainunu
-870    bpltik   301                                                                       Cakaudrove
-871    bpltik   302                                                                       Nasavusavu
-872    bpltik   303                                                                             Rabi
-873    bpltik   304                                                                           Saqani
-874    bpltik   305                                                                          Tunuloa
-875    bpltik   306                                                                         Vaturova
-876    bpltik   307                                                                          Wailevu
-877    bpltik   308                                                                        Wainikeli
-878    bpltik   401                                                                       Nabukelevu
-879    bpltik   402                                                                           Naceva
-880    bpltik   403                                                                       Nakasaleka
-881    bpltik   404                                                                           Tavuki
-882    bpltik   501                                                                            Cicia
-883    bpltik   502                                                                           Kabara
-884    bpltik   503                                                                           Lakeba
-885    bpltik   504                                                                         Lomaloma
-886    bpltik   505                                                                           Matuku
-887    bpltik   506                                                                            Moala
-888    bpltik   507                                                                             Moce
-889    bpltik   508                                                                          Mualevu
-890    bpltik   509                                                                            Nayau
-891    bpltik   510                                                                           Oneata
-892    bpltik   511                                                                              Ono
-893    bpltik   512                                                                           Totoya
-894    bpltik   513                                                                           Vulaga
-895    bpltik   514                                                                    Other islands
-896    bpltik   601                                                                           Batiki
-897    bpltik   602                                                                              Gau
-898    bpltik   603                                                                             Koro
-899    bpltik   604                                                                           Nairai
-900    bpltik   605                                                                           Ovalau
-901    bpltik   606                                                          Lomaiviti other islands
-902    bpltik   701                                                                          Cikobia
-903    bpltik   702                                                                         Dogotuki
-904    bpltik   703                                                                           Labasa
-905    bpltik   704                                                                          Macuata
-906    bpltik   705                                                                             Sasa
-907    bpltik   801                                                                           Baravi
-908    bpltik   802                                                                             Cuvu
-909    bpltik   803                                                                           Malolo
-910    bpltik   804                                                                         Malomalo
-911    bpltik   805                                                                       Nasigatoka
-912    bpltik   806                                                                           Navosa
-913    bpltik   807                                                                        Ruwailevu
-914    bpltik   808                                                                         Vatulele
-915    bpltik   901                                                                        Lomaivuna
-916    bpltik   902                                                                       Matailobau
-917    bpltik   903                                                                        Naitasiri
-918    bpltik   904                                                                          Waimaro
-919    bpltik   905                                                                        Wainimala
+859    bpltik  0101                                                                               Ba
+860    bpltik  0102                                                                          Magodro
+861    bpltik  0103                                                                             Nadi
+862    bpltik  0104                                                                           Naviti
+863    bpltik  0105                                                                           Nawaka
+864    bpltik  0106                                                                            Tavua
+865    bpltik  0107                                                                             Vuda
+866    bpltik  0108                                                                           Yasawa
+867    bpltik  0201                                                                              Bua
+868    bpltik  0202                                                                             Vuya
+869    bpltik  0203                                                                          Wainunu
+870    bpltik  0301                                                                       Cakaudrove
+871    bpltik  0302                                                                       Nasavusavu
+872    bpltik  0303                                                                             Rabi
+873    bpltik  0304                                                                           Saqani
+874    bpltik  0305                                                                          Tunuloa
+875    bpltik  0306                                                                         Vaturova
+876    bpltik  0307                                                                          Wailevu
+877    bpltik  0308                                                                        Wainikeli
+878    bpltik  0401                                                                       Nabukelevu
+879    bpltik  0402                                                                           Naceva
+880    bpltik  0403                                                                       Nakasaleka
+881    bpltik  0404                                                                           Tavuki
+882    bpltik  0501                                                                            Cicia
+883    bpltik  0502                                                                           Kabara
+884    bpltik  0503                                                                           Lakeba
+885    bpltik  0504                                                                         Lomaloma
+886    bpltik  0505                                                                           Matuku
+887    bpltik  0506                                                                            Moala
+888    bpltik  0507                                                                             Moce
+889    bpltik  0508                                                                          Mualevu
+890    bpltik  0509                                                                            Nayau
+891    bpltik  0510                                                                           Oneata
+892    bpltik  0511                                                                              Ono
+893    bpltik  0512                                                                           Totoya
+894    bpltik  0513                                                                           Vulaga
+895    bpltik  0514                                                                    Other islands
+896    bpltik  0601                                                                           Batiki
+897    bpltik  0602                                                                              Gau
+898    bpltik  0603                                                                             Koro
+899    bpltik  0604                                                                           Nairai
+900    bpltik  0605                                                                           Ovalau
+901    bpltik  0606                                                          Lomaiviti other islands
+902    bpltik  0701                                                                          Cikobia
+903    bpltik  0702                                                                         Dogotuki
+904    bpltik  0703                                                                           Labasa
+905    bpltik  0704                                                                          Macuata
+906    bpltik  0705                                                                             Sasa
+907    bpltik  0801                                                                           Baravi
+908    bpltik  0802                                                                             Cuvu
+909    bpltik  0803                                                                           Malolo
+910    bpltik  0804                                                                         Malomalo
+911    bpltik  0805                                                                       Nasigatoka
+912    bpltik  0806                                                                           Navosa
+913    bpltik  0807                                                                        Ruwailevu
+914    bpltik  0808                                                                         Vatulele
+915    bpltik  0901                                                                        Lomaivuna
+916    bpltik  0902                                                                       Matailobau
+917    bpltik  0903                                                                        Naitasiri
+918    bpltik  0904                                                                          Waimaro
+919    bpltik  0905                                                                        Wainimala
 920    bpltik  1001                                                                           Namosi
 921    bpltik  1002                                                                       Veivatuloa
 922    bpltik  1003                                                                 Wainikoro-i-luva
@@ -944,16 +944,16 @@
 943    bpltik  1506                                                                           Oinafa
 944    bpltik  1507                                                                           Pepjei
 945    bpltik  9000                                                                  Foreign country
-946    bplloc     0                                                                       Rural Area
-947    bplloc     1                                                                             Suva
-948    bplloc     2                                                                             Lami
-949    bplloc     3                                                                          Nausori
-950    bplloc     4                                                                          Lautoka
-951    bplloc     5                                                                             Nadi
-952    bplloc     6                                                                               Ba
-953    bplloc     7                                                                         Sigatoka
-954    bplloc     8                                                                           Labasa
-955    bplloc     9                                                                         Savusavu
+946    bplloc    00                                                                       Rural Area
+947    bplloc    01                                                                             Suva
+948    bplloc    02                                                                             Lami
+949    bplloc    03                                                                          Nausori
+950    bplloc    04                                                                          Lautoka
+951    bplloc    05                                                                             Nadi
+952    bplloc    06                                                                               Ba
+953    bplloc    07                                                                         Sigatoka
+954    bplloc    08                                                                           Labasa
+955    bplloc    09                                                                         Savusavu
 956    bplloc    10                                                                           Levuka
 957    bplloc    11                                                                            Tavua
 958    bplloc    12                                                                         Rakiraki
@@ -965,15 +965,15 @@
 964    bplloc    18                                                                          Seaqaqa
 965    bplloc    19                                                                           Nasinu
 966    bplloc    99                                                                              NIU
-967   resprov     1                                                                               Ba
-968   resprov     2                                                                              Bua
-969   resprov     3                                                                       Cakaudrove
-970   resprov     4                                                                           Kadavu
-971   resprov     5                                                                              Lau
-972   resprov     6                                                                        Lomaiviti
-973   resprov     7                                                                          Macuata
-974   resprov     8                                                                Nadroga or Navosa
-975   resprov     9                                                                        Naitasiri
+967   resprov    01                                                                               Ba
+968   resprov    02                                                                              Bua
+969   resprov    03                                                                       Cakaudrove
+970   resprov    04                                                                           Kadavu
+971   resprov    05                                                                              Lau
+972   resprov    06                                                                        Lomaiviti
+973   resprov    07                                                                          Macuata
+974   resprov    08                                                                Nadroga or Navosa
+975   resprov    09                                                                        Naitasiri
 976   resprov    10                                                                           Namosi
 977   resprov    11                                                                               Ra
 978   resprov    12                                                                             Rewa
@@ -1004,67 +1004,67 @@
 1003  resprov    58                                                                          Liberia
 1004  resprov    59                                                                            Sudan
 1005  resprov    61                                                                  Other Countries
-1006   restik   101                                                                               Ba
-1007   restik   102                                                                          Magodro
-1008   restik   103                                                                             Nadi
-1009   restik   104                                                                           Naviti
-1010   restik   105                                                                           Nawaka
-1011   restik   106                                                                            Tavua
-1012   restik   107                                                                             Vuda
-1013   restik   108                                                                           Yasawa
-1014   restik   201                                                                              Bua
-1015   restik   202                                                                             Vuya
-1016   restik   203                                                                          Wainunu
-1017   restik   301                                                                       Cakaudrove
-1018   restik   302                                                                       Nasavusavu
-1019   restik   303                                                                             Rabi
-1020   restik   304                                                                           Saqani
-1021   restik   305                                                                          Tunuloa
-1022   restik   306                                                                         Vaturova
-1023   restik   307                                                                          Wailevu
-1024   restik   308                                                                        Wainikeli
-1025   restik   401                                                                       Nabukelevu
-1026   restik   402                                                                           Naceva
-1027   restik   403                                                                       Nakasaleka
-1028   restik   404                                                                           Tavuki
-1029   restik   501                                                                            Cicia
-1030   restik   502                                                                           Kabara
-1031   restik   503                                                                           Lakeba
-1032   restik   504                                                                         Lomaloma
-1033   restik   505                                                                           Matuku
-1034   restik   506                                                                            Moala
-1035   restik   507                                                                             Moce
-1036   restik   508                                                                          Mualevu
-1037   restik   509                                                                            Nayau
-1038   restik   510                                                                           Oneata
-1039   restik   511                                                                              Ono
-1040   restik   512                                                                           Totoya
-1041   restik   513                                                                           Vulaga
-1042   restik   514                                                                    Other islands
-1043   restik   601                                                                           Batiki
-1044   restik   602                                                                              Gau
-1045   restik   603                                                                             Koro
-1046   restik   604                                                                           Nairai
-1047   restik   605                                                                           Ovalau
-1048   restik   606                                                          Lomaiviti other islands
-1049   restik   701                                                                          Cikobia
-1050   restik   702                                                                         Dogotuki
-1051   restik   703                                                                           Labasa
-1052   restik   704                                                                          Macuata
-1053   restik   705                                                                             Sasa
-1054   restik   801                                                                           Baravi
-1055   restik   802                                                                             Cuvu
-1056   restik   803                                                                           Malolo
-1057   restik   804                                                                         Malomalo
-1058   restik   805                                                                       Nasigatoka
-1059   restik   806                                                                           Navosa
-1060   restik   807                                                                        Ruwailevu
-1061   restik   808                                                                         Vatulele
-1062   restik   901                                                                        Lomaivuna
-1063   restik   902                                                                       Matailobau
-1064   restik   903                                                                        Naitasiri
-1065   restik   904                                                                          Waimaro
-1066   restik   905                                                                        Wainimala
+1006   restik  0101                                                                               Ba
+1007   restik  0102                                                                          Magodro
+1008   restik  0103                                                                             Nadi
+1009   restik  0104                                                                           Naviti
+1010   restik  0105                                                                           Nawaka
+1011   restik  0106                                                                            Tavua
+1012   restik  0107                                                                             Vuda
+1013   restik  0108                                                                           Yasawa
+1014   restik  0201                                                                              Bua
+1015   restik  0202                                                                             Vuya
+1016   restik  0203                                                                          Wainunu
+1017   restik  0301                                                                       Cakaudrove
+1018   restik  0302                                                                       Nasavusavu
+1019   restik  0303                                                                             Rabi
+1020   restik  0304                                                                           Saqani
+1021   restik  0305                                                                          Tunuloa
+1022   restik  0306                                                                         Vaturova
+1023   restik  0307                                                                          Wailevu
+1024   restik  0308                                                                        Wainikeli
+1025   restik  0401                                                                       Nabukelevu
+1026   restik  0402                                                                           Naceva
+1027   restik  0403                                                                       Nakasaleka
+1028   restik  0404                                                                           Tavuki
+1029   restik  0501                                                                            Cicia
+1030   restik  0502                                                                           Kabara
+1031   restik  0503                                                                           Lakeba
+1032   restik  0504                                                                         Lomaloma
+1033   restik  0505                                                                           Matuku
+1034   restik  0506                                                                            Moala
+1035   restik  0507                                                                             Moce
+1036   restik  0508                                                                          Mualevu
+1037   restik  0509                                                                            Nayau
+1038   restik  0510                                                                           Oneata
+1039   restik  0511                                                                              Ono
+1040   restik  0512                                                                           Totoya
+1041   restik  0513                                                                           Vulaga
+1042   restik  0514                                                                    Other islands
+1043   restik  0601                                                                           Batiki
+1044   restik  0602                                                                              Gau
+1045   restik  0603                                                                             Koro
+1046   restik  0604                                                                           Nairai
+1047   restik  0605                                                                           Ovalau
+1048   restik  0606                                                          Lomaiviti other islands
+1049   restik  0701                                                                          Cikobia
+1050   restik  0702                                                                         Dogotuki
+1051   restik  0703                                                                           Labasa
+1052   restik  0704                                                                          Macuata
+1053   restik  0705                                                                             Sasa
+1054   restik  0801                                                                           Baravi
+1055   restik  0802                                                                             Cuvu
+1056   restik  0803                                                                           Malolo
+1057   restik  0804                                                                         Malomalo
+1058   restik  0805                                                                       Nasigatoka
+1059   restik  0806                                                                           Navosa
+1060   restik  0807                                                                        Ruwailevu
+1061   restik  0808                                                                         Vatulele
+1062   restik  0901                                                                        Lomaivuna
+1063   restik  0902                                                                       Matailobau
+1064   restik  0903                                                                        Naitasiri
+1065   restik  0904                                                                          Waimaro
+1066   restik  0905                                                                        Wainimala
 1067   restik  1001                                                                           Namosi
 1068   restik  1002                                                                       Veivatuloa
 1069   restik  1003                                                                 Wainikoro-i-luva
@@ -1089,16 +1089,16 @@
 1088   restik  1507                                                                           Pepjei
 1089   restik  1599                                                    Other tikina, Rotuma district
 1090   restik  9000                                                                  Foreign country
-1091   resloc     0                                                                       Rural area
-1092   resloc     1                                                                             Suva
-1093   resloc     2                                                                             Lami
-1094   resloc     3                                                                          Nausori
-1095   resloc     4                                                                          Lautoka
-1096   resloc     5                                                                             Nadi
-1097   resloc     6                                                                               Ba
-1098   resloc     7                                                                         Sigatoka
-1099   resloc     8                                                                           Labasa
-1100   resloc     9                                                                         Savusavu
+1091   resloc    00                                                                       Rural area
+1092   resloc    01                                                                             Suva
+1093   resloc    02                                                                             Lami
+1094   resloc    03                                                                          Nausori
+1095   resloc    04                                                                          Lautoka
+1096   resloc    05                                                                             Nadi
+1097   resloc    06                                                                               Ba
+1098   resloc    07                                                                         Sigatoka
+1099   resloc    08                                                                           Labasa
+1100   resloc    09                                                                         Savusavu
 1101   resloc    10                                                                           Levuka
 1102   resloc    11                                                                            Tavua
 1103   resloc    12                                                                         Rakiraki
@@ -1110,15 +1110,15 @@
 1109   resloc    18                                                                          Seaqaqa
 1110   resloc    19                                                                           Nasinu
 1111   resloc    99                                                                              NIU
-1112  prov5yr     1                                                                               Ba
-1113  prov5yr     2                                                                              Bua
-1114  prov5yr     3                                                                       Cakaudrove
-1115  prov5yr     4                                                                           Kadavu
-1116  prov5yr     5                                                                              Lau
-1117  prov5yr     6                                                                        Lomaiviti
-1118  prov5yr     7                                                                          Macuata
-1119  prov5yr     8                                                                 Nadroga orNavosa
-1120  prov5yr     9                                                                        Naitasiri
+1112  prov5yr    01                                                                               Ba
+1113  prov5yr    02                                                                              Bua
+1114  prov5yr    03                                                                       Cakaudrove
+1115  prov5yr    04                                                                           Kadavu
+1116  prov5yr    05                                                                              Lau
+1117  prov5yr    06                                                                        Lomaiviti
+1118  prov5yr    07                                                                          Macuata
+1119  prov5yr    08                                                                 Nadroga orNavosa
+1120  prov5yr    09                                                                        Naitasiri
 1121  prov5yr    10                                                                           Namosi
 1122  prov5yr    11                                                                               Ra
 1123  prov5yr    12                                                                             Rewa
@@ -1165,65 +1165,65 @@
 1164  prov5yr    61                                                                  Other Countries
 1165  prov5yr    98                                                                          Unknown
 1166  prov5yr    99                                                                              NIU
-1167   tik5yr   101                                                                               Ba
-1168   tik5yr   102                                                                          Magodro
-1169   tik5yr   103                                                                             Nadi
-1170   tik5yr   104                                                                           Naviti
-1171   tik5yr   105                                                                           Nawaka
-1172   tik5yr   106                                                                            Tavua
-1173   tik5yr   107                                                                             Vuda
-1174   tik5yr   108                                                                           Yasawa
-1175   tik5yr   201                                                                              Bua
-1176   tik5yr   202                                                                             Vuya
-1177   tik5yr   203                                                                          Wainunu
-1178   tik5yr   301                                                                       Cakaudrove
-1179   tik5yr   302                                                                       Nasavusavu
-1180   tik5yr   303                                                                             Rabi
-1181   tik5yr   304                                                                           Saqani
-1182   tik5yr   305                                                                          Tunuloa
-1183   tik5yr   306                                                                         Vaturova
-1184   tik5yr   307                                                                          Wailevu
-1185   tik5yr   308                                                                        Wainikeli
-1186   tik5yr   401                                                                       Nabukelevu
-1187   tik5yr   402                                                                           Naceva
-1188   tik5yr   403                                                                       Nakasaleka
-1189   tik5yr   404                                                                           Tavuki
-1190   tik5yr   501                                                                            Cicia
-1191   tik5yr   502                                                                           Kabara
-1192   tik5yr   503                                                                           Lakeba
-1193   tik5yr   504                                                                         Lomaloma
-1194   tik5yr   505                                                                           Matuku
-1195   tik5yr   506                                                                            Moala
-1196   tik5yr   507                                                                             Moce
-1197   tik5yr   508                                                                          Mualevu
-1198   tik5yr   509                                                                            Nayau
-1199   tik5yr   511                                                                              Ono
-1200   tik5yr   512                                                                           Totoya
-1201   tik5yr   513                                                                           Vulaga
-1202   tik5yr   599                                                       Other Tikina, Lau district
-1203   tik5yr   602                                                                              Gau
-1204   tik5yr   603                                                                             Koro
-1205   tik5yr   604                                                                           Nairai
-1206   tik5yr   605                                                                           Ovalau
-1207   tik5yr   699                                                 Other Tikina, Lomaiviti district
-1208   tik5yr   701                                                                          Cikobia
-1209   tik5yr   702                                                                         Dogotuki
-1210   tik5yr   703                                                                           Labasa
-1211   tik5yr   704                                                                          Macuata
-1212   tik5yr   705                                                                             Sasa
-1213   tik5yr   801                                                                           Baravi
-1214   tik5yr   802                                                                             Cuvu
-1215   tik5yr   803                                                                           Malolo
-1216   tik5yr   804                                                                         Malomalo
-1217   tik5yr   805                                                                       Nasigatoka
-1218   tik5yr   806                                                                           Navosa
-1219   tik5yr   807                                                                        Ruwailevu
-1220   tik5yr   808                                                                         Vatulele
-1221   tik5yr   901                                                                        Lomaivuna
-1222   tik5yr   902                                                                       Matailobau
-1223   tik5yr   903                                                                        Naitasiri
-1224   tik5yr   904                                                                          Waimaro
-1225   tik5yr   905                                                                        Wainimala
+1167   tik5yr  0101                                                                               Ba
+1168   tik5yr  0102                                                                          Magodro
+1169   tik5yr  0103                                                                             Nadi
+1170   tik5yr  0104                                                                           Naviti
+1171   tik5yr  0105                                                                           Nawaka
+1172   tik5yr  0106                                                                            Tavua
+1173   tik5yr  0107                                                                             Vuda
+1174   tik5yr  0108                                                                           Yasawa
+1175   tik5yr  0201                                                                              Bua
+1176   tik5yr  0202                                                                             Vuya
+1177   tik5yr  0203                                                                          Wainunu
+1178   tik5yr  0301                                                                       Cakaudrove
+1179   tik5yr  0302                                                                       Nasavusavu
+1180   tik5yr  0303                                                                             Rabi
+1181   tik5yr  0304                                                                           Saqani
+1182   tik5yr  0305                                                                          Tunuloa
+1183   tik5yr  0306                                                                         Vaturova
+1184   tik5yr  0307                                                                          Wailevu
+1185   tik5yr  0308                                                                        Wainikeli
+1186   tik5yr  0401                                                                       Nabukelevu
+1187   tik5yr  0402                                                                           Naceva
+1188   tik5yr  0403                                                                       Nakasaleka
+1189   tik5yr  0404                                                                           Tavuki
+1190   tik5yr  0501                                                                            Cicia
+1191   tik5yr  0502                                                                           Kabara
+1192   tik5yr  0503                                                                           Lakeba
+1193   tik5yr  0504                                                                         Lomaloma
+1194   tik5yr  0505                                                                           Matuku
+1195   tik5yr  0506                                                                            Moala
+1196   tik5yr  0507                                                                             Moce
+1197   tik5yr  0508                                                                          Mualevu
+1198   tik5yr  0509                                                                            Nayau
+1199   tik5yr  0511                                                                              Ono
+1200   tik5yr  0512                                                                           Totoya
+1201   tik5yr  0513                                                                           Vulaga
+1202   tik5yr  0599                                                       Other Tikina, Lau district
+1203   tik5yr  0602                                                                              Gau
+1204   tik5yr  0603                                                                             Koro
+1205   tik5yr  0604                                                                           Nairai
+1206   tik5yr  0605                                                                           Ovalau
+1207   tik5yr  0699                                                 Other Tikina, Lomaiviti district
+1208   tik5yr  0701                                                                          Cikobia
+1209   tik5yr  0702                                                                         Dogotuki
+1210   tik5yr  0703                                                                           Labasa
+1211   tik5yr  0704                                                                          Macuata
+1212   tik5yr  0705                                                                             Sasa
+1213   tik5yr  0801                                                                           Baravi
+1214   tik5yr  0802                                                                             Cuvu
+1215   tik5yr  0803                                                                           Malolo
+1216   tik5yr  0804                                                                         Malomalo
+1217   tik5yr  0805                                                                       Nasigatoka
+1218   tik5yr  0806                                                                           Navosa
+1219   tik5yr  0807                                                                        Ruwailevu
+1220   tik5yr  0808                                                                         Vatulele
+1221   tik5yr  0901                                                                        Lomaivuna
+1222   tik5yr  0902                                                                       Matailobau
+1223   tik5yr  0903                                                                        Naitasiri
+1224   tik5yr  0904                                                                          Waimaro
+1225   tik5yr  0905                                                                        Wainimala
 1226   tik5yr  1001                                                                           Namosi
 1227   tik5yr  1002                                                                       Veivatuloa
 1228   tik5yr  1003                                                                 Wainikoro-i-luva
@@ -1248,16 +1248,16 @@
 1247   tik5yr  9000                                                                  Foreign country
 1248   tik5yr  9998                                                                          Unknown
 1249   tik5yr  9999                                                                              NIU
-1250   loc5yr     0                                                                       Rural Area
-1251   loc5yr     1                                                                             Suva
-1252   loc5yr     2                                                                             Lami
-1253   loc5yr     3                                                                          Nausori
-1254   loc5yr     4                                                                          Lautoka
-1255   loc5yr     5                                                                             Nadi
-1256   loc5yr     6                                                                               Ba
-1257   loc5yr     7                                                                         Sigatoka
-1258   loc5yr     8                                                                           Labasa
-1259   loc5yr     9                                                                         Savusavu
+1250   loc5yr    00                                                                       Rural Area
+1251   loc5yr    01                                                                             Suva
+1252   loc5yr    02                                                                             Lami
+1253   loc5yr    03                                                                          Nausori
+1254   loc5yr    04                                                                          Lautoka
+1255   loc5yr    05                                                                             Nadi
+1256   loc5yr    06                                                                               Ba
+1257   loc5yr    07                                                                         Sigatoka
+1258   loc5yr    08                                                                           Labasa
+1259   loc5yr    09                                                                         Savusavu
 1260   loc5yr    10                                                                           Levuka
 1261   loc5yr    11                                                                            Tavua
 1262   loc5yr    12                                                                         Rakiraki
@@ -1269,66 +1269,66 @@
 1268   loc5yr    18                                                                          Seaqaqa
 1269   loc5yr    19                                                                           Nasinu
 1270   loc5yr    99                                                                              NIU
-1271  origtik   101                                                                               Ba
-1272  origtik   102                                                                          Magodro
-1273  origtik   103                                                                             Nadi
-1274  origtik   104                                                                           Naviti
-1275  origtik   105                                                                           Nawaka
-1276  origtik   106                                                                            Tavua
-1277  origtik   107                                                                             Vuda
-1278  origtik   108                                                                           Yasawa
-1279  origtik   201                                                                              Bua
-1280  origtik   202                                                                             Vuya
-1281  origtik   203                                                                          Wainunu
-1282  origtik   301                                                                       Cakaudrove
-1283  origtik   302                                                                       Nasavusavu
-1284  origtik   303                                                                             Rabi
-1285  origtik   304                                                                           Saqani
-1286  origtik   305                                                                          Tunuloa
-1287  origtik   306                                                                         Vaturova
-1288  origtik   307                                                                          Wailevu
-1289  origtik   308                                                                        Wainikeli
-1290  origtik   401                                                                       Nabukelevu
-1291  origtik   402                                                                           Naceva
-1292  origtik   403                                                                       Nakasaleka
-1293  origtik   404                                                                           Tavuki
-1294  origtik   501                                                                            Cicia
-1295  origtik   502                                                                           Kabara
-1296  origtik   503                                                                           Lakeba
-1297  origtik   504                                                                         Lomaloma
-1298  origtik   505                                                                           Matuku
-1299  origtik   506                                                                            Moala
-1300  origtik   507                                                                             Moce
-1301  origtik   508                                                                          Mualevu
-1302  origtik   509                                                                            Nayau
-1303  origtik   511                                                                              Ono
-1304  origtik   512                                                                           Totoya
-1305  origtik   513                                                                           Vulaga
-1306  origtik   599                                                       Other Tikina, Lau district
-1307  origtik   601                                                                           Batiki
-1308  origtik   602                                                                              Gau
-1309  origtik   603                                                                             Koro
-1310  origtik   604                                                                           Nairai
-1311  origtik   605                                                                           Ovalau
-1312  origtik   606                                                          Lomaiviti other islands
-1313  origtik   701                                                                          Cikobia
-1314  origtik   702                                                                         Dogotuki
-1315  origtik   703                                                                           Labasa
-1316  origtik   704                                                                          Macuata
-1317  origtik   705                                                                             Sasa
-1318  origtik   801                                                                           Baravi
-1319  origtik   802                                                                             Cuvu
-1320  origtik   803                                                                           Malolo
-1321  origtik   804                                                                         Malomalo
-1322  origtik   805                                                                       Nasigatoka
-1323  origtik   806                                                                           Navosa
-1324  origtik   807                                                                        Ruwailevu
-1325  origtik   808                                                                         Vatulele
-1326  origtik   901                                                                        Lomaivuna
-1327  origtik   902                                                                       Matailobau
-1328  origtik   903                                                                        Naitasiri
-1329  origtik   904                                                                          Waimaro
-1330  origtik   905                                                                        Wainimala
+1271  origtik  0101                                                                               Ba
+1272  origtik  0102                                                                          Magodro
+1273  origtik  0103                                                                             Nadi
+1274  origtik  0104                                                                           Naviti
+1275  origtik  0105                                                                           Nawaka
+1276  origtik  0106                                                                            Tavua
+1277  origtik  0107                                                                             Vuda
+1278  origtik  0108                                                                           Yasawa
+1279  origtik  0201                                                                              Bua
+1280  origtik  0202                                                                             Vuya
+1281  origtik  0203                                                                          Wainunu
+1282  origtik  0301                                                                       Cakaudrove
+1283  origtik  0302                                                                       Nasavusavu
+1284  origtik  0303                                                                             Rabi
+1285  origtik  0304                                                                           Saqani
+1286  origtik  0305                                                                          Tunuloa
+1287  origtik  0306                                                                         Vaturova
+1288  origtik  0307                                                                          Wailevu
+1289  origtik  0308                                                                        Wainikeli
+1290  origtik  0401                                                                       Nabukelevu
+1291  origtik  0402                                                                           Naceva
+1292  origtik  0403                                                                       Nakasaleka
+1293  origtik  0404                                                                           Tavuki
+1294  origtik  0501                                                                            Cicia
+1295  origtik  0502                                                                           Kabara
+1296  origtik  0503                                                                           Lakeba
+1297  origtik  0504                                                                         Lomaloma
+1298  origtik  0505                                                                           Matuku
+1299  origtik  0506                                                                            Moala
+1300  origtik  0507                                                                             Moce
+1301  origtik  0508                                                                          Mualevu
+1302  origtik  0509                                                                            Nayau
+1303  origtik  0511                                                                              Ono
+1304  origtik  0512                                                                           Totoya
+1305  origtik  0513                                                                           Vulaga
+1306  origtik  0599                                                       Other Tikina, Lau district
+1307  origtik  0601                                                                           Batiki
+1308  origtik  0602                                                                              Gau
+1309  origtik  0603                                                                             Koro
+1310  origtik  0604                                                                           Nairai
+1311  origtik  0605                                                                           Ovalau
+1312  origtik  0606                                                          Lomaiviti other islands
+1313  origtik  0701                                                                          Cikobia
+1314  origtik  0702                                                                         Dogotuki
+1315  origtik  0703                                                                           Labasa
+1316  origtik  0704                                                                          Macuata
+1317  origtik  0705                                                                             Sasa
+1318  origtik  0801                                                                           Baravi
+1319  origtik  0802                                                                             Cuvu
+1320  origtik  0803                                                                           Malolo
+1321  origtik  0804                                                                         Malomalo
+1322  origtik  0805                                                                       Nasigatoka
+1323  origtik  0806                                                                           Navosa
+1324  origtik  0807                                                                        Ruwailevu
+1325  origtik  0808                                                                         Vatulele
+1326  origtik  0901                                                                        Lomaivuna
+1327  origtik  0902                                                                       Matailobau
+1328  origtik  0903                                                                        Naitasiri
+1329  origtik  0904                                                                          Waimaro
+1330  origtik  0905                                                                        Wainimala
 1331  origtik  1001                                                                           Namosi
 1332  origtik  1002                                                                       Veivatuloa
 1333  origtik  1003                                                                 Wainikoro-i-luva
@@ -1361,14 +1361,14 @@
 1360   school     2                                                                        Part time
 1361   school     3                                                                      Left school
 1362   school     4                                                                   Never attended
-1363 edattend     0                                                                     Kindergarten
-1364 edattend     1                                                                Primary - Class 1
-1365 edattend     2                                                                Primary - Class 2
-1366 edattend     3                                                                Primary - Class 3
-1367 edattend     4                                                                Primary - Class 4
-1368 edattend     5                                                                Primary - Class 5
-1369 edattend     6                                                                Primary - Class 6
-1370 edattend     9                                                               Secondary - Form 1
+1363 edattend    00                                                                     Kindergarten
+1364 edattend    01                                                                Primary - Class 1
+1365 edattend    02                                                                Primary - Class 2
+1366 edattend    03                                                                Primary - Class 3
+1367 edattend    04                                                                Primary - Class 4
+1368 edattend    05                                                                Primary - Class 5
+1369 edattend    06                                                                Primary - Class 6
+1370 edattend    09                                                               Secondary - Form 1
 1371 edattend    10                                                               Secondary - Form 2
 1372 edattend    11                                                               Secondary - Form 3
 1373 edattend    12                                                               Secondary - Form 4
@@ -1388,14 +1388,14 @@
 1387 edattend    35                                                                   Masters or PhD
 1388 edattend    40                                                                            Other
 1389 edattend    99                                                                              NIU
-1390 edattain     0                                                                     Kindergarten
-1391 edattain     1                                                                Primary - Class 1
-1392 edattain     2                                                                Primary - Class 2
-1393 edattain     3                                                                Primary - Class 3
-1394 edattain     4                                                                Primary - Class 4
-1395 edattain     5                                                                Primary - Class 5
-1396 edattain     6                                                                Primary - Class 6
-1397 edattain     9                                                               Secondary - Form 1
+1390 edattain    00                                                                     Kindergarten
+1391 edattain    01                                                                Primary - Class 1
+1392 edattain    02                                                                Primary - Class 2
+1393 edattain    03                                                                Primary - Class 3
+1394 edattain    04                                                                Primary - Class 4
+1395 edattain    05                                                                Primary - Class 5
+1396 edattain    06                                                                Primary - Class 6
+1397 edattain    09                                                               Secondary - Form 1
 1398 edattain    10                                                               Secondary - Form 2
 1399 edattain    11                                                               Secondary - Form 3
 1400 edattain    12                                                               Secondary - Form 4
@@ -1411,14 +1411,14 @@
 1410 edattain    35                                                                  Masters and PhD
 1411 edattain    40                                                                            Other
 1412 edattain    99                                                                              NIU
-1413   edinst     1                                                  University of the South Pacific
-1414   edinst     3                                               Fiji Institute of Technology (FIT)
-1415   edinst     4                                                          Fiji School of Medicine
-1416   edinst     5                                                     Fiji School of Nursing (FSN)
-1417   edinst     6                                                          FCAE (Advanced College)
-1418   edinst     7                                                Fiji College of Agriculture (FCA)
-1419   edinst     8                                                   LTC  or NTC (Teachers College)
-1420   edinst     9                                                                           APTECH
+1413   edinst    01                                                  University of the South Pacific
+1414   edinst    03                                               Fiji Institute of Technology (FIT)
+1415   edinst    04                                                          Fiji School of Medicine
+1416   edinst    05                                                     Fiji School of Nursing (FSN)
+1417   edinst    06                                                          FCAE (Advanced College)
+1418   edinst    07                                                Fiji College of Agriculture (FCA)
+1419   edinst    08                                                   LTC  or NTC (Teachers College)
+1420   edinst    09                                                                           APTECH
 1421   edinst    10                                                                  Corpus Christie
 1422   edinst    11                                                            Davuilevu Theological
 1423   edinst    12                                                                   Fulton College
@@ -1433,15 +1433,15 @@
 1432   edinst    55                                                                              USA
 1433   edinst    90                                                                    Other foreign
 1434   edinst    99                                                                              NIU
-1435   travel     1                                                                      Private car
-1436   travel     2                                                                        Share car
-1437   travel     3                                                                      Company car
-1438   travel     4                                                                     Private boat
-1439   travel     5                                                                             Taxi
-1440   travel     6                                                                              Bus
-1441   travel     7                                                                          Minibus
-1442   travel     8                                                             Motor cycle  or bike
-1443   travel     9                                                                          On foot
+1435   travel    01                                                                      Private car
+1436   travel    02                                                                        Share car
+1437   travel    03                                                                      Company car
+1438   travel    04                                                                     Private boat
+1439   travel    05                                                                             Taxi
+1440   travel    06                                                                              Bus
+1441   travel    07                                                                          Minibus
+1442   travel    08                                                             Motor cycle  or bike
+1443   travel    09                                                                          On foot
 1444   travel    10                                                                            Other
 1445 wklastwk     1                                                                              Yes
 1446 wklastwk     2                                                                               No
@@ -1455,18 +1455,18 @@
 1454 worktype     7                                                       Sale and consumption (2,3)
 1455 worktype     8                                                                          Unknown
 1456 worktype     9                                                                              NIU
-1457     occ1     0                                                                     Armed forces
-1458     occ1     1                                       Legislators, senior officials and managers
-1459     occ1     2                                                                    Professionals
-1460     occ1     3                                          Technicians and associate professionals
-1461     occ1     4                                                                           Clerks
-1462     occ1     5                                                                  Service workers
-1463     occ1     6                                          Skilled agricultrue and fishery workers
-1464     occ1     7                                                                    Craft workers
-1465     occ1     8                                                      Plant and machine operators
-1466     occ1     9                                                               Elementary workers
+1457     occ1    00                                                                     Armed forces
+1458     occ1    01                                       Legislators, senior officials and managers
+1459     occ1    02                                                                    Professionals
+1460     occ1    03                                          Technicians and associate professionals
+1461     occ1    04                                                                           Clerks
+1462     occ1    05                                                                  Service workers
+1463     occ1    06                                          Skilled agricultrue and fishery workers
+1464     occ1    07                                                                    Craft workers
+1465     occ1    08                                                      Plant and machine operators
+1466     occ1    09                                                               Elementary workers
 1467     occ1    99                                                                              NIU
-1468     occ3    11                                                                     Armed forces
+1468     occ3   011                                                                     Armed forces
 1469     occ3   112                                                      Senior government officials
 1470     occ3   121                                              Directors, chief executive officers
 1471     occ3   122                                                            Managers, supervisors
@@ -1551,37 +1551,37 @@
 1550     occ3   949                                     Elementary workers, not elsewhere classified
 1551     occ3   990                                           Other occupations, response suppressed
 1552     occ3   999                                                                              NIU
-1553     ind2     1                                                                      Agriculture
-1554     ind2     2                                                             Forestry and logging
-1555     ind2     5                                            Fishing excluding subsistence fishery
-1556     ind2    13                                                                 Metal ore mining
-1557     ind2    14                                                                     Other mining
-1558     ind2    15                                      Manufacturing of food beverages and tobacco
-1559     ind2    17                                    Textiles wearing apparel and leather industry
-1560     ind2    19                        Manufacture of wood and wood products including furniture
-1561     ind2    21                    Manufacture of paper and paper products, printing, publishing
-1562     ind2    24                                  Manufacture of checmicals and chemical products
-1563     ind2    26                    Manufacture of cement, cement products, and non-metal mineral
-1564     ind2    27                                                           Basic metal industries
-1565     ind2    28                                      Manufacture of machinery except electronics
-1566     ind2    34                                                   Other manufacturing industries
-1567     ind2    40                                                                      Electricity
-1568     ind2    41                                                           Water works and supply
-1569     ind2    45                                                                     Construction
-1570     ind2    50                                                                  Wholesale trade
-1571     ind2    52                                                                     Retail trade
-1572     ind2    55                                                           Restaurants and hotels
-1573     ind2    60                                                                        Transport
-1574     ind2    61                                                           Communication services
-1575     ind2    65                                                           Financial institutions
-1576     ind2    66                                                                        Insurance
-1577     ind2    67                                                Real estate and business services
-1578     ind2    71                                       Public administration and related services
-1579     ind2    74                                                    Sanitary and similar services
-1580     ind2    80                                                               Education services
-1581     ind2    85                                               Recreational and cultural services
-1582     ind2    90                                                  Personal and household services
-1583     ind2    99                                 International and other extra-territorial bodies
+1553     ind2   001                                                                      Agriculture
+1554     ind2   002                                                             Forestry and logging
+1555     ind2   005                                            Fishing excluding subsistence fishery
+1556     ind2   013                                                                 Metal ore mining
+1557     ind2   014                                                                     Other mining
+1558     ind2   015                                      Manufacturing of food beverages and tobacco
+1559     ind2   017                                    Textiles wearing apparel and leather industry
+1560     ind2   019                        Manufacture of wood and wood products including furniture
+1561     ind2   021                    Manufacture of paper and paper products, printing, publishing
+1562     ind2   024                                  Manufacture of checmicals and chemical products
+1563     ind2   026                    Manufacture of cement, cement products, and non-metal mineral
+1564     ind2   027                                                           Basic metal industries
+1565     ind2   028                                      Manufacture of machinery except electronics
+1566     ind2   034                                                   Other manufacturing industries
+1567     ind2   040                                                                      Electricity
+1568     ind2   041                                                           Water works and supply
+1569     ind2   045                                                                     Construction
+1570     ind2   050                                                                  Wholesale trade
+1571     ind2   052                                                                     Retail trade
+1572     ind2   055                                                           Restaurants and hotels
+1573     ind2   060                                                                        Transport
+1574     ind2   061                                                           Communication services
+1575     ind2   065                                                           Financial institutions
+1576     ind2   066                                                                        Insurance
+1577     ind2   067                                                Real estate and business services
+1578     ind2   071                                       Public administration and related services
+1579     ind2   074                                                    Sanitary and similar services
+1580     ind2   080                                                               Education services
+1581     ind2   085                                               Recreational and cultural services
+1582     ind2   090                                                  Personal and household services
+1583     ind2   099                                 International and other extra-territorial bodies
 1584     ind2   998                                                                          Unknown
 1585     ind2   999                                                                              NIU
 1586  workloc     1                                                                           Formal
@@ -1608,101 +1608,101 @@
 1607 availabl     2                                                                               No
 1608 availabl     8                                                                          Unknown
 1609 availabl     9                                                                              NIU
-1610 homemale     0                                                                                0
-1611 homemale     1                                                                                1
-1612 homemale     2                                                                                2
-1613 homemale     3                                                                                3
-1614 homemale     4                                                                                4
-1615 homemale     5                                                                               5+
+1610 homemale    00                                                                                0
+1611 homemale    01                                                                                1
+1612 homemale    02                                                                                2
+1613 homemale    03                                                                                3
+1614 homemale    04                                                                                4
+1615 homemale    05                                                                               5+
 1616 homemale    99                                                                              NIU
-1617  homefem     0                                                                                0
-1618  homefem     1                                                                                1
-1619  homefem     2                                                                                2
-1620  homefem     3                                                                                3
-1621  homefem     4                                                                                4
-1622  homefem     5                                                                               5+
+1617  homefem    00                                                                                0
+1618  homefem    01                                                                                1
+1619  homefem    02                                                                                2
+1620  homefem    03                                                                                3
+1621  homefem    04                                                                                4
+1622  homefem    05                                                                               5+
 1623  homefem    99                                                                              NIU
-1624  homechd     0                                                                                0
-1625  homechd     1                                                                                1
-1626  homechd     2                                                                                2
-1627  homechd     3                                                                                3
-1628  homechd     4                                                                                4
-1629  homechd     5                                                                                5
-1630  homechd     6                                                                                6
-1631  homechd     7                                                                                7
-1632  homechd     8                                                                               8+
+1624  homechd    00                                                                                0
+1625  homechd    01                                                                                1
+1626  homechd    02                                                                                2
+1627  homechd    03                                                                                3
+1628  homechd    04                                                                                4
+1629  homechd    05                                                                                5
+1630  homechd    06                                                                                6
+1631  homechd    07                                                                                7
+1632  homechd    08                                                                               8+
 1633  homechd    99                                                                              NIU
-1634 awaymale     0                                                                                0
-1635 awaymale     1                                                                                1
-1636 awaymale     2                                                                                2
-1637 awaymale     3                                                                                3
-1638 awaymale     4                                                                                4
-1639 awaymale     5                                                                                5
-1640 awaymale     6                                                                               6+
+1634 awaymale    00                                                                                0
+1635 awaymale    01                                                                                1
+1636 awaymale    02                                                                                2
+1637 awaymale    03                                                                                3
+1638 awaymale    04                                                                                4
+1639 awaymale    05                                                                                5
+1640 awaymale    06                                                                               6+
 1641 awaymale    99                                                                              NIU
-1642  awayfem     0                                                                                0
-1643  awayfem     1                                                                                1
-1644  awayfem     2                                                                                2
-1645  awayfem     3                                                                                3
-1646  awayfem     4                                                                                4
-1647  awayfem     5                                                                                5
-1648  awayfem     6                                                                               6+
+1642  awayfem    00                                                                                0
+1643  awayfem    01                                                                                1
+1644  awayfem    02                                                                                2
+1645  awayfem    03                                                                                3
+1646  awayfem    04                                                                                4
+1647  awayfem    05                                                                                5
+1648  awayfem    06                                                                               6+
 1649  awayfem    99                                                                              NIU
-1650  awaychd     0                                                                                0
-1651  awaychd     1                                                                                1
-1652  awaychd     2                                                                                2
-1653  awaychd     3                                                                                3
-1654  awaychd     4                                                                                4
-1655  awaychd     5                                                                                5
-1656  awaychd     6                                                                                6
-1657  awaychd     7                                                                                7
-1658  awaychd     8                                                                                8
-1659  awaychd     9                                                                                9
+1650  awaychd    00                                                                                0
+1651  awaychd    01                                                                                1
+1652  awaychd    02                                                                                2
+1653  awaychd    03                                                                                3
+1654  awaychd    04                                                                                4
+1655  awaychd    05                                                                                5
+1656  awaychd    06                                                                                6
+1657  awaychd    07                                                                                7
+1658  awaychd    08                                                                                8
+1659  awaychd    09                                                                                9
 1660  awaychd    10                                                                              10+
 1661  awaychd    99                                                                              NIU
-1662  chdeadm     0                                                                                0
-1663  chdeadm     1                                                                                1
-1664  chdeadm     2                                                                                2
-1665  chdeadm     3                                                                               3+
+1662  chdeadm    00                                                                                0
+1663  chdeadm    01                                                                                1
+1664  chdeadm    02                                                                                2
+1665  chdeadm    03                                                                               3+
 1666  chdeadm    99                                                                              NIU
-1667  chdeadf     0                                                                                0
-1668  chdeadf     1                                                                                1
-1669  chdeadf     2                                                                                2
-1670  chdeadf     3                                                                               3+
+1667  chdeadf    00                                                                                0
+1668  chdeadf    01                                                                                1
+1669  chdeadf    02                                                                                2
+1670  chdeadf    03                                                                               3+
 1671  chdeadf    99                                                                              NIU
-1672   chdead     0                                                                                0
-1673   chdead     1                                                                                1
-1674   chdead     2                                                                                2
-1675   chdead     3                                                                                3
-1676   chdead     4                                                                               4+
+1672   chdead    00                                                                                0
+1673   chdead    01                                                                                1
+1674   chdead    02                                                                                2
+1675   chdead    03                                                                                3
+1676   chdead    04                                                                               4+
 1677   chdead    99                                                                              NIU
-1678  chbornm     0                                                                                0
-1679  chbornm     1                                                                                1
-1680  chbornm     2                                                                                2
-1681  chbornm     3                                                                                3
-1682  chbornm     4                                                                                4
-1683  chbornm     5                                                                                5
-1684  chbornm     6                                                                                6
-1685  chbornm     7                                                                               7+
+1678  chbornm    00                                                                                0
+1679  chbornm    01                                                                                1
+1680  chbornm    02                                                                                2
+1681  chbornm    03                                                                                3
+1682  chbornm    04                                                                                4
+1683  chbornm    05                                                                                5
+1684  chbornm    06                                                                                6
+1685  chbornm    07                                                                               7+
 1686  chbornm    99                                                                              NIU
-1687  chbornf     0                                                                                0
-1688  chbornf     1                                                                                1
-1689  chbornf     2                                                                                2
-1690  chbornf     3                                                                                3
-1691  chbornf     4                                                                                4
-1692  chbornf     5                                                                                5
-1693  chbornf     6                                                                                6
-1694  chbornf     7                                                                               7+
+1687  chbornf    00                                                                                0
+1688  chbornf    01                                                                                1
+1689  chbornf    02                                                                                2
+1690  chbornf    03                                                                                3
+1691  chbornf    04                                                                                4
+1692  chbornf    05                                                                                5
+1693  chbornf    06                                                                                6
+1694  chbornf    07                                                                               7+
 1695  chbornf    99                                                                              NIU
-1696  lastbmo     1                                                                          January
-1697  lastbmo     2                                                                         February
-1698  lastbmo     3                                                                            March
-1699  lastbmo     4                                                                            April
-1700  lastbmo     5                                                                              May
-1701  lastbmo     6                                                                             June
-1702  lastbmo     7                                                                             July
-1703  lastbmo     8                                                                           August
-1704  lastbmo     9                                                                        September
+1696  lastbmo    01                                                                          January
+1697  lastbmo    02                                                                         February
+1698  lastbmo    03                                                                            March
+1699  lastbmo    04                                                                            April
+1700  lastbmo    05                                                                              May
+1701  lastbmo    06                                                                             June
+1702  lastbmo    07                                                                             July
+1703  lastbmo    08                                                                           August
+1704  lastbmo    09                                                                        September
 1705  lastbmo    10                                                                          October
 1706  lastbmo    11                                                                         November
 1707  lastbmo    12                                                                         December
@@ -1710,23 +1710,23 @@
 1709 lastbsex     1                                                                             Male
 1710 lastbsex     2                                                                           Female
 1711 lastbsex     9                                                                              NIU
-1712  chsurvm     0                                                                       0 children
-1713  chsurvm     1                                                                       1 children
-1714  chsurvm     2                                                                       2 children
-1715  chsurvm     3                                                                       3 children
-1716  chsurvm     4                                                                       4 children
-1717  chsurvm     5                                                                       5 children
-1718  chsurvm     6                                                                       6 children
-1719  chsurvm     7                                                                      7+ children
+1712  chsurvm    00                                                                       0 children
+1713  chsurvm    01                                                                       1 children
+1714  chsurvm    02                                                                       2 children
+1715  chsurvm    03                                                                       3 children
+1716  chsurvm    04                                                                       4 children
+1717  chsurvm    05                                                                       5 children
+1718  chsurvm    06                                                                       6 children
+1719  chsurvm    07                                                                      7+ children
 1720  chsurvm    99                                                                              NIU
-1721  chsurvf     0                                                                       0 children
-1722  chsurvf     1                                                                       1 children
-1723  chsurvf     2                                                                       2 children
-1724  chsurvf     3                                                                       3 children
-1725  chsurvf     4                                                                       4 children
-1726  chsurvf     5                                                                       5 children
-1727  chsurvf     6                                                                       6 children
-1728  chsurvf     7                                                                      7+ children
+1721  chsurvf    00                                                                       0 children
+1722  chsurvf    01                                                                       1 children
+1723  chsurvf    02                                                                       2 children
+1724  chsurvf    03                                                                       3 children
+1725  chsurvf    04                                                                       4 children
+1726  chsurvf    05                                                                       5 children
+1727  chsurvf    06                                                                       6 children
+1728  chsurvf    07                                                                      7+ children
 1729  chsurvf    99                                                                              NIU
 1730   subfam     0                                                        No subfamily in household
 1731   subfam     1                                                                      Subfamily 1
@@ -2312,7 +2312,7 @@
 518                                                                            Seeing
 519                                                                             Other
 520                       No disabled person or only one disabled person in household
-521                                                                             HHrec
+521                                                                             hhrec
 522                                                                                 1
 523                                                                                 2
 524                                                                                 3

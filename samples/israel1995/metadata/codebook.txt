@@ -1,13 +1,13 @@
        vname code                                                                  short
-1       pern    1                                                                      1
-2       pern    2                                                                      2
-3       pern    3                                                                      3
-4       pern    4                                                                      4
-5       pern    5                                                                      5
-6       pern    6                                                                      6
-7       pern    7                                                                      7
-8       pern    8                                                                      8
-9       pern    9                                                                      9
+1       pern   01                                                                      1
+2       pern   02                                                                      2
+3       pern   03                                                                      3
+4       pern   04                                                                      4
+5       pern   05                                                                      5
+6       pern   06                                                                      6
+7       pern   07                                                                      7
+8       pern   08                                                                      8
+9       pern   09                                                                      9
 10      pern   10                                                                     10
 11      pern   11                                                                     11
 12      pern   12                                                                     12
@@ -100,15 +100,15 @@
 99     metro   72                                     Haifa -outer ring - Eastern sector
 100    metro   73                                    Haifa -outer ring - Southern sector
 101    metro   99                                               Not in metropolitan area
-102    rooms    1                                                                 1 room
-103    rooms    2                                                              1.5 rooms
-104    rooms    3                                                                2 rooms
-105    rooms    4                                                              2.5 rooms
-106    rooms    5                                                                3 rooms
-107    rooms    6                                                              3.5 rooms
-108    rooms    7                                                                4 rooms
-109    rooms    8                                                              4.5 rooms
-110    rooms    9                                                               5+ rooms
+102    rooms   01                                                                 1 room
+103    rooms   02                                                              1.5 rooms
+104    rooms   03                                                                2 rooms
+105    rooms   04                                                              2.5 rooms
+106    rooms   05                                                                3 rooms
+107    rooms   06                                                              3.5 rooms
+108    rooms   07                                                                4 rooms
+109    rooms   08                                                              4.5 rooms
+110    rooms   09                                                               5+ rooms
 111    rooms   98                                                                Unknown
 112    rooms   99                                                                    NIU
 113    conyr    1                                                            Before 1948
@@ -187,16 +187,16 @@
 186   carown    4                                                                  Other
 187   carown    8                                                                Unknown
 188   carown    9                                                                    NIU
-189   pernum    0                                                                  HHrec
-190   pernum    1                                                                      1
-191   pernum    2                                                                      2
-192   pernum    3                                                                      3
-193   pernum    4                                                                      4
-194   pernum    5                                                                      5
-195   pernum    6                                                                      6
-196   pernum    7                                                                      7
-197   pernum    8                                                                      8
-198   pernum    9                                                                      9
+189   pernum   00                                                                  hhrec
+190   pernum   01                                                                      1
+191   pernum   02                                                                      2
+192   pernum   03                                                                      3
+193   pernum   04                                                                      4
+194   pernum   05                                                                      5
+195   pernum   06                                                                      6
+196   pernum   07                                                                      7
+197   pernum   08                                                                      8
+198   pernum   09                                                                      9
 199   pernum   10                                                                     10
 200   pernum   11                                                                     11
 201   pernum   12                                                                     12
@@ -220,20 +220,20 @@
 219  hhtypep    1                                                     Ordinary household
 220  hhtypep    2                                                   Household in kibbutz
 221  hhtypep    3                                           Other household (collective)
-222   relate    1                                                  Head of the household
-223   relate    2                                                                 Spouse
-224   relate    3                                                           Son/Daughter
-225   relate    4                                                          Father/Mother
-226   relate    5                                                    Son/Daughter in law
-227   relate    6                                                   Father/Mother in law
-228   relate    7                                                            Grand child
-229   relate    8                                                         Other relation
-230   relate    9                                                              Unrelated
+222   relate   01                                                  Head of the household
+223   relate   02                                                                 Spouse
+224   relate   03                                                           Son/Daughter
+225   relate   04                                                          Father/Mother
+226   relate   05                                                    Son/Daughter in law
+227   relate   06                                                   Father/Mother in law
+228   relate   07                                                            Grand child
+229   relate   08                                                         Other relation
+230   relate   09                                                              Unrelated
 231   relate   99                                                                Unknown
 232      sex    1                                                                   Male
 233      sex    2                                                                 Female
-234     ageg    0                                                                 0 to 4
-235     ageg    5                                                                 5 to 9
+234     ageg   00                                                                 0 to 4
+235     ageg   05                                                                 5 to 9
 236     ageg   10                                                               10 to 14
 237     ageg   15                                                               15 to 17
 238     ageg   18                                                               18 to 19
@@ -250,15 +250,15 @@
 249     ageg   70                                                               70 to 74
 250     ageg   75                                                               75 to 79
 251     ageg   80                                                                    80+
-252    biryr    1                                                              1991-1995
-253    biryr    2                                                              1986-1990
-254    biryr    3                                                              1981-1985
-255    biryr    4                                                              1978-1980
-256    biryr    5                                                              1976-1977
-257    biryr    6                                                              1971-1975
-258    biryr    7                                                              1966-1970
-259    biryr    8                                                              1961-1965
-260    biryr    9                                                              1956-1960
+252    biryr   01                                                              1991-1995
+253    biryr   02                                                              1986-1990
+254    biryr   03                                                              1981-1985
+255    biryr   04                                                              1978-1980
+256    biryr   05                                                              1976-1977
+257    biryr   06                                                              1971-1975
+258    biryr   07                                                              1966-1970
+259    biryr   08                                                              1961-1965
+260    biryr   09                                                              1956-1960
 261    biryr   10                                                              1951-1955
 262    biryr   11                                                              1946-1950
 263    biryr   12                                                              1941-1945
@@ -274,28 +274,28 @@
 273    marst    4                                                                 Single
 274  bornisr    1                                                         Born in Israel
 275  bornisr    2                                                            Born abroad
-276    immyr    1                                                              1992-1995
-277    immyr    2                                                              1990-1991
-278    immyr    3                                                              1980-1989
-279    immyr    4                                                              1975-1979
-280    immyr    5                                                              1972-1974
-281    immyr    6                                                              1965-1971
-282    immyr    7                                                              1961-1964
-283    immyr    8                                                              1955-1960
-284    immyr    9                                                              1948-1955
+276    immyr   01                                                              1992-1995
+277    immyr   02                                                              1990-1991
+278    immyr   03                                                              1980-1989
+279    immyr   04                                                              1975-1979
+280    immyr   05                                                              1972-1974
+281    immyr   06                                                              1965-1971
+282    immyr   07                                                              1961-1964
+283    immyr   08                                                              1955-1960
+284    immyr   09                                                              1948-1955
 285    immyr   10                                                             Until 1947
 286    immyr   99                                                                    NIU
-287      bpl    1                                                   Rest of USSR in Asia
-288      bpl    2                                                           Rest of Asia
-289      bpl    3                                                         Rest of Africa
-290      bpl    4                             Rest of Europe (not-including former USSR)
-291      bpl    5                                                 Rest of USSR in Europe
-292      bpl    6                                                          Latin America
-293      bpl    8                                                North America / Oceania
-294      bpl   15                                                                 Turkey
-295      bpl   50                                                                   Iraq
-296      bpl   70                                                                  Yemen
-297      bpl   90                                                                   Iran
+287      bpl  001                                                   Rest of USSR in Asia
+288      bpl  002                                                           Rest of Asia
+289      bpl  003                                                         Rest of Africa
+290      bpl  004                             Rest of Europe (not-including former USSR)
+291      bpl  005                                                 Rest of USSR in Europe
+292      bpl  006                                                          Latin America
+293      bpl  008                                                North America / Oceania
+294      bpl  015                                                                 Turkey
+295      bpl  050                                                                   Iraq
+296      bpl  070                                                                  Yemen
+297      bpl  090                                                                   Iran
 298      bpl  200                                                                Morocco
 299      bpl  230                                                                  Libya
 300      bpl  240                                                                  Egypt
@@ -369,64 +369,64 @@
 368   schyry    6                                                                    16+
 369   schyry    8                                       Studied, number of years unknown
 370   schyry    9                                                                    NIU
-371   degree    1                                            Did not get any certificate
-372   degree    2                                         Primary or intermediate school
-373   degree    3                                                       Secondary school
-374   degree    4                                                 Matriculation (Bagrut)
-375   degree    5                              Post-secondary certificate (not academic)
-376   degree    6                                            Academic degree - bachelors
-377   degree    7                                     Academic degree - masters or above
-378   degree    8                                     Another post-secondary certificate
+371   degree   01                                            Did not get any certificate
+372   degree   02                                         Primary or intermediate school
+373   degree   03                                                       Secondary school
+374   degree   04                                                 Matriculation (Bagrut)
+375   degree   05                              Post-secondary certificate (not academic)
+376   degree   06                                            Academic degree - bachelors
+377   degree   07                                     Academic degree - masters or above
+378   degree   08                                     Another post-secondary certificate
 379   degree   98                                                                Unknown
 380   degree   99                                                                    NIU
 381   locsen    1                                           Lives in locality from birth
 382   locsen    2                                   Does not live in locality from birth
 383   locsen    8                                                                Unknown
 384   locsen    9                                                                    NIU
-385    locyr    1                                                            Before 1947
-386    locyr    2                                                              1948-1954
-387    locyr    3                                                              1955-1964
-388    locyr    4                                                              1965-1971
-389    locyr    5                                                              1972-1974
-390    locyr    6                                                              1975-1979
-391    locyr    7                                                              1980-1983
-392    locyr    8                                                              1984-1989
-393    locyr    9                                                                  1990+
+385    locyr   01                                                            Before 1947
+386    locyr   02                                                              1948-1954
+387    locyr   03                                                              1955-1964
+388    locyr   04                                                              1965-1971
+389    locyr   05                                                              1972-1974
+390    locyr   06                                                              1975-1979
+391    locyr   07                                                              1980-1983
+392    locyr   08                                                              1984-1989
+393    locyr   09                                                                  1990+
 394    locyr   98                                                                Unknown
 395    locyr   99                                                                    NIU
-396     res5    1                                                           Lived abroad
-397     res5    2                                          Same address (did not change)
-398     res5    3                                                 Changed: same locality
-399     res5    4                                             Changed: same natural area
-400     res5    5                       Changed: another natural area, same sub-district
-401     res5    6                           Changed: another sub-district, same district
-402     res5    7                                              Changed: another district
-403     res5    8                                5 years ago live on ship, military camp
-404     res5    9                                 Changed: from another unknown locality
+396     res5   01                                                           Lived abroad
+397     res5   02                                          Same address (did not change)
+398     res5   03                                                 Changed: same locality
+399     res5   04                                             Changed: same natural area
+400     res5   05                       Changed: another natural area, same sub-district
+401     res5   06                           Changed: another sub-district, same district
+402     res5   07                                              Changed: another district
+403     res5   08                                5 years ago live on ship, military camp
+404     res5   09                                 Changed: from another unknown locality
 405     res5   98                                                                Unknown
 406     res5   99                                                                    NIU
-407   metro5    1                                                           Lived abroad
-408   metro5    2                                                           Same address
-409   metro5    3                                         Another address, same locality
-410   metro5    7                                        Lived on ship, in military camp
-411   metro5    8                                                Another uknown locality
-412   metro5   10                                     Tel-Aviv - Core - Another locality
-413   metro5   21               Tel-Aviv - Another locality, Inner ring, Northern sector
-414   metro5   22                Tel-Aviv - Another locality, Inner ring, Eastern sector
-415   metro5   23               Tel-Aviv - Another locality, Inner ring, Southern sector
-416   metro5   31              Tel-Aviv - Another locality, Middle ring, Northern sector
-417   metro5   32               Tel-Aviv - Another locality, Middle ring, Eastern sector
-418   metro5   33              Tel-Aviv - Another locality, Middle ring, Southern sector
-419   metro5   41               Tel-Aviv - Another locality, Outer ring, Northern sector
-420   metro5   42                Tel-Aviv - Another locality, Outer ring, Eastern sector
-421   metro5   43               Tel-Aviv - Another locality, Outer ring, Southern sector
-422   metro5   50                                           Haifa Core, Another locality
-423   metro5   61                   Haifa, Another locality, Inner ring, Northern sector
-424   metro5   62                    Haifa, Another locality, Inner ring, Eastern sector
-425   metro5   63                   Haifa, Another locality, Inner ring, Southern sector
-426   metro5   71                   Haifa, Another locality, Outer ring, Northern sector
-427   metro5   72                    Haifa, Another locality, Outer ring, Eastern sector
-428   metro5   73                   Haifa, Another locality, Outer ring, Southern sector
+407   metro5  001                                                           Lived abroad
+408   metro5  002                                                           Same address
+409   metro5  003                                         Another address, same locality
+410   metro5  007                                        Lived on ship, in military camp
+411   metro5  008                                                Another uknown locality
+412   metro5  010                                     Tel-Aviv - Core - Another locality
+413   metro5  021               Tel-Aviv - Another locality, Inner ring, Northern sector
+414   metro5  022                Tel-Aviv - Another locality, Inner ring, Eastern sector
+415   metro5  023               Tel-Aviv - Another locality, Inner ring, Southern sector
+416   metro5  031              Tel-Aviv - Another locality, Middle ring, Northern sector
+417   metro5  032               Tel-Aviv - Another locality, Middle ring, Eastern sector
+418   metro5  033              Tel-Aviv - Another locality, Middle ring, Southern sector
+419   metro5  041               Tel-Aviv - Another locality, Outer ring, Northern sector
+420   metro5  042                Tel-Aviv - Another locality, Outer ring, Eastern sector
+421   metro5  043               Tel-Aviv - Another locality, Outer ring, Southern sector
+422   metro5  050                                           Haifa Core, Another locality
+423   metro5  061                   Haifa, Another locality, Inner ring, Northern sector
+424   metro5  062                    Haifa, Another locality, Inner ring, Eastern sector
+425   metro5  063                   Haifa, Another locality, Inner ring, Southern sector
+426   metro5  071                   Haifa, Another locality, Outer ring, Northern sector
+427   metro5  072                    Haifa, Another locality, Outer ring, Eastern sector
+428   metro5  073                   Haifa, Another locality, Outer ring, Southern sector
 429   metro5  110                                                 Sub-district Jerusalem
 430   metro5  210                                                     Sub-district Zefat
 431   metro5  220                                                  Sub-district Kinneret
@@ -506,47 +506,47 @@
 505   wkmon2    7                                               Regular military service
 506   wkmon2    8                                                                Unknown
 507   wkmon2    9                                                                    NIU
-508    wkhrs    1                                                              1-4 hours
-509    wkhrs    2                                                                    5-9
-510    wkhrs    3                                                                  10-14
-511    wkhrs    4                                                                  15-19
-512    wkhrs    5                                                                  20-24
-513    wkhrs    6                                                                  25-29
-514    wkhrs    7                                                                  30-34
-515    wkhrs    8                                                                  35-39
-516    wkhrs    9                                                                  40-44
+508    wkhrs   01                                                              1-4 hours
+509    wkhrs   02                                                                    5-9
+510    wkhrs   03                                                                  10-14
+511    wkhrs   04                                                                  15-19
+512    wkhrs   05                                                                  20-24
+513    wkhrs   06                                                                  25-29
+514    wkhrs   07                                                                  30-34
+515    wkhrs   08                                                                  35-39
+516    wkhrs   09                                                                  40-44
 517    wkhrs   10                                                                    45+
 518    wkhrs   98                                                                Unknown
 519    wkhrs   99                                                                    NIU
-520     locw    1                                                          Works at home
-521     locw    2                                                      Same as residence
-522     locw    3                                  Another locality, same natural region
-523     locw    4                              Another natural region, same sub-district
-524     locw    5                                    Another sub-district, same district
-525     locw    6                                                       Another district
-526     locw    7                                                           Ship or camp
+520     locw   01                                                          Works at home
+521     locw   02                                                      Same as residence
+522     locw   03                                  Another locality, same natural region
+523     locw   04                              Another natural region, same sub-district
+524     locw   05                                    Another sub-district, same district
+525     locw   06                                                       Another district
+526     locw   07                                                           Ship or camp
 527     locw   98                                                                Unknown
 528     locw   99                                                                    NIU
-529   metrow    1                                                          Works at home
-530   metrow    2                                             Same locality as residence
-531   metrow    7                                                           Ship or camp
-532   metrow   10                                     Tel-Aviv - Core - Another locality
-533   metrow   21               Tel-Aviv - Another locality, Inner ring, Northern sector
-534   metrow   22                Tel-Aviv - Another locality, Inner ring, Eastern sector
-535   metrow   23               Tel-Aviv - Another locality, Inner ring, Southern sector
-536   metrow   31              Tel-Aviv - Another locality, Middle ring, Northern sector
-537   metrow   32               Tel-Aviv - Another locality, Middle ring, Eastern sector
-538   metrow   33              Tel-Aviv - Another locality, Middle ring, Southern sector
-539   metrow   41               Tel-Aviv - Another locality, Outer ring, Northern sector
-540   metrow   42                Tel-Aviv - Another locality, Outer ring, Eastern sector
-541   metrow   43               Tel-Aviv - Another locality, Outer ring, Southern sector
-542   metrow   50                                           Haifa Core, Another locality
-543   metrow   61                   Haifa, Another locality, Inner ring, Northern sector
-544   metrow   62                    Haifa, Another locality, Inner ring, Eastern sector
-545   metrow   63                   Haifa, Another locality, Inner ring, Southern sector
-546   metrow   71                   Haifa, Another locality, Outer ring, Northern sector
-547   metrow   72                    Haifa, Another locality, Outer ring, Eastern sector
-548   metrow   73                   Haifa, Another locality, Outer ring, Southern sector
+529   metrow  001                                                          Works at home
+530   metrow  002                                             Same locality as residence
+531   metrow  007                                                           Ship or camp
+532   metrow  010                                     Tel-Aviv - Core - Another locality
+533   metrow  021               Tel-Aviv - Another locality, Inner ring, Northern sector
+534   metrow  022                Tel-Aviv - Another locality, Inner ring, Eastern sector
+535   metrow  023               Tel-Aviv - Another locality, Inner ring, Southern sector
+536   metrow  031              Tel-Aviv - Another locality, Middle ring, Northern sector
+537   metrow  032               Tel-Aviv - Another locality, Middle ring, Eastern sector
+538   metrow  033              Tel-Aviv - Another locality, Middle ring, Southern sector
+539   metrow  041               Tel-Aviv - Another locality, Outer ring, Northern sector
+540   metrow  042                Tel-Aviv - Another locality, Outer ring, Eastern sector
+541   metrow  043               Tel-Aviv - Another locality, Outer ring, Southern sector
+542   metrow  050                                           Haifa Core, Another locality
+543   metrow  061                   Haifa, Another locality, Inner ring, Northern sector
+544   metrow  062                    Haifa, Another locality, Inner ring, Eastern sector
+545   metrow  063                   Haifa, Another locality, Inner ring, Southern sector
+546   metrow  071                   Haifa, Another locality, Outer ring, Northern sector
+547   metrow  072                    Haifa, Another locality, Outer ring, Eastern sector
+548   metrow  073                   Haifa, Another locality, Outer ring, Southern sector
 549   metrow  110                                                 Sub-district Jerusalem
 550   metrow  210                                                     Sub-district Zefat
 551   metrow  220                                                  Sub-district Kinneret
@@ -568,15 +568,15 @@
 567   metrow  990                                 Another locality, Judea, Samaria, Gaza
 568   metrow  998                                                                Unknown
 569   metrow  999                                                                    NIU
-570      ind    1                                                            Agriculture
-571      ind    2                                                          Manufacturing
-572      ind    3                                           Electricity and water supply
-573      ind    4                                                           Construction
-574      ind    5                                             Wholesale and retail trade
-575      ind    6                                 Accommodation services and restaurants
-576      ind    7                                   Transport, storage and communication
-577      ind    8                                                     Banking, insurance
-578      ind    9                           Real estate, renting and business activities
+570      ind   01                                                            Agriculture
+571      ind   02                                                          Manufacturing
+572      ind   03                                           Electricity and water supply
+573      ind   04                                                           Construction
+574      ind   05                                             Wholesale and retail trade
+575      ind   06                                 Accommodation services and restaurants
+576      ind   07                                   Transport, storage and communication
+577      ind   08                                                     Banking, insurance
+578      ind   09                           Real estate, renting and business activities
 579      ind   10                                                  Public administration
 580      ind   11                                                              Education
 581      ind   12                                  Health services, welfare, social work
@@ -585,35 +585,35 @@
 584      ind   15                             Extra-territorial organizations and bodies
 585      ind   98                                                                Unknown
 586      ind   99                                                                    NIU
-587      occ    0                                                 Academic professionals
-588      occ    1                                Associate professionals and technicians
-589      occ    2                                                               Managers
-590      occ    3                                                       Clerical workers
-591      occ    4                              Agents, sales workers and service workers
-592      occ    5                                           Skilled agricultural workers
-593      occ    6    Skilled workers in industry, construction and other skilled workers
-594      occ    7                                                      Unskilled workers
+587      occ   00                                                 Academic professionals
+588      occ   01                                Associate professionals and technicians
+589      occ   02                                                               Managers
+590      occ   03                                                       Clerical workers
+591      occ   04                              Agents, sales workers and service workers
+592      occ   05                                           Skilled agricultural workers
+593      occ   06    Skilled workers in industry, construction and other skilled workers
+594      occ   07                                                      Unskilled workers
 595      occ   98                                                                Unknown
 596      occ   99                                                                    NIU
-597  classwk    1                                  Salaried worker/Member of cooperative
-598  classwk    2                                 Self-employed with no salaried workers
-599  classwk    3                                Self-employed with 1-2 salaried workers
-600  classwk    4                                Self-employed with 3-9 salaried workers
-601  classwk    5                               Self-employed with 10 + salaried workers
-602  classwk    7                                   Kibbutz member (not salaried worker)
-603  classwk    8                                Unpaid family member in family business
-604  classwk    9                  Self-employed with unknown number of salaried workers
+597  classwk   01                                  Salaried worker/Member of cooperative
+598  classwk   02                                 Self-employed with no salaried workers
+599  classwk   03                                Self-employed with 1-2 salaried workers
+600  classwk   04                                Self-employed with 3-9 salaried workers
+601  classwk   05                               Self-employed with 10 + salaried workers
+602  classwk   07                                   Kibbutz member (not salaried worker)
+603  classwk   08                                Unpaid family member in family business
+604  classwk   09                  Self-employed with unknown number of salaried workers
 605  classwk   98                                                                Unknown
 606  classwk   99                                                                    NIU
-607  transwk    1                                                          Works at home
-608  transwk    2                                                                  Walks
-609  transwk    3                                                                Bicycle
-610  transwk    4                                           Motorcycle/scooter/motorbike
-611  transwk    5                                   Organized transportation by employer
-612  transwk    6                                                   Private car - driver
-613  transwk    7                                                Private car - passenger
-614  transwk    8                                                 Bus using one bus-line
-615  transwk    9                                      Bus using more than one bus-lines
+607  transwk   01                                                          Works at home
+608  transwk   02                                                                  Walks
+609  transwk   03                                                                Bicycle
+610  transwk   04                                           Motorcycle/scooter/motorbike
+611  transwk   05                                   Organized transportation by employer
+612  transwk   06                                                   Private car - driver
+613  transwk   07                                                Private car - passenger
+614  transwk   08                                                 Bus using one bus-line
+615  transwk   09                                      Bus using more than one bus-lines
 616  transwk   10                                                                  Train
 617  transwk   11                                                                   Taxi
 618  transwk   12                                                          Other vehicle
@@ -624,15 +624,15 @@
 623    wktm1    3                                                          Works at home
 624    wktm1    8                                                                Unknown
 625    wktm1    9                                                                    NIU
-626    wktm2    1                                                            01:00-04:59
-627    wktm2    2                                                                   5:00
-628    wktm2    3                                                            05:01-05:29
-629    wktm2    4                                                            05:30-05:59
-630    wktm2    5                                                                   6:00
-631    wktm2    6                                                            06:01-06:29
-632    wktm2    7                                                            06:30-06:59
-633    wktm2    8                                                                   7:00
-634    wktm2    9                                                            07:01-07:29
+626    wktm2   01                                                            01:00-04:59
+627    wktm2   02                                                                   5:00
+628    wktm2   03                                                            05:01-05:29
+629    wktm2   04                                                            05:30-05:59
+630    wktm2   05                                                                   6:00
+631    wktm2   06                                                            06:01-06:29
+632    wktm2   07                                                            06:30-06:59
+633    wktm2   08                                                                   7:00
+634    wktm2   09                                                            07:01-07:29
 635    wktm2   10                                                            07:30-07:59
 636    wktm2   11                                                                   8:00
 637    wktm2   12                                                            08:01-08:29
@@ -672,16 +672,16 @@
 671    wktm2   94                                                           Work at home
 672    wktm2   98                                                                Unknown
 673    wktm2   99                                                                    NIU
-674     incw    0                                                              No income
-675     incw    1                                      100-1999 ILS (New Israeli sheqel)
-676     incw    2                                                          2000-2499 ILS
-677     incw    3                                                          2500-2999 ILS
-678     incw    4                                                          3000-3999 ILS
-679     incw    5                                                          4000-4999 ILS
-680     incw    6                                                          5000-5999 ILS
-681     incw    7                                                          6000-6999 ILS
-682     incw    8                                                          7000-7999 ILS
-683     incw    9                                                          8000-8999 ILS
+674     incw   00                                                              No income
+675     incw   01                                      100-1999 ILS (New Israeli sheqel)
+676     incw   02                                                          2000-2499 ILS
+677     incw   03                                                          2500-2999 ILS
+678     incw   04                                                          3000-3999 ILS
+679     incw   05                                                          4000-4999 ILS
+680     incw   06                                                          5000-5999 ILS
+681     incw   07                                                          6000-6999 ILS
+682     incw   08                                                          7000-7999 ILS
+683     incw   09                                                          8000-8999 ILS
 684     incw   10                                                          9000-9999 ILS
 685     incw   11                                                        10000-10999 ILS
 686     incw   12                                                        11000-11999 ILS
@@ -696,16 +696,16 @@
 695     incw   21                                                             20000+ ILS
 696     incw   98                                                                Unknown
 697     incw   99                                                                    NIU
-698    incse    0                                                              No income
-699    incse    1                                      100-1999 ILS (New Israeli sheqel)
-700    incse    2                                                         2000-24999 ILS
-701    incse    3                                                          2500-2999 ILS
-702    incse    4                                                          3000-3999 ILS
-703    incse    5                                                          4000-4999 ILS
-704    incse    6                                                          5000-5999 ILS
-705    incse    7                                                          6000-6999 ILS
-706    incse    8                                                          7000-7999 ILS
-707    incse    9                                                          8000-8999 ILS
+698    incse   00                                                              No income
+699    incse   01                                      100-1999 ILS (New Israeli sheqel)
+700    incse   02                                                         2000-24999 ILS
+701    incse   03                                                          2500-2999 ILS
+702    incse   04                                                          3000-3999 ILS
+703    incse   05                                                          4000-4999 ILS
+704    incse   06                                                          5000-5999 ILS
+705    incse   07                                                          6000-6999 ILS
+706    incse   08                                                          7000-7999 ILS
+707    incse   09                                                          8000-8999 ILS
 708    incse   10                                                          9000-9999 ILS
 709    incse   11                                                        10000-10999 ILS
 710    incse   12                                                        11000-11999 ILS
@@ -728,28 +728,28 @@
 727    incin    7                                                          2000-2999 ILS
 728    incin    8                                                              3000+ ILS
 729    incin    9                                                                Unknown
-730    incnw    0                                                              No income
-731    incnw    1                                       100-250 ILS (New Israeli sheqel)
-732    incnw    2                                                            251-500 ILS
-733    incnw    3                                                            501-750 ILS
-734    incnw    4                                                           751-1000 ILS
-735    incnw    5                                                          1001-1500 ILS
-736    incnw    6                                                          1501-2000 ILS
-737    incnw    7                                                          2001-3000 ILS
-738    incnw    8                                                          3001-5000 ILS
-739    incnw    9                                                         5001-10000 ILS
+730    incnw   00                                                              No income
+731    incnw   01                                       100-250 ILS (New Israeli sheqel)
+732    incnw   02                                                            251-500 ILS
+733    incnw   03                                                            501-750 ILS
+734    incnw   04                                                           751-1000 ILS
+735    incnw   05                                                          1001-1500 ILS
+736    incnw   06                                                          1501-2000 ILS
+737    incnw   07                                                          2001-3000 ILS
+738    incnw   08                                                          3001-5000 ILS
+739    incnw   09                                                         5001-10000 ILS
 740    incnw   10                                                             10001+ ILS
 741    incnw   99                                                                Unknown
-742    inchh    0                                                              No income
-743    inchh    1                                                            100-499 ILS
-744    inchh    2                                                            500-999 ILS
-745    inchh    3                                                          1000-1499 ILS
-746    inchh    4                                                          1500-1999 ILS
-747    inchh    5                                                          2000-2499 ILS
-748    inchh    6                                                          2500-2999 ILS
-749    inchh    7                                                          3000-3999 ILS
-750    inchh    8                                                          4000-4999 ILS
-751    inchh    9                                                          5000-5999 ILS
+742    inchh   00                                                              No income
+743    inchh   01                                                            100-499 ILS
+744    inchh   02                                                            500-999 ILS
+745    inchh   03                                                          1000-1499 ILS
+746    inchh   04                                                          1500-1999 ILS
+747    inchh   05                                                          2000-2499 ILS
+748    inchh   06                                                          2500-2999 ILS
+749    inchh   07                                                          3000-3999 ILS
+750    inchh   08                                                          4000-4999 ILS
+751    inchh   09                                                          5000-5999 ILS
 752    inchh   10                                                          6000-6999 ILS
 753    inchh   11                                                          7000-7999 ILS
 754    inchh   12                                                          8000-8999 ILS
@@ -952,7 +952,7 @@
 186                                                                  Other
 187                                                                Unknown
 188                                                                    NIU
-189                                                                  HHrec
+189                                                                  hhrec
 190                                                                      1
 191                                                                      2
 192                                                                      3

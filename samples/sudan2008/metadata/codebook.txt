@@ -1,13 +1,13 @@
         vname   code                                                                             short
-1        pern      1                                                                                 1
-2        pern      2                                                                                 2
-3        pern      3                                                                                 3
-4        pern      4                                                                                 4
-5        pern      5                                                                                 5
-6        pern      6                                                                                 6
-7        pern      7                                                                                 7
-8        pern      8                                                                                 8
-9        pern      9                                                                                 9
+1        pern     01                                                                                 1
+2        pern     02                                                                                 2
+3        pern     03                                                                                 3
+4        pern     04                                                                                 4
+5        pern     05                                                                                 5
+6        pern     06                                                                                 6
+7        pern     07                                                                                 7
+8        pern     08                                                                                 8
+9        pern     09                                                                                 9
 10       pern     10                                                                                10
 11       pern     11                                                                                11
 12       pern     12                                                                                12
@@ -211,53 +211,53 @@
 210    hhtype      2                                                                            Nomads
 211    hhtype      3                                                              Internally displaced
 212    hhtype      6                                                                          Refugees
-213    dwtype      1                                                                              Tent
-214    dwtype      2                                                            Dwelling of straw mats
-215    dwtype      3                                                             Tukul /gottiya of mud
-216    dwtype      4                                                          Tukul /gottiya of sticks
-217    dwtype      5                                                                 Flat or apartment
-218    dwtype      6                                                                             Villa
-219    dwtype      7                                                           House of one floor, mud
-220    dwtype      8                                                House of one floor, brick/concrete
-221    dwtype      9                                                         House constructed of wood
+213    dwtype     01                                                                              Tent
+214    dwtype     02                                                            Dwelling of straw mats
+215    dwtype     03                                                             Tukul /gottiya of mud
+216    dwtype     04                                                          Tukul /gottiya of sticks
+217    dwtype     05                                                                 Flat or apartment
+218    dwtype     06                                                                             Villa
+219    dwtype     07                                                           House of one floor, mud
+220    dwtype     08                                                House of one floor, brick/concrete
+221    dwtype     09                                                         House constructed of wood
 222    dwtype     10                                                                 Multi-story house
 223    dwtype     11                                                                        Incomplete
-224    bedrms      1                                                                                 1
-225    bedrms      2                                                                                 2
-226    bedrms      3                                                                                 3
-227    bedrms      4                                                                                 4
-228    bedrms      5                                                                                 5
-229    bedrms      6                                                                                 6
-230    bedrms      7                                                                                 7
-231    bedrms      8                                                                                 8
-232    bedrms      9                                                                                 9
+224    bedrms     01                                                                                 1
+225    bedrms     02                                                                                 2
+226    bedrms     03                                                                                 3
+227    bedrms     04                                                                                 4
+228    bedrms     05                                                                                 5
+229    bedrms     06                                                                                 6
+230    bedrms     07                                                                                 7
+231    bedrms     08                                                                                 8
+232    bedrms     09                                                                                 9
 233    bedrms     10                                                                               10+
 234   ownrshp      1                                                                             Owned
 235   ownrshp      2                                                                            Rented
 236   ownrshp      3                                                           Housing provided by job
 237   ownrshp      4                                                                              Free
-238    watsrc      1                                       Water filtering station with common network
-239    watsrc      2                                          Mechanical boreholes with common network
-240    watsrc      3                                               Deep borehole (donkey) with network
-241    watsrc      4                                            Deep borehole (donkey) without network
-242    watsrc      5                                                                         Hand pump
-243    watsrc      6                                                   Sand filter with common network
-244    watsrc      7                                                           Shallow well (dug well)
-245    watsrc      8                                      Hafeer/Dam without filter (still open water)
-246    watsrc      9                                         Hafeer/Dam with filter (still open water)
+238    watsrc     01                                       Water filtering station with common network
+239    watsrc     02                                          Mechanical boreholes with common network
+240    watsrc     03                                               Deep borehole (donkey) with network
+241    watsrc     04                                            Deep borehole (donkey) without network
+242    watsrc     05                                                                         Hand pump
+243    watsrc     06                                                   Sand filter with common network
+244    watsrc     07                                                           Shallow well (dug well)
+245    watsrc     08                                      Hafeer/Dam without filter (still open water)
+246    watsrc     09                                         Hafeer/Dam with filter (still open water)
 247    watsrc     10                                                             Seasonal river (fula)
 248    watsrc     11                                                             River, stream (turaa)
 249    watsrc     12                                                 Water vendor (from deep borehole)
 250    watsrc     13                             Water vendor (from shallow well, pond, river, spring)
-251  lighting      1                                                                       No lighting
-252  lighting      2                                                                Public electricity
-253  lighting      3                                                   Private electricity (generator)
-254  lighting      4                                                                               Gas
-255  lighting      5                                                                  Paraffin lantern
-256  lighting      6                                                                     Paraffin lamp
-257  lighting      7                                                                          Firewood
-258  lighting      8                                                                             Grass
-259  lighting      9                                                                        Candle wax
+251  lighting     01                                                                       No lighting
+252  lighting     02                                                                Public electricity
+253  lighting     03                                                   Private electricity (generator)
+254  lighting     04                                                                               Gas
+255  lighting     05                                                                  Paraffin lantern
+256  lighting     06                                                                     Paraffin lamp
+257  lighting     07                                                                          Firewood
+258  lighting     08                                                                             Grass
+259  lighting     09                                                                        Candle wax
 260  lighting     10                                                                       Solar power
 261  lighting     11                                                                            Biogas
 262  fuelcook      1                                                                          Firewood
@@ -319,50 +319,50 @@
 318  livehood      8                                                                  Humanitarian aid
 319    cultiv      1                                                                               Yes
 320    cultiv      2                                                                                No
-321  areacult      0                                                         No cultivation/plantation
-322  areacult      1                                                                          1 feddan
-323  areacult      2                                                                         2 feddans
-324  areacult      3                                                                                 3
-325  areacult      4                                                                                 4
-326  areacult      5                                                                                 5
-327  areacult      6                                                                                 6
-328  areacult      7                                                                                 7
-329  areacult      8                                                                                 8
-330  areacult      9                                                                                 9
-331  areacult     10                                                                                10
-332  areacult     11                                                                                11
-333  areacult     12                                                                                12
-334  areacult     13                                                                                13
-335  areacult     14                                                                                14
-336  areacult     15                                                                                15
-337  areacult     16                                                                                16
-338  areacult     17                                                                                17
-339  areacult     18                                                                                18
-340  areacult     19                                                                                19
-341  areacult     20                                                                                20
-342  areacult     21                                                                                21
-343  areacult     22                                                                                22
-344  areacult     23                                                                                23
-345  areacult     24                                                                                24
-346  areacult     25                                                                                25
-347  areacult     26                                                                                26
-348  areacult     27                                                                                27
-349  areacult     28                                                                                28
-350  areacult     29                                                                                29
-351  areacult     30                                                                          30 to 34
-352  areacult     35                                                                          35 to 39
-353  areacult     40                                                                          40 to 44
-354  areacult     45                                                                          45 to 49
-355  areacult     50                                                                          50 to 54
-356  areacult     55                                                                          55 to 59
-357  areacult     60                                                                          60 to 64
-358  areacult     65                                                                          65 to 69
-359  areacult     70                                                                          70 to 74
-360  areacult     75                                                                          75 to 79
-361  areacult     80                                                                          80 to 84
-362  areacult     85                                                                          85 to 89
-363  areacult     90                                                                          90 to 94
-364  areacult     95                                                                          95 to 99
+321  areacult    000                                                         No cultivation/plantation
+322  areacult    001                                                                          1 feddan
+323  areacult    002                                                                         2 feddans
+324  areacult    003                                                                                 3
+325  areacult    004                                                                                 4
+326  areacult    005                                                                                 5
+327  areacult    006                                                                                 6
+328  areacult    007                                                                                 7
+329  areacult    008                                                                                 8
+330  areacult    009                                                                                 9
+331  areacult    010                                                                                10
+332  areacult    011                                                                                11
+333  areacult    012                                                                                12
+334  areacult    013                                                                                13
+335  areacult    014                                                                                14
+336  areacult    015                                                                                15
+337  areacult    016                                                                                16
+338  areacult    017                                                                                17
+339  areacult    018                                                                                18
+340  areacult    019                                                                                19
+341  areacult    020                                                                                20
+342  areacult    021                                                                                21
+343  areacult    022                                                                                22
+344  areacult    023                                                                                23
+345  areacult    024                                                                                24
+346  areacult    025                                                                                25
+347  areacult    026                                                                                26
+348  areacult    027                                                                                27
+349  areacult    028                                                                                28
+350  areacult    029                                                                                29
+351  areacult    030                                                                          30 to 34
+352  areacult    035                                                                          35 to 39
+353  areacult    040                                                                          40 to 44
+354  areacult    045                                                                          45 to 49
+355  areacult    050                                                                          50 to 54
+356  areacult    055                                                                          55 to 59
+357  areacult    060                                                                          60 to 64
+358  areacult    065                                                                          65 to 69
+359  areacult    070                                                                          70 to 74
+360  areacult    075                                                                          75 to 79
+361  areacult    080                                                                          80 to 84
+362  areacult    085                                                                          85 to 89
+363  areacult    090                                                                          90 to 94
+364  areacult    095                                                                          95 to 99
 365  areacult    100                                                                        100 to 109
 366  areacult    110                                                                        110 to 119
 367  areacult    120                                                                        120 to 129
@@ -461,213 +461,213 @@
 460    camels    999                                                                       999 or more
 461     sheep    999                                                                       999 or more
 462     goats    999                                                                       999 or more
-463    horses      0                                                                                 0
-464    horses      1                                                                                 1
-465    horses      2                                                                                 2
-466    horses      3                                                                                 3
-467    horses      4                                                                                 4
-468    horses      5                                                                                 5
-469    horses      6                                                                                 6
-470    horses      7                                                                                 7
-471    horses      8                                                                                 8
-472    horses      9                                                                                 9
-473    horses     10                                                                                10
-474    horses     11                                                                                11
-475    horses     12                                                                                12
-476    horses     13                                                                                13
-477    horses     14                                                                                14
-478    horses     15                                                                                15
-479    horses     16                                                                                16
-480    horses     17                                                                                17
-481    horses     18                                                                                18
-482    horses     19                                                                                19
-483    horses     20                                                                                20
-484    horses     21                                                                                21
-485    horses     22                                                                                22
-486    horses     23                                                                                23
-487    horses     24                                                                                24
-488    horses     25                                                                                25
-489    horses     26                                                                                26
-490    horses     27                                                                                27
-491    horses     28                                                                                28
-492    horses     29                                                                                29
-493    horses     30                                                                                30
-494    horses     31                                                                                31
-495    horses     32                                                                                32
-496    horses     33                                                                                33
-497    horses     34                                                                                34
-498    horses     35                                                                                35
-499    horses     37                                                                                37
-500    horses     39                                                                                39
-501    horses     40                                                                                40
-502    horses     41                                                                                41
-503    horses     42                                                                                42
-504    horses     43                                                                                43
-505    horses     44                                                                                44
-506    horses     45                                                                                45
-507    horses     48                                                                                48
-508    horses     50                                                                                50
-509    horses     51                                                                                51
-510    horses     52                                                                                52
-511    horses     53                                                                                53
-512    horses     54                                                                                54
-513    horses     55                                                                                55
-514    horses     56                                                                                56
-515    horses     59                                                                                59
-516    horses     60                                                                                60
-517    horses     61                                                                                61
-518    horses     63                                                                                63
-519    horses     65                                                                                65
-520    horses     66                                                                                66
-521    horses     69                                                                                69
-522    horses     70                                                                                70
-523    horses     71                                                                                71
-524    horses     72                                                                                72
-525    horses     73                                                                                73
-526    horses     74                                                                                74
-527    horses     75                                                                                75
-528    horses     77                                                                                77
-529    horses     78                                                                                78
-530    horses     80                                                                                80
-531    horses     82                                                                                82
-532    horses     83                                                                                83
-533    horses     86                                                                                86
-534    horses     87                                                                                87
-535    horses     88                                                                                88
-536    horses     90                                                                                90
-537    horses     91                                                                                91
-538    horses     92                                                                                92
-539    horses     93                                                                                93
-540    horses     94                                                                                94
-541    horses     95                                                                                95
-542    horses     97                                                                                97
-543    horses     98                                                                                98
-544    horses     99                                                                                99
+463    horses    000                                                                                 0
+464    horses    001                                                                                 1
+465    horses    002                                                                                 2
+466    horses    003                                                                                 3
+467    horses    004                                                                                 4
+468    horses    005                                                                                 5
+469    horses    006                                                                                 6
+470    horses    007                                                                                 7
+471    horses    008                                                                                 8
+472    horses    009                                                                                 9
+473    horses    010                                                                                10
+474    horses    011                                                                                11
+475    horses    012                                                                                12
+476    horses    013                                                                                13
+477    horses    014                                                                                14
+478    horses    015                                                                                15
+479    horses    016                                                                                16
+480    horses    017                                                                                17
+481    horses    018                                                                                18
+482    horses    019                                                                                19
+483    horses    020                                                                                20
+484    horses    021                                                                                21
+485    horses    022                                                                                22
+486    horses    023                                                                                23
+487    horses    024                                                                                24
+488    horses    025                                                                                25
+489    horses    026                                                                                26
+490    horses    027                                                                                27
+491    horses    028                                                                                28
+492    horses    029                                                                                29
+493    horses    030                                                                                30
+494    horses    031                                                                                31
+495    horses    032                                                                                32
+496    horses    033                                                                                33
+497    horses    034                                                                                34
+498    horses    035                                                                                35
+499    horses    037                                                                                37
+500    horses    039                                                                                39
+501    horses    040                                                                                40
+502    horses    041                                                                                41
+503    horses    042                                                                                42
+504    horses    043                                                                                43
+505    horses    044                                                                                44
+506    horses    045                                                                                45
+507    horses    048                                                                                48
+508    horses    050                                                                                50
+509    horses    051                                                                                51
+510    horses    052                                                                                52
+511    horses    053                                                                                53
+512    horses    054                                                                                54
+513    horses    055                                                                                55
+514    horses    056                                                                                56
+515    horses    059                                                                                59
+516    horses    060                                                                                60
+517    horses    061                                                                                61
+518    horses    063                                                                                63
+519    horses    065                                                                                65
+520    horses    066                                                                                66
+521    horses    069                                                                                69
+522    horses    070                                                                                70
+523    horses    071                                                                                71
+524    horses    072                                                                                72
+525    horses    073                                                                                73
+526    horses    074                                                                                74
+527    horses    075                                                                                75
+528    horses    077                                                                                77
+529    horses    078                                                                                78
+530    horses    080                                                                                80
+531    horses    082                                                                                82
+532    horses    083                                                                                83
+533    horses    086                                                                                86
+534    horses    087                                                                                87
+535    horses    088                                                                                88
+536    horses    090                                                                                90
+537    horses    091                                                                                91
+538    horses    092                                                                                92
+539    horses    093                                                                                93
+540    horses    094                                                                                94
+541    horses    095                                                                                95
+542    horses    097                                                                                97
+543    horses    098                                                                                98
+544    horses    099                                                                                99
 545    horses    100                                                                              100+
-546   donkeys      0                                                                                 0
-547   donkeys      1                                                                                 1
-548   donkeys      2                                                                                 2
-549   donkeys      3                                                                                 3
-550   donkeys      4                                                                                 4
-551   donkeys      5                                                                                 5
-552   donkeys      6                                                                                 6
-553   donkeys      7                                                                                 7
-554   donkeys      8                                                                                 8
-555   donkeys      9                                                                                 9
-556   donkeys     10                                                                                10
-557   donkeys     11                                                                                11
-558   donkeys     12                                                                                12
-559   donkeys     13                                                                                13
-560   donkeys     14                                                                                14
-561   donkeys     15                                                                                15
-562   donkeys     16                                                                                16
-563   donkeys     17                                                                                17
-564   donkeys     18                                                                                18
-565   donkeys     19                                                                                19
-566   donkeys     20                                                                                20
-567   donkeys     21                                                                                21
-568   donkeys     22                                                                                22
-569   donkeys     23                                                                                23
-570   donkeys     24                                                                                24
-571   donkeys     25                                                                                25
-572   donkeys     26                                                                                26
-573   donkeys     27                                                                                27
-574   donkeys     28                                                                                28
-575   donkeys     29                                                                                29
-576   donkeys     30                                                                                30
-577   donkeys     31                                                                                31
-578   donkeys     32                                                                                32
-579   donkeys     33                                                                                33
-580   donkeys     34                                                                                34
-581   donkeys     35                                                                                35
-582   donkeys     36                                                                                36
-583   donkeys     37                                                                                37
-584   donkeys     38                                                                                38
-585   donkeys     40                                                                                40
-586   donkeys     41                                                                                41
-587   donkeys     42                                                                                42
-588   donkeys     43                                                                                43
-589   donkeys     44                                                                                44
-590   donkeys     45                                                                                45
-591   donkeys     46                                                                                46
-592   donkeys     47                                                                                47
-593   donkeys     48                                                                                48
-594   donkeys     49                                                                                49
-595   donkeys     50                                                                                50
-596   donkeys     51                                                                                51
-597   donkeys     52                                                                                52
-598   donkeys     53                                                                                53
-599   donkeys     54                                                                                54
-600   donkeys     55                                                                                55
-601   donkeys     56                                                                                56
-602   donkeys     57                                                                                57
-603   donkeys     58                                                                                58
-604   donkeys     60                                                                                60
-605   donkeys     61                                                                                61
-606   donkeys     62                                                                                62
-607   donkeys     63                                                                                63
-608   donkeys     64                                                                                64
-609   donkeys     65                                                                                65
-610   donkeys     66                                                                                66
-611   donkeys     67                                                                                67
-612   donkeys     69                                                                                69
-613   donkeys     70                                                                                70
-614   donkeys     71                                                                                71
-615   donkeys     72                                                                                72
-616   donkeys     73                                                                                73
-617   donkeys     74                                                                                74
-618   donkeys     75                                                                                75
-619   donkeys     76                                                                                76
-620   donkeys     77                                                                                77
-621   donkeys     80                                                                                80
-622   donkeys     81                                                                                81
-623   donkeys     82                                                                                82
-624   donkeys     85                                                                                85
-625   donkeys     86                                                                                86
-626   donkeys     87                                                                                87
-627   donkeys     88                                                                                88
-628   donkeys     89                                                                                89
-629   donkeys     90                                                                                90
-630   donkeys     92                                                                                92
-631   donkeys     93                                                                                93
-632   donkeys     94                                                                                94
-633   donkeys     95                                                                                95
-634   donkeys     96                                                                                96
-635   donkeys     97                                                                                97
-636   donkeys     98                                                                                98
-637   donkeys     99                                                                                99
+546   donkeys    000                                                                                 0
+547   donkeys    001                                                                                 1
+548   donkeys    002                                                                                 2
+549   donkeys    003                                                                                 3
+550   donkeys    004                                                                                 4
+551   donkeys    005                                                                                 5
+552   donkeys    006                                                                                 6
+553   donkeys    007                                                                                 7
+554   donkeys    008                                                                                 8
+555   donkeys    009                                                                                 9
+556   donkeys    010                                                                                10
+557   donkeys    011                                                                                11
+558   donkeys    012                                                                                12
+559   donkeys    013                                                                                13
+560   donkeys    014                                                                                14
+561   donkeys    015                                                                                15
+562   donkeys    016                                                                                16
+563   donkeys    017                                                                                17
+564   donkeys    018                                                                                18
+565   donkeys    019                                                                                19
+566   donkeys    020                                                                                20
+567   donkeys    021                                                                                21
+568   donkeys    022                                                                                22
+569   donkeys    023                                                                                23
+570   donkeys    024                                                                                24
+571   donkeys    025                                                                                25
+572   donkeys    026                                                                                26
+573   donkeys    027                                                                                27
+574   donkeys    028                                                                                28
+575   donkeys    029                                                                                29
+576   donkeys    030                                                                                30
+577   donkeys    031                                                                                31
+578   donkeys    032                                                                                32
+579   donkeys    033                                                                                33
+580   donkeys    034                                                                                34
+581   donkeys    035                                                                                35
+582   donkeys    036                                                                                36
+583   donkeys    037                                                                                37
+584   donkeys    038                                                                                38
+585   donkeys    040                                                                                40
+586   donkeys    041                                                                                41
+587   donkeys    042                                                                                42
+588   donkeys    043                                                                                43
+589   donkeys    044                                                                                44
+590   donkeys    045                                                                                45
+591   donkeys    046                                                                                46
+592   donkeys    047                                                                                47
+593   donkeys    048                                                                                48
+594   donkeys    049                                                                                49
+595   donkeys    050                                                                                50
+596   donkeys    051                                                                                51
+597   donkeys    052                                                                                52
+598   donkeys    053                                                                                53
+599   donkeys    054                                                                                54
+600   donkeys    055                                                                                55
+601   donkeys    056                                                                                56
+602   donkeys    057                                                                                57
+603   donkeys    058                                                                                58
+604   donkeys    060                                                                                60
+605   donkeys    061                                                                                61
+606   donkeys    062                                                                                62
+607   donkeys    063                                                                                63
+608   donkeys    064                                                                                64
+609   donkeys    065                                                                                65
+610   donkeys    066                                                                                66
+611   donkeys    067                                                                                67
+612   donkeys    069                                                                                69
+613   donkeys    070                                                                                70
+614   donkeys    071                                                                                71
+615   donkeys    072                                                                                72
+616   donkeys    073                                                                                73
+617   donkeys    074                                                                                74
+618   donkeys    075                                                                                75
+619   donkeys    076                                                                                76
+620   donkeys    077                                                                                77
+621   donkeys    080                                                                                80
+622   donkeys    081                                                                                81
+623   donkeys    082                                                                                82
+624   donkeys    085                                                                                85
+625   donkeys    086                                                                                86
+626   donkeys    087                                                                                87
+627   donkeys    088                                                                                88
+628   donkeys    089                                                                                89
+629   donkeys    090                                                                                90
+630   donkeys    092                                                                                92
+631   donkeys    093                                                                                93
+632   donkeys    094                                                                                94
+633   donkeys    095                                                                                95
+634   donkeys    096                                                                                96
+635   donkeys    097                                                                                97
+636   donkeys    098                                                                                98
+637   donkeys    099                                                                                99
 638   donkeys    100                                                                              100+
-639      pigs      0                                                                                 0
-640      pigs      1                                                                                 1
-641      pigs      2                                                                                 2
-642      pigs      3                                                                                 3
-643      pigs      4                                                                                 4
-644      pigs      5                                                                                 5
-645      pigs      6                                                                                 6
-646      pigs      7                                                                                 7
-647      pigs      8                                                                                 8
-648      pigs      9                                                                                 9
-649      pigs     10                                                                                10
-650      pigs     11                                                                                11
-651      pigs     12                                                                                12
-652      pigs     13                                                                                13
-653      pigs     14                                                                                14
-654      pigs     15                                                                                15
-655      pigs     16                                                                                16
-656      pigs     17                                                                                17
-657      pigs     18                                                                                18
-658      pigs     19                                                                                19
-659      pigs     20                                                                                20
-660      pigs     21                                                                                21
-661      pigs     22                                                                                22
-662      pigs     23                                                                                23
-663      pigs     24                                                                                24
-664      pigs     25                                                                                25
-665      pigs     26                                                                                26
-666      pigs     27                                                                                27
-667      pigs     28                                                                                28
-668      pigs     29                                                                                29
-669      pigs     30                                                                               30+
+639      pigs    000                                                                                 0
+640      pigs    001                                                                                 1
+641      pigs    002                                                                                 2
+642      pigs    003                                                                                 3
+643      pigs    004                                                                                 4
+644      pigs    005                                                                                 5
+645      pigs    006                                                                                 6
+646      pigs    007                                                                                 7
+647      pigs    008                                                                                 8
+648      pigs    009                                                                                 9
+649      pigs    010                                                                                10
+650      pigs    011                                                                                11
+651      pigs    012                                                                                12
+652      pigs    013                                                                                13
+653      pigs    014                                                                                14
+654      pigs    015                                                                                15
+655      pigs    016                                                                                16
+656      pigs    017                                                                                17
+657      pigs    018                                                                                18
+658      pigs    019                                                                                19
+659      pigs    020                                                                                20
+660      pigs    021                                                                                21
+661      pigs    022                                                                                22
+662      pigs    023                                                                                23
+663      pigs    024                                                                                24
+664      pigs    025                                                                                25
+665      pigs    026                                                                                26
+666      pigs    027                                                                                27
+667      pigs    028                                                                                28
+668      pigs    029                                                                                29
+669      pigs    030                                                                               30+
 670   poultry    999                                                                       999 or more
 671    deaths      1                                                                               Yes
 672    deaths      2                                                                                No
@@ -1022,24 +1022,24 @@
 1021  qdeaths      4                                                             Imputation from blank
 1022  qdeaths      5                                                   Imputation from valid non-blank
 1023  qdeaths      6                                                 Imputation from invalid non-blank
-1024     hhwt  10035                                                                             10035
-1025     hhwt  10040                                                                             10040
-1026     hhwt  10056                                                                             10056
-1027     hhwt  10082                                                                             10082
-1028     hhwt  10093                                                                             10093
-1029     hhwt  10096                                                                             10096
-1030     hhwt  10150                                                                             10150
-1031     hhwt  10175                                                                             10175
-1032     hhwt  10186                                                                             10186
-1033     hhwt  10218                                                                             10218
-1034     hhwt  10223                                                                             10223
-1035     hhwt  10336                                                                             10336
-1036     hhwt  10400                                                                             10400
-1037     hhwt  48113                                                                             48113
-1038     hhwt  86388                                                                             86388
-1039     hhwt  96343                                                                             96343
-1040     hhwt  96774                                                                             96774
-1041     hhwt  97151                                                                             97151
+1024     hhwt 010035                                                                             10035
+1025     hhwt 010040                                                                             10040
+1026     hhwt 010056                                                                             10056
+1027     hhwt 010082                                                                             10082
+1028     hhwt 010093                                                                             10093
+1029     hhwt 010096                                                                             10096
+1030     hhwt 010150                                                                             10150
+1031     hhwt 010175                                                                             10175
+1032     hhwt 010186                                                                             10186
+1033     hhwt 010218                                                                             10218
+1034     hhwt 010223                                                                             10223
+1035     hhwt 010336                                                                             10336
+1036     hhwt 010400                                                                             10400
+1037     hhwt 048113                                                                             48113
+1038     hhwt 086388                                                                             86388
+1039     hhwt 096343                                                                             96343
+1040     hhwt 096774                                                                             96774
+1041     hhwt 097151                                                                             97151
 1042     hhwt 102072                                                                            102072
 1043     hhwt 102622                                                                            102622
 1044     hhwt 103453                                                                            103453
@@ -1074,16 +1074,16 @@
 1073  ndeaths      5                                                                                 5
 1074  ndeaths      6                                                                                 6
 1075  ndeaths      7                                                                                7+
-1076   pernum      0                                                                             HHrec
-1077   pernum      1                                                                                 1
-1078   pernum      2                                                                                 2
-1079   pernum      3                                                                                 3
-1080   pernum      4                                                                                 4
-1081   pernum      5                                                                                 5
-1082   pernum      6                                                                                 6
-1083   pernum      7                                                                                 7
-1084   pernum      8                                                                                 8
-1085   pernum      9                                                                                 9
+1076   pernum     00                                                                             hhrec
+1077   pernum     01                                                                                 1
+1078   pernum     02                                                                                 2
+1079   pernum     03                                                                                 3
+1080   pernum     04                                                                                 4
+1081   pernum     05                                                                                 5
+1082   pernum     06                                                                                 6
+1083   pernum     07                                                                                 7
+1084   pernum     08                                                                                 8
+1085   pernum     09                                                                                 9
 1086   pernum     10                                                                                10
 1087   pernum     11                                                                                11
 1088   pernum     12                                                                                12
@@ -1125,28 +1125,28 @@
 1124   pernum     48                                                                                48
 1125   pernum     49                                                                                49
 1126   pernum     50                                                                                50
-1127   relate      1                                                                              Head
-1128   relate      2                                                                            Spouse
-1129   relate      3                                                                      Daughter/son
-1130   relate      4                                                            Spouse of son/daughter
-1131   relate      5                                                                        Grandchild
-1132   relate      6                                                                      Niece/nephew
-1133   relate      7                                                              Parent/parent in-law
-1134   relate      8                                                            Sibling/sibling-in-law
-1135   relate      9                                                                    Other relative
+1127   relate     01                                                                              Head
+1128   relate     02                                                                            Spouse
+1129   relate     03                                                                      Daughter/son
+1130   relate     04                                                            Spouse of son/daughter
+1131   relate     05                                                                        Grandchild
+1132   relate     06                                                                      Niece/nephew
+1133   relate     07                                                              Parent/parent in-law
+1134   relate     08                                                            Sibling/sibling-in-law
+1135   relate     09                                                                    Other relative
 1136   relate     10                                                                      Non-relative
 1137      sex      1                                                                              Male
 1138      sex      2                                                                            Female
-1139      age      0                                                                                 0
-1140      age      1                                                                                 1
-1141      age      2                                                                                 2
-1142      age      3                                                                                 3
-1143      age      4                                                                                 4
-1144      age      5                                                                                 5
-1145      age      6                                                                                 6
-1146      age      7                                                                                 7
-1147      age      8                                                                                 8
-1148      age      9                                                                                 9
+1139      age     00                                                                                 0
+1140      age     01                                                                                 1
+1141      age     02                                                                                 2
+1142      age     03                                                                                 3
+1143      age     04                                                                                 4
+1144      age     05                                                                                 5
+1145      age     06                                                                                 6
+1146      age     07                                                                                 7
+1147      age     08                                                                                 8
+1148      age     09                                                                                 9
 1149      age     10                                                                                10
 1150      age     11                                                                                11
 1151      age     12                                                                                12
@@ -1233,15 +1233,15 @@
 1232      age     93                                                                                93
 1233      age     94                                                                                94
 1234      age     95                                                                95 years and above
-1235   nation      1                                                                          Sudanese
-1236   nation      2                                                                          Egyptian
-1237   nation      3                                                                            Libyan
-1238   nation      4                                                                          Eritrean
-1239   nation      5                                                                         Ethiopian
-1240   nation      6                                                                           Ugandan
-1241   nation      7                                                                            Kenyan
-1242   nation      8                                                                   Congolese - DRC
-1243   nation      9                                                                           Chadian
+1235   nation     01                                                                          Sudanese
+1236   nation     02                                                                          Egyptian
+1237   nation     03                                                                            Libyan
+1238   nation     04                                                                          Eritrean
+1239   nation     05                                                                         Ethiopian
+1240   nation     06                                                                           Ugandan
+1241   nation     07                                                                            Kenyan
+1242   nation     08                                                                   Congolese - DRC
+1243   nation     09                                                                           Chadian
 1244   nation     10                                                                   Central African
 1245   nation     11                                                                          Nigerian
 1246   nation     12                                                                            Malian
@@ -1251,15 +1251,15 @@
 1250 reggroup      1                                                                 Northern Sudanese
 1251 reggroup      2                                                                 Southern Sudanese
 1252 reggroup      3                                                                      Non-Sudanese
-1253 orregion      1                                                                          Northern
-1254 orregion      2                                                                           Eastern
-1255 orregion      3                                                                          Khartoum
-1256 orregion      4                                                                           Central
-1257 orregion      5                                                                          Kordofan
-1258 orregion      6                                                                            Darfur
-1259 orregion      7                                                                        Upper Nile
-1260 orregion      8                                                                    Bahr El Ghazal
-1261 orregion      9                                                                         Equatoria
+1253 orregion     01                                                                          Northern
+1254 orregion     02                                                                           Eastern
+1255 orregion     03                                                                          Khartoum
+1256 orregion     04                                                                           Central
+1257 orregion     05                                                                          Kordofan
+1258 orregion     06                                                                            Darfur
+1259 orregion     07                                                                        Upper Nile
+1260 orregion     08                                                                    Bahr El Ghazal
+1261 orregion     09                                                                         Equatoria
 1262 orregion     10                                                                         Not Sudan
 1263 orregion     11                                                                           Unknown
 1264 bplstate     11                                                                          Northern
@@ -1314,16 +1314,16 @@
 1313   ustate     92                                                                 Central Equatoria
 1314   ustate     93                                                                 Eastern Equatoria
 1315   ustate     99                                                                            Abroad
-1316   durres      0                                                                                 0
-1317   durres      1                                                                                 1
-1318   durres      2                                                                                 2
-1319   durres      3                                                                                 3
-1320   durres      4                                                                                 4
-1321   durres      5                                                                                 5
-1322   durres      6                                                                                 6
-1323   durres      7                                                                                 7
-1324   durres      8                                                                                 8
-1325   durres      9                                                                                 9
+1316   durres     00                                                                                 0
+1317   durres     01                                                                                 1
+1318   durres     02                                                                                 2
+1319   durres     03                                                                                 3
+1320   durres     04                                                                                 4
+1321   durres     05                                                                                 5
+1322   durres     06                                                                                 6
+1323   durres     07                                                                                 7
+1324   durres     08                                                                                 8
+1325   durres     09                                                                                 9
 1326   durres     10                                                                                10
 1327   durres     11                                                                                11
 1328   durres     12                                                                                12
@@ -1465,15 +1465,15 @@
 1464   school      2                                                               Previously attended
 1465   school      3                                                                    Never attended
 1466   school      9                                                                               NIU
-1467   attend      1                                                                                P1
-1468   attend      2                                                                                P2
-1469   attend      3                                                                                P3
-1470   attend      4                                                                                P4
-1471   attend      5                                                                                P5
-1472   attend      6                                                                                P6
-1473   attend      7                                                                                P7
-1474   attend      8                                                                                P8
-1475   attend      9                                                                                S1
+1467   attend     01                                                                                P1
+1468   attend     02                                                                                P2
+1469   attend     03                                                                                P3
+1470   attend     04                                                                                P4
+1471   attend     05                                                                                P5
+1472   attend     06                                                                                P6
+1473   attend     07                                                                                P7
+1474   attend     08                                                                                P8
+1475   attend     09                                                                                S1
 1476   attend     10                                                                                S2
 1477   attend     11                                                                                S3
 1478   attend     12                                                                                S4
@@ -1486,15 +1486,15 @@
 1485   attend     19                                                                       PhD program
 1486   attend     98                                                                           Unknown
 1487   attend     99                                                                               NIU
-1488 edattain      1                                                                  No qualification
-1489 edattain      2                                                                Incomplete primary
-1490 edattain      3                                                                         Primary 4
-1491 edattain      4                                                                         Primary 6
-1492 edattain      5                                                                         Primary 8
-1493 edattain      6                                                                          Junior 3
-1494 edattain      7                                                                          Junior 4
-1495 edattain      8                                                                       Secondary 3
-1496 edattain      9                                                                       Secondary 4
+1488 edattain     01                                                                  No qualification
+1489 edattain     02                                                                Incomplete primary
+1490 edattain     03                                                                         Primary 4
+1491 edattain     04                                                                         Primary 6
+1492 edattain     05                                                                         Primary 8
+1493 edattain     06                                                                          Junior 3
+1494 edattain     07                                                                          Junior 4
+1495 edattain     08                                                                       Secondary 3
+1496 edattain     09                                                                       Secondary 4
 1497 edattain     10                                                                       Secondary 5
 1498 edattain     11                                                                       Secondary 6
 1499 edattain     12                                                            Post-secondary diploma
@@ -1520,9 +1520,9 @@
 1519   reason      7                                                                 Pensioner/retired
 1520   reason      8                                                                           Unknown
 1521   reason      9                                                                               NIU
-1522      occ      1                                                Commissioned armed forces officers
-1523      occ      2                                            Non-commissioned armed forces officers
-1524      occ      3                                             Armed forces occupations, other ranks
+1522      occ     01                                                Commissioned armed forces officers
+1523      occ     02                                            Non-commissioned armed forces officers
+1524      occ     03                                             Armed forces occupations, other ranks
 1525      occ     11                                 Chief executives senior officials and legislators
 1526      occ     12                                            Administrative and commercial managers
 1527      occ     13                                      Production and specialized services managers
@@ -1569,94 +1569,94 @@
 1568    marst      3                                                                           Widowed
 1569    marst      4                                                                          Divorced
 1570    marst      9                                                                               NIU
-1571  chbornf      0                                                                                 0
-1572  chbornf      1                                                                                 1
-1573  chbornf      2                                                                                 2
-1574  chbornf      3                                                                                 3
-1575  chbornf      4                                                                                 4
-1576  chbornf      5                                                                                 5
-1577  chbornf      6                                                                                 6
-1578  chbornf      7                                                                                 7
-1579  chbornf      8                                                                                 8
-1580  chbornf      9                                                                                 9
+1571  chbornf     00                                                                                 0
+1572  chbornf     01                                                                                 1
+1573  chbornf     02                                                                                 2
+1574  chbornf     03                                                                                 3
+1575  chbornf     04                                                                                 4
+1576  chbornf     05                                                                                 5
+1577  chbornf     06                                                                                 6
+1578  chbornf     07                                                                                 7
+1579  chbornf     08                                                                                 8
+1580  chbornf     09                                                                                 9
 1581  chbornf     10                                                                                10
 1582  chbornf     11                                                                                11
 1583  chbornf     12                                                                                12
 1584  chbornf     13                                                                                13
 1585  chbornf     14                                                                               14+
 1586  chbornf     99                                                                               NIU
-1587  homemal      0                                                                                 0
-1588  homemal      1                                                                                 1
-1589  homemal      2                                                                                 2
-1590  homemal      3                                                                                 3
-1591  homemal      4                                                                                 4
-1592  homemal      5                                                                                 5
-1593  homemal      6                                                                                 6
-1594  homemal      7                                                                                 7
-1595  homemal      8                                                                                 8
-1596  homemal      9                                                                                 9
+1587  homemal     00                                                                                 0
+1588  homemal     01                                                                                 1
+1589  homemal     02                                                                                 2
+1590  homemal     03                                                                                 3
+1591  homemal     04                                                                                 4
+1592  homemal     05                                                                                 5
+1593  homemal     06                                                                                 6
+1594  homemal     07                                                                                 7
+1595  homemal     08                                                                                 8
+1596  homemal     09                                                                                 9
 1597  homemal     10                                                                                10
 1598  homemal     11                                                                                11
 1599  homemal     12                                                                               12+
 1600  homemal     99                                                                               NIU
-1601  homefem      0                                                                                 0
-1602  homefem      1                                                                                 1
-1603  homefem      2                                                                                 2
-1604  homefem      3                                                                                 3
-1605  homefem      4                                                                                 4
-1606  homefem      5                                                                                 5
-1607  homefem      6                                                                                 6
-1608  homefem      7                                                                                 7
-1609  homefem      8                                                                                 8
-1610  homefem      9                                                                                 9
+1601  homefem     00                                                                                 0
+1602  homefem     01                                                                                 1
+1603  homefem     02                                                                                 2
+1604  homefem     03                                                                                 3
+1605  homefem     04                                                                                 4
+1606  homefem     05                                                                                 5
+1607  homefem     06                                                                                 6
+1608  homefem     07                                                                                 7
+1609  homefem     08                                                                                 8
+1610  homefem     09                                                                                 9
 1611  homefem     10                                                                               10+
 1612  homefem     99                                                                               NIU
-1613  awaymal      0                                                                                 0
-1614  awaymal      1                                                                                 1
-1615  awaymal      2                                                                                 2
-1616  awaymal      3                                                                                 3
-1617  awaymal      4                                                                                 4
-1618  awaymal      5                                                                                 5
-1619  awaymal      6                                                                                 6
-1620  awaymal      7                                                                                 7
-1621  awaymal      8                                                                                 8
-1622  awaymal      9                                                                                 9
+1613  awaymal     00                                                                                 0
+1614  awaymal     01                                                                                 1
+1615  awaymal     02                                                                                 2
+1616  awaymal     03                                                                                 3
+1617  awaymal     04                                                                                 4
+1618  awaymal     05                                                                                 5
+1619  awaymal     06                                                                                 6
+1620  awaymal     07                                                                                 7
+1621  awaymal     08                                                                                 8
+1622  awaymal     09                                                                                 9
 1623  awaymal     10                                                                               10+
 1624  awaymal     99                                                                               NIU
-1625  awayfem      0                                                                                 0
-1626  awayfem      1                                                                                 1
-1627  awayfem      2                                                                                 2
-1628  awayfem      3                                                                                 3
-1629  awayfem      4                                                                                 4
-1630  awayfem      5                                                                                 5
-1631  awayfem      6                                                                                 6
-1632  awayfem      7                                                                                 7
-1633  awayfem      8                                                                                 8
-1634  awayfem      9                                                                                 9
+1625  awayfem     00                                                                                 0
+1626  awayfem     01                                                                                 1
+1627  awayfem     02                                                                                 2
+1628  awayfem     03                                                                                 3
+1629  awayfem     04                                                                                 4
+1630  awayfem     05                                                                                 5
+1631  awayfem     06                                                                                 6
+1632  awayfem     07                                                                                 7
+1633  awayfem     08                                                                                 8
+1634  awayfem     09                                                                                 9
 1635  awayfem     10                                                                               10+
 1636  awayfem     99                                                                               NIU
-1637  deadmal      0                                                                                 0
-1638  deadmal      1                                                                                 1
-1639  deadmal      2                                                                                 2
-1640  deadmal      3                                                                                 3
-1641  deadmal      4                                                                                 4
-1642  deadmal      5                                                                                 5
-1643  deadmal      6                                                                                 6
-1644  deadmal      7                                                                                 7
-1645  deadmal      8                                                                                 8
-1646  deadmal      9                                                                                 9
+1637  deadmal     00                                                                                 0
+1638  deadmal     01                                                                                 1
+1639  deadmal     02                                                                                 2
+1640  deadmal     03                                                                                 3
+1641  deadmal     04                                                                                 4
+1642  deadmal     05                                                                                 5
+1643  deadmal     06                                                                                 6
+1644  deadmal     07                                                                                 7
+1645  deadmal     08                                                                                 8
+1646  deadmal     09                                                                                 9
 1647  deadmal     10                                                                               10+
 1648  deadmal     99                                                                               NIU
-1649  deadfem      0                                                                                 0
-1650  deadfem      1                                                                                 1
-1651  deadfem      2                                                                                 2
-1652  deadfem      3                                                                                 3
-1653  deadfem      4                                                                                 4
-1654  deadfem      5                                                                                 5
-1655  deadfem      6                                                                                 6
-1656  deadfem      7                                                                                 7
-1657  deadfem      8                                                                                 8
-1658  deadfem      9                                                                                 9
+1649  deadfem     00                                                                                 0
+1650  deadfem     01                                                                                 1
+1651  deadfem     02                                                                                 2
+1652  deadfem     03                                                                                 3
+1653  deadfem     04                                                                                 4
+1654  deadfem     05                                                                                 5
+1655  deadfem     06                                                                                 6
+1656  deadfem     07                                                                                 7
+1657  deadfem     08                                                                                 8
+1658  deadfem     09                                                                                 9
 1659  deadfem     10                                                                               10+
 1660  deadfem     99                                                                               NIU
 1661   births      1                                                                               Yes
@@ -1935,16 +1935,16 @@
 1934 qlivbthf      4                                                             Imputation from blank
 1935 qlivbthf      5                                                   Imputation from valid non-blank
 1936 qlivbthf      6                                                 Imputation from invalid non-blank
-1937   chhome      0                                                                                 0
-1938   chhome      1                                                                                 1
-1939   chhome      2                                                                                 2
-1940   chhome      3                                                                                 3
-1941   chhome      4                                                                                 4
-1942   chhome      5                                                                                 5
-1943   chhome      6                                                                                 6
-1944   chhome      7                                                                                 7
-1945   chhome      8                                                                                 8
-1946   chhome      9                                                                                 9
+1937   chhome     00                                                                                 0
+1938   chhome     01                                                                                 1
+1939   chhome     02                                                                                 2
+1940   chhome     03                                                                                 3
+1941   chhome     04                                                                                 4
+1942   chhome     05                                                                                 5
+1943   chhome     06                                                                                 6
+1944   chhome     07                                                                                 7
+1945   chhome     08                                                                                 8
+1946   chhome     09                                                                                 9
 1947   chhome     10                                                                                10
 1948   chhome     11                                                                                11
 1949   chhome     12                                                                                12
@@ -1952,45 +1952,45 @@
 1951   chhome     14                                                                                14
 1952   chhome     15                                                                               15+
 1953   chhome     99                                                                               NIU
-1954   chaway      0                                                                                 0
-1955   chaway      1                                                                                 1
-1956   chaway      2                                                                                 2
-1957   chaway      3                                                                                 3
-1958   chaway      4                                                                                 4
-1959   chaway      5                                                                                 5
-1960   chaway      6                                                                                 6
-1961   chaway      7                                                                                 7
-1962   chaway      8                                                                                 8
-1963   chaway      9                                                                                 9
+1954   chaway     00                                                                                 0
+1955   chaway     01                                                                                 1
+1956   chaway     02                                                                                 2
+1957   chaway     03                                                                                 3
+1958   chaway     04                                                                                 4
+1959   chaway     05                                                                                 5
+1960   chaway     06                                                                                 6
+1961   chaway     07                                                                                 7
+1962   chaway     08                                                                                 8
+1963   chaway     09                                                                                 9
 1964   chaway     10                                                                                10
 1965   chaway     11                                                                                11
 1966   chaway     12                                                                                12
 1967   chaway     13                                                                               13+
 1968   chaway     99                                                                               NIU
-1969   chdead      0                                                                                 0
-1970   chdead      1                                                                                 1
-1971   chdead      2                                                                                 2
-1972   chdead      3                                                                                 3
-1973   chdead      4                                                                                 4
-1974   chdead      5                                                                                 5
-1975   chdead      6                                                                                 6
-1976   chdead      7                                                                                 7
-1977   chdead      8                                                                                 8
-1978   chdead      9                                                                                 9
+1969   chdead     00                                                                                 0
+1970   chdead     01                                                                                 1
+1971   chdead     02                                                                                 2
+1972   chdead     03                                                                                 3
+1973   chdead     04                                                                                 4
+1974   chdead     05                                                                                 5
+1975   chdead     06                                                                                 6
+1976   chdead     07                                                                                 7
+1977   chdead     08                                                                                 8
+1978   chdead     09                                                                                 9
 1979   chdead     10                                                                                10
 1980   chdead     11                                                                                11
 1981   chdead     12                                                                               12+
 1982   chdead     99                                                                               NIU
-1983   chborn      0                                                                                 0
-1984   chborn      1                                                                                 1
-1985   chborn      2                                                                                 2
-1986   chborn      3                                                                                 3
-1987   chborn      4                                                                                 4
-1988   chborn      5                                                                                 5
-1989   chborn      6                                                                                 6
-1990   chborn      7                                                                                 7
-1991   chborn      8                                                                                 8
-1992   chborn      9                                                                                 9
+1983   chborn     00                                                                                 0
+1984   chborn     01                                                                                 1
+1985   chborn     02                                                                                 2
+1986   chborn     03                                                                                 3
+1987   chborn     04                                                                                 4
+1988   chborn     05                                                                                 5
+1989   chborn     06                                                                                 6
+1990   chborn     07                                                                                 7
+1991   chborn     08                                                                                 8
+1992   chborn     09                                                                                 9
 1993   chborn     10                                                                                10
 1994   chborn     11                                                                                11
 1995   chborn     12                                                                                12
@@ -2004,16 +2004,16 @@
 2003   chborn     20                                                                                20
 2004   chborn     21                                                                                21
 2005   chborn     99                                                                               NIU
-2006   chsurv      0                                                                                 0
-2007   chsurv      1                                                                                 1
-2008   chsurv      2                                                                                 2
-2009   chsurv      3                                                                                 3
-2010   chsurv      4                                                                                 4
-2011   chsurv      5                                                                                 5
-2012   chsurv      6                                                                                 6
-2013   chsurv      7                                                                                 7
-2014   chsurv      8                                                                                 8
-2015   chsurv      9                                                                                 9
+2006   chsurv     00                                                                                 0
+2007   chsurv     01                                                                                 1
+2008   chsurv     02                                                                                 2
+2009   chsurv     03                                                                                 3
+2010   chsurv     04                                                                                 4
+2011   chsurv     05                                                                                 5
+2012   chsurv     06                                                                                 6
+2013   chsurv     07                                                                                 7
+2014   chsurv     08                                                                                 8
+2015   chsurv     09                                                                                 9
 2016   chsurv     10                                                                                10
 2017   chsurv     11                                                                                11
 2018   chsurv     12                                                                                12
@@ -2024,32 +2024,32 @@
 2023   chsurv     17                                                                                17
 2024   chsurv     18                                                                               18+
 2025   chsurv     99                                                                               NIU
-2026  chsurvm      0                                                                                 0
-2027  chsurvm      1                                                                                 1
-2028  chsurvm      2                                                                                 2
-2029  chsurvm      3                                                                                 3
-2030  chsurvm      4                                                                                 4
-2031  chsurvm      5                                                                                 5
-2032  chsurvm      6                                                                                 6
-2033  chsurvm      7                                                                                 7
-2034  chsurvm      8                                                                                 8
-2035  chsurvm      9                                                                                 9
+2026  chsurvm     00                                                                                 0
+2027  chsurvm     01                                                                                 1
+2028  chsurvm     02                                                                                 2
+2029  chsurvm     03                                                                                 3
+2030  chsurvm     04                                                                                 4
+2031  chsurvm     05                                                                                 5
+2032  chsurvm     06                                                                                 6
+2033  chsurvm     07                                                                                 7
+2034  chsurvm     08                                                                                 8
+2035  chsurvm     09                                                                                 9
 2036  chsurvm     10                                                                                10
 2037  chsurvm     11                                                                                11
 2038  chsurvm     12                                                                                12
 2039  chsurvm     13                                                                                13
 2040  chsurvm     14                                                                               14+
 2041  chsurvm     99                                                                               NIU
-2042  chsurvf      0                                                                                 0
-2043  chsurvf      1                                                                                 1
-2044  chsurvf      2                                                                                 2
-2045  chsurvf      3                                                                                 3
-2046  chsurvf      4                                                                                 4
-2047  chsurvf      5                                                                                 5
-2048  chsurvf      6                                                                                 6
-2049  chsurvf      7                                                                                 7
-2050  chsurvf      8                                                                                 8
-2051  chsurvf      9                                                                                 9
+2042  chsurvf     00                                                                                 0
+2043  chsurvf     01                                                                                 1
+2044  chsurvf     02                                                                                 2
+2045  chsurvf     03                                                                                 3
+2046  chsurvf     04                                                                                 4
+2047  chsurvf     05                                                                                 5
+2048  chsurvf     06                                                                                 6
+2049  chsurvf     07                                                                                 7
+2050  chsurvf     08                                                                                 8
+2051  chsurvf     09                                                                                 9
 2052  chsurvf     10                                                                                10
 2053  chsurvf     11                                                                                11
 2054  chsurvf     12                                                                                12
@@ -3149,7 +3149,7 @@
 1073                                                                                 5
 1074                                                                                 6
 1075                                                                                7+
-1076                                                                             HHrec
+1076                                                                             hhrec
 1077                                                                                 1
 1078                                                                                 2
 1079                                                                                 3

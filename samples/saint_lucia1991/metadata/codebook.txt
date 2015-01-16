@@ -1,13 +1,13 @@
         vname code                                                                            short
-1        pern    1                                                                                1
-2        pern    2                                                                                2
-3        pern    3                                                                                3
-4        pern    4                                                                                4
-5        pern    5                                                                                5
-6        pern    6                                                                                6
-7        pern    7                                                                                7
-8        pern    8                                                                                8
-9        pern    9                                                                                9
+1        pern   01                                                                                1
+2        pern   02                                                                                2
+3        pern   03                                                                                3
+4        pern   04                                                                                4
+5        pern   05                                                                                5
+6        pern   06                                                                                6
+7        pern   07                                                                                7
+8        pern   08                                                                                8
+9        pern   09                                                                                9
 10       pern   10                                                                               10
 11       pern   11                                                                               11
 12       pern   12                                                                               12
@@ -112,32 +112,32 @@
 111     emign    1                                                                                1
 112     emign    2                                                                               2+
 113     emign    9                                                                              NIU
-114    pernum    0                                                                            HHrec
-115    pernum    1                                                                                1
-116    pernum    2                                                                                2
-117    pernum    3                                                                                3
-118    pernum    4                                                                                4
-119    pernum    5                                                                                5
-120    pernum    6                                                                                6
-121    pernum    7                                                                                7
-122    pernum    8                                                                                8
-123    pernum    9                                                                                9
+114    pernum   00                                                                            hhrec
+115    pernum   01                                                                                1
+116    pernum   02                                                                                2
+117    pernum   03                                                                                3
+118    pernum   04                                                                                4
+119    pernum   05                                                                                5
+120    pernum   06                                                                                6
+121    pernum   07                                                                                7
+122    pernum   08                                                                                8
+123    pernum   09                                                                                9
 124    pernum   10                                                                               10
 125    pernum   11                                                                               11
 126    pernum   12                                                                               12
 127    pernum   13                                                                               13
 128    pernum   14                                                                               14
 129    pernum   15                                                                               15
-130       age    0                                                                                0
-131       age    1                                                                                1
-132       age    2                                                                                2
-133       age    3                                                                                3
-134       age    4                                                                                4
-135       age    5                                                                                5
-136       age    6                                                                                6
-137       age    7                                                                                7
-138       age    8                                                                                8
-139       age    9                                                                                9
+130       age   00                                                                                0
+131       age   01                                                                                1
+132       age   02                                                                                2
+133       age   03                                                                                3
+134       age   04                                                                                4
+135       age   05                                                                                5
+136       age   06                                                                                6
+137       age   07                                                                                7
+138       age   08                                                                                8
+139       age   09                                                                                9
 140       age   10                                                                               10
 141       age   11                                                                               11
 142       age   12                                                                               12
@@ -319,19 +319,19 @@
 318   partner    2                                                                               No
 319   partner    8                                                                          Unknown
 320   partner    9                                                                              NIU
-321    ethnic    1                                                              African/Negro/Black
-322    ethnic    2                                                        American Indian/Caribbean
-323    ethnic    3                                                                      East Indian
-324    ethnic    7                                                                            White
-325    ethnic    8                                                                            Mixed
-326    ethnic    9                                                                            Other
+321    ethnic   01                                                              African/Negro/Black
+322    ethnic   02                                                        American Indian/Caribbean
+323    ethnic   03                                                                      East Indian
+324    ethnic   07                                                                            White
+325    ethnic   08                                                                            Mixed
+326    ethnic   09                                                                            Other
 327    ethnic   99                                                                          Unknown
-328     relig    1                                                                         Anglican
-329     relig    2                                                              Baptist (Spiritual)
-330     relig    4                                                                    Church of God
-331     relig    5                                                                  Jehovah Witness
-332     relig    6                                                                        Methodist
-333     relig    8                                                                      Pentecostal
+328     relig   01                                                                         Anglican
+329     relig   02                                                              Baptist (Spiritual)
+330     relig   04                                                                    Church of God
+331     relig   05                                                                  Jehovah Witness
+332     relig   06                                                                        Methodist
+333     relig   08                                                                      Pentecostal
 334     relig   10                                                                   Roman Catholic
 335     relig   12                                                            Seventh Day Adventist
 336     relig   15                                                                      Rastafarian
@@ -343,25 +343,25 @@
 342      bplc    1                                                                  In this country
 343      bplc    2                                                                           Abroad
 344      bplc    8                                                                          Unknown
-345       bpl    1                                                                    Castries city
-346       bpl    2                                                                Castries suburban
-347       bpl    3                                                                   Castries rural
-348       bpl    4                                                                     Anse-la-raye
-349       bpl    5                                                                         Canaries
-350       bpl    6                                                                        Soufriere
-351       bpl    7                                                                         Choiseul
-352       bpl    8                                                                          Laborie
-353       bpl    9                                                                       Vieux-fort
+345       bpl   01                                                                    Castries city
+346       bpl   02                                                                Castries suburban
+347       bpl   03                                                                   Castries rural
+348       bpl   04                                                                     Anse-la-raye
+349       bpl   05                                                                         Canaries
+350       bpl   06                                                                        Soufriere
+351       bpl   07                                                                         Choiseul
+352       bpl   08                                                                          Laborie
+353       bpl   09                                                                       Vieux-fort
 354       bpl   10                                                                           Micoud
 355       bpl   11                                                                          Dennery
 356       bpl   12                                                                       Gros-islet
 357       bpl   98                                                                          Unknown
 358       bpl   99                                                                              NIU
-359     ctry1    0                                                      Always lived in Saint Lucia
-360     ctry1    1                                                              Antigua and Barbuda
-361     ctry1    3                                                                         Barbados
-362     ctry1    4                                                                           Belize
-363     ctry1    9                                                                           Guyana
+359     ctry1   00                                                      Always lived in Saint Lucia
+360     ctry1   01                                                              Antigua and Barbuda
+361     ctry1   03                                                                         Barbados
+362     ctry1   04                                                                           Belize
+363     ctry1   09                                                                           Guyana
 364     ctry1   10                                                                          Jamaica
 365     ctry1   14                                                    St Vincent and the Grenadines
 366     ctry1   15                                                              Trinidad and Tobago
@@ -376,8 +376,8 @@
 375     ctry1   46                                                                    French Guyana
 376     ctry1   91                                                                  Other countries
 377     ctry1   98                                                                          Unknown
-378   bplctry    3                                                                         Barbados
-379   bplctry    9                                                                           Guyana
+378   bplctry   03                                                                         Barbados
+379   bplctry   09                                                                           Guyana
 380   bplctry   15                                                              Trinidad and Tobago
 381   bplctry   19                                         Other English Speaking Caribbean Islands
 382   bplctry   27                                                                       Martinique
@@ -393,16 +393,16 @@
 392     resus    3                                                                           Abroad
 393     resus    8                                                                          Unknown
 394     resus    9                                                                              NIU
-395   resprev    0                                                                      Never moved
-396   resprev    1                                                                    Castries city
-397   resprev    2                                                                Castries suburban
-398   resprev    3                                                                   Castries rural
-399   resprev    4                                                                     Anse-la-raye
-400   resprev    5                                                                         Canaries
-401   resprev    6                                                                        Soufriere
-402   resprev    7                                                                         Choiseul
-403   resprev    8                                                                          Laborie
-404   resprev    9                                                                       Vieux-fort
+395   resprev   00                                                                      Never moved
+396   resprev   01                                                                    Castries city
+397   resprev   02                                                                Castries suburban
+398   resprev   03                                                                   Castries rural
+399   resprev   04                                                                     Anse-la-raye
+400   resprev   05                                                                         Canaries
+401   resprev   06                                                                        Soufriere
+402   resprev   07                                                                         Choiseul
+403   resprev   08                                                                          Laborie
+404   resprev   09                                                                       Vieux-fort
 405   resprev   10                                                                           Micoud
 406   resprev   11                                                                          Dennery
 407   resprev   12                                                                       Gros-islet
@@ -457,15 +457,15 @@
 456    school    1                                                                              Yes
 457    school    2                                                                               No
 458    school    8                                                                          Unknown
-459    degree    1                                                                             None
-460    degree    2                                                                   School leaving
-461    degree    3                                                                        Cambridge
-462    degree    4                                                              O' level GCE or CXC
-463    degree    5                                                                     A' level GCE
-464    degree    6                                                                      High school
-465    degree    7                                                                          Diploma
-466    degree    8                                                                           Degree
-467    degree    9                                                                            Other
+459    degree   01                                                                             None
+460    degree   02                                                                   School leaving
+461    degree   03                                                                        Cambridge
+462    degree   04                                                              O' level GCE or CXC
+463    degree   05                                                                     A' level GCE
+464    degree   06                                                                      High school
+465    degree   07                                                                          Diploma
+466    degree   08                                                                           Degree
+467    degree   09                                                                            Other
 468    degree   98                                                                          Unknown
 469    degree   99                                                                              NIU
 470     edlev    1                                                                             None
@@ -476,14 +476,14 @@
 475     edlev    6                                                                       University
 476     edlev    7                                                                            Other
 477     edlev    8                                                                          Unknown
-478     schty    1                                                                   Nursery-infant
-479     schty    2                                                                          Primary
-480     schty    3                                                                    Senior school
-481     schty    4                                                                    Junior school
-482     schty    5                                                                 Secondary school
-483     schty    6                                                                     Trade school
-484     schty    8                                                                Community college
-485     schty    9                                                University or technical institute
+478     schty   01                                                                   Nursery-infant
+479     schty   02                                                                          Primary
+480     schty   03                                                                    Senior school
+481     schty   04                                                                    Junior school
+482     schty   05                                                                 Secondary school
+483     schty   06                                                                     Trade school
+484     schty   08                                                                Community college
+485     schty   09                                                University or technical institute
 486     schty   10                                                                            Other
 487     schty   98                                                                          Unknown
 488     schty   99                                                                              NIU
@@ -496,26 +496,26 @@
 495   edgrade    7                                                                 Seventh standard
 496   edgrade    8                                                                          Unknown
 497   edgrade    9                                                                              NIU
-498   empstat    1                                                                           Worked
-499   empstat    2                                                       Had a job but did not work
-500   empstat    3                                                                  Looked for work
-501   empstat    4                                                        Wanted work and available
-502   empstat    5                                                                      Home duties
-503   empstat    6                                                                  Attended school
-504   empstat    7                                                                          Retired
-505   empstat    8                                                                         Disabled
-506   empstat    9                                                                            Other
+498   empstat   01                                                                           Worked
+499   empstat   02                                                       Had a job but did not work
+500   empstat   03                                                                  Looked for work
+501   empstat   04                                                        Wanted work and available
+502   empstat   05                                                                      Home duties
+503   empstat   06                                                                  Attended school
+504   empstat   07                                                                          Retired
+505   empstat   08                                                                         Disabled
+506   empstat   09                                                                            Other
 507   empstat   98                                                                          Unknown
 508   empstat   99                                                                              NIU
-509 empstatyr    1                                                                           Worked
-510 empstatyr    2                                                       Had a job but did not work
-511 empstatyr    3                                                                  Looked for work
-512 empstatyr    4                                                                      Wanted work
-513 empstatyr    5                                                                      Home duties
-514 empstatyr    6                                                                  Attended school
-515 empstatyr    7                                                                          Retired
-516 empstatyr    8                                                                         Disabled
-517 empstatyr    9                                                                            Other
+509 empstatyr   01                                                                           Worked
+510 empstatyr   02                                                       Had a job but did not work
+511 empstatyr   03                                                                  Looked for work
+512 empstatyr   04                                                                      Wanted work
+513 empstatyr   05                                                                      Home duties
+514 empstatyr   06                                                                  Attended school
+515 empstatyr   07                                                                          Retired
+516 empstatyr   08                                                                         Disabled
+517 empstatyr   09                                                                            Other
 518 empstatyr   98                                                                          Unknown
 519 empstatyr   99                                                                              NIU
 520   classwk    1                                                        Paid employee, government
@@ -529,174 +529,174 @@
 528    worked    2                                                                               No
 529    worked    8                                                                          Unknown
 530    worked    9                                                                              NIU
-531    workhr    1                                                                                1
-532    workhr    2                                                                                2
-533    workhr    3                                                                                3
-534    workhr    4                                                                                4
-535    workhr    5                                                                                5
-536    workhr    6                                                                                6
-537    workhr    7                                                                                7
-538    workhr    8                                                                                8
-539    workhr    9                                                                                9
-540    workhr   10                                                                               10
-541    workhr   11                                                                               11
-542    workhr   12                                                                               12
-543    workhr   13                                                                               13
-544    workhr   14                                                                               14
-545    workhr   15                                                                               15
-546    workhr   16                                                                               16
-547    workhr   17                                                                               17
-548    workhr   18                                                                               18
-549    workhr   19                                                                               19
-550    workhr   20                                                                               20
-551    workhr   21                                                                               21
-552    workhr   22                                                                               22
-553    workhr   23                                                                               23
-554    workhr   24                                                                               24
-555    workhr   25                                                                               25
-556    workhr   26                                                                               26
-557    workhr   27                                                                               27
-558    workhr   28                                                                               28
-559    workhr   29                                                                               29
-560    workhr   30                                                                               30
-561    workhr   31                                                                               31
-562    workhr   32                                                                               32
-563    workhr   33                                                                               33
-564    workhr   34                                                                               34
-565    workhr   35                                                                               35
-566    workhr   36                                                                               36
-567    workhr   37                                                                               37
-568    workhr   38                                                                               38
-569    workhr   39                                                                               39
-570    workhr   40                                                                               40
-571    workhr   41                                                                               41
-572    workhr   42                                                                               42
-573    workhr   43                                                                               43
-574    workhr   44                                                                               44
-575    workhr   45                                                                               45
-576    workhr   46                                                                               46
-577    workhr   47                                                                               47
-578    workhr   48                                                                               48
-579    workhr   49                                                                               49
-580    workhr   50                                                                               50
-581    workhr   51                                                                               51
-582    workhr   52                                                                               52
-583    workhr   53                                                                               53
-584    workhr   54                                                                               54
-585    workhr   55                                                                               55
-586    workhr   56                                                                               56
-587    workhr   57                                                                               57
-588    workhr   58                                                                               58
-589    workhr   59                                                                               59
-590    workhr   60                                                                               60
-591    workhr   61                                                                               61
-592    workhr   62                                                                               62
-593    workhr   63                                                                               63
-594    workhr   64                                                                               64
-595    workhr   65                                                                               65
-596    workhr   66                                                                               66
-597    workhr   67                                                                               67
-598    workhr   68                                                                               68
-599    workhr   69                                                                               69
-600    workhr   70                                                                               70
-601    workhr   72                                                                               72
-602    workhr   73                                                                               73
-603    workhr   74                                                                               74
-604    workhr   75                                                                               75
-605    workhr   76                                                                               76
-606    workhr   77                                                                               77
-607    workhr   78                                                                               78
-608    workhr   79                                                                               79
-609    workhr   80                                                                               80
-610    workhr   81                                                                               81
-611    workhr   82                                                                               82
-612    workhr   83                                                                               83
-613    workhr   84                                                                               84
-614    workhr   85                                                                               85
-615    workhr   86                                                                               86
-616    workhr   87                                                                               87
-617    workhr   88                                                                               88
-618    workhr   90                                                                               90
-619    workhr   91                                                                               91
-620    workhr   95                                                                               95
+531    workhr  001                                                                                1
+532    workhr  002                                                                                2
+533    workhr  003                                                                                3
+534    workhr  004                                                                                4
+535    workhr  005                                                                                5
+536    workhr  006                                                                                6
+537    workhr  007                                                                                7
+538    workhr  008                                                                                8
+539    workhr  009                                                                                9
+540    workhr  010                                                                               10
+541    workhr  011                                                                               11
+542    workhr  012                                                                               12
+543    workhr  013                                                                               13
+544    workhr  014                                                                               14
+545    workhr  015                                                                               15
+546    workhr  016                                                                               16
+547    workhr  017                                                                               17
+548    workhr  018                                                                               18
+549    workhr  019                                                                               19
+550    workhr  020                                                                               20
+551    workhr  021                                                                               21
+552    workhr  022                                                                               22
+553    workhr  023                                                                               23
+554    workhr  024                                                                               24
+555    workhr  025                                                                               25
+556    workhr  026                                                                               26
+557    workhr  027                                                                               27
+558    workhr  028                                                                               28
+559    workhr  029                                                                               29
+560    workhr  030                                                                               30
+561    workhr  031                                                                               31
+562    workhr  032                                                                               32
+563    workhr  033                                                                               33
+564    workhr  034                                                                               34
+565    workhr  035                                                                               35
+566    workhr  036                                                                               36
+567    workhr  037                                                                               37
+568    workhr  038                                                                               38
+569    workhr  039                                                                               39
+570    workhr  040                                                                               40
+571    workhr  041                                                                               41
+572    workhr  042                                                                               42
+573    workhr  043                                                                               43
+574    workhr  044                                                                               44
+575    workhr  045                                                                               45
+576    workhr  046                                                                               46
+577    workhr  047                                                                               47
+578    workhr  048                                                                               48
+579    workhr  049                                                                               49
+580    workhr  050                                                                               50
+581    workhr  051                                                                               51
+582    workhr  052                                                                               52
+583    workhr  053                                                                               53
+584    workhr  054                                                                               54
+585    workhr  055                                                                               55
+586    workhr  056                                                                               56
+587    workhr  057                                                                               57
+588    workhr  058                                                                               58
+589    workhr  059                                                                               59
+590    workhr  060                                                                               60
+591    workhr  061                                                                               61
+592    workhr  062                                                                               62
+593    workhr  063                                                                               63
+594    workhr  064                                                                               64
+595    workhr  065                                                                               65
+596    workhr  066                                                                               66
+597    workhr  067                                                                               67
+598    workhr  068                                                                               68
+599    workhr  069                                                                               69
+600    workhr  070                                                                               70
+601    workhr  072                                                                               72
+602    workhr  073                                                                               73
+603    workhr  074                                                                               74
+604    workhr  075                                                                               75
+605    workhr  076                                                                               76
+606    workhr  077                                                                               77
+607    workhr  078                                                                               78
+608    workhr  079                                                                               79
+609    workhr  080                                                                               80
+610    workhr  081                                                                               81
+611    workhr  082                                                                               82
+612    workhr  083                                                                               83
+613    workhr  084                                                                               84
+614    workhr  085                                                                               85
+615    workhr  086                                                                               86
+616    workhr  087                                                                               87
+617    workhr  088                                                                               88
+618    workhr  090                                                                               90
+619    workhr  091                                                                               91
+620    workhr  095                                                                               95
 621    workhr  998                                                                          Unknown
 622    workhr  999                                                                              NIU
-623      ind3    1                                                Agriculture, hunting, and related
-624      ind3   15                                       Manufacture of food products and beverages
-625      ind3   18                                                   Manufacture of wearing apparel
-626      ind3   20                          Manufacture of wood and wood products, except furniture
-627      ind3   22                          Publishing, printing and reproduction of recorded media
-628      ind3   32                     Manufacture of radio, television and communication equipment
-629      ind3   36                                                         Manufacture of furniture
-630      ind3   39                                                       Other manufacturing n.e.c.
-631      ind3   40                                     Electricity, gas, steam and hot water supply
-632      ind3   41                               Collection, purification and distribution of water
-633      ind3   45                                                                     Construction
-634      ind3   50                                   Sale, maintenance and repair of motor vehicles
-635      ind3   51                      Wholesale trade and commission trade, except motor vehicles
-636      ind3   52                                           Retail trade, except of motor vehicles
-637      ind3   55                                                           Hotels and restaurants
-638      ind3   60                                                                   Land transport
-639      ind3   61                                                                  Water transport
-640      ind3   62                                                                    Air transport
-641      ind3   63                                    Supporting and auxiliary transport activities
-642      ind3   64                                                      Post and telecommunications
-643      ind3   65                   Financial intermediation, except insurance and pension funding
-644      ind3   66                 Insurance and pension funding, except compulsory social security
-645      ind3   74                                                        Other business activities
-646      ind3   75                                                Public administration and defense
-647      ind3   80                                                                        Education
-648      ind3   85                                                           Health and social work
-649      ind3   90                    Sewage and refuse disposal, sanitation and similar activities
-650      ind3   92                                   Recreational, cultural and sporting activities
-651      ind3   93                                                         Other service activities
-652      ind3   95                                         Private households with employed persons
-653      ind3   99                                       Other industries, not elsewhere classified
+623      ind3  001                                                Agriculture, hunting, and related
+624      ind3  015                                       Manufacture of food products and beverages
+625      ind3  018                                                   Manufacture of wearing apparel
+626      ind3  020                          Manufacture of wood and wood products, except furniture
+627      ind3  022                          Publishing, printing and reproduction of recorded media
+628      ind3  032                     Manufacture of radio, television and communication equipment
+629      ind3  036                                                         Manufacture of furniture
+630      ind3  039                                                       Other manufacturing n.e.c.
+631      ind3  040                                     Electricity, gas, steam and hot water supply
+632      ind3  041                               Collection, purification and distribution of water
+633      ind3  045                                                                     Construction
+634      ind3  050                                   Sale, maintenance and repair of motor vehicles
+635      ind3  051                      Wholesale trade and commission trade, except motor vehicles
+636      ind3  052                                           Retail trade, except of motor vehicles
+637      ind3  055                                                           Hotels and restaurants
+638      ind3  060                                                                   Land transport
+639      ind3  061                                                                  Water transport
+640      ind3  062                                                                    Air transport
+641      ind3  063                                    Supporting and auxiliary transport activities
+642      ind3  064                                                      Post and telecommunications
+643      ind3  065                   Financial intermediation, except insurance and pension funding
+644      ind3  066                 Insurance and pension funding, except compulsory social security
+645      ind3  074                                                        Other business activities
+646      ind3  075                                                Public administration and defense
+647      ind3  080                                                                        Education
+648      ind3  085                                                           Health and social work
+649      ind3  090                    Sewage and refuse disposal, sanitation and similar activities
+650      ind3  092                                   Recreational, cultural and sporting activities
+651      ind3  093                                                         Other service activities
+652      ind3  095                                         Private households with employed persons
+653      ind3  099                                       Other industries, not elsewhere classified
 654      ind3  998                                                                          Unknown
 655      ind3  999                                                                              NIU
 656   busmove    1                                                                              Yes
 657   busmove    2                                                                               No
 658   busmove    9                                                                              NIU
-659    workmo    1                                                                                1
-660    workmo    2                                                                                2
-661    workmo    3                                                                                3
-662    workmo    4                                                                                4
-663    workmo    5                                                                                5
-664    workmo    6                                                                                6
-665    workmo    7                                                                                7
-666    workmo    8                                                                                8
-667    workmo    9                                                                                9
+659    workmo   01                                                                                1
+660    workmo   02                                                                                2
+661    workmo   03                                                                                3
+662    workmo   04                                                                                4
+663    workmo   05                                                                                5
+664    workmo   06                                                                                6
+665    workmo   07                                                                                7
+666    workmo   08                                                                                8
+667    workmo   09                                                                                9
 668    workmo   10                                                                               10
 669    workmo   11                                                                               11
 670    workmo   12                                                                               12
 671    workmo   99                                                                              NIU
-672       occ   12                                                               Corporate managers
-673       occ   13                                                                 General managers
-674       occ   19                     Legislators, officials and managers, not elsewhere specified
-675       occ   21                     Physical, mathematical and engineering science professionals
-676       occ   23                                                           Teaching professionals
-677       occ   24                                                              Other professionals
-678       occ   31                         Physical and engineering science associate professionals
-679       occ   32                                  Life science and health associate professionals
-680       occ   33                                                 Teaching associate professionals
-681       occ   34                                                    Other associate professionals
-682       occ   41                                                                    Office clerks
-683       occ   42                                                          Customer service clerks
-684       occ   51                                          Personal and protective service workers
-685       occ   52                                           Models, salespersons and demonstrators
-686       occ   61                                 Market-oriented skilled agricultural and workers
-687       occ   64                                                                Aqua-farm workers
-688       occ   71                                           Extraction and building trades workers
-689       occ   72                                      Metal, machinery and related trades workers
-690       occ   73                       Precision, handicraft, printing and related trades workers
-691       occ   74                                           Other craft and related trades workers
-692       occ   82                                                 Machine operators and assemblers
-693       occ   83                                               Drivers and mobile-plant operators
-694       occ   91                                            Sales and services elementary workers
-695       occ   92                                       Agricultural, fishery and related laborers
-696       occ   93                    Laborers in mining, construction, manufacturing and transport
-697       occ   94                                                            Other laborers n.e.c.
-698       occ   99                                      Other occupations, not elsewhere classified
+672       occ  012                                                               Corporate managers
+673       occ  013                                                                 General managers
+674       occ  019                     Legislators, officials and managers, not elsewhere specified
+675       occ  021                     Physical, mathematical and engineering science professionals
+676       occ  023                                                           Teaching professionals
+677       occ  024                                                              Other professionals
+678       occ  031                         Physical and engineering science associate professionals
+679       occ  032                                  Life science and health associate professionals
+680       occ  033                                                 Teaching associate professionals
+681       occ  034                                                    Other associate professionals
+682       occ  041                                                                    Office clerks
+683       occ  042                                                          Customer service clerks
+684       occ  051                                          Personal and protective service workers
+685       occ  052                                           Models, salespersons and demonstrators
+686       occ  061                                 Market-oriented skilled agricultural and workers
+687       occ  064                                                                Aqua-farm workers
+688       occ  071                                           Extraction and building trades workers
+689       occ  072                                      Metal, machinery and related trades workers
+690       occ  073                       Precision, handicraft, printing and related trades workers
+691       occ  074                                           Other craft and related trades workers
+692       occ  082                                                 Machine operators and assemblers
+693       occ  083                                               Drivers and mobile-plant operators
+694       occ  091                                            Sales and services elementary workers
+695       occ  092                                       Agricultural, fishery and related laborers
+696       occ  093                    Laborers in mining, construction, manufacturing and transport
+697       occ  094                                                            Other laborers n.e.c.
+698       occ  099                                      Other occupations, not elsewhere classified
 699       occ  997                                             Occupations not adequately described
 700       occ  998                                                                          Unknown
 701       occ  999                                                                              NIU
@@ -749,16 +749,16 @@
 748  fertfilt    3                                                                    School female
 749  fertfilt    4                                                       Non-school female under 65
 750  fertfilt    9                                                                              NIU
-751    chborn    0                                                                                0
-752    chborn    1                                                                                1
-753    chborn    2                                                                                2
-754    chborn    3                                                                                3
-755    chborn    4                                                                                4
-756    chborn    5                                                                                5
-757    chborn    6                                                                                6
-758    chborn    7                                                                                7
-759    chborn    8                                                                                8
-760    chborn    9                                                                                9
+751    chborn   00                                                                                0
+752    chborn   01                                                                                1
+753    chborn   02                                                                                2
+754    chborn   03                                                                                3
+755    chborn   04                                                                                4
+756    chborn   05                                                                                5
+757    chborn   06                                                                                6
+758    chborn   07                                                                                7
+759    chborn   08                                                                                8
+760    chborn   09                                                                                9
 761    chborn   10                                                                               10
 762    chborn   11                                                                               11
 763    chborn   12                                                                              12+
@@ -912,7 +912,7 @@
 111                                                                                1
 112                                                                               2+
 113                                                                              NIU
-114                                                                            HHrec
+114                                                                            hhrec
 115                                                                                1
 116                                                                                2
 117                                                                                3

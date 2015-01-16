@@ -42,15 +42,15 @@
 41      emphd    3                                                                                 Economically inactive
 42      emphd    8                                                                                               Unknown
 43      emphd    9                                                                                                   NIU
-44    clwkhd1    1                                                         Employers and managers in large organisations
-45    clwkhd1    2                                                                                  Higher professionals
-46    clwkhd1    3                                                         Lower managerial and professional occupations
-47    clwkhd1    4                                                                              Intermediate occupations
-48    clwkhd1    5                                                               Small employers and own account workers
-49    clwkhd1    6                                                    Lower supervisory or craft and related occupations
-50    clwkhd1    7                                                                              Semi-routine occupations
-51    clwkhd1    8                                                                                   Routine occupations
-52    clwkhd1    9                                                                                          Never worked
+44    clwkhd1   01                                                         Employers and managers in large organisations
+45    clwkhd1   02                                                                                  Higher professionals
+46    clwkhd1   03                                                         Lower managerial and professional occupations
+47    clwkhd1   04                                                                              Intermediate occupations
+48    clwkhd1   05                                                               Small employers and own account workers
+49    clwkhd1   06                                                    Lower supervisory or craft and related occupations
+50    clwkhd1   07                                                                              Semi-routine occupations
+51    clwkhd1   08                                                                                   Routine occupations
+52    clwkhd1   09                                                                                          Never worked
 53    clwkhd1   10                                                                                  Long term unemployed
 54    clwkhd1   11                                                                                    Full time students
 55    clwkhd1   12                                                                               Other -- not classified
@@ -241,18 +241,18 @@
 240  qtenure2    1                                                                                               Imputed
 241    qdepch    0                                                                                           Not imputed
 242    qdepch    1                                                                                               Imputed
-243    pernum    0                                                                                                 HHrec
+243    pernum    0                                                                                                 hhrec
 244    pernum    1                                                                                                     1
-245       age    0                                                                                                     0
-246       age    1                                                                                                     1
-247       age    2                                                                                                     2
-248       age    3                                                                                                     3
-249       age    4                                                                                                     4
-250       age    5                                                                                                     5
-251       age    6                                                                                                     6
-252       age    7                                                                                                     7
-253       age    8                                                                                                     8
-254       age    9                                                                                                     9
+245       age   00                                                                                                     0
+246       age   01                                                                                                     1
+247       age   02                                                                                                     2
+248       age   03                                                                                                     3
+249       age   04                                                                                                     4
+250       age   05                                                                                                     5
+251       age   06                                                                                                     6
+252       age   07                                                                                                     7
+253       age   08                                                                                                     8
+254       age   09                                                                                                     9
 255       age   10                                                                                                    10
 256       age   11                                                                                                    11
 257       age   12                                                                                                    12
@@ -288,15 +288,15 @@
 287       age   93                                                                                                    93
 288       age   94                                                                                                    94
 289       age   95                                                                                                   95+
-290     bplco    1                                                                                               England
-291     bplco    2                                                                                              Scotland
-292     bplco    3                                                                                   Republic of Ireland
-293     bplco    4                                                                                             N Ireland
-294     bplco    5                                                                                                 Wales
-295     bplco    6                                                   UK part not specified (England, Wales and Scotland)
-296     bplco    7                                                   Ireland, part not specified (Northern Ireland only)
-297     bplco    8                                                                                        Western Europe
-298     bplco    9                                                                                        Eastern Europe
+290     bplco   01                                                                                               England
+291     bplco   02                                                                                              Scotland
+292     bplco   03                                                                                   Republic of Ireland
+293     bplco   04                                                                                             N Ireland
+294     bplco   05                                                                                                 Wales
+295     bplco   06                                                   UK part not specified (England, Wales and Scotland)
+296     bplco   07                                                   Ireland, part not specified (Northern Ireland only)
+297     bplco   08                                                                                        Western Europe
+298     bplco   09                                                                                        Eastern Europe
 299     bplco   10                                                                                                 India
 300     bplco   11                                                                               Pakistan and Bangladesh
 301     bplco   12                                                                                          Rest of Asia
@@ -314,42 +314,42 @@
 313     resco    2                                                                                              Scotland
 314     resco    3                                                                                                 Wales
 315     resco    4                                                                                      Northern Ireland
-316   migdist    1                                                                                                0-2 km
-317   migdist    2                                                                                                3-4 km
-318   migdist    3                                                                                                5-6 km
-319   migdist    4                                                                                                7-9 km
-320   migdist    5                                                                                              10-14 km
-321   migdist    6                                                                                              15-19 km
-322   migdist    7                                                                                              20-29 km
-323   migdist    8                                                                                              30-49 km
-324   migdist    9                                                                                              50-99 km
+316   migdist   01                                                                                                0-2 km
+317   migdist   02                                                                                                3-4 km
+318   migdist   03                                                                                                5-6 km
+319   migdist   04                                                                                                7-9 km
+320   migdist   05                                                                                              10-14 km
+321   migdist   06                                                                                              15-19 km
+322   migdist   07                                                                                              20-29 km
+323   migdist   08                                                                                              30-49 km
+324   migdist   09                                                                                              50-99 km
 325   migdist   10                                                                                            100-149 km
 326   migdist   11                                                                                           150 - 199km
 327   migdist   12                                                                                              200 + km
 328   migdist   13                                                                                       From outside UK
 329   migdist   98                                                 No usual address one year ago, distance moved unknown
 330   migdist   99                                                                                                   NIU
-331    wkdist    1                                                                                         Less than 2km
-332    wkdist    2                                                                                  2km to less than 5km
-333    wkdist    3                                                                                 5km to less than 10km
-334    wkdist    4                                                                                10km to less than 20km
-335    wkdist    5                                                                                20km to less than 40km
-336    wkdist    6                                                                                         40km and over
-337    wkdist    7                                                                                               At home
-338    wkdist    8                                                                                        No fixed place
-339    wkdist    9                                       England Scotland and Wales only : work outside GB but within UK
+331    wkdist   01                                                                                         Less than 2km
+332    wkdist   02                                                                                  2km to less than 5km
+333    wkdist   03                                                                                 5km to less than 10km
+334    wkdist   04                                                                                10km to less than 20km
+335    wkdist   05                                                                                20km to less than 40km
+336    wkdist   06                                                                                         40km and over
+337    wkdist   07                                                                                               At home
+338    wkdist   08                                                                                        No fixed place
+339    wkdist   09                                       England Scotland and Wales only : work outside GB but within UK
 340    wkdist   10                                                  Northern Ireland only: work outside NI but within UK
 341    wkdist   11                                                                                       Work outside UK
 342    wkdist   99                                                                                                   NIU
-343   empstat    1                                                                                    Employee part-time
-344   empstat    2                                                                                    Employee full-time
-345   empstat    3                                                              Self-employed with employees - part-time
-346   empstat    4                                                              Self-employed with employees - full-time
-347   empstat    5                                                           Self-employed without employees - part-time
-348   empstat    6                                                           Self-employed without employees - full-time
-349   empstat    7                                             Unemployed seeking work available to start within 2 weeks
-350   empstat    8                                          Unemployed waiting to start job already obtained and availab
-351   empstat    9                                                                                               Retired
+343   empstat   01                                                                                    Employee part-time
+344   empstat   02                                                                                    Employee full-time
+345   empstat   03                                                              Self-employed with employees - part-time
+346   empstat   04                                                              Self-employed with employees - full-time
+347   empstat   05                                                           Self-employed without employees - part-time
+348   empstat   06                                                           Self-employed without employees - full-time
+349   empstat   07                                             Unemployed seeking work available to start within 2 weeks
+350   empstat   08                                          Unemployed waiting to start job already obtained and availab
+351   empstat   09                                                                                               Retired
 352   empstat   10                                                                     Student (not economically active)
 353   empstat   11                                                                             Looking after home/family
 354   empstat   12                                                                          Permanently sick or disabled
@@ -359,15 +359,15 @@
 358    donorn    1                                                                                    Used as donor once
 359    donorn    2                                                                                   Used as donor twice
 360    donorn    3                                                                     Used as donor three or more times
-361   ethnicw    1                                                                                               British
-362   ethnicw    2                                                                                                 Irish
-363   ethnicw    3                                                                                           Other White
-364   ethnicw    4                                                                             White and Black Caribbean
-365   ethnicw    5                                                                               White and Black African
-366   ethnicw    6                                                                                       White and Asian
-367   ethnicw    7                                                                                           Other Mixed
-368   ethnicw    8                                                                                                Indian
-369   ethnicw    9                                                                                             Pakistani
+361   ethnicw   01                                                                                               British
+362   ethnicw   02                                                                                                 Irish
+363   ethnicw   03                                                                                           Other White
+364   ethnicw   04                                                                             White and Black Caribbean
+365   ethnicw   05                                                                               White and Black African
+366   ethnicw   06                                                                                       White and Asian
+367   ethnicw   07                                                                                           Other Mixed
+368   ethnicw   08                                                                                                Indian
+369   ethnicw   09                                                                                             Pakistani
 370   ethnicw   10                                                                                           Bangladeshi
 371   ethnicw   11                                                                                           Other Asian
 372   ethnicw   12                                                                                       Black Caribbean
@@ -379,15 +379,15 @@
 378   ethnicn    1                                                                                                 White
 379   ethnicn    2                                                                                    Other ethnic group
 380   ethnicn    9                                                                                                   NIU
-381   ethnics    1                                                                                        White Scottish
-382   ethnics    2                                                                                   Other white British
-383   ethnics    3                                                                                           White Irish
-384   ethnics    4                                                                                           Other white
-385   ethnics    5                                                                                  Any mixed background
-386   ethnics    6                                                                                                Indian
-387   ethnics    7                                                                                             Pakistani
-388   ethnics    8                                                                                           Bangladeshi
-389   ethnics    9                                                                                     Other South Asian
+381   ethnics   01                                                                                        White Scottish
+382   ethnics   02                                                                                   Other white British
+383   ethnics   03                                                                                           White Irish
+384   ethnics   04                                                                                           Other white
+385   ethnics   05                                                                                  Any mixed background
+386   ethnics   06                                                                                                Indian
+387   ethnics   07                                                                                             Pakistani
+388   ethnics   08                                                                                           Bangladeshi
+389   ethnics   09                                                                                     Other South Asian
 390   ethnics   10                                                                                             Caribbean
 391   ethnics   11                                                                                               African
 392   ethnics   12                                                                         Black Scottish or other black
@@ -414,15 +414,15 @@
 413    health    2                                                                                           Fairly good
 414    health    3                                                                                              Not good
 415    health    9                                                                                                   NIU
-416     wkhrs    1                                                                                                     1
-417     wkhrs    2                                                                                                     2
-418     wkhrs    3                                                                                                     3
-419     wkhrs    4                                                                                                     4
-420     wkhrs    5                                                                                                     5
-421     wkhrs    6                                                                                                     6
-422     wkhrs    7                                                                                                     7
-423     wkhrs    8                                                                                                     8
-424     wkhrs    9                                                                                                     9
+416     wkhrs   01                                                                                                     1
+417     wkhrs   02                                                                                                     2
+418     wkhrs   03                                                                                                     3
+419     wkhrs   04                                                                                                     4
+420     wkhrs   05                                                                                                     5
+421     wkhrs   06                                                                                                     6
+422     wkhrs   07                                                                                                     7
+423     wkhrs   08                                                                                                     8
+424     wkhrs   09                                                                                                     9
 425     wkhrs   10                                                                                                    10
 426     wkhrs   11                                                                                                    11
 427     wkhrs   12                                                                                                    12
@@ -501,15 +501,15 @@
 500    wkhrsg    4                                                                                                 38-48
 501    wkhrsg    5                                                                                                   49+
 502    wkhrsg    9                                                                                                   NIU
-503       ind    1                                                                     Agriculture, hunting and forestry
-504       ind    2                                                                                               Fishing
-505       ind    3                                                                                  Mining and quarrying
-506       ind    4                                                                                         Manufacturing
-507       ind    5                                                                     Electricity, gas and water supply
-508       ind    6                                                                                          Construction
-509       ind    7    Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods
-510       ind    8                                                                                Hotels and restaurants
-511       ind    9                                                                  Transport, storage and communication
+503       ind   01                                                                     Agriculture, hunting and forestry
+504       ind   02                                                                                               Fishing
+505       ind   03                                                                                  Mining and quarrying
+506       ind   04                                                                                         Manufacturing
+507       ind   05                                                                     Electricity, gas and water supply
+508       ind   06                                                                                          Construction
+509       ind   07    Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods
+510       ind   08                                                                                Hotels and restaurants
+511       ind   09                                                                  Transport, storage and communication
 512       ind   10                                                                              Financial intermediation
 513       ind   11                                                          Real estate, renting and business activities
 514       ind   12                                         Public Administration and Defense; Compulsory Social Security
@@ -524,27 +524,27 @@
 523     irish    1                                                                                 No knowledge of Irish
 524     irish    2                          Some knowledge of Irish (any combination of reads,speaks,understands,writes)
 525     irish    9                                                                                                   NIU
-526      isco    0                                                                                          Armed Forces
-527      isco    1                                                             Legislator, senior officials and managers
-528      isco    2                                                                                         Professionals
-529      isco    3                                                               Technicians and associate professionals
-530      isco    4                                                                                                Clerks
-531      isco    5                                                       Service works and shop and market sales workers
-532      isco    6                                                              Skilled agricultural and fishery workers
-533      isco    7                                                                      Craft and related trades workers
-534      isco    8                                                          Plant and machine operators and assembellers
-535      isco    9                                                                                Elementary occupations
+526      isco   00                                                                                          Armed Forces
+527      isco   01                                                             Legislator, senior officials and managers
+528      isco   02                                                                                         Professionals
+529      isco   03                                                               Technicians and associate professionals
+530      isco   04                                                                                                Clerks
+531      isco   05                                                       Service works and shop and market sales workers
+532      isco   06                                                              Skilled agricultural and fishery workers
+533      isco   07                                                                      Craft and related trades workers
+534      isco   08                                                          Plant and machine operators and assembellers
+535      isco   09                                                                                Elementary occupations
 536      isco   98                                                                                  Unknown/not reported
 537      isco   99                                                                                                   NIU
-538      wkyr    1                                                                                         In employment
-539      wkyr    2                                                                                          Never worked
-540      wkyr    3                                                                                   Last worked in 2001
-541      wkyr    4                                                                                   Last worked in 2000
-542      wkyr    5                                                                           Last worked in 1998 or 1999
-543      wkyr    6                                                                           Last worked in 1996 or 1997
-544      wkyr    7                                                                           Last worked in 1993 to 1995
-545      wkyr    8                                                                           Last worked in 1991 to 1992
-546      wkyr    9                                                                           Last worked in 1986 to 1990
+538      wkyr   01                                                                                         In employment
+539      wkyr   02                                                                                          Never worked
+540      wkyr   03                                                                                   Last worked in 2001
+541      wkyr   04                                                                                   Last worked in 2000
+542      wkyr   05                                                                           Last worked in 1998 or 1999
+543      wkyr   06                                                                           Last worked in 1996 or 1997
+544      wkyr   07                                                                           Last worked in 1993 to 1995
+545      wkyr   08                                                                           Last worked in 1991 to 1992
+546      wkyr   09                                                                           Last worked in 1986 to 1990
 547      wkyr   10                                                                           Last worked in 1981 to 1985
 548      wkyr   11                                                                               Last worked before 1981
 549      wkyr   99                                                                                                   NIU
@@ -557,9 +557,9 @@
 556     marst    4                                                                 Separated (but still legally married)
 557     marst    5                                                                                              Divorced
 558     marst    6                                                                                               Widowed
-559   resform    1                                                                               Same address 1 year ago
-560   resform    2                                                                                      No usual address
-561   resform    3                                                                               Migrant from outside UK
+559   resform  001                                                                               Same address 1 year ago
+560   resform  002                                                                                      No usual address
+561   resform  003                                                                               Migrant from outside UK
 562   resform  101                                                                                            North East
 563   resform  102                                                                                            North West
 564   resform  103                                                                              Yorkshire and the Humber
@@ -612,25 +612,25 @@
 611    resreg  111                                                                                              Scotland
 612    resreg  112                                                                                                 Wales
 613    resreg  113                                                                                      Northern Ireland
-614    relige    1                                                                                             Christian
-615    relige    2                                                                                              Buddhist
-616    relige    3                                                                                                 Hindu
-617    relige    4                                                                                                Jewish
-618    relige    5                                                                                                Muslim
-619    relige    6                                                                                                  Sikh
-620    relige    7                                                                                        Other religion
-621    relige    8                                                                                           No religion
-622    relige    9                                                                                               Unknown
+614    relige   01                                                                                             Christian
+615    relige   02                                                                                              Buddhist
+616    relige   03                                                                                                 Hindu
+617    relige   04                                                                                                Jewish
+618    relige   05                                                                                                Muslim
+619    relige   06                                                                                                  Sikh
+620    relige   07                                                                                        Other religion
+621    relige   08                                                                                           No religion
+622    relige   09                                                                                               Unknown
 623    relige   99                                                                                                   NIU
-624    religs    1                                                                                                  None
-625    religs    2                                                                                    Church of Scotland
-626    religs    3                                                                                        Roman Catholic
-627    religs    4                                                                                       Other Christian
-628    religs    5                                                                                              Buddhist
-629    religs    6                                                                                                 Hindu
-630    religs    7                                                                                                Jewish
-631    religs    8                                                                                                Muslim
-632    religs    9                                                                                                  Sikh
+624    religs   01                                                                                                  None
+625    religs   02                                                                                    Church of Scotland
+626    religs   03                                                                                        Roman Catholic
+627    religs   04                                                                                       Other Christian
+628    religs   05                                                                                              Buddhist
+629    religs   06                                                                                                 Hindu
+630    religs   07                                                                                                Jewish
+631    religs   08                                                                                                Muslim
+632    religs   09                                                                                                  Sikh
 633    religs   10                                                                                                 Other
 634    religs   98                                                                                               Unknown
 635    religs   99                                                                                                   NIU
@@ -642,15 +642,15 @@
 641    relign    6                                                                      Other Religions and Philosophies
 642    relign    7                                                                                   No religion/unknown
 643    relign    9                                                                                                   NIU
-644    relate    1                                                                            Household reference person
-645    relate    2                                                                                       Husband or wife
-646    relate    3                                                                                               Partner
-647    relate    4                                                                                       Son or daughter
-648    relate    5                                                                                            Step-child
-649    relate    6                                                                                     Brother or sister
-650    relate    7                                                                                      Mother or father
-651    relate    8                                                                            Step-mother or step-father
-652    relate    9                                                                                            Grandchild
+644    relate   01                                                                            Household reference person
+645    relate   02                                                                                       Husband or wife
+646    relate   03                                                                                               Partner
+647    relate   04                                                                                       Son or daughter
+648    relate   05                                                                                            Step-child
+649    relate   06                                                                                     Brother or sister
+650    relate   07                                                                                      Mother or father
+651    relate   08                                                                            Step-mother or step-father
+652    relate   09                                                                                            Grandchild
 653    relate   10                                                                                           Grandparent
 654    relate   11                                                                                         Other related
 655    relate   12                                                                                             Unrelated
@@ -779,15 +779,15 @@
 778  resstud1    4                                                                                  Student living alone
 779  resstud1    5                                                                                  Other household type
 780  resstud1    9                                                                                                   NIU
-781    wktran    1                                                                           Work mainly at or from home
-782    wktran    2 Underground metro light rail(England Wales and Scotland) or tram(England and Wales) or tube(Scotland)
-783    wktran    3                                                                                                 Train
-784    wktran    4                                                                                  Bus minibus or coach
-785    wktran    5                                                                          Motor cycle scooter or moped
-786    wktran    6                                                                                  Driving a car or van
-787    wktran    7                                                                             Passenger in a car or van
-788    wktran    8                                                                                       Taxi or minicab
-789    wktran    9                                                                                               Bicycle
+781    wktran   01                                                                           Work mainly at or from home
+782    wktran   02 Underground metro light rail(England Wales and Scotland) or tram(England and Wales) or tube(Scotland)
+783    wktran   03                                                                                                 Train
+784    wktran   04                                                                                  Bus minibus or coach
+785    wktran   05                                                                          Motor cycle scooter or moped
+786    wktran   06                                                                                  Driving a car or van
+787    wktran   07                                                                             Passenger in a car or van
+788    wktran   08                                                                                       Taxi or minicab
+789    wktran   09                                                                                               Bicycle
 790    wktran   10                                                                                               On foot
 791    wktran   11                                                                                                 Other
 792    wktran   12                                                                Car or van pool for North Ireland only
@@ -1168,7 +1168,7 @@
 240                                                                                               Imputed
 241                                                                                           Not imputed
 242                                                                                               Imputed
-243                                                                                                 HHrec
+243                                                                                                 hhrec
 244                                                                                                     1
 245                                                                                                     0
 246                                                                                                     1
